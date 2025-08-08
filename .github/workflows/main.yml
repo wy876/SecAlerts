@@ -44,7 +44,7 @@ jobs:
 
       # 第三步：安装 Python 依赖库
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests
 
       # 第四步：运行你的主脚本来生成 HTML 文件
       - name: Run script to generate pages
