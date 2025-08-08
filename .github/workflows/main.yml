@@ -1,0 +1,74 @@
+# 工作流名称
+name: Build and Deploy Security Articles
+
+# 触发工作流的事件
+on:
+  # 1. 当代码推送到 main 分支时触发
+  push:
+    branches:
+      - main
+
+  # 2. 允许你手动在 Actions 页面点击按钮触发
+  workflow_dispatch:
+
+  # 3. 定时触发 (每天北京时间早上 8 点运行)
+  # cron 语法使用 UTC 时间，'0 0 * * *' 代表 UTC 时间的 0 点，即北京时间早上 8 点。
+  schedule:
+      # '*/30 * * * *' 表示每隔 30 分钟执行一次
+      # 例如：在每小时的 0 分、30 分时运行
+      - cron: '*/30 * * * *'
+# 工作流任务
+jobs:
+  build-and-deploy:
+    # 运行环境
+    runs-on: ubuntu-latest
+
+    # 为工作流设置权限，这是部署到 GitHub Pages 所必需的
+    permissions:
+      contents: write # 允许检出代码和提交 archive 目录的更改
+      pages: write      # 允许部署到 GitHub Pages
+      id-token: write   # 允许 OIDC 认证
+
+    # 任务步骤
+    steps:
+      # 第一步：检出你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第二步：设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 你可以指定需要的 Python 版本
+          cache: 'pip' # 缓存依赖项，加快后续构建速度
+
+      # 第三步：安装 Python 依赖库
+      - name: Install dependencies
+        run: pip install requests
+
+      # 第四步：运行你的主脚本来生成 HTML 文件
+      - name: Run script to generate pages
+        run: python main.py
+
+      # (可选，但强烈推荐) 第五步：将更新后的 archive 目录提交回仓库
+      - name: Commit and push updated archive
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          # -A 表示添加所有更改（包括新增和删除的文件）
+          git add -A archive/ 
+          # 使用 'git diff --staged --quiet' 检查是否有暂存的更改
+          # '||' 表示如果前一个命令失败（即有更改），则执行后续命令
+          git diff --staged --quiet || (git commit -m "Automated update of archive data" && git push)
+        
+      # 第六步：打包生成的静态文件以供部署
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 上传当前目录下的所有文件 (包括 index.html 和 archive.html)
+          path: '.'
+
+      # 第七步：部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
