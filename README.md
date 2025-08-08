@@ -10,3 +10,6 @@
 - 从GitHub Issues中提取的公众号链接
 ## 内容筛选规则
 系统会自动识别包含以下关键词的文章： 复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行
+
+## 原版工具
+https://github.com/4ESTSEC/wxvl
