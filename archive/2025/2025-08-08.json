@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485286&idx=1&sn=374b9b1586983792b9dba3e84ad924d2",
         "source": "Doonsec",
         "date_added": "2025-08-08"
+    },
+    {
+        "title": "【高危漏洞预警】Jenkins Git Parameter远程命令执行漏洞CVE-2025-53652",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
     }
 ]
