@@ -1,0 +1,314 @@
+[
+    {
+        "title": "] [jeecg-boot getDictItemsByTable接口存在SQL注入漏洞CVE-2024-48307 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488857&idx=1&sn=3f35d255da58b400fcfb36504529a426",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【已复现】金和OA TaskCreate.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484086&idx=1&sn=a20516e04e0e843669a9485a1c0c564f",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [黑客工具 | jeecg综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522524&idx=1&sn=83c9836d881713c6dc45c3cbce2056d9",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【高危漏洞预警】React Native Bottom Tabs任意代码执行漏洞CVE-2025-54594",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490560&idx=1&sn=e908e0ac9513290f60205ff8cf445a18",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【工具】NacosExploit：Nacos 漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490744&idx=1&sn=e58e393073bcad5caadcbcaabeb750ee",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [PHP、Java、JavaScrip、python反序列化漏洞大盘点--Java漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484679&idx=1&sn=91bd4c1f2b100a5088fd863d6270d3d3",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [Amp Code：通过Prompt Injection实现任意命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247484926&idx=1&sn=f3b9683ec3da3fb73187bc542aa7fa0f",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [1Panel未授权RCE漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522559&idx=1&sn=de562d4da857c5a0c3fca3fda205e83d",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [实战攻防中的50条代码审计技巧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484418&idx=1&sn=91916954a40d97c8a826aa00bb325f94",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [黑客工具 | xxl-job漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522491&idx=1&sn=870ce59f49f5e77e75aec2fc78775615",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [安卓高危漏洞紧急修复！谷歌8月更新修复两个已被利用的高通GPU漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488442&idx=1&sn=2c7bec333a187af4b1dcd506d225cbfb",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Dell百万笔记本重大漏洞：恶意攻击者可永久控制设备并窃取生物识别数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=1&sn=2ec7f4a87b9894bfaf527ef0e14e2ec7",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [20W+漏洞赏金实录：499元课程如何批量制造“万元户”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325894&idx=2&sn=a959e80e76fb1a1893f6c6726348c341",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [模型上下文协议(MCP)十大安全漏洞解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325894&idx=3&sn=7a69a9e819b4bd1ec662397d1cbbcf02",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【已复现】Cursor 远程代码执行漏洞(CVE-2025-54135)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [Adobe 紧急修复 AEM Forms 中的两个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=2&sn=107431463b8a59e595bc603cdfbdaa98",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-54135）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [手机平板等你挖！荣耀 “秋天的第一个漏洞” 活动开启",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598044&idx=2&sn=a0956ad09255348c0b1ff93e832ed545",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [ViewState 演化简史，从结构性缺陷到触发RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [英伟达深夜再发文：芯片没有后门、终止开关和监控软件；戴尔上百款笔记本曝严重安全漏洞，可被植入持久性后门 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138243&idx=2&sn=5e4dfe20da737ef445093a70b963ac3b",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【工具】NacosExploit：Nacos 漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490744&idx=1&sn=e58e393073bcad5caadcbcaabeb750ee",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [CTEM、ASM与漏洞管理，三者有何区别？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539786&idx=1&sn=0cc242f706003fbe4eeebd0a02ff1bbb",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Dell百万笔记本重大漏洞：恶意攻击者可永久控制设备并窃取生物识别数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=1&sn=2ec7f4a87b9894bfaf527ef0e14e2ec7",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Trend Micro Apex One 关键 RCE 漏洞遭在野利用，企业需紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [V8中WASM类型混淆漏洞CVE-2024-2887的来龙去脉",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727849788&idx=1&sn=d3d3013732b7deda933d294d5c0bc55d",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [XCon2025议题||基于YASA的智能代码审计能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584165&idx=2&sn=0e9bcd60800a278f4e9286f6eccbbb1c",
+        "source": "ChainReactors",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [jeecg-boot getDictItemsByTable接口存在SQL注入漏洞CVE-2024-48307 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488857&idx=1&sn=3f35d255da58b400fcfb36504529a426",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【已复现】金和OA TaskCreate.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484086&idx=1&sn=a20516e04e0e843669a9485a1c0c564f",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [黑客工具 | jeecg综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522524&idx=1&sn=83c9836d881713c6dc45c3cbce2056d9",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【高危漏洞预警】React Native Bottom Tabs任意代码执行漏洞CVE-2025-54594",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490560&idx=1&sn=e908e0ac9513290f60205ff8cf445a18",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【工具】NacosExploit：Nacos 漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490744&idx=1&sn=e58e393073bcad5caadcbcaabeb750ee",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [PHP、Java、JavaScrip、python反序列化漏洞大盘点--Java漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484679&idx=1&sn=91bd4c1f2b100a5088fd863d6270d3d3",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [Amp Code：通过Prompt Injection实现任意命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247484926&idx=1&sn=f3b9683ec3da3fb73187bc542aa7fa0f",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [1Panel未授权RCE漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522559&idx=1&sn=de562d4da857c5a0c3fca3fda205e83d",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [实战攻防中的50条代码审计技巧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484418&idx=1&sn=91916954a40d97c8a826aa00bb325f94",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [黑客工具 | xxl-job漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522491&idx=1&sn=870ce59f49f5e77e75aec2fc78775615",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [安卓高危漏洞紧急修复！谷歌8月更新修复两个已被利用的高通GPU漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488442&idx=1&sn=2c7bec333a187af4b1dcd506d225cbfb",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Dell百万笔记本重大漏洞：恶意攻击者可永久控制设备并窃取生物识别数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=1&sn=2ec7f4a87b9894bfaf527ef0e14e2ec7",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [20W+漏洞赏金实录：499元课程如何批量制造“万元户”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325894&idx=2&sn=a959e80e76fb1a1893f6c6726348c341",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [模型上下文协议(MCP)十大安全漏洞解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325894&idx=3&sn=7a69a9e819b4bd1ec662397d1cbbcf02",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-54135）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [Adobe 紧急修复 AEM Forms 中的两个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=2&sn=107431463b8a59e595bc603cdfbdaa98",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [手机平板等你挖！荣耀 “秋天的第一个漏洞” 活动开启",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598044&idx=2&sn=a0956ad09255348c0b1ff93e832ed545",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [ViewState 演化简史，从结构性缺陷到触发RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [CTEM、ASM与漏洞管理，三者有何区别？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539786&idx=1&sn=0cc242f706003fbe4eeebd0a02ff1bbb",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Dell百万笔记本重大漏洞：恶意攻击者可永久控制设备并窃取生物识别数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=1&sn=2ec7f4a87b9894bfaf527ef0e14e2ec7",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【安全圈】Trend Micro Apex One 关键 RCE 漏洞遭在野利用，企业需紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [英伟达深夜再发文：芯片没有后门、终止开关和监控软件；戴尔上百款笔记本曝严重安全漏洞，可被植入持久性后门 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138243&idx=2&sn=5e4dfe20da737ef445093a70b963ac3b",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【已复现】Cursor 远程代码执行漏洞(CVE-2025-54135)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [XCon2025议题||基于YASA的智能代码审计能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584165&idx=2&sn=0e9bcd60800a278f4e9286f6eccbbb1c",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [【工具】NacosExploit：Nacos 漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490744&idx=1&sn=e58e393073bcad5caadcbcaabeb750ee",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    },
+    {
+        "title": "] [V8中WASM类型混淆漏洞CVE-2024-2887的来龙去脉",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727849788&idx=1&sn=d3d3013732b7deda933d294d5c0bc55d",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-07"
+    }
+]
