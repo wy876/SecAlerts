@@ -28,5 +28,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "股价一年暴涨600%，这家安全公司扬言重塑全球秩序|思科：身份服务引擎中存在严重的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611747&idx=1&sn=abcd7943875cae102550cb640a3fd141",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "CTEM、ASM与漏洞管理，三者有何区别？|英伟达深夜再发文：芯片没有后门、终止开关和监控软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611747&idx=2&sn=55829972de81c2cac63cf9ef037495c5",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "【渗透测试】开局一个登录框，破解验签防篡改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611747&idx=3&sn=19219d28cb558f90504ab77ff52c6725",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "最新用友NC漏洞批量检测工具，支持POC显示、单一检测、批量检测、结果导出、AI交互等",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611747&idx=4&sn=38b788772f29a8ae2f9d4bc3acb6a028",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "【安全资讯】45分钟修复 1漏洞！AIxCC大赛冠军狂揽 400万美金！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494506&idx=1&sn=80de630c1bf02b27ec661bf997a555fa",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "某项目PHP代码审计到前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492777&idx=1&sn=2e6860b4a78cb4c806b6ee5a004ea7cb",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
