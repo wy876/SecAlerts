@@ -121,6 +121,36 @@ def get_doonsec_articles():
         print(f"[-] 解析 Doonsec RSS 失败: {e}")
         return []
 
+def get_mrxn_articles():
+    """从 MRXN RSS 获取最新安全文章"""
+    rss_url = 'https://mrxn.net/rss.php'
+    headers = {'user-agent': 'Mozilla/5.0'}
+    print(f"[*] 正在从 MRXN RSS 获取最新文章...")
+    response = robust_get(rss_url, headers)
+    if not response: return []
+
+    articles = []
+    # MRXN 的文章标题质量较高，可以直接使用，无需关键词过滤，以收录更全面的内容
+    # 如果需要过滤，可以取消下面这行注释
+    # keyword_pattern = r'(复现|漏洞|CVE-\d+|CNVD-\d+|POC|EXP|RCE|代码执行|命令执行|代码审计|渗透)'
+    try:
+        response.encoding = response.apparent_encoding
+        root = ET.fromstring(response.text)
+        for item in root.findall('./channel/item'):
+            title = (item.findtext('title') or '').strip()
+            link = (item.findtext('link') or '').strip()
+
+            # MRXN 的链接多样，不需要过滤微信链接，只要标题和链接存在即可
+            if title and link:
+                # if re.search(keyword_pattern, title, re.I): # 如果需要过滤，取消此行注释
+                articles.append({'title': title, 'url': link, 'source': 'MRXN'})
+
+        print(f"[+] 成功从 MRXN RSS 解析到 {len(articles)} 篇文章链接。")
+        return articles
+    except Exception as e:
+        print(f"[-] 解析 MRXN RSS 失败: {e}")
+        return []
+
 def get_issue_articles():
     file_path = os.getenv('ISSUE_CONTENT_PATH', '/tmp/issue_content.txt')
     articles = []
@@ -401,8 +431,10 @@ def main():
     if task == 'today':
         fetched_articles.extend(get_chainreactors_articles(target_date_str))
         fetched_articles.extend(get_BruceFeIix_articles(target_date_str))
+        
         if target_date_str == datetime.datetime.now().strftime("%Y-%m-%d"):
              fetched_articles.extend(get_doonsec_articles())
+             fetched_articles.extend(get_mrxn_articles())
     elif task == 'issue':
         fetched_articles.extend(get_issue_articles())
     
