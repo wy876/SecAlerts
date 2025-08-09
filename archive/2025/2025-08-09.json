@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490460&idx=2&sn=fe9bf2a1ec6f847d706e6eeda4dccb34",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
