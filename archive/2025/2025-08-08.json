@@ -244,5 +244,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600",
         "source": "Doonsec",
         "date_added": "2025-08-08"
+    },
+    {
+        "title": "NextCyber学习记录—CVE-2021-21311复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487680&idx=1&sn=4f22aa55943349ed5855123153cb92ec",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
+    },
+    {
+        "title": "JavaSecLab 综合Java漏洞平台搭建",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484556&idx=1&sn=6a5389ac78e85496238da08e1409ed8a",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
+    },
+    {
+        "title": "红队必备！TscanPlus 正版Key免费送激活码，2300+POC全解锁！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493684&idx=1&sn=cfb0e1ee45715b84e11ab2be5255725f",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
+    },
+    {
+        "title": "哪些网络安全漏洞难以修复，该怎么办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485766&idx=1&sn=144b66f29635a0cbecdd374e930744e4",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
+    },
+    {
+        "title": "空白页面引起的高危src漏洞-再次绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
+    },
+    {
+        "title": "NET语言代码审计获取CNVD",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485464&idx=1&sn=06b190194c6142b604333fb2a4211091",
+        "source": "Doonsec",
+        "date_added": "2025-08-08"
     }
 ]
