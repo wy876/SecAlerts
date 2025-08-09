@@ -64,5 +64,89 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492777&idx=1&sn=2e6860b4a78cb4c806b6ee5a004ea7cb",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [ISC2董事会选举结果公布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493029&idx=1&sn=0cd8cfef94bca867205aa63a5ef73a39",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [玄武在BlackHat USA揭示劫持智能体达成RCE的新方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960176&idx=1&sn=52d71cd523fb366fdd6f880a381990b0",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [速修复！Exchange Server新高危漏洞可用于提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523765&idx=1&sn=21f30d2ddf03cfb189da78719e99ede7",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [Cursor 远程代码执行漏洞简报（CVE-2025-54135）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510698&idx=1&sn=97a6e70a14750a7c67aadf8bcc521305",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500255&idx=2&sn=c7840e239ad62040a6d070eb55052f17",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [【已复现】Jenkins Git Parameter 远程命令执行漏洞(CVE-2025-53652)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503763&idx=1&sn=cf0b071b6e7de36e6b60efe640b9f8bf",
+        "source": "ChainReactors",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [ISC2董事会选举结果公布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493029&idx=1&sn=0cd8cfef94bca867205aa63a5ef73a39",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [玄武在BlackHat USA揭示劫持智能体达成RCE的新方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960176&idx=1&sn=52d71cd523fb366fdd6f880a381990b0",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [【已复现】Jenkins Git Parameter 远程命令执行漏洞(CVE-2025-53652)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503763&idx=1&sn=cf0b071b6e7de36e6b60efe640b9f8bf",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [速修复！Exchange Server新高危漏洞可用于提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523765&idx=1&sn=21f30d2ddf03cfb189da78719e99ede7",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [Cursor 远程代码执行漏洞简报（CVE-2025-54135）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510698&idx=1&sn=97a6e70a14750a7c67aadf8bcc521305",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "] [国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500255&idx=2&sn=c7840e239ad62040a6d070eb55052f17",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "【一周安全资讯0809】《网络安全技术 网络安全运维实施指南》等7项网络安全国家标准获批发布；戴尔上百款笔记本曝严重安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507790&idx=1&sn=c11fa1a7d7ac03eddfc1fbb6dbcad8d5",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "45分钟修复 1漏洞！冠军400万美金！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522642&idx=1&sn=942e4b42c67643cf5f370fc4897ad3ff",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
