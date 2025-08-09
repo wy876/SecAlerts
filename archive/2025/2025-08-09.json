@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "通过挖掘隐藏参数到命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "免费分享 | 使用Kali进行AD域渗透教程分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247484857&idx=1&sn=e9ac90b991c285c885989bc198a58ac8",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "SRC漏洞挖掘培训第四期来袭—小白也能学！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
