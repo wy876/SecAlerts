@@ -124,7 +124,13 @@ def get_doonsec_articles():
 def get_mrxn_articles():
     """从 MRXN RSS 获取最新安全文章"""
     rss_url = 'https://mrxn.net/rss.php'
-    headers = {'user-agent': 'Mozilla/5.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+        'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+    }
     print(f"[*] 正在从 MRXN RSS 获取最新文章...")
     response = robust_get(rss_url, headers)
     if not response: return []
