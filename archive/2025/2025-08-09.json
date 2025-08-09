@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "NextCyber学习记录—CVE-2021-43008复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
