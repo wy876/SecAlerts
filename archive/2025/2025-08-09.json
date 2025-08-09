@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDY4MDEyMA==&mid=2247484513&idx=1&sn=ed633553d150c10410d9374ff7e4da55",
         "source": "Doonsec",
         "date_added": "2025-08-09"
+    },
+    {
+        "title": "【严重】用友-U8渠道管理高级版存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485830&idx=1&sn=365d1ebf993a16d281c1fb7f571d7a69",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
+    },
+    {
+        "title": "RCE漏洞（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd",
+        "source": "Doonsec",
+        "date_added": "2025-08-09"
     }
 ]
