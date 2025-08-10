@@ -34,5 +34,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040",
         "source": "Doonsec",
         "date_added": "2025-08-10"
+    },
+    {
+        "title": "Hacking Team被渗透全过程的技术细节分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486532&idx=1&sn=0b2201f9d0e8228791434a186322e1f1",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
+    },
+    {
+        "title": "XSS 钓鱼与文件上传漏洞全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
     }
 ]
