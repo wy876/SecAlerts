@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861",
         "source": "Doonsec",
         "date_added": "2025-08-10"
+    },
+    {
+        "title": "通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
     }
 ]
