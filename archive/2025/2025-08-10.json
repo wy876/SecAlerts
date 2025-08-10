@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8",
         "source": "Doonsec",
         "date_added": "2025-08-10"
+    },
+    {
+        "title": "【渗透测试】前端加密请求包和响应包后的SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
     }
 ]
