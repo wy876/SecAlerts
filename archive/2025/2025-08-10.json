@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425",
         "source": "Doonsec",
         "date_added": "2025-08-10"
+    },
+    {
+        "title": "黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
+    },
+    {
+        "title": "JWT安全漏洞攻防指南JSON Web Token (JWT) 渗透技巧总结|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
     }
 ]
