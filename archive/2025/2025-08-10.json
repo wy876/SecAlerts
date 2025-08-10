@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247484474&idx=1&sn=196bb9487fe6f9df834a84f650945383",
         "source": "Doonsec",
         "date_added": "2025-08-10"
+    },
+    {
+        "title": "新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f",
+        "source": "Doonsec",
+        "date_added": "2025-08-10"
     }
 ]
