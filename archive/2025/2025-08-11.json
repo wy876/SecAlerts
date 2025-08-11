@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535964&idx=6&sn=f08e12eac1ff5f9cb430171494e4dd25",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "账户操控漏洞实战全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490282&idx=1&sn=b5a70fa40b01aaad38a51da490b3f08e",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "【1Day分析】天锐绿盾审批系统uploadWxFile任意文件上传代码分析复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492895&idx=1&sn=8c2b6f1bb126f5a7afbcc70ccde715bf",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
