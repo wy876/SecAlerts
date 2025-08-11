@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517122&idx=1&sn=cba4940f18f12c96ad9a045ece53ea94",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "某数AnyShare智能内容管理平台 start_service 存在远程命令执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494706&idx=1&sn=ffbbbbb507ea08e3825bcf6467564f9b",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
