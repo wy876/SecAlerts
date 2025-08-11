@@ -130,5 +130,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492895&idx=1&sn=8c2b6f1bb126f5a7afbcc70ccde715bf",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第30期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496213&idx=1&sn=4f18303591ad20120bf0bb77a60cf801",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250804-20250810)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496213&idx=2&sn=51a77ac2248dc327d0b5184f5b7b1442",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "从菜鸟到黑客，账户操控漏洞全揭秘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555676&idx=2&sn=04dbe067b52a936df8470b62e948ab0d",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "自动化 XSS 漏洞挖掘的艺术实践（一）：高效优雅的爬虫实现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484757&idx=1&sn=cae3b6657e56863bd9acc35e04cee112",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "H1上15000美元奖励的一个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498025&idx=1&sn=c6221ce014576cac8edd8a4db67ae347",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "微软2025财年发放了超1.2亿元漏洞赏金，单个漏洞最高奖励143万元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514820&idx=1&sn=3d427152300194dd252c1c51ba218fb7",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
