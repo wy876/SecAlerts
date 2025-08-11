@@ -232,5 +232,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501136&idx=1&sn=c45155ff374b39bae01af16a9c19943f",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "大华智能物联管理平台evo-runs/v1.0/push和evo-runs/v1.0/receive接口存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
