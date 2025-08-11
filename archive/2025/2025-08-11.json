@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504793&idx=1&sn=4f5b6715aa610240632cfb96e2b92fc2",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "src | 奇怪的任意用户重置密码组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "BypassUAC提权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247485983&idx=1&sn=63acfb00a98f2ec5956b89e6571970b4",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "【成功复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
