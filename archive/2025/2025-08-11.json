@@ -46,5 +46,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "web渗透实战 | js.map文件泄露导致的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551252&idx=1&sn=8ef84f80562c7edf9c80036b9c6f120a",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "渗透测试实战-从匿名账户到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616840&idx=1&sn=17fe33d6e87a0e8273eb11bd55faf5c5",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "CTEM、ASM与漏洞管理，三者有何区别？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501336&idx=1&sn=bcf60a1cf36eeba39de544cbe1c8fc83",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494928&idx=1&sn=4ee3348946dcbe165dda3d40a9be1a1d",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "CVE-2025-38001：Linux HFSC Eltree 释放后使用漏洞 - Debian 12 PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532183&idx=1&sn=d36ddcaf2a6994613782a4c9f030e027",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "图形化安服/渗透测试报告自动生成工具 -- SSReportTools（8月8日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517122&idx=1&sn=cba4940f18f12c96ad9a045ece53ea94",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
