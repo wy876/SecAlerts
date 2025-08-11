@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514820&idx=1&sn=3d427152300194dd252c1c51ba218fb7",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "再获国际认可！阿里云发现深度学习框架PyTorch高危漏洞，入选全球顶会Black Hat",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652997962&idx=1&sn=a0e6bf54e770f206afc4ac49fb4aa2d5",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "ATT&CK实战框架-Lab12重磅发布！挑战深度仿真内网，玩转NTLM、信息收集、横向移动与域渗透全链条！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523739&idx=1&sn=105a9d27a62be82788efacf5ba6569f7",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
