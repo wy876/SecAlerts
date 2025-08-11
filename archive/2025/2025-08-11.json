@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524613&idx=2&sn=bb5240c58d832126b7d48d081cfc5727",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "发现废弃硬件中的0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512597&idx=1&sn=0a7b543b616720275a771dd7a24aaa4b",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "80% 案例显示：恶意活动激增时极大可能出现新安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584214&idx=1&sn=405ebd64fc9d4dfe904dbd57cfe84e54",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
