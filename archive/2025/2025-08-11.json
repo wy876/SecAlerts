@@ -10,5 +10,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492781&idx=1&sn=731191a08bc4bb87f92acf49cfa3da0c",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "] [SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4",
+        "source": "ChainReactors",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "] [SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "【腾讯SRC】漏洞挖掘之某小程序越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "锐捷EWEB路由器 timeout.php 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492394&idx=1&sn=cf8666cc1432551e10a82804f1eaebfa",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "Google 赏金猎手的胜利：如何发现并利用一个价值$10,000的反序列化RCE漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "锐捷EWEB路由器 control.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
