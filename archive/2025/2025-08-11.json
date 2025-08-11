@@ -238,5 +238,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8",
         "source": "Doonsec",
         "date_added": "2025-08-11"
+    },
+    {
+        "title": "YongYouNCPocTool【用友NC漏洞批量检测工具】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486761&idx=1&sn=6f98ebc99c1340c1b2358866b0e54313",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "谷歌Chromium输入验证零日漏洞正遭攻击者利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522872&idx=1&sn=6a46819bbd350cda87130de3e2668fa7",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "SSReportTools上线！漏洞库+自动化生成报告只需3分钟|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=1&sn=50334e6e01117005f90485cdf150fb47",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
+    },
+    {
+        "title": "Edu src证书站IOT(物联网)漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299",
+        "source": "Doonsec",
+        "date_added": "2025-08-11"
     }
 ]
