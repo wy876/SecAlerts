@@ -196,5 +196,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526985&idx=1&sn=7e9b341dfd8562f71f3749d5205a4b19",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "索贝融媒体 getList SQL存在注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484108&idx=1&sn=9a07764c3511736e0d4a39747ba7af71",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【已复现】索贝融媒体 /upload存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484096&idx=1&sn=c638a7791daf041f73f2a1dc002b4d42",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【已复现】Cherry Studio 命令注入漏洞(CVE-2025-54074)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503782&idx=1&sn=a842b14f1d1a18728ed670429238f871",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "渗透测试技巧：利用 Windows 长文件名，眼不见，心不烦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532197&idx=1&sn=f4054586e3a300c945b8a51152f08a72",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "SAST结合大模型的逻辑漏洞识别探索",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDU5NjI0Mw==&mid=2247490885&idx=1&sn=3eb7cc1316ad49574e83651e71a4a7f8",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
