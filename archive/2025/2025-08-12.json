@@ -1,0 +1,56 @@
+[
+    {
+        "title": "谷歌证实Salesforce CRM系统遭入侵，面临勒索威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494475&idx=2&sn=3de4e307a613181a81e276670a235ce0",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "智能公交系统漏洞使车辆面临追踪、控制和间谍活动风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494475&idx=3&sn=34cf5cd5c5e196481ec2ffbc8f8e746b",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "让你的Chrome插件再次复活 | 渗透插件失效解决",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488037&idx=1&sn=4c654db54d6e6e94b5368d157e0f2a3c",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "代码审计之正则表达式的应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484827&idx=1&sn=cfb12e23e3214c12a4ae24b45caabf93",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第30期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500248&idx=1&sn=5fa7317c15a00db1d0b5abfe1e962dd7",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【实战】教你JS逆向，拿下接口签名，狠狠渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzI4OTkyNw==&mid=2247489834&idx=1&sn=4e2e7f5b7df2e89eede16b535d99f2c4",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "重磅！国内最专业的 [ .NET 代码审计 ] 体系化学习互动社区，强势来袭！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493792&idx=2&sn=30e3adf208ea72fc64c2dad0bc649e86",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "某电力公司web.config的RCE之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507007&idx=1&sn=1b5be39bfc5255d79d69c6797576e659",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "记一次对某棋牌系统失败的渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487608&idx=1&sn=69b3a2c48d46bb44209aaa6c205841bd",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    }
+]
