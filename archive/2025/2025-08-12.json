@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDU5NjI0Mw==&mid=2247490885&idx=1&sn=3eb7cc1316ad49574e83651e71a4a7f8",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第32期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463351&idx=1&sn=6d732543296a5304f9ca7f92b0a3de5a",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "《Java代码审计高阶实战班》第二期开课，在第一期百余节基础上，新增更多代码审计实战，探索代审宇宙！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487496&idx=1&sn=225a8b611a3d7e88cec40b805fe769fe",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "HTTP/1.1终将落幕，20年“幽灵漏洞”浮出水面，全球网站拉响警报！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278802&idx=1&sn=8a333148d6699915959a4d5018a1cba1",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "金和OA JC6 ActionDataSet XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492413&idx=1&sn=d5716c87f40740a6c64d26e228ad3522",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
