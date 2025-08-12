@@ -328,5 +328,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490588&idx=1&sn=b453c208e623f4828d0f019f41efac5c",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "【IoT安全】洋垃圾路由器渗透到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486233&idx=1&sn=7eda7b08184c4ad407008c34c5ebe7b5",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【IoT安全】洋垃圾路由器渗透到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483916&idx=1&sn=bf96d76942d42a10580101d1ca6426d9",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【已复现】Cherry Studio 命令注入漏洞安全通告（CVE-2025-54074）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492912&idx=1&sn=ddc14a0f8fed2d144b2a7e1de430da9b",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
