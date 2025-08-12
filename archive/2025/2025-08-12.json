@@ -148,5 +148,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485999&idx=1&sn=8c52b0299e9e1ec0d4ba93666570ffd0",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "开课啦 | WEB渗透0基础班的老学员，快来免费重读4期的课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524581&idx=2&sn=260f643d9236dc17cb5e7d8ea43f967a",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "再获国标认可！阿里云发现深度学习框架PyTorch高危漏洞，入选全球顶会Black Hat",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664092862&idx=1&sn=62942d9ff323d4b8887fc4bebee2cf22",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "犹豫入行？一毛钱，先听听支付漏洞怎么玩！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551260&idx=1&sn=70bb454aac2445153dd65afd41234933",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "美俄巴情报机构黑客的物理近源渗透手法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486489&idx=1&sn=81c56ef4bba119b6406685aa5b87b5e3",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【严重】NC系统oncelogin getAuth 接口存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485853&idx=1&sn=87437ba0c1a91fd1d56eb92c911d64bf",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
