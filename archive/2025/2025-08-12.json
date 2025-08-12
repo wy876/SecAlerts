@@ -52,5 +52,101 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487608&idx=1&sn=69b3a2c48d46bb44209aaa6c205841bd",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [CISSP+CCSP：合璧出鞘，决胜下一程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493034&idx=1&sn=49a392a9746cdd716f908920b0421a3c",
+        "source": "ChainReactors",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [安全热点周报：AI 编辑器 Cursor 漏洞致远程代码执行，软件供应链面临威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503769&idx=1&sn=f6d7391cbf47b90775ba7517271f948c",
+        "source": "ChainReactors",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500276&idx=2&sn=a8528751d679f66cef50268cba404e03",
+        "source": "ChainReactors",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [GPT-5重磅发布却遇“滑铁卢”，用户感受差，安全能力严重不足；联想部分型号网络摄像头中存有“BadCam”远程控制漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138272&idx=2&sn=38363e9cb0a08878e53ec5f7008bc9be",
+        "source": "ChainReactors",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [【漏洞通告】WinRAR 目录遍历漏洞(CVE-2025-8088)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524487&idx=1&sn=1715268ae74041049ca916f2777014a9",
+        "source": "ChainReactors",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [CISSP+CCSP：合璧出鞘，决胜下一程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493034&idx=1&sn=49a392a9746cdd716f908920b0421a3c",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [GPT-5重磅发布却遇“滑铁卢”，用户感受差，安全能力严重不足；联想部分型号网络摄像头中存有“BadCam”远程控制漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138272&idx=2&sn=38363e9cb0a08878e53ec5f7008bc9be",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [安全热点周报：AI 编辑器 Cursor 漏洞致远程代码执行，软件供应链面临威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503769&idx=1&sn=f6d7391cbf47b90775ba7517271f948c",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [【漏洞通告】WinRAR 目录遍历漏洞(CVE-2025-8088)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524487&idx=1&sn=1715268ae74041049ca916f2777014a9",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "] [国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500276&idx=2&sn=a8528751d679f66cef50268cba404e03",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【工具分享】用友NC漏洞批量检测工具---YongYouNCPocTool",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486898&idx=1&sn=695fd640a0b9ce11e198a0aaf98f7dfa",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 uploadMapFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492404&idx=1&sn=e0ea42eab96dcc74f2a21f5e099c48db",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611808&idx=4&sn=c0666ba5fa4a248d8228a8c5120537b1",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "文件包含漏洞利用之包含Session文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492783&idx=1&sn=bc7abca36a0dad9dd12bc6f410bbe131",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "基于Windows的全栈渗透系统【集Web、APP、内网、逆向、免杀、审计、CTF、取证工具于一身的全栈系统】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491145&idx=1&sn=2339c4c52b55c1a0a3945e2a567b8e5a",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "AgentSyste代理商管理系统 login.action Struts2 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485999&idx=1&sn=8c52b0299e9e1ec0d4ba93666570ffd0",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
