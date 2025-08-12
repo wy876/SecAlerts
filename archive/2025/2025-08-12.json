@@ -286,5 +286,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555862&idx=2&sn=b4815d96a753e1c33f0f5dd59affc9f3",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "Erlang/OTP SSH远程代码执行漏洞正被用于攻击工控网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326116&idx=1&sn=20c7c5228db429877e2cce99fa9f8933",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "Apache bRPC 漏洞（CVE-2025-54472）可导致远程拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326116&idx=2&sn=9019dad09ce3a088899541872bd8f8cf",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "知名车企门户漏洞或致攻击者远程解锁汽车并窃取数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326116&idx=3&sn=f2fd2f85d1f722442127cbfc3ba54d54",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "黑客挖漏洞超详细攻略！一口气给你讲清楚挖漏洞要学什么？怎么练？去哪挖？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485722&idx=1&sn=b51f9972df001438cfdf5db48132dce6",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
