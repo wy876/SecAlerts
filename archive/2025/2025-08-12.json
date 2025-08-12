@@ -370,5 +370,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494113&idx=1&sn=54d58f999542cb3bf86d62ce60934cef",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "Vite 任意文件读取漏洞(CVE-2025-30208)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522941&idx=1&sn=0fd0b20060f3b6ad71de1f1e62304784",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
