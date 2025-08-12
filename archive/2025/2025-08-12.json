@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071124&idx=4&sn=9071d3e4896fe5db0071478b0449ea96",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "【AI高危漏洞预警】Cherry Studio命令注入漏洞CVE-2025-54074",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490588&idx=1&sn=b453c208e623f4828d0f019f41efac5c",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
