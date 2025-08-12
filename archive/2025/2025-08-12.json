@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492912&idx=1&sn=ddc14a0f8fed2d144b2a7e1de430da9b",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "泛微 e-office block_content.php接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488882&idx=1&sn=5d352153e3641cf3a74c15255832b442",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
