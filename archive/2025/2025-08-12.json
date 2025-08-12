@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485722&idx=1&sn=b51f9972df001438cfdf5db48132dce6",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "【IoT安全】洋垃圾路由器渗透到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjY0MzU0Nw==&mid=2247484935&idx=1&sn=237e2a1490244bf2ef26897d26bb9b73",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【安全圈】智能公交系统曝出严重漏洞 可被远程跟踪与控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071124&idx=4&sn=9071d3e4896fe5db0071478b0449ea96",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
