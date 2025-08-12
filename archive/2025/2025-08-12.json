@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522904&idx=1&sn=309a680e9e34526327beaeb2541ca5cb",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "一个功能强大的BurpSuite文件上传漏洞自动化fuzz测试插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526985&idx=1&sn=7e9b341dfd8562f71f3749d5205a4b19",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
