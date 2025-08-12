@@ -256,5 +256,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521068&idx=1&sn=282a361da6e0986d6ee1b1375e9bf282",
         "source": "Doonsec",
         "date_added": "2025-08-12"
+    },
+    {
+        "title": "CVE-2014-0038内核漏洞exp分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598495&idx=1&sn=890d51b1b793f064d3019e30c2c3ce2b",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "智能公交系统漏洞曝光：攻击者可远程操控车辆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598495&idx=2&sn=e1fe2ff3a12bf7b2376270606c12d860",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "Windows内核漏洞分析与EXP编写技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598495&idx=3&sn=71e1e59f5efa8907050aad228ec5631d",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "某知名车企网络门户存在安全漏洞，可致车辆被远程解锁并窃取数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558211&idx=1&sn=a03826303aced16a5e7b339b143fec56",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
+    },
+    {
+        "title": "【免费领】超强渗透工具：Kali Linux实战技术教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555862&idx=2&sn=b4815d96a753e1c33f0f5dd59affc9f3",
+        "source": "Doonsec",
+        "date_added": "2025-08-12"
     }
 ]
