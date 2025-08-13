@@ -106,5 +106,101 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488467&idx=1&sn=69d45a80da637cc33aafb7923191e56b",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [速修复！WinRAR 0day已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523781&idx=1&sn=32870c4fb49a2a2cc744798fa5c6f81e",
+        "source": "ChainReactors",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [施乐紧急修复两个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523781&idx=2&sn=3822150bbecbbd2b1b8c78685ff064b8",
+        "source": "ChainReactors",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [实战组合拳：剖析 SharePoint 和 Exchange 两个产品漏洞攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=1&sn=9677b0a0db1d0fe2172f1fbeda3a2608",
+        "source": "ChainReactors",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [细思极恐！央媒起底英伟达芯片中可能存在的安全隐患；Zscaler等多家知名厂商零信任产品中均曝严重安全漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138287&idx=2&sn=3e493cdafabfba15544bf44e46829728",
+        "source": "ChainReactors",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [疑似俄罗斯黑客利用WinRAR软件0Day漏洞展开攻击活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492721&idx=1&sn=d54a9983cee148ea82d3a14a1f11273a",
+        "source": "ChainReactors",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [ISC2会员必备丨CPE学分快速指南让您了解并规划您的CPE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493037&idx=1&sn=f159b70806a551a9a7de1f9ed9c4a033",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [速修复！WinRAR 0day已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523781&idx=1&sn=32870c4fb49a2a2cc744798fa5c6f81e",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [施乐紧急修复两个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523781&idx=2&sn=3822150bbecbbd2b1b8c78685ff064b8",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [实战组合拳：剖析 SharePoint 和 Exchange 两个产品漏洞攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=1&sn=9677b0a0db1d0fe2172f1fbeda3a2608",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "] [细思极恐！央媒起底英伟达芯片中可能存在的安全隐患；Zscaler等多家知名厂商零信任产品中均曝严重安全漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138287&idx=2&sn=3e493cdafabfba15544bf44e46829728",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "0 基础也能挖出高危漏洞！IRify 代码审计全过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484564&idx=1&sn=f95b3bf1046210f62d632172ace04f12",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "漏洞通告 | Cherry Studio 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507885&idx=2&sn=e3dd304625cdc6cf535c075e86ca9966",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "数夫CRM客户关系管理系统  file_download.ashx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492423&idx=1&sn=30d536ec0122fdfe72c27ba828d9fd54",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "好工具推荐：一款Linux权限维持+后渗透的工具 CACM",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492686&idx=1&sn=0ab88768c07928147e8690fc2bcb99a1",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "知名车企门户漏洞或致攻击者远程解锁汽车并窃取数据 | Erlang/OTP SSH远程代码执行漏洞正被用于攻击工控网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248326&idx=1&sn=7a7a5f07efb59db455626b53b08b8bd4",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "汉王e脸通鉴权绕过文件上传组合拳漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492785&idx=1&sn=8a875eba9b9a16cf014550a527ca53f9",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
