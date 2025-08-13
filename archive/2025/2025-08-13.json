@@ -202,5 +202,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492785&idx=1&sn=8a875eba9b9a16cf014550a527ca53f9",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "被要求撸公司内外网？RCE在向我招手！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484665&idx=1&sn=d0899e0fbb6bd696c5707bf61452a858",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "JiXFeng 渗透视角下的常见协议弱口令检测工具 - v0.0.1_20250810公测版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjY0MzIyNw==&mid=2247483774&idx=1&sn=fe4e3e30d0b133ae075645a2b37c84c2",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "信呼OA分析+0day挖掘思路与实操",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513428&idx=1&sn=2f80d3eb57dc90032e1088d516a4e94a",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "漏洞预警-某服运维安全管理系统存在命令执行漏洞(0day)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488250&idx=1&sn=3b45ec0a966fa9c9d93c8055393bd4da",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "【漏洞复现】Cherry Studio的命令注入漏洞(CVE-2025-54074)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485071&idx=1&sn=8473f2145bcf9297376c5a8fa9627d5e",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "渗透测试练习靶场汇总，零基础入门到精通，收藏这篇就够了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498392&idx=1&sn=c234fa9e220b165389c5e0640c16b173",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
