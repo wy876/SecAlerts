@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484541&idx=1&sn=ec356668f2f4ac02174057bff8582ee6",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "Apache bRPC 存在允许攻击者通过网络远程崩溃服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096455&idx=2&sn=4c911e620aa415a4b1b8ff7540c49ba1",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "「限时免单」安全漏洞防治双螺旋演进：标准化打基础，自动化护成果",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642564&idx=1&sn=6ffc16b9733942f701779d9b4832fbb6",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
