@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490251&idx=1&sn=117b8a24b6e9d6162fe6d95f4fa3a534",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "CVE-2025-6759：Citrix Virtual Apps and Desktops 中的本地权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532229&idx=2&sn=0d737b525be8323b61f5feb3dc7b3899",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "走进“乌云”教科书书里的漏洞-短信验证码回显【好靶场逻辑漏洞】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485918&idx=1&sn=4bfdea3e3453cea1dc60de8aff133e6c",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
