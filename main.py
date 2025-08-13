@@ -465,7 +465,7 @@ def main():
     generate_html_page(
         articles=recent_articles,
         output_path='index.html',
-        page_title='每日安全文章聚合 (最近7天)',
+        page_title='每日安全漏洞文章聚合 (最近7天)',
         nav_link_html='<a href="archive.html">查看完整归档 &rarr;</a>'
     )
 
