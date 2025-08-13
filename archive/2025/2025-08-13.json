@@ -322,5 +322,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490298&idx=1&sn=6fcb6ace909bf34109b3d8bda6441784",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "经销商网站存在严重漏洞，可导致黑客远程解锁汽车",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523797&idx=1&sn=e423419f8c63314f31423493071d25b4",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "VMware ESXi严重漏洞威胁全球大量服务器，国内超1700台受影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628618&idx=2&sn=fb9bbf99642c167aa63bc8b3a08cb9fa",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "『新课首发』最强代码审计课程！3个月掌握高危漏洞挖掘技巧，达到企业中级用人水平",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598511&idx=1&sn=18d2039f19dd43eb2838c1b57ed171b7",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "Chrome 紧急修复多个高危漏洞，攻击者可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598511&idx=3&sn=69f9809b93ee3ed21348fc7364a759bb",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "网络安全漏洞：这些潜在风险要留意",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486130&idx=1&sn=2181648a591f377ee96e5c6369129c9f",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "如何将 Self-XSS 升级为真正可利用的 XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498033&idx=1&sn=25fdd7aea48b9500406ed05395833130",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "智能公交系统漏洞曝光：攻击者可远程操控车辆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558326&idx=1&sn=83634f24763114f732fdccbd7b3ce3ee",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "黑客挖漏洞超详细攻略！一口气给你讲清楚挖漏洞要学什么？怎么练？去哪挖？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484541&idx=1&sn=ec356668f2f4ac02174057bff8582ee6",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
