@@ -280,5 +280,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535997&idx=4&sn=09eb04cb820e9b418f97d20d3436e916",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "NextCyber学习记录—Apache Druid 代码执行漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487777&idx=1&sn=7f7c589abd1db04e89f110454e1c034e",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484543&idx=1&sn=ede434a27a423b6e8b2ccb9ebfed8019",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "群晖 DiskStation 空字节写入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261549&idx=1&sn=4af9facf60a9cb9c8011b02ffa056931",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "VMware ESXi严重漏洞威胁全球大量服务器，国内超1700台受影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514833&idx=1&sn=266c84ecf7768b937e62da772111b130",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "某电力公司web.config的RCE之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574500&idx=1&sn=f9b85963b1fda24717525c48e2f872af",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "渗透测试基础总结，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574500&idx=2&sn=40b35a8dda910afca4b72e1039c60270",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "cisco设备信息泄漏漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490298&idx=1&sn=6fcb6ace909bf34109b3d8bda6441784",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
