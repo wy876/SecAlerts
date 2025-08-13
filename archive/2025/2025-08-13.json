@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485918&idx=1&sn=4bfdea3e3453cea1dc60de8aff133e6c",
         "source": "Doonsec",
         "date_added": "2025-08-13"
+    },
+    {
+        "title": "月子会所ERP管理云平台 BindRoomListData.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492433&idx=1&sn=41cb8c410d092138d62b27b8e21f41ba",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "如何成为一名“漏洞赏金猎人”？新人入门指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138294&idx=1&sn=cb5e87e40607e1fef8a725d86289725a",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
+    },
+    {
+        "title": "中国联通突发大面积网络访问故障，疑似DNS被污染；Apache bRPC项目存在严重漏洞，可导致拒绝服务攻击 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138294&idx=2&sn=99fce7aae5b536e68afbc68b5699adef",
+        "source": "Doonsec",
+        "date_added": "2025-08-13"
     }
 ]
