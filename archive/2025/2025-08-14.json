@@ -322,5 +322,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523808&idx=2&sn=e620e1e18eef2958bd819150d13d684d",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "Java代码审计第9期（再次更新超强课程体系）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524616&idx=1&sn=eaa53b9177eb8f8659fcf0a85fb973f0",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "本周六晚免费公开课丨内网渗透中高价值目标利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524616&idx=2&sn=0feafd5689553c572fcf3465a794a47e",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "记一次企业SRC之MSSQL报错注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488123&idx=1&sn=52358f0acc2bfa958a49fb9a87cd5b4b",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
