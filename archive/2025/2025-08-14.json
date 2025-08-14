@@ -262,5 +262,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485084&idx=2&sn=b0a406f7f5466e6c51ce35a8a22c9378",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "VMware ESXi严重漏洞威胁全球大量服务器，国内超1700台受影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496821&idx=1&sn=d9e347c4bec30c611c0e41617bacacfd",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247534&idx=2&sn=8d9cf7a9d13ff49c0b4ae8dd95a3fab7",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "主流智能公交系统曝严重漏洞：攻击者可远程操控车辆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514839&idx=2&sn=c84b72a9450b6757a27125e9f170a97f",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "北约撒钱筑墙×美建零信任堡垒×英招漏洞猎人｜纵览7月全球网络安全十大事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600984&idx=1&sn=156669b767d698b645e38fa0f6dbd4e3",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【论文速读】| 大语言模型与静态代码分析工具：漏洞检测的系统基准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496913&idx=1&sn=297db7d38e9fae28835af87e566a49bc",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "抽丝剥茧一般的渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247500065&idx=1&sn=2e056191fee4fade604c12bb1cc484fd",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
