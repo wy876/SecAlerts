@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526145&idx=1&sn=e2dcd7975102be900ead40271ba16a29",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "RingReaper：一款绕过EDR检测的后渗透工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485169&idx=1&sn=281df78e12356ceb0132561d38e35038",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【渗透Tips】日语XSS Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485169&idx=2&sn=edbd52a747a2e2ecf247f297e95e41a6",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "2025年6月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485084&idx=2&sn=b0a406f7f5466e6c51ce35a8a22c9378",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
