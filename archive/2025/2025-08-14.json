@@ -124,5 +124,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495337&idx=1&sn=98cdb0b89d63d1cb8aae80189094a688",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "CVE-2025-32433: Erlang/OTP SSH 远程代码执行漏洞深度分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515577&idx=1&sn=40b2abaf9aa69379e489dafcbed4e77c",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "微软：macOS Sploitlight 漏洞泄露 Apple Intelligence 数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493314&idx=1&sn=126930cb2e6e3d0b8ed611046ee7748f",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "智能公交系统漏洞曝光：攻击者可远程操控车辆",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247532907&idx=2&sn=45797aa999ebe9d955d63decfa786cc8",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "成人性玩具漏洞可被远程控制/操作",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517429&idx=1&sn=33afd7981a9ef4c02a1b683c0662bfae",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
