@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484677&idx=1&sn=ff683d79b92a885dadc4727b618fb396",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "安全快报 | 荷兰国家网络安全中心警告称黑客利用虚拟服务器安全漏洞对多个关键基础设施部门发起网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247493144&idx=1&sn=57fd9337e717f63c9ea87e26f913ceb1",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【保险业泄密】安联人寿 Salesforce 攻击致 280 万条数据外泄",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247502932&idx=1&sn=f533b2fa4e2be94a06ff4b68046092b5",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463359&idx=2&sn=8990cf4be3ff3077510b3866ac0018c6",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
