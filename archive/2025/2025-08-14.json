@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247500065&idx=1&sn=2e056191fee4fade604c12bb1cc484fd",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "新一代内网/域渗透神器--NetExec",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497537&idx=1&sn=74e6d872429ebf89f121cf73a503dff0",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "Google Jules：存在多种数据泄漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485007&idx=1&sn=9e0fbcdb9fe775d2eb0129ba7dba24a3",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "一口气讲清楚黑客最出名的浏览器渗透工具之一：BeEF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485726&idx=1&sn=43830f37333eaeacd0a20771e1c49ab3",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
