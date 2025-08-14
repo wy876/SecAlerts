@@ -148,5 +148,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517429&idx=1&sn=33afd7981a9ef4c02a1b683c0662bfae",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "【漏洞通告】Vim 路径遍历漏洞(CVE-2025-53905)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486763&idx=1&sn=b8123301ac70269245ccf4d1a50e1f2a",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【漏洞通告】GPT-SoVITS-WebUI 命令注入漏洞(CVE-2025-49835)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486763&idx=2&sn=a77e444883bb63ce61cc3b60ed686d24",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【漏洞通告】Oracle Virtualization 安全漏洞(CVE-2025-53027)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486763&idx=3&sn=e1a214c8a6387c53d46ce857c3fd1725",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【漏洞通告】RIPS Scanner v0.54 Path Traversal(CVE-2025-34126)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486763&idx=4&sn=a0764fd750c23bcd789dd9cdaa4e2b37",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
+    },
+    {
+        "title": "【漏洞通告】PbootCMS存在SQL注入漏洞(CNVD-2025-15884)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486763&idx=5&sn=77e3f837b36d6697a34ed6128e57328f",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
