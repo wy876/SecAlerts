@@ -340,5 +340,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488123&idx=1&sn=52358f0acc2bfa958a49fb9a87cd5b4b",
         "source": "Doonsec",
         "date_added": "2025-08-14"
+    },
+    {
+        "title": "RingReaper：一款绕过EDR检测的后渗透工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486089&idx=1&sn=0a41d074cb4aa4c85f3b6d74efc30457",
+        "source": "Doonsec",
+        "date_added": "2025-08-14"
     }
 ]
