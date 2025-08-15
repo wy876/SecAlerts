@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498045&idx=1&sn=44dd934c15474963d1e4203cc74009e1",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "【风险通告】用友NC Cloud fip存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490533&idx=2&sn=a7cc34ca8df4057e64125bc9446dc37b",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "【风险通告】用友NC portal端存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490533&idx=3&sn=052dfa01f4831d78ef2449ede4164ec4",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
