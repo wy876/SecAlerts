@@ -142,5 +142,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495355&idx=1&sn=b6db08954f268506408cf59a9ecfc1c4",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "深度渗透测试服务：无高危不收费",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzc0MzcwMA==&mid=2247484198&idx=1&sn=1f2a79635f212f5683ff88e4f94e1445",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "SQL注入漏洞初步了解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488224&idx=1&sn=c6ced84cf3be7f5aee2783c8595a990e",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "让你持续精进的 【Java代码审计课程】，已更新 100 余节，还在持续更新，零基础有基础都能有所收获。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487504&idx=1&sn=41435495b0a3fb82bc3b95be182dd46b",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "【腾讯SRC】漏洞挖掘之URL解析缺陷漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488394&idx=1&sn=0b74ae7fbecffb887229d7189977cfb2",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519421&idx=1&sn=790ced48beeffbd6a335e778e2d86268",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494048&idx=2&sn=76ddea96a15b00bcef931eb6d3c83a56",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "什么漏洞是正常功能，什么功能是漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488609&idx=1&sn=567c9f0090b98da2d8e81effdf332d60",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "漏洞复现 || Letta-ai letta代码注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492684&idx=1&sn=88f21f0b811d4f3f4b5f7b151023848d",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "又挖到宝藏Windows 渗透测试工具包，直接开箱就能用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjQwOTc4MQ==&mid=2247490633&idx=1&sn=0a4cd4851395fe90f5a10cc4e4732339",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
