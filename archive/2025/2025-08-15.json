@@ -214,5 +214,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MzMzNTUzMA==&mid=2247486211&idx=1&sn=2d597685c3fb0d629495b6f80af9bbb3",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "注意！CNNVD 通报：微软曝多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536037&idx=2&sn=6085b9c6131719e2c1d1fe07fd410290",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "想当 “漏洞赏金猎人”？新人入门指南，看完就能上手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536037&idx=4&sn=096dcd9aab1a960d967b8e3973425ef7",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491230&idx=1&sn=dde2d03e67f17289c6e550eb4eab9dec",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "传统渗透结合AI实战，玄弋第四期课程带你成为新安全专家！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTUyNjkwNA==&mid=2247484372&idx=1&sn=66fb3a7b2026cfd8904ee4bbcd06bef5",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "CodeVulnScan-基于正则的代码审计工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQyMzI4Mg==&mid=2247483936&idx=1&sn=de23869462df88386cff7c567e826bde",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
