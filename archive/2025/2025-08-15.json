@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQyMzI4Mg==&mid=2247483936&idx=1&sn=de23869462df88386cff7c567e826bde",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "工具推荐-超好用的Linux权限维持+后渗透的工具CACM",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Mzg4OTIyMA==&mid=2247485909&idx=1&sn=bd39ad1726a5bdcf511bc288b98bb835",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "cisco设备信息泄漏漏洞案例（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490312&idx=1&sn=6e29cfff93ba23ca37d829c1d45e77b0",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
