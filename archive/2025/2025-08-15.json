@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "CISA 将 PaperCut RCE 漏洞标记为攻击利用，请立即修补",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
