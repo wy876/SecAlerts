@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490312&idx=1&sn=6e29cfff93ba23ca37d829c1d45e77b0",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "LLM安全漏洞挖掘初学者指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489317&idx=1&sn=95b37e3b4e2460facc5a19d32914ee37",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "意外搞出的免杀 webshell 实战之织梦 cms 到 RCE(代码审计思路讲解)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555899&idx=1&sn=c0864e3bd3875720a812e3d7505e3683",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
