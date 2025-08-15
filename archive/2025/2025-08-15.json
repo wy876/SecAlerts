@@ -268,5 +268,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555899&idx=1&sn=c0864e3bd3875720a812e3d7505e3683",
         "source": "Doonsec",
         "date_added": "2025-08-15"
+    },
+    {
+        "title": "实战权限维持，从配置到命令执行一键部署 ViewState WebShell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494471&idx=1&sn=a52aba57a44aeecb52a0ecf76d854b86",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "一口气讲清楚黑客最出名的浏览器渗透工具之一：BeEF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484549&idx=1&sn=6be316e57994f23133b407bc2107a6d8",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "Web3 DAPP的一个安全超高危漏洞的发现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487079&idx=1&sn=5cdc17e8285ac43fc9600f3cba62a828",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "安全漏洞防治双螺旋演进：标准化打基础，自动化护成果",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485077&idx=1&sn=8e4954d7407ce53d9e1ac91da37c2fb2",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
+    },
+    {
+        "title": "价值1.4 W人民币漏洞！骚！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498045&idx=1&sn=44dd934c15474963d1e4203cc74009e1",
+        "source": "Doonsec",
+        "date_added": "2025-08-15"
     }
 ]
