@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491369&idx=1&sn=13017e498a54120488de7554fb7ab73d",
         "source": "Doonsec",
         "date_added": "2025-08-16"
+    },
+    {
+        "title": "今晚8点 | 内网渗透中高价值目标利用（公开课）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524613&idx=1&sn=c8a4966eef5a52ac8a9252b1751904f4",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488555&idx=1&sn=865a054cc99532c629b64d327f52b145",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
     }
 ]
