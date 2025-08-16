@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29",
         "source": "Doonsec",
         "date_added": "2025-08-16"
+    },
+    {
+        "title": "NextCyber学习记录-Mysql 身份认证绕过漏洞（CVE-2012-2122）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487819&idx=1&sn=7c6f51ca8377945bf9e067080a0c214e",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "【0day】某能源系统存在RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
     }
 ]
