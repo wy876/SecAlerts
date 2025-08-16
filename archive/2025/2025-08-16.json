@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495016&idx=1&sn=57269697a744ad14aefe709465fa1932",
         "source": "Doonsec",
         "date_added": "2025-08-16"
+    },
+    {
+        "title": "200小时狂赚$20,300：漏洞赏金黑客挑战实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498049&idx=1&sn=aab638b3a285214481b6c01ccc98e1ea",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "CVE-2025-49113——Roundcube 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
     }
 ]
