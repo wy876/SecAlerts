@@ -4,5 +4,101 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486861&idx=1&sn=97c73174f2c4415ac158fbc56a2717b2",
         "source": "Doonsec",
         "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [CISSP备考webinar：来听授权讲师和资深会员为您详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493051&idx=1&sn=2a9faa465ceaba0891efee47dc705996",
+        "source": "ChainReactors",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [Apache Tomcat 多个漏洞可导致攻击者触发DoS攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523819&idx=2&sn=1b0afcc966abc228069d1a16b3581db5",
+        "source": "ChainReactors",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [国家信息安全漏洞库通报Fortinet安全漏洞；抖音曝光8类典型诈骗手段；施乐打印机紧急修复两个严重漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138335&idx=2&sn=3e6bd9073a107f1bf618b0c1e4813fb6",
+        "source": "ChainReactors",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [【CVE-2025-27388】OPPO健康APP存在Webview任意URL加载导致Token泄露风险的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494408&idx=2&sn=a4af137beaab894adcc3f1505b5c6e04",
+        "source": "ChainReactors",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [CISSP备考webinar：来听授权讲师和资深会员为您详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493051&idx=1&sn=2a9faa465ceaba0891efee47dc705996",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [Apache Tomcat 多个漏洞可导致攻击者触发DoS攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523819&idx=2&sn=1b0afcc966abc228069d1a16b3581db5",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [国家信息安全漏洞库通报Fortinet安全漏洞；抖音曝光8类典型诈骗手段；施乐打印机紧急修复两个严重漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138335&idx=2&sn=3e6bd9073a107f1bf618b0c1e4813fb6",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "] [【CVE-2025-27388】OPPO健康APP存在Webview任意URL加载导致Token泄露风险的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494408&idx=2&sn=a4af137beaab894adcc3f1505b5c6e04",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "sap-netweaver-0day-CVE-2025-31324",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501732&idx=1&sn=32fc7596f7447afeff32914bc01c1b68",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "最常用的渗透测试工具，你用过哪几种？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498731&idx=1&sn=d1176f4bf5550013cf9da5f12932297d",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，Getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611867&idx=4&sn=6c925b6ae7fec252580c1e726c9d0e8f",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492800&idx=1&sn=ea208f37d47236041ca4dc9ceed6a298",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "【严重】WordPress测验和调查总插件<= 10.2.4- SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485936&idx=1&sn=75c60584c8ff8980eaea7f1bd6116e67",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494056&idx=1&sn=6a4c692dfcf862f682690a68fc0f1d8f",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盘文档安全管理平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494056&idx=2&sn=8bdd40dd5e5919adcfd8e762c2e21ead",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494056&idx=3&sn=cfc509075295647f2287615f7df10635",
+        "source": "Doonsec",
+        "date_added": "2025-08-16"
     }
 ]
