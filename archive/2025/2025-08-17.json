@@ -70,5 +70,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485731&idx=1&sn=05df7e60c1de7711d5a97f10837d515d",
         "source": "Doonsec",
         "date_added": "2025-08-17"
+    },
+    {
+        "title": "MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "山雨欲来！全球飞塔(Fortinet)设备正遭疯狂攻击，背后或隐藏惊天0-day漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "所有安卓用户：立即检查更新！你的手机芯片曝出“在逃”0day漏洞，黑客或已在利用！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
     }
 ]
