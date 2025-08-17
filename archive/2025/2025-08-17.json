@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f",
         "source": "Doonsec",
         "date_added": "2025-08-17"
+    },
+    {
+        "title": "JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
     }
 ]
