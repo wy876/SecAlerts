@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495014&idx=1&sn=cb643e32f64f305024e6b2044d2d5656",
         "source": "Doonsec",
         "date_added": "2025-08-17"
+    },
+    {
+        "title": "记一次企业SRC之MSSQL报错注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
     }
 ]
