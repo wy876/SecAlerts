@@ -4,5 +4,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDcyNjM4MA==&mid=2247484027&idx=1&sn=ac8c7a2b2f5402783f05d7c94b766d85",
         "source": "Doonsec",
         "date_added": "2025-08-17"
+    },
+    {
+        "title": "] [CVE-2025-49113 Roundcube Webmail反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484570&idx=1&sn=553c7aad3fb835183e6fe5ba1b9b799f",
+        "source": "ChainReactors",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736",
+        "source": "ChainReactors",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "] [CVE-2025-49113 Roundcube Webmail反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484570&idx=1&sn=553c7aad3fb835183e6fe5ba1b9b799f",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "【重磅预告】免费开放一个月！我的红蓝对抗/渗透测试技术库即将公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484084&idx=1&sn=5ebfb4cd15970cfe026c0165ee8532fc",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
+    },
+    {
+        "title": "RCE漏洞（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
     }
 ]
