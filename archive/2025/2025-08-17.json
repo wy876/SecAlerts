@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497557&idx=1&sn=d174f834b1af999aa0c036663426973c",
         "source": "Doonsec",
         "date_added": "2025-08-17"
+    },
+    {
+        "title": "当防御者变成攻击者：Elastic EDR 0-Day（RCE + DoS）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c",
+        "source": "Doonsec",
+        "date_added": "2025-08-17"
     }
 ]
