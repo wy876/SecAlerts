@@ -136,5 +136,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485150&idx=1&sn=f2327a96a0bb1c619f2c0099dfb5fc80",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "最强代码审计课程！掌握高危漏洞挖掘技巧，达到企业中级用人水平",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598646&idx=3&sn=72ad83686c87aabd4830e62bc1901b28",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "主流智能公交系统曝严重漏洞：攻击者可远程操控车辆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628669&idx=2&sn=0b1e5c91f8e800c8bbe13e75fef6d08f",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第31期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496231&idx=1&sn=82c462da1da9c2618d21e0b001a18086",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250811-20250817",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496231&idx=2&sn=90b17ce5434b08dbbeb7f128aedb5cb5",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "【已复现】Smartbi 未授权远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494568&idx=2&sn=ba338934a4ba55f9b21e59c9776bd6d1",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "白帽子做渗透测试的全流程详细讲解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484554&idx=1&sn=1eb74e85f0712d8d68f6027282132e87",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "NextCyber学习记录-CVE-2023-46604",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487845&idx=1&sn=042dec4ef8d9f556cb331dc9cef9885e",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "人力资源巨头 Workday 在 Salesforce 攻击中披露数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501805&idx=2&sn=13eae907a5f5540ee6448a5be302e732",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "【渗透 Tips】俄语XSS",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485177&idx=1&sn=16e21a31fb9c576b686c9965cf3308c0",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
