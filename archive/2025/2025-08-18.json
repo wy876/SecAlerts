@@ -220,5 +220,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492696&idx=1&sn=0df79784056b649736fc538318d22bbc",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "俄罗斯黑客组织 EncryptHub 利用 MSC EvilTwin 漏洞部署 Fickle Stealer 恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493361&idx=1&sn=3f2043b75bf52658f4daebaf2f35cea9",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "西部数码NAS modUserName.php接口存在命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "【0day】某物联网系统存在任意用户注册漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484129&idx=1&sn=4159fa6c3b71d64b9d4469c07f813a77",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "禅道各版本漏洞复现汇总上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522821&idx=1&sn=dc33f4172b8f7601e4b19ba73f33efac",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
