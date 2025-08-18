@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485177&idx=1&sn=16e21a31fb9c576b686c9965cf3308c0",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "【已复现】影响1万+WordPress站点的命令执行漏洞（CVE-2025-7340）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484634&idx=1&sn=1bce2f728d5e3b3d52e5a0415b0b6868",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
