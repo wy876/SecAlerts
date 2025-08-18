@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "【SRC实战】支付漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498167&idx=1&sn=48ef44590c7e259d9df46c86526fc110",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "安全产品不安全？某安全厂商SIEM存在超危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547953&idx=2&sn=f0da2be63a07d7e44f81b29028304058",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
