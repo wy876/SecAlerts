@@ -214,5 +214,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492314&idx=1&sn=353e88b96630cc06edcf42124d35b725",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "漏洞复现 || Windows 文件资源管理器欺骗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492696&idx=1&sn=0df79784056b649736fc538318d22bbc",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
