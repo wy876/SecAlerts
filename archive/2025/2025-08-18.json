@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494530&idx=2&sn=d2c531eb2fb519490a74f699d3bd63e8",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "【PHP代审】信呼OA最新版前台SQL注入(0day)披露与挖掘过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486886&idx=1&sn=1efb8a54ca1ff7701bc44e02d7e45a15",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
