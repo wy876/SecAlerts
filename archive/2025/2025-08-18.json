@@ -28,5 +28,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519439&idx=1&sn=7318c9917351c69b1ba850a6c064ecd8",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "漏洞通告 | Smartbi 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507893&idx=1&sn=70ab343dd7496ef4bee4c4d390b22cd7",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551448&idx=1&sn=b869d8e0b21b9c997e3f0607c0217f65",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "研究了200天LLM，越权漏洞检测准确率才提升这点点？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495380&idx=1&sn=d2e309e34ea2e3a88ee3e578e11d8197",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "西部数据 remoteBackups.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
