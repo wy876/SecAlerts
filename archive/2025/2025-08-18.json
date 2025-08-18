@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484634&idx=1&sn=1bce2f728d5e3b3d52e5a0415b0b6868",
         "source": "Doonsec",
         "date_added": "2025-08-18"
+    },
+    {
+        "title": "【安全圈】俄罗斯黑客组织 EncryptHub 利用 MSC EvilTwin 漏洞部署 Fickle Stealer 恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071237&idx=4&sn=697e0a6986a00b808ad82f4ab9ee0a33",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
+    },
+    {
+        "title": "【复现】SmartBi远程代码执行漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484927&idx=1&sn=74121441d711a2028471851b7e19adb0",
+        "source": "Doonsec",
+        "date_added": "2025-08-18"
     }
 ]
