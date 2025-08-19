@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "Day26 Web漏洞-XSS跨站脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
