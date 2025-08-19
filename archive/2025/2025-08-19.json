@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484574&idx=1&sn=5aa01cf4799af18b8a957d1e7bba9216",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "Database 2.10.10 代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522822&idx=1&sn=95e52fcd99b4ae6220f99a61b5a8f823",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "PagerMaid-Pyro后台管理系统 run_sh 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
