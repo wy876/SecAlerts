@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498558&idx=1&sn=14870e7dc7574e3deb1bff0b494c47c4",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "dataease最新绕过利用json覆盖属性RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495093&idx=1&sn=d648cd410b76f7361c5792b8cb1b6f65",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
