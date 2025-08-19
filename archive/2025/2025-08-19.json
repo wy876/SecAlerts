@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490549&idx=1&sn=8615d06eaebcba21b0a4f665651c3e7e",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "代码审计Ai-SAST工具 | 公开版正式发布啦！！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTA1NDMxMw==&mid=2247484588&idx=1&sn=97cb4844f8baf434817ead3fa7ef8bd1",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【漏洞复现】特斯拉车主敏感数据因配置错误大规模暴露，GPS与驾驶习惯均可被获取。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483888&idx=1&sn=6b0d642c903ac8d713f2b2528b247047",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【高危漏洞预警】Smartbi远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490623&idx=1&sn=037d1f9e0610150aefe6cb7ccb826640",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
