@@ -136,5 +136,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484111&idx=1&sn=db0059dd220dfa07d10c51b477a89efa",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "《Java代码审计高阶实战班》第二期招生啦，在第一期 100 节基础与实战，第二期又新增更多有趣实战！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487515&idx=1&sn=b46cd632eeb59760ee7f5f0add4c36f1",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "拿下摄像头四个高危漏洞，影响数万台设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616905&idx=1&sn=ae5d0fd225e620569e4c35b622293b3a",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "记一次小程序漏洞挖掘：从越权登录到信息泄露（轻松易上手）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551463&idx=1&sn=a073ebbb7858e9e00184b3be1fe3da08",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "泄露英特尔 27 万员工信息的历史漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501938&idx=1&sn=29d24a68eed94d45cc4e1107ee8c5902",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "我的前 150 天漏洞赏金猎人生涯",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507340&idx=1&sn=6aa2958acd5c23035eca5fb333acfaf8",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【已复现】Smartbi 远程代码执行漏洞(QVD-2025-31926)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "麦当劳内部系统惊现多重漏洞：员工、API与奖励轻松被搞定",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486603&idx=1&sn=ecfbbf4d30e2c906864d13d8fff5ccd5",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【实战SRC】漏洞挖掘之风控绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "长城华西银行被罚402.8万元：五大违规行为暴露内控漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498558&idx=1&sn=14870e7dc7574e3deb1bff0b494c47c4",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
