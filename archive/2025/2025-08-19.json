@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488324&idx=1&sn=f2d62aaa335a0f067108180b14755bb8",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "一款通用漏洞检测工具|漏洞利用-ExpScanner",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491423&idx=1&sn=e7c4d1bb482e43192864c2c5554d4adb",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "VulnMain开源漏洞管理平台更新：新增LDAP目录同步",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTczNzM1Ng==&mid=2247485629&idx=1&sn=a3db496ecd85cfe8cac675ff54bddac2",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "走进“乌云”教科书书里的漏洞（2）【负数支付漏洞】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485968&idx=1&sn=2dc42098d6ee00e0fd2bdc88047b70b6",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
