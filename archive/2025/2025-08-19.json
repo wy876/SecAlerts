@@ -322,5 +322,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "Star 4k+ 一款专注于渗透测试/红队作战的高性能漏洞扫描器更新|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【蓝队】漏洞全生命周期管理平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "西部数码NAS ftp_download.php接口存在命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "AI驱动的黑盒漏洞自动审计系统：从人工复现到智能判断的技术实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485174&idx=1&sn=4fa2aa68828148098914e5b01e0ffd68",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
