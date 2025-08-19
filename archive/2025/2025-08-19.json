@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326444&idx=2&sn=a79486f76e901befa352cfe5b960079a",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "【已复现】Smartbi存在未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490549&idx=1&sn=8615d06eaebcba21b0a4f665651c3e7e",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
