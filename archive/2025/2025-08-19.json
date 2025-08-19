@@ -262,5 +262,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247497026&idx=1&sn=297d2ac1ed7bbc16c2e445a9f5da35d6",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "Linux内核netfilter漏洞可导致攻击者权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326444&idx=2&sn=a79486f76e901befa352cfe5b960079a",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
