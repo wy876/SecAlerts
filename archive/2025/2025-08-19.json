@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490623&idx=1&sn=037d1f9e0610150aefe6cb7ccb826640",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "OAuth2.0劫持账号漏洞挖掘案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=1&sn=54b8e860cdd344a2ba716ee43a0855ca",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
