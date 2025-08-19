@@ -1,0 +1,80 @@
+[
+    {
+        "title": "二进制漏洞检测工具 -- BinaryVul_DecteTool(8月18日更新)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517176&idx=1&sn=77cd288b61e690de9f2e99f7189836bd",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "从子域名爆破到越权扫描，打通渗透全流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517682&idx=1&sn=2a170cbaab6dfeab546d2c537920c391",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "一款Windows GUI界面的渗透测试工具箱-V1.1（更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493808&idx=1&sn=33f4d1df8c2325616697dc22fa4b6e55",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【src技巧篇】php 文件上传不含一句 php 代码 RCE 最新新姿势",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495045&idx=1&sn=226c2687a5cfd98190dbbd5094b92695",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第31期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500276&idx=1&sn=49c0b066094f9357ae8a61cd8c15ca40",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": ".NET MVC 漏洞挖掘，通过匿名访问实现权限绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500328&idx=1&sn=e66fa07cfe55feb135a89b9f131511d8",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "一个开源的渗透测试框架--溯光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507097&idx=1&sn=b561eda5f06f1f235009c49bc453b1c0",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年08月18日",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491837&idx=1&sn=f8be075b7e543e26b0e497ff56f31c32",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行和任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494087&idx=2&sn=2574ff358c2f13f8970790ef36ca82b6",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "漏洞预警 | 锐明技术 Crocus系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494087&idx=3&sn=15f0172f9b16a5095d46a2969c5eae66",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "“僵尸后门”来袭！去年那个差点搞垮互联网的XZ漏洞，还“活”在Docker里，并且正在悄悄传播！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901168&idx=1&sn=476ebe23d9442ebd42192d20cc487841",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "Elasticsearch未授权访问渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487759&idx=1&sn=0ab34df886e2bd0336143b6ad8be36eb",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "【前瞻版】大华ICC push/receive 命令执行漏洞利用工具V0.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    }
+]
