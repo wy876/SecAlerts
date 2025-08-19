@@ -76,5 +76,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [备考CC｜CC官方测试题，即刻挑战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493057&idx=1&sn=c0a06ac09c94750e13672aff38b4688c",
+        "source": "ChainReactors",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [【已复现】Fortinet FortiSIEM 远程命令执行漏洞(CVE-2025-25256)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538",
+        "source": "ChainReactors",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [WinRAR零日漏洞攻击的分析详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584284&idx=1&sn=a1499ea1c90b5c328f983e2150ad1689",
+        "source": "ChainReactors",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [备考CC｜CC官方测试题，即刻挑战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493057&idx=1&sn=c0a06ac09c94750e13672aff38b4688c",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [【已复现】Fortinet FortiSIEM 远程命令执行漏洞(CVE-2025-25256)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "] [WinRAR零日漏洞攻击的分析详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584284&idx=1&sn=a1499ea1c90b5c328f983e2150ad1689",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "欧澳PicHome textviewer 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492483&idx=1&sn=60156f15987e6e224b8c2e7411f642ac",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
+    },
+    {
+        "title": "CodeVulnScan-基于正则的代码审计工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484574&idx=1&sn=5aa01cf4799af18b8a957d1e7bba9216",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
