@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495093&idx=1&sn=d648cd410b76f7361c5792b8cb1b6f65",
         "source": "Doonsec",
         "date_added": "2025-08-19"
+    },
+    {
+        "title": "JDK17不出网？Shiro反序列化极限RCE！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488324&idx=1&sn=f2d62aaa335a0f067108180b14755bb8",
+        "source": "Doonsec",
+        "date_added": "2025-08-19"
     }
 ]
