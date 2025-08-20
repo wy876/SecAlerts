@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642818&idx=1&sn=97621d0a67e7f125bc03059f6e70dc6e",
         "source": "Doonsec",
         "date_added": "2025-08-20"
+    },
+    {
+        "title": "Chrome 高严重性漏洞允许攻击者执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096471&idx=1&sn=782fdcca143f6d312cdda073448ee766",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
     }
 ]
