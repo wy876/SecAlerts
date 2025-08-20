@@ -1,0 +1,50 @@
+[
+    {
+        "title": "] [2024年ISC2年报发布：您的热忱启迪人心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493063&idx=1&sn=61a041674cb72e3cb699a6d0fbed00a4",
+        "source": "ChainReactors",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "] [思科提醒注意Firewall 管理中心满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=1&sn=e417e55b90ede28fbc35dfca8a455248",
+        "source": "ChainReactors",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "] [PostgreSQL 紧急修复Core Utilities 中的多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=2&sn=7eda1a64dd8447af46435bb0a2477ef2",
+        "source": "ChainReactors",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "] [2024年ISC2年报发布：您的热忱启迪人心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493063&idx=1&sn=61a041674cb72e3cb699a6d0fbed00a4",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "] [思科提醒注意Firewall 管理中心满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=1&sn=e417e55b90ede28fbc35dfca8a455248",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "] [PostgreSQL 紧急修复Core Utilities 中的多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=2&sn=7eda1a64dd8447af46435bb0a2477ef2",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492502&idx=1&sn=ee81aeb9c4686297a61bd51da9da5a6c",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "CVE-2025-49001 飞致云 DataEase Postgresql JDBC Bypass 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    }
+]
