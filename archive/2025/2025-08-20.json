@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490178&idx=1&sn=c36737d916f6c330dbe442a191faded7",
         "source": "Doonsec",
         "date_added": "2025-08-20"
+    },
+    {
+        "title": "【安全圈】特斯拉车辆数据因配置漏洞遭大规模泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071280&idx=2&sn=9b6dec0ed6e57c86d2ed7598c3ab24cd",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "藏在身边的“泄密者”：别让打印机成为漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642818&idx=1&sn=97621d0a67e7f125bc03059f6e70dc6e",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
     }
 ]
