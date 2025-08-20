@@ -76,5 +76,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574589&idx=2&sn=7a807950db4f88afe43fd9dd82a66840",
         "source": "Doonsec",
         "date_added": "2025-08-20"
+    },
+    {
+        "title": "Plex 修复神秘漏洞，提醒用户立即升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523844&idx=1&sn=25a47e194f18b102314d9bab459cda61",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485095&idx=1&sn=bb461c19aaf6e88e81189f6115d98395",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "漏洞复现-小皮面板JWT Token伪造到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247483993&idx=1&sn=40eca9b734cd7022fdd13fc74a257e07",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "更新：第11章 codeql代码审计 | 系统0day安全-二进制漏洞攻防（第4期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598760&idx=3&sn=837ea814a684184f017926330f0c0371",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "【ADLab原创漏洞】微软Prompt flow远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492356&idx=1&sn=22027af77659ff88db0fe80cbb36b667",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "为什么黑客网安人都爱挖src？挖漏洞到底有多香？！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485741&idx=1&sn=7804476177be08f45f1f58079e24b54c",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
     }
 ]
