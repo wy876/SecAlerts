@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486516&idx=1&sn=d9859e85a9ba37644fae9182f78af5fb",
         "source": "Doonsec",
         "date_added": "2025-08-20"
+    },
+    {
+        "title": "麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637022&idx=2&sn=0a4201baefaf8f5c8d7f1fb34f90780a",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "研究员发现5G网络安全漏洞：可实时嗅探流量、拒绝服务、网络降级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637022&idx=4&sn=947e113d07a4311bd2a100063b3d636e",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
     }
 ]
