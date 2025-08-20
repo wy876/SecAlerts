@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485741&idx=1&sn=7804476177be08f45f1f58079e24b54c",
         "source": "Doonsec",
         "date_added": "2025-08-20"
+    },
+    {
+        "title": "麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326507&idx=3&sn=40b96b8b514f838661cdeaf216deba30",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "Google Jules存在不可见提示词注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485030&idx=1&sn=d2b196bffd1b9063b73dca9360e3367f",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
+    },
+    {
+        "title": "【Java代审】小白如何根据1day挖出天锐绿盾前台RCE 0day?",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490178&idx=1&sn=c36737d916f6c330dbe442a191faded7",
+        "source": "Doonsec",
+        "date_added": "2025-08-20"
     }
 ]
