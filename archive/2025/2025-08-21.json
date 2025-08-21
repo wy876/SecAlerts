@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDE5NDcxMA==&mid=2650936301&idx=1&sn=d26e3f1585f3bb505f5e8988d47014d5",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "DNSlog在漏洞挖掘中的妙用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551491&idx=1&sn=02e3f615b312d75644d9d6900f26c53e",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "Nothing 手机厂商无视漏洞报告？PoC 已被公开，涉及国内手机厂商",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486653&idx=1&sn=37a5a1a02e292deb02c7d6fdccd62536",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
