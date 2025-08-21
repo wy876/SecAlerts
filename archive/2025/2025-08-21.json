@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486653&idx=1&sn=37a5a1a02e292deb02c7d6fdccd62536",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "$500 赏金：逻辑漏洞如何让金融应用实现静默登录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507371&idx=1&sn=a9fd6f3ab55eb0bad8002ba19775137c",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "智慧校园(安校易)管理系统 PPlugList.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "面对域名过期漏洞，PyPI阻断了账户劫持与攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584348&idx=1&sn=6d1432bd4fca14a647832a914daae622",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
