@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491891&idx=1&sn=ce4a70ec36883c57fca3c31b0c7e7856",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637033&idx=2&sn=53e8a26328e3157d3fe599a6611fdce3",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "一次 2FA 绕过漏洞的发现与复测案例分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487095&idx=1&sn=a5f3b193f2213f2c28a2de1d26863fa2",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
