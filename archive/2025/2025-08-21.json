@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584348&idx=1&sn=6d1432bd4fca14a647832a914daae622",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "微软限制中国企业获取网络安全漏洞事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487193&idx=1&sn=b3a91bff9da3271617d7798164a08320",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "走进“乌云”教科书书里的漏洞（3）【修改金额薅羊毛漏洞】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485983&idx=1&sn=e28d8ae5f6ac99fe2e7aae8d03fdae09",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "未授权漏洞渗透技巧总结分享（五）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488528&idx=1&sn=b633fe9412531a69685b4dca268507e6",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "swagger 接口未授权漏洞怎么玩儿！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=3&sn=62ccfae62ae23134d68b6b056a78df97",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "【高危漏洞预警】Smartbi远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
