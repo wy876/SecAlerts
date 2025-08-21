@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487095&idx=1&sn=a5f3b193f2213f2c28a2de1d26863fa2",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "CVE‑2025‑29824 Windows 提权漏洞深入分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490065&idx=1&sn=ffd8c09d53d8beb89d16d141b989b994",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
