@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493895&idx=1&sn=110158154aef2f85185c523e76c3670f",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "SAP NetWeaver AS Java 未授权反序列化漏洞技术分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDE5NDcxMA==&mid=2650936301&idx=1&sn=d26e3f1585f3bb505f5e8988d47014d5",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
