@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "漏洞预警 | 用友NC任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=3&sn=9d9347e6ff2ab4a3b2866ebd98fd6eee",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
