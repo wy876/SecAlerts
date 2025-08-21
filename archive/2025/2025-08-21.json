@@ -196,5 +196,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489771&idx=1&sn=9dc8fc4756e4ca5e1ab79d10e2c6a432",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "漏洞利用，一键接管目标机器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556102&idx=1&sn=944becb544a975e3c38bb9f9d6e1c678",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "【免费领】渗透测试必知必会工具及实操教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556102&idx=2&sn=a1d7fc26524cc75b9682e30ccb1cdd49",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "CVE-2025-49127：由于 Kafbat UI 中的不安全反序列化导致的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532362&idx=1&sn=e7156b995032615b17009fcdcc385837",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532362&idx=3&sn=0500840fd396ae4844587fccca3c17ed",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
