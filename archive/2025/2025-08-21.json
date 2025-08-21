@@ -154,5 +154,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=3&sn=9d9347e6ff2ab4a3b2866ebd98fd6eee",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "【云原生安全】Kubernetes下的SSRF漏洞发现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487075&idx=1&sn=1c1a1deecbf2d2fe89ad1dc0193a1e33",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "【字典合集】史上最全的渗透测试字典合集大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485630&idx=1&sn=cf34abb61f23dbeae7ad394c63b3f986",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "重磅|南瑞网安正式成为国家信息安全漏洞库（CNNVD）技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODI1NjMyNQ==&mid=2247484739&idx=1&sn=075537f5d64c7f5222c8a7b56e248541",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
