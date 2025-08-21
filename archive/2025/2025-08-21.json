@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532362&idx=3&sn=0500840fd396ae4844587fccca3c17ed",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "【安全圈】俄黑客利用思科7年前漏洞入侵关键基础设施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071298&idx=3&sn=f9e6ee58e845fd627ca3c177a4a381b1",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "为什么黑客网安人都爱挖src？挖漏洞到底有多香？！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484562&idx=1&sn=1f79f956c86b31b0d2a2e96ca689f422",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "CVE-2024-23897-Jenkins任意文件仅一行回显下的后利用思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247484007&idx=1&sn=aba9231553a8a0c8aff39c71150c56f4",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
