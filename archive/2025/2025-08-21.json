@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "新一波 Android 恶意软件通过 NFC 中继欺诈、呼叫劫持和 Root 漏洞袭击银行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493363&idx=1&sn=c351817672b2a90abd50ca44b3c4b824",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
