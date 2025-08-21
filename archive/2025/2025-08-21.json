@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247484007&idx=1&sn=aba9231553a8a0c8aff39c71150c56f4",
         "source": "Doonsec",
         "date_added": "2025-08-21"
+    },
+    {
+        "title": "十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326554&idx=1&sn=13b2e7f9834d1401ac0b7dee3d2f573d",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326554&idx=3&sn=337e2dd998943f1bf6784d5646a89910",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
+    },
+    {
+        "title": "美团安全应急响应中心漏洞测试高压线V2.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493924&idx=2&sn=af01328cacbe1fb5c29a08e52a26457a",
+        "source": "Doonsec",
+        "date_added": "2025-08-21"
     }
 ]
