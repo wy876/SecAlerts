@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28",
         "source": "Doonsec",
         "date_added": "2025-08-22"
+    },
+    {
+        "title": "从js逆向到sql注入waf绕过到net审计-edu证书漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
     }
 ]
