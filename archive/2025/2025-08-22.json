@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485110&idx=1&sn=b1b70e9f09c2ff8386bff470515bfb89",
         "source": "Doonsec",
         "date_added": "2025-08-22"
+    },
+    {
+        "title": "健身 APP 惊现漏洞链，500 万邮箱数据岌岌可危！！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485862&idx=1&sn=7f0f15f5d4a9884a1b331ed8a461787f",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "DLL劫持漏洞挖掘以及实现白+黑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485113&idx=1&sn=bd447c8599e5029a3d3948883f142d9b",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "【实战SRC】漏洞挖掘之XSS漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
     }
 ]
