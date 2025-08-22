@@ -34,5 +34,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491284&idx=1&sn=865884431f18938668728db998c1ad9a",
         "source": "Doonsec",
         "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [【1CPE】ISC2Webinar丨勒索软件、API 和人工智能如何重塑网络防御规则",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493070&idx=1&sn=6cdb72c3e318da71b7f5950513b850bc",
+        "source": "ChainReactors",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce",
+        "source": "ChainReactors",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [Swagger UI 的隐藏陷阱，XSS 注入一击即中（CVE-2025-8191）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74",
+        "source": "ChainReactors",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [【漏洞通告】Commvault 未授权远程代码执行漏洞(CVE-2025-57790)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633",
+        "source": "ChainReactors",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [【1CPE】ISC2Webinar丨勒索软件、API 和人工智能如何重塑网络防御规则",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493070&idx=1&sn=6cdb72c3e318da71b7f5950513b850bc",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [Swagger UI 的隐藏陷阱，XSS 注入一击即中（CVE-2025-8191）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "] [【漏洞通告】Commvault 未授权远程代码执行漏洞(CVE-2025-57790)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "Agentic AI是否能化解网络安全危机?|研究员发现5G网络安全漏洞：可实时嗅探流量、拒绝服务、网络降级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=2&sn=8329494513383aef45c789b0fc88460d",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "Linux内核netfilter漏洞可导致攻击者权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=3&sn=46253be4b3aa169c358cdcd799cc154e",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
+    },
+    {
+        "title": "漏洞预警|Windows被曝休眠中的IPv6可被利用以劫持网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489214&idx=1&sn=5d5333cebdb9c5e58ae31911d40c1b4c",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
     }
 ]
