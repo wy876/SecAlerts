@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489214&idx=1&sn=5d5333cebdb9c5e58ae31911d40c1b4c",
         "source": "Doonsec",
         "date_added": "2025-08-22"
+    },
+    {
+        "title": "空白页面到未授权获取token在到垂直越权漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483926&idx=1&sn=ab0b20a013f81d5d5360b1638866479d",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
     }
 ]
