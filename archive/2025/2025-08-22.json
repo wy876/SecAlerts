@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518356&idx=1&sn=2d693637879472c0ded67df05ab9b3c2",
         "source": "Doonsec",
         "date_added": "2025-08-22"
+    },
+    {
+        "title": "CVE-2024-21762 FortiOS RCE 复现与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28",
+        "source": "Doonsec",
+        "date_added": "2025-08-22"
     }
 ]
