@@ -124,5 +124,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485772&idx=1&sn=1fd950aee6aba6a369e47cdd28d6c6bd",
         "source": "Doonsec",
         "date_added": "2025-08-23"
+    },
+    {
+        "title": "某盾信息安全管理审计系统RCE漏洞（1day）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484462&idx=1&sn=932a72221a604cdea9d9a5a8e47513e5",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
     }
 ]
