@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484462&idx=1&sn=932a72221a604cdea9d9a5a8e47513e5",
         "source": "Doonsec",
         "date_added": "2025-08-23"
+    },
+    {
+        "title": "漏洞自动分析和修复Agent:Buttercup 如何打通检索—分析—修补—验证闭环",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484741&idx=1&sn=6419d3ee13028e338e18270a8d73fbbc",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
     }
 ]
