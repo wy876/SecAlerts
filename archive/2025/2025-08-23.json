@@ -10,5 +10,113 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc",
         "source": "Doonsec",
         "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [【已复现】Docker Desktop 未授权访问漏洞(CVE-2025-9074)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503830&idx=1&sn=99d1c79a77988821bcf94a3f4fd13498",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [Commvault 预认证利用链可用于实施RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523861&idx=1&sn=d7b88fdc84ab443ced7ac3c7ee6786b6",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [一套利用链报价超1.4亿元！这家公司战略储备零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514884&idx=1&sn=5cd4226955120777c874071a82aa3564",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [【已复现】Docker Desktop Engine API 未授权访问漏洞安全通告(CVE-2025-9074)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492932&idx=1&sn=b4f9abb7a784d419f0a0ce226e3cee57",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [微软拟限制我国企业获取安全漏洞通知权限；曾对DeepSeek发起攻击的22岁黑客在美被捕；日产汽车4TB机密数据泄露 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [.NET MVC 漏洞挖掘，通过匿名访问实现权限绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500352&idx=3&sn=c4539cf2099c369f41644cb638b5d953",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [价值1.4 W人民币漏洞！骚！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498084&idx=1&sn=d2e8070514f4eaf7b4ac884804facfe6",
+        "source": "ChainReactors",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [【已复现】Docker Desktop 未授权访问漏洞(CVE-2025-9074)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503830&idx=1&sn=99d1c79a77988821bcf94a3f4fd13498",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [【已复现】Docker Desktop Engine API 未授权访问漏洞安全通告(CVE-2025-9074)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492932&idx=1&sn=b4f9abb7a784d419f0a0ce226e3cee57",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [一套利用链报价超1.4亿元！这家公司战略储备零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514884&idx=1&sn=5cd4226955120777c874071a82aa3564",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [微软拟限制我国企业获取安全漏洞通知权限；曾对DeepSeek发起攻击的22岁黑客在美被捕；日产汽车4TB机密数据泄露 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [.NET MVC 漏洞挖掘，通过匿名访问实现权限绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500352&idx=3&sn=c4539cf2099c369f41644cb638b5d953",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [Commvault 预认证利用链可用于实施RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523861&idx=1&sn=d7b88fdc84ab443ced7ac3c7ee6786b6",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "] [价值1.4 W人民币漏洞！骚！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498084&idx=1&sn=d2e8070514f4eaf7b4ac884804facfe6",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "20个网站备份泄漏漏洞挖掘技巧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611962&idx=3&sn=7b31396172279e11785ad4aa11757279",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "【Java代码审计】手把手带你学，小白也能变大神！更有重磅网安就业班，未就业不满意免费退！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495016&idx=1&sn=68daf98143e2ece5612b36355e503760",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "【实战SRC】漏洞挖掘之docker未授权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
+    },
+    {
+        "title": "【Java代码审计】手把手带你学，小白也能变大神！更有重磅网安就业班，未就业不满意免费退！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513475&idx=1&sn=d41ad1fbcd314b44a4cba606ce88e978",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
     }
 ]
