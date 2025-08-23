@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484741&idx=1&sn=6419d3ee13028e338e18270a8d73fbbc",
         "source": "Doonsec",
         "date_added": "2025-08-23"
+    },
+    {
+        "title": "复旦大学 | 检测微服务应用中的污点风格漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493535&idx=1&sn=8874a2770afc252f5a107d712433dd37",
+        "source": "Doonsec",
+        "date_added": "2025-08-23"
     }
 ]
