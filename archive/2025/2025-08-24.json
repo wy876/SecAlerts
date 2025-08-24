@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488657&idx=1&sn=3b4362005b252ac4f44bb2e1c56209fa",
         "source": "Doonsec",
         "date_added": "2025-08-24"
+    },
+    {
+        "title": "黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637065&idx=3&sn=7eb02e143a502fcb8d7eaee6646a8aeb",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "汉王e脸通综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
     }
 ]
