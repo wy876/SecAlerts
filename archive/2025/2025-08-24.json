@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0",
         "source": "Doonsec",
         "date_added": "2025-08-24"
+    },
+    {
+        "title": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487789&idx=1&sn=7f1b94513ef2cb92bbafa4ffc69b9c73",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
     }
 ]
