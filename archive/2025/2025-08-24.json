@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289967&idx=1&sn=1f49efadde94491d9470d9804e5a8949",
         "source": "Doonsec",
         "date_added": "2025-08-24"
+    },
+    {
+        "title": "流量管理、漏洞探测插件 - Brup_TLA",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "逻辑漏洞渗透商场平台技巧分享（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488580&idx=1&sn=bf79f98733b8b2969e26e5a01064f6ca",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "浏览器存储桶配置漏洞检测插件BucketTool",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488657&idx=1&sn=3b4362005b252ac4f44bb2e1c56209fa",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
     }
 ]
