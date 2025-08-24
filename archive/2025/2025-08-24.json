@@ -28,5 +28,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524762&idx=1&sn=790d100f59857f3a5994daaa157c56d1",
         "source": "Doonsec",
         "date_added": "2025-08-24"
+    },
+    {
+        "title": "漏洞预警 | 红帆iOffice SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494190&idx=1&sn=7e1150362b96163aff7e59a337b131b8",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494190&idx=2&sn=cce24d217b829b88377c2a96f001a328",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494190&idx=3&sn=b9b4c42c23e8a25a33dd97d815e7213f",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
     }
 ]
