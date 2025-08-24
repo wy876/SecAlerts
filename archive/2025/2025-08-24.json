@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33",
         "source": "Doonsec",
         "date_added": "2025-08-24"
+    },
+    {
+        "title": "图形化安服/渗透测试报告自动生成工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574611&idx=1&sn=caf41672014ba52dacd6fd9b8e4c0911",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
+    },
+    {
+        "title": "iOS 18.6.1 0-click RCE POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532407&idx=1&sn=78a36f3aec4654b89cd1b29b91e9cb94",
+        "source": "Doonsec",
+        "date_added": "2025-08-24"
     }
 ]
