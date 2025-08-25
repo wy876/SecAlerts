@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488959&idx=1&sn=f96b16f17949a4e5377b13388c0f203f",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "DNS 域传送漏洞：原理、危害及防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523176&idx=1&sn=001602a1ff28c7a89fbef09ec787d142",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
