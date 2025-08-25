@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "东胜物流软件UploadMailFil接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488959&idx=1&sn=f96b16f17949a4e5377b13388c0f203f",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
