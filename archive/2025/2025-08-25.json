@@ -94,5 +94,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071368&idx=2&sn=71a4400ee05c9398bf7dae46871838df",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "警惕！IPv6默认配置成为黑客入侵企业内网的新“漏洞”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "长亭解决方案｜СТЕМ-漏洞运营解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "渗透测试全笔记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574621&idx=2&sn=e735c8ba885fb42b81cbd9ddf45716b6",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "天锐绿盾审批系统 findUserPage 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484083&idx=1&sn=c5a02123a13bafe9cdce1dd92bd0a810",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "漏洞预警 | SmartBI远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=3&sn=055d8e924aae22393ac393cb4dcda7fb",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
