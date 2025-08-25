@@ -64,5 +64,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326663&idx=1&sn=73d321233ace57d7c4b3202a9d9fbb2d",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第32期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=1&sn=b98713b85ea2b1fb114a24695dc50978",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250818-20250824",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=2&sn=01ce63ed042a94bde7e31b9ca7ce7873",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "每周网安资讯（8.19-8.25） | IBM多款产品存在指定输入类型的验证不恰当漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506880&idx=1&sn=de3a879d6541fbaf781e877ba74d2e3b",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
