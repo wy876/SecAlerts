@@ -130,5 +130,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=3&sn=055d8e924aae22393ac393cb4dcda7fb",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "【实战】文都 OA 云协同系统分析+漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=1&sn=e71b281b21a01cfe728ae5467102c04b",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "Database 2.10.10 代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=2&sn=0acc7eb230c9b76e7d6ec842ea047f02",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "Smartbi 最新认证绕过导致RCE漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "权威背书 + 实战淬炼 | OSWE 从代码审计到漏洞利用全通关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518376&idx=1&sn=32387485acf7334ef4f780a16b309e21",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "Smartbi 最新认证绕过导致RCE漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
