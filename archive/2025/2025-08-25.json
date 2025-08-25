@@ -28,5 +28,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507",
         "source": "Doonsec",
         "date_added": "2025-08-25"
+    },
+    {
+        "title": "黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "【若依专题】超详细的环境搭建教学+SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "移动渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492112&idx=1&sn=ed33d3744191d032f4fecc284f2c87f8",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
+    },
+    {
+        "title": "一个基于fuzz的waf绕过渗透工具-- x-waf",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507139&idx=1&sn=2dfc423fda50fe4df00c8149638d6c61",
+        "source": "Doonsec",
+        "date_added": "2025-08-25"
     }
 ]
