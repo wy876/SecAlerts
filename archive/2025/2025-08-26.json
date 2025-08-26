@@ -154,5 +154,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517210&idx=1&sn=7c109986960e4a734ce133ca489b6b4f",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "一文揭秘｜什么是零日漏洞？如何防范它带来的危害？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247601137&idx=2&sn=2ee279c40b6e91fe7707064f5b9c134c",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "JAVA代码审计之越权漏洞、前端代码之5分钟安全漏洞审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzMwNTgxNQ==&mid=2247491921&idx=1&sn=826d3f705d88bcac3f5dde23992e3486",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "Java 代码审计（一）Java代码审计的基本概念",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2OTc3MQ==&mid=2247488481&idx=1&sn=c2cc445f76396ae810d96c232601ae89",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "SysAid On-Prem XML漏洞(CVE-2025-2775)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492556&idx=1&sn=1d2805c6aad6251fbb963494b052a452",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "Windows渗透工具集合分享！渗透工具箱制作教程！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTczNzIxNQ==&mid=2247486815&idx=1&sn=95ef67ad4fa3fa221fe0ffb74f410cd0",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "整车渗透：从入侵朋友的车辆开始，解锁root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483713&idx=1&sn=07882530234b64a7d12474f21c79b857",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "同样是写POC，为什么别人比你快100倍？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484947&idx=1&sn=0437ff1745a0ae6d99e7d378290dc5d0",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "幻影（Phantom）SRC漏洞挖掘辅助工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTQzNTM3Ng==&mid=2247484193&idx=1&sn=f77a4dbe73b069585e448ad4473e1d7a",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
