@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488600&idx=1&sn=5a01e609de5ec847cd7add6a155190fe",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "渗透测试 | 某985高校漏洞挖掘小记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494482&idx=1&sn=38e831a33ec2e9a3dabcf66c0be60715",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "Apache Druid SSRF漏洞(CVE-2025-27888)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492547&idx=1&sn=e09859b8bf1af690140e2e7f49426f32",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "SRC漏洞挖掘工具 -- Phantom（8月23日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517210&idx=1&sn=7c109986960e4a734ce133ca489b6b4f",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
