@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485059&idx=1&sn=2d46baefd49fa9cc3c008dca41177915",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "AI译文 思科 IOS XE WLC 任意文件上传漏洞 (CVE-2025-20188) 分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTY4NjUyOQ==&mid=2247485679&idx=1&sn=584c77e0621cf58fe5350370e8d01b65",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
