@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTY4NjUyOQ==&mid=2247485679&idx=1&sn=584c77e0621cf58fe5350370e8d01b65",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "【SRC实战】CSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "PipeMagic后门的演化：从 RansomExx 攻击事件到 CVE-2025-29824漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247486989&idx=1&sn=7f6371bfa680c9b6722211634dc7163b",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
