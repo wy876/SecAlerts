@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488247&idx=1&sn=111f0b37a0f621469695ac997a8e78ee",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "工具推荐 | 一款基于fuzz的waf绕过渗透工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495736&idx=1&sn=11b435cfc9a8522102020d46dbc50bbb",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "渗透测试中的前端调试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556141&idx=1&sn=3459c860227b17965ca3d973b35f465b",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
