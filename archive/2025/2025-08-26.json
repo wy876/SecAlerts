@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556141&idx=1&sn=3459c860227b17965ca3d973b35f465b",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "渗透测试 | 某985高校漏洞挖掘小记",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "CVE-2025-0566 A15-MIPS架构下栈溢出漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "Windows服务器存在漏洞感染勒索病毒应急处理案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
