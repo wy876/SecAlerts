@@ -34,5 +34,107 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507424&idx=1&sn=11d85d6c17dd8f5c974c9f69418cfe01",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [成为网络安全精英，CISSP助您抢占职业高地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493078&idx=1&sn=d0ae302d13b3a71f6b72452117622b0a",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [Apache Tika PDF 解析器严重漏洞可导致攻击者访问敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523874&idx=2&sn=b22dbc00b0eba38c857fdab5fc4fe7a7",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [已复现！Apple ImageIo 越界写入漏洞，影响macOS、iOS、iPadOS",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507897&idx=1&sn=f70df7fb3c586dcb874ee9814357851e",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [提示词注入：近期大模型安全漏洞案例剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499078&idx=1&sn=0a5c09a852baac4df8e8f06d72b58656",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [点开图片就中招？苹果曝高危漏洞，推送紧急更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598876&idx=3&sn=331f087e7f795eec0466a41fa19ccba2",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [【已复现】Apple DNG图像处理越界写入漏洞(CVE-2025-43300)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503836&idx=1&sn=252514050cd2b43657a5243f118cd149",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [Google Chrome V8 越界写入漏洞简报（CVE-2025-9132）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510785&idx=1&sn=8cddb09dfb3e6ee2a3820c7c5780c878",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [熵裂·弥合丨腾讯2025上半年漏洞态势报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496643&idx=1&sn=e42e6880c327cf1c2a86d1023d6cc1f3",
+        "source": "ChainReactors",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [成为网络安全精英，CISSP助您抢占职业高地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493078&idx=1&sn=d0ae302d13b3a71f6b72452117622b0a",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [Apache Tika PDF 解析器严重漏洞可导致攻击者访问敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523874&idx=2&sn=b22dbc00b0eba38c857fdab5fc4fe7a7",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [已复现！Apple ImageIo 越界写入漏洞，影响macOS、iOS、iPadOS",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507897&idx=1&sn=f70df7fb3c586dcb874ee9814357851e",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [提示词注入：近期大模型安全漏洞案例剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499078&idx=1&sn=0a5c09a852baac4df8e8f06d72b58656",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [【已复现】Apple DNG图像处理越界写入漏洞(CVE-2025-43300)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503836&idx=1&sn=252514050cd2b43657a5243f118cd149",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [点开图片就中招？苹果曝高危漏洞，推送紧急更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598876&idx=3&sn=331f087e7f795eec0466a41fa19ccba2",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [Google Chrome V8 越界写入漏洞简报（CVE-2025-9132）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510785&idx=1&sn=8cddb09dfb3e6ee2a3820c7c5780c878",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "] [熵裂·弥合丨腾讯2025上半年漏洞态势报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496643&idx=1&sn=e42e6880c327cf1c2a86d1023d6cc1f3",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "【java审计】之下载漏洞获取到的代码如何断点调试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488600&idx=1&sn=5a01e609de5ec847cd7add6a155190fe",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
