@@ -250,5 +250,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484517&idx=1&sn=bf133ae474996c154eebb559e89aec73",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "用友NC importExcelTemplate接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488973&idx=1&sn=8525b9fb1757aea6b0df6a8580a7bb21",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "微软不提供0day预警，还需靠大家努力",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488247&idx=1&sn=111f0b37a0f621469695ac997a8e78ee",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
