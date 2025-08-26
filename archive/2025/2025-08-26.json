@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642972&idx=1&sn=e1097666c76c03c7c09bc30cf8251f40",
         "source": "Doonsec",
         "date_added": "2025-08-26"
+    },
+    {
+        "title": "不会写代码，却能拥有自己的渗透工具？490+人已经实现了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494206&idx=1&sn=73c8b61cb96ab9c4e27fcee8266cbb70",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "CISA将Citrix和Git漏洞列入被利用目录，全球厂商应迅速修补",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326728&idx=3&sn=9dae5102af59ec7895e18b381d48fa40",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
+    },
+    {
+        "title": "Amazon提示词注入导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485059&idx=1&sn=2d46baefd49fa9cc3c008dca41177915",
+        "source": "Doonsec",
+        "date_added": "2025-08-26"
     }
 ]
