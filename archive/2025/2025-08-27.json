@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483919&idx=1&sn=d6070ee4bd99cb90dc18f2d5f92de798",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "ssrf漏洞结合redis渗透linux主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589096&idx=1&sn=6c9c4ce08ec837ca9499d02f790d29d6",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "php 文件上传不含一句 php 代码 RCE 最新新姿势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491382&idx=1&sn=b123c2aba693f923bf235b603ef684c4",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
