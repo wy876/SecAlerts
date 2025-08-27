@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk0MDY5OA==&mid=2247485884&idx=1&sn=118574e7dce4bac9bdbc30b36d6271c4",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "一篇讲清楚渗透测试是什么？种类以及细节，渗透小白必看！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485871&idx=1&sn=cae6db5faf8bdffd6c837326788eead5",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "静默之控：主动与被动双模后门MystRodX的隐匿渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247484093&idx=1&sn=830282cdd26681db43d723364c52f1c5",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
