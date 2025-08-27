@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493832&idx=1&sn=cb10b94449d98dce6e9d416d4d082b20",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "【安全圈】黑客通过OAuth令牌漏洞，入侵多家企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071405&idx=4&sn=c0434c93832c33a5e2732eb4db9d6fb3",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "【相关分享】记一次渗透偶遇抽象开发成功getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489880&idx=1&sn=a7eb4e86f0fedd024db8193cb43b6988",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
