@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637104&idx=5&sn=f91d0a40ea46fafc5e305065be24dc69",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "VS Code Copilot 提示词注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484592&idx=1&sn=83d8bd964224df21f163a4f056a801d5",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
