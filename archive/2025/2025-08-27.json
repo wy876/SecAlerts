@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488986&idx=1&sn=263f1b2004456001a8c7f189ba66bc79",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "CISA 提醒注意已遭活跃利用的 Git 代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=2&sn=a9f209d80ecb2cb20899f31b1b931255",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
