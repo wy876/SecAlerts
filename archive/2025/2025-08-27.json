@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247484093&idx=1&sn=830282cdd26681db43d723364c52f1c5",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "基于LLM+Kali Linux MCP下的自动化渗透实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247484064&idx=1&sn=32550b5fa68243ff51594013ffce3ce1",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "二进制漏洞挖掘过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556164&idx=1&sn=1f1ee93256374d943bbd8dc9d465a77a",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
