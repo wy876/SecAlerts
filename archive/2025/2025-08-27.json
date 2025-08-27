@@ -136,5 +136,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491382&idx=1&sn=b123c2aba693f923bf235b603ef684c4",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "dirsx｜一款渗透测试自动化目录扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc2NDk2MQ==&mid=2247483909&idx=1&sn=cc9a4db9b6ecce50a7f8ef6008c97cdd",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "Dude Suite Web Security Tools 渗透测试工具—专属认证邀请码，手慢无",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522883&idx=1&sn=bda9a158ea0e82a74a35a9d70484d4f9",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "用友U8 Cloud FileManageServlet 任意文件读取漏洞(CNVD-2025-07265)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492566&idx=1&sn=a5fa50adf6d4e4cffb6e23813fa9e1e5",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "暗网出售Android 0day 可威胁数亿设备安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513528&idx=1&sn=b5cf1924137692b9d62c2b269939f569",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "Java 代码审计（二）JavaEE类库和Java框架认识以及环境搭建",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2OTc3MQ==&mid=2247488549&idx=1&sn=cb7c3eb73e32e56b143d22ae16ca98cb",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
