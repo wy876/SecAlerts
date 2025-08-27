@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556164&idx=1&sn=1f1ee93256374d943bbd8dc9d465a77a",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326763&idx=1&sn=796f7326ec14635b627337fa18948c42",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "SRC漏洞挖掘辅助工具-Phantom",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493832&idx=1&sn=cb10b94449d98dce6e9d416d4d082b20",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
