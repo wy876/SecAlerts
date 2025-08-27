@@ -94,5 +94,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500294&idx=1&sn=f541162fb71587ca9fbeef21ada6bc5b",
         "source": "BruceFeIix",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "【严重】Dataease DB2 Aspectweaver 反序列化任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486028&idx=1&sn=5de99b5c36af6f971c1c756922f4c65f",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "案例-记一次Flash网站渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NzA2MjgwNg==&mid=2648115761&idx=1&sn=9fc5081aebbc91a85f30ab02d59ab1b1",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548059&idx=2&sn=ace120ce9d6525cfae14fd01243f5eb0",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": ".NET MVC 漏洞挖掘，通过匿名访问实现权限绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500396&idx=3&sn=6aa7fa0dfd430326fedd9b3f6d4c19f4",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
+    },
+    {
+        "title": "接代码审计项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483919&idx=1&sn=d6070ee4bd99cb90dc18f2d5f92de798",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
