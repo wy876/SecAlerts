@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488603&idx=1&sn=108ddc32df3e0264e04b344fd2fcb3b0",
         "source": "Doonsec",
         "date_added": "2025-08-27"
+    },
+    {
+        "title": "MetaCRM美特crm系统sendsms.jsp接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488986&idx=1&sn=263f1b2004456001a8c7f189ba66bc79",
+        "source": "Doonsec",
+        "date_added": "2025-08-27"
     }
 ]
