@@ -70,5 +70,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524553&idx=1&sn=e3d9d6b4cce8ffb39461980f2feab9a7",
         "source": "BruceFeIix",
         "date_added": "2025-08-28"
+    },
+    {
+        "title": "银狐病毒的扩散防控；如何建立高效闭环的漏洞运营体系 | FB甲方群话题讨论",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326782&idx=2&sn=2f7748f4bc88c59def65d6b1755168d8",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "原厂编制 | 上海中级渗透测试工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551534&idx=2&sn=f952b403fe73bd953632080761ec3a82",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "腾讯云曝出严重安全漏洞，内部敏感信息等持续数月暴露于公网",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484342&idx=1&sn=2fbba03e5c4fe6986be3fbf0ac4e2705",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "精选4：Fastjson反序列化漏洞绕waf之特殊字符兼容性测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484722&idx=1&sn=a9027e54c6e2f61474f09f9e070d2228",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "2025了解 2025 年最大的 AI 安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484467&idx=1&sn=9bce2b9c5f1862ba757521704fcaffb2",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击、AI Agent+零售垂直模型第四范式发布零售行业AI智能体解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248383&idx=1&sn=3ee665a223f8aea8055f180d36c8e332",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报|重拳打击电诈，美国将1200家语音服务提供商踢出电话网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612033&idx=2&sn=e9385f7d347ea07c07fca67621570c43",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "php 文件上传不含一句 php 代码 RCE 最新新姿势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491508&idx=2&sn=e21e193d7e95a737510389dfbc317910",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "索贝融媒体 /sobey-mchEditor/mch/WXArticleInt/restore SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486976&idx=1&sn=cf97fc26d6da31da4c3edb1ec8199422",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "记一次企业src漏洞挖掘连爆七个漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507195&idx=1&sn=3c8c8cc92f6edcc928a536ac2c71b4f3",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "遗忘的子域名 = 1000 美元 “AWS 入侵” 漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507448&idx=1&sn=90dfb0905b145cd3f2d243ff8d8ae4c2",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
     }
 ]
