@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496946&idx=1&sn=ac3383562b3dd703bc22bf2a400797f5",
         "source": "Doonsec",
         "date_added": "2025-08-28"
+    },
+    {
+        "title": "【成功复现】Apache Druid服务端请求伪造漏洞(CVE-2025-27888)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503578&idx=1&sn=60ffc56465256fafbc8fcbd788338bc6",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "Java 代码审计（三）Java漏代码审计专项",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2OTc3MQ==&mid=2247488724&idx=1&sn=adb7bc1284610ea5867637bbb665ce59",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "Shadowrend 斩影 1.0 — 一个集成AI大模型的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485878&idx=1&sn=30f2873daaecb113fe70dfee6d6ded1b",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
     }
 ]
