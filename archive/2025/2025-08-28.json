@@ -136,5 +136,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507448&idx=1&sn=90dfb0905b145cd3f2d243ff8d8ae4c2",
         "source": "Doonsec",
         "date_added": "2025-08-28"
+    },
+    {
+        "title": "某景人事管理系统漏洞挖掘与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574690&idx=1&sn=afa8a60b226c4d0ba2a2190ff66b3b48",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "微软停供中国漏洞情报！美再踢 1200 家服务商重拳反电诈",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536121&idx=1&sn=93ad9dd4c66f9eff45647e0187af5223",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "CodeVulnScan：红队专属！正则匹配秒定位代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536121&idx=5&sn=d831f13770725f6b4aabec83beaff33f",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【漏洞通告】Apple macOS Sequoia代码执行漏洞（CVE-2025-43210）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486778&idx=2&sn=8951520338dc1b383d9d193d8886add7",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【漏洞通告】Apple macOS Sequoia信息泄露漏洞（CVE-2025-24134）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486778&idx=3&sn=81d1b8c29262abe52aac2d44d488c561",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【漏洞通告】多款Apple产品拒绝服务漏洞（CVE-2025-24177）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486778&idx=4&sn=7192c749d49fef7952154d30a08608e7",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【EDUSRC】某大学虚拟仿真实验平台渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496046&idx=1&sn=0c49498138fa357ec37fb5e96053dfeb",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
     }
 ]
