@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496046&idx=1&sn=0c49498138fa357ec37fb5e96053dfeb",
         "source": "Doonsec",
         "date_added": "2025-08-28"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527128&idx=1&sn=73f5c71d0b3ea1f608b29bd7f54a9966",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "大模型驱动漏洞运营智能化，打造漏洞管理新标杆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649292387&idx=1&sn=e72204072b9ad4fab171bb951e91c00a",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【免费领】智能设备安全干货：路由器0day漏洞实战大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556171&idx=2&sn=904d10eae6ca1d364b9cfd89dc9ffa88",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "java审计之下载漏洞获取到的代码如何断点调试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492827&idx=1&sn=fd8a45d9224b0dc0f0f4347fbdd3b3b1",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
     }
 ]
