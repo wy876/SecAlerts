@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492827&idx=1&sn=fd8a45d9224b0dc0f0f4347fbdd3b3b1",
         "source": "Doonsec",
         "date_added": "2025-08-28"
+    },
+    {
+        "title": "【安全圈】腾讯云曝严重安全漏洞重要长期暴露公网",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071426&idx=1&sn=28a54bc37540f152d54801c177828c73",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "中国红客技术教程 | 800课时-红客武器库5.0新增20款破解工具-共计230个-含款多个行业渗透工具，初学者必备工具和资源",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484280&idx=2&sn=b364d9c5f138d8bc4bbe6b6369698d36",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
+    },
+    {
+        "title": "【论文速读】| LLM-GUARD：基于大语言模型的 C++ 和 Python 中的错误和安全漏洞的检测和修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496946&idx=1&sn=ac3383562b3dd703bc22bf2a400797f5",
+        "source": "Doonsec",
+        "date_added": "2025-08-28"
     }
 ]
