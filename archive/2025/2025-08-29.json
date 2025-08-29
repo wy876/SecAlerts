@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486541&idx=1&sn=f15e67c081e52077196183051862b1aa",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "腾讯云曝严重安全漏洞重要长期暴露公网",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548143&idx=2&sn=b6cbcd595f26fd5c29c64e37e71a1f4e",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "400页 渗透测试初学者指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290382&idx=1&sn=619c58afdcc611fe97b574b5a9ca8d67",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
