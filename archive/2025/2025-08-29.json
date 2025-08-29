@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290382&idx=1&sn=619c58afdcc611fe97b574b5a9ca8d67",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "腾讯云曝严重安全漏洞重要长期暴露公网",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086911&idx=1&sn=9a731d3461ccc2e847b3beea66a2600a",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "高危Sudo漏洞（CVE-2025-32463）chroot提升特权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247499186&idx=1&sn=16d992b4aeaea65509d5c811272b9b94",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
