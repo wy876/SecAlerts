@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524856&idx=2&sn=cc97ef2077adb307e84c25d0933d64f2",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "研究人员发现VS Code漏洞：攻击者可重新发布同名已删除扩展",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326925&idx=2&sn=3a3066b909411e9817136c4d0c509189",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "卡巴斯基第二季度全球漏洞分析：数量翻倍，攻击手段更激进",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326925&idx=4&sn=73e696c14f6657c66907d2aa2c7207d2",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "工信部：关于防范Cursor代码编辑器远程代码执行高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514924&idx=2&sn=d9f7c77b9619aa1f5b3e8a4fae091ca6",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "七夕这不得约个Java代码审计？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494484&idx=1&sn=61ba24e84f759b0b4bd43fc81c4925e4",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
