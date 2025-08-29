@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532486&idx=2&sn=b643bb74f124e104400d858f13eced84",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "【1day通报】成都索贝数码科技融媒体平台logicdelete接口存在SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
