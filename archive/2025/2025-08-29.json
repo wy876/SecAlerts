@@ -34,5 +34,101 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495066&idx=1&sn=ae3661575b88d723cb543dc3c93d93aa",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [ISC2调查报告：30%的网络安全专业人士正在使用人工智能安全工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493088&idx=1&sn=c731cf9bc7774421850374ce6e8cd617",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [AI 代理发现 Chrome 中的严重 UAF 漏洞，可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523916&idx=1&sn=e9561ce876240837e936311754b23231",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [FreePBX服务器紧急修复已遭利用0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523916&idx=2&sn=5b0a37aabe728c201d0b631da5643773",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [AI代码审计的探索实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488870&idx=1&sn=dcdc61eef17bedd213778fab6ef7dc28",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500408&idx=3&sn=8c294d50405a8fc6d6dfc861deb4dbfe",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [价值 7500$ 的账号接管漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500087&idx=1&sn=785931699077d159e005b13c701e1c23",
+        "source": "ChainReactors",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [ISC2调查报告：30%的网络安全专业人士正在使用人工智能安全工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493088&idx=1&sn=c731cf9bc7774421850374ce6e8cd617",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [AI 代理发现 Chrome 中的严重 UAF 漏洞，可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523916&idx=1&sn=e9561ce876240837e936311754b23231",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [FreePBX服务器紧急修复已遭利用0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523916&idx=2&sn=5b0a37aabe728c201d0b631da5643773",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [价值 7500$ 的账号接管漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500087&idx=1&sn=785931699077d159e005b13c701e1c23",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500408&idx=3&sn=8c294d50405a8fc6d6dfc861deb4dbfe",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "] [AI代码审计的探索实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488870&idx=1&sn=dcdc61eef17bedd213778fab6ef7dc28",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "0Day｜通过AI挖掘MacOS播客应用文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486937&idx=1&sn=a8f678d8c55f3008f8ecfb7545522c86",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "Java 代码审计（四）审计工具推荐以及安全开发SDL",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2OTc3MQ==&mid=2247488731&idx=1&sn=47084a60a25c8e6970f80f9651577dde",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "【实战SRC】漏洞挖掘之XSS漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492829&idx=1&sn=41c4801b7903917e70fd258bfe1af594",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "后缀名绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492132&idx=1&sn=a62aa54c944c2cd54ca465f8a8e8a3ad",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
