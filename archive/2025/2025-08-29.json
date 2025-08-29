@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505111&idx=1&sn=e77a7ff6ce5495d0cab319ab15689811",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "appsx｜渗透测试时快速收集前端 JS｜API 接口｜账号密码｜Token 等信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc2NDk2MQ==&mid=2247483917&idx=1&sn=bd08afb7f6233c3c09c5a9b9cc5e8103",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "高危CNVD|某公交公交管理系统存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486541&idx=1&sn=f15e67c081e52077196183051862b1aa",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
