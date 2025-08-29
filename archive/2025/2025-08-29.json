@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574702&idx=1&sn=4be045f1dcde9e72532f6b69bd668e36",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
