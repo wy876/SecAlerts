@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492132&idx=1&sn=a62aa54c944c2cd54ca465f8a8e8a3ad",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "记一次SRC高危逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527129&idx=1&sn=82ce692a0527aac0bdf602842d169651",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
+    },
+    {
+        "title": "关于防范Cursor代码编辑器远程代码执行高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489288&idx=1&sn=c3f4ce188e358af68eb3d59da5fde853",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
