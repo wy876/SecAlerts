@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574702&idx=1&sn=4be045f1dcde9e72532f6b69bd668e36",
         "source": "Doonsec",
         "date_added": "2025-08-29"
+    },
+    {
+        "title": "【安服技巧】大模型渗透测试常见风险与常用Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487838&idx=1&sn=9e77fb636bf9354ff1538a34eb32f3d7",
+        "source": "Doonsec",
+        "date_added": "2025-08-29"
     }
 ]
