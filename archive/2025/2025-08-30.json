@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484304&idx=2&sn=246a5f1844611054731b98692833706f",
         "source": "Doonsec",
         "date_added": "2025-08-30"
+    },
+    {
+        "title": "【严重】Apache Tika XML外部实体注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
     }
 ]
