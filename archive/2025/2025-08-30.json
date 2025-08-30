@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496097&idx=1&sn=ffd14b4ec904eab9ec1108406987e3a8",
         "source": "Doonsec",
         "date_added": "2025-08-30"
+    },
+    {
+        "title": "泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
     }
 ]
