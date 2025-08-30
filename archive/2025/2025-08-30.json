@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6",
         "source": "Doonsec",
         "date_added": "2025-08-30"
+    },
+    {
+        "title": "思科集成管理控制器虚拟键盘视频监视器开放重定向漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "Cisco Nexus 3000和9000系列交换机中间系统到中间系统拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
     }
 ]
