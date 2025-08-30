@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb",
         "source": "Doonsec",
         "date_added": "2025-08-30"
+    },
+    {
+        "title": "金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
     }
 ]
