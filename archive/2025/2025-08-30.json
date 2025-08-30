@@ -40,5 +40,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494240&idx=3&sn=606e3fa1a9e2c5c0cc83987392b7f3e4",
         "source": "Doonsec",
         "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [CCSP备考webinar：来听授权讲师和资深会员为您详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493097&idx=1&sn=04cf159fc692fed7fe71f8fd5b4f52b0",
+        "source": "ChainReactors",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [思科 Nexus 交换机中存在高危DoS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523927&idx=1&sn=f6c3c875a12b2af4c8e6c00c06bc60d9",
+        "source": "ChainReactors",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [速修复Passwordstate 中的这个认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523927&idx=2&sn=faa4786f6b1af9ea97fdc470c96e5384",
+        "source": "ChainReactors",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [深度复现CVE-2025-50154获取NTLM哈希",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485771&idx=1&sn=50de196577c1f5c29ab9fab63be5fe82",
+        "source": "ChainReactors",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [CCSP备考webinar：来听授权讲师和资深会员为您详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493097&idx=1&sn=04cf159fc692fed7fe71f8fd5b4f52b0",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [思科 Nexus 交换机中存在高危DoS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523927&idx=1&sn=f6c3c875a12b2af4c8e6c00c06bc60d9",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [速修复Passwordstate 中的这个认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523927&idx=2&sn=faa4786f6b1af9ea97fdc470c96e5384",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "] [深度复现CVE-2025-50154获取NTLM哈希",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485771&idx=1&sn=50de196577c1f5c29ab9fab63be5fe82",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-30"
+    },
+    {
+        "title": "一个功能强大BurpSuite漏洞扫描与指纹识别插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527152&idx=1&sn=2844ce4d62b405cab7a934b2c77854f4",
+        "source": "Doonsec",
+        "date_added": "2025-08-30"
     }
 ]
