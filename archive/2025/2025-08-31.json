@@ -22,5 +22,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680",
         "source": "Doonsec",
         "date_added": "2025-08-31"
+    },
+    {
+        "title": "] [【安全圈】FreePBX零日漏洞遭利用，官方通告：请立即锁定管理员访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316",
+        "source": "ChainReactors",
+        "date_added": "2025-08-31"
+    },
+    {
+        "title": "] [【安全圈】FreePBX零日漏洞遭利用，官方通告：请立即锁定管理员访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316",
+        "source": "BruceFeIix",
+        "date_added": "2025-08-31"
+    },
+    {
+        "title": "突发重磅！腾讯云惊爆严重安全漏洞，大量用户数据面临风险！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491889&idx=1&sn=87c83e1a8f5b1ec5aa8d4a1fbdad4bb8",
+        "source": "Doonsec",
+        "date_added": "2025-08-31"
+    },
+    {
+        "title": "【Python代审】盒木ERP社区版代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492834&idx=1&sn=f60eb76087ace7a4bb265acf1910d5f9",
+        "source": "Doonsec",
+        "date_added": "2025-08-31"
+    },
+    {
+        "title": "手把手叫你如何仅仅从漏洞消息到分析 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496132&idx=1&sn=a26e2c79418f2a43efed9debe0193ead",
+        "source": "Doonsec",
+        "date_added": "2025-08-31"
     }
 ]
