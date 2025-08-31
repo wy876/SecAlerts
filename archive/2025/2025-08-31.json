@@ -70,5 +70,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643099&idx=2&sn=174676843a9db06744c162e593af9bbd",
         "source": "Doonsec",
         "date_added": "2025-08-31"
+    },
+    {
+        "title": "通过URL参数传递所引发的SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075",
+        "source": "Doonsec",
+        "date_added": "2025-08-31"
+    },
+    {
+        "title": "【代码审计实战】一款网校在线系统（下篇）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500533&idx=1&sn=c7764ce5ebef7f832eff0880778be79f",
+        "source": "Doonsec",
+        "date_added": "2025-08-31"
     }
 ]
