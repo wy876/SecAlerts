@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "泛微E-Office SignatureDel.php SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "接口越权漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498131&idx=1&sn=157bfa81face94619be939af49ae02c4",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
