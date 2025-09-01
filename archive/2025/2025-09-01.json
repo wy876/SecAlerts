@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503879&idx=1&sn=550b2cdc0e0b1afff444842dd891152d",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第33期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=1&sn=9f30d6c73cb74721d1f294706cac7afe",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250825-20250831)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=2&sn=26f14c065dfeaf828ea111a8f4489926",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
