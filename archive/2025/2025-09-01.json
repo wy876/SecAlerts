@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493531&idx=1&sn=ba7180833a4b7748db4c5d2f813f09b2",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "php 文件上传不含一句 php 代码 RCE 最新新姿势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523458&idx=1&sn=367e069953bfbb44ca7dc6cb63ac6c4c",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "工具推荐 | 自动化资产测绘/漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495768&idx=1&sn=9b347efee1bcb5502f16107f296d6ae4",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "推荐一个渗透测试报告编写平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574736&idx=1&sn=dac0517dbb00d19d09eae26148eddff5",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
