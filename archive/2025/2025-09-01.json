@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517849&idx=1&sn=b44eb68ca127de8bd8826496e0b4730b",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "同源异梦：JWT 泄露后从主站到旁站的渗透曲线",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496289&idx=1&sn=64322432de1b81ce4eafbb387bf31d8b",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
