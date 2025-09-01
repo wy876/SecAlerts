@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=2&sn=26f14c065dfeaf828ea111a8f4489926",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "预警丨防范Cursor代码编辑器远程代码执行高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
