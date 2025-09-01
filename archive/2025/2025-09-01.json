@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489895&idx=1&sn=46499868e6175d3f304839f083f3db92",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "漏洞通告 | Gitblit 身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507910&idx=1&sn=362401b9a7dd66d10b30b0f51464af53",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
