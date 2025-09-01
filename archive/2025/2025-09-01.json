@@ -46,5 +46,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494265&idx=3&sn=3e988c0d4e255e5e25dbff3fdb2e956b",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "渗透工程师必刷！2025年最常考的15道面试题（附答案）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527154&idx=1&sn=a23d2a246e4695bb0479d1ee2bc1bab0",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "挑战 | 从一段代码中发现漏洞并给出利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500092&idx=1&sn=08e22a5ec167c3a75d515147026e6a52",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "某CMS组合拳导致前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486740&idx=1&sn=230e99ea34656c836d818d408002d691",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "满客宝后台管理系统 downLoadStockInFile 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487010&idx=1&sn=f728cc586b546ee9a6b005867b0b874b",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "腾讯云曝严重安全漏洞重要长期暴露公网|黑客动用上万IP，大规模扫描微软 RDP 服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248391&idx=1&sn=f959b15c3aa303189992e198a2920a1a",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "天刃——车联网渗透测试系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517849&idx=1&sn=b44eb68ca127de8bd8826496e0b4730b",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
