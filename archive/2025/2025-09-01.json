@@ -106,5 +106,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520115&idx=1&sn=0a25d379d13816d7a561be1cf84cb2a6",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "【漏洞情报】我的世界启动器PCL2存在命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489895&idx=1&sn=46499868e6175d3f304839f083f3db92",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
