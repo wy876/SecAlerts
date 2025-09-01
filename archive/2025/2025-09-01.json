@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513511&idx=1&sn=51f80d9a71c9c89343438e7fa236f8da",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "聊聊多云环境下的安全漏洞治理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520115&idx=1&sn=0a25d379d13816d7a561be1cf84cb2a6",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
