@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507910&idx=1&sn=362401b9a7dd66d10b30b0f51464af53",
         "source": "Doonsec",
         "date_added": "2025-09-01"
+    },
+    {
+        "title": "每周网安资讯（8.26-9.1） | Microsoft Tslint存在安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506888&idx=1&sn=ae5dfa16c29ffcd25723289e2f56187b",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "朗速ERP WebDwgDefault.aspx 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492604&idx=1&sn=5a8a6bf06a60a89c0b19a8c47dc581f0",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
+    },
+    {
+        "title": "【已复现】Gitblit 身份认证绕过漏洞(CVE-2024-28080)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503879&idx=1&sn=550b2cdc0e0b1afff444842dd891152d",
+        "source": "Doonsec",
+        "date_added": "2025-09-01"
     }
 ]
