@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503165&idx=1&sn=3a2c94539f24326a01aea3cb8d00c6f5",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "未授权漏洞渗透技巧总结分享（七）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488654&idx=1&sn=26f8e8965ecdee129036a0e4a76413af",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "1Day复现：锐捷网关存在命令执行漏洞(文末有料)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODMzOTA2NA==&mid=2247494459&idx=1&sn=91666d39c1e6af2b3cf71d198130e9c7",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "记一次企业src漏洞挖掘连爆七个漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493938&idx=1&sn=4a2746bb9b5f55046501fed7f0ffa2bb",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": ".NET 会话安全漏洞：代码层面的审计与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500466&idx=1&sn=21719375b95aa5d62e139d2fcf4464f3",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
