@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628850&idx=1&sn=afc0efe2b8390499f309c8117c2f4bf2",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "【赏金15000美元】通过监控调试模式实现 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498133&idx=1&sn=3802d190f44314ebb4a1a5b5cdbf284d",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "AI漏洞风暴：CTF中漏洞智能挖掘技术全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247491135&idx=1&sn=34b805830dfc5750d1d7b8347135dc6e",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
