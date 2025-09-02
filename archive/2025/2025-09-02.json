@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085927&idx=1&sn=823a2ef9f73c061d910320b76dc48ecb",
         "source": "BruceFeIix",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "漏洞通告 | 用友U8Cloud 文件上传绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507918&idx=1&sn=d9bdcd4b113af5c8981e91d314331898",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "“postMessage”漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484386&idx=1&sn=c5b3c4cf44823948c1ee413a2aee3db3",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
