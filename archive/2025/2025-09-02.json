@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500466&idx=1&sn=21719375b95aa5d62e139d2fcf4464f3",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "【高危漏洞预警】用友U8Cloud 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490679&idx=1&sn=af7871efc77d77861bb91acc5dd3eacf",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "Shadowrend 斩影 1.0 — 一个集成AI大模型的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzU5OTc1NA==&mid=2247484085&idx=1&sn=499a6367845bd948521b2622fe703502",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "供应链的风（险）还是吹到了网络安全：Zscaler因Salesforce发生数据泄露 飞天诚信：全栈自研降风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877392&idx=1&sn=40ead0dbb701b3db2571b7d6aa9e8b6d",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
