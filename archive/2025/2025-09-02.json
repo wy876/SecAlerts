@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=4&sn=b257fc340fbe28e13b3d81be325d1b85",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "ruoyi-4.6.0-shiro反序列化漏洞审计练习",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488549&idx=1&sn=06883888def22bcd171d8a418a6b69ab",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
