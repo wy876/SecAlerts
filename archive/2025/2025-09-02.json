@@ -268,5 +268,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877392&idx=1&sn=40ead0dbb701b3db2571b7d6aa9e8b6d",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "中信金融资产AI安全大模型POC测试厂商征集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932630&idx=3&sn=2916e2ada0b4b861d0c767adf4042b7a",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "国内知名送餐机器人曝安全漏洞：可监控机器人 任意修改任务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514942&idx=1&sn=d8811ab98602fa820cb64f9233b6bcfa",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "Windows 版 Google Web Designer 中通过 CSS 注入实现客户端 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532551&idx=1&sn=dcd6a0a9c86da6dee10cd8d58fbc615a",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "【漏洞通告】Gitblit身份验证绕过漏洞(CVE-2024-28080)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489338&idx=1&sn=c919a77e674ed3860d5ae3225a7a1d59",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
