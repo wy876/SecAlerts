@@ -214,5 +214,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501519&idx=1&sn=2584f49ec1f41d523f80ce34e0c2370c",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "【成功复现】LaRecipe服务器端模板注入漏洞(CVE-2025-53833)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503587&idx=1&sn=00bf5aa74f5b344c840121521332e376",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
