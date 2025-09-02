@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484386&idx=1&sn=c5b3c4cf44823948c1ee413a2aee3db3",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "【0day 预警】Atlassian Jira Service Management Cloud 曝出 “一接管任意账户”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484355&idx=1&sn=7f22071a05dc8902d2fe902ff8d027fd",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
