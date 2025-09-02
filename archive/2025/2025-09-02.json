@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247491135&idx=1&sn=34b805830dfc5750d1d7b8347135dc6e",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "ZERO-DAY预警: 自动化发现TP-Link路由器高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484747&idx=1&sn=f7c11dd9ce4228c3099801073347d46b",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
