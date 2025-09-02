@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503587&idx=1&sn=00bf5aa74f5b344c840121521332e376",
         "source": "Doonsec",
         "date_added": "2025-09-02"
+    },
+    {
+        "title": "【漏洞与预防】Redis CVE-2025-32023 RCE漏洞验证与预防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503165&idx=1&sn=3a2c94539f24326a01aea3cb8d00c6f5",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
     }
 ]
