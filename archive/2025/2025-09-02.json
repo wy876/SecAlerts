@@ -1,0 +1,56 @@
+[
+    {
+        "title": "漏洞扫描工具AWVS介绍及安装破解教程（非常详细）从零基础入门到精通，看完这一篇就够了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487040&idx=1&sn=176b86e3cb5affc61179a3c09ed02268",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "工信部：关于防范Cursor代码编辑器远程代码执行高危漏洞的风险提示|史上首例：NPM包Nx被投毒，开发人员遭AI软件供应链攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612093&idx=2&sn=048157949447a08bb587d73e5ece1c3c",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "实战攻防技巧 | Everything后渗透利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612093&idx=4&sn=7faadea5df58aca145e5fb513aa048a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507197&idx=1&sn=c76ac58a20c05609ffb30d6a20b1343c",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "CVE Push Service | 高危漏洞实时情报自动化推送工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495084&idx=1&sn=b70a7677a5a4e9261f845ddcea53a261",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "漏洞扫描工具 Nessus 部署与操作指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290594&idx=1&sn=540e2204db7baafba095ffc4c9ddfc05",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盘文档安全管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    },
+    {
+        "title": "工具 | YonYouNCPocTool",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=4&sn=b257fc340fbe28e13b3d81be325d1b85",
+        "source": "Doonsec",
+        "date_added": "2025-09-02"
+    }
+]
