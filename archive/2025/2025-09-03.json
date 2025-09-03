@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=2&sn=14ab1e484ae386248adfa02578dee57d",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "覆盖YSOSerial、Hessian、Shiro、JDBC…全网最全Java Gadget生成工具|Java漏洞利用神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "验证码防的住hacker吗？总结最全验证码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
