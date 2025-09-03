@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Palo Alto Networks公司披露数据泄露事件 与Salesloft平台Drift模块安全漏洞相关",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "Fenrir 代码审计工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612130&idx=4&sn=12c5c91c8127becdce6966a46ee2169a",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "真女人就要黑板子，记一次二进制网站渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487187&idx=1&sn=7473d3d06635885cca9ab4faa2bf402b",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "警惕“定时炸弹”——0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247516588&idx=2&sn=a481b01b8af03ac8a6de7125bcaacba4",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "【工具推荐】浏览器插件-检测VUE站点未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488708&idx=1&sn=655279056b297b07562ff6b453fbf035",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "漏洞预警 | 明源地产ERP SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    }
+]
