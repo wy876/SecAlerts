@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "代码审计 diff 工具推荐",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488536&idx=1&sn=7bd4a4796a6d3ddebde8cdb47087d709",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "记一次SRC高危逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
