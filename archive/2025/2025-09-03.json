@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "【已复现】用友U8Cloud存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "Google澄清：Gmail 并未发生任何重大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
