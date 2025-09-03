@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
