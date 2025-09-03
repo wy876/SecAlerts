@@ -40,5 +40,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [推荐朋友获得CISSP，打造人才矩阵，还可领取专属奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493105&idx=1&sn=7b85421981667fbcbf36bffdc1ec14a5",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [【已复现】用友U8Cloud 文件上传漏洞(QVD-2025-33710)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503892&idx=1&sn=b61c254b5af85945e39f574dd1afa290",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [精准网络狙击王炸入口 WhatsApp 历史重要漏洞利用梳理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515942&idx=1&sn=b182046c3f2f875e388c089edcf66be7",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [CVSS 评分9.8！高通两严重漏洞或致设备远程被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599303&idx=3&sn=9a8c84b709815d0fbf64fda42f6d1680",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [【安全圈】HashiCorp Vault 爆出高危漏洞：攻击者可致服务器宕机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=4&sn=237a92444d4dd66c6a163c4b26dc7d37",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [Docker Desktop严重漏洞可让攻击者劫持Windows主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448",
+        "source": "ChainReactors",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [推荐朋友获得CISSP，打造人才矩阵，还可领取专属奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493105&idx=1&sn=7b85421981667fbcbf36bffdc1ec14a5",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [【已复现】用友U8Cloud 文件上传漏洞(QVD-2025-33710)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503892&idx=1&sn=b61c254b5af85945e39f574dd1afa290",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [精准网络狙击王炸入口 WhatsApp 历史重要漏洞利用梳理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515942&idx=1&sn=b182046c3f2f875e388c089edcf66be7",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [CVSS 评分9.8！高通两严重漏洞或致设备远程被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599303&idx=3&sn=9a8c84b709815d0fbf64fda42f6d1680",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [【安全圈】HashiCorp Vault 爆出高危漏洞：攻击者可致服务器宕机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=4&sn=237a92444d4dd66c6a163c4b26dc7d37",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "] [Docker Desktop严重漏洞可让攻击者劫持Windows主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-03"
     }
 ]
