@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "web安全笔记从0到1：渗透测试基础知识",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzQwNDkzMQ==&mid=2247484376&idx=1&sn=21555e84caa7bfa85982b11ab54adb6e",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "【渗透测试灵魂之edusrc信息收集】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "新增最新POCxa0|xa0基于fscanxa0过360核晶、火绒的xlscanxa0v1.6xa0发布！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
