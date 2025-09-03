@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448",
         "source": "BruceFeIix",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "严重零日漏洞：通过密码重置实现账号接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507500&idx=1&sn=1ea61c0257250eb03bfe764258f86c9d",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "上海原厂编制 | 渗透测试驻场工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616961&idx=2&sn=6f7b6566b7ba7b82db9aab76fc2494f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "上海原厂编制 | 渗透测试驻场工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551652&idx=2&sn=fcb74d3405ef98f1914ebd0c9067122c",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "【已复现】用友 U8 Cloud 文件上传绕过漏洞安全通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492940&idx=1&sn=1b650cecefe905020b49b313ab90c18e",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "一款专为渗透测试人员设计的 Burp Suite 插件—Rinte",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493843&idx=1&sn=e840c6b617fae72dd8ce072f2073e7bd",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
