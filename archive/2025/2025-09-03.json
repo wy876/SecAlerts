@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407",
         "source": "Doonsec",
         "date_added": "2025-09-03"
+    },
+    {
+        "title": "【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "CVE-2021-21972 批量漏洞检测脚本poc exploit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
+    },
+    {
+        "title": "蚂蚁集团华巍：基于YASA的智能代码审计实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=2&sn=14ab1e484ae386248adfa02578dee57d",
+        "source": "Doonsec",
+        "date_added": "2025-09-03"
     }
 ]
