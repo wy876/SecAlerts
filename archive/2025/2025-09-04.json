@@ -148,5 +148,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "【漏洞速递】百度网盘曝高危漏洞，可远程执行命令！速更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485835&idx=1&sn=f9077a6192d205f07dccf362f2af22d2",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "某网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【漏洞预警】百度网盘Windows客户端存在远程命令执行漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端远程命令执行漏洞(QVD-2025-34029)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "百度网盘最新RCE漏洞，可导致电脑被控。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "关于今日《预警：某网盘Windows客户端远程命令执行漏洞》删文说明",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
