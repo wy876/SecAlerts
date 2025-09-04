@@ -202,5 +202,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "kali Linux安全渗透教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574794&idx=1&sn=fc3403aa37589f76f08beac3fdc5b3e4",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "网盘Rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487851&idx=1&sn=4e6d7a665cddb7ef433ad07429a3daed",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "百度网盘最新RCE漏洞，可以shell你",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【漏洞通告】Geovision GV-ASWeb代码注入漏洞(CVE-2025-26264)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【CVE-2024-38827】代码分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498363&idx=1&sn=30014d1157fe7bf7242ae0790054606e",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
