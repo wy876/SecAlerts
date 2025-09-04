@@ -256,5 +256,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486585&idx=1&sn=5638bc0b244deb27780b2c6bd9a1fddc",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "某漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484054&idx=1&sn=716a3a3b5b38a2d8648bea6a640d4e3c",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
