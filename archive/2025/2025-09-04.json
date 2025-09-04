@@ -112,5 +112,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTI2MzU0OQ==&mid=2247497652&idx=3&sn=7df8392122de49c2398e86987636dfdb",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "预警：某网盘Windows客户端远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "从目录遍历到拿下shell以及云权限（证书站漏洞等级严重案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=1&sn=91b85b7313e677fd8f81de454ca8ac26",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
