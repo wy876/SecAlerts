@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "RuoYi-4.6.0：不安全的反射+反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488585&idx=1&sn=de8a35aeddab2bb440912c61804ece80",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
