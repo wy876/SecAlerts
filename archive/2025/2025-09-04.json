@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484054&idx=1&sn=716a3a3b5b38a2d8648bea6a640d4e3c",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【高危漏洞预警】XWiki路径遍历漏洞(CVE-2025-55747-CVE-2025-55748",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=2&sn=17d43602dfc42418fa0c5304ffc032d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
