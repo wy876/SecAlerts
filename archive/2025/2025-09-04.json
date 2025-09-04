@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517242&idx=1&sn=4fc91ff201ce4050d5919e740f897513",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "某网盘Windows客户端远程命令执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
