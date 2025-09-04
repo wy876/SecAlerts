@@ -124,5 +124,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=1&sn=91b85b7313e677fd8f81de454ca8ac26",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
