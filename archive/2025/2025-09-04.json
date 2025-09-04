@@ -250,5 +250,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542944&idx=1&sn=d6542ae81fd4ce81a37c9b15db52711f",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "【工具分享】CVE Push Service | 自动化高危漏洞情报推送",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486585&idx=1&sn=5638bc0b244deb27780b2c6bd9a1fddc",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
