@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "JWT 安全指南：漏洞赏金猎人的实战攻略（第二部分）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507509&idx=1&sn=5555eb4731d074b82f2c421b838830b6",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "【大赛风采】暨南大学战队：学术派的漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTI2MzU0OQ==&mid=2247497652&idx=3&sn=7df8392122de49c2398e86987636dfdb",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
