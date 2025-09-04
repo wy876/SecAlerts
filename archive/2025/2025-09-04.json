@@ -40,5 +40,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488720&idx=1&sn=0a78153df05895e2fd6f7c492c19f863",
         "source": "Doonsec",
         "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [考生请注意：ISC2考试题型更加丰富",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493107&idx=1&sn=7f55f2cf3b83824c9d00ef745c65c64d",
+        "source": "ChainReactors",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [漏洞通告 | 微步情报局发现h2o-3存在高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507923&idx=1&sn=f891171bcd6f042a11b4b04ad34cf5f8",
+        "source": "ChainReactors",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [【安全圈】IIS Web Deploy 存在远程代码执行风险（CVE-2025-53772）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e",
+        "source": "ChainReactors",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [【安全圈】Cloudflare 确认 Salesforce 与 Salesloft Drift 相关数据泄露事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7",
+        "source": "ChainReactors",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [考生请注意：ISC2考试题型更加丰富",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493107&idx=1&sn=7f55f2cf3b83824c9d00ef745c65c64d",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [漏洞通告 | 微步情报局发现h2o-3存在高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507923&idx=1&sn=f891171bcd6f042a11b4b04ad34cf5f8",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [【安全圈】IIS Web Deploy 存在远程代码执行风险（CVE-2025-53772）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "] [【安全圈】Cloudflare 确认 Salesforce 与 Salesloft Drift 相关数据泄露事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-04"
+    },
+    {
+        "title": "BurpSuite漏洞扫描与指纹识别插件 -- RVScan2.3（9月2日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517242&idx=1&sn=4fc91ff201ce4050d5919e740f897513",
+        "source": "Doonsec",
+        "date_added": "2025-09-04"
     }
 ]
