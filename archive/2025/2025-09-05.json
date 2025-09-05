@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064341&idx=1&sn=1deb1317f0a2672a8d0268db9fc635b3",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "黑客技术这样学，3个月开始挖漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485999&idx=1&sn=cebce1ddc53933c37858be26ed48ba2c",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "赶快升级！百度网盘命令漏洞的安全警示（CNVD-2025-20395）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545547&idx=1&sn=4119da558ff69fd5b629c971330ef09b",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
