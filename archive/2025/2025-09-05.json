@@ -46,5 +46,149 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484384&idx=1&sn=8973e79563a65cd0dd055ff6f815b59c",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [Frostbyte10：威胁全球供应链的10个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523957&idx=2&sn=288b0d14a657b13c7f1a6b14705a44e8",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景系列 (1) | 一个大多数人都容易忽视的 Ysoserial.Net 使用误区",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=1&sn=d33d0d67d6079717ef63bbbb14705154",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景合集 (2) | 回答一个 .NET 反序列化漏洞载荷的问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=2&sn=86d160d643980a64da27a602a03f49b7",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=3&sn=5cdb8db7e9b012effddfdd3f7d2e1f51",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【已复现】XWiki 路径遍历漏洞(CVE-2025-55747、CVE-2025-55748)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=2&sn=de6650b160170287c76cea1d44a1a5cf",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [HexStrike AI安全工具遭滥用，零日漏洞攻击时间缩短至10分钟",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599343&idx=2&sn=0f8f48f36ca1da8eebf8aa0a4d440213",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【安全圈】微软承认 Win11 兼容性问题：TLS 1.3 导致 IIS Express 验证故障",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071536&idx=2&sn=a510936da763db6a1000b078f06aa2c4",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【安全圈】安全公司曝光微软 VS Code 市场漏洞，黑客可冒充已移除项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071536&idx=3&sn=3693502529619e5f62dcd33606707e69",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [H2O-3 远程代码执行漏洞简报（CVE-2025-5662）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510819&idx=1&sn=4a5488a7fad0c527df3a6f46d6726ed7",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [微软漏洞情报“断供”危机何解？360大情报体系领航破局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581917&idx=1&sn=0f8138df75c200e73c0e9a01dcdef347",
+        "source": "ChainReactors",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景系列 (1) | 一个大多数人都容易忽视的 Ysoserial.Net 使用误区",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=1&sn=d33d0d67d6079717ef63bbbb14705154",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景合集 (2) | 回答一个 .NET 反序列化漏洞载荷的问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=2&sn=86d160d643980a64da27a602a03f49b7",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [[80]个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500505&idx=3&sn=5cdb8db7e9b012effddfdd3f7d2e1f51",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【已复现】XWiki 路径遍历漏洞(CVE-2025-55747、CVE-2025-55748)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=2&sn=de6650b160170287c76cea1d44a1a5cf",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【安全圈】微软承认 Win11 兼容性问题：TLS 1.3 导致 IIS Express 验证故障",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071536&idx=2&sn=a510936da763db6a1000b078f06aa2c4",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [【安全圈】安全公司曝光微软 VS Code 市场漏洞，黑客可冒充已移除项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071536&idx=3&sn=3693502529619e5f62dcd33606707e69",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [HexStrike AI安全工具遭滥用，零日漏洞攻击时间缩短至10分钟",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599343&idx=2&sn=0f8f48f36ca1da8eebf8aa0a4d440213",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [H2O-3 远程代码执行漏洞简报（CVE-2025-5662）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510819&idx=1&sn=4a5488a7fad0c527df3a6f46d6726ed7",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [Frostbyte10：威胁全球供应链的10个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523957&idx=2&sn=288b0d14a657b13c7f1a6b14705a44e8",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "] [微软漏洞情报“断供”危机何解？360大情报体系领航破局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581917&idx=1&sn=0f8138df75c200e73c0e9a01dcdef347",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "CVE-2025-32463：Linux sudo chroot 本地提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484507&idx=1&sn=2f31cd3b6d6042cc5ed5abb1aaea7b91",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "某系统鉴权绕过+后台RCE组合拳审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486778&idx=1&sn=a97f418fdbb4d2b4a70539090f3f536c",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "建个学习群，学一下代码审计。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484570&idx=1&sn=7ee8b00de7addd551ac33bcb6ca6ed57",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "攻击者利用Windows与Linux漏洞实施系统入侵的实战分析 | 全球网络安全市场迎来第二个黄金十年",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248407&idx=1&sn=4c079d702878cfd6cf700a9c2750463a",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
