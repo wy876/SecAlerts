@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248407&idx=1&sn=4c079d702878cfd6cf700a9c2750463a",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "PoC 可用：macOS Sequoia 漏洞允许 Keychain 转储和 TCC 绕过 (CVSS 9.8)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484840&idx=1&sn=feacda221f56928a6bd3793478649125",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
