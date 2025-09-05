@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Ingram：网络摄像头漏洞扫描的得力助手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517885&idx=1&sn=414b85968d0350d55a8d7331ff5a4670",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "30个中间件渗透思路技巧 收藏备用！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519521&idx=1&sn=f5d10c5a5f5d07400fe38c0b837f112a",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "漏洞预警 | 百度网盘 rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "AI模型投毒新手法：供应链攻击直指云端RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "80 个反序列化漏洞全景系列 (1) | 一个大多数人都容易忽视的 Ysoserial.Net 使用误区",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=3&sn=f5797a15bf35ed200a6a5183e18172a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "JeecgBoot SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "百度网盘远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "为知笔记存在默认口令admin@wiz.cn:123456 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484384&idx=1&sn=8973e79563a65cd0dd055ff6f815b59c",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    }
+]
