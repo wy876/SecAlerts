@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545547&idx=1&sn=4119da558ff69fd5b629c971330ef09b",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "Tenda AC20（≤ V16.03.08.12）路由器缓冲区溢出漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556227&idx=1&sn=1eed363f6eefee6dfe9d5070dafe4b73",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
