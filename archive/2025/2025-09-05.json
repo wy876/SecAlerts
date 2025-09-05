@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484840&idx=1&sn=feacda221f56928a6bd3793478649125",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "一个简单的 PDF 生成器如何让我发现政府系统中的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507516&idx=1&sn=822aec59422913d1deb4cbcad5e1b42c",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
