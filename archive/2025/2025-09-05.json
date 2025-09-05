@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
