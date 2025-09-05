@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
