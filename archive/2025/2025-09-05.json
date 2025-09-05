@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556227&idx=1&sn=1eed363f6eefee6dfe9d5070dafe4b73",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "模型命名空间复用漏洞可劫持谷歌微软平台AI模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=2&sn=1c1420a6a9139d026a692974935f0098",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
