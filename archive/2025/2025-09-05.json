@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494367&idx=3&sn=fd5e67b677ca959387b33e313ecde9d0",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "未授权漏洞渗透技巧总结分享（八）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488670&idx=1&sn=b6314dff05e8de9fa459dc31c095efa0",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "SRC|众测---解析评论区功能常见的漏洞类型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzQwNDkzMQ==&mid=2247484382&idx=1&sn=ad3f9f3c05e1ce8beacdc14afd1e7cde",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "【代码审计实战】一款网校在线系统（下篇）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492860&idx=1&sn=17bd0e1ad59652e03a36742848178835",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
