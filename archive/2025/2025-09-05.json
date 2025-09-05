@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=2&sn=1c1420a6a9139d026a692974935f0098",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
