@@ -208,5 +208,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505150&idx=1&sn=0158a5c18648c8e05a7638fc75629c75",
         "source": "Doonsec",
         "date_added": "2025-09-05"
+    },
+    {
+        "title": "移动安全实战：手把手带你梳理App渗透测试核心思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDYyOTI1NQ==&mid=2247486987&idx=1&sn=f613aa234729b52f039efa20648c86ed",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "某网盘RCE复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484060&idx=1&sn=2b8981b0b65a0e1f65d76751fd6eb99a",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "一次红队实战案例分享：从低权限账户到域控的Spring生态渗透之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496303&idx=1&sn=dcab305b6a877f26d67bddf05f0f5b0b",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "漏洞预警 | 亿赛通电子文档安全管理系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494367&idx=2&sn=65bd84052d1d53d8f0b8ae6ebe34b88c",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494367&idx=3&sn=fd5e67b677ca959387b33e313ecde9d0",
+        "source": "Doonsec",
+        "date_added": "2025-09-05"
     }
 ]
