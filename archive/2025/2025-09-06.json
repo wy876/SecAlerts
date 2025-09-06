@@ -34,5 +34,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=3&sn=ebea3aac3d5ec815e0e1588a968bb9df",
         "source": "Doonsec",
         "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [【1CPE】ISC2Webinar丨勒索软件、API 和人工智能如何重塑网络防御规则",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493117&idx=1&sn=dd852982afbcdb61f71872230fe91779",
+        "source": "ChainReactors",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [捷豹路虎遭网络攻击，机器人API漏洞允许黑客远程控制|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135391&idx=1&sn=c5931b26b8afe7c1d20315f7edee9f6b",
+        "source": "ChainReactors",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [未修补！TP-Link路由器零日漏洞影响多款热门型号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599469&idx=4&sn=bb83808e2e91c526d4790cd5585688ed",
+        "source": "ChainReactors",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [SaaS巨头Workiva在遭遇Salesforce攻击后用户数据被泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584506&idx=2&sn=a5bfcceba2484a932bf3a7b172dfcfd2",
+        "source": "ChainReactors",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [开发者别大意！Node.js 未授权安全漏洞，你的服务器可能正在被攻击者远程操控。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545814&idx=1&sn=5a7ebf543d84032572d74f830ac4a6bd",
+        "source": "ChainReactors",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [【1CPE】ISC2Webinar丨勒索软件、API 和人工智能如何重塑网络防御规则",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493117&idx=1&sn=dd852982afbcdb61f71872230fe91779",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [捷豹路虎遭网络攻击，机器人API漏洞允许黑客远程控制|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135391&idx=1&sn=c5931b26b8afe7c1d20315f7edee9f6b",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [未修补！TP-Link路由器零日漏洞影响多款热门型号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599469&idx=4&sn=bb83808e2e91c526d4790cd5585688ed",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [SaaS巨头Workiva在遭遇Salesforce攻击后用户数据被泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584506&idx=2&sn=a5bfcceba2484a932bf3a7b172dfcfd2",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "] [开发者别大意！Node.js 未授权安全漏洞，你的服务器可能正在被攻击者远程操控。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545814&idx=1&sn=5a7ebf543d84032572d74f830ac4a6bd",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "某CMS组合拳导致前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492862&idx=1&sn=a415d3cc03cfd814deca8e17784a2467",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "一个HTTP头引发的“数字雪崩”：Next.js中间件漏洞深度剖析与应对策略",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247518106&idx=1&sn=5bedc64525c5983e0c06976181b88ee7",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
     }
 ]
