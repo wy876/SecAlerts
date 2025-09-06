@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484067&idx=1&sn=d79150d2aa386ec5b641bafeb32f0ebd",
         "source": "Doonsec",
         "date_added": "2025-09-06"
+    },
+    {
+        "title": "百度网盘7.59 Windows客户端存在命令注入漏洞完整复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDQ0NzkyMw==&mid=2247484903&idx=1&sn=351a14069d98c91e4a07dd477738a8b1",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
     }
 ]
