@@ -1,0 +1,38 @@
+[
+    {
+        "title": "【好靶场】某windwos存储软件存在命令执行漏洞场景模拟",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486081&idx=1&sn=8598f845150447e605feecc53d5f64d8",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "CVE Push Service | 高危漏洞实时情报自动化推送工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612188&idx=4&sn=cd7bdb4fd3f89e9fcfe82c81b4d16337",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "对某网的一次渗透实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527191&idx=1&sn=5e2260e23fcd3e500ff1f604fa6f5f5c",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "漏洞预警 | 富勒仓储管理系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=3&sn=ebea3aac3d5ec815e0e1588a968bb9df",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    }
+]
