@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233",
         "source": "Doonsec",
         "date_added": "2025-09-06"
+    },
+    {
+        "title": "【已复现】百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
     }
 ]
