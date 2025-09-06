@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491855&idx=1&sn=2a056ef14fbc2bb7832ba3c29dd70f84",
         "source": "Doonsec",
         "date_added": "2025-09-06"
+    },
+    {
+        "title": "月下载量千万级Python库 “ DeepDiff ” 存在原型链污染致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484067&idx=1&sn=d79150d2aa386ec5b641bafeb32f0ebd",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
     }
 ]
