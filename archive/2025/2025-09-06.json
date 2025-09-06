@@ -112,5 +112,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487857&idx=1&sn=3cd16acfa69f0813c61d953c0e1f040a",
         "source": "Doonsec",
         "date_added": "2025-09-06"
+    },
+    {
+        "title": "3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599470&idx=2&sn=35e65a2707399ec19a9c42bf7d12ef17",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "小白如何根据1day挖出RCE 0day?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498151&idx=1&sn=76901c3747d1d876757bb2e601dbcf31",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "黑客入侵麦当劳系统获取免费鸡块，发现漏洞价值数百万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484576&idx=1&sn=f6b4e173cffb2510bf717b891dbdd00b",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "大模型LLM自动化挖掘密码逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486455&idx=1&sn=c0efd806ffcd36d29c881977e0a80737",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "国威HB1910数字程控电话交换机代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484169&idx=1&sn=e45f677196ece3ff7e7b7f1ba3ae1be5",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
+    },
+    {
+        "title": "【Java安全】万字保姆级shiro+spring环境分析并复现spring内存马注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491855&idx=1&sn=2a056ef14fbc2bb7832ba3c29dd70f84",
+        "source": "Doonsec",
+        "date_added": "2025-09-06"
     }
 ]
