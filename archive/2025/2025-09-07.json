@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "实战之常规漏洞快速挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498155&idx=1&sn=840ae3e00fe1397ef4262cb8f8cb39dd",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "AI大模型在代码审计中的应用与实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486802&idx=1&sn=1349f45d034ba820be46ab14f337b8b5",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
