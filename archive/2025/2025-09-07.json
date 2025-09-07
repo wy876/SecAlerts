@@ -70,5 +70,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484768&idx=1&sn=ac6b9e7253316481dee1e322f8e89903",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "西部数据 chk_vv_sharename.php 远程命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492668&idx=1&sn=1d86b9052608992438874d4756d690d5",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "vulnstack1-域渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODgyNDczMQ==&mid=2247484172&idx=1&sn=a0ee3f6e0b8b10fc8a1645c137625197",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "小迪安全笔记—内网渗透-横向移动-基于口令-wmi-smb-dcom(179)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484667&idx=1&sn=ffa623fc5dc9870c77f4d1c6ac480eab",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
