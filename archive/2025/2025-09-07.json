@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484667&idx=1&sn=ffa623fc5dc9870c77f4d1c6ac480eab",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "xmind electron rce 复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
