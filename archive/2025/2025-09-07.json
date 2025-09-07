@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "android新漏洞：一行命令打开任意activity",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484768&idx=1&sn=ac6b9e7253316481dee1e322f8e89903",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
