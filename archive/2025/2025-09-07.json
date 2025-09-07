@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "RicohWebImageMonitor 反射xss漏洞(CVE-2025-41393)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
