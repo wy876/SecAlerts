@@ -10,5 +10,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "] [漏洞 | CVE-2025-8220",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349",
+        "source": "ChainReactors",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "] [【安全圈】谷歌紧急修复安卓0day漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a",
+        "source": "ChainReactors",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "] [漏洞 | CVE-2025-8220",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "] [【安全圈】谷歌紧急修复安卓0day漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "Facebook 服务器上的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487101&idx=1&sn=eee3fcb277c3acf137f88490aa62bfee",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
+    },
+    {
+        "title": "【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
