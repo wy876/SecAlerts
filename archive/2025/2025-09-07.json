@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTQzNzA3Nw==&mid=2247487114&idx=1&sn=38f22893b1a65657d5a68f2e2e8788eb",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "Tosei network_test.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
