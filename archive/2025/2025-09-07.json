@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574847&idx=1&sn=f87cdf2da55822d53e648e05650530eb",
         "source": "Doonsec",
         "date_added": "2025-09-07"
+    },
+    {
+        "title": "记录某系统通杀XSS漏洞，多个985大学在列",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647",
+        "source": "Doonsec",
+        "date_added": "2025-09-07"
     }
 ]
