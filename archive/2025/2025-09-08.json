@@ -52,5 +52,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290939&idx=1&sn=bd5f7b58cfeba401a3d6ea301a87a67e",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "] [手把手教你如何挖洞：CVE-2025-53772 IIS Web Deploy 反序列化漏洞调试分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492335&idx=1&sn=cc5f8d6f3d07b361d81bfabbfbf838e9",
+        "source": "ChainReactors",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "] [手把手教你如何挖洞：CVE-2025-53772 IIS Web Deploy 反序列化漏洞调试分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492335&idx=1&sn=cc5f8d6f3d07b361d81bfabbfbf838e9",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "白天平台交漏洞，晚上脱裤找老板",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490613&idx=1&sn=734746130161414700290eb4c8b6167c",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "GROW计划 | 开学季-第一期漏洞挖掘实战（文末抽奖）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509317&idx=1&sn=176afa32403fd6b401b472ec75076c1d",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "AI供应链惊现高危漏洞！微软、谷歌等平台或遭远程代码攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252498&idx=1&sn=2e3e3ffa11d7a672bc9598461995a31f",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "小白挖edu如何快速找准漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489199&idx=1&sn=f08c6d153ad10f2eecd183f0b9098bfc",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
