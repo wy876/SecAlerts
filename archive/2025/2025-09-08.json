@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494637&idx=2&sn=be597fa42fc0b9deeb5e0416898051f3",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "SRC | 奇怪的任意用户重置密码组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488690&idx=1&sn=833f2a70b295d3594ed044166f03301d",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
