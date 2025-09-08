@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488690&idx=1&sn=833f2a70b295d3594ed044166f03301d",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "撰写整洁且有价值的漏洞奖励报告的技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507535&idx=1&sn=d8bfd7a46aa666b0951929749f0b75e6",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489077&idx=1&sn=4671f5a86592a90f99c45eef0cb55708",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
