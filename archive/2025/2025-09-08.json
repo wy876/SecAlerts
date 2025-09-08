@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492677&idx=1&sn=a311f09fcf6caa892c47609bda6b4900",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "Gemini 的安全回归：旧漏洞卷土重来",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507531&idx=1&sn=053f4c9b8d924d904b3c780ae09601c3",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "从.map文件到敏感接口：渗透测试中Webpack的突破点",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494626&idx=1&sn=0215377ef31b94539e7c7a1bec95085a",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
