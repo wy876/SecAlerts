@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494719&idx=1&sn=7f33e6e87496d9bb8c0da8e63cf50275",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "每日5万封钓鱼邮件：亚马逊云服务漏洞助长大规模网络钓鱼活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=3&sn=69187752e0b7f01602e157d39a1ea6ef",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "Apache Jackrabbit最新漏洞可导致JNDI注入与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "轻松拿捏的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498159&idx=1&sn=11e143d97d6c957f253e276a6bdd4555",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
