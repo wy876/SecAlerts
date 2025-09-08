@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494374&idx=3&sn=5d0ab4b58aace69956de0764f080e4ff",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "CVE-2024-8353 - GiveWP - 不安全的反序列化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532657&idx=2&sn=a375079450d3136a3d8db94f4a380474",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
