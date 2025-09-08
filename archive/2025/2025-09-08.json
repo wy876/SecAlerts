@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486911&idx=1&sn=758a165685badb6c67437ecbdc68364e",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "漏洞实战案例 | FUZZ的艺术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488313&idx=1&sn=67e8cc68e0c6371598e9aeee47c87372",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
