@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532657&idx=2&sn=a375079450d3136a3d8db94f4a380474",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "VUE站点未授权漏洞检测插件 -- VueCrack",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486911&idx=1&sn=758a165685badb6c67437ecbdc68364e",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
