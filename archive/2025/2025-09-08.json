@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494626&idx=1&sn=0215377ef31b94539e7c7a1bec95085a",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "edu src之从druid未授权到jeecg_RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484692&idx=1&sn=018b3a16ffc98eea0f3a824905b92abf",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
