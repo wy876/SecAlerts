@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484692&idx=1&sn=018b3a16ffc98eea0f3a824905b92abf",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "开发者别大意！Node.js 未授权安全漏洞，你的服务器可能正在被攻击者远程操控。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504799&idx=1&sn=ff3da017561f972138e3cfec41718249",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494374&idx=2&sn=172494dd8b85bd52a724a4c7f99d8ea5",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494374&idx=3&sn=5d0ab4b58aace69956de0764f080e4ff",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
