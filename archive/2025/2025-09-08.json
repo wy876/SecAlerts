@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485594&idx=1&sn=e01f061388ea73543cc256691fef9c64",
         "source": "Doonsec",
         "date_added": "2025-09-08"
+    },
+    {
+        "title": "1Day 复现 金和OA SQL注入漏洞 (CVE-2025-10090)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-08"
     }
 ]
