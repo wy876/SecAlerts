@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138628&idx=2&sn=725d67b3147bdfc29fc3317dccb6d41d",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "Java代码审计靶场",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486104&idx=1&sn=d97febe13ab8e88845b804aed7994cbe",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "CVE-2025-29824 在野 0day 漏洞利用样本研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516039&idx=1&sn=db4aa60e93ae2356c85059823380e88f",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
