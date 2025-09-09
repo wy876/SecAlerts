@@ -340,5 +340,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490711&idx=1&sn=225b2f20339820e525b60f2a358418a8",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "东胜物流软件Webservice/DsWebService.asmx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "从 “网红高管” 到被辞退：小米王腾泄密事件撕开科技巨头的安全漏洞u200b",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267783&idx=1&sn=5fb14bc7f9ca79fe5965a6a81991042e",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "智邦国际ERP RecordPrint.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "小迪安全笔记-内网渗透-横向移动-基于口令-WinRM&WinRS-RDP-CrackMapExec(180)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484668&idx=1&sn=b0669354256e8e0e11e758ceaf5acfb7",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "SRC漏洞挖掘技巧，带你零基础入门到精通赏金！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
