@@ -328,5 +328,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "CFS三层靶机-内网渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODgyNDczMQ==&mid=2247484271&idx=1&sn=1ef95e76a83ca4a029bfa693c4bb05f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490711&idx=1&sn=225b2f20339820e525b60f2a358418a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
