@@ -268,5 +268,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516039&idx=1&sn=db4aa60e93ae2356c85059823380e88f",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "Next.js 中间件中的 SSRF 漏洞CVE-2025-57822",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "【漏洞通告】SQLite FTS5 整数溢出漏洞 (CVE-2025-7709)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "CVE-2025-29824 在野 0day 漏洞利用样本研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "Fastjson 代码执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "某开源教育平台后台权限绕过漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
