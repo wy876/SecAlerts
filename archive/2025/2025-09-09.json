@@ -196,5 +196,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483985&idx=1&sn=323cf9784f80a50b5937ed28dd491808",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "【漏洞预警】复盘百度网盘Windows客户端存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486604&idx=1&sn=591afdedefddfbc1cb3b93540d1f19b6",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "1Day 复现 14.4K Starts AiAgent系统SSRF漏洞 (CVE-2025-9805)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483963&idx=1&sn=63f22b5493d384b8d1ba711ca3be6d22",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "【高危AI漏洞预警】Langflow容器权限提升漏洞CVE-2025-57760",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490706&idx=1&sn=8fc315c3eba9bbe0f7129c0360b024c9",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "cJSON库存在CVSS 9.8高危JSON解析漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=2&sn=8d19f2657d6b50031dba6eceb7892e77",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
