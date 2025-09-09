@@ -1,0 +1,56 @@
+[
+    {
+        "title": "普渡外卖机器人存在安全漏洞，黑客可劫持送餐路径|史上最大规模DDoS攻击：Cloudflare成功防御11.5Tbps流量冲击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612207&idx=2&sn=63dbc772d0fbdc9e636344cbce7c8dc5",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "30个中间件渗透思路技巧 收藏备用！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612207&idx=3&sn=ace61af5b503628169329fc562534ae1",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "一款高效、强大的子域名爬取工具，帮助安全研究者和渗透测试人员快速收集目标域名的子域名信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612207&idx=4&sn=d73b5c9e791f1d20d3a5c91c07404f0a",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第34期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500353&idx=1&sn=f3b0d85167b0f28f6c298d5178ea9af1",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "丢人了，Tenable公司失陷：漏扫巨头也防不住供应链漏洞攻击！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548378&idx=2&sn=f2943864f5c654fb804097151918cfa8",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247494317&idx=1&sn=9a4cabb629f7ea92f1b7e58d7a6a569a",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "丢人了，Tenable公司失陷：漏扫巨头也防不住供应链漏洞攻击！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486664&idx=2&sn=49695030ebf3bd560ee6dca54365f4e0",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "sqlmap Xplus 【经典的数据库注入漏洞利用工具进行二开】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491321&idx=1&sn=042a3a64f9e26edd666562aa49b37fef",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "CVE-2025-2502 / CNVD-2025-16450 联想电脑管家权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495137&idx=1&sn=08e36229199d5695a3af3858003c4951",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    }
+]
