@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTkxNzg4MA==&mid=2247490212&idx=1&sn=07c8ce7e3dd936a203f768fc65ed100d",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "大型推理模型的安全性：挑战、漏洞与未来",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533378&idx=1&sn=76aacd2bdcdad04880942272cfcd1d82",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
+    },
+    {
+        "title": "【紧急警示】Weaxor 新变种“roxaew”借 nday 漏洞大肆攻击，多家企业中招！深度剖析与防御指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503349&idx=1&sn=913a54d58954d77ed131b29c37e96122",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
