@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487537&idx=1&sn=35129e07aba832b5bff2ef8c8ea3d981",
         "source": "Doonsec",
         "date_added": "2025-09-09"
+    },
+    {
+        "title": "某书发布个人信息导致全校学生信息泄露--漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487069&idx=1&sn=10897374dd17db7c36fe8c975d5a787d",
+        "source": "Doonsec",
+        "date_added": "2025-09-09"
     }
 ]
