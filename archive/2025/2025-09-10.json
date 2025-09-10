@@ -160,5 +160,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494726&idx=1&sn=419b5b6ce3e9259aebf8372e8f5e4494",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "Webpack漏洞利用从.map文件到敏感接口：渗透测试中Webpack的突破点（重构版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494693&idx=1&sn=a3739bb5a24ccbc2e249b9c3a915f679",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "预警丨防范苹果公司iOS/iPadOS/macOS越界写入高危漏洞风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174406&idx=1&sn=32c0bd77f17ceda5b9f24cd5f3fa60ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "关于防范苹果公司iOS/iPadOS/macOS越界写入高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489303&idx=1&sn=3edca844115ef6d25d5b90269c085eee",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "某CMS组合拳导致前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488315&idx=1&sn=ba4d918091fa42d1230da1daf0f258df",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞实战案例 | FUZZ的艺术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488315&idx=2&sn=2b6bc37098595afc0c4b1b918254a467",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "Webpack打包js.map泄露导致的通杀0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486780&idx=1&sn=40d1ba40d173011990ceacbc1a7a2884",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
