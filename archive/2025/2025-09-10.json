@@ -292,5 +292,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486086&idx=1&sn=975b6ec4bc3585ee6ae11328fbd22f24",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "AI驱动漏洞挖掘！利用智能体发现57个安卓APP未知漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628950&idx=2&sn=6bbe011019415ae2ed2f037494d6929f",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "BitLocker 曝两提权漏洞，微软紧急打补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599698&idx=3&sn=8c3b091297949a294055db5203184e05",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485106&idx=1&sn=d38243e78797805df1da0059c582f753",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
