@@ -358,5 +358,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=4&sn=aa84de58c5eab703fb2d2ced31a97af3",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "FortiDDoS存在允许黑客执行未经授权的作系统命令漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096495&idx=1&sn=864d17eb6f96ad5b7ce2287b4db0888f",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "Ivanti Endpoint Manager 存在执行远程攻击代码严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096495&idx=2&sn=fa8b935b76f68df7cbc22b90156c415a",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
