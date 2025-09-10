@@ -400,5 +400,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484435&idx=1&sn=ce2416defe7b4fdeba59159ff0acf62d",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "Passwordstate 开发人员敦促用户尽快修补身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493542&idx=1&sn=03519bbcf93c54bd29efa0d878c97914",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490749&idx=1&sn=693f371b08d8085e8c834c0a29df721b",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "用友UFIDA ERP-NC 5.0 多接口存在跨站脚本漏洞(CVE-2025-2709) 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489120&idx=1&sn=43bff3d316dd39334d4ec8ffd058cc56",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
