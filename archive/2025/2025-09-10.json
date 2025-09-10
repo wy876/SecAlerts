@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487512&idx=1&sn=b34f1f4a717433fdba37a4ff430660a6",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "喜迎国庆 | 小红书特定高危漏洞奖金翻倍！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDUwNDU0OA==&mid=2247483772&idx=1&sn=61787f00bfcc5c69610e171208faeb6d",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【首发复现】AI漏洞：MCP Inspector 远程代码执行漏洞（CVE-2025-58444）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494726&idx=1&sn=419b5b6ce3e9259aebf8372e8f5e4494",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
