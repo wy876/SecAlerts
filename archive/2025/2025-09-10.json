@@ -310,5 +310,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485106&idx=1&sn=d38243e78797805df1da0059c582f753",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "【安全圈】Sophos无线AP曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=3&sn=6ea8b60ef7c7e99ad37f8ddfd4f3f9bf",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【风险通告】SAP NetWeaver存在反序列化漏洞（CVE-2025-42944）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490581&idx=1&sn=dd2086adaa914cedc8bc7b9b61f7c2b2",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【风险通告】微软9月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490581&idx=2&sn=768eb5b9af7c6d84579fd25f3c85ab5f",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "微软9月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523980&idx=1&sn=eb82e8a719350c70185abd2a1f39cb79",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "Adobe 修复史上最严重的 Magento 漏洞之一",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523980&idx=2&sn=1e726413f895d0c82f9817dde7abb01b",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "Chrome紧急修复两大高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327362&idx=4&sn=4cf6f64e4f6e58b1c4adae2a81b2ba7e",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
