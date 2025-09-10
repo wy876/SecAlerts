@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502744&idx=2&sn=126d3a4bc73ffad37aac27e24e83a726",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "关于防范苹果公司iOS/iPadOS/macOS越界写入高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247601336&idx=3&sn=82531413eb18aa82efb654edcdb9e513",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "入门渗透测试一篇给你讲清楚！基础准备、渗透关键、注意事项详细总结！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486086&idx=1&sn=975b6ec4bc3585ee6ae11328fbd22f24",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
