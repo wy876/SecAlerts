@@ -346,5 +346,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327362&idx=4&sn=4cf6f64e4f6e58b1c4adae2a81b2ba7e",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "小迪安全笔记—内网渗透-横向移动-pth-ptt-ptk-Kerberos(181)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484669&idx=1&sn=3c97d846a965412ba2e0ecaa4eb3f1fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【安全圈】微软Office被曝高危漏洞：可远程执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=4&sn=aa84de58c5eab703fb2d2ced31a97af3",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
