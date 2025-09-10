@@ -418,5 +418,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489120&idx=1&sn=43bff3d316dd39334d4ec8ffd058cc56",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "某运输公司OA系统存在漏洞形成数据泄露风险被处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498833&idx=3&sn=5aad88d2c2bd6001de41c0189f4d240c",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 多客圈子论坛系统getManageinfo 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483920&idx=1&sn=b58bf8b8338aafc7de284cd7313105ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
