@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490325&idx=1&sn=e66739422eee44919908cc7474f7ee78",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "HexStrike深度剖析：AI渗透的喧嚣与现实",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494408&idx=1&sn=75d803b630da3e6d4480fecf99c6d438",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "预警丨防范苹果公司iOS/iPadOS/macOS越界写入高危漏洞风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548405&idx=1&sn=79cf1bec5859ae00b502cc47b6aee0e3",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
