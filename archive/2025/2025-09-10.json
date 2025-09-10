@@ -244,5 +244,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548405&idx=1&sn=79cf1bec5859ae00b502cc47b6aee0e3",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "字节跳动论文入选 ACM SIGCOMM\\'25 | 基于 WebRTC 的大规模直播: 助推直播渗透率与观播时长显著增长",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516613&idx=1&sn=e6bc1d99e2493b870da2494bd04645ef",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574887&idx=1&sn=552cd58c097377e6014f3c8064dfa36c",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "渗透大佬都在看的渗透笔记合集，超级实用，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574887&idx=2&sn=3b66560c34f19b53f215d4670285b491",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【JAVA安全研究】XStream反序列化漏洞利用研究  EventHandler机制利用方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484340&idx=1&sn=3a9bf1f5e093bbd4021ef2451a94c30f",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【漏洞通告】微软9月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501559&idx=2&sn=db2f35ac55ca79b2d753cf8b990564e6",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "美国战争部网络直播安全漏洞事件分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502744&idx=2&sn=126d3a4bc73ffad37aac27e24e83a726",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
