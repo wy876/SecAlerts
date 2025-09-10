@@ -1,0 +1,122 @@
+[
+    {
+        "title": "黑客利用Sitecore零日漏洞部署WeepSteel侦察恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612222&idx=3&sn=8c789d57ef1a9632b68e656801a3ceb0",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "这50个业务逻辑漏洞，能掌握的覆盖90日常工作！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519644&idx=1&sn=b09a23a7f799add39510b4856f18a623",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "微软9月补丁日多个产品安全漏洞风险通告：7个紧急漏洞、7个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503926&idx=1&sn=5c026d832d6bc217ce4a7b5fcd027788",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【漏洞挖掘】记一次组合拳之SPEL(重在思路分享+payload)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496592&idx=1&sn=ae2638f672da734a516fc2621291268d",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【实战SRC】漏洞挖掘之未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488725&idx=1&sn=992ad927ee76a9548ce334243c2fdef7",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年09月09日",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491979&idx=1&sn=35be57a0a7977ea268d53ee3624070e8",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "记一次完整的内网渗透实操",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247494318&idx=1&sn=8cfddd0a7d90fa2c009c817659053d32",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "SAP 2025年9月补丁日修复了4个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494734&idx=1&sn=36c109111610bc1dfa8f6d9ac14933c0",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "别不当回事！80%的扫描都预示着新漏洞，你的Cisco ASA还在“裸奔”吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485010&idx=1&sn=cc81cf16f2e7ec632b9a9c1f2bc718d9",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "CyberPoC 是一个现代化的网络安全练习和竞赛平台，支持容器化部署的安全挑战，为用户提供实践网络安全技能的环境。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495171&idx=1&sn=2567115108ecad18da46742275f35092",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞预警 | Web部署远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494391&idx=1&sn=7bdca70cbe759c8727ec054e27f8ae6e",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494391&idx=2&sn=efd758ce623817f657a1ec489f0401c3",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494391&idx=3&sn=5c9458f203196b7b588330359ad59df1",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "600页 Kali Linux高级渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291077&idx=1&sn=4a746ca012101a7af315db362e9c2c1e",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "批量赋值漏洞详解以及检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485986&idx=1&sn=c672221bb18ddd0f0627b118216a21f7",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 金和OA C6 ArchivesDocNew.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483918&idx=1&sn=840ab0be4f3d2d1f62b486f0b8807f46",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "《Java代码审计精华版》是否开源由你决定",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487066&idx=1&sn=a478812c5b11500bcef574b64562f8fe",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "漏洞管理的生命周期：从发现到修复的完整防护体系",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487486&idx=1&sn=e837f39af1210784c2f008cee71bbd77",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "一款基于AI辅助的主动+被动扫描SQL、XSS、未授权等漏洞检测和精准指纹识别工具|Z0Scan（2025-09更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494650&idx=1&sn=dc3f5e5ade22ccc66bd35cb34a03abcc",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "邀请函 | 国内红队CISP-PTS专家级渗透实战特训！（福利）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524995&idx=2&sn=70b37cd4222dfafd8e925cb2fbec1313",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    }
+]
