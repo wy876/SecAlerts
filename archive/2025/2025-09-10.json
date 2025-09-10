@@ -394,5 +394,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484426&idx=1&sn=0c90f96f1f463e321b2a9e844f0c3130",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "flask CVE-2023-27524xa0Apache Superset Auth Bypass/sink",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484435&idx=1&sn=ce2416defe7b4fdeba59159ff0acf62d",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
