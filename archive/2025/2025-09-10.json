@@ -220,5 +220,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584550&idx=2&sn=30f0b46bb6738c8c47a83ad35b7630de",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第36期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463431&idx=2&sn=f2857c3f837d01062565a209f4103f3a",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "CVE-2025-52915: 一个 BYOVD 演变故事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490325&idx=1&sn=e66739422eee44919908cc7474f7ee78",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
