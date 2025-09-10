@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486780&idx=1&sn=40d1ba40d173011990ceacbc1a7a2884",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "Kernel-hack-drill 和在 Linux 内核中利用 CVE-2024-50264 的一种新方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490306&idx=1&sn=1d02884a9ee0800eeeb7accc7db0b283",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
