@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490306&idx=1&sn=1d02884a9ee0800eeeb7accc7db0b283",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.9.1-2025.9.7",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503544&idx=1&sn=0d58c30570367608d168ba1a4c35a51f",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "黑客借助HexStrike-AI工具可快速利用新型漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584550&idx=1&sn=a123655dde31f91bb09a603de668234d",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "TP-Link确认路由器存在未修复零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584550&idx=2&sn=30f0b46bb6738c8c47a83ad35b7630de",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
