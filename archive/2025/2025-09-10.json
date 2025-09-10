@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096495&idx=2&sn=fa8b935b76f68df7cbc22b90156c415a",
         "source": "Doonsec",
         "date_added": "2025-09-10"
+    },
+    {
+        "title": "AstrBot  get_file 任意文件读取漏洞(CVE-2025-48957)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492716&idx=1&sn=c750f4c167120bf508ad4457baba51db",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
+    },
+    {
+        "title": "【高危AI漏洞预警】MCP Inspector跨站脚本漏洞CVE-2025-58444",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490717&idx=1&sn=2024009ef9cb8324778c701ae691300e",
+        "source": "Doonsec",
+        "date_added": "2025-09-10"
     }
 ]
