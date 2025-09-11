@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486127&idx=1&sn=b4ae93c0746854366f922d86ab60d782",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463439&idx=1&sn=5fc7e8696b14321a8ab8703b915b4fff",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
