@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484669&idx=1&sn=177147c63451262a3dfbb054b45f28a4",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "iPhone17史上最重要安全升级：MIE技术抵御各类内存破坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327391&idx=1&sn=468e4e03ba596d9a8410924d670dfd5f",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "微软Office两大高危漏洞可导致恶意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327391&idx=3&sn=c3549694b37935d8e8af85f71da415a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "Google Drive漏洞可致云端文件遭全盘访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327391&idx=4&sn=3ab422e24729e22f87fa59abcb5b122f",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "捷豹路虎数据遭泄露生产仍未恢复，幕后黑手或与 Salesforce-Salesloft 供应链攻击有关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523990&idx=1&sn=ad9957a5c3d054d4a0bf32250bceb556",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
