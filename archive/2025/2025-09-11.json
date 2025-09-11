@@ -208,5 +208,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174439&idx=4&sn=9933722b933bf8a9fcb4389b96db6a51",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248821&idx=2&sn=285d411965df0547f47d43d3e683bff6",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "【论文速读】| VulnRepairEval：基于漏洞利用的大语言模型漏洞修复能力评估框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497003&idx=1&sn=984a59eead3cb10835d8a7798c458d9a",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "【安全更新】微软9月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489345&idx=1&sn=7b792a8bcade52258c5ff49c597c22ff",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "渗透测试必备工具详细图解！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484669&idx=1&sn=177147c63451262a3dfbb054b45f28a4",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
