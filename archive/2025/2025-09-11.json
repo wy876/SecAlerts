@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463439&idx=1&sn=5fc7e8696b14321a8ab8703b915b4fff",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "记一次攻防演练通过SQL注入和RCE拿下靶标的故事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574916&idx=2&sn=d9a60154056d3e4aa3bad05cd0cc5595",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "CNNVD通报微软多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174439&idx=4&sn=9933722b933bf8a9fcb4389b96db6a51",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
