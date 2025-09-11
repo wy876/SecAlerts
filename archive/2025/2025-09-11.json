@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523990&idx=1&sn=ad9957a5c3d054d4a0bf32250bceb556",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "【安全圈】微软 9 月安全更新修复 80 个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071657&idx=1&sn=01e4627a8b409aa7c0172e4c296a0d28",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "美国发布通用漏洞披露（CVE）计划愿景",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247519930&idx=1&sn=34ead65add7199a3515ea2cc7ee1b9d0",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
