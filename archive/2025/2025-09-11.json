@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDgyMTg4MA==&mid=2247483898&idx=1&sn=e5b3a96f86ffa009bedc98599ed745dd",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "记一次某管理系统会话管理漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551950&idx=1&sn=bc66fbd6c7235b822e1c3f25a56465a1",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "2025-09微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526394&idx=1&sn=1755737f404c05de47f40938770ed109",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
