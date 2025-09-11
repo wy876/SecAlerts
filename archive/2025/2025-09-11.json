@@ -1,0 +1,116 @@
+[
+    {
+        "title": "黑客借助HexStrike-AI工具可快速利用新型漏洞|TP-Link确认路由器存在未修复零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612270&idx=3&sn=b4f628f3d252176f592d125b730ca89d",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "CyberPoC 是一个现代化的网络安全练习和竞赛平台，支持容器化部署的安全挑战，为用户提供实践网络安全技能的环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612270&idx=4&sn=77053333b8336658daf3a225ea34ddee",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "一个提供各类N-day漏洞在线查询的网站！！！Wiki漏洞库管理系统&网络安全知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486461&idx=1&sn=e49677dd057e6ea6b6e1c9e1c4329ec3",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "某赛通电子文档安全管理系统 ViewDecyptFile和ViewUploadFile任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484215&idx=1&sn=114a6ab7f69fd1c7c3db98b6997e7910",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "Cursor AI 代码编辑器 RCE 漏洞可导致恶意软件“自动运行”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796306&idx=2&sn=6c6aa5d6548fe92aaf56fcbef9f7e207",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "【工具分享】z0scan一个基于AI主/被动扫描SQL、XSS、未授权等漏洞检测和精准指纹识别工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486642&idx=1&sn=c3695aa754fb434f1fe21a1200c53c64",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "首席信息安全官：别再只盯着找漏洞，开始管理“人为因素”安全风险吧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485243&idx=1&sn=b3d71d8ba0f8cfc25d0549f456d06893",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "GitLab 敦促立即更新两个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484931&idx=1&sn=826cda3c579989790c00cec29495ab06",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年09月10日",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491981&idx=1&sn=85ae2727ac24aee54f72f9888a398e14",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "重磅！国内最专业的 [ .NET 代码审计 ] 体系化学习互动社区，强势来袭！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247494357&idx=2&sn=306c1e28c98f6c8e3753ae902b3dd3bd",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "从 CVE-2024-43485 审计 .NET 隐式依赖的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500561&idx=1&sn=4716d9f6298645f758b42436ede8f905",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "一个文件上传的功能，可能出现哪些类型的漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500174&idx=1&sn=ea183d31d07c3e1d5ad1abbf71ef1e99",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "漏洞正被活跃利用，数百万TP-Link路由器面临远程控制风险u200b",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484607&idx=1&sn=b184891d3e6db9bb31134ec3737c7532",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527236&idx=1&sn=e1e1e6192be4003db0ec11afe8ff4449",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513780&idx=1&sn=e6bef793614d5ff9b9d7669b2e6c341f",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "渗透测试工程师（高级）第二期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291112&idx=1&sn=c7fdc15c3536b2c9702caa6592d2a5d7",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "漏洞预警 | SQLite FTS5整数溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494419&idx=1&sn=01f4358a65aceadc0a0b994a4a3870ad",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "漏洞预警 | 万户ezOFFICE XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494419&idx=2&sn=497fc60727ec35681c82f78d1c2ddc8f",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494419&idx=3&sn=7a14599625e8269047645df166dad77a",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    }
+]
