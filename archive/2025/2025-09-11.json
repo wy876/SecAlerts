@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526394&idx=1&sn=1755737f404c05de47f40938770ed109",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "【知乎粉丝福利】黑客/网络安全攻防学习资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485689&idx=1&sn=f1b3179d9cd4a1dcadcd86c2ca626d62",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "Kerberoasting：为什么微软 Active Directory 的古老漏洞至今仍威胁企业安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490331&idx=1&sn=d93df73cb09e2f197152d7e60bde560e",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
