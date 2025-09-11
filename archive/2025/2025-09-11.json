@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247519930&idx=1&sn=34ead65add7199a3515ea2cc7ee1b9d0",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "小记一次Fastjson漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM0OTcyOQ==&mid=2247484803&idx=1&sn=45b46bfa6b89e830323c0f2165699b2e",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
