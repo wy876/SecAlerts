@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494419&idx=3&sn=7a14599625e8269047645df166dad77a",
         "source": "Doonsec",
         "date_added": "2025-09-11"
+    },
+    {
+        "title": "SScan资产收集+漏洞扫描 ： 一款src捡洞扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488740&idx=1&sn=c1e5098877b9a4af9973e63f38d4e0d7",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "精彩前瞻 | 国家漏洞库基础软硬件产品漏洞治理生态创新交流活动速览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2MDQwMA==&mid=2247486884&idx=1&sn=e0682f93c3fed6c648a9b55ce196e924",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "记一次攻防渗透集锦-JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523167&idx=1&sn=66e62a8afa466bbe676be5472f848873",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "2025年9月微软补丁星期二安全更新修复了两个零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494750&idx=1&sn=c690cdcc4a2348af3f960590b437c82b",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
+    },
+    {
+        "title": "商务平台与Magento系统中的严重漏洞SessionReaper可导致攻击者劫持客户账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494750&idx=3&sn=b72444e78323a33742c00fc2adfbcced",
+        "source": "Doonsec",
+        "date_added": "2025-09-11"
     }
 ]
