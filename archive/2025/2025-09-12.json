@@ -406,5 +406,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487159&idx=1&sn=22d3c97fed4c43c6ee06e8c4b1fb296e",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "【高危漏洞预警】Zabbix代码执行漏洞（CVE-2025-27240）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【高危AI漏洞预警】Visual Studio Code Agentic AI 命令注入漏洞 (CVE-2025-55319)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
