@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071673&idx=1&sn=bfb5492139bfe15915368784d4448c1a",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "实操漏洞挖掘之某平台不完善的认证流程导致账号接管!(已修复)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDc0MzgyOA==&mid=2247485912&idx=1&sn=7f3c17b3f2a76f872f86b63b55c21e81",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "脚本小子必看，4 款漏洞扫描工具测评",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494613&idx=1&sn=5111fdd4e7f213cef3bcb6efd5407d88",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
