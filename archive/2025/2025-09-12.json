@@ -418,5 +418,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "辅助学员审计案例-php代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=1&sn=2feaf2786717c2c577fe0b5230cbc58f",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "从js逆向到sql注入waf绕过到net审计-edu证书漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "空白页面引起的高危src漏洞-再次绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
