@@ -250,5 +250,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486514&idx=1&sn=f92d3cbff26db6994d814627aea539be",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "好靶场支付逻辑漏洞】--充值舍入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486136&idx=1&sn=3144fbbda0d1cae55876265923508f77",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【已复现】Windows 内核信息泄露漏洞(CVE-2025-53136)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494738&idx=1&sn=723ec61a72520fb9c36bdd4fd6c652f2",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
