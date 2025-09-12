@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484524&idx=1&sn=e59c805a90049e5428c254d082fe714b",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "JSONP劫持漏洞挖掘与实战利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500547&idx=1&sn=bc6f60a08f7641203d89ccbbfb0ab1be",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【安全圈】Windows防火墙曝出提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071673&idx=1&sn=bfb5492139bfe15915368784d4448c1a",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
