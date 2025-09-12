@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584580&idx=2&sn=3d182b2b9bcc2a01b85fee2e7a91e859",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "灵当CRM cloudpro index.php sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492736&idx=1&sn=b9ba9538252b939ac68a78e865d51bc6",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
