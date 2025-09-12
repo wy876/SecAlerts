@@ -340,5 +340,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143022&idx=1&sn=e620d0a75b25b75f0323877c2c569600",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "GitLab Webhook SSRF漏洞（CVE-2025-6454)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517487&idx=1&sn=f068877ed3a371134c727476b83d9560",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "脚本小子必看，4 款漏洞扫描工具测评",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327519&idx=1&sn=dab9eea27770347eba581e1392267a6f",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "英特尔与AMD最新CPU隔离缺陷漏洞可使虚拟机突破隔离",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327519&idx=3&sn=279692f1af43aa4b3c4a3b420efe4e17",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "PyInstaller工具漏洞预警，可致攻击者执行任意Python代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327519&idx=4&sn=152908a57fd56b3b97a306765b461681",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "nvidia-container-toolkit CVE-2025-23266 缓解措施绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484524&idx=1&sn=e59c805a90049e5428c254d082fe714b",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
