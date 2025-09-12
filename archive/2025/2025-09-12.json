@@ -316,5 +316,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490476&idx=1&sn=79cfe511047b95da8f200aa2484273fe",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "SRC挖掘之Access验证校验的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556297&idx=1&sn=fa93cc1f592512850361947389a63570",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【免费领】Kali Linux无线渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556297&idx=2&sn=ae87952083df23a311a634322f4fd1bb",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "基于Python开发的h3blog博客系统 后台文件写入导致的RCE漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484364&idx=1&sn=15fada30ecbe1744dc4d5a076289694b",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
