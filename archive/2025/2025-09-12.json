@@ -304,5 +304,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501569&idx=2&sn=78d3c3b8a5c9a4ff0b3c0018de5ad766",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "【漏洞复现】-百度网盘Windows客户端远程命令执行以及后利用思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247484102&idx=1&sn=440506eb3d54b552911a7c17932126d9",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "「漏洞分析」Drupal 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490476&idx=1&sn=79cfe511047b95da8f200aa2484273fe",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
