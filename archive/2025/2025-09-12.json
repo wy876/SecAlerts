@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484364&idx=1&sn=15fada30ecbe1744dc4d5a076289694b",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "WinRAR之CVE-2025-6218漏洞复现与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143022&idx=1&sn=e620d0a75b25b75f0323877c2c569600",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
