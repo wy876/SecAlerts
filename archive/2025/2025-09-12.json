@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Chrome紧急修复两大高危远程代码执行漏洞|迄今最大供应链入侵：GhostAction攻击窃取GitHub中3325个机密凭证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612284&idx=2&sn=7dd44fde23c08f9490ef8bbfcfe13ede",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "Angular SSR 漏洞（CVE-2025-59052）暴露用户数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484947&idx=1&sn=72aa3ae4f47a98fdc2a2530e9d9d2772",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "一个提供各类N-day漏洞在线查询的网站！！！Wiki漏洞库管理系统&网络安全知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247487309&idx=1&sn=6d8de9edddb95308bd8042669db8fff3",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "一个功能强大的BurpSuite漏洞扫描与指纹识别插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519657&idx=1&sn=57b3bf1c992f2b7dca1cee4e9ae11324",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "图解安全 | 破局“渗透测试”管控难题：构建全周期安全闭环解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203977&idx=1&sn=f7dbded57c640902fb7adf9b506f547c",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 全程云OA Statistics.ashx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483924&idx=1&sn=8dbfcb4a9944a19bf8468803b0fb80f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "SDL 92/100问：在测试代码审计类产品能力时，有没有好一点的开源项目推荐？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487210&idx=1&sn=63e9a01446b0f0dd8e99d833d943baa4",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【高危AI漏洞预警】Claude Code代理编程工具远程代码执行漏洞CVE-2025-59041",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490725&idx=1&sn=26821f2ee9484a56dd74a12da7d1ee33",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【高危漏洞预警】1panel OS命令注入漏洞（CVE-2025-56413）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490725&idx=2&sn=1d48894b798aac40177d3894343cc3dd",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "XWiki WebHome接口存在任意文件读取漏洞CVE-2025-55748 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489132&idx=1&sn=db106fe66973d49ac690ed03e1913096",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "物联网渗透思路及实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501257&idx=1&sn=ee4e923eaf3b436739cc332436c675bb",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    }
+]
