@@ -286,5 +286,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064345&idx=1&sn=9a0417c1beeaf90b927fad9a2020fdff",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "NVIDIA NVDebug工具漏洞可导致攻击者权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524994&idx=1&sn=00699ec86565b86093b4c637a592ae2a",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "CISA紧急通告：Dassault Systèmes高危漏洞正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524994&idx=2&sn=28841140723ad1caa4317977ed7a8397",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "【漏洞通告】GitLab Webhook SSRF漏洞 (CVE-2025-6454)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501569&idx=2&sn=78d3c3b8a5c9a4ff0b3c0018de5ad766",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
