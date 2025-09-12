@@ -394,5 +394,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494613&idx=1&sn=5111fdd4e7f213cef3bcb6efd5407d88",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "【360漏洞云】邀您共度中秋，海量福利来袭！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503819&idx=1&sn=0c6b04781d09473bfdc8314c6014cda9",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "从SSRF到命令执行惨案(转载)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487159&idx=1&sn=22d3c97fed4c43c6ee06e8c4b1fb296e",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
