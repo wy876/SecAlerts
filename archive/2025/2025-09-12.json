@@ -208,5 +208,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493077&idx=1&sn=a9ab2bcecce28f20fbe191341a0bcb90",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "AI魅魔漏洞——训练一个不会拒绝\\\"我\\\"的你",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551969&idx=1&sn=561348d3d6ef12e457a71040cf49c8d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "渗透基础 - 哥斯拉webshell管理工具优化 - 其二",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjY0MzIyNw==&mid=2247483848&idx=1&sn=fd4d4e52557d4355e76f38afee75847a",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "警惕！Lazarus子组织携3款RAT猛攻金融与加密货币领域，Telegram钓鱼+零日漏洞双管齐下",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486715&idx=1&sn=0e48c86f4ea8cb0dcb0eda52a62d7e2f",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "XSS漏洞检测工具 -- VigilantX（9月12日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517284&idx=1&sn=ef38a2728c85559afccc002083061cd4",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "抖音生活服务反爬专项上线！漏洞赏金1000元起步！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495601&idx=1&sn=ea61b323d6520a5168d94853114841ba",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
