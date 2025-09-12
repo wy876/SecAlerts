@@ -64,5 +64,149 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501257&idx=1&sn=ee4e923eaf3b436739cc332436c675bb",
         "source": "Doonsec",
         "date_added": "2025-09-12"
+    },
+    {
+        "title": "] [一个提供各类N-day漏洞在线查询的网站！！！Wiki漏洞库管理系统&网络安全知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484144&idx=1&sn=6146b7e5688b0376483e4fb5bceaa40d",
+        "source": "ChainReactors",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "] [某985证书站跨平台、跨IP的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488322&idx=2&sn=17e1c11d27abfaffc347fd9a05a7e832",
+        "source": "ChainReactors",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "] [一个提供各类N-day漏洞在线查询的网站！！！Wiki漏洞库管理系统&网络安全知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484144&idx=1&sn=6146b7e5688b0376483e4fb5bceaa40d",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "] [某985证书站跨平台、跨IP的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488322&idx=2&sn=17e1c11d27abfaffc347fd9a05a7e832",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "智慧校园综合管理平台(安校易) SysMenuScheme.ashx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492726&idx=1&sn=e788b9e5d2c4af29f69314914218d5a6",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "80 个反序列化漏洞全景系列 (4) | 介绍一个业务功能叠加特殊环境下的绕过方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500575&idx=1&sn=22e578f7dc88411c68ad61039d1490b4",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "谷歌修复Chrome高危漏洞，研究人员获4.3万美元奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494764&idx=1&sn=308d75f32837cc7ca251a4bb547b3364",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "Akira勒索软件利用多年前的SonicWall漏洞发起多向量攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494764&idx=2&sn=001d50072763dda2f028622996a1ec6a",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "CVE-2025-32463：Linux sudo chroot 本地提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484588&idx=1&sn=fdc6641905b1ad8865c9f2341cbd1229",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "实战案例 | Edusrc三个985证书站漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488371&idx=1&sn=b132a41b39a40a7f111b152fc83fad29",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "cve-2024-2812-AC9 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487723&idx=1&sn=6cb5418eeed84c3091c89834f366ac73",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年09月11日",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491983&idx=1&sn=a152cc0b3d8630449745da62beb3e5a6",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "代码审计-studentmanager",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247494315&idx=1&sn=0ef784968d21d3a8534f3261d6692184",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "一个永久的.NET渗透工具和知识仓库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247494315&idx=2&sn=11a13fb5299b60c47058b2c61c65f53f",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "一款免费开源轻量的漏洞情报系统 | 漏洞情报包含：组件漏洞 + 软件漏洞 + 系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495190&idx=1&sn=1fecbcb1fe7ce0f8c22b37b890a09346",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "WhatsApp曝零日漏洞，苹果用户遭精准攻击！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484612&idx=1&sn=a7d2086b2f1deee92d66c71280b00d1e",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "漏洞预警 | Next.js SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494420&idx=1&sn=1e11f4d9af08fd34bf478ad46ec78ccb",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494420&idx=2&sn=a02a6747b3b922ca856c09f17cd052f3",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494420&idx=3&sn=3339f125462321bd69dcbcb1b4d07ed6",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "还在为没有 VIP 用不了里面的 POC 发愁？Tscan Plus 其实早就留了免费通道！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485599&idx=1&sn=3e474fa366bec9e680804c545109fd63",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "一个提供各类N-day漏洞在线查询的网站！！！Wiki漏洞库管理系统&网络安全知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484144&idx=1&sn=6146b7e5688b0376483e4fb5bceaa40d",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "某985证书站跨平台、跨IP的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488322&idx=2&sn=17e1c11d27abfaffc347fd9a05a7e832",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "渗透测试JS接口Fuzz场景研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519758&idx=1&sn=8b69bb79cefa66326408be7b3237d0b0",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
+    },
+    {
+        "title": "渗透测试，真的所有系统都需要吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493077&idx=1&sn=a9ab2bcecce28f20fbe191341a0bcb90",
+        "source": "Doonsec",
+        "date_added": "2025-09-12"
     }
 ]
