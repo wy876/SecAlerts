@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "ETH Zurich 披露 VMSCAPE 漏洞：AMD 与 Intel CPU 存在虚拟化隔离缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
