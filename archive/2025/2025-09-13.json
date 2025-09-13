@@ -148,5 +148,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "CVE-2025-57833｜Django SQL 注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "CVE-2025-53772｜Web 部署远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "开源｜如何通过AI挖掘浏览器漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
