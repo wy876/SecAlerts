@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "Microsoft Windows Defender 存在防火墙允许权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "NVIDIA NVDebug工具存在漏洞，攻击者可借此实现系统权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
