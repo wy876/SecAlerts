@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "【java代码审计】你来你也行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492168&idx=1&sn=e658c423b5745863533f09944ca61b6a",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "渗透Tips：Rails的任意文件读取",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485289&idx=1&sn=3cf177f40617a03aa89b2d5aabd08492",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
