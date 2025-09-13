@@ -1,0 +1,50 @@
+[
+    {
+        "title": "【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=4&sn=103231336dac19a7505efa353be75416",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "微软又爆猛料！CVSS 10.0神级漏洞现身，你的服务器还好吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901343&idx=1&sn=df38d60ecd09d972ea6e5638ca279790",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "JWT可爆破/未验证签名导致越权&加密为null导致不验证签名越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496607&idx=1&sn=99cf0a1fd63052d6d09c643467991821",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527337&idx=1&sn=fb8804a174b75ef2df98711534b29ccd",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "Salesforce数据攻击潮原因曝光，西门子平台曝严重漏洞|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "漏洞预警 | 快普M6 SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    }
+]
