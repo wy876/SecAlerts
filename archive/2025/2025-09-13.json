@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486140&idx=1&sn=bfd82bc3faee53c78c4469f3c5956ceb",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "整合Kali Linux与DeepSeek实现自动化攻击，AI渗透工具Villager下载量破万",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=1&sn=1c8547e5342dc8c9f69b9b4645ebfed4",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "新型HybridPetya恶意软件利用UEFI漏洞绕过老旧系统的安全启动机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
