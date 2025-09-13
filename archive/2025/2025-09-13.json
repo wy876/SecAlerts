@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61",
         "source": "Doonsec",
         "date_added": "2025-09-13"
+    },
+    {
+        "title": "【报告】2024年度网络安全漏洞态势威胁研究报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488271&idx=1&sn=8ac81a595f8ecf0e990dddfae29f6e4a",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
+    },
+    {
+        "title": "CVE-2025-8088 WinRAR 概念验证（PoC 漏洞利用)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487300&idx=1&sn=92e42aed3546e9e6c8b2944f7849128e",
+        "source": "Doonsec",
+        "date_added": "2025-09-13"
     }
 ]
