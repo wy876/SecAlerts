@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b",
         "source": "Doonsec",
         "date_added": "2025-09-14"
+    },
+    {
+        "title": "预警：大华智能物联管理平台GetClassValue.jsp接口存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936",
+        "source": "Doonsec",
+        "date_added": "2025-09-14"
     }
 ]
