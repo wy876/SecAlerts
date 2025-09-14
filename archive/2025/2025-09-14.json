@@ -70,5 +70,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936",
         "source": "Doonsec",
         "date_added": "2025-09-14"
+    },
+    {
+        "title": "签名复用与0元购：支付状态篡改漏洞的发现|业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494758&idx=1&sn=7161ace011d0357dc7d18541c989a498",
+        "source": "Doonsec",
+        "date_added": "2025-09-14"
+    },
+    {
+        "title": "工具推荐 | 一款免费的AI代码审计扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495856&idx=1&sn=49314ff1eb2fc26ebb425fe96e704919",
+        "source": "Doonsec",
+        "date_added": "2025-09-14"
     }
 ]
