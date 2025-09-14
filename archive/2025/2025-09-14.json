@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484719&idx=1&sn=4ff952a3296f63d1c39729c92506c05c",
         "source": "Doonsec",
         "date_added": "2025-09-14"
+    },
+    {
+        "title": "【安全圈】Zabbix代码执行漏洞（CVE-2025-27240）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1",
+        "source": "Doonsec",
+        "date_added": "2025-09-14"
     }
 ]
