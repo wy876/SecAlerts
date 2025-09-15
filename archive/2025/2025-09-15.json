@@ -340,5 +340,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490739&idx=1&sn=fed14843d54269cfdbbf60dca085594a",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "工具推荐 | 最新RCE命令无回显利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495862&idx=1&sn=843fdb319d99f2429380f1d5b48f4984",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "CISA 警告 Git 代码执行漏洞可能被积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493547&idx=1&sn=8d6e7a13e11957fc7c47e0d41c38b0d8",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "业务逻辑漏洞（旧漏洞已经修复）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484833&idx=1&sn=ebd0b5d36bfd3431508db0f0a8335dc3",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
