@@ -358,5 +358,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484833&idx=1&sn=ebd0b5d36bfd3431508db0f0a8335dc3",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "Chrome紧急修复两大高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523772&idx=1&sn=76f4dbc1b19b436c9eaf21f8dbcb2f8f",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
