@@ -364,5 +364,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523772&idx=1&sn=76f4dbc1b19b436c9eaf21f8dbcb2f8f",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "支付漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485988&idx=1&sn=8193a91cf3ae79b24c7de00f632b20c4",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "迷你天猫商城Tmall代码审计练习-SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488654&idx=1&sn=ee765a05b4cde6c89655ebf6f09b128d",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
