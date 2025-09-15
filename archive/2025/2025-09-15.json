@@ -256,5 +256,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTUwMTc1OA==&mid=2247483938&idx=1&sn=d34ce8d5f9bb66ff5b0087c607ced5b4",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "三星修复已遭活跃利用的 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524006&idx=1&sn=ba91a938a6e32f6aa930b60c3bb51608",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "Palo Alto Networks User-ID 凭据代理漏洞以明文形式暴露密码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524006&idx=2&sn=7d834750d24e4c7125f06fe6c19d570e",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "每周网安资讯（9.9-9.15）| Siemens SINEC OS漏洞预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506938&idx=2&sn=bbcde7a2484f118110cd2cdc632aa760",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "速更9月补丁！三星设备遇图像漏洞，不点开图片也能被入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599857&idx=3&sn=29fa3244e23e71fc824edf596d0b9a85",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "【免费领】全网最详尽的漏洞挖掘实战技巧大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556309&idx=2&sn=f6056e66f6f6364e99e702573f40d63f",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "当APK不再是纯Java：内嵌非Java代码的渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247493030&idx=1&sn=8d09ab9acf9a4fc9b23f8259dec28c7f",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
