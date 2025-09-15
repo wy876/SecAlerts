@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532750&idx=2&sn=cea29a6f0b54205bf104e9bf59435e72",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "文件上传html嵌套xss语句（旧漏洞已经修复）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484821&idx=1&sn=baaaf43eff3697312dc680e7a8cf9cc6",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
