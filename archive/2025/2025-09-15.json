@@ -292,5 +292,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247493030&idx=1&sn=8d09ab9acf9a4fc9b23f8259dec28c7f",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "新型CPU漏洞威胁云计算安全：VMScape（CVE-2025-40300）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327610&idx=1&sn=dc6323bb411c0f0dbc9812a1047505a9",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "桌面应用程序漏洞应急响应流程建立；软件静默升级的安全与合规风险探讨丨FB甲方群话题讨论",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327610&idx=2&sn=eea94d34f5e20de35f5a6a82d3ccb15b",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "LangChainGo严重漏洞威胁LLM应用安全：CVE-2025-9556",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327610&idx=3&sn=efcca2ed0cc877c35114b0507bace4ba",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
