@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzUyNjU5Mg==&mid=2247486100&idx=1&sn=55f8dcf62316c8779b48e4e4e7829eab",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "知识库系统漏洞剖析：从密钥泄露到水平越权的完整攻击链分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483934&idx=1&sn=185d31b9f8906de62a381fde545d4837",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "2025-09-15 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487516&idx=1&sn=8a1be33024903a6801f430b3a4fed039",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "X2Modbus GetUser 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492755&idx=1&sn=205618ecbdfa876258cba91b9e5b10ef",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
