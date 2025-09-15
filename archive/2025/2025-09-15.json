@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525052&idx=2&sn=e23b01098d692ec9ec922c2814252e02",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "【高危漏洞预警】Gotac Statistical Database System身份认证绕过漏洞CVE-2025-10452",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490739&idx=1&sn=fed14843d54269cfdbbf60dca085594a",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
