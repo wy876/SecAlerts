@@ -1,0 +1,122 @@
+[
+    {
+        "title": "挑战 | 一起来审计一个认证部分的代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500182&idx=1&sn=a15a0c0c8f60dd34990a5f2dbed35c1b",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "招聘 | 渗透测试工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489510&idx=1&sn=8c7e11d2343d130adae54e6ebb0562cf",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "苹果用户速更新！macOS存严重漏洞，用户隐私数据面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612315&idx=2&sn=868dc638cb333ae7e213a9268e473167",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "【高危AI漏洞预警】Langflow容器权限提升漏洞CVE-2025-57760",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612315&idx=4&sn=f5378791b10cdc7e2e41b85c80287895",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "思科修复可绕过镜像验证并引发拒绝服务的高危IOS XR漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494789&idx=1&sn=53b13896de7c63fb523246443a575401",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "三星修复遭积极利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494789&idx=2&sn=a21e441024d91628f7facd40f67164e7",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "美国联邦调查局警告防范UNC6040与UNC6395黑客组织对Salesforce平台的攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494789&idx=5&sn=e2b5a9f9850e8d2e1f529c8709fa39fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞挖掘之JS前端加密浅谈（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488766&idx=1&sn=029914ed0ffce0d17858b1f7abcfc3fb",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "CUPS 漏洞允许 Linux 远程 DoS（CVE-2025-58364）和身份验证绕过（CVE-2025-58060）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484963&idx=1&sn=54ce71e9f1fb760d899506733dcee279",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞挖掘-业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496705&idx=1&sn=bd47b207fac8a00cd851c0225f7f8acb",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "CVE-2025-42944｜SAP NetWeaver存在反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486178&idx=1&sn=692e41c58a5133f91644cd518a135214",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "【热点漏洞】国内某大型网盘Windows客户端存在远程命令执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486178&idx=2&sn=33c2ace3e25f0ddd7f1214e5f2ebf2a0",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞挖掘-业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492216&idx=1&sn=c006ac01275374f55fc154511b75a897",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "从 CVE-2024-43485 审计 .NET 隐式依赖的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500588&idx=3&sn=a90c8092305773fdd4cfe028259342a1",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞挖掘-业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513826&idx=1&sn=498bcf934017574983ce12cce8e48310",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "Zabbix批量漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495199&idx=1&sn=d28bfffabb1647d632d236afef5c13ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞预警 | 票友ERP管理系统信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494457&idx=1&sn=65e8686a4e5e7a2eeefd338eecbffa5a",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞预警 | 华天软件InforCenter PLM任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494457&idx=2&sn=0ce6421f35d7f5c67e55c3ec3b0ca1d2",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "漏洞预警 | 快普整合管理平台系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494457&idx=3&sn=c0cd594b2cc2077a4b8fc3d526f55804",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "技术深扒：三星0-day漏洞CVE-2025-21043，黑客如何通过一张图片接管你的手机？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901356&idx=1&sn=fcc6f8e93927918b01f15d81b7fbc815",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    }
+]
