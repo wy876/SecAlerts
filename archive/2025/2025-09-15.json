@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252526&idx=1&sn=cf455bbbdf732b9a4e25965341161b48",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "网安人员需要了解的常见漏洞与防御措施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484790&idx=1&sn=f6a36faf99940d6670e2a2fc9ad15e30",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "小皮面板JWT Token伪造后台RCE漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487105&idx=1&sn=9de46a7d4f281cc2417d06a6ba4d3f76",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "《合合安全应急响应中心漏洞处理流程及评分标准》更新公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTI4MDQzMQ==&mid=2247488611&idx=2&sn=b62c6de19660fe36929aade30a8621dd",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
