@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484821&idx=1&sn=baaaf43eff3697312dc680e7a8cf9cc6",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "CVE2025-22457 缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247493798&idx=1&sn=1c58dafbed35e06ab4c5af8018a5c53a",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "Salesloft: GitHub账户遭入侵 导致Drift令牌被盗并引发大规模Salesforce数据窃取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584597&idx=1&sn=f0d3ab10d20c359c03bdb0438eca748b",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
