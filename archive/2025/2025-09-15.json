@@ -208,5 +208,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492755&idx=1&sn=205618ecbdfa876258cba91b9e5b10ef",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "层层防护下的突破之道：帆软漏洞利用深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484482&idx=1&sn=92ca885f13dff89341ae4ff8235e78b0",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "PHPMyWind 前台 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488591&idx=1&sn=ee2414e72aacd3b386cd43b34cd431ba",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "【好靶场】3 级：某鹅到家存在严重支付漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485909&idx=1&sn=57a369a4ef504d446992f34268cde51e",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "【已复现】Dataease 多个高危漏洞（CVE-2025-58045/58046/58748）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494753&idx=1&sn=399d758b746d79b0d330bef1a3edde2c",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
