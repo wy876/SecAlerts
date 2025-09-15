@@ -310,5 +310,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327610&idx=3&sn=efcca2ed0cc877c35114b0507bace4ba",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "【安全圈】三星修复被黑客利用的图像解析漏洞，影响安卓设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071725&idx=4&sn=24cdeec2f861c8e6a7adf0b24d6f7c61",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "代码审计-PHP专题&原生开发&文件上传删除包含&文件操作监控&Zend源码解密&1day分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485718&idx=1&sn=f149aaaca3f24dd73732276a539919e0",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "一款高危漏洞实时情报自动推送工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497886&idx=1&sn=e9b27f0aa07d45d2cceb953993295a5a",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
