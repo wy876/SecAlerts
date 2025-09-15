@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494753&idx=1&sn=399d758b746d79b0d330bef1a3edde2c",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第35期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496342&idx=1&sn=59c279280c0f0af501d57e3bd719ebd1",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250908-20250914)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496342&idx=2&sn=ba1bd5010a5260636780b37d85159fd2",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "层层防护下的突破之道：帆软漏洞利用深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504801&idx=1&sn=261c6d285e95e51ab2d73bf4b8cb9e9b",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "src之自动寻找信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTUwMTc1OA==&mid=2247483938&idx=1&sn=d34ce8d5f9bb66ff5b0087c607ced5b4",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
