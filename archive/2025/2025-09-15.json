@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901356&idx=1&sn=fcc6f8e93927918b01f15d81b7fbc815",
         "source": "Doonsec",
         "date_added": "2025-09-15"
+    },
+    {
+        "title": "dify upload ssrf漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492745&idx=1&sn=1fd325dea87876f940df702bb5c9b90e",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "Nuclei 配合 AI 快速发现漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261958&idx=1&sn=209e80be26c7a007b76ba9d0a7c6f21c",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
+    },
+    {
+        "title": "CISA发布通用漏洞披露计划愿景文件，解决漏洞管理碎片化问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252526&idx=1&sn=cf455bbbdf732b9a4e25965341161b48",
+        "source": "Doonsec",
+        "date_added": "2025-09-15"
     }
 ]
