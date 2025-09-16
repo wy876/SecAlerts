@@ -160,5 +160,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494761&idx=1&sn=467dd5e63150b1aedbcf6610c60d9af9",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "CISA 提醒注意已遭利用的 Dassault RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524015&idx=2&sn=8e56116e65e31eb6415e8bd633b8ce1b",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "25年秋季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600005&idx=3&sn=993d63fb4cece1d21e88c6d7723d095c",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "这8个危害严重的漏洞，你听过哪几个？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486388&idx=1&sn=2a03f67d57a60c46d0b59731a7821b99",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【免费领】大神10年经验：渗透APT攻击与防御实战全记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556320&idx=2&sn=6ced5aeb7378fea811177df9952fd1f0",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "cve-2024-2812-AC9 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491611&idx=1&sn=735a9c508b019bfff0bd2f8d0dd1b378",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【论文速读】| 你所需要的只是一个模糊测试大脑：一个由LLM驱动的自动漏洞检测和修补系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497033&idx=1&sn=4fd2257f7d1e88408d8b906097e28ced",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
