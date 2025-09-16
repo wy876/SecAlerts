@@ -106,5 +106,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494491&idx=1&sn=26633db4e02577f28e72f56bfa3b5515",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "【好靶场】1 级：PHP代码审计CodeBase02",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485921&idx=1&sn=435d393d768a17475a8643f08c8ce61a",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "某CMS最新版本鉴权绕过审计（0Day）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486819&idx=1&sn=8eaa603fd4752d03bbd3234b42943b5f",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "免费代发招聘信息第36期：上海  渗透测试&安全运营",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492712&idx=1&sn=8df25ab88f47688231905ae295c528c5",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【已复现】Flowise 任意文件读取漏洞(QVD-2025-35890)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503941&idx=1&sn=cebdea5b5a3b9ae48caf7cbc3c905852",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
