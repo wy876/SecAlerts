@@ -196,5 +196,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497033&idx=1&sn=4fd2257f7d1e88408d8b906097e28ced",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "开源AI红队工具\\\"Red AI Range\\\"助力发现、分析与缓解AI系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327667&idx=2&sn=74153a295c94d92e41be67b0274c610f",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "基于历史漏洞的零点击Linux内核KSMBD远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327667&idx=3&sn=1277142a4a0db5c143c9378afae84bf8",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "汉堡王滥用DMCA下架安全漏洞报告引发争议",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327667&idx=4&sn=237a7b6f1efb25cd205b56dc615bf246",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.9.8-2025.9.14",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503549&idx=1&sn=a55ddfbf2dd8636dfea4d99a9a1ab218",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "LangChainGo 中存在严重漏洞，可用于访问敏感文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524015&idx=1&sn=ef56ae8b6ab01b82d74070df472e8945",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
