@@ -88,5 +88,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494458&idx=3&sn=adeac0a0c8e1f49f930d9670e5390316",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "国内首次AI大模型众测结果揭晓——2025年人工智能大模型产品漏洞众测结果发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500504&idx=1&sn=9ff3e1df60418295456db10f77439c14",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "阻止通过漏洞驱动利用(byovd)技术致盲安全软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485391&idx=1&sn=d6b003bb825f096fea77d5cabb1a10d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "非典型GeoServer漏洞利用实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494491&idx=1&sn=26633db4e02577f28e72f56bfa3b5515",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
