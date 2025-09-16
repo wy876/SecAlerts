@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489165&idx=1&sn=2d82103234b65a44b2395d861c30af7f",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "用友U8 Cloud系统VouchFormulaCopyAction方法SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523801&idx=1&sn=f633b404a77e017074fb710df966bc71",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
