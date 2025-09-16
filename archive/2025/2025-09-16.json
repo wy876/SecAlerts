@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524015&idx=1&sn=ef56ae8b6ab01b82d74070df472e8945",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "DELMIA Apriso CVE-2025-5086 反序列化远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484666&idx=1&sn=131e075be20e59b4368f32ba2db6892f",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【安全圈】企业级聊天机器人漏洞暴露用户会话风险：Yellow.ai平台现重大XSS隐患",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071744&idx=4&sn=5c6d7a66422ea4fa10a8b50c5c8e8bfd",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
