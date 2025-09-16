@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489673&idx=1&sn=302f4a57612c0c2d7306d715ddd03cda",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "【AI高危漏洞预警】Flowise任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490746&idx=1&sn=ff87f7f4916d885d20523cc2858100f4",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
