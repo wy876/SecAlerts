@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071744&idx=4&sn=5c6d7a66422ea4fa10a8b50c5c8e8bfd",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "Linux CUPS 存在允许攻击者远程 DoS 并绕过身份验证漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096511&idx=1&sn=1b5e3be5de3d153e8895153097f9b17c",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "LangChainGo 存在允许恶意提示注入访问敏感数据漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096511&idx=2&sn=ee967a7301a8199588db46d725d68e4e",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
