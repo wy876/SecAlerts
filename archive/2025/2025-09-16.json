@@ -292,5 +292,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488777&idx=1&sn=cecbaee3194b03513f55393111c3a2e5",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "Citrix 修复了零日攻击中利用的严重 NetScaler RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493548&idx=1&sn=53f6ab5cc4656b4199f068dff316226e",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "轻量高效的漏洞情报平台系统|漏洞情报包含：组件漏洞 + 软件漏洞 + 系统漏洞|bug_search",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494779&idx=1&sn=248962b62dcd260a8e17617c76eadfc2",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "dify upload存在SSRF漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489165&idx=1&sn=2d82103234b65a44b2395d861c30af7f",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
