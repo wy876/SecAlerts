@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492268&idx=1&sn=b546defef7d4f38b70bafbbd22012803",
         "source": "Doonsec",
         "date_added": "2025-09-16"
+    },
+    {
+        "title": "【漏洞通告】DataEase Redshift JDBC RCE (CVE-2025-58748)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【原创情报】Flowise 未授权任意文件读写漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494761&idx=1&sn=467dd5e63150b1aedbcf6610c60d9af9",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
     }
 ]
