@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Spring 框架和 Spring 安全漏洞暴露授权绕过风险（CVE-2025-41248 和 CVE-2025-41249）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484995&idx=1&sn=fba92955780414c080c938edc0e05ac6",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "ChatGPT新增MCP工具支持存在安全隐患，攻击者可窃取邮件隐私数据|Google Drive漏洞可致云端文件遭全盘访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=2&sn=6b36f372d36293d4c58d6cf166b266e5",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "0day | 某在线拍卖系统代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=3&sn=ef2121390b5d29a757a94d5f7749fab3",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【高危AI漏洞预警】Claude Code代理编程工具远程代码执行漏洞CVE-2025-59041",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489334&idx=1&sn=9d8aced81feac7a41a95a15ace5aa59d",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496801&idx=1&sn=f2893d1dc62edefd96718c88090dd3c9",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "记一次实战从任意文件下载到代码审计RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487088&idx=1&sn=436eb77e222e29027625d8df99a6f8ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "三星修复 Android 攻击中利用的关键0day漏洞(CVE-2025-21043)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796350&idx=3&sn=74d9a8accc6e84e8da5b643519c8065c",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "【工具分享】AICodeScan免费的AI代码审计扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486650&idx=1&sn=c2e8526daa4ae2a7b48694eb716dfa97",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "Azure Batch Explorer漏洞剖析：本地WebSocket未授权访问导致文件与令牌泄漏（附PoC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484406&idx=1&sn=bede9c66afbc3ce8495fb26a37c6015c",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "一个永久的渗透测试、安全工具知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507281&idx=1&sn=402547e91027041293001d2c62461641",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "从数据库泄露看密码存储，红队实战与代码审计实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500596&idx=1&sn=798d5e2fc557c93bb58feb30572ba183",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "漏洞预警 | 爱数AnyShare智能内容管理平台命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494458&idx=1&sn=3d51ecf2ac2add9ab3ff66dacc23ebb0",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494458&idx=2&sn=d160911d477deda6621eddd23fe332e6",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    },
+    {
+        "title": "漏洞预警 | X2Modbus网关信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494458&idx=3&sn=adeac0a0c8e1f49f930d9670e5390316",
+        "source": "Doonsec",
+        "date_added": "2025-09-16"
+    }
+]
