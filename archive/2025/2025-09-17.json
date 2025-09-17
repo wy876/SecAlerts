@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524024&idx=2&sn=68014917de08e5a4246bcb4e4524ee85",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "【首发复现】U8cloud IPFxxFileService任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494773&idx=1&sn=afabac315dace9fe640081e40afaaf93",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
