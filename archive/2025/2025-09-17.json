@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501679&idx=1&sn=7be2c3ad5dd12e527ef6688bdfa0e44f",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "xwiki sql注入漏洞 (CVE-2025-32969)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492764&idx=1&sn=34856912db1a925e1b2e86370d95f4be",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "开源AI红队工具\\\"Red AI Range\\\"助力发现、分析与缓解AI系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248440&idx=1&sn=143c5437d74a69dda005193fabbf691f",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
