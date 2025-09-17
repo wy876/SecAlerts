@@ -400,5 +400,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489191&idx=1&sn=8ce0ede2a4e004db25fb0f0815736239",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "CVE-2025-53547 helm恶意代码执行漏洞复现&分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523818&idx=1&sn=81a77797b4eb9cc2449edf63cad2422c",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
