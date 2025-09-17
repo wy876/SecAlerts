@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248440&idx=1&sn=143c5437d74a69dda005193fabbf691f",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "XWiki 目录遍历漏洞 (CVE-2025-55748)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492772&idx=1&sn=9d82a166f645a3bd916db1017f520a89",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "CNNVD | 基础软硬件产品漏洞治理生态大会成功举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249590&idx=1&sn=e04cf6c89ae8770560cb63d53f9a028b",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第35期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500520&idx=1&sn=cadf4f5192735cd1bbefcfce1dbe7046",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
