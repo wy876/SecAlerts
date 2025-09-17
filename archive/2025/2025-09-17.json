@@ -364,5 +364,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492445&idx=1&sn=c42c21e5ee6754810ba6c0c6cc1c9ec8",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "【重大数据泄露】前有因瑞典政府将IT维护工作包中包导致数据泄露 | 现有因系统漏洞全国15%的居民数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486107&idx=1&sn=eb0313303f44af90cb9c135f89a25de9",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "CVE-2019-10086/CVE-2025-48734(commons-beanutils)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487653&idx=1&sn=311991a06f2a2bcd95e6102cade611eb",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "代码审计-PHP专题&MVC开发&控制视图&URL路由&文件定位&SQL注入&文件安全&1day分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485757&idx=1&sn=48cfe2ce5a23d2f67b8ace209ba05e8c",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
