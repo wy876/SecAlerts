@@ -184,5 +184,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjU4NA==&mid=2247485843&idx=1&sn=72539b0221f28e4745be4e2375bb4c32",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "通过 bitpixie 漏洞进行 Windows 本地权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532777&idx=1&sn=80e646e29c90039faa63193dd70bd64d",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
