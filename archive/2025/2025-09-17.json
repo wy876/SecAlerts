@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492780&idx=1&sn=310f6fec784d1c439fa09154fa3f85d3",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "CVE-2025-4275 - 基于 Insyde H2O 的 UEFI 固件 SecureBoot 绕过 第 1 部分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490384&idx=1&sn=8ef39b2907625832ad0605ec0880cf56",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "SRC漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488244&idx=1&sn=79410c9bf3f8d429e014bd1fd8d719c7",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "【好靶场】2 级：PHP代码审计CodeBase04",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485928&idx=1&sn=0a3db5c86d4bcd8a0d577e40e2f125c3",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
