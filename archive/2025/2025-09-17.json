@@ -388,5 +388,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691010&idx=1&sn=a5bff5994079a5fe188da9ef8491e8f1",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "一款实用的Burp扩展|Oss-Scan自动识别OSS存储漏洞 插件更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494787&idx=1&sn=2397a457c9e18cb3a9f42f7fffeb9438",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "预警：锐明Crocus系统RepairRecord.do接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489191&idx=1&sn=8ce0ede2a4e004db25fb0f0815736239",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
