@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484934&idx=1&sn=a2b0aaf3619ea86fc7e19e9eaafd45f0",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "2025网安周|奇安信斩获CNVD漏洞信息报送突出贡献单位等四项荣誉",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629040&idx=3&sn=9d459f9650ebac5e114480b1796ff30a",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "Chaos Mesh中存在多个严重漏洞，可导致RCE和K8s 集群遭完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524024&idx=2&sn=68014917de08e5a4246bcb4e4524ee85",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
