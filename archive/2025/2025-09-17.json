@@ -136,5 +136,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500520&idx=1&sn=cadf4f5192735cd1bbefcfce1dbe7046",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "开源｜如何通过AI挖掘浏览器漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247500390&idx=1&sn=b0a57f7625cc32391e7504039fd10a05",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "这次不挖漏洞，我们挖人！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQwMjYxNg==&mid=2247483828&idx=1&sn=841ecd0428a0bbe0506b5e23f96c1d8f",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "盘点常见的 OAuth 漏洞（附详细流程图解）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617014&idx=1&sn=5a89858112655d6b74ebe8e18f3b7d8b",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第37期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463627&idx=1&sn=6ffc969bb3fdc5e4480508c2a7dc597f",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "NexExec(nxc) 内网渗透工具基础使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486624&idx=1&sn=7d0fc73226510cf068b95569fc73c053",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "【漏洞挖掘tips】通过批量分配实现权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484387&idx=1&sn=6ddde3f43c048995fd28d021ff770a07",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告 （0817-0830）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136221&idx=1&sn=6516a66c6263ba4ec6fa5d018a3c45bb",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
