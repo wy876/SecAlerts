@@ -244,5 +244,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490518&idx=1&sn=c3218b039b393f7c5e478ec5e07a7371",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "Electron客户端RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498199&idx=1&sn=b1d87d14a3f941538c123108dc0ed2a0",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
