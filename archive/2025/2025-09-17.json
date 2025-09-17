@@ -340,5 +340,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327803&idx=3&sn=300c967966393d666629d8b611362acd",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "前端渗透技巧 1：VUE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485333&idx=1&sn=163ed7e0659c7a054a8d91fd0fbb534b",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "前端渗透技巧 2：VUE路由从攻击角度分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485333&idx=2&sn=da73d5f35424d37b1c8af7632000785e",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "前端渗透技巧 3：“邪修操作“快速生成加密字典",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485333&idx=3&sn=3b3f98e6e0ded374f90b6b464ffb480d",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "Linux 渗透技巧：那些藏在系统深处的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492445&idx=1&sn=c42c21e5ee6754810ba6c0c6cc1c9ec8",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
