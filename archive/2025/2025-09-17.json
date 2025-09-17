@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532777&idx=1&sn=80e646e29c90039faa63193dd70bd64d",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "【天价漏洞】11.7万美元！一个文件攻破Meta Messenger，实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262002&idx=1&sn=5153b27cf928eaa5dd703b8c2ed5bac1",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "XWiki 目录遍历漏洞 (CVE-2025-55747)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492780&idx=1&sn=310f6fec784d1c439fa09154fa3f85d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
