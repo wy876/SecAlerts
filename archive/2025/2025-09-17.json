@@ -220,5 +220,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485928&idx=1&sn=0a3db5c86d4bcd8a0d577e40e2f125c3",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "安络创始人出席CCS2025成都网络安全交流活动并做漏洞主题报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522685&idx=2&sn=5b9b42ffe51ecd981f2c6abdc174169c",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "惊！苹果 macOS 藏致命漏洞，隐私数据面临 “洗劫”，速更新止损",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536170&idx=3&sn=9005bac7e7fdc2ab860415ac7366d076",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "漏洞预警 | Flowise 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487819&idx=1&sn=88bca3cb5ba6a7fdd4a6c75b00f9c4dd",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "DirtyPipe 脏管道漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490518&idx=1&sn=c3218b039b393f7c5e478ec5e07a7371",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
