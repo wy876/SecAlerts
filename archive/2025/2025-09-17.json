@@ -328,5 +328,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494773&idx=1&sn=afabac315dace9fe640081e40afaaf93",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "华顺信安创始人赵武出席“基础软硬件产品漏洞治理生态大会”并发表演讲",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjg1OTY3Mg==&mid=2247492261&idx=1&sn=8747bb4fb5d2791886d31097dd6138dc",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "Linux内核KSMBD子系统漏洞可致远程攻击者耗尽服务器资源",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327803&idx=3&sn=300c967966393d666629d8b611362acd",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
