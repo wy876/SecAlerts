@@ -406,5 +406,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523818&idx=1&sn=81a77797b4eb9cc2449edf63cad2422c",
         "source": "Doonsec",
         "date_added": "2025-09-17"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 金和OA WebDesign 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483929&idx=1&sn=061a27b443dc2dbf0a5b9e01de213b3d",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
+    },
+    {
+        "title": "华夏ERP-v2.3代码审计-SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488710&idx=1&sn=abc97d6fa10b8760a68f449fd36248d6",
+        "source": "Doonsec",
+        "date_added": "2025-09-17"
     }
 ]
