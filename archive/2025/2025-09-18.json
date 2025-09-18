@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDc0NDEzOA==&mid=2247483929&idx=1&sn=1f312519807ab81df8505faa320d10aa",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "超过 28,000 台 Citrix 设备易受新 RCE 漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493549&idx=1&sn=10dc30a01f3af4a0d501e74a91afbfcc",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
