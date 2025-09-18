@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490544&idx=1&sn=96f76675ec89c041161d7554227dcee2",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "再获认证！青藤荣获2025年度CNNVD基础软硬件漏洞优秀报送企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850700&idx=1&sn=1107480f5a4456458f977a4805e53ce4",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【漏洞分析】某度网盘存在rce详解及利用过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143037&idx=1&sn=0d7845e2f6e5e08a44833dfdb3da48f6",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "Windows截图工具曝高危漏洞 可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493102&idx=1&sn=cc3fc0110966a2acf2693a5559b20c7c",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【论文速读】| 使用结构化攻击树进行LLM驱动渗透测试中的引导推理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497034&idx=1&sn=1efcd09fe8517d824cc29321dd8b08dc",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
