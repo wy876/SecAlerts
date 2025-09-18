@@ -340,5 +340,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523897&idx=1&sn=11b6b5f52adaf9081ca1b7bdb11b039d",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "SDL 95/100问：针对有漏洞的代码，安全怎么不让发版？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487272&idx=1&sn=44224be88b3b93fc4bab788a52031c6c",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
