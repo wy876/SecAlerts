@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODg5MTY3Mw==&mid=2247483834&idx=1&sn=c3a6fe73bf0fca2d94d4094ee3fee1cb",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "某客户端rce分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDc0NDEzOA==&mid=2247483929&idx=1&sn=1f312519807ab81df8505faa320d10aa",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
