@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489205&idx=1&sn=45659614f853828eaed9f2b68a233271",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "深入分析Windows内核appid.sys本地提权(CVE-2024-21338)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523897&idx=1&sn=11b6b5f52adaf9081ca1b7bdb11b039d",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
