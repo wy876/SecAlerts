@@ -1,0 +1,98 @@
+[
+    {
+        "title": "代码审计 | 某系统多漏洞组合拳获取管理员权限小记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484302&idx=1&sn=0a860b8abc81e608ca27c551d5f1a919",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【CVE-2025-55241】Azure Entra 特权提升漏洞：一个令牌统管一切",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262011&idx=1&sn=bc29b1e0066b70ee116f9d7f58d2641b",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "连续3年！微步荣获CNVD“年度最具价值漏洞”奖！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184669&idx=1&sn=08ca9f6beeaabefadd23b7256631becd",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "从简单漏洞到 RCE：Linux 内核漏洞（CVE-2025-21692）PoC 发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485027&idx=1&sn=70bc1671c110cb1a46784017632187aa",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "Salesloft: GitHub账户遭入侵 导致Drift令牌被盗并引发大规模Salesforce数据窃取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612364&idx=3&sn=e57a83a63ad263938fc0d49d846a4310",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "红蓝攻防如何快速打出Nday",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496819&idx=1&sn=f22511b28c3fc175971ddfb2b38ea8fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【JAVA代审】汉王e脸通代审与快速0day挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487128&idx=1&sn=ee7e76829b0fdf0ac5f9eafb44ce5f90",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "从.NET审计视角剖析 IDOR，发现高危的越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=1&sn=5d9a7fbad897698552395e7ef951988d",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "《登入框》有哪些漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492369&idx=2&sn=7707c168c5bb5921daa7b82e7a6cad51",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "AI漏洞扫描器 - Scan-X",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498227&idx=1&sn=20bf3190d2d249a21c37e0486261bc35",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "1day漏洞情报+历史漏洞+漏洞复现 | 最新漏洞已更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495240&idx=1&sn=e1555e50ee7ff5c21fbb72fb75bec1f3",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527351&idx=1&sn=78320ee70eac34c36d3b5a95e6f0a01e",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "漏洞预警 | SAP NetWeaver反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494478&idx=1&sn=4e400db8bd6dfa34e56e25ddc3cbdae8",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494478&idx=2&sn=bf6af6b8354e2fe9c7c28eacefe0b86c",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "漏洞预警 | 西部数码NAS命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494478&idx=3&sn=17b33e64e880ced7cc75bf2ff6f04957",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "Kali Linux高级渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291775&idx=1&sn=de63eda89a87ca3ea7635673ab6c8aac",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    }
+]
