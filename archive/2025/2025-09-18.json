@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487272&idx=1&sn=44224be88b3b93fc4bab788a52031c6c",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "【漏洞分析】某度网盘存在rce详解及利用过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484924&idx=2&sn=5e038c4517c20723b1a30843d1ae2740",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
