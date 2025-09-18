@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498203&idx=1&sn=74ca9182c88008204366ede75e8bcad0",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "响应云安全漏洞推送",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODg5MTY3Mw==&mid=2247483834&idx=1&sn=c3a6fe73bf0fca2d94d4094ee3fee1cb",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
