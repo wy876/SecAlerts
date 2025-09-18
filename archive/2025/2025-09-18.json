@@ -310,5 +310,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493549&idx=1&sn=10dc30a01f3af4a0d501e74a91afbfcc",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "【高危漏洞预警】Wondershare Repairit身份认证绕过漏洞(CVE-2025-10644)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490759&idx=1&sn=64ac52d97b0084ee86861be8a624d99b",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【高危漏洞预警】用友U8Cloud IPFxxFileService文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490759&idx=2&sn=c544731edb42d1ac1b78f6c60a4882f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "某CMS最新版本鉴权绕过审计（0Day）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492866&idx=1&sn=8411c329922410d5528ca78b41614b08",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
