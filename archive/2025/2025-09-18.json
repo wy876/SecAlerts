@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291775&idx=1&sn=de63eda89a87ca3ea7635673ab6c8aac",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "漏洞通告 | U8cloud 全版本 IPFxxFileService任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507933&idx=1&sn=dc6c92cfb68c5538a39090f11470c009",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "iPhone17史上最重要安全升级：MIE技术抵御各类内存破坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248444&idx=1&sn=1738abd2079f240ba099e5739d754e4a",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "苹果为被积极利用的CVE-2025-43300漏洞向后移植修复补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494817&idx=1&sn=9c192a7d28e05f520cfead08b6df9c28",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
