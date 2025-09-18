@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505332&idx=1&sn=851ac32f841aa776d06e8a1147e236dc",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "无文件攻击新变种：FileFix利用隐写术与地址栏欺骗实现隐蔽渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487316&idx=1&sn=1639b3896060e008fca0852ce55ce2ab",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
