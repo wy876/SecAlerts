@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497034&idx=1&sn=1efcd09fe8517d824cc29321dd8b08dc",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "苹果紧急修复ImageIO零日漏洞，攻击事件已获实证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327828&idx=2&sn=38de0155fac0496c6cf872335dae16b5",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "Chrome紧急更新：V8引擎零日漏洞已被野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327828&idx=3&sn=44873c2a732be3faec856452677bc34e",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【风险通告】用友U8Cloud存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490586&idx=1&sn=0630c02df2f03a054405b11079889e95",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
