@@ -130,5 +130,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494791&idx=2&sn=8939a1bd1611bd097fa34bf88cf318e3",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "我是如何轻松在 GitHub 上发现关键漏洞的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507631&idx=1&sn=df15e7125936a7ed7468d5c6f2b38740",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-10585)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=1&sn=8ba8b1b56d284b94810bb49ef7d4c1f6",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【已复现】用友U8Cloud IPFxxFileService 文件上传漏洞(QVD-2025-36405)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=2&sn=43a1e70fb100e322bf9da5d5257f9d7a",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "Fortinet漏洞曝光，资产识别与验证脚本全揭秘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486140&idx=1&sn=29fc7e318c8bb137167d874a50cf275b",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "分享一款综合型Java漏洞平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505332&idx=1&sn=851ac32f841aa776d06e8a1147e236dc",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
