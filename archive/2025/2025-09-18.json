@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483757&idx=1&sn=8de8a57a8975bd08c99285542999bd7b",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "【复现】Chaos-Mesh命令注入漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484937&idx=1&sn=e8ce60d2db3fb999aa7309e51871c652",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【已复现】用友 U8 Cloud IPFxxFileService 任意文件上传漏洞安全通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492947&idx=1&sn=bc92f12f3d90bcd06f0abd74be0a7be4",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
