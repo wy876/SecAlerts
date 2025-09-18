@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487316&idx=1&sn=1639b3896060e008fca0852ce55ce2ab",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "月满华诞 • 洞见安全丨双节漏洞悬赏限时启动！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522659&idx=1&sn=cc5b4a487b62c49a347c430f5f60f963",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "针对易受攻击的 WatchDog Anti-Malware 驱动程序 (amsdk.sys) 的 PoC 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532788&idx=1&sn=f0fc543bb455f83638c7904947a9c5ee",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "利用 TP-Link AX10 路由器中的零日漏洞（CVE-2025–9961）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532788&idx=2&sn=4fd83e88d9d9f1d37382a7a7b4dea142",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
