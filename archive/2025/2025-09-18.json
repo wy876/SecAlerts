@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532788&idx=2&sn=4fd83e88d9d9f1d37382a7a7b4dea142",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "从 OSCP 渗透 到 OSIR 响应，苑老师带你揭秘攻防「左右互搏术」",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525113&idx=2&sn=a942178320ded45474d1583137bdf0cf",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "用友U8 Cloud 任意文件读取漏洞分析(CNVD-2025-07265)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483757&idx=1&sn=8de8a57a8975bd08c99285542999bd7b",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
