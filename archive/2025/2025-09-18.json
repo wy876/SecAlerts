@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=1&sn=5423164d917da366fc14c1927b4144cf",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "Windows 屏幕截图实用程序 Greenshot 恶意代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096519&idx=2&sn=4a30497f6efdf002a6606d6ccfc45167",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【安全圈】Jenkins 修补多个可被利用导致拒绝服务的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071775&idx=4&sn=6be62142790ec120e1dc2dd9363bc775",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
