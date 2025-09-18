@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494817&idx=1&sn=9c192a7d28e05f520cfead08b6df9c28",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "一款集资产扫描、漏洞验证与ICP备案查询于一体的自动化安全分析工具 -- FOCI Toolkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486930&idx=1&sn=cd1030d959e20165f35a1b74ba4cbbd9",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【首发复现】Chaos-Mesh 多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494791&idx=1&sn=baabe923418dbdc88636edefecb00b66",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
+    },
+    {
+        "title": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-10585)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494791&idx=2&sn=8939a1bd1611bd097fa34bf88cf318e3",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
