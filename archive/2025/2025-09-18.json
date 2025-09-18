@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492866&idx=1&sn=8411c329922410d5528ca78b41614b08",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "FlowiseAI 存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489205&idx=1&sn=45659614f853828eaed9f2b68a233271",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
