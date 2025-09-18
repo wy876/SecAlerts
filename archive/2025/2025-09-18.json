@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490586&idx=1&sn=0630c02df2f03a054405b11079889e95",
         "source": "Doonsec",
         "date_added": "2025-09-18"
+    },
+    {
+        "title": "Chrome 紧急修复已遭利用的 V8 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=1&sn=5423164d917da366fc14c1927b4144cf",
+        "source": "Doonsec",
+        "date_added": "2025-09-18"
     }
 ]
