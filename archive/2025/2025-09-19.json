@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661302928&idx=2&sn=894fa7ee73ce5e6aac37131800643760",
         "source": "Doonsec",
         "date_added": "2025-09-19"
+    },
+    {
+        "title": "HexStrike AI自动渗透测试平台搭建与使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497100&idx=1&sn=aa07c87a223bb9d8b98f88eeef80f29a",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532804&idx=4&sn=ce515bbb5fa0b514e3201c7d5c29ef14",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
     }
 ]
