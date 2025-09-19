@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501593&idx=2&sn=1cb4fa2aab1f8ed13c56c308adcd9393",
         "source": "Doonsec",
         "date_added": "2025-09-19"
+    },
+    {
+        "title": "【漏洞分析】某度网盘存在rce详解及利用过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486626&idx=1&sn=98e8391d23642edcb9e688e20e6fefde",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "ChatGPT 修复 ShadowLeak 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486569&idx=1&sn=5e51dd0d6702848a5370e83fbf16f77d",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
     }
 ]
