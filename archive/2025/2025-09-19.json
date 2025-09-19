@@ -1,0 +1,74 @@
+[
+    {
+        "title": "CVE-2025-10585是谷歌2025年修复的第六个遭主动利用的Chrome零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494832&idx=1&sn=9561afc4a91b9dd76467331626f4b0fa",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "网络安全公司Radware曝光\\\"暗影泄露\\\"漏洞：ChatGPT遭遇零点击攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494832&idx=3&sn=c465b223627b281622aba307e6ec56a9",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "连线：微软 Entra ID 漏洞可能造成灾难性后果",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796392&idx=1&sn=5d640316b1dbd77ff1398b4c7d67b3d1",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "ShinyHunters 声称窃取了 15 亿条 Salesforce 记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796392&idx=3&sn=4a84fcac0d06092b3d10df67f3c7c586",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "Windows 屏幕截图实用程序 Greenshot 漏洞启用恶意代码执行 – PoC 发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485048&idx=1&sn=0cb3914eaa894392327b76888ff34ad0",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "CVE-2025-32756：Fortinet RCE PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487913&idx=1&sn=2516e400473bce24b909c71451f9424c",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "渗透测试与红队打点必备：13 款指纹识别工具盘点u200bu200b",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484650&idx=1&sn=adcf72984d6f87d26de3856a78fbb221",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "Entra ID通杀漏洞分析：利用Actor令牌获取任意租户的全局管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484422&idx=1&sn=8108081f001ff5ec81ce5029973adad4",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "【漏洞分析】某度网盘存在rce详解及利用过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490118&idx=1&sn=c766b8cc4035b202e24c29e39e0f804a",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "漏洞预警 | Langflow容器权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494495&idx=1&sn=3244501d92d7ff26511a1f5f42f6acbc",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "漏洞预警 | itC中心管理服务器任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494495&idx=2&sn=60f21f92ece9e712ced52d2ce7481925",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494495&idx=3&sn=00258ec46281dd5abbba994d2e71c288",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    }
+]
