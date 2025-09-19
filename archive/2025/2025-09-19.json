@@ -70,5 +70,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494495&idx=3&sn=00258ec46281dd5abbba994d2e71c288",
         "source": "Doonsec",
         "date_added": "2025-09-19"
+    },
+    {
+        "title": "CVE-2025-4275 - 不仅仅是基于 Insyde H2O 的 UEFI 固件 SecureBoot 绕过 第 2 部分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490419&idx=1&sn=f289fb06fe25e38d9f8a20c5964075c6",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "CVE-2025-4275 - 基于 Insyde H2O 的 UEFI 固件的 SecureBoot 补丁分析 第 3 部分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490419&idx=2&sn=fead444c976be60d64d8017e7a0bbe5c",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "常见框架漏洞大揭秘，你了解多少？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486147&idx=1&sn=fea87c47a68bac5dcef7c58eb35e295e",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "【js逆向渗透系列01】利用JSRPC秒杀JS加密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486147&idx=3&sn=740aff7164d2deb409b113084c2df172",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "实战攻防 | 某学校授权渗透测试评估",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519677&idx=1&sn=df1644344dfd84279661491d2a16ed1b",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "Solr任意文件读取快速利用工具 -- Solr-Exploit-Solr",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517321&idx=1&sn=15f16c2d427fd427792b8ba1f71f1074",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "2025网安周｜中孚入选国家信息安全漏洞库（CNVD）技术组支撑单位及原创漏洞发现贡献单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247512094&idx=1&sn=c79ad3536f34c0589e5f50f3878c4655",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
     }
 ]
