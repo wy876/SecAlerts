@@ -172,5 +172,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491294&idx=1&sn=572e95349b4af59efb9d2632e1cab695",
         "source": "Doonsec",
         "date_added": "2025-09-19"
+    },
+    {
+        "title": "Google Chrome V8 类型混淆漏洞(CVE-2025-10585)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524710&idx=1&sn=e4bd23b3a45c999f525b67b3998dc93b",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "警惕！当AI 开始 “自主钻漏洞”，传统防火墙正在失效？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536193&idx=2&sn=9f70ad47ff9fe146984ce1f75b73fcd7",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "信息安全漏洞周报【第040期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064353&idx=1&sn=03de0213e4e920d21b8210154be48778",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "免费代发招聘信息：海南 渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTYzODQ0Mg==&mid=2247483746&idx=1&sn=bc8a56dcc04acb4fa114ff196765f937",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "【漏洞通告】Chrome V8 类型混淆远程执行漏洞(CVE-2025-10585)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501593&idx=2&sn=1cb4fa2aab1f8ed13c56c308adcd9393",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
     }
 ]
