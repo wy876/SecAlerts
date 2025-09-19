@@ -232,5 +232,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556375&idx=2&sn=220ddcf02789787a8853e3718ee55402",
         "source": "Doonsec",
         "date_added": "2025-09-19"
+    },
+    {
+        "title": "某中心管理器文件上传漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483771&idx=1&sn=4c0fdb5bd199605a4b9318f3fa79b987",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "Cloudflare API服务中断事件分析：React useEffect漏洞引发级联故障",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327923&idx=3&sn=81f6090d714734f7afe7db9ef2f0cf90",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
+    },
+    {
+        "title": "Chrome V8 引擎漏洞（CVE-2025-10585）已在野外被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTM3ODg3Mw==&mid=2247483982&idx=1&sn=f6f318eb7ffab65773a5ca1c3e545822",
+        "source": "Doonsec",
+        "date_added": "2025-09-19"
     }
 ]
