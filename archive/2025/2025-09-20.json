@@ -10,5 +10,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493145&idx=1&sn=2ac64bab54cef7ab7c96fa714c39a25c",
         "source": "BruceFeIix",
         "date_added": "2025-09-20"
+    },
+    {
+        "title": "[学习log] OT/ICS工业控制系统渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODY2MzMyMA==&mid=2247484688&idx=1&sn=b9a0876af4b4e49e10c2ee7bb5c36a7b",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "孚盟云CRM AjaxAttachment.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489218&idx=1&sn=938020c53245965b3d72a9c6c8794c34",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "【安全圈】TP-Link路由器曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=2&sn=9da9a6fe06fc31226c5251aa5084ecce",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "微软Entra ID漏洞暴露云身份信任模型缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327930&idx=1&sn=411eecd58f84da55dd0287bdffc110f5",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "FreeBuf周报 | 新供应链攻击波及40余npm软件包；苹果紧急修复ImageIO零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327930&idx=2&sn=87e64d22b6e0d0770c5182b9d192fc9d",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "【一周安全资讯0920】国家网信办发布《国家网络安全事件报告管理办法》；Chrome紧急更新：V8引擎零日漏洞已被野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508034&idx=1&sn=9a6571e16b83af332c3df21712a7f0b1",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "漏洞复现 || Flowise 任意文件读取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492711&idx=1&sn=5b5c62bc5d8564e75ff3e5a5e7744414",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "每日5万封钓鱼邮件：亚马逊云服务漏洞助长大规模网络钓鱼活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612391&idx=2&sn=4069937c9275d7b809052a9e516b4443",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "【高危AI漏洞预警】MCP Inspector跨站脚本漏洞CVE-2025-58444",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612391&idx=4&sn=95b42802df2c495cab3ac46f33c0d1d7",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "Salesforce攻击泄露15亿数据，美国风投公司遭勒索|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135916&idx=1&sn=b5aa8cdac83fe2e42ec3475ca2e8a0bf",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "【高危漏洞预警】DataEase Redshift JDBC RCE (CVE-2025-58748)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490767&idx=1&sn=ab0a2c31a158e215190778fb1c9e70cf",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
     }
 ]
