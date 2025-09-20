@@ -124,5 +124,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487914&idx=1&sn=8ac2262e589e78171ce20d2378576ac8",
         "source": "Doonsec",
         "date_added": "2025-09-20"
+    },
+    {
+        "title": "CISA 警告 Dover Fueling Solutions 的 ProGauge MagLink LX 存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485072&idx=1&sn=7ef1a8c2da4081316eeaeece09ca2d08",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "Chrome 紧急修复 V8 引擎类型混淆漏洞（CVE-2025-10585）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484704&idx=1&sn=866355da2312e9272a6e8be013b46899",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "看完这篇再挖不到漏洞，请顺着网线来砍我",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486772&idx=2&sn=17c379dec56eee08e0a908cb7d3f72b5",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "HubSpot 的 Jinjava 引擎漏洞导致数千个网站遭受 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502924&idx=1&sn=a02eb00476f661ec298af2016b9e5db7",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "来项目了，来项目了！！！\\\\n🔴【需求】：某高校网络安全实训，需要初级渗透讲师一位，大专以上就行，下周一进场 项目周期预计一个月，到十月中旬\\\\n📍【base】：西安\\\\n💰【工资】：400-600/天（只上一早上）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTQwMDY1NA==&mid=2247485513&idx=1&sn=325d11820155700b38009d24f9a6b446",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "ProjectDiscovery漏洞挖掘工具链浅析 - 自动化工作流",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488803&idx=1&sn=1496ca7c6b6d38545c07fee48ad3fc71",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "实战漏洞挖掘：JS 逆向与前端加/解密 —— 拆解 encrypt-labs 靶场（js 无混淆）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484371&idx=1&sn=3cfe3f6d5757264ce4388246e4317603",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "今年第六个了！Chrome高危0-day漏洞(CVE-2025-10585)在野利用，立即更新！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485067&idx=1&sn=ad3514090b2c93a382679a8615839003",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "VIte_ExpTools【vite任意文件读取测试工具】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491363&idx=1&sn=268525032244a1cf83f9805cc12fc8c4",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494508&idx=1&sn=747e553ae7c4045bda1003e053302d1d",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494508&idx=2&sn=653137cf174fd87170a6b9f4db570c41",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494508&idx=3&sn=226a06069b0825e6ff0509ce9dd18a6c",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "工具 | cyberpoc",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494508&idx=4&sn=0903d3bf5b78a79fa8a5bfc06543d188",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
     }
 ]
