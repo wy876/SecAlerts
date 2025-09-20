@@ -76,5 +76,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490767&idx=1&sn=ab0a2c31a158e215190778fb1c9e70cf",
         "source": "Doonsec",
         "date_added": "2025-09-20"
+    },
+    {
+        "title": "从 OSCP 渗透 到 OSIR 响应，苑老师带你揭秘攻防「左右互搏术」",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518672&idx=1&sn=a9ef23be3d2e4ba2e20022949b3905db",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "ShinyHunters 声称 Drift 黑客窃取了 15 亿条 Salesforce 记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501754&idx=2&sn=a9cc7e89e60e30953d2ec6dda53c785b",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "渗透测试报告生成工具-自制",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247488497&idx=1&sn=f6d02c3597b1e264f95a134c64ca7bea",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500621&idx=1&sn=ee6ce0e39a3c4cd797deb921494319be",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490864&idx=1&sn=0a8f32e35bc51c427d38db133974cf05",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "某移动端任意用户接管漏洞的发现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496863&idx=1&sn=7d3647a9c4f4f5c28a45c1d3004f33b3",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "华夏ERP-v2.3代码审计-Fastjson反序列化",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488731&idx=1&sn=15041b1d53cab1ec2aa375f4a87f80aa",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
+    },
+    {
+        "title": "路径遍历漏洞tips",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487914&idx=1&sn=8ac2262e589e78171ce20d2378576ac8",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
     }
 ]
