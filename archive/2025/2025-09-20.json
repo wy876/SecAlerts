@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494508&idx=4&sn=0903d3bf5b78a79fa8a5bfc06543d188",
         "source": "Doonsec",
         "date_added": "2025-09-20"
+    },
+    {
+        "title": "java 代码审计 -  目录穿越（遍历）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485574&idx=1&sn=e31cab6ad4fe0bf27594465a7fbfe717",
+        "source": "Doonsec",
+        "date_added": "2025-09-20"
     }
 ]
