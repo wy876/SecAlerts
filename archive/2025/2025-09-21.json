@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=3&sn=683ee038f20b6cfed2d55487241b3d6e",
         "source": "Doonsec",
         "date_added": "2025-09-21"
+    },
+    {
+        "title": "CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
     }
 ]
