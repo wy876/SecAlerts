@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484609&idx=1&sn=0d864447fb5d974d010123a0a69b362a",
         "source": "Doonsec",
         "date_added": "2025-09-21"
+    },
+    {
+        "title": "[CVE-2025-41243] Spring Cloud Gateway：复杂化评估上下文带来的安全风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491947&idx=1&sn=b2b81e5c17857cd1ebb08cb7bb78d8c9",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "TP-Link路由器零日漏洞遭利用，攻击者成功绕过ASLR防护机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=3&sn=683ee038f20b6cfed2d55487241b3d6e",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
     }
 ]
