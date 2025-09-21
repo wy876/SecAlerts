@@ -58,5 +58,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODc3ODY1NA==&mid=2247483980&idx=1&sn=2cf7c018a6790683f549690089ed8e0f",
         "source": "Doonsec",
         "date_added": "2025-09-21"
+    },
+    {
+        "title": "某系统RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "CVE-2024-12798 logback RCE 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
     }
 ]
