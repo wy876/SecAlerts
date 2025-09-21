@@ -106,5 +106,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495254&idx=1&sn=5b88b096d4cc407039cbc068b0a1ba3a",
         "source": "Doonsec",
         "date_added": "2025-09-21"
+    },
+    {
+        "title": "JS泄露突破后台的攻防实录：Swagger与Nacos漏洞与前后端分离突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494966&idx=1&sn=a8e3b16643b66a341c6868235a16420a",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "工具推荐 | 从流量包匹配敏感信息的渗透神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495917&idx=1&sn=c57d2bd8e15cf5575e68111e09bf468f",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "Apache Druid存在服务端请求伪造漏洞SSRFCVE-2025-27888 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489231&idx=1&sn=c1ddfb7a9911658037f98ac6d4717479",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
+    },
+    {
+        "title": "JS加密逆向神器，助力SRC漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486390&idx=1&sn=17e36ec3cad70cda964c2ba23aa62fbb",
+        "source": "Doonsec",
+        "date_added": "2025-09-21"
     }
 ]
