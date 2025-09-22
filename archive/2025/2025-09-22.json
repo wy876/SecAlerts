@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525137&idx=2&sn=96239d451a001bdd073e648857e6d4e5",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "CVE-2025-10585：Chrome V8 类型混淆零日漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532858&idx=1&sn=725de8e3f1c268a1efa105a32ac8fd49",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
