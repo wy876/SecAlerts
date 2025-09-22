@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503962&idx=1&sn=19118533533d80c6d41c67a79d94b5e3",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "【安全圈】CVE-2025-55241：微软补丁堵住 Entra ID 全局管理员伪造缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071837&idx=4&sn=3687cc3fd7ed7a4e2d5cd9eca6c32256",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
