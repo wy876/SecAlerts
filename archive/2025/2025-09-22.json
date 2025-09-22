@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486277&idx=1&sn=7f7621fba36672e93c2082ddae30d37a",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "对SharePoint CVE-2025-49706的详细审计过程复盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617110&idx=1&sn=67cb49f5f60d7a3150fd9147fbd6df37",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "尼日利亚我同胞车队遇袭事件：海外安全漏洞、应急机制与中非安保战略分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzM0NzA5MA==&mid=2247511370&idx=1&sn=7887ad8eb1b5378dba8f080181951a49",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
