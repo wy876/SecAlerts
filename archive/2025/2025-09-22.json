@@ -304,5 +304,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532858&idx=1&sn=725de8e3f1c268a1efa105a32ac8fd49",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "【高危漏洞预警】Spring Cloud Gateway 环境属性修改漏洞(CVE-2025-41243)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490772&idx=1&sn=bebe0bb6fdd5db87fc33a63484f4b9bc",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "03.用 PyTorch 复现 LeNet —— CIFAR-10 图像分类",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484597&idx=1&sn=1013a260ac0c3298e25ef9dd7e9955fb",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
