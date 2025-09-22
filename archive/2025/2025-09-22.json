@@ -322,5 +322,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484191&idx=1&sn=1948ff2c9b082581327e702f02f56fab",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "公众号接管漏洞之偷偷加小姐姐微信",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494345&idx=1&sn=6d9ab80cde99e95c4d1ac710e091ffdd",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day MSService 服务WCFDBService接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483934&idx=1&sn=74a1eaee7700ba767f52de13a7766178",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Apache Tomcat AJP连接器的漏洞原理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDI0MjA1MQ==&mid=2247484949&idx=1&sn=e03d77411ad8df7740452408095a07a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "一款集成化的网络信息收集工具，支持域名URL信息追踪多维度目标探测，涵盖目录扫描、CMS 识别、漏洞检测、信息泄露挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494976&idx=1&sn=ed1d717f1165742966e5ad75c2618674",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
