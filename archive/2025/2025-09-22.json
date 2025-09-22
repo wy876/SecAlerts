@@ -268,5 +268,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTYyNTg3Mg==&mid=2247493172&idx=1&sn=67e8613f640c0052b1a4813fbc54cf56",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "契约锁pdfverifier RCE攻防绕过史",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490225&idx=1&sn=97baf373649e4c31e686d3d9ff022110",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Forta 提醒注意 GoAnywhere MFT 中的满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524046&idx=1&sn=7502c8cfcdc19a772de84f1852ce2653",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "【已复现】Spring Cloud Gateway 环境属性修改漏洞(CVE-2025-41243)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503962&idx=1&sn=19118533533d80c6d41c67a79d94b5e3",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
