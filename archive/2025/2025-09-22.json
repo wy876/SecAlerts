@@ -154,5 +154,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzM0NzA5MA==&mid=2247511370&idx=1&sn=7887ad8eb1b5378dba8f080181951a49",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "智慧校园(安校易)管理系统 ADTag_Info.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492798&idx=1&sn=d08c40c4a27bdfba48a9616f237708a3",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "【家族介绍】DragonForce勒索软件曝光：从技术细节到地下江湖恩怨的完整画像",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503921&idx=1&sn=1167e0620883e26dde699e3e313b3140",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "层层防护下的突破之道：帆软漏洞利用深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494493&idx=1&sn=a7ee2602b689aed26c04b36732b69051",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "XXL-Job默认AccessToken漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MTc1OA==&mid=2247484826&idx=1&sn=4a36482bbf8178fb0a3c3f71c6f49804",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
