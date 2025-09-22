@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174635&idx=1&sn=a88240c650cb3c8a9307c248ee993b3c",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "Unicode漏洞“BiDi Swap”十年未修复，仍被用于实施网址欺骗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327965&idx=3&sn=461914fe1504a5fd15256a0257a22ce7",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Unicode漏洞“BiDi Swap”十年未修复，仍被用于实施网址欺骗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600323&idx=3&sn=8ba3d1ed15eacbe75e5f2fcbfa86b066",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "【星闻周报】汉堡王滥用DMCA下架安全漏洞报告引发争议",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTYyNTg3Mg==&mid=2247493172&idx=1&sn=67e8613f640c0052b1a4813fbc54cf56",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
