@@ -208,5 +208,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487014&idx=1&sn=954165dfdec90a18cf6dda863bafa950",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第36期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500575&idx=1&sn=7a6974e10bc006846a022affe910cb20",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "安全热点周报：谷歌修复今年第六个被利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503956&idx=1&sn=652d931176dff7be2bb4fdeb5025eb67",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第36期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496364&idx=1&sn=8fc0f22bfd44ac46b6c898f4cccd2e1a",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250915-20250921)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496364&idx=2&sn=61f89210e1ad9eccce74500049605c23",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "AI漏洞扫描器 - Scan-X",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575066&idx=2&sn=7ea4ffa4e0f490772da91e83d0206f38",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "关于AI大模型产品众测活动典型漏洞风险的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488611&idx=1&sn=13a94d01ee4a6f83849ff08bb10aaa46",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
