@@ -1,0 +1,122 @@
+[
+    {
+        "title": "复现&部署华为浙大DeepSeek-Safe大模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjQyNjAxMA==&mid=2247485600&idx=1&sn=b423ca156def9ed8aac60c08492b13a1",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Fortra修复GoAnywhere MFT软件中的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494844&idx=1&sn=37a2f659ec8edeadee4cb4b509ded53c",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "苹果紧急修复ImageIO零日漏洞，攻击事件已获实证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612404&idx=2&sn=64a97975ed5aa4647d5fb5bfac41da07",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "实战攻防 | 某学校授权渗透测试评估",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612404&idx=3&sn=7ba55b58b160580e6f2628d5ee645ae4",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "【高危漏洞预警】LemonLDAP:NG命令执行漏洞(CVE-2025-59518)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612404&idx=4&sn=e4cab8d72a74d497fa828aed218bc392",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "记一次XXE漏洞实战和getshell-system权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492213&idx=1&sn=8849791d08af9b3803c5878c28302158",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "记一次XXE漏洞实战和getshell-system权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488486&idx=1&sn=f51311ba7307c44c76d2a26b7039e887",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "CVE-2025-9961：TP-Link 路由器漏洞可能被利用进行 RCE，PoC 发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485076&idx=1&sn=300d201c64d18b28be435418e6ae14d1",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "TP-Link路由器零日漏洞遭利用：攻击者成功绕过ASLR防护机",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548616&idx=2&sn=451093efa6688921042f8486c933e8ee",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Chaotic Deputy：Chaos Mesh严重漏洞可导致K8s集群被接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484444&idx=1&sn=92a59392fd33b81f7ad19d70d278f050",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "某移动端任意用户接管漏洞的发现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492442&idx=1&sn=44a3cee06915fc656470b90c4f0fd31f",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "一款开源漏洞扫描工具-Prism X",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498239&idx=1&sn=2b2cd6caf7dd95e0c116291b06ec5bb3",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Python 代码审计实战指南：从漏洞原理到防御策略",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515413&idx=1&sn=78ba763dbba1a247ff9ba81a13a7833a",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "0day | 某在线拍卖系统代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519687&idx=1&sn=7edaecdb64473e11d079ac96686b4b92",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "Electron JS 浏览器自动查找 XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487933&idx=1&sn=30df1a1e98189feca62d0c22bf700a9c",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "日感染1500台VPS！我扒出了一个靠“吃”服务器漏洞为生的黑产代理网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485079&idx=1&sn=04386e02ee8aeb3cfec5a378263c259f",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "漏洞预警 | Claude Code远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=1&sn=668a0e0b9c52f8d4caef38d7564af2cb",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "漏洞预警 | 安科瑞环保用电监管云平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=2&sn=8dad72f082d2683d4bfc7e5b02c44fa5",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494507&idx=3&sn=387e5bcad8fd03a8b1ae0c6efa8493cf",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "漏洞挖掘之JS前端加密浅谈（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488815&idx=1&sn=ac169b509687e82754f6d73cce6ee332",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    }
+]
