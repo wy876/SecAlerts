@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494803&idx=1&sn=0fa206691892521af2d99f7c624e932b",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "【工具分享】VueCrack红队版浏览器插件|Vue框架网站隐藏资产与未授权访问漏洞识别",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486673&idx=1&sn=75c1e719091f0df9842b650b0c26b778",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "紧急！苹果火速修复 ImageIO 零日漏洞，恶意攻击或已悄然潜入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536218&idx=4&sn=1695a8d969a5d982eb61385bee3be8ae",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "严重的NX构建安全漏洞——关于s1ngularity攻击你需要了解的事项",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487014&idx=1&sn=954165dfdec90a18cf6dda863bafa950",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
