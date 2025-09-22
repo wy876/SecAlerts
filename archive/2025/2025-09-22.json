@@ -118,5 +118,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488815&idx=1&sn=ac169b509687e82754f6d73cce6ee332",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "WordPress漏洞挖掘实战：HackerOne赏金猎人进阶指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486250&idx=1&sn=35e4d173656e4d391969997303eedb4b",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 fileDownload.do 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492789&idx=1&sn=da8b550d3f124639ed88c031ff5accf1",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "谷歌紧急修复今年第六个已被在野利用的Chrome零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252563&idx=1&sn=aad62817b655f8218a4a43d68e8090d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "ChatGPT “影子泄露” 漏洞：黑客可隐秘窃取电子邮件数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486277&idx=1&sn=7f7621fba36672e93c2082ddae30d37a",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
