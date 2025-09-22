@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg5MTc1OA==&mid=2247484826&idx=1&sn=4a36482bbf8178fb0a3c3f71c6f49804",
         "source": "Doonsec",
         "date_added": "2025-09-22"
+    },
+    {
+        "title": "智慧校园(安校易)管理系统 ADTag.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492806&idx=1&sn=87c44137f09b3ada4ef77c478cb7315d",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
+    },
+    {
+        "title": "【已复现】H2o-3 反序列化漏洞可导致远程代码执行(CVE-2025-6544)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494803&idx=1&sn=0fa206691892521af2d99f7c624e932b",
+        "source": "Doonsec",
+        "date_added": "2025-09-22"
     }
 ]
