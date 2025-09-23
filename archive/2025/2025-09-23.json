@@ -1,0 +1,86 @@
+[
+    {
+        "title": "一款Windows GUI界面的渗透测试工具箱-V1.1（更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527369&idx=1&sn=a2506142a5cd0518b416b3445cbba284",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "新型CPU漏洞威胁云计算安全：VMScape（CVE-2025-40300）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612420&idx=2&sn=5c3d004cbbde7c3bb898eac1e2ec5fa5",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "首个人形机器人漏洞 PoC 完全公开，可实现命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486732&idx=1&sn=05d7269e1773a9970a50b62accddba3d",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "CVE-2025-59689：Libraesva ESG 命令注入漏洞被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485080&idx=1&sn=3af4ee4136acf74576a478bd252199a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "国家互联网应急中心通报AI大模型产品众测活动典型漏洞风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548629&idx=2&sn=e0b3e51cb4967e4bc377111ba53be186",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "从目录浏览漏洞到某融合通信调度系统的getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497000&idx=1&sn=d96b7d0a064383d3c3c39ecc3a64b5f9",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "SScan资产收集+漏洞扫描 ： 一款src捡洞扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498245&idx=1&sn=1eec79f392e3b74cefa84eae016530e2",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "免费分享 | HTB靶机Expressway解法分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485149&idx=1&sn=62cd20c3caab730ec800e5b7b7e80b1d",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "复盘微软Entra ID漏洞：从一个小小Token开始的“跨租户”接管之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485083&idx=1&sn=01177926ff7d7e44ddac5435192f3320",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "XCodeReviewer 是一个由大型语言模型（LLM）驱动的现代化代码审计平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495270&idx=1&sn=48c8e11102ffd799d9c02be3618f1afa",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "漏洞预警 | DataEase Redshift JDBC远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494533&idx=1&sn=67476e81fb41cc865ac9a9d9e9b86dd3",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "漏洞预警 | Flowise任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494533&idx=2&sn=7582cec927b3f3584b5d27b34979e949",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494533&idx=3&sn=050557edc28bef93c8941b2a8cf07ba0",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "渗透测试必备 | 24种403绕过方法完整利用脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495924&idx=1&sn=14cdf656e8f061117e15c3cd1e4dab35",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    }
+]
