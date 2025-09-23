@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493786&idx=1&sn=230db5308a9ea24e8c274395c7b8a397",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "【漏洞通告】H2O-3 JDBC 参数绕过引发反序列化 RCE(CVE-2025-6544)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501603&idx=2&sn=7f217c1f60941428c67e0270234c8af6",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
