@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494230&idx=1&sn=4c51829cf96ea5f42addadce00964aee",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "尼日利亚我同胞车队遇袭事件：海外安全漏洞、应急机制与中非安保战略分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562247&idx=2&sn=cee66591f76fe76dec8e92b3dc65efc9",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【好靶场】8 级：csrf+某内部漏洞组合拳",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485961&idx=1&sn=2caab43623c30559fee275a79d6ade1d",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
