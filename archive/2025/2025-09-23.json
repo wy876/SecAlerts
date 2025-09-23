@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490778&idx=1&sn=c36960ec70fe0af0595598672eee58eb",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "东胜物流软件WmsZXFeeGridSource.aspx接口存在SQL注⼊漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489244&idx=1&sn=58c72eb6f0a3b38d32aa56fcaa623d6b",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "复刻顶尖AI渗透机器人需要多少成本",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTY4NjUyOQ==&mid=2247485688&idx=1&sn=851d1b39b93201839de247e7f57f27fd",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
