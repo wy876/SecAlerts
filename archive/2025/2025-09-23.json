@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489238&idx=1&sn=8d46e7c4150274fe315444f4e2bd3af6",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "记一次小程序从越权到任意用户登录漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552293&idx=1&sn=8f803dd77cb987f396fea36d7f9425ee",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
