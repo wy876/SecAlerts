@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637408&idx=4&sn=1733393c94c32c1f9bdd431e07c9708b",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "360发布银狐木马预警: 新变种实现驱动漏洞武器化，手法堪比APT攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582166&idx=2&sn=94b22b32ff3886df9ad346f94d1a044a",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【成功复现】YesWiki路径遍历漏洞(CVE-2025-31131)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503615&idx=1&sn=031f6c4892e1ac539bbc2b03c78280ec",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
