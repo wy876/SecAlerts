@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494820&idx=1&sn=a74f7b948754a2fa1e449313a138f67e",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "扁鹊飞救智能急救与质控系统 CreateJKDA XML实体注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492827&idx=1&sn=a59b789f63805827c5f7c88dbf4cbc75",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "云端并非绝对安全：架构漏洞与攻防对策",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494230&idx=1&sn=4c51829cf96ea5f42addadce00964aee",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
