@@ -82,5 +82,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495924&idx=1&sn=14cdf656e8f061117e15c3cd1e4dab35",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "实战必备！30 个任意文件下载漏洞挖掘技巧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519691&idx=1&sn=da0ec0e83e9b9d95c362c36e9b73da2e",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "1200美刀！身份不明的中国云提供商出售根RCE访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486887&idx=1&sn=890a6295dca366a7c9726411e3cc1419",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "记录一次愚蠢的简单的APP手势密码信息泄露漏洞发现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487220&idx=1&sn=ff6a02dd22bac3a34e39d3ed44ce3690",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【JAVA代审】智慧云智能教育平台代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487178&idx=1&sn=d3893ac645b457f195d6bcde3d091dbb",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【SRC实战】某网站奇葩的任意账号申诉漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498814&idx=1&sn=7f51d1eb1ef14375e041cf0080651dbc",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
