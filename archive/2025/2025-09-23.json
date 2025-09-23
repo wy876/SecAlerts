@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502980&idx=1&sn=110f9a340196ee5377e15faf3ea1693e",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "【业界动态】国家互联网应急中心通报AI大模型产品众测活动典型漏洞风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996472&idx=2&sn=ab5ee6afa87079cffd1fb563d21c7034",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【已复现】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494820&idx=1&sn=a74f7b948754a2fa1e449313a138f67e",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
