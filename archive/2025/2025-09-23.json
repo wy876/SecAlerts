@@ -196,5 +196,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485961&idx=1&sn=2caab43623c30559fee275a79d6ade1d",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "渗透测试最常见的五个陷阱，你听说过几个？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486653&idx=1&sn=f956f181cf1cd723effda49708de61da",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0831-0913）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136244&idx=1&sn=ffebc71807f263b2b6c4091bb3637d08",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "从漏洞聚集现象到o2oa的20个0day漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575083&idx=1&sn=f9b7c3ddf0a151869cd86ae8012025f2",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "从攻击事件中捡到的渗透对抗框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493786&idx=1&sn=230db5308a9ea24e8c274395c7b8a397",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
