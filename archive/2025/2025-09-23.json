@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524053&idx=1&sn=2b843932ebd4eeeb17b6935b08be82f8",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "漏洞挖掘-业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519801&idx=1&sn=59c78870090cfdb2a7b73699a36511d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
