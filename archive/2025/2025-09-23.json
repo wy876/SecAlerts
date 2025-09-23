@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTY4NjUyOQ==&mid=2247485688&idx=1&sn=851d1b39b93201839de247e7f57f27fd",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "这波JWT漏洞挖掘实战细节了，文中多个技巧，精彩！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486403&idx=1&sn=66568dcdec1b7c123b1f5678fe7535a1",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "集成漏洞扫描、暴力破解的 Nmap 图形化扫描与资产监控工具|FastNmap让“扫描之王”Nmap使用更加简单",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494987&idx=1&sn=63d3bb58c36f3b1a96710b6097bd7c34",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
