@@ -256,5 +256,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629162&idx=1&sn=8188b06eb8944db878b00de98a812e60",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "Chrome高危类型混淆0-Day漏洞，可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327996&idx=1&sn=950b6c575083fef43c6e623d92266088",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
