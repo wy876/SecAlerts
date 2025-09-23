@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498814&idx=1&sn=7f51d1eb1ef14375e041cf0080651dbc",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "安全小知识-第五期-企业安全漏洞响应机制扩展：从应急止损到主动防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483962&idx=1&sn=caa91534f5972aa98229eb86da84d88d",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "广州图创 图书馆集群管理系统 PictureUpload 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492818&idx=1&sn=88c5207bd74a711370a03b5dc7b142cc",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "微软云计算曝出惊天漏洞：可接管全球任何企业租户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504143&idx=1&sn=611ab0ef55293aab42b3ee46b68ac628",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "【工具推荐】ShuiZe 水泽 - 自动化信息收集漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488833&idx=1&sn=b8c08e22147792fe808b5dee58528c0b",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "漏洞预警|TP-Link路由器曝RCE漏洞CVE-2025-9961",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489238&idx=1&sn=8d46e7c4150274fe315444f4e2bd3af6",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
