@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327996&idx=1&sn=950b6c575083fef43c6e623d92266088",
         "source": "Doonsec",
         "date_added": "2025-09-23"
+    },
+    {
+        "title": "CVE-2025-10585：Chrome V8 类型混淆零日漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532860&idx=1&sn=a9a97187765c86c143eaf0fc1608a3aa",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
+    },
+    {
+        "title": "受 Salesforce 供应链攻击影响，全球汽车巨头 Stellantis 数据遭泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524053&idx=1&sn=2b843932ebd4eeeb17b6935b08be82f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-23"
     }
 ]
