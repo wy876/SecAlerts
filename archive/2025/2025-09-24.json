@@ -160,5 +160,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262035&idx=1&sn=50f61fc67ac3fe062445f1e3de5d671a",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "【漏洞挖掘Tips】一种新的2FA 绕过方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484403&idx=1&sn=293132eaa9330e69ddc956c09e164548",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第38期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463639&idx=1&sn=10b5faee3486594dfe7b236694aadeee",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "【漏洞通告】SolarWinds Web Help Desk 反序列化RCE漏洞(CVE-2025-26399)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501609&idx=2&sn=9db56ab47ade129e0d45f388e6e1345a",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
