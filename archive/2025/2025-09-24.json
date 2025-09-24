@@ -1,0 +1,98 @@
+[
+    {
+        "title": "微软云计算曝出惊天漏洞：可接管全球任何企业租户|欧洲多国机场遭网络攻击陷入混乱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612438&idx=1&sn=9c39e92d5b7f7563fb6e6a764e038576",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "XCodeReviewer 是一个由大型语言模型（LLM）驱动的现代化代码审计平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612438&idx=4&sn=99fb92a7c4d025d07d03473d66afa80d",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "Supermicro 漏洞补丁被绕过，导致 BMC 遭黑客攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796436&idx=2&sn=f0e8b830515d55ce8405644315a4ff67",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "微软云计算曝出惊天漏洞：可接管全球任何企业租户",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548633&idx=2&sn=f8daac160fa93578ced8d56c57ead3f2",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "银狐APT组织利用未公开漏洞驱动攻击Windows系统，可绕过EDR与杀软防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484652&idx=1&sn=8b6e508fd09dd386635136cd5e7239f7",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "IMDS滥用：通过狩猎罕见行为发现漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484454&idx=1&sn=4d7e4178d0c8a38142062968b89cdde0",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "渗透测试中的域名收集：方法与自动化工具指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247484975&idx=2&sn=ddca3120f4fa319db44d2fa7d29cd6a5",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "探索网络安全的隐秘宝库：libaisec.com —— 威胁情报、渗透攻防与安全资源的实战圣地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513923&idx=1&sn=ec82598d65606869fd8b44be7c1342c6",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "Cloudflare CDN 节点 0day 漏洞售卖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486896&idx=1&sn=df48d485891984b7f8efeadaf4dc9f2e",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "漏洞预警 | Google Chrome类型混淆漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494534&idx=1&sn=c355185a5a01fc444152d7706a880308",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "漏洞预警 | 用友U8Cloud任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494534&idx=2&sn=4a44cabdc6eae36e6014814f997bf93a",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494534&idx=3&sn=3798e182674123a5029e41d1e8905378",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "从模板到邮件，全流程自动化：渗透测试报告系统的新标杆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492510&idx=1&sn=f9e8d17191bf4c91e9db1427a8d497be",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "若依漏洞检测工具V7",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484710&idx=1&sn=a4cff1c7327857bd6453353e90c5149c",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "记一次简单的代码审计项目案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486162&idx=3&sn=de3169342f8510928ed993259d68536e",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "猎洞公开课-微信小程序各种漏洞利用总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488516&idx=1&sn=2d6068cb39f70788d4ad706fb05eb291",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    }
+]
