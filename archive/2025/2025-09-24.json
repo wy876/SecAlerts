@@ -286,5 +286,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484863&idx=1&sn=e50120b806b7316091a500c59340c296",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "CyberPoC 一个现代化的网络安全练习和竞赛平台|提升渗透测试安全技能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495005&idx=1&sn=070486aef498840c24f2614c2acca1c4",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "TP-Link路由器零日漏洞遭利用：攻击者成功绕过ASLR防护机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523989&idx=1&sn=35fcf98aad4bf9473a0c9922a811889f",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "你的网络设备真的安全吗？这3个隐形漏洞可能正在被黑客利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516430&idx=1&sn=012e2fa3615264615f1c3d04286ed1b0",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
