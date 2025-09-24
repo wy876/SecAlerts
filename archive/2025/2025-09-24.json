@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjMzMDM3Mg==&mid=2247483875&idx=1&sn=3ae684526d703856442f89f333513395",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "Sophos XG Firewall RCE漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487619&idx=1&sn=c7a2b19a5162b4b6d9dd7dc1ed695362",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "针对gitlab多个CVE的漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617237&idx=1&sn=d416d0bede6bdb05c13909a529b6579f",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
