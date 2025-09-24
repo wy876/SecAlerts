@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492837&idx=1&sn=33b9297ca24bcb45434192850dda1686",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485110&idx=1&sn=d9af6f4b2ff0ca98493effd0e9a51b2c",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "一加 OxygenOS 漏洞曝光，短信数据可被任意读取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600800&idx=3&sn=ca701f142edf4b64d8bb41855e141526",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "【首发复现】Windows NTLM 权限提升漏洞(CVE-2025-53778、CVE-2025-54918)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494840&idx=1&sn=414113dee7943b0d67be8eeafbf8097c",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
