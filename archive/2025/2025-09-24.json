@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071867&idx=4&sn=a8c18afabd3ccd7093dcb2d004048ea8",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "【已复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞安全通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492955&idx=1&sn=16b38de2e215d8c2866b501a9545db06",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "一加手机OxygenOS存在权限绕过漏洞，攻击者可窃取短信并绕过MFA保护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328077&idx=1&sn=bd0afa205f7da816369d2cf42c3a56bf",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "欧洲机场遭遇重大网络攻击暴露供应链安全漏洞 电信安全呼吁构建关键基础设施韧性防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDIzNTYwOA==&mid=2247490286&idx=1&sn=d139dbb530555a6dd8bbb6ceb06b68a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "【高危漏洞预警】H2O-3 JDBC参数绕过引发反序列化RCE漏洞(CVE-2025-6544)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490786&idx=1&sn=897b74f67e004c597e75ec85734448c3",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
