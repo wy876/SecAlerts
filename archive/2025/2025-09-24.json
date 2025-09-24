@@ -220,5 +220,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524063&idx=2&sn=015628b01b153a9c714e3c5ce779bbf1",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "【安全圈】黑客利用Pandoc SSRF漏洞瞄准AWS EC2凭证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071867&idx=3&sn=2fba1a44420525dcfd6f3b3ff6cca2fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "【安全圈】CISA警告：Chrome零日漏洞CVE-2025-10585遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071867&idx=4&sn=a8c18afabd3ccd7093dcb2d004048ea8",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
