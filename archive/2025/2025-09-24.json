@@ -178,5 +178,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501609&idx=2&sn=9db56ab47ade129e0d45f388e6e1345a",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "用友NC Cloud IBapIOService Sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492837&idx=1&sn=33b9297ca24bcb45434192850dda1686",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
