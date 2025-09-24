@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519802&idx=1&sn=c27eba8bf8c7b5a0d109fc689408fae8",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "漏洞预警（已复现）| 用友 U8 Cloud NCCloudGatewayServlet存在命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483940&idx=1&sn=c19e2a3e2ae9f433070ce965cbfd87d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
