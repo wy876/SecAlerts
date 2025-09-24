@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490592&idx=1&sn=043ce2fcf64193abec1d7fbc7bf31cfe",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "SolarWinds 第三次修复 Web Help Desk RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524063&idx=1&sn=bbbe6b07384696379e2020d8ea0e3c24",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "超微公司两个新漏洞可导致恶意固件逃避信任根安全机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524063&idx=2&sn=015628b01b153a9c714e3c5ce779bbf1",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
