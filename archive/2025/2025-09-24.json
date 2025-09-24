@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490786&idx=1&sn=897b74f67e004c597e75ec85734448c3",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "DNS和DHCP渗透测试完全指南：从基础到高级攻击技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492478&idx=1&sn=867073d5092cdfed3f9f15b14152dd45",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519802&idx=1&sn=c27eba8bf8c7b5a0d109fc689408fae8",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
