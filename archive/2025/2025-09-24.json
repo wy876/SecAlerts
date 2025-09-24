@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483940&idx=1&sn=c19e2a3e2ae9f433070ce965cbfd87d4",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "文件下载漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490884&idx=1&sn=e554dba5496070c77be9b5c13d7872a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
