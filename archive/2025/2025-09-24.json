@@ -94,5 +94,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488516&idx=1&sn=2d6068cb39f70788d4ad706fb05eb291",
         "source": "Doonsec",
         "date_added": "2025-09-24"
+    },
+    {
+        "title": "Microsoft Entra（Azure AD）跨租户提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485508&idx=1&sn=53f9377663344ab0c3c14d3872bc6ea5",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "因L1TF重加载漏洞绕过云缓解措施而奖励15万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494870&idx=1&sn=79366b744b8f1932c46ec3954ba20666",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "正式发布｜ByteSRC AI业务收录全景图及漏洞定级标准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495667&idx=1&sn=801ea399681b4663aa4a55b93fa6e7e2",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "网信部门依法查处快手、微博等平台破坏网络生态案件 |新型CPU漏洞威胁云计算安全：VMScape（CVE-2025-40300）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248460&idx=1&sn=856582c8eace4b4eef47c2298f0ee30d",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "【JAVA代审】智慧云智能教育平台代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492870&idx=1&sn=b126852aeb1ab77f140313648e8bc4ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "Google Chrome 修复 V8 引擎中的三个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485096&idx=1&sn=941d15b8733078c134f8b3fd3d6484e2",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
+    },
+    {
+        "title": "59.我如何仅使用 3 个侦察工具就发现了 13 个漏洞 — — 无需浏览器，仅使用 Burp",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691016&idx=1&sn=d781964b06ab0f0307753fcd0b6775fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-24"
     }
 ]
