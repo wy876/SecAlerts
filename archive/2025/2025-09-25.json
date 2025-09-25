@@ -1,0 +1,86 @@
+[
+    {
+        "title": "0day | 某在线拍卖系统代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612453&idx=4&sn=a0e497ad3c6a495c0b89729196228fda",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "渗透测试扫描工具 -- z0scan（9月24日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517354&idx=1&sn=db54ced55b123b29feef6238b8fc16d2",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "CVE-2025-41715 (CVSS 9.8)：未经验证的漏洞暴露了 WAGO 工业数据库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485117&idx=1&sn=4d00a29b35a502cfd5539c3b08508767",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "CISA 分享一年前黑客利用 GeoServer 漏洞入侵联邦机构的详细信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796451&idx=1&sn=260f971fb38c4495a75355a4c1f1556e",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "谷歌报告UNC5221组织利用 BRICKSTORM 后门渗透美法律和技术部门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796451&idx=2&sn=de80f40a857766258d348d6df5c7e5ab",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "Chrome 高危漏洞可导致攻击者访问敏感数据并导致系统崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796451&idx=3&sn=c9669a23cee581550a245d1eef8ad832",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "开源AI黑客Agent，自动检查代码漏洞并修复，离AI编程的全流程自动化不远了。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484950&idx=1&sn=30ddbdd6d37f0a4a143e0618cc45a2c1",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "Nuclei POC 漏洞验证可视化工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491404&idx=1&sn=74837da89bdeb2a5f8eab7af1d3e95bd",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "十分钟学会代码审计之CC1链分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTQ5OTE0Ng==&mid=2247483950&idx=1&sn=768d437089d13a591b4a9195c04056df",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "强推一个永久的渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519702&idx=1&sn=e096355bacfa31b00dda4e9b0b8626ea",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "文件删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490894&idx=1&sn=d2d2f57f2a1fdfd15ac08e25404cba66",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "漏洞预警 | MCP Inspector跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494551&idx=1&sn=b17a6f2296d6bdd7fa3d9e7252e7c0a1",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494551&idx=2&sn=64b8d90b4a02d4b0a7005c84f9f6010a",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494551&idx=3&sn=1c3318252d36db5df6f3e096d7903f95",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    }
+]
