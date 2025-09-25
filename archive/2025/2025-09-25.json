@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562827&idx=1&sn=6dc6a4f88c294296f9999709a2d50c8b",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【WEB安全】jenkins弱密码靶场复现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485823&idx=1&sn=4da2a00a18fd9be85cf2eafa70a1a529",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "app漏洞挖掘之预登陆绕过接管账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484716&idx=1&sn=6ab1533350499b109fe84f72ca72d592",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
