@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=4&sn=f2d6d7ed942eff17ecea1648313f0e7f",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "宏景EHR HrChangeInfoService sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
