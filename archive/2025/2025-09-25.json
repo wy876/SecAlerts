@@ -82,5 +82,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494551&idx=3&sn=1c3318252d36db5df6f3e096d7903f95",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "AICodeScan：AI 驱动的代码审计扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485517&idx=1&sn=4b76f71027c7550474056e8de9d5d754",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "CVE-2025-32463-lab：Docker 环境下的本地提权漏洞复现实验",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485517&idx=2&sn=10edbae7f52bc4d877bd44fe040b221f",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "【已复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494849&idx=1&sn=519c5bfd7912f815fee0ad197a2943be",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "【好靶场】标准验证码渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486331&idx=1&sn=ed85e2aadf554bfa1d68a7e516d1d4b4",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "漏洞组合拳实战：从信息收集到痕迹清理！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527377&idx=1&sn=eb4257b12964f3dba8919e881cdda87d",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "SolarWinds修复其Web Help Desk软件中的关键远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494882&idx=1&sn=aa56c436d5224b664cc9ecd9fc5248b1",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "国家支持的黑客利用Libraesva电子邮件网关漏洞实施攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494882&idx=2&sn=594693e4e3cbdb598ee2b5b476a51fce",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "基于 WMI 的 MSFT_MTProcess 类实现远程进程转储与命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3MzQyMjQxOQ==&mid=2247484207&idx=1&sn=d4440d595c8255c7af43f9043769f07a",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
