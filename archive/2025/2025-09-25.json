@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485663&idx=1&sn=72b802c3b3b1dbbe7d344fb8252d0c37",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527385&idx=1&sn=005141f37ca699582a82384a77208071",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
