@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527385&idx=1&sn=005141f37ca699582a82384a77208071",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "CCS2025 | 以安全迭代为基 智启网络安全漏洞治理新程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjI2MDQwMA==&mid=2247487093&idx=1&sn=c99d1720ba4ce7b2d5856cad97d91514",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "渗透技巧 - 哥斯拉免杀最新Windows Defender AMSI和强对抗环境下的一些修改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjY0MzIyNw==&mid=2247483884&idx=1&sn=0346f331e3412849c8e285f2dc9e803d",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "无代码测试工具能发现常见安全漏洞吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540372&idx=1&sn=da01302c61d355fc04c431060c42210c",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "60%大模型漏洞下的破局者：CAISP 认证锻造 AI 安全硬核竞争力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525181&idx=1&sn=3e1a38eebc6c824882c208145516f81f",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
