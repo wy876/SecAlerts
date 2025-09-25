@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDY0MDkwNw==&mid=2247484716&idx=1&sn=6ab1533350499b109fe84f72ca72d592",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "Spring Cloud Gateway爆CVSS 10.0最高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485663&idx=1&sn=72b802c3b3b1dbbe7d344fb8252d0c37",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
