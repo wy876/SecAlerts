@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484415&idx=1&sn=147dee8beef8b2411b98e2fc7e6da691",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【已复现】用友U8Cloud NCCloudGatewayServlet命令执行漏洞(QVD-2025-37484)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503969&idx=1&sn=60929581746c605f9b3ef158818ec710",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "edusrc小程序漏洞挖掘思路分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552398&idx=1&sn=f4aeb5b4b51686b773a5460f55bea3d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
