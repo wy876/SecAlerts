@@ -292,5 +292,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
