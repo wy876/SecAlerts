@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "漏洞挖掘-逻辑漏洞挖掘中的一些新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498276&idx=1&sn=0d835ab22d43a106e18e61e17599c391",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "【漏洞通告】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "四叶草安全助力青海 “三新” 大讲堂！共探网络安全漏洞无效化技术新未来",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553143&idx=1&sn=bd935309d07e29cfff906bb0d9681526",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
