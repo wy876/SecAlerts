@@ -226,5 +226,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553143&idx=1&sn=bd935309d07e29cfff906bb0d9681526",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "内推 | 深圳绿盟驻场渗透测试岗火热招聘中",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497727&idx=1&sn=d61b4b1d69979b19131dd5017dc5a801",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "CVE-2025-41243 使用 Spring Cloud Gateway Server WebFlux 修改 SpEL 属性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532870&idx=1&sn=1fecf3d64fc3748f280eb55fac0df795",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "【论文速读】|融合大语言模型用于代码漏洞检测：一项实证评估",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497055&idx=1&sn=5b903e2ec895393f8a2d98e3f63cfd0e",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
