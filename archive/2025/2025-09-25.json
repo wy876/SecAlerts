@@ -256,5 +256,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207420&idx=1&sn=1812b287bd51b42977e82a64ea681377",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【安全圈】海康威视摄像机漏洞遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=1&sn=a3b2f5e5428e3d6a16cebdd4ad3598f8",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "【安全圈】思科警告SNMP漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=2&sn=406dfc031f40e7f6101451d618408e04",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "思科修复影响路由器和交换机的 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=1&sn=31248d9d535baaa71b2ec67ceef617e8",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "Linux内核ksmbd漏洞允许远程攻击者执行任意代码（CVE-2025-38561）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=4&sn=f2d6d7ed942eff17ecea1648313f0e7f",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
