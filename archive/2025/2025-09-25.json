@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497055&idx=1&sn=5b903e2ec895393f8a2d98e3f63cfd0e",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【已复现】用友U8 Cloud存在命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
+    },
+    {
+        "title": "盘点2025年十大MCP漏洞：风险、案例与检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207420&idx=1&sn=1812b287bd51b42977e82a64ea681377",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
