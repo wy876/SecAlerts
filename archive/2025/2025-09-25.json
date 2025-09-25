@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3MzQyMjQxOQ==&mid=2247484207&idx=1&sn=d4440d595c8255c7af43f9043769f07a",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "【漏洞挖掘Tips】关于头像上传存储在s3的漏洞挖掘方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484415&idx=1&sn=147dee8beef8b2411b98e2fc7e6da691",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
