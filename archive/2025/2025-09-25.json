@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523994&idx=1&sn=2c56c4ca2fa2fcd768ae75b4b4103351",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "递归扫描未授权漏洞插件，可定制POC，精准出洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486413&idx=1&sn=7751e3109eac2e481a71019ea8a4aac6",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
