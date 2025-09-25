@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525181&idx=1&sn=3e1a38eebc6c824882c208145516f81f",
         "source": "Doonsec",
         "date_added": "2025-09-25"
+    },
+    {
+        "title": "常用的XSS漏洞防御手段",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201",
+        "source": "Doonsec",
+        "date_added": "2025-09-25"
     }
 ]
