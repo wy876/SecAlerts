@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488902&idx=1&sn=b008e9c5469788c75424d9220f7326a6",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "【漏洞通告】Cisco IOS 和IOS XE SNMP 远程代码执行漏洞(CVE-2025-20352)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501619&idx=2&sn=5dab6b8d16e2e19bd9200d49f90558dc",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
