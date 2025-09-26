@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526419&idx=1&sn=a51a7ffd37b204be475a0f3566d6a30e",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "前端限制？黑客是如何绕过付费限制的-实战漏洞案例讲解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483908&idx=1&sn=ecd2a878ca523f458155f26b67f453f3",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "渗透测试JS接口Fuzz场景研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498316&idx=1&sn=59d1d7e00eaf8323d7a7f1b89a05ec76",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
