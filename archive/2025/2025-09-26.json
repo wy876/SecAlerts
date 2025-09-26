@@ -1,0 +1,98 @@
+[
+    {
+        "title": "思科修复Cisco IOS与IOS XE软件中遭积极利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494893&idx=1&sn=59f450ca37f9f6d0cc1995537c2886bb",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "一加手机OxygenOS存在权限绕过漏洞，攻击者可窃取短信并绕过MFA保护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612479&idx=1&sn=4a7964ba5855910693d8b80657a712a5",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "严重思科零日漏洞（CVE-2025-20333，CVSS 9.9）正遭受主动攻击：VPN 漏洞允许 Root RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485135&idx=1&sn=b136bcf3ff668085fa79c08ed744f105",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "Vulmap 深度解读：一款把“扫描”与“验证”合二为一的 Web 漏洞工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485531&idx=2&sn=4f924c7e480a28f779ee77f26d4bd7f6",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "【APP渗透】去干渗透！APP 的！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491652&idx=1&sn=d373611671924c6ad18ad390705d0eaf",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "GoAnywhere 文件传输软件存在严重漏洞（CVSS 10.0），威胁 20,000 个系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796469&idx=2&sn=9cc58a7d32e425817e50a482d2ab2faf",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "Cisco IOS 0-Day RCE 漏洞遭积极攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796469&idx=3&sn=04659992ab4957d7b303a3fd971a0c7d",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "分享一款综合型Java漏洞平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498260&idx=1&sn=6b8ea2737715e06138564a9297145fc3",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "CodeQL代码审计初探",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484659&idx=1&sn=d662852223dc842595ea6b7d534f50c6",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500693&idx=2&sn=d76a91844c2376e4dda8f83efa57fb27",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "AI安全代码审计系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492537&idx=1&sn=1bf7dadc5baa3d19e3f9b35e24ef2acd",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "老板让你做App测试，还在摇头说不会？App渗透逆向课程来袭！文末抽月饼！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MzY0MA==&mid=2247488162&idx=1&sn=31fb7292c984225fe0258118719656d6",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "漏洞预警 | H2O-3反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494575&idx=1&sn=fb578064813712958de806aa0d194704",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "漏洞预警 | 红帆iOffice SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494575&idx=2&sn=2896c2d3a6faf44a8cb882ec32ab744d",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "漏洞预警 | 快普M6 SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494575&idx=3&sn=084afc79952c585e16522cd74fe13614",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "硬核挑战！渗透的高阶证书—OSEP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525182&idx=2&sn=10d96229f208e47b0460a087f08668d9",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    }
+]
