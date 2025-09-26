@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492865&idx=1&sn=8148c29bae271489c0a8951297df2a43",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "WGCLOUD存在默认账号密码admin/111111 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484396&idx=1&sn=a8f2c28abe260f1f3594dc50e17f5ad7",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
