@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498316&idx=1&sn=59d1d7e00eaf8323d7a7f1b89a05ec76",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "【成功复现】SimStudioAI服务端请求伪造漏洞(CVE-2025-9805)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503623&idx=1&sn=a0a03137b9df5313e408854649c12b78",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "速修复！思科ASA 两个0day漏洞已遭利用，列入 CISA KEV 清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524078&idx=1&sn=a668c49a8bfda90e1da60201307dc79b",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "Salesforce 修复严重的 ForceLeaked 漏洞，通过AI提示注入暴露 CRM 数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524078&idx=2&sn=e6d2b91dedf49a963971709b2ead7110",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
