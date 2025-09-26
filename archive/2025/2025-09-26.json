@@ -94,5 +94,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525182&idx=2&sn=10d96229f208e47b0460a087f08668d9",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "PentAGI自动渗透测试平台搭建与使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497212&idx=1&sn=00a35c04afea6209b67e089293c1b5d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "【文末抽月饼】老板让你做App测试，还在摇头说不会？App渗透逆向课程来袭！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519817&idx=2&sn=f97c63b38c72ede9af36cfc2dc65fd70",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "美国就黑客利用思科安全设备漏洞发出警告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490079&idx=2&sn=538bbe39150e24d3673de576f76a554f",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "ProjectDiscovery漏洞挖掘工具链浅析 - 自动化工作流",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492874&idx=1&sn=fa4b6e860332531247b5da68dc325c4b",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "海康威视摄像机漏洞遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087042&idx=1&sn=02488967f11dc18ff388e5082bdbe76d",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
