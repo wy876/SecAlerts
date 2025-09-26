@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484396&idx=1&sn=a8f2c28abe260f1f3594dc50e17f5ad7",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "Sim Studio image接口存在任意文件读取漏洞CVE-2025-9805 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489272&idx=1&sn=fe19907b1ac2ab04a67854e703846d11",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
