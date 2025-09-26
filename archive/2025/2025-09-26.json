@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484871&idx=1&sn=09f8604ef2b05dd7f8c18760221056f3",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "某医药管理系统代码审计之SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488859&idx=1&sn=449a5020dc6f52b8c618c3ae5cd8f3b3",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
