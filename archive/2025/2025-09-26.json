@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484161&idx=1&sn=674dc5b3e0496f20ecea0a5210e76f72",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "目录索引、目录穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490905&idx=1&sn=bd00002f4135e34aa27f79b5a5030478",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "三汇网关管理系统 8-1-1userAdd 任意用户创建漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492865&idx=1&sn=8148c29bae271489c0a8951297df2a43",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
