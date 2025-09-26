@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjIzMDMzNg==&mid=2247484378&idx=1&sn=ecd021d6ff20f182af93a8e079f56dfb",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "【渗透技巧】ServiceUI 提升到 system 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485871&idx=1&sn=728faf3231723fa882a31f023f286d59",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
