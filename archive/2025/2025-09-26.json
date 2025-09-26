@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526870&idx=1&sn=4b3d64f4d2e067c054bf4f27cb1653e5",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "【域渗透攻防系列】域内信息搜集、BloodHound与Mimikatz密码转储实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247521438&idx=1&sn=6e4fde798f13c9f5eeb781f2b5254a96",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2025年9月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526419&idx=1&sn=a51a7ffd37b204be475a0f3566d6a30e",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
