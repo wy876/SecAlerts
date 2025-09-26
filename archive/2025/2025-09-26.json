@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087042&idx=1&sn=02488967f11dc18ff388e5082bdbe76d",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "思科已确认Cisco IOS 0day漏洞遭到利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503058&idx=1&sn=6c649442ff54acc3a19b5aeada924b01",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "[POC] 用友U8 Cloud NCCloudGatewayServlet命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY3MTM4Nw==&mid=2247484168&idx=1&sn=c38ca8d6257c677a9b0bf98f9b05fed4",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "[POC] 用友U8 Cloud NCCloudGatewayServlet命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjIzMDMzNg==&mid=2247484378&idx=1&sn=ecd021d6ff20f182af93a8e079f56dfb",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
