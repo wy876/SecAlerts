@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485871&idx=1&sn=728faf3231723fa882a31f023f286d59",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "AI驱动智能漏洞检测的MCP服务构建思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488902&idx=1&sn=b008e9c5469788c75424d9220f7326a6",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
