@@ -214,5 +214,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524078&idx=2&sn=e6d2b91dedf49a963971709b2ead7110",
         "source": "Doonsec",
         "date_added": "2025-09-26"
+    },
+    {
+        "title": "【安全圈】Cloudflare CDN 节点 0day 漏洞现身暗网，引发全球安全担忧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071897&idx=3&sn=de5284fc89ef7ff00ef7724fb32e0f7f",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "思科两大0day漏洞同时曝光：ASA/FTD设备VPN缺陷可导致Root权限远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328148&idx=3&sn=3160acb4fb312738f62cc4538cc32cd1",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
+    },
+    {
+        "title": "NVIDIA修复Megatron-LM AI框架中的高危代码注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328148&idx=4&sn=448221c674e1bd99361e90dd14d67bbc",
+        "source": "Doonsec",
+        "date_added": "2025-09-26"
     }
 ]
