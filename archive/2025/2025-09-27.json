@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=2&sn=86d304cc99574054f117c3198c848b5d",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "用友U8cloud-NCCloudGatewayServlet 反射漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
+    },
+    {
+        "title": "用友NC changeEvent sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
