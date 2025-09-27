@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712488&idx=1&sn=d66f414b83f976592ff46caa38e24b0c",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "Nacos 漏洞利用总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712513&idx=1&sn=d92d0b9660b58fc1e2cf2b56effe31af",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
