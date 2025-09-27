@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "某医药管理系统代码审计之鉴权审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488870&idx=1&sn=ea01ab31dab7075fe7e83ac08c91a9e0",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
