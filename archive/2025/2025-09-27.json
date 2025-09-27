@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "java 代码审计 - SpEL 表达式注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
