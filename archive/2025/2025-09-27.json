@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "红队攻防记：一次“不靠 0day”从外网到内网再到云平台的实战渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495106&idx=1&sn=d32ad7cc938d85ff86865524b3abcbad",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
+    },
+    {
+        "title": "用友U8 Cloud NCCloudGatewayServlet接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
