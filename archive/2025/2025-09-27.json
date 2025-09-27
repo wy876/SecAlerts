@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486256&idx=1&sn=8de596a48bcd23a14b4a1a4519a96792",
         "source": "Doonsec",
         "date_added": "2025-09-27"
+    },
+    {
+        "title": "Windows和Linux在CVE-2024-38816下的路径解析差异分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485596&idx=1&sn=9c462ab7c43f2545092094aa283bb186",
+        "source": "Doonsec",
+        "date_added": "2025-09-27"
     }
 ]
