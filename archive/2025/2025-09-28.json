@@ -64,5 +64,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494580&idx=3&sn=e1e8a6d2283a7087bc7770cdea575c76",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "任意文件读取/删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524061&idx=1&sn=559a18fe4b84c4980cf2aca716a77fae",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "用友U8cloud-NCCloudGatewayServlet接口存在任意文件上传+命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "实力认证！迪普科技再获“年度协同软硬件优秀漏洞管理企业”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650383485&idx=1&sn=90280dfc03f9b0a2004f9ab7d664ad81",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "CobaltStrike懒鬼插件，懒懒懒懒懒，我凭本事打下来的SESSION，为什么还要自己动手去后渗透？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495337&idx=1&sn=b4b578e704ae7d7fe88fbabb31c945d2",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "深度解析：APP渗透的核心漏洞与攻防技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485445&idx=1&sn=1d2b13ff1ce8f1056e5af411e025d837",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "程序员故意留下漏洞，这犯法吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247499746&idx=1&sn=9b6da6aec4ec8c320d9f01bc9e485cfc",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
