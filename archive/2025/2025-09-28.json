@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490802&idx=1&sn=00575a4d7b745e06fa25758e69407bb7",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "内网渗透(一)：基础知识",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487785&idx=1&sn=9f311d0b79b11c42edf17569f7a964b2",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "高级渗透测试工程师 技能树",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247484029&idx=1&sn=15bdedcd7725c7ed10d45ef01f43b24c",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
