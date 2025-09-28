@@ -220,5 +220,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485876&idx=1&sn=20b1575d424c67a3f172b3608b6e403e",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "记一次不需要抓包的实战逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483727&idx=1&sn=33402a3835da888bfd4521d93a4c2578",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "深情版公开课之如何快速挖掘低微漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494406&idx=1&sn=0ac56c8f16e11a6f1b6e3b0f38286334",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
