@@ -142,5 +142,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498324&idx=1&sn=32b9de49b9e9ba29c2937d1cffa3804b",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": ".NET 安全加固，剖析一个通用 XSS 漏洞修复函数",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500703&idx=1&sn=b8c7e916f41d3e266038f15b1cc1f17c",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "80 个反序列化漏洞全景系列 (5) | 介绍一种绕过WAF拦截特征码的方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500703&idx=2&sn=0f126ad344ec8fd0f88a360b216264c9",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500703&idx=3&sn=4ee48cf2fec3d7cf12b6f34813c93f83",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "GitLab 紧急发布补丁，修复高危 DoS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601375&idx=3&sn=b0f30af711d750a6a1461954a03888ca",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "手机号验证码&图片验证码漏洞利用总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488584&idx=1&sn=cc8c12fedab9f999d205d6854ba15256",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "记一次XXE漏洞实战和getshell-system权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488584&idx=2&sn=6277b41d17bd14c277f64bdaee8d5da0",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "红队实战之通达OA系统漏洞POC脚本一键编写",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556443&idx=1&sn=911f4fd740fcee6ec653a48d463117fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556443&idx=2&sn=9802b40e84d498222346a714031d22f0",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "某移动端任意用户接管漏洞的发现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODI3NDc4NA==&mid=2247484677&idx=1&sn=24d2e9a6bb306633e8b7c2688cc56895",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
