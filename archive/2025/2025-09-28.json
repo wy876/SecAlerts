@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484569&idx=1&sn=738b64433bbf80a94766833060845e13",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "【高危漏洞预警】PHPGurukul Small CRM信息泄露漏洞CVE-2025-11053",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490802&idx=1&sn=00575a4d7b745e06fa25758e69407bb7",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
