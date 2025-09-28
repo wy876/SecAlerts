@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "语雀信息泄露的蝴蝶效应：一场波及多系统的安全渗透案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485966&idx=1&sn=618107cbf8bb2ba71d32962bd6710aa0",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "逆向浏览器占用：CDP协议渗透实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485437&idx=1&sn=c711617493df0e26d21ce43b0ba96dd0",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "【好靶场】命令执行靶场 第一弹",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486350&idx=1&sn=9245e2d705b98291e9d128bbcd27d7d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
