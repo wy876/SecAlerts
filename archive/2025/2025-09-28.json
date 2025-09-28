@@ -214,5 +214,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483836&idx=1&sn=1e7007efd5f04f96ceae7f61e5566b4a",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "HTB 第九赛季Imagery靶机：XSS+LFI+RCE三洞结合getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485876&idx=1&sn=20b1575d424c67a3f172b3608b6e403e",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
