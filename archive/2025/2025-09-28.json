@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODI3NDc4NA==&mid=2247484677&idx=1&sn=24d2e9a6bb306633e8b7c2688cc56895",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "Libraesva ESG 紧急修复已遭国家黑客利用的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524087&idx=1&sn=83bb93f4f75fdef8ddfbad2959a7e7d1",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "GitLab高危漏洞可致实例崩溃（CVE-2025-10858、CVE-2025-8014）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328268&idx=3&sn=5d607e6cbabf91f4a8f217aeb9117c43",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
