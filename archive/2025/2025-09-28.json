@@ -1,0 +1,68 @@
+[
+    {
+        "title": "黑客在公开预警前利用Fortra GoAnywhere漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=2&sn=0f60514d784c8045b9bdecab5b8faece",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "Salesforce Agentforce平台存在ForcedLeak安全漏洞 可通过提示注入攻击暴露CRM数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "英国国家网络安全中心发布警告称，攻击者利用思科防火墙零日漏洞部署RayInitiator和LINE VIPER恶意软件。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=4&sn=4003e986cdc0cf7e9cec938ecf4a4eea",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "Chrome高危类型混淆0-Day漏洞，可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612499&idx=3&sn=6d20465d5759d644e400d1badb66b9e8",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "CVE-2025-59934：Formbricks 中的严重缺陷允许通过伪造的 JWT 令牌进行未经授权的密码重置",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485173&idx=1&sn=213eb53fe43391a71ac755a63bf47080",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "渗透测试 | 从XSS到内网投毒接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497246&idx=1&sn=39a1385e29e09eb7566d21d8c058dc56",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "老板让你做App测试，还在摇头说不会？App渗透逆向课程来袭！文末抽月饼！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MzY0MA==&mid=2247488165&idx=1&sn=504bf6fc91096356aa3ab11a855b2bd3",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "首发全网最低价最具性价比的APP渗透逆向课程！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489356&idx=1&sn=a9a61dbde81cae3d5816f803229668c6",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "漏洞预警 | SolarWinds Web Help Desk反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494580&idx=1&sn=659679f0f3a81ac1f69a6b8f5792768c",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "漏洞预警 | 用友NC反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494580&idx=2&sn=9e034be7a50c9414b889faf236d06ae0",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494580&idx=3&sn=e1e8a6d2283a7087bc7770cdea575c76",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
+    }
+]
