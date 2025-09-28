@@ -106,5 +106,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494860&idx=1&sn=4c014a61bd99cefbf38b8663335e6718",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "用友U8 Cloud NCCloudGatewayServlet 命令执行漏洞(QVD-2025-37484)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
