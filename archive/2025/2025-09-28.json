@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328268&idx=3&sn=5d607e6cbabf91f4a8f217aeb9117c43",
         "source": "Doonsec",
         "date_added": "2025-09-28"
+    },
+    {
+        "title": "渗透测试实战：配置问题导致的信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483836&idx=1&sn=1e7007efd5f04f96ceae7f61e5566b4a",
+        "source": "Doonsec",
+        "date_added": "2025-09-28"
     }
 ]
