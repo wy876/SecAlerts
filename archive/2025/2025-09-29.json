@@ -202,5 +202,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzkwNw==&mid=2247485714&idx=1&sn=bd47e3b3c1a55048a558255f144df3bc",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "Notepad++ 曝漏洞，攻击者可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601462&idx=2&sn=807a0f406b4a8af86a726759e5838d0a",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "【免费领】超400页！Android系统漏洞实战权威指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556453&idx=2&sn=bcb2f51ffa9e6abdc0a0126561426420",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "康耐视工业摄像头存在多个漏洞，无补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524096&idx=1&sn=3be22e18653da9e761f0173796619548",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "一次接口文档泄露到站点接管到RCE思路分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjMzMDM3Mg==&mid=2247483904&idx=1&sn=fd51644a703ad3a8ac17d9538e9463e2",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第37期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496385&idx=1&sn=a0679c73ea3175bd731b8631456a480c",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250922-20250928)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496385&idx=2&sn=b1f4564d8332222df845ba876c883ff5",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
