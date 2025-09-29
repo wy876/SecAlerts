@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490807&idx=1&sn=3d2cb4823b6d7d7cd7ec54b3c757b461",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "CVSS 10分严重漏洞: 从CVE-2025-41243看SpEL SimpleEvaluationContext绕过与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492374&idx=1&sn=7c2361e99bcf13f8a0601c4a4edc010e",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "SDL 100/100问：针对内部的高中低危漏洞，给业务部门多长时间修复？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487368&idx=1&sn=b9c93c7e24a7dcc6c98eee6c544b43b4",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
