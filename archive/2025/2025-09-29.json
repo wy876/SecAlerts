@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484614&idx=1&sn=7415a2fd8c8fc25313d2f59f2514f88d",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "注入记录 | 使用二改后的瞎注，使得我挖掘到了更多的SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247489873&idx=1&sn=25c8ed39b8b9116714b37a2ee29fc9d0",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "紧急预警！一加 OxygenOS 权限漏洞，短信与 MFA 全失守",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536355&idx=2&sn=8df578e6070a93478c97369379dca1da",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Flowise未授权文件读取漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzkwNw==&mid=2247485714&idx=1&sn=bd47e3b3c1a55048a558255f144df3bc",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
