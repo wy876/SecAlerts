@@ -238,5 +238,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496385&idx=2&sn=b1f4564d8332222df845ba876c883ff5",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "iOS 0Day漏洞（CVE-2025-24085）相关PoC利用细节已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328293&idx=1&sn=86e61286a0f6bd469b7e8203c3ab81fb",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Notepad++曝DLL劫持漏洞，可致攻击者执行任意代码，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328293&idx=2&sn=24dce306c70e28276ba8143ccaafed6c",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "SUSE Rancher修复三大中高危漏洞，最严重漏洞可致集群沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328293&idx=3&sn=70d843283dacf38baeb0413089e27c4b",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "阿基拉勒索软件利用SonicWall SonicOS漏洞实施闪电战式入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328293&idx=4&sn=c3cb212a62cbb8851eae5069cd033d11",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Notepad++ v8.8.3 中的 DLL 劫持漏洞 (CVE-2025-56383) 恶意 DLL 替换执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532913&idx=1&sn=5d93a6f565ba184f2e322de2ab20092e",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
