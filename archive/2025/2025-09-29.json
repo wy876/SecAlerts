@@ -94,5 +94,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488879&idx=1&sn=829c49af598a73a8c5e983513e7f164d",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "0062. 25 万美元XSS盲注漏洞的教训：漏洞赏金最终回报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691046&idx=1&sn=70b0794b5359bf73d178b3d3ea6f5295",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "玄域靶场-支付漏洞之隐藏优惠券遍历",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483930&idx=1&sn=21d5c041266a8ec6eba1fe844c946a5f",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Git高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484870&idx=1&sn=93ae53aaa0c976aa9229e740bc09b951",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "【首发复现】NVDIA Triton-Inference-Server 远程代码执行漏洞（CVE-2025-23316）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494873&idx=1&sn=6c6d486474b5ed1222acf1fd443c048d",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "扁鹊飞救智能急救与质控系统 GetLyfsByParams SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492902&idx=1&sn=33097ef4fce1af2fc122599cd299194f",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "【漏洞挖掘Tips】postMessage注入实现RCExa0获取xa0Google $22,500",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484422&idx=1&sn=c5ff31edfbe3282a727f289e9ab9baa1",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
