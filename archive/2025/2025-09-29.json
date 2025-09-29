@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484422&idx=1&sn=c5ff31edfbe3282a727f289e9ab9baa1",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "红队安全研究 | 利用解析器漏洞：文件上传验证绕过多种WAF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617238&idx=1&sn=ad26cacb135db89ef823eea99e58f51d",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
