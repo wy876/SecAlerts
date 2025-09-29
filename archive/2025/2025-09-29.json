@@ -4,5 +4,95 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901403&idx=1&sn=6472ca51953734867153bab1f52c9041",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "] [记录生生不息的创新力量｜2025 年度「InnoForce 50」启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087504&idx=1&sn=34faf891cc5589c4ce4e7806a7d160b1",
+        "source": "ChainReactors",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "] [记录生生不息的创新力量｜2025 年度「InnoForce 50」启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087504&idx=1&sn=34faf891cc5589c4ce4e7806a7d160b1",
+        "source": "BruceFeIix",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "思科爆出致命零日漏洞！超200万设备面临远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504184&idx=1&sn=75c128851174105ce22f3dcf05940657",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "渗透也有狗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491454&idx=1&sn=c090b32f498c1ab8360e7d47ed086044",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "红队攻防 | 外网打点不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489432&idx=1&sn=b60290bc33ba0261e2f98cd1c640885f",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "从入门到入侵：PHP 反序列化漏洞详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485707&idx=1&sn=da8689b18a98285cde3c7b5de3ba2d90",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "【好靶场235】命令执行靶场 第二弹",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486360&idx=1&sn=e8bf9e8fba4a7d30863f39242904bfcc",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Supermicro BMC 的两个新漏洞可使恶意固件逃避信任根安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487983&idx=1&sn=80dd9f648f7f570e341b45db22aae05a",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "Notepad++ 中发现 DLL 劫持漏洞 (CVE-2025-56383)，允许任意代码执行，PoC 可用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485177&idx=1&sn=3db123e1269f5f1d8761384110360411",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500709&idx=2&sn=fae6171fcbb43d871c1d9e536325191e",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "SpringBootVul-GUI，一个半自动化springboot打点工具，内置目前springboot所有漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513983&idx=1&sn=cbff8d8f34718430da02895111eddd62",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "漏洞预警 | Spring Cloud Gateway环境属性修改漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494588&idx=1&sn=17e6d001c7d9906b77956549cf5e07d1",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "漏洞预警 | 用友U8Cloud命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494588&idx=2&sn=b6f501d7caf19fed4ca59e962cdde3cc",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "漏洞预警 | TurboMail未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494588&idx=3&sn=38fda4c1dcd370cf57fe16ef4a2fef73",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "某医药管理系统代码审计之文件上传",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488879&idx=1&sn=829c49af598a73a8c5e983513e7f164d",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
