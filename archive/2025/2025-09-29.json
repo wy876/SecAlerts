@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533875&idx=2&sn=6c852e294bba0ff51a498cff4ca2a82b",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "Top 25 MCP 漏洞揭示： AI 代理可被利用的方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540397&idx=1&sn=e6451e98f4da9a4e7a5d4c2aab79fd9a",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "漏洞预警 WAVLINK WN530H4 live_api.cgi 命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492336&idx=1&sn=2fea1a95bb58ee03dd3dc33b375d79ff",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "【红队工具】红队视角下CobaltStrike后渗透插件更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484614&idx=1&sn=7415a2fd8c8fc25313d2f59f2514f88d",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
