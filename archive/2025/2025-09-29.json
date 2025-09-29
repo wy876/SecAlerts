@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498328&idx=1&sn=b899bb828d4367f2b99c1de2bef4b7dd",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "【高危漏洞预警】DataSpider Servista信息泄露漏洞CVE-2025-48006",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490807&idx=1&sn=3d2cb4823b6d7d7cd7ec54b3c757b461",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
