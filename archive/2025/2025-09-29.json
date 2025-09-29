@@ -142,5 +142,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486785&idx=1&sn=8568b1ad19fac05002d3aec0d7e1c425",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "你的域名可能正在“被别人使用”？——子域名接管漏洞工具剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484418&idx=1&sn=dbf477187041b155ffd0af83f5cd8807",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "这些网络安全“漏洞”，你堵好了吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDkwMDcxNA==&mid=2247485514&idx=1&sn=10fa47a8428ae4b11b0c2bbf65b9585e",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523344&idx=1&sn=d8323a37dc9393bcbe6e6b158220a818",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
+    },
+    {
+        "title": "网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533875&idx=2&sn=6c852e294bba0ff51a498cff4ca2a82b",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
