@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532913&idx=1&sn=5d93a6f565ba184f2e322de2ab20092e",
         "source": "Doonsec",
         "date_added": "2025-09-29"
+    },
+    {
+        "title": "【安全圈】Windows 堆管理曝严重漏洞：记录大小字段缺陷可致任意读写",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071952&idx=4&sn=e0ad1a3000c871baa19d7c01952c5fc4",
+        "source": "Doonsec",
+        "date_added": "2025-09-29"
     }
 ]
