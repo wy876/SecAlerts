@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650976088&idx=1&sn=b83be6d09b675223429441408605adad",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "联想电脑管家权限提升漏洞 CVE-2025-2502",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTM5MTk0OA==&mid=2247496770&idx=1&sn=81e2548ab0794a776ea05ea69caff5cb",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第39期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463676&idx=1&sn=16cfff8ccebbf9a772807baf1e75f3cb",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "第七期漏洞挖掘培训，我们等你。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487217&idx=1&sn=42305c92cd949eaac54098830a25e9ef",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
