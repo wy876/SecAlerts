@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514159&idx=1&sn=5424be577ce494803ee2afa6133b659a",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "宏景eHR HrpService SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492911&idx=1&sn=359ee113ca880ab94aace9a0ada55a86",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞挖掘—只靠信息收集拿下证书站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484645&idx=1&sn=9379bb83e36645bb66ce345a9b605aab",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "深入剖析HTTP解析器不一致性漏洞：绕过安全防护的攻击技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485606&idx=1&sn=ddd94e3965d4bf972cd160c91dde68b7",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
