@@ -1,0 +1,128 @@
+[
+    {
+        "title": "思科两大0day漏洞同时曝光：ASA/FTD设备VPN缺陷可导致Root权限远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612546&idx=3&sn=a56efd4ed6df270e25a884261bae20ba",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【高危漏洞预警】PHPGurukul Small CRM信息泄露漏洞CVE-2025-11053",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612546&idx=4&sn=b72c0090277c3c57298238ca4dbe9494",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "渗透测试工具Yakit使用指南：从安装到实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484682&idx=1&sn=b3c211269d7bc52aebe992db9cb6375b",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "WhatsApp 中新发现的零点击远程代码执行 (RCE) 漏洞使数百万苹果用户面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796497&idx=1&sn=2519743e8fc125304ace68c76d0ad8fa",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "Notepad++ DLL 劫持漏洞威胁数百万用户，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796497&idx=2&sn=ef5f2822ed2bf09e08316a154c418293",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "EvilAI 恶意软件伪装成 AI 工具渗透全球组织",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796497&idx=3&sn=674742123282b78610e9b9aaa6a8bea5",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "菜狗安全《代码审计培训》国庆优惠开启：手把手0day挖掘教学",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487288&idx=1&sn=2391c13955cf95ada76d4e02f557f9d3",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "LazyHunter：一键自动化内网漏洞侦察神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488910&idx=1&sn=4018f1a2ac9d87a04e8b0c18c0243036",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "思科爆出致命零日漏洞！超200万设备面临远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548785&idx=2&sn=aa054c301b90264d520cc220181cf976",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "iOS 0Day漏洞（CVE-2025-24085）相关PoC利用细节已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548785&idx=3&sn=8a0f252abb6440ad8f91786e2256dafb",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500728&idx=2&sn=fb9590ed3d42c2475038b4334cde99a2",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【深度技术剖析】思科全家桶曝出“重磅”RCE漏洞，从防火墙到路由器无一幸免！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901412&idx=1&sn=cb8be2d1588394e4338c331497fde97b",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "技术复盘：一次利用Pandoc SSRF漏洞攻击AWS IMDS的真实案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485101&idx=1&sn=4714e8dff415b980f83e5ec75a5b493f",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "红队攻防 | 外网打点不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514064&idx=1&sn=00c160c417e0d6bb7d64fd98979a01f5",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "诸葛连弩——非栈上格式化字符串漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485755&idx=1&sn=bba3fbb386cdd56c5cb9c4aaa17ab64b",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞预警 | JeecgBoot越权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494601&idx=1&sn=441e9a4aa8dc3175f8e3f9663421a3fc",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞预警 | 普华PowerPMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494601&idx=2&sn=c8307c99e1543e678cb9f8f7aa0f9208",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞预警 | 红帆iOffice SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494601&idx=3&sn=bb27ef9f95b0526b0d263d1c9d700341",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【工具分享】Web漏洞扫描工具Arachni",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514135&idx=1&sn=4bda57e1fcd69129ad34537a6c7e8b87",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495345&idx=1&sn=ea0bfd0d60bd28b06eff5d079b7ffcaf",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "暗网曝出日菲东印等多国UNIX服务器RCE漏洞售卖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514159&idx=1&sn=5424be577ce494803ee2afa6133b659a",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    }
+]
