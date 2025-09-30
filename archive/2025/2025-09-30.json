@@ -196,5 +196,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487217&idx=1&sn=42305c92cd949eaac54098830a25e9ef",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "干货 | 一个弱口令引起的内网渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575181&idx=1&sn=04ffc4401f7b8d226cb8004e8b45002f",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "[复现]CPU Meltdown 漏洞与论文",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484320&idx=1&sn=748d568a89418011de9e6e4d67846f24",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【高危漏洞预警】PHPGurukul Small CRM信息泄露漏洞CVE-2025-11053",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536415&idx=3&sn=d4f71e2225578d6db648256afc25b21a",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞情报 | 0 Day 某信智能公交系统 SafeDevice_Mng.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483945&idx=1&sn=a308958e88a92a2d63eb89ad82f0c2a8",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【漏洞通告】Notepad++ DLL 劫持漏洞(CVE-2025-56383)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501633&idx=2&sn=281b460794fc3e009b2cf1eda3def7cc",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
