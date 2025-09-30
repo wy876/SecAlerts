@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485141&idx=1&sn=2045808b0e1d34fdb75c2186d4b3e733",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "【高危漏洞预警】NVIDIA Triton Inference Server命令执行漏洞(CVE-2025-23316)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490812&idx=1&sn=bd4b3094ed25cd890df293afbb13e22d",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
