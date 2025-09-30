@@ -292,5 +292,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096528&idx=2&sn=35ca2a3ca753ab5b69d53ae4043a4705",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "第七期漏洞挖掘培训，我们等你。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500808&idx=1&sn=ecf0c901602ce61483ec94b079cbaf4e",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【漏洞复现】WAVLINK 路由器 WN530H4 几处命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485141&idx=1&sn=2045808b0e1d34fdb75c2186d4b3e733",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
