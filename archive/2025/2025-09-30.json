@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "某医药管理系统代码审计之水平越权",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488890&idx=1&sn=8291812a7a249c0519ca290a23d3dcd8",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
