@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532918&idx=1&sn=61f1457612bcbf4540fcbe9cb7d12cbd",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "外媒曝宇树机器人BLE高危漏洞，是首个机器人蠕虫还是炒作？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328316&idx=1&sn=7c5537c4ab53c7eb632874ee12b43a7d",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "西部数据My Cloud NAS设备存在高危命令注入漏洞（CVE-2025-30247）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328316&idx=3&sn=45ad416cf6af93a97bd2eb129d653295",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "苹果iOS字体解析组件漏洞可致进程内存崩溃或损坏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328316&idx=4&sn=32032dc870bd4b11bb834db2d04a4158",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【安全圈】CISA警告：Linux/Unix系统关键 Sudo 漏洞已被在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071967&idx=1&sn=f089083027c338dc00d3bc60c53ab23d",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
