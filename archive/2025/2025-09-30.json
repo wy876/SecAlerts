@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486515&idx=1&sn=d8ba7a406e4b9a7606fa70c48bb3993f",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞情报 | 0 Day 科汛新职教网校系统 SaveRoomGroupList 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
