@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485497&idx=1&sn=28c13a28e18974bc48d677283ebde0e3",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "漏洞预警 | Cisco IOS 和 IOS XE 软件 SNMP 拒绝服务及远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484608&idx=1&sn=be064c6f697444199c22eed8f2f4d359",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
