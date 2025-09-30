@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071967&idx=1&sn=f089083027c338dc00d3bc60c53ab23d",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "代码审计|SpringKill自研代审插件CodeAuditAssistant功能/免费授权/使用/对比/视频教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487985&idx=1&sn=165de84966b53bbebccfe7d8ac345645",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "苹果iOS字体解析器漏洞可致进程内存崩溃或损坏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096528&idx=1&sn=bde25e31cfe03116693cf5ae208e5998",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "Mware Tools 和 Aria 0 Day 漏洞被用于权限升级和代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096528&idx=2&sn=35ca2a3ca753ab5b69d53ae4043a4705",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
