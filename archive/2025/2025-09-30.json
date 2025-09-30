@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501633&idx=2&sn=281b460794fc3e009b2cf1eda3def7cc",
         "source": "Doonsec",
         "date_added": "2025-09-30"
+    },
+    {
+        "title": "谷歌披露可导致ASLR绕过的苹果漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524129&idx=1&sn=d3e853e81462370818fed2ed2fff76d4",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "Apple 字体解析器漏洞允许恶意字体破坏进程内存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601619&idx=3&sn=f1e8f76148897b416a0bb918bd30079a",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "【免费领】顶级渗透工具BurpSuite实战技术教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556464&idx=2&sn=92d2f728b1e9b67c77ac32a10c7e5c56",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
+    },
+    {
+        "title": "一个本地权限提升漏洞（CVE-2025-41244）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532918&idx=1&sn=61f1457612bcbf4540fcbe9cb7d12cbd",
+        "source": "Doonsec",
+        "date_added": "2025-09-30"
     }
 ]
