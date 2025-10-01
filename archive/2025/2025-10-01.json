@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODMzMzc5MQ==&mid=2247486667&idx=1&sn=9c85e780878924c8e114c90c5bc97e28",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "记一次简单的Jboss内网渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487987&idx=1&sn=9e368603c0ecc793f8d12a0aa3db71e0",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
