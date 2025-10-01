@@ -100,5 +100,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498341&idx=1&sn=7f56c5286e8f4ec43df3c9e797a279b5",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "Linux Kernel 6.17发布，修复 UAF 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=1&sn=51b8c7ed1d7ffcecc62b6daf7fd44e49",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "CISA警告Linux Sudo漏洞可能被利用进行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=2&sn=b68b0ccbbe5d58f2622843719c0f7396",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "渗透测试靶场资源集合",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODMzMzc5MQ==&mid=2247486667&idx=1&sn=9c85e780878924c8e114c90c5bc97e28",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
