@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=2&sn=4866cfe9c76924093aabeaac24a93cd3",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "由敏感参数到反序列化命令执行的src挖掘记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498341&idx=1&sn=7f56c5286e8f4ec43df3c9e797a279b5",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
