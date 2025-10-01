@@ -46,5 +46,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "任意文件读取&下载漏洞的全面解析及利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485370&idx=1&sn=a703e4d803fa36d58fb22449009117da",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "渗透测试之靶场pikachu安装",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=1&sn=7137d1108c3e95da0ec5e7cb1b0650a0",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "盘点Web常见漏洞，覆盖80%的渗透场景！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=2&sn=13003c5c8186ed6e3eb9affc8301b266",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
