@@ -28,5 +28,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488882&idx=1&sn=e0b89c78f548772cf2f7ec23f7f36feb",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "思科爆出致命零日漏洞！超200万设备面临远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "记一次小程序从越权到任意用户登录漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
