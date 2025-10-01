@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=3&sn=e83dc08ed6f79d4042f634d8d1041c12",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "CVE-2025-41243｜Spring Cloud Gateway SpEL表达式注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "CVE-2025-56383｜Notepad++ DLL劫持漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=2&sn=4866cfe9c76924093aabeaac24a93cd3",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
