@@ -64,5 +64,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=2&sn=13003c5c8186ed6e3eb9affc8301b266",
         "source": "Doonsec",
         "date_added": "2025-10-01"
+    },
+    {
+        "title": "内网安全漏洞有多可怕？一人失误，全公司沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "特斯拉车载通信单元漏洞使攻击者可获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=1&sn=690643e23ada06629662057fec498777",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
+    },
+    {
+        "title": "Linux内核6.17正式发布，修复高危UAF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=3&sn=e83dc08ed6f79d4042f634d8d1041c12",
+        "source": "Doonsec",
+        "date_added": "2025-10-01"
     }
 ]
