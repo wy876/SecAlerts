@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514970&idx=1&sn=3112429c7f2251ae00b095b89d35f909",
         "source": "Doonsec",
         "date_added": "2025-10-02"
+    },
+    {
+        "title": "【已复现】CVE-2025-41243",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484148&idx=1&sn=309048dea74b16a934d7458e14f345a2",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
     }
 ]
