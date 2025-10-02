@@ -34,5 +34,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488635&idx=1&sn=b1a9ed4b21e3cf0e235ac5c3216b0039",
         "source": "Doonsec",
         "date_added": "2025-10-02"
+    },
+    {
+        "title": "【漏洞速递】CVE-2025-32463 Linux 高危提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
+    },
+    {
+        "title": "IOT系列—DIR-823X路由漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
+    },
+    {
+        "title": "IOT系列—DIR-823X路由漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
     }
 ]
