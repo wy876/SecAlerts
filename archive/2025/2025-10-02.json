@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75",
         "source": "Doonsec",
         "date_added": "2025-10-02"
+    },
+    {
+        "title": "记一次edusrc超级简单的rce挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
+    },
+    {
+        "title": "思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328350&idx=2&sn=22d42b4d56669eb3ac3ee3eb2dbad4d5",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
+    },
+    {
+        "title": "从 低危 到 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
     }
 ]
