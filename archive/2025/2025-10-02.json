@@ -22,5 +22,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492897&idx=1&sn=665450f4dd3b93eb34990c7fa17418fd",
         "source": "Doonsec",
         "date_added": "2025-10-02"
+    },
+    {
+        "title": "AI编程新漏洞？一个.cursor文件夹正把你的API密钥泄露给黑客！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132",
+        "source": "Doonsec",
+        "date_added": "2025-10-02"
     }
 ]
