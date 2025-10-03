@@ -1,0 +1,26 @@
+[
+    {
+        "title": "iOS 0Day漏洞（CVE-2025-24085）相关PoC利用细节已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612574&idx=1&sn=e5e7550cd045ead884ecba638984278d",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "又是反序列化！这个CVSS 10.0的漏洞，让黑客提前一周就拿下了服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485106&idx=1&sn=fc46b71c720d6748e3b1b03478fa5fff",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "一次业务系统渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507506&idx=1&sn=48439a4b6258da7b7044a1ba0096b9af",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "XXE漏洞常见功能点总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486536&idx=1&sn=1303f7aca7f6831f0978052c790ba7f8",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    }
+]
