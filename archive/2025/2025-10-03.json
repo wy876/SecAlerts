@@ -40,5 +40,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3",
         "source": "Doonsec",
         "date_added": "2025-10-03"
+    },
+    {
+        "title": "记一次PHP代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTkwODU5Mw==&mid=2247483916&idx=1&sn=3f63d9e6baaaf3700782aa0d0d6b062e",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "VMware Workstation虚拟机逃逸漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=2&sn=e1b9d2e7a57675d9534901953c705b0e",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "Linux/Android内核零日漏洞深度分析（CVE-2025-38352）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=3&sn=38d9251ddbbb9a8f4b282c5f0ba4142b",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
+    },
+    {
+        "title": "漏洞挖掘|从edusrc转战到企业src的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
     }
 ]
