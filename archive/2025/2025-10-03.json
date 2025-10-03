@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485536&idx=1&sn=d7ed389f4b9d4215b7ff4bb852905101",
         "source": "Doonsec",
         "date_added": "2025-10-03"
+    },
+    {
+        "title": "Supermicro BMC 的两个新漏洞可使恶意固件逃避信任根安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493629&idx=1&sn=1ac73e49f24fd9ec783cdd40dff604c6",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
     }
 ]
