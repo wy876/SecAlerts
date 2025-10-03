@@ -28,5 +28,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483681&idx=1&sn=309930f4cd17044b450322d35740d442",
         "source": "Doonsec",
         "date_added": "2025-10-03"
+    },
+    {
+        "title": "【域渗透攻防系列】PTH哈希传递攻击&PTT票据传递攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247521483&idx=1&sn=79093a500345a3ef8b8d7c655086d15d",
+        "source": "Doonsec",
+        "date_added": "2025-10-03"
     }
 ]
