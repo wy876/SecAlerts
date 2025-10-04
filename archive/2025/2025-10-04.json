@@ -16,5 +16,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492836&idx=1&sn=099f6d12d799ff3f657d238ca1bb79fa",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
