@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "【已复现】CVE-2025-27225",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484158&idx=1&sn=e91aa54b7706b094eced988219ee0982",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
