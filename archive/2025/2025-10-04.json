@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498355&idx=1&sn=57662942c382a1b0672c88f789e13ade",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "TRUfusion Enterprise未授权访问漏洞复现（CVE-2025-27225）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
+    },
+    {
+        "title": "使用virtualbox在个人电脑上安装LearnCTF免费开源靶场（CTF平台/CTF靶场/CTF入门/网络安全/渗透测试）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483698&idx=1&sn=3c19a28f0c98ef8d3515112de9bde2fd",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
