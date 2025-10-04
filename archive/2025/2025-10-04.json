@@ -34,5 +34,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514246&idx=1&sn=da9ba15e53db9eb58406534054a01207",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "域渗透——哈希传递",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712520&idx=1&sn=e016349dfd6ad3ef89de268d427d7e7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
