@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483698&idx=1&sn=3c19a28f0c98ef8d3515112de9bde2fd",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "被积极利用：严重漏洞 CVE-2025-6388（CVSS 9.8）允许绕过 WordPress 插件中的身份验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
