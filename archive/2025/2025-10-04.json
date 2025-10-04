@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486417&idx=1&sn=0d5892fc9f9b94321c19e6b356b743b7",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "10亿用户记录疑遭泄露！攻击者组织入侵Salesforce并将公开数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=1&sn=e59339c0a6e3d2662425b2622b1e946f",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
+    },
+    {
+        "title": "红帽OpenShift AI高危漏洞可能导致混合云基础设施被完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=2&sn=880bd50dbdc4abd4408c11e08d2c5c39",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
+    },
+    {
+        "title": "苹果紧急推送更新修复字体解析漏洞（CVE-2025-43400）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=3&sn=86936155aa69d8d89ea89bd57810abe7",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
