@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712520&idx=1&sn=e016349dfd6ad3ef89de268d427d7e7a",
         "source": "Doonsec",
         "date_added": "2025-10-04"
+    },
+    {
+        "title": "Dell UnityVSA 未授权命令注入漏洞 CVE-2025-36604 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e",
+        "source": "Doonsec",
+        "date_added": "2025-10-04"
     }
 ]
