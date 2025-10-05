@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "Unity实时开发平台漏洞可导致攻击者执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
