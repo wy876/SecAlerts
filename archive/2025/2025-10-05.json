@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
