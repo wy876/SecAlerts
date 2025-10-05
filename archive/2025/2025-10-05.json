@@ -1,0 +1,32 @@
+[
+    {
+        "title": "外媒曝宇树机器人BLE高危漏洞，是首个机器人蠕虫还是炒作？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612593&idx=1&sn=55f6d9d8482af87a15347a3398db715e",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "从客户端 XSS-to-RCE 漏洞看electron安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485542&idx=1&sn=097c586d3ba84a97c93658e9700bc653",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "CVE-2025-20333｜Cisco ASA和Cisco FTD缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486208&idx=1&sn=ca1f76a1c784a4c51cabf43025df9c9a",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "CVE-2025-9242｜WatchGuard Firebox防火墙远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486208&idx=2&sn=f8211d881493144a6ef1e14a6ab7007b",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "渗透测试中如何利用40x",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488908&idx=1&sn=091b9daf6245a820ee5afedd899f849c",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    }
+]
