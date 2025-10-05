@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "某新版AI客服系统前台反序列化RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
