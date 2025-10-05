@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "Microsoft Entra ID 漏洞可劫持任何公司的租户",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
