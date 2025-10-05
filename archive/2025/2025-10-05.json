@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "Apple 又中刀：DNG 图像处理越界写入漏洞（CVE-2025-43300）全揭秘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
