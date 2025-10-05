@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "edusrc证书站,30分钟四张证,顶着waf RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
