@@ -28,5 +28,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488908&idx=1&sn=091b9daf6245a820ee5afedd899f849c",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
