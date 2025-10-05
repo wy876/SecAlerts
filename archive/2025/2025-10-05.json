@@ -64,5 +64,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "Unity 实时开发平台存在执行任意代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=1&sn=186b784cc0a1d8bd15d776d40e7727bf",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "Chrome 安全更新修补了允许攻击者执行任意代码的 21 个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=2&sn=ad25e25332d5535165113eb3c660f23c",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
+    },
+    {
+        "title": "【安全圈】云技术巨头 Salesforce 10亿用户记录疑遭泄露！攻击者组织入侵并将公开数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
