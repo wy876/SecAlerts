@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca",
         "source": "Doonsec",
         "date_added": "2025-10-05"
+    },
+    {
+        "title": "Nessus、AWVS、Appscan、OWASP漏洞扫描工具的区别（介绍、测试对象对比、优劣对比）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996",
+        "source": "Doonsec",
+        "date_added": "2025-10-05"
     }
 ]
