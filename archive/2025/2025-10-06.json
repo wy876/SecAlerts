@@ -22,5 +22,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488914&idx=1&sn=e30262ea1151fce1a7dbfa4bd1f1ffcf",
         "source": "Doonsec",
         "date_added": "2025-10-06"
+    },
+    {
+        "title": "CVE-2025-20362 和 CVE-2025-20333  思科 0day漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532972&idx=1&sn=9f82a679db67ff1b554ff196ec247023",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
     }
 ]
