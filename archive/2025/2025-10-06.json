@@ -40,5 +40,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b",
         "source": "Doonsec",
         "date_added": "2025-10-06"
+    },
+    {
+        "title": "Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
+    },
+    {
+        "title": "Unity引擎漏洞可导致数百万游戏面临本地代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
+    },
+    {
+        "title": "Gemini CLI 到您的 Kali Linux 终端以自动执行渗透测试任务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484651&idx=1&sn=17f3dfee8b68489940570c32d538f6b7",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
     }
 ]
