@@ -28,5 +28,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532972&idx=1&sn=9f82a679db67ff1b554ff196ec247023",
         "source": "Doonsec",
         "date_added": "2025-10-06"
+    },
+    {
+        "title": "雅虎商业平台密码重置漏洞分析与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487226&idx=1&sn=c23aeefbdbbbad583c10ceb7814af719",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
+    },
+    {
+        "title": "记某众测任意用户密码重置漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b",
+        "source": "Doonsec",
+        "date_added": "2025-10-06"
     }
 ]
