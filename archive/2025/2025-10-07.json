@@ -70,5 +70,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "将Gemini CLI集成到Kali Linux终端实现渗透测试任务自动化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=1&sn=1a05937ecbcbc26366a76948538abb81",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "可获取Root权限的Sudo漏洞PoC利用代码已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=3&sn=0328117b75806f3d9aadd7f29f91dc45",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "Windows内核CVE-2019-1215分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
