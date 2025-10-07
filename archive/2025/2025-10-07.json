@@ -28,5 +28,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
