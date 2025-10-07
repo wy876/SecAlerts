@@ -58,5 +58,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483712&idx=1&sn=66e14ce7944e07b406b406a1393a9330",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "一次简单的五千赏金漏洞挖掘记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487289&idx=1&sn=779d6d9a7beb15097450b07e3d15f377",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "高危漏洞预警: Oracle E-Business套件已发现在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
