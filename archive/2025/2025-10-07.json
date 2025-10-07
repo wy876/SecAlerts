@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "智能体的安全威胁、漏洞与潜在影响分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292626&idx=2&sn=8078fa799c4c4f167dcb577536b746a5",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "13 年前的 Redis RCE 严重漏洞让攻击者获得对主机系统的完全访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
