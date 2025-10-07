@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "Redis 服务器存在允许远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "QNAP NetBak Replicator 存在允许恶意代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
