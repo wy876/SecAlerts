@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485522&idx=1&sn=e8a90539a969bb34bad67f3124562a96",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "Phpstudy2016的php插件后门漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483709&idx=1&sn=cf428e0d04639fd194754c38ee3ad8de",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
