@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "TRUfusion Enterprise路径遍历漏洞复现（CVE-2025-27222）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484040&idx=1&sn=5c6ad0b1b0672053ea6f5b5de63b247a",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
