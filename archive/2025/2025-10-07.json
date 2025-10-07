@@ -124,5 +124,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498367&idx=1&sn=35f5eba00e0a1853982587a491b4b981",
         "source": "Doonsec",
         "date_added": "2025-10-07"
+    },
+    {
+        "title": "SillyTavern 存在高危漏洞（CVE-2025-59159，CVSS 9.7），可导致本地 AI 实例遭远程完全控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524146&idx=1&sn=66cadb75c8abec0dab8420bb573906d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "SolarWinds 发布针对严重远程代码执行漏洞 CVE-2025-26399 的修补程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "Redis高危漏洞来袭：6万台服务器或已暴露！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492098&idx=1&sn=122c792e2c90ea26b72099382a9aa8a4",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
+    },
+    {
+        "title": "Unity引擎漏洞可导致数百万游戏面临本地代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637530&idx=2&sn=aa1c3e804fc136ecbfe3d5571e845bcb",
+        "source": "Doonsec",
+        "date_added": "2025-10-07"
     }
 ]
