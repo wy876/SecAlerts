@@ -106,5 +106,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "CVE-2025-49844 (RediShell) POC概念验证脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
