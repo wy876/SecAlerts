@@ -154,5 +154,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485556&idx=1&sn=f6e6aa6bf503fd61649aae2707aaf38f",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "Linux常见提权Nday汇总",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712534&idx=1&sn=5fa704d3f2ebdb50691f0a08d854803f",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484096&idx=1&sn=e1ab07a1a5131c9ffaf64c700e63fd41",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484093&idx=1&sn=72849eb1ee77b2b49c557e54c29757c6",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484090&idx=1&sn=a1cc3e0071ca70afa61401c8729933e2",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "【DC-2 渗透实战笔记】“今年的诺贝尔奖又没有我。”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484535&idx=1&sn=392c625febf1d629ec3af0c33bd9adae",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
