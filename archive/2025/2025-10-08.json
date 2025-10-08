@@ -184,5 +184,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484535&idx=1&sn=392c625febf1d629ec3af0c33bd9adae",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "一个速度极快的内网扫描器，具备端口扫描、协议检测、指纹识别，暴力破解，漏洞探测等功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495127&idx=1&sn=eb33287605847dfc36eb676cc1f915b8",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "Redis漏洞利用总结分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712539&idx=1&sn=d522a8a2398cc7d88edcc2bc6ba3126f",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "【私人订制】渗透测试深度实战培训课程表",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484889&idx=1&sn=00ad73100bb290e824caa4e243073bb5",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "【实战导向】SRC漏洞挖掘专项提升课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484889&idx=2&sn=7da301795f7eee9a3b84e87ac45e7ed1",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
