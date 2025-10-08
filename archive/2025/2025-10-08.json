@@ -208,5 +208,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484889&idx=2&sn=7da301795f7eee9a3b84e87ac45e7ed1",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "苹果敦促用户更新iPhone和Mac以修复字体漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494955&idx=1&sn=b9195532c780e0980fb7c8d60c03b98a",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "OpenSSL修复3个安全漏洞，敦促用户立即更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494955&idx=2&sn=b5aab326e44b02f79d41708e82cb7f13",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "Redis修复存在13年的Lua漏洞，远程代码执行风险终得解决",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494955&idx=3&sn=98bf091b99a363e6552c3feae62d5188",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "GoAnywhere MFT零日漏洞遭Storm-1175组织利用，用于部署Medusa勒索软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494955&idx=5&sn=028404202a8f5ac117e825c685599d17",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "CrowdStrike确认Oracle EBS远程代码执行漏洞（CVE-2025-61882）与Cl0p勒索攻击关联",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494955&idx=6&sn=9a45bf5ca5a87487506bec4e608af703",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
