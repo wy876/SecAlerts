@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "OpenSSH 通过 ProxyCommand 执行远程代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
