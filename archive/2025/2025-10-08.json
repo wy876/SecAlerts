@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485444&idx=1&sn=c2e8d06f399555581db009aa52f812ec",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
