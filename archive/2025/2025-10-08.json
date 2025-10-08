@@ -22,5 +22,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485120&idx=1&sn=bacfc089f518df8c321159470c72cacd",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "由点到面-从事件型漏洞到通用型漏洞的发掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497782&idx=1&sn=f35163b9e19e294536b84f59d438bd7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
