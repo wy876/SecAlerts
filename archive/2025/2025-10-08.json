@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484565&idx=1&sn=7ef842db57eaa13c4b3c3fe4434edd37",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "Nagios严重漏洞CVE-2025-44823致管理员API密钥明文泄露，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=2&sn=ec86e41561a74c3e9a70168add72e18f",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
