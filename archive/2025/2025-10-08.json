@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485247&idx=1&sn=bce04c32a7d5b2b87d6ad72e735df0ac",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "【漏洞预警】Redis存在约 13 年的 (UAF) 内存损坏漏洞(CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485176&idx=1&sn=ff6f1974add7428891b8dadef3156a60",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
