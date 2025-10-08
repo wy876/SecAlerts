@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
