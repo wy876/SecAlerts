@@ -118,5 +118,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "0064. Cookie炸弹：我的第一个 1 万美元漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691074&idx=1&sn=56c01f631848e0e79b4638c5c9133a2e",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "渗透赌博网站的一天 带你看看赌博网站后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDY1MDI3OA==&mid=2247483990&idx=1&sn=1464818d34950f0265eb02e282853b1c",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "谷歌的新人工智能不仅能发现漏洞，还会重写代码来修补漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484664&idx=1&sn=a098139c7e2a394da7cb2fe0878de0d0",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "严重漏洞 CVE-2025-49844 (CVSS 10.0) 允许在 Redis 中执行远程代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485247&idx=1&sn=bce04c32a7d5b2b87d6ad72e735df0ac",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
