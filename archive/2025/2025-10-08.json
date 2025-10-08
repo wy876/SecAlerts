@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "兼具本地式与分布式优势、针对大类通用型Web漏洞、插件外部动态化导入的轻量级主被动扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495375&idx=1&sn=7610fa83354733dc3b9dd1e441c3f1a1",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
