@@ -34,5 +34,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "Oracle E-Business Suite 预认证 RCE 链漏洞（CVE-2025-61882）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "[工具分享]RTSP未授权漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484052&idx=1&sn=0b777b6f8fdb1990a6cf88fb629751e9",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
+    },
+    {
+        "title": "若依(RuoYi)框架漏洞战争手册",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
