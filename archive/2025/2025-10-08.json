@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495375&idx=1&sn=7610fa83354733dc3b9dd1e441c3f1a1",
         "source": "Doonsec",
         "date_added": "2025-10-08"
+    },
+    {
+        "title": "特斯拉车载通信单元漏洞使攻击者可获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c",
+        "source": "Doonsec",
+        "date_added": "2025-10-08"
     }
 ]
