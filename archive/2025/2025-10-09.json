@@ -442,5 +442,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486194&idx=1&sn=78f2dafd7bc04828e7e1f7c3c56cca41",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520000&idx=1&sn=54392e4ba5d06dd352762d11c5260887",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【0day】某通用系统RCE漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484184&idx=1&sn=96009f6687cfd5e7c7157326110f48b3",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
