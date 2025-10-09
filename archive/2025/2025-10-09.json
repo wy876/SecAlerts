@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488951&idx=1&sn=3709416ce1b8100a9106c5c59681b6a6",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "工联众测安全谈・安全漏洞简报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDMwNTkwNg==&mid=2247487953&idx=1&sn=cace69e35841a07bf5b5beb1af12cf88",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "一款完全开源的漏洞挖掘神器 - LoveJS",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575195&idx=1&sn=db7300da5eb0fde10dda7cae54e99505",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "kali Linux安全渗透教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575195&idx=2&sn=fab67b397e9da9f7bfa49dfaee781499",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "帽子戏法！长亭科技拿下2025年3个漏洞奖励一级贡献奖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488731&idx=1&sn=09734844dc7ece04acaa5897938ed5f6",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞预警】0day?Nday?Oracle E-Business Suite 远程代码执行漏洞（CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485183&idx=1&sn=d5574d7f30b5c0456eb0688ee2269619",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
