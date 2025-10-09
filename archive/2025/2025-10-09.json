@@ -256,5 +256,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492342&idx=1&sn=0a8c6e44a940652f6a8fc916ddc51707",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "【在野利用】Oracle E-Business Suite 未授权远程代码执行漏洞(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494883&idx=1&sn=bde1c2fcd68d07a81055c8c334d3958d",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "双重警报！黑客扮谷歌 HR 钓 Gmail，Linux Sudo 高危漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536492&idx=1&sn=fa01c5f39d30ede858e78d89e4f4d666",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "警惕！特斯拉车载漏洞可被攻，攻击者能拿 Root 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536492&idx=4&sn=e133e6f030feef0869e39ce8db6cea34",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "渗透必备！New 自动化加解密 Tools，下载链接拿走",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536492&idx=5&sn=43366e0d578bf272847fc81e59c0f026",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "CVE-2025-49844（RediShell）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488038&idx=1&sn=e0c023d89990045e83714e7f4f83954b",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞通告】Redis Lua 脚本引擎远程代码执行漏洞(CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501641&idx=2&sn=f943767480a974bacb07ac4def818bbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞通告】Oracle E-Business Suite 远程代码执行漏洞(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501641&idx=3&sn=10617ea62412e61f383972af9d2b7b45",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞挖掘文档： TURN服务器泄露利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488951&idx=1&sn=3709416ce1b8100a9106c5c59681b6a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
