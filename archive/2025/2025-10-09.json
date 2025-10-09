@@ -454,5 +454,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484184&idx=1&sn=96009f6687cfd5e7c7157326110f48b3",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "紧急警报！Redis曝13年高危漏洞，数十万实例面临接管风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516498&idx=1&sn=d5b606220b521422f1f739f7fbccfac1",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "RediShell漏洞检查软件（v1.0）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486276&idx=1&sn=aeeefc2136259106e6485722bf42d966",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【高危漏洞预警】Redis Lua脚本远程代码执行漏洞CVE-2025-49844",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490821&idx=1&sn=c0207f07beaca7ca916254aa0f7497b7",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【高危漏洞预警】Oracle E-Business Suite 远程代码执行漏洞CVE-2025-61882",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490821&idx=2&sn=59cfe49d6f8e09788dfb072309dfaf23",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "用友NC DocServlet接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489298&idx=1&sn=adddb0962bddd80474ff07325e9d5ab2",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
