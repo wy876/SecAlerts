@@ -430,5 +430,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTYyMDk5Ng==&mid=2247483701&idx=1&sn=5d4aef0747f6272ee4ba7e58725e85f1",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "某CMS后台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486196&idx=1&sn=de18a3e2d422d54ebb0227856dc17de6",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "某CMS任意文件删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486194&idx=1&sn=78f2dafd7bc04828e7e1f7c3c56cca41",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
