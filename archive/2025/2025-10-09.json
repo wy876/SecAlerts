@@ -412,5 +412,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485561&idx=1&sn=fea5a9d6f7fc7fb38e1af637ed6789ed",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞分析】用友U8Cloud < 20250924补丁版本 NCCloudGatewayServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTYyMDk5Ng==&mid=2247483728&idx=1&sn=74622bae34cbcd125fa33eafd5e01bff",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "OSCP渗透实战（第二期）：Linux系统攻防与权限提升完全指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485451&idx=1&sn=6532c20ad4006c80da177fd5e78fadb8",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "用友U8Cloud < 20250924补丁版本 NCCloudGatewayServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTYyMDk5Ng==&mid=2247483701&idx=1&sn=5d4aef0747f6272ee4ba7e58725e85f1",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
