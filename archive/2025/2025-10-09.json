@@ -484,5 +484,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489298&idx=1&sn=adddb0962bddd80474ff07325e9d5ab2",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞情报 | 0 Day 孚盟云CRM ReportShow.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483953&idx=1&sn=9605ea9ddfadfda97c1c93798f9d0a06",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "\\\"DragonForce、LockBit与Qilin\\\"——勒索软件领域浮现企图三分天下的新三角联盟",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494970&idx=3&sn=68aa3d00c9b2e11324c0454cfd254f89",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Salesforce拒绝向黑客组织支付赎金 众多企业数据面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499127&idx=5&sn=28b6830df84a41199456a13607e0600e",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
