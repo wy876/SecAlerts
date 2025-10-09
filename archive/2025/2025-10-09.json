@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Windows内核CVE-2019-1215分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612636&idx=3&sn=779d934c3b7bb878cb48c7cd2e48fa6a",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "高效渗透！Web资产存活快速验证工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612636&idx=4&sn=c77d941e5fa309a7253559279579a6bd",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Claude Code、Gemini CLI双双中招：从MCP认证缺陷到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485037&idx=1&sn=fb9d562313d489ff1285fb82bfdffa97",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "渗透篇：菠菜网站渗透，AI代码审计加文件上传拿下",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTEyMjgzMw==&mid=2247483805&idx=1&sn=a64aae89936a4e6b4472489648adc999",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "双节期间，我收到了一封高危漏洞的邮件。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491672&idx=1&sn=65604ccfd20d48b7d0e4721c554d6a13",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞分析｜分享SpringBoot 1.x版本RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497783&idx=1&sn=7f06780da8a2cd1d24314bba30f09046",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Redis 修复存在13 年的 Lua 漏洞（CVE-2025-49844），漏洞可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796512&idx=2&sn=2e836aeb606e9bebc3f606801c45506e",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "黑客利用时间操纵触发 Y2K38 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796512&idx=3&sn=c3ab079f1063171ad9d5416a3a1e3db0",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "诚聘 内网渗透测试工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506686&idx=4&sn=5e6380b45468c61f1170e39972f6f2ac",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Sirius Scan:一款开源免费的漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505578&idx=1&sn=ac1d839965c33e5fae45c2b73a8dd8cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "LockBit、Qilin和DragonForce强强联合：企图主宰勒索软件生态系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514333&idx=2&sn=9b650d5b82eacd3ee15e28519837453c",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495376&idx=1&sn=caf2180e5679fe10d326db3ed900e8cb",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "“漏洞批量验证框架”杀疯了：390个0Day POC一键扫全网，SRC睡后收洞破千枚！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492950&idx=1&sn=a3f1332bd14b34e2e74d85e2961f047a",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞预警 | Cisco IOS 和IOS XE SNMP缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494626&idx=1&sn=a321b5df08fab172eab9e4537545a9e4",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞预警 | 友数聚CPAS审计管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494626&idx=2&sn=730a9c22397b5741b15cd212f578bfac",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞预警 | 普华PowerPMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494626&idx=3&sn=fe3deb1a649dc11a6082ae2688c81b56",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    }
+]
