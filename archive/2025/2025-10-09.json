@@ -94,5 +94,95 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494626&idx=3&sn=fe3deb1a649dc11a6082ae2688c81b56",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "RediShell：Redis 中存在严重远程代码执行漏洞 (CVE-2025-49844)，CVSS 评分为 10",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503256&idx=1&sn=54783c8765dfe863900f7ee99d297f69",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞通告 | Redis Lua 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507938&idx=1&sn=304a4919dbe33568519db4c72f191943",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "记一次从Webshell到域控：一次完整的内网渗透之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484098&idx=1&sn=c1bde1dd6dad9c945c8e5a756e07ed38",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Oracle E-Business Suite远程代码执行漏洞复现(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484059&idx=1&sn=d88738041a6aa24753252c915183a94b",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "移动端高危实战：某APP组件权限漏洞可导致无交互用户劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODI3NDc4NA==&mid=2247484691&idx=1&sn=dbc816ac20959b5be925a3626d965e4d",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "谷歌推出AI漏洞赏金计划，最高奖励3万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504198&idx=2&sn=c78d9c0f9f96e064c7c994d3d3b47464",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Nagios严重漏洞CVE-2025-44823致管理员API密钥明文泄露，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504789&idx=1&sn=9bb23d26ff2b0c59838460bf613ec629",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "机器人出现“人传人”漏洞？宇树还能打好安全这张牌吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247492142&idx=1&sn=b7f7bfc523e669b81bf838d1018a069f",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "关于贝壳SRC暂停漏洞测试的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjA0OTAwOQ==&mid=2247485528&idx=1&sn=73c1e2bb889a48d879b9593b930f72ab",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "高危 Deno 漏洞 CVE-2025-61787 允许在 Windows 上进行命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485307&idx=1&sn=14ddc2664e3e6e1b96a214987fe36d8a",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "特斯拉车载通信单元漏洞使攻击者可获取Root权限 | BurpSuite插件自动解析OpenAPI/Swagger文档",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248484&idx=1&sn=e391155975fe696c50d625fff5cbc7b3",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Redis 重大远程代码执行漏洞（CVE-2025-49844），CVSS 评分 10 分",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486293&idx=1&sn=55c8ae44bd9522349c2b4d136342317d",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "后渗透-轻量级Everything实现(用于敏感文件快速定位)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjIzMDMzNg==&mid=2247484388&idx=1&sn=a97965b3ca61de1065aea6ec60acfb3f",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "警惕--Redis高危漏洞来袭：6万台服务器或已暴露！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487143&idx=1&sn=59ae22ab5825a82508bc1f9aceb618af",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "2025-10-09 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487542&idx=1&sn=e7684a64a5ff9400cb204facdc81c77b",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
