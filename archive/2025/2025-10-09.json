@@ -358,5 +358,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524136&idx=1&sn=544051e9483bc925f11c0f9ce0b6d467",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "机器人出现“人传人”漏洞？宇树还能打好安全这张牌吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247644102&idx=4&sn=a1e6d6b60e3da6d3d3837a8f055bbc2c",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞速递｜CVE-2025-49844代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501538&idx=1&sn=7d2a51b5aad9a88e4acb62359a1428ed",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "CNNVD | 关于Redis资源管理错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250525&idx=3&sn=ae35522d0c2246f8ec8cae5af54be2a0",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328513&idx=1&sn=514ea8e3ae4b44e770dcf3556955b7cb",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "赠书福利 | 《域渗透实战指南》免费送",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328513&idx=2&sn=820fed5ffd569d044dc0ad89e7ea9585",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489357&idx=1&sn=98e2a59686ec91e2d8e8296b0e2c2fe9",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞通告】Redisxa0Lua代码执行漏洞（CVE-2025-49844）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489357&idx=2&sn=09b6dba5bda13b24f9390a9e258169c8",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
