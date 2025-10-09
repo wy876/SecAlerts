@@ -208,5 +208,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503256&idx=3&sn=5dede13d1a062c1ed0c32c6a2c7d4bc2",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491613&idx=1&sn=9eed45e646c21e85823c4b298a2e1ce0",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【SRC】多个高校访客预约系统存在安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490238&idx=1&sn=b977465de25ccbbfd675751601ebe764",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484715&idx=1&sn=f6841b05cb77333df8c6d41e07445807",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "漏洞通告｜Redis Lua脚本远程代码执行漏洞（CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517548&idx=1&sn=f58a99f8a3f67ea1db509b159b4c37a0",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
