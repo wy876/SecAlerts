@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485183&idx=1&sn=d5574d7f30b5c0456eb0688ee2269619",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "【漏洞通告】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524718&idx=1&sn=8146b8fd7ef6dbe6382d5a3fa8e168ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "几种未授权漏洞的利用方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485475&idx=1&sn=ed88789db3532d3871482d9ae685ee56",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【免费领】大神12年经验成果：渗透红队实战技术教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556476&idx=2&sn=27ecbb550f5993499cc47f71acecef9d",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
