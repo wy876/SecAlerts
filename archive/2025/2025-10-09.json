@@ -184,5 +184,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487542&idx=1&sn=e7684a64a5ff9400cb204facdc81c77b",
         "source": "Doonsec",
         "date_added": "2025-10-09"
+    },
+    {
+        "title": "记一套统一密码重置通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552702&idx=1&sn=12ff31c9d9a656aca6bcf1bc25d9fcdf",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "【已复现】Oracle E-Business Suite 远程代码执行漏洞安全通告(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492964&idx=1&sn=e59c4e934ae95d74b1ca53b50431d310",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "黑客声称 Discord 漏洞暴露了 550 万用户的数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493641&idx=1&sn=9e2f937f4fe70c30d8a4e843bdc3e894",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
+    },
+    {
+        "title": "通过 SSH 代理命令注入换行符进行利用（CVE-2025-61984）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503256&idx=3&sn=5dede13d1a062c1ed0c32c6a2c7d4bc2",
+        "source": "Doonsec",
+        "date_added": "2025-10-09"
     }
 ]
