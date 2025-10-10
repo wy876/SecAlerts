@@ -184,5 +184,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491318&idx=1&sn=b654335bbfb269e767429a3b9c89e6de",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "QNAP QTS 与 Photo Station 6.0.3 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "【已复现】Linux Kernel TLS 子系统越界访问漏洞(CVE-2025-39946)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=1&sn=2d825f2627cf7c1caae7d2ecfcfddd73",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "【已复现】Framelink Figma MCP Server 远程代码执行漏洞(CVE-2025-53967)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
