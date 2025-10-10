@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485501&idx=1&sn=94452af079c438002fbf1786db980b3b",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "CVE-2024-49093（ReFS漏洞分析）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850048&idx=1&sn=aa7fe55ab2a90db58073cab9616679c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
