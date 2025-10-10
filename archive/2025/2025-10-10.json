@@ -322,5 +322,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488043&idx=1&sn=9e44a7d72eea887d5fdbd2dd8fa14a64",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "Oracle E-Business Suite 零日漏洞遭广泛勒索活动利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=1&sn=503b9d6a19714dc4da938c0db3732488",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "7-Zip 漏洞可导致攻击者远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=2&sn=65c4d0fe91c7ab688a3313e45e3baeec",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "TP-Link 路由器漏洞 CVE-2023-28760 允许通过 LAN 进行 Root RCE，PoC 可用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "0066.$$$$ 赏金事件：8 万多用户数据因注册漏洞泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691095&idx=1&sn=924ffaabd3d2cf58d91b1a0a243e9189",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "一次从受限路径遍历到 RCE 的旅程，获得 40,000 美元赏金！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490808&idx=1&sn=26e6e123b176ac307a996e56fa0d7412",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
