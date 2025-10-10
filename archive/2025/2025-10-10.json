@@ -178,5 +178,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "【CVE-2025-49844】Redis远程代码执行漏洞 (含POC)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
