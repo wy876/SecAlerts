@@ -208,5 +208,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "代码审计辅助工具v3.0更新\\\"侧写\\\"模式，上下文代码利用链枚举",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488971&idx=1&sn=e8d43a6a877da9eb8475447565902df0",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "彩虹易支付存在前台SQL注入漏洞【0.5day】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490340&idx=1&sn=1db3a1292d2e055f22ef25b67ff423ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "MIPS栈溢出漏洞实战解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490654&idx=1&sn=b86cbbabed096d627cf4e36df812872a",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789144&idx=1&sn=c3ca53c8c0cbc0c137982f8d67341bf4",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
