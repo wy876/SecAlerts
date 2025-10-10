@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519741&idx=1&sn=2ad3c5425dec8714cdfc586db513f6b4",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "【百炼靶机】Vulnhub实战：Venom靶机信息搜集、漏洞利用与提权指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY4ODk3Mw==&mid=2247484060&idx=1&sn=c7c2e018cac28496ddd238cd21e79350",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "内网渗透命令大全！看这篇就够了！·",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486579&idx=1&sn=756e1e79b6ede5a60eb8a1c8296e46e5",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "用友U8 Cloud fwd XSS漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
