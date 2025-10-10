@@ -1,0 +1,92 @@
+[
+    {
+        "title": "云安全漏洞-企业SRC预签名漏洞实战-(抽奖星球)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "好消息，明天你的渗透测试工具箱将永久改变",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514991&idx=1&sn=aadc0bc24de81955cf946cb1dc6805cb",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=4&sn=e5b4c8eba73df96eea39631c2985acf8",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "联发科技发布2025年10月安全公告，修复Wi-Fi和GNSS芯片组多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485327&idx=1&sn=3290ef998f6c44312f6284170044bc97",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "Oracle EBS 0day漏洞(CVE-2025-61882 )利用在补丁发布前两个月已开始",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796525&idx=1&sn=bdd508285bfaffd2748771f2d311d97f",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "RediShell：Redis 中存在严重远程代码执行漏洞 (CVE-2025-49844)，CVSS 评分为 10",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548884&idx=2&sn=4a7bfab6b526ace72042a7282f96154e",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "图形化后渗透信息/密码/凭证收集工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491491&idx=1&sn=b7cc5d1ceb78b425fc4ab6d97fd0ab9b",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "《5分钟从0到GetShell！溯光3β渗透框架：资产扫、指纹认、漏洞爆，AWVS/Nmap/MSF/SQLMap一键排队干活》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492991&idx=1&sn=1173a12196d5ba5ac38f0c80c4c2063a",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "GreatWall2025 | 实战攻防 漏洞利用、容器逃逸、横向移动、权限提升拿下靶标",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514109&idx=1&sn=4cee3caac931118f6f7da4925568e95e",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "主宰勒索软件市场：LockBit、Qilin和DragonForce组成三角联盟",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487077&idx=1&sn=13fd4fbe8bfe81125e7de9fd215c0c96",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "若依及其二开系统的渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488939&idx=1&sn=5bbca1aa578025ca91c9ca1e421a0891",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "漏洞预警 | PHPGurukul Small CRM SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494630&idx=1&sn=2604a77dc7eb03fb0ed7318493fa82a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "漏洞预警 | 普华PowerPMS SSRF和文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494630&idx=2&sn=43a28ccb00bcc1cf97eaea6a21cadab5",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494630&idx=3&sn=7628771a3eac144d8bfbabbc870ac774",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "医疗数据“裸奔”引警报！山东一检验公司因安全漏洞遭重罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462009&idx=1&sn=a446babb14a01de1d3f66b43d1d7903b",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    }
+]
