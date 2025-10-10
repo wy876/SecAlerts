@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498390&idx=1&sn=95f1e62cd98e2ebfd96b1b9d967b3e64",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "G.O.S.S.I.P 阅读推荐 2025-10-10 来路不明的“漏洞分析”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500786&idx=1&sn=ea2895c98c51e693beb7038c7035b4c5",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "FortiWeb SQL 注入漏洞 CVE-2025-25257",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488043&idx=1&sn=9e44a7d72eea887d5fdbd2dd8fa14a64",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
