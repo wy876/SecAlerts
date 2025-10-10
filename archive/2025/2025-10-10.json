@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "OSCP渗透实战（第三期）：Windows权限提升与内网渗透终极指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485481&idx=1&sn=a2573a504632e924aa75ec40ca315b98",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
