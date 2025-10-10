@@ -88,5 +88,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462009&idx=1&sn=a446babb14a01de1d3f66b43d1d7903b",
         "source": "Doonsec",
         "date_added": "2025-10-10"
+    },
+    {
+        "title": "文件上传漏洞全攻略：攻防与绕过实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247486246&idx=1&sn=785ee22ba83bc7d21c95ed2480eb89aa",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "命令执行(rce)靶场【文末附在线练习地址】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491455&idx=1&sn=35aef509fce15921d32ba6b80329ba13",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "实战中Java反序列化漏洞黑盒挖掘思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504859&idx=1&sn=3884ef6991aab4c7b58b2cfae87e3810",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "漏洞预警 DrayTek Vigor 路由器 mainfunction.cgi 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "漏洞预警 |流行工具Figma MCP曝RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第37期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500697&idx=1&sn=defaee8aab5981e55847e68d3947ef28",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248488&idx=1&sn=54fb913925a804873c40068efe946ca8",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
+    },
+    {
+        "title": "高效渗透 一个逆向人员必用的burp插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519741&idx=1&sn=2ad3c5425dec8714cdfc586db513f6b4",
+        "source": "Doonsec",
+        "date_added": "2025-10-10"
     }
 ]
