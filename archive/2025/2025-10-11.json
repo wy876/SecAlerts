@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517431&idx=1&sn=391a7b9e6751aa6c43ddda66d23fd808",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "13 年前的 Redis 漏洞曝光：CVSS 10.0 漏洞可让攻击者远程运行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493781&idx=1&sn=64139e5c4e44293469e5f8f53a6afcbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
