@@ -202,5 +202,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486631&idx=1&sn=869fab6a335f58461ce20b176b03a69d",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "在 Next.js 目标中挖掘 SSRF 漏洞SSRF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490818&idx=1&sn=a7dd243c606b20e0063863f6b3e5b7a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2025年10月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526458&idx=1&sn=eed2a8045d8f9970e9ac92dfa18238db",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "从0开始挖漏洞？只要你够狠，3个月就能挖到第一笔赏金！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247485071&idx=1&sn=94a22ec885e4a7773939b33a4a294662",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "登顶SWE-Bench！快手KAT-Dev-72B-Exp，刷新开源SOTA！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247497623&idx=1&sn=22acefbcfaed53a3c3144bedd3dce4de",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
