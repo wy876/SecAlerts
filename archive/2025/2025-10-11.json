@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503300&idx=4&sn=31ea1c3a1a7ced1971e0b1eceef7e442",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "Hoverfly 远程命令执行漏洞(CVE-2025-54123)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492931&idx=1&sn=ba9256a4af64c9d62fa25987fb2059e5",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第40期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463699&idx=1&sn=c7763625620c59a264df0708b019a981",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
