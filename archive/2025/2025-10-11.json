@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463699&idx=1&sn=c7763625620c59a264df0708b019a981",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "【安全资讯】苹果漏洞赏金计划升级，奖金最高超500万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494940&idx=1&sn=42cf7bafeac80e4c215bd213247d82f8",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "【已复现】Unity Runtime 参数注入漏洞(CVE-2025-59489)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494940&idx=2&sn=ee84f2bcec59464463ceafc1810b9c68",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
