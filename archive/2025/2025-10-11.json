@@ -274,5 +274,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515071&idx=1&sn=313b92caa69fc31f09fcd6e31c75b743",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "【Shadowrend 斩影 1.1】开发日志2 — 一个集成AI大模型的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzU5OTc1NA==&mid=2247484088&idx=1&sn=5d7ad21ce36ef1ddf786793656277fc3",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "苹果零点击 RCE 漏洞最高赏金翻倍，可达500多万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524150&idx=1&sn=d8a315269ae56b881c337f89557f8304",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "OpenSSL 漏洞可导致密钥恢复、代码执行、DoS 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524150&idx=2&sn=340e39d88a6552181d0f4433ab94ef67",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "GitHub Copilot高危漏洞可导致攻击者窃取私有仓库源代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328611&idx=4&sn=49fb00f2d62d0de23f0b954dcb2f6037",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
