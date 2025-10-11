@@ -64,5 +64,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494988&idx=4&sn=8434bd8dfa703ea3ab9ca405e388ab8c",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "【安全圈】Instagram 疑现严重漏洞：非密友可查看并回复“仅限密友”笔记，引发用户恐慌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072164&idx=2&sn=6501a94b6a260073aaaaeca36576e97d",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "孚盟云 AjaxBusinessPrice SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484072&idx=1&sn=2680c7ce26e17c8946036833fe84b446",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "【2025 全新】网络安全学习路线：从 0 到挖漏洞、打 CTF、护网，详细路线助你精通就业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486108&idx=1&sn=34f318d98dfca48299094e6d4a63a917",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "利用 Oracle EBS 漏洞（CVE-2025-61882）的勒索活动综合技术分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516258&idx=1&sn=35067a93c015611f3492b7f989480289",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "OSS_Scanner 一款多厂商 OSS 存储桶漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490296&idx=1&sn=83f938f466283ce10f6e811b09d3c64f",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "GitHub Copilot 的严重漏洞使攻击者能够从私有存储库中窃取源代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485342&idx=1&sn=93936b52000023c191dedb4cdc27f623",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "AI 写代码一时爽，安全漏洞火葬场？Figma 这个远程执行漏洞给我敲响了警钟！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485145&idx=1&sn=d8c73506e7cab1e7e46adaccd72c061b",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "漏洞预警 | 飞企互联FE业务协作平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494627&idx=1&sn=eb6caa0f66bb3b181cc2a3ee6e80dc64",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494627&idx=2&sn=0ca13fea9f29f6deffbcb0c12ad7f54b",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "漏洞预警 | 索贝融合媒体内容管理平台信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494627&idx=3&sn=6ea6506b51d405a576cc63bb44274805",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "Redis 漏洞 CVE-2025-49844",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488947&idx=2&sn=7e2cecb9249de59b8577eae23619910c",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "苹果官方的漏洞赏金涨价了，最高两百万刀",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485634&idx=1&sn=a52db3903c3ee01c3754f66cb4dce23c",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
