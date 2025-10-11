@@ -238,5 +238,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493703&idx=1&sn=a3645629e1a3f649fb386e5824c1dd5a",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "苹果将RCE漏洞赏金提高至200万美元以应对商业间谍软件威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328611&idx=3&sn=d95821086c0ec9c900e79ae1d878494c",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "黑客为什么不找个班上，牢里又不能赚钱，判这么多年，上班赚钱或者提交漏洞不赚更多吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjIwNTQ5MQ==&mid=2247485125&idx=1&sn=bb92f02dff637b858e03af9de9ef0d5b",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "GitHub Copilot 曝严重漏洞，攻击者可窃取私有仓库源代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601701&idx=3&sn=ea899df2ca76b7e80de827c947f156b4",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "【Shadowrend 斩影 1.1】开发日志2 — 一个集成AI大模型的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485896&idx=1&sn=c6bd9f72b8c90b6df3692c5116f0a0ab",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "新型RondoDox僵尸网络肆虐：横跨30家厂商的56个漏洞遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493152&idx=1&sn=5a2177095ef0bf5b22072e49577a60eb",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "业内最高水平？苹果宣布单个漏洞最多奖励超1400万元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515071&idx=1&sn=313b92caa69fc31f09fcd6e31c75b743",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
