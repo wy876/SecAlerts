@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328611&idx=4&sn=49fb00f2d62d0de23f0b954dcb2f6037",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "7-Zip 存在远程执行任意代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096560&idx=1&sn=5cc94b562ea75884c198d29ee3b1ebe3",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "渗透测试实战：弱口令突破系统后，信息泄露到任意用户密码重置",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483858&idx=1&sn=863c30c39b1c4b65594bc20989cdde61",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
