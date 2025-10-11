@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483858&idx=1&sn=863c30c39b1c4b65594bc20989cdde61",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "【高危AI漏洞预警】FlowiseAI权限管理不当漏洞 (CVE-2025-61913)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490838&idx=1&sn=93671bfd7a716adbefff653ef5599dd5",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "【高危漏洞预警】Grafana Image Renderer 插件文件上传限制不当漏洞可导致RCE-CVE-2025-11539",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490838&idx=2&sn=da3844b13034cd1aa787f918d3443a14",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
