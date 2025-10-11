@@ -148,5 +148,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485971&idx=1&sn=138bd167fc70e58da19e77c7c12ac29b",
         "source": "Doonsec",
         "date_added": "2025-10-11"
+    },
+    {
+        "title": "Redis已存在13年之久的Lua漏洞可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584849&idx=2&sn=8a392560240f1b87628f698877581c97",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "CVE-2025-61913 （CVSS 10.0）Flowise RCE 严重缺陷允许任意文件写入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488048&idx=1&sn=bbeed7e5f1f961f8e2f65dfbebfe0cd5",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "CVE-2025-61882：Oracle E-Business Suite 遭 Cl0p 勒索软件大规模利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503300&idx=2&sn=36b57a316e2e8ed98571c08df4dd2931",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
+    },
+    {
+        "title": "苹果将零点击远程代码执行漏洞的最高漏洞赏金提高至200万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503300&idx=4&sn=31ea1c3a1a7ced1971e0b1eceef7e442",
+        "source": "Doonsec",
+        "date_added": "2025-10-11"
     }
 ]
