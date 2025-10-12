@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "各类CMS渗透获取webshell研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712554&idx=1&sn=c780876b385447c6ef4b1c3b5996de32",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
