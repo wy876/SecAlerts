@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "渗透测试之从绕过密码强制修改到超管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
