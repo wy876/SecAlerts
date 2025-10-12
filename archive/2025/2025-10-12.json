@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "高德地图api key泄露安全漏洞处置措施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
