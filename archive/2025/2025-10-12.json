@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTg3NzQ5OQ==&mid=2247485818&idx=1&sn=74c92d44d4cb1eaad48896a8265d07f5",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
