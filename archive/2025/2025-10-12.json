@@ -58,5 +58,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712554&idx=1&sn=c780876b385447c6ef4b1c3b5996de32",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "代码审计初学者入门与心得",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489010&idx=1&sn=ea4307a2aa1b8fe57146f68a2764c074",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
