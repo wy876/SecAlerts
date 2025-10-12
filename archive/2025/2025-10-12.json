@@ -70,5 +70,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "80 个反序列化漏洞全景系列 (6) | 深入剖析特定代码场景下触发漏洞的可能性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500796&idx=1&sn=2237b751bf571f57c7188dccd6bf5625",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "内网渗透(三)：域靶场搭建",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487840&idx=1&sn=8cbacd29d3452184446d8dfd513c0bca",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "用友U8 Cloud 全版本远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
