@@ -1,0 +1,26 @@
+[
+    {
+        "title": "GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "VMware Workstation虚拟机逃逸漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "高效渗透 一个逆向人员必用的burp插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=4&sn=468ecb3546465baaf13fa4a637d56bbe",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "紧急预警！这个潜伏13年的Redis漏洞，能让黑客远程接管你的服务器！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485147&idx=1&sn=f1121e2e5b4d06a2692e8965a45ec539",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    }
+]
