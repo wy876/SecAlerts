@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "【手机号验证码&图片验证码漏洞利用总结】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048639&idx=2&sn=3aed9647a8edefd3fea9c8c538dd21b8",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "深挖 RCE：如何把微小配置错误变成可复用的远程命令执行漏洞点",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495176&idx=1&sn=125153c070fac8a5e1bc5b08520e8356",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
