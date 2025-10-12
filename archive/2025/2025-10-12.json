@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "JoplinServer 权限提升漏洞(CVE-2025-27134)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
+    },
+    {
+        "title": "src漏洞挖掘 XSS&CSRF组合拳",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
