@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "彩虹易支付存在前台SQL注入漏洞【0.5day】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
