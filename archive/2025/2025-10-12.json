@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd",
         "source": "Doonsec",
         "date_added": "2025-10-12"
+    },
+    {
+        "title": "IPsec VPN 渗透测试完全指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492564&idx=1&sn=21131198dcdbee217d66916fc94aeaaa",
+        "source": "Doonsec",
+        "date_added": "2025-10-12"
     }
 ]
