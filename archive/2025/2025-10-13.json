@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552742&idx=1&sn=8d67cab64e78739feaca384f3380242e",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "java 代码审计 - URL 跳转",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485687&idx=1&sn=e348915aa21b7054ffcd79f49a03b835",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
