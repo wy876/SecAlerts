@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484430&idx=1&sn=00a61d856a3e0e72669b9130e97c0268",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251013",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562831&idx=1&sn=6ec29b73433121fe1a53609a16d7b109",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【已复现】Linux Kernel KSMBD权限提升漏洞(CVE-2025-37947)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494951&idx=1&sn=9aded03312c329b588575ee9dd452ba2",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
