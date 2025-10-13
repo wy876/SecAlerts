@@ -124,5 +124,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483812&idx=1&sn=963cfd534b57178c3da914fdffc1d0c0",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "Phantom：SRC漏洞挖掘的页面信息收集利器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484088&idx=1&sn=fb022782d8a9f8dd4783750a6f0e621e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CTF 文件上传漏洞全解析：原理、绕过与实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486155&idx=1&sn=f4a65a1e9738bdb3274b40beac078a07",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "用友NC listUserSharingEvents sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492962&idx=1&sn=79805190dde15860005e343ccb65976c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告 （0914-0930）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136318&idx=1&sn=be9b93b440ace4ee22ea8a3ba2ebe4a5",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "GROW计划 | 第二期漏洞挖掘实战，为守护公益组织而战！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509442&idx=1&sn=926f607c53e350d0906a2b5e43edad4c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "记某SRC阿里云存储接管&企业SRC隐私合规漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497915&idx=1&sn=805847fbc50ca8f07b8a28cb125b447b",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248496&idx=1&sn=f2e49ee2cef2db54aa11a98bd83e686b",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "BYOVD进阶利用(第一部分)——联想驱动漏洞利用(CVE-2025-8061)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485804&idx=1&sn=633f7e7684a22fc047b0d2da7db3a05a",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Zer0 Sec 内部中秋EDUSRC挖掘活动！恭喜这三位“漏洞猎手”！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247486057&idx=1&sn=a8ad450193b8a90e61933d21685b842d",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "2025-10-13 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487549&idx=1&sn=69e6d311c182dfd55960b21743df9344",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
