@@ -322,5 +322,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496404&idx=2&sn=1309b5407e85c9fdd0fd8c6535ceb94c",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "一个接口到底能引发多少漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487691&idx=1&sn=8428f5830fe7cb6b3f0ece67c1ba2dbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "SDC2025 精彩议题预告 | 不同芯片架构下的可信执行环境（TEE）安全漏洞研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601924&idx=1&sn=9e13e2e13c7a31c0ba2c4b9c01f62435",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "7-Zip曝两大高危漏洞，恶意ZIP文件可触发任意代码执行，25.00版已修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601924&idx=3&sn=b8354cf97ecdc9752abb233b6827bf40",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "安全热点周报：Oracle 修复了 Clop 数据窃取攻击中利用的 EBS 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504004&idx=1&sn=bcb7b8f514decafa019a0e56f915c7e4",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "人工智能体爆出“间谍漏洞”，DeepSeek、Gemini全中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521641&idx=1&sn=39eee37da1f132aedb16844a4243144e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CVE-2025-29824 CLFS 本地提权漏洞分析以及利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488855&idx=1&sn=41cebcd37f58bd921193a31bf3b3f338",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
