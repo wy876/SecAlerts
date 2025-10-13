@@ -460,5 +460,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "隐形漏洞：未授权访问的发现与治理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485615&idx=1&sn=fd115c5af0da6819f81ba4e57b9f066b",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
