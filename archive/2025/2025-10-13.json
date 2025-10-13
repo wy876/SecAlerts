@@ -214,5 +214,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485687&idx=1&sn=e348915aa21b7054ffcd79f49a03b835",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "渗透测试 | 记某985高校单站获6本证书过程（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484331&idx=1&sn=ba94839b4abfa4c564f310445e6ba27c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "漏洞预警 CVE-2025-51281 D-Link DI-8100 缓冲区溢出拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492360&idx=1&sn=0c13d782dd823ebe8021530547294f15",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "联想-CVE-2025-8061 针对 LnvMSRIO.sys 驱动程序弹出系统 shell 的 PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533067&idx=1&sn=56efa777df95d2fe69e530634aaeaf4e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "7-Zip曝任意代码执行漏洞，需更新至25.00及以上版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182981&idx=1&sn=fd5d1c0d0dd023c54434405afdb26d1a",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
