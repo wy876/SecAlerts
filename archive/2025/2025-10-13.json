@@ -466,5 +466,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485615&idx=1&sn=fd115c5af0da6819f81ba4e57b9f066b",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
