@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182981&idx=1&sn=fd5d1c0d0dd023c54434405afdb26d1a",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "【漏洞挖掘Tips】二次上下文路径遍历攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484430&idx=1&sn=00a61d856a3e0e72669b9130e97c0268",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
