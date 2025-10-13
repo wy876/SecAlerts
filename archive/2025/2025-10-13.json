@@ -430,5 +430,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "收藏级干货！lmxcms1.4 nday漏洞全收录，一篇搞定！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492901&idx=1&sn=1bbbc1ac7fc08a48c806d435366f8f60",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "ThinkPHP 漏洞扫描工具 -- ThinkPHPKiller（10月10日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517447&idx=1&sn=687e4d1b3ddad9035493e3a1057f1a7d",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "最新Nessus2025.10.13版本主机漏洞扫描/探测工具Windows/Linux下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495179&idx=1&sn=dc5b692d24feaf7918c2226eb255c37c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Figma MCP 存在严重漏洞，可导致黑客远程执行代码 - 需立即修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493788&idx=1&sn=7c8d8a63502937436c501dd030b60ac2",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
