@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489018&idx=1&sn=0e36ebc50b722b7106496b43904d59fc",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "渗透测试之从路由拼接到拿下敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552742&idx=1&sn=8d67cab64e78739feaca384f3380242e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
