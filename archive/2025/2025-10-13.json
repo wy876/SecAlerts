@@ -292,5 +292,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510914&idx=1&sn=9b0da07c3e0eafa56dc65d01d371b16c",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "挖漏洞除了得到赏金还能有什么？我为什么要拼命挖洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247485084&idx=1&sn=46e36fa5dc449ce1c47bacf8241e784c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "2025年DNS渗透测试完全指南：被低估的攻击面",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492587&idx=1&sn=a98eb60a03e8ef93e5c14d461a83bf1e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "从在职运维到渗透测试工程师：我用6个月补全技能，实现薪资翻倍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487479&idx=2&sn=f61ddbd2a096a2beb164c6b7f89c89dd",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第38、39期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496404&idx=1&sn=401fa1faa51dca84e9566bfed4565657",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20250929-20251012)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496404&idx=2&sn=1309b5407e85c9fdd0fd8c6535ceb94c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
