@@ -256,5 +256,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494951&idx=1&sn=9aded03312c329b588575ee9dd452ba2",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "挖漏洞除了得到赏金还能有什么？我为什么要拼命挖洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486768&idx=1&sn=09a50580390d74b8b790975584050df0",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "挖一个普通漏洞，奖励200万美元；挖到特殊漏洞，奖励500万美元！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575264&idx=1&sn=fc1e33ea41e711fe97c3e35b159d6003",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "欧机场遭遇网络攻击暴露全球民航业供应链安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247538071&idx=1&sn=dcfc83502205860483120c29f0a999e4",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "VMware Workstation 危！虚拟机逃逸漏洞 PoC 代码流出",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536603&idx=3&sn=808979af3cee9b9093f003c9d8c2c83a",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "高危预警！Oracle E-Business Suite 漏洞（CVE-2025-61882）可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536603&idx=4&sn=0b18b3c1984c9c724f258ad38af3c7d1",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Redis 多个漏洞简报（CVE-2025-49844、46817、46818、46819）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510914&idx=1&sn=9b0da07c3e0eafa56dc65d01d371b16c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
