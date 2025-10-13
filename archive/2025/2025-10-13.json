@@ -1,0 +1,128 @@
+[
+    {
+        "title": "OSCP渗透实战（第四期）：Web应用渗透与OWASP Top 10漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485506&idx=1&sn=3b455dd9b375d10b4a161fedafbfeac2",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【工具分享】Web漏洞扫描工具Arachni",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484694&idx=1&sn=6d23abc45b998ccaff2f16f9c18cf5c3",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CVE-2025-11371：Gladinet CentreStack与Triofork存在未修复零日漏洞且已被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495000&idx=1&sn=40c7255571befaadef73626c8c0f9a36",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612708&idx=3&sn=1eec7ebb05fc40733a762662450de62e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【高危漏洞预警】Oracle E-Business Suite 远程代码执行漏洞CVE-2025-61882",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612708&idx=4&sn=e0a67c33131db3d46a587cf826e6bf7d",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "收藏级干货！lmxcms1.4 nday漏洞全收录，一篇搞定！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTUwMTc1OA==&mid=2247484000&idx=1&sn=5f49a3bbd1514f61f1aef1fe943c6ca8",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【工具分享】Scan-X | 基于mitmproxy高效的被动扫描器，专注于快速识别常见Web漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486819&idx=1&sn=8491a0ad4a3f8477820b5ad59cab0a79",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "7-Zip 漏洞可导致攻击者远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796541&idx=3&sn=47705ef4ce8f4505464727b2763117ed",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CVE-2025-41243浅析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247488338&idx=1&sn=dd121c55e5d8e5c29c52d80690f76830",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【SRC实战】一次不寻常的邮箱轰炸漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498877&idx=1&sn=29cabfac3b722a54bb47c1bfe3bd8a1e",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "两个 7-Zip 漏洞允许通过恶意 ZIP 文件执行代码（CVE-2025-11001 和 CVE-2025-11002）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485346&idx=1&sn=e74eb798a4b75f29d9a9c59ccb389568",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "一个现代化的网络安全练习和竞赛平台 - CyberPoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507669&idx=1&sn=aebc4d3200e56ccc8de28abd53e44a36",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "补丁发布前一天，漏洞竟然已被普遍利用了？！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184774&idx=1&sn=fa97895b18df889887bf83d70bc0a6b7",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "WhatsApp 0-Click 漏洞遭恶意 DNG 文件利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488076&idx=1&sn=5d7160b9534c381806a253ce026bbbc0",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "CVSS 9.8！Cl0p 勒索团伙疯狂利用 Oracle 0day，带你深入顶级黑客的攻击链路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485149&idx=1&sn=831df51dce1ae3d1fea6efa0bd4f1e77",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "0成本get\\\"企业级\\\"渗透平台！2025BurpSuite终极外挂包流出，支持一键伪造JA3、盲打SSRF、自动提取C2！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493058&idx=1&sn=a803c65f58ad7e1c6d49b468355bd17a",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "漏洞预警 | Notepad++ DLL劫持漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494635&idx=1&sn=7da374282927fded2ded55c8572d1591",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494635&idx=2&sn=70eb9d1cd6a60503568e43c51ace32e9",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "漏洞预警 | 用友NC反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494635&idx=3&sn=388ad9609647164492bfcdf78c92cb3d",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "攻防 | 300页 使用Shellcode进行渗透测试：检测、利用和保护网络级别和操作系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293035&idx=1&sn=06e32cfff1513423619b4d15fe1f8e9b",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Linux Kernel TLS 子系统越界访问漏洞(CVE-2025-39946）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483812&idx=1&sn=963cfd534b57178c3da914fdffc1d0c0",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    }
+]
