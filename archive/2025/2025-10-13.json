@@ -412,5 +412,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523375&idx=1&sn=475cc635ec18d34023083d3f8800c6f9",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "一次不寻常的邮箱轰炸漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520154&idx=1&sn=ef7bb30e2825ba91a8736506bfda0ec6",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【高危漏洞预警】Oracle E-Business Suite 访问控制不当可导致信息泄露 (CVE-2025-61884)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=1&sn=b002276f0a9f2802d614136c5b4e17a2",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "【高危漏洞预警】Happy DOM代码注入漏洞 (CVE-2025-61927)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
