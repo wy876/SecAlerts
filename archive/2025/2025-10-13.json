@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487549&idx=1&sn=69e6d311c182dfd55960b21743df9344",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "5分钟挖出网站漏洞的高效排查法u200bu200b",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262108&idx=1&sn=4306148813c7b01988bb2adc5775276a",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "人工智能体爆出“间谍漏洞”，DeepSeek、Gemini全中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504218&idx=1&sn=a89d6ceec564005c6d89657f3e1ed456",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "攻防想进内网？常见外网打点漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489018&idx=1&sn=0e36ebc50b722b7106496b43904d59fc",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
