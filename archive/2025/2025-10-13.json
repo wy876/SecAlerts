@@ -358,5 +358,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488855&idx=1&sn=41cebcd37f58bd921193a31bf3b3f338",
         "source": "Doonsec",
         "date_added": "2025-10-13"
+    },
+    {
+        "title": "GitHub Copilot 严重漏洞可导致私有仓库源代码被盗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524163&idx=1&sn=d70a7c55e27a3e179522330a9ce62b0b",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Juniper Networks 修复多个严重的 Junos Space 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524163&idx=2&sn=cfef545f117f95276ee5407dd826e0f2",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Microsoft Defender漏洞3个月未修复，攻击者可绕过认证并上传恶意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328683&idx=2&sn=a4bd262ae1764b235a0783f3c5d41eea",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "7-Zip两大高危漏洞可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328683&idx=3&sn=3b3733c8e44a8527366da2620403bdcd",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
+    },
+    {
+        "title": "Oracle EBS再曝高危RCE漏洞，攻击者可窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328683&idx=4&sn=f4c86b6741414b059edde6215e228f07",
+        "source": "Doonsec",
+        "date_added": "2025-10-13"
     }
 ]
