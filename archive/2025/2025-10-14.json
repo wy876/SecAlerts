@@ -304,5 +304,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494500&idx=1&sn=2da7aa0d40075b462eb27695f2da9e83",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "kawaiiの内核提权洞——CVE-2024-30088",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTMzNzgxOA==&mid=2247483761&idx=1&sn=34b8cf49ec154ad4a3eb3d2fdc062065",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "工具推荐 | 临兵漏洞自动化扫描系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496028&idx=1&sn=281d1e1deb900dff8fa1f6b35477bd7c",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "一款安全工具箱集成化利器、支持漏洞检测、配置核查、弱口令检测、漏洞跟踪、报告生成以及日志审计等核心功能模块",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495238&idx=1&sn=a9db63e0189bb152047b8883f140b6d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "普华科技-PowerPMS File.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
