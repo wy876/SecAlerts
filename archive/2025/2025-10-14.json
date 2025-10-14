@@ -256,5 +256,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487077&idx=1&sn=9adc7a4be4b7635f11145dd8271a8042",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "AI+机器人组合的Web渗透核心功能(渗透一条龙，无需任何技术，新手即可简单操作)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452515001&idx=1&sn=bc56daf3c00c8acf1bf4b68cc4f746e4",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "一次很大众的渗透测试过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486178&idx=3&sn=7b45cc418fa716944bf985f398e47cf7",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "【论文速读】|AutoPentester：基于LLM智能体的自动化渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497113&idx=1&sn=1ca20d083c62cbb86246f853745967ec",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "组组组合拳艰难渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556511&idx=1&sn=461c4155b18f5d2d4da0eae56b88c356",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "记一次某CMS最最最详细的代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490673&idx=1&sn=c2774a35eebdc05f5ac76e33ce25d21a",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "逆向党福音！这款 Burp 插件，让渗透效率直接拉满",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536670&idx=5&sn=d82c501163be41c11612f170b232bda2",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
