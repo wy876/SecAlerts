@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "黑客 Cl0p 在实际攻击中利用 CVE-2025-61882 漏洞，Oracle EBS 遭受攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493792&idx=1&sn=fe15e810c021cb77e9a99d8008238d14",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
