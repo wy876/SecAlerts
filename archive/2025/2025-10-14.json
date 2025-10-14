@@ -208,5 +208,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487039&idx=1&sn=60d03d15e4e16efeed69bcf1dbc6281a",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "Oracle E-Business Suite RCE 漏洞将敏感数据暴露给黑客，无需身份验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "黑客利用 Microsoft Edge Internet Explorer 模式访问用户的设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=2&sn=13013fc3172fb89593ae3448d8976fb0",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "【已复现】用友U8 Cloud存在远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "Oracle 紧急修复 E-Business Suite 中的新 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=1&sn=c2eb0803c0ca4694950604fde5b7811c",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "微软 Edge 浏览器的 IE 模式被用于 0day 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=2&sn=c73e1971f3cd10cc4d2672211cd10b9a",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "提升漏洞挖掘效率：AI在小程序安全中的实战应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODkyNjU4NQ==&mid=2247484014&idx=1&sn=32ebef6c5ad8066118054add9fcca97f",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "MSRPC渗透测试指南：Windows网络服务的隐秘通道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492610&idx=1&sn=1bbea39ff65de6d74996c249fab0a155",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "提升漏洞挖掘效率：AI在小程序安全中的实战应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487077&idx=1&sn=9adc7a4be4b7635f11145dd8271a8042",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
