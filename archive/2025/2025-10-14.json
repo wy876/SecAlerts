@@ -64,5 +64,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527484&idx=1&sn=8cc65a230ee636c963043a294e5bd803",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "特斯拉车载通信单元漏洞使攻击者可获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534102&idx=2&sn=f4d24eb148da4f7b80cae4740c715cbb",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "谷歌与Mandiant联合揭露针对Oracle EBS系统的勒索攻击链，曝光恶意软件与零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495017&idx=5&sn=8537ea32aa2402e3f02aa08f1c0a3d37",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "某渗透测试一次从弱口令到getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497943&idx=1&sn=bb7f05c16b5e07ada6e16e943ed25b3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "欧机场遭遇网络攻击暴露全球民航业供应链安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548912&idx=2&sn=cf9ad4d75ea4b5a7c002e1467a35c640",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "Cherry Studio 严重漏洞 CVE-2025-61929 允许通过自定义 URL 协议进行一键式 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488099&idx=1&sn=9dee88aeff0e0dd9ac8908ce8b9b0086",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "漏洞挖掘从黑盒到白盒-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487756&idx=1&sn=8d85062ba423cddd4c8cf2efcbc1f965",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
