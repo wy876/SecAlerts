@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536670&idx=5&sn=d82c501163be41c11612f170b232bda2",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "【高危漏洞预警】用友U8Cloud pubsmsservlet远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
