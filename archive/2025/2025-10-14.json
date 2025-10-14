@@ -100,5 +100,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487756&idx=1&sn=8d85062ba423cddd4c8cf2efcbc1f965",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "漏洞猎人的 CSP 绕过指南（第一部分）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507828&idx=1&sn=13284eadd874651ccf7bd81f7fe69b42",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "Web权限越权检测工具，一个功能强大的浏览器扩展程序，专门用于检测Web系统中的越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495394&idx=1&sn=bb094f7ea3e2ae68a101407afdece011",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "RMPocalypse 漏洞 (CVE-2025-0033) 绕过 AMD SEV-SNP 完全破坏加密虚拟机",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485371&idx=1&sn=224205652b79683b1768a5ecd74bd99a",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "漏洞预警 | Redis释放后重用漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494667&idx=1&sn=2c603494e4b767606167e2a65d369268",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "漏洞预警 | Flowise任意文件读写漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494667&idx=2&sn=57c90d1581ed006ba4d550408ade6a96",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "漏洞预警 | 用友NC任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494667&idx=3&sn=2d78418b2c8506396121f18421a3348f",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "0day裸奔？一键拉爆全网！开源安全军火库：IDS/IPS/WAF/蜜罐源码全家桶，从编译到打靶3分钟搞定",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493067&idx=1&sn=d9cea904a114f92240e9fb4eedd46b28",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
