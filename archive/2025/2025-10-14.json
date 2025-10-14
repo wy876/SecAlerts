@@ -142,5 +142,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493067&idx=1&sn=d9cea904a114f92240e9fb4eedd46b28",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "成果分享｜[USENIX Security 2025] CHAINFUZZ: 精准引爆软件供应链深层漏洞，告别安全警报“狼来了”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496088&idx=1&sn=98de3e854e7edc2397851e361cdaad80",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "“EDR 无懈可击”,一本书揭开它的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523383&idx=1&sn=fc843cf3641fa1fe10466169989928fc",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "Java代码审计 | JFinal CMS 5.1.0 fastjson反序列化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjkwNTUwOA==&mid=2247484063&idx=1&sn=ce86c137833eabaef366b58f98bb48e3",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "卫星通信安全漏洞的战略分析：全球网络与地缘风险视角",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503335&idx=1&sn=904286b003753d02d2bae6bc2ad04979",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "新的 Oracle E-Business Suite 漏洞可能允许黑客在未登录的情况下访问数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503335&idx=2&sn=49cec17929b4f7bab0e5e6cbc5450cdf",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "IE 0day 漏洞，微软紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503335&idx=3&sn=d29ba7743c9498006c9df2f8f95458a4",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
