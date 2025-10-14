@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504012&idx=1&sn=59353c7e20aea17614732506af837f9a",
         "source": "Doonsec",
         "date_added": "2025-10-14"
+    },
+    {
+        "title": "【安全圈】微软加强 Edge 浏览器 IE 模式安全，防止零日漏洞被滥用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=2&sn=e7a794345d050c9883b48c25239d09f4",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=3&sn=cef6d2e68c8b9dda3bb0e925eee5d2c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
+    },
+    {
+        "title": "WordPress主题和插件中的漏洞：如何保护你的网站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487039&idx=1&sn=60d03d15e4e16efeed69bcf1dbc6281a",
+        "source": "Doonsec",
+        "date_added": "2025-10-14"
     }
 ]
