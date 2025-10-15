@@ -76,5 +76,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493209&idx=1&sn=087f3cc76f2cf77ed9b0890eca407026",
         "source": "BruceFeIix",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "Traccar(Windows版本)本地文件包含漏洞复现（CVE-2025-61666）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484147&idx=1&sn=2028b43027e19328eb0946c04e44a37e",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "JeecgBoot 漏洞检测工具 -- JBscan（10月11日）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517454&idx=1&sn=ebce061d8ee11dabacbc1f196cf847fe",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "人工智能体爆出“间谍漏洞”，DeepSeek、Gemini全中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612728&idx=1&sn=55b9b426fbafbb0813f85ef5c742cd8b",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Redis已存在13年之久的Lua漏洞可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612728&idx=3&sn=ec2d7b88d3eb989228f23ce5eee20cbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527508&idx=1&sn=863c7b020643c67fc8f5d67771cb91e2",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Sudo chroot 漏洞 PoC 发布，允许本地权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796567&idx=1&sn=5e944cc92d476b86dcfd0308bd0357ae",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "2025Q3漏洞态势全解析：这些高危漏洞成为网安工作重点（文末下载报告）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650634048&idx=1&sn=d10709af93814d56ffd9b2493656a714",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
