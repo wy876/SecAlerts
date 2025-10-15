@@ -352,5 +352,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501474&idx=1&sn=c47ed65d141dcd4f0043460c01048860",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "DebuggerBypass浏览器反调试绕过与Vue路由收集插件|前端渗透辅助利器AntiDebug_Breaker",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495248&idx=1&sn=c69a8f1aa13f7af08efe79b1fc149833",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【风险通告】微软10月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490610&idx=1&sn=1d99540709a3a55f5aad270943786742",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【安全更新】微软10月安全更新多个产品高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489362&idx=1&sn=50af5de8fca510da4b414df280f976e8",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
