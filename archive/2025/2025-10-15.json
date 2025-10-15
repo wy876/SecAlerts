@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492736&idx=1&sn=03fa31a77afb104647fd2cf97e9c6c1a",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "LingJing(灵境)桌面级靶场平台新增rce-labs靶机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTY0NTMxNg==&mid=2247484077&idx=1&sn=e46ffb3cf76ab3dc9156f1f59aca9391",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.9.22-2025.10.12",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503564&idx=1&sn=c7baf7bdbfe72a767450986d63aacc6d",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "云课网校系统 localupload 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492992&idx=1&sn=c10966116311638d3d340194bddf1d19",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
