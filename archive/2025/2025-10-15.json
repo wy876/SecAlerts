@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492992&idx=1&sn=c10966116311638d3d340194bddf1d19",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "关于防范Google Chrome远程代码执行高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489315&idx=1&sn=6baf4e21ba271a01a369bad05f569ccd",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
