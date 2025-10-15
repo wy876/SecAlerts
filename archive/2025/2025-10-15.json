@@ -232,5 +232,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486604&idx=1&sn=73d4b3ff2cb02884eda7341ca6743beb",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "Sudo工具曝高危权限提升漏洞，PoC已公开（CVE-2025-32463）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328759&idx=4&sn=17fd0397356fe366e7f8ed866a23e058",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Windows远程访问连接管理器0Day漏洞披露，已被用于攻击利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601961&idx=3&sn=54d929440d9143ff1a64377e23ca19f3",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "预警丨防范Google Chrome远程代码执行高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174801&idx=2&sn=affbc4741bbba33acb5235e9a0714e3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
