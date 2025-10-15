@@ -118,5 +118,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650634048&idx=1&sn=d10709af93814d56ffd9b2493656a714",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "面向漏洞猎人和渗透测试人员的 Next.js 安全测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490868&idx=1&sn=9313599b62205f01499cf726dd051106",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "将路径遍历串联为 RCE —— Meta 的 $111,750 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507836&idx=1&sn=b09b056fd8fa782d5336b71363c95eb9",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "EDUSRC | 一个网站四个简单漏洞轻松拿下高危",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552835&idx=1&sn=f12bd9158e616a827eac1d06d85d8a4f",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "java代码审计基础-类加载机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492884&idx=1&sn=dc1f1a3112ac22b33e02868a604bdf31",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "如何巧用系统合法功能实现RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492924&idx=1&sn=068c79f65e1cdd2cebf42e478602efc0",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "BYOVD进阶攻击(第二部分)——利用CVE-2025-8061实现反射式驱动加载技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485830&idx=1&sn=4f20d18ea0455bc13d4e7d973da74e47",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "人工智能体爆出“间谍漏洞”，DeepSeek、Gemini全中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248504&idx=1&sn=e5f05f310a3e76fa5baf18eccb812b9f",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "微软10月补丁日多个产品安全漏洞风险通告：3个在野利用、9个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504015&idx=1&sn=04e87d1f4c3a6696375be5ebf37e6bc5",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Veeam Backup&Replication发现严重 RCE 漏洞CVE-2025-48983和CVE-2025-48984",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485395&idx=1&sn=c84aabab46bb86cfd9e1966396392a65",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "内推 | 深圳中广核渗透攻防岗火热招聘中",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485939&idx=1&sn=a2dbb76889be2e872c64ba310fbae394",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "xxl-job常见漏洞复现汇总",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485586&idx=1&sn=71b2ac1ea9e132a01d3ceafbab4fbc7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "SRC/渗透测试——指定目标资产收集&打点思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497971&idx=1&sn=1794b2e0541590dcd201c17fd5cd9cf7",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
