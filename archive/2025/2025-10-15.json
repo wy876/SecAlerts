@@ -370,5 +370,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489362&idx=1&sn=50af5de8fca510da4b414df280f976e8",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "ATT&CK实战框架 - Lab15｜Linux与内网多层渗透实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493042&idx=1&sn=a122b597c60a0043b587a938f59854bd",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485112&idx=1&sn=3df87307686f67faddf1cbcc6b26590d",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "黑客是如何攻破一个系统拿到想要的数据？一篇文章记录一次渗透测试实操过程教会你！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487499&idx=1&sn=284de5788b1d8730e282203d03c11ef0",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "成为顶级黑客的第一步：从零开始学习黑客渗透的完整指南（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487499&idx=2&sn=86f0a113ff4c396005c828905f0c5146",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "不知道怎么挖漏洞？吐血整理40个网络安全漏洞挖掘姿势，看完不信你还挖不到！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493721&idx=1&sn=2e00ea3256b65798438e9f969cc5fe1d",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "浙大恩特前台RCE漏洞审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556537&idx=1&sn=d7a1d8a7411f0d612a3c50b7283e04d3",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "URL解析相关漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjY0NDM3OA==&mid=2247484214&idx=1&sn=c578dc0fd1df406c1ff4a724c62ccfe5",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "全网最全的Cobalt Strike使用教程-内网渗透之信息收集篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575282&idx=1&sn=2180ffde157f5376fd25defc256cbf26",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "绝了！这份域渗透知识汇总，火了！（附下载链接）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575282&idx=2&sn=af2f356d2e261742224d954ad2f5be33",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Joomla未授权访问漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490683&idx=1&sn=71d221bde1d3415be1e010e41aa18908",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
