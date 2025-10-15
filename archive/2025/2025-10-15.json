@@ -250,5 +250,107 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174801&idx=2&sn=affbc4741bbba33acb5235e9a0714e3a",
         "source": "Doonsec",
         "date_added": "2025-10-15"
+    },
+    {
+        "title": "图创图书馆集群管理系统 DataRule_XMLHTTP.aspx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489347&idx=1&sn=bc23efa5985c7c6017e68ea4cf25c583",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "xxl-job漏洞利用之Java反弹shell（下）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMjU1ODY2OA==&mid=2247484331&idx=1&sn=eb2cf1c9da2f38f144b4a38334b8243d",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【高危漏洞预警】金和OA C6系统GroupUserSynchState.aspxSQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490859&idx=1&sn=31ca63a24a9e43f28caf53262964aa54",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【高危AI漏洞预警】Cherry Studio代码注入漏洞CVE-2025-61929",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490859&idx=2&sn=210106e8cef11a9b84f15ca9663943a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "漏洞复现 || Oracle E-Business Suite远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492727&idx=1&sn=c2842811c2150497bdd19310685e07f0",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "安全工具 || 助力企业进行安全评估与漏洞验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492727&idx=2&sn=408ae1d3b11b06cd755d9ae865f69469",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：信息收集（外围信息打点）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484817&idx=1&sn=78f3df7aff2f40f39e16c2e15dd3af3c",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【2025漏洞挑战专项第三期V1.0】白帽子集结令！火力全开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQwMjYxNg==&mid=2247483833&idx=1&sn=3fe23b591e63e8f21ec8e8f916e9bb5b",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "信息安全漏洞月报（2025年9月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463749&idx=1&sn=b3834610d1e60e0a00e2cbd083b37696",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第41期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463749&idx=2&sn=90dd1405d7e7f4e9ce481c4113288591",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "【安全圈】微软披露两项被在野利用的 Windows 零日漏洞：几乎影响所有版本系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072227&idx=3&sn=34beea57a84d1ed9725dcb5637ce2241",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "SAP NetWeaver 出现新漏洞 无需登录即可接管服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524187&idx=1&sn=7c8c5d4d69007d76c87484476c80addd",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "微软十月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524187&idx=2&sn=2160856486a6416a175e6542e8ea1394",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Windows远程访问连接管理器0Day漏洞披露，已确认用于攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328759&idx=3&sn=5a74d20877e8b2004acd4e2daf0ab700",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "微软 2025 年 10 月补丁星期二修复了 6 个零日漏洞和 172 个缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533102&idx=2&sn=8b873dd496b97aca2e0fae057aae20da",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "LingJing(灵境)靶场平台新增rce-labs靶机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492684&idx=1&sn=05cae6b05051b18b2872f7457f547430",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
+    },
+    {
+        "title": "Oracle E-Business Suite远程代码执行漏洞(含POC)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501474&idx=1&sn=c47ed65d141dcd4f0043460c01048860",
+        "source": "Doonsec",
+        "date_added": "2025-10-15"
     }
 ]
