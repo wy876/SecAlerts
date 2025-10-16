@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494961&idx=1&sn=1880136fd17b1a3513dc017f29d0ff81",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "TP-Link高危零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484919&idx=1&sn=3021983983bf63de0dc9a6ac5e76c934",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "破局网络安全学习：从“抄作业”到实战复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552868&idx=1&sn=3925cbc04116359c4ac47965d2d5926e",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "另一个 SolarWinds 事件？F5 被攻击渗透事件简要信息整理及影响分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516329&idx=1&sn=5a37291bef5900ba692652c16cbae592",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【SRC赏金】记一次SRC高危逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497995&idx=1&sn=ac1147e63b88f63d3bda03bf7959c9f5",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
