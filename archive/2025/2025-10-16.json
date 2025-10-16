@@ -328,5 +328,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498824&idx=1&sn=8978cd2834c9346656f478721bbcc534",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "JWT原理与安全漏洞总结3-算法混淆攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484448&idx=1&sn=7713b78a6cd05cc5858a9965bff78363",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463758&idx=1&sn=673b4db2c413095bc5aeee9f88846892",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【安全圈】严重 Samba 远程代码执行漏洞可导致域控被接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=1&sn=5a34cfdf31bc8b89850efd4cfa6550fa",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【安全圈】F5确认遭国家级黑客入侵：源代码与漏洞研究资料被窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=4&sn=81346e00e30be3f62ffaf1647feb94fe",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
