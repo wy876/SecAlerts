@@ -370,5 +370,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484731&idx=1&sn=f327ce0bd3a440682c2f190cac96b32e",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "工具推荐 | Swagger API漏洞自动化填充参数利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496045&idx=1&sn=a8d82501807bf5fdf0327befa9ad2e3f",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "渗透案例：SNMP配置错误导致容器逃逸与利用openssl的SUID实现权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485579&idx=1&sn=d9c89979e23c5ae619f16fbe8427206d",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "Traccar存在任意文件读取漏洞CVE-2025-61666 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489359&idx=1&sn=acecd87b31f740f12e7d0c8f0fab2dc9",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
