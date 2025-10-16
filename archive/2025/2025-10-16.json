@@ -286,5 +286,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498419&idx=1&sn=239360f5187e0b6f423b88fff1d06879",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601969&idx=3&sn=931d81402560f1c50a7db7eff3c36c1a",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【漏洞通告】Samba WINS命令注入漏洞（CVE-2025-10230）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489368&idx=1&sn=257d931862c97f2d81c3436f8c4019c7",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "F5遭国家级黑客攻击，BIG-IP源代码和0day漏洞数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515090&idx=2&sn=925f469503c1f412dd5faf0edb15b05d",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "Win10停服叠加CLFS提权漏洞加剧风险，奇安信以第三代技术克服传统防护瓶颈",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629398&idx=2&sn=874ce19a382707783aab1e0c4dc1884b",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【论文速读】| 大语言模型辅助Web漏洞PoC自动生成的系统性实证研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497123&idx=1&sn=ad084829298d6a6527873db43a608e61",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
