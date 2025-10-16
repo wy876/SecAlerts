@@ -226,5 +226,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507943&idx=1&sn=3d2e716dc29c6a695e9d7ef9dab8d558",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "JSSS-Find V6.5：接口太多测不完？AI帮你判断高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494929&idx=1&sn=c4a9c2aa73e98e3747aefa6182097877",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "红队≠渗透测试，别再混淆了!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525349&idx=2&sn=e9899449dafef9250ed9d3e1e2515ecc",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "渗透测试工程师面试题大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575294&idx=2&sn=d45d581f87b1cd9460a5fea40ef139a9",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "F5遭遇国家级黑客入侵，源代码与漏洞数据遭窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328857&idx=1&sn=d22529b1bc40a3dcb244e3fcda0b66f0",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "思科SNMP高危漏洞遭野外利用，可导致RCE并植入Linux rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328857&idx=3&sn=1407e83bb83c966732c5d279ab9ac31a",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【漏洞通告】7-Zip 目录穿越导致远程代码执行漏洞(CVE-2025-11001)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501674&idx=2&sn=4f65fb05fc0b6f6d17823e9a9ae74aa5",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【漏洞通告】Samba WINS 命令注入漏洞(CVE-2025-10230)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501674&idx=3&sn=b94faa849112d9936a28e28b23f5340a",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【漏洞通告】Veeam Backup & Replication 12 RCE漏洞(CVE-2025-48984)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501674&idx=4&sn=90346b09794f05c689fe68f6aa8b5889",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【已复现】7-Zip 远程代码执行漏洞(CVE-2025-11001、CVE-2025-11002)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504031&idx=1&sn=b9f1526384877cd7653a14852130af66",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
