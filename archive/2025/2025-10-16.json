@@ -316,5 +316,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497123&idx=1&sn=ad084829298d6a6527873db43a608e61",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "【漏洞通告】7-Zip目录遍历导致任意代码执行漏洞(CVE-2025-11001/CVE-2025-11002)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524729&idx=1&sn=4a2f3b5389705dc5f5f11d5762abec93",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "CVE-2025-59489漏洞复现：Unity游戏通用无Root注入攻击深度分析（附成品APK注入工具获取）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498824&idx=1&sn=8978cd2834c9346656f478721bbcc534",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
