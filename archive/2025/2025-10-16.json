@@ -1,0 +1,92 @@
+[
+    {
+        "title": "AI渗透测试框架使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDAwNzczNg==&mid=2247483891&idx=1&sn=000106066ba122d65230c48cb0ff1ce6",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "2025年10月微软补丁日多个高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497623&idx=1&sn=d394226228a14aeae024cf3850769816",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "我的新同事是“数字员工”之“安小龙”渗透测试功能体验大公开！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650634111&idx=1&sn=cdbe5027c12f8fa578c17a44a85dd5d7",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "攻击者利用思科 SNMP 漏洞部署 Rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796581&idx=2&sn=2a7f36237a9e29d9a54542a70865bb3f",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "F5 称国家黑客窃取源代码和漏洞数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796581&idx=3&sn=ac99568bdb72dc54c8a37dcdc36b9652",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "关于防范Google Chrome远程代码执行高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548992&idx=2&sn=fc09cf20e84e6663b11947426321d22d",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "刚打完补丁又来？Oracle EBS 0-day余波未平，新漏洞再掀波澜",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901484&idx=1&sn=ea391cf1ad6433bfa8ddefe4384db255",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "网络安全中远程漏洞与本地漏洞：有何区别？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471210&idx=1&sn=f60f1185add955486e242c40dcc88d7b",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "基于AI模型的智能代码审计、Webshell检测及流量分析研判工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495415&idx=1&sn=37696d387d1ac99993f1b96aebda298b",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "从对抗到出洞：某金融APP 实战渗透与 Frida 反检测绕过（Rpc + Flask + AutoDecoder）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514179&idx=1&sn=d3967cc38c5a7cac4dc319f05dc38760",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "《预警！K8 工具合集泄露：从 0day 到域控，全程无文件、无重启、无痕迹》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493112&idx=1&sn=048e2b7071bc5ef483c98d14bf5937d3",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "漏洞预警 | CraftCMS远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494692&idx=1&sn=316cf05d52e16d0907d74002ffd06e43",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "漏洞预警 | 普华PowerPMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494692&idx=2&sn=f38cb45096fa5485ad997d786c512880",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494692&idx=3&sn=13a1050008f8a1332735b8f2a844f00c",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "2025年Q3漏洞态势分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293117&idx=1&sn=0aff88ce125117ba372611c9fbce4694",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    }
+]
