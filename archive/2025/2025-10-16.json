@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486656&idx=1&sn=505cfc6608b5c61305def88fb43e59d2",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "新品发布 | 360自动化漏洞情报分析平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540513&idx=2&sn=beb254193a9e6f79e11bfeca215634ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "7-Zip曝目录穿越漏洞，微步OneSEC默认检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507943&idx=1&sn=3d2e716dc29c6a695e9d7ef9dab8d558",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
