@@ -364,5 +364,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485557&idx=1&sn=cba714578168c552fbda01cb8e4eb590",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "【高危漏洞预警】7-Zip远程代码执行漏洞CVE-2025-11001&CVE-2025-11002",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
