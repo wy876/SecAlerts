@@ -406,5 +406,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524350&idx=1&sn=205f07c6b9964b6c81a648f2b882fe2c",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "思科交换机曝“零迪斯科”攻击，SNMP漏洞沦为黑客持久化后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514676&idx=2&sn=53401d0aa2b11ad7b4c144a07c984528",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
