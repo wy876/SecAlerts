@@ -148,5 +148,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495048&idx=4&sn=45725a7386690c2330f9538cf4a6d15b",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "安全小知识-第八期-SSRF漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483978&idx=1&sn=6f0f78ac9526fde1cac39cc6fce63324",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "2025-10微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526961&idx=1&sn=e833f275ba9f887905c41f7879bffa14",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "普华PowerPMS OfficeService任意文件读取+SSRF漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484128&idx=1&sn=198f21a76dbcd14c603a488e83025615",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【安全事件通告】F5 BIG-IP遭国家级黑客渗透，潜在漏洞与供应链威胁，尽快采取行动！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504022&idx=1&sn=35a247360c1cb6cb718f56ef12b7e9c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "【已复现】慎用高权限7-Zip解压不明压缩包，可致远程代码执行(CVE-2025-11001/11002)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494961&idx=1&sn=1880136fd17b1a3513dc017f29d0ff81",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
