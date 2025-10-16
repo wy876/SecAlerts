@@ -88,5 +88,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293117&idx=1&sn=0aff88ce125117ba372611c9fbce4694",
         "source": "Doonsec",
         "date_added": "2025-10-16"
+    },
+    {
+        "title": "谷歌拒绝修复Gemini AI的“ASCII走私”漏洞，称其为“大模型固有问题”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252668&idx=1&sn=07f2c2885700297eaf630a33797d1f6b",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "厦门四信通信科技有限公司设备管理平台 DeviceView SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493002&idx=1&sn=c40ade739bed683cc6d61b96af79f5fd",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "F5 BIG-IP 源代码和 0day 漏洞数据遭泄露，补丁已发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524194&idx=1&sn=ab0b13f163b9168171ef5effd17379be",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "Apache ActiveMQ NMS AMQP客户端中存在严重RCE漏洞 CVE-2025-54539，允许服务器端代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485420&idx=1&sn=6b5f4ecf2fa33bffb88628f590d78dbe",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "漏洞预警 |Rockwell NAT路由器曝严重漏洞(CVE-2025-7328)可未经验证接管管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489250&idx=1&sn=feafd15f993dd50cb296fb0b3d0777cf",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "记几个edusrc中的高危Nday案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492926&idx=1&sn=02ca3d77620fec4fc633f77a30a9867f",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "内推 | 深圳中广核渗透攻防岗火热招聘中",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523397&idx=1&sn=d01cd851722b3ac559d659c9ed017c47",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "SAP修复NetWeaver平台最高严重级别漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495048&idx=1&sn=0f5e661a0aedd74ff7babc554c5782ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "某精密运作的国家级攻击者入侵F5公司系统，窃取BIG-IP源代码及未公开漏洞数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495048&idx=3&sn=add6ea405934b27e33697321b11ec73a",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
+    },
+    {
+        "title": "框架设备安全预警：20万台Linux系统预装存在Secure Boot绕过漏洞的经签名UEFI组件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495048&idx=4&sn=45725a7386690c2330f9538cf4a6d15b",
+        "source": "Doonsec",
+        "date_added": "2025-10-16"
     }
 ]
