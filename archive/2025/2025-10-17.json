@@ -352,5 +352,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522707&idx=1&sn=3fe37934161f504ed6a97232cf0c27c7",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "AI原生漏洞修复系统登场：AISLE重新定义网络防御速度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDY4MTc2Ng==&mid=2247484357&idx=1&sn=62776408d1a02953067c3f1d7c388c6a",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "JSSS-Find V6.5：接口太多测不完？AI帮你判断高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328908&idx=1&sn=69611296ad9539516219005f106747e4",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "Spring两大漏洞曝光，可导致泄露敏感信息及安全防护绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328908&idx=4&sn=afec69495639e9752973731cd1a76973",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "CISA提醒注意已遭活跃利用的 Adobe AEM 满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524204&idx=1&sn=33d5368ee92ea1a703d23d88bfbd0ee9",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "富士电机HMI配置器漏洞使工业机构面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524204&idx=2&sn=55ab5f5a450bfff9db1790025472f1a5",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
