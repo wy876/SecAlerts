@@ -394,5 +394,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "苹果把最高漏洞奖金提高到 200 万美元，发现超高危漏洞最高可拿 500 万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【高危漏洞预警】Windows Agere调制解调器驱动程序权限提升漏洞CVE-2025-24990",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490873&idx=1&sn=1d90785832deab955144843d2fa5e4cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
