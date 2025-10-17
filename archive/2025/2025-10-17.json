@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489897&idx=1&sn=8b952578c5c1781a9c9e4d483e39f74a",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "1Day-某UAS企业管理系统存在多处SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507274&idx=1&sn=dc1b14cdd3da856d29bcb577805b57ed",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "金和 JC6 PathFile XML漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493011&idx=1&sn=33086771fc76a68f64534f23d121ba65",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
