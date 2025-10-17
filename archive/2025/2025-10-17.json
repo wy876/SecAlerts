@@ -280,5 +280,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497312&idx=2&sn=898454496dbe057ec77082a11abeefd5",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "【成功复现】Traccar文件包含漏洞(CVE-2025-61666)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503633&idx=1&sn=4a7020476dc2b59974ee3c6e7c6a2068",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "Oracle 零日漏洞蔓延：数十家企业数据或被窃——企业级数据泄露防线如何重建？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MjQyODY1Mw==&mid=2648520295&idx=1&sn=cb54e48b0adc6bae3ebb76003f7f40a0",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【漏洞通告】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41253)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524732&idx=1&sn=f92d657dc3e5893a29f745c1d3787298",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【漏洞通告】Apache ActiveMQ NMS AMQP 反序列化漏洞(CVE-2025-54539)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501680&idx=2&sn=9985fe8a7b7802863ac96c3d915a5407",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "信息安全漏洞周报【第043期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064375&idx=1&sn=94a63e2194e4e7e420655e5020a3755e",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
