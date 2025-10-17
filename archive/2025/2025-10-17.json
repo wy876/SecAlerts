@@ -412,5 +412,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490873&idx=1&sn=1d90785832deab955144843d2fa5e4cd",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "[炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
