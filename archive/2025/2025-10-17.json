@@ -244,5 +244,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490979&idx=1&sn=1acea748044c3e0752ff27d600e06864",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "警报！F5 遭国家级黑客入侵，源代码与漏洞数据遭盗取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536796&idx=2&sn=40f41095542f47a4578b769977cdf78e",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "紧急！TP-Link 路由器曝漏洞：局域网能获 Root 权限，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536796&idx=5&sn=eacd6b28b92325b72b63f34fb6f65f86",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【火绒安全周报】工信部：防范Chrome高危漏洞/7-Zip曝高危漏洞建议使用火绒尽快更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526987&idx=1&sn=d0d06aafb8780bc33114bfa28339daa2",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【已复现】Windows Agere 调制解调器驱动程序权限提升漏洞(CVE-2025-24990)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504037&idx=1&sn=dfdc39cadb9fb0cf2d1b25c01962a2ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "PentestGPT自动渗透测试工具搭建与使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497312&idx=1&sn=02380f9e0dd0f812a2cbbd8822c824be",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "每周安全速递³⁶² | FBI查封BreachForums网站以打击Salesforce勒索行动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497312&idx=2&sn=898454496dbe057ec77082a11abeefd5",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
