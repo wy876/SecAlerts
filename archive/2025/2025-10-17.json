@@ -388,5 +388,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484359&idx=1&sn=cf91b77bd8c1382f9b6c4e53a144bad8",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
