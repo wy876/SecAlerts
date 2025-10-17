@@ -82,5 +82,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=4&sn=0552e8c72bedbebd288b8cfdfce9b8a6",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "Samba 存在严重RCE 漏洞 CVE-2025-10230 (CVSS 10.0)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503589&idx=2&sn=d30cdc52727ee7afcaf3c093f95e6c46",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "内推 | 深圳中广核渗透攻防岗火热招聘中",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2ODA1NjgwNg==&mid=2247483801&idx=1&sn=9f88833a7e8313ac1daedeebdc78a643",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "LockBit + Qilin + DragonForce：揭秘勒索软件三角联盟背后的技术、战术与野心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504503&idx=1&sn=16bfe38a7cbd47a1c50e65ce6b24592d",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【好靶场】打靶场，挖 SRC，1个漏洞 500+",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486447&idx=1&sn=7fc9c00aca3db45bd41054a92e8feef9",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "实战渗透：GlassFish中间件getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247486073&idx=1&sn=107dd70c292a9f59eab64fc92a3c7b77",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "内网渗透中12种常见阻碍及突破技巧实用总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484644&idx=1&sn=24543853376d79d28943b17925079bae",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "行动零迪斯科：威胁行为者利用Cisco SNMP漏洞部署Linux rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495057&idx=1&sn=576b772ef4e4db94804913b4ae71c2e3",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
