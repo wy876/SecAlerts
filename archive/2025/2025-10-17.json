@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251081&idx=1&sn=3699deab0873cc53c31ba19b25a8ebfd",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "K8s渗透入门从零到一",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552931&idx=1&sn=9c5635503cdc086fe9b27aef63c9e636",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
