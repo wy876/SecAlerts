@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Instagram 疑现严重漏洞：非密友可查看并回复“仅限密友”笔记，引发用户恐慌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087112&idx=1&sn=e23beca8f85f95ac432e1353b6bf2677",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "F5遭遇国家级黑客入侵，源代码与漏洞数据遭窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612792&idx=1&sn=6227740d76e5348843a8c657eaad9853",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "干货 | HOST碰撞漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612792&idx=3&sn=a2109d36b787f68ddb936a0dd638c20f",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "TP-Link路由器漏洞允许通过局域网实现Root权限远程代码执行，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612792&idx=4&sn=2da5b3c18347e30404e326ea2484ebff",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "墨云天查大模型自动化渗透智能 精彩亮相GITEX Global 2025",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247497097&idx=1&sn=590e3e25da11801f1bcaa7ae7fa7abd1",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "CISA警告：最高严重程度的Adobe AEM Forms 漏洞（CVE-2025-54253）遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796595&idx=1&sn=8dff0fd7c7252aef0affc91d999b247f",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "思科修复桌面电话和 IP 电话中高危 DoS 漏洞 CVE-2025-20350",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485446&idx=1&sn=eb899e34b6a72a8dcd19be0d2d7fdb06",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "Windows远程访问连接管理器0Day【漏洞】披露，已确认用于攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549034&idx=2&sn=41a4a0ed55ff06c10a062508b86a5c17",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "渗透测试之从绕过密码强制修改到超管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484727&idx=1&sn=58bc1cc94ec9f92bbf8266bbc3243e39",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "九思OA漏洞集合检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514191&idx=1&sn=794638d66219da6a0576ea96fce51a36",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞预警 | Microsoft Exchange Server权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=1&sn=f60a1294c62519b36332d893015cf790",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞预警 | 用友U8Cloud命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=3&sn=a7e3b5d210b11971edc5a03e766ec901",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞环境 | prompting",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=4&sn=0552e8c72bedbebd288b8cfdfce9b8a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    }
+]
