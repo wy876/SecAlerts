@@ -382,5 +382,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524204&idx=2&sn=55ab5f5a450bfff9db1790025472f1a5",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞复现 | cherry studio客户端One click命令执行漏洞（CVE-2025-61929）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484359&idx=1&sn=cf91b77bd8c1382f9b6c4e53a144bad8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
