@@ -310,5 +310,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064375&idx=1&sn=94a63e2194e4e7e420655e5020a3755e",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "CNNVD通报微软多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174835&idx=2&sn=29cd16984571929ef5c215d94c4dbab8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "SDC2025 精彩议题预告 | 利用大模型辅助自动化挖掘BYOVD漏洞驱动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601999&idx=1&sn=36bec5e8cb27290de651edd9acfd57d1",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "WatchGuard VPN现高危漏洞 未授权攻击者可接管设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601999&idx=3&sn=217c97c1e2d3b76f3966b763705a8b26",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "域渗透技术之委派攻击汇总（全）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247521804&idx=1&sn=bbb47875b26a132883151346095cb5d7",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "JMX反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556562&idx=1&sn=c78a786624399e081b64f711f8b6a158",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【免费领】Android App渗透实战方法大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556562&idx=2&sn=0dc62ab969ed07bac19835c4061b92f5",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
