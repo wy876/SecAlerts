@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486692&idx=1&sn=18a1e1fdf380dc675642fb6ca2b85e3a",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "RondoDox僵尸网络在全球攻击行动中针对56个n-day漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584923&idx=1&sn=c16feaada4f8dc7762929831f726ac63",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "图书馆站点几个实战漏洞小案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489025&idx=1&sn=c9ddea3bf0a16f3e0aaf7fbe7b92a322",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "（帮转）实战渗透：GlassFish中间件getshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489897&idx=1&sn=8b952578c5c1781a9c9e4d483e39f74a",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
