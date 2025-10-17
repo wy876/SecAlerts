@@ -124,5 +124,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495057&idx=1&sn=576b772ef4e4db94804913b4ae71c2e3",
         "source": "Doonsec",
         "date_added": "2025-10-17"
+    },
+    {
+        "title": "漏洞通告｜7-Zip远程代码执行漏洞(CVE-2025-11001)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517553&idx=1&sn=a6b4ef4d29b6e31e085d64ee2afc0e4a",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "0069.我的漏洞赏金方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691129&idx=1&sn=5800713ac2b0b8e7ef7f230ede2c1220",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "安全报告：宇树机器人“人传人”漏洞可被用于网络攻击和网络间谍活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504251&idx=2&sn=b28a3ccc986dceaf6402279b2bcfb93d",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【漏洞通告】7-Zip 目录遍历导致远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497628&idx=1&sn=6237bb5b7d6b8ba27f92c9686a2b00e3",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "Omnissa Workspace ONE UEM路径遍历漏洞复现（CVE-2025-25231）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484135&idx=1&sn=ed91fbb43a0439866b6a7b2476d4d7a5",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "【在野利用】一键获取本地系统最高权限！Windows Agere 驱动漏洞（CVE-2025-24990）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494969&idx=1&sn=9dcb2d1f9f7c73300cf64cba03a7659f",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
+    },
+    {
+        "title": "渗透测试报告自动生成工具 - SSReportTools",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486606&idx=1&sn=67b39a7081d2766b22b1194be83b0ef8",
+        "source": "Doonsec",
+        "date_added": "2025-10-17"
     }
 ]
