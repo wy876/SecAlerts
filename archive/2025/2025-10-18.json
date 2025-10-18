@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "Oracle 零日漏洞 CVE-2025-61882 POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247501230&idx=1&sn=3d231f3c196a02c600fc6a08aad8424c",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
