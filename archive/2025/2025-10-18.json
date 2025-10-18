@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490908&idx=1&sn=dcb87b3274ad490b8dbe1f9db195426e",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "CVE-2025-11001 或 CVE-2025-11002 漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533134&idx=2&sn=d4d1116ecb5df57cb697f1e6ab62ecfe",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575323&idx=1&sn=ee3a558310f378a2a18d3e43cf6587d2",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "金和 JC6 WebBill 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493019&idx=1&sn=ad6d89b1f16572abd9575f9a7e9a8811",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
