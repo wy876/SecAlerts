@@ -58,5 +58,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493215&idx=1&sn=d948b7df88ea4338aa92460ec709400c",
         "source": "BruceFeIix",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "全球CFO遭遇伊朗APT攻击：MuddyWater用“招聘陷阱”开启隐秘渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "CTF PWN 专项：从漏洞识别到 Shell 获取的入门实战指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
