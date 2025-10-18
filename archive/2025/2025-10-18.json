@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490206&idx=1&sn=63818ab4f94dbe8be2b235d49a63a68b",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "【安全圈】史上最高危：微软修复 ASP.NET Core 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=1&sn=7b50c69ca8fac5d7c27d667f3c6e26c0",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "【安全圈】黑客利用思科 SNMP 漏洞在交换机上部署 rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=2&sn=1f382471889e81a7e2f2c036582b8909",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
