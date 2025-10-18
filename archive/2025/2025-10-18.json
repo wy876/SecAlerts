@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247484762&idx=1&sn=ad139e3444784c6a8d74d5709422eda1",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "RealVul: 基于大语言模型训练微调的PHP漏洞检测框架深度解析安全工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "记一次攻防渗透集锦-JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520663&idx=1&sn=6c78209492684314d18183049eb615a1",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "CVE-2025-11001分析复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
