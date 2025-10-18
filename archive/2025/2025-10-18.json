@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247501230&idx=1&sn=3d231f3c196a02c600fc6a08aad8424c",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493169&idx=1&sn=3be546072b3b09faf2e9c207e90d86a2",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "7-Zip 符号链接漏洞深度剖析：三重绕过链导致的路径遍历 (CVE-2025-11001)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490908&idx=1&sn=dcb87b3274ad490b8dbe1f9db195426e",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
