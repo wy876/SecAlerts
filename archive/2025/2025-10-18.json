@@ -112,5 +112,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493019&idx=1&sn=ad6d89b1f16572abd9575f9a7e9a8811",
         "source": "Doonsec",
         "date_added": "2025-10-18"
+    },
+    {
+        "title": "FreeBuf周报 | F5确认源代码与漏洞数据遭窃；中国金融科技企业遭恶意LNK文件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=3&sn=222228fe25202b9d14b26a9595092520",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "AI | 利用LLM+MCP服务辅助BYOVD漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490206&idx=1&sn=63818ab4f94dbe8be2b235d49a63a68b",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
     }
 ]
