@@ -1,0 +1,50 @@
+[
+    {
+        "title": "AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "Rce-labs通关记录（上）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "记一次渗透靶机的全过程——DC-4篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483907&idx=1&sn=a1b6adfab8ef089c3255ec73deb8125d",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "漏洞预警 | 用友NC XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "漏洞预警 | 普华PowerPMS信息泄漏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "工具 | rce-labs",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    },
+    {
+        "title": "指纹+PoC双杀！查守卫observer_ward热更新军火库，0day发布5分钟进靶标10万站点一夜扫光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28",
+        "source": "Doonsec",
+        "date_added": "2025-10-18"
+    }
+]
