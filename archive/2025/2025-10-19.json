@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
+    },
+    {
+        "title": "Microsoft Defender 漏洞允许攻击者绕过身份验证并上传恶意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
