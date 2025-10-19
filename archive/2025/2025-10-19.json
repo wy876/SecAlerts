@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "7z 远程代码执行exp CVE-2025-11001",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
