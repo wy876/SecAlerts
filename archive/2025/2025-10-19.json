@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "CVE-2025-59287 WSUS 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
