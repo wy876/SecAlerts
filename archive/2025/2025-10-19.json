@@ -88,5 +88,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "CVE-2025-49144 PoC 供安全研究人员测试和尝试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
+    },
+    {
+        "title": "CVE-2025-59287 — WSUS 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
+    },
+    {
+        "title": "CVE-2025-8941：Linux-PAM 中的严重权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
