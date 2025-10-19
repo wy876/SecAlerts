@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328929&idx=3&sn=1d97252ebf7f1bb3610a8af109b34f06",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "基于LLM的Web漏洞PoC自动生成探索",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
