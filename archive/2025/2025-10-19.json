@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e",
         "source": "Doonsec",
         "date_added": "2025-10-19"
+    },
+    {
+        "title": "深度解析 7-Zip CVE-2025-11001 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d",
+        "source": "Doonsec",
+        "date_added": "2025-10-19"
     }
 ]
