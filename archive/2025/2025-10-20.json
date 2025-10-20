@@ -202,5 +202,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494978&idx=1&sn=4cef61f8eb8fb7544da69693e06e0e75",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "渗透测试代理池获取，IP被封了换个代理再测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489072&idx=1&sn=6baa9158e02698c26c4f610ab1362ff7",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "CVE-2025-55315 漏洞复现：ASP.NET Kestrel HTTP 走私漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485872&idx=1&sn=97c194f27f17aa1f4fbfdf0b5dc676c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "2025年渗透测试工具Top 30全面解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487148&idx=1&sn=4da0b41d9da371d0fcf9ea8f7b51ae0f",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.10.13-2025.10.19",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503573&idx=1&sn=b1804f5bbedd5df6f1c11e86283cc637",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
