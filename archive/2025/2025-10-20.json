@@ -334,5 +334,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "sql注入bypass与poc大总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "工具推荐 | 最新开源多人协作红队渗透框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496063&idx=1&sn=01a7127748cbdca771450184a337c36a",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【高危漏洞预警】Linux内核af_alg写入漏洞(CVE-2025-39964)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
