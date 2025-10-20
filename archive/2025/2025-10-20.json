@@ -316,5 +316,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495027&idx=1&sn=89cf18d9e21d91ecfcf0134cc9b0613f",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "CVE-2025-59230正在被利用 Windows 远程访问连接管理器中的 0 day 漏洞发起持续攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
