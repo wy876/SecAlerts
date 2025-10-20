@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536866&idx=4&sn=bfee1fd8e4adee8a00cca5a46683bebb",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "Move 安全吗？Typus 权限验证漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503567&idx=1&sn=153bb0499f61ea8afb5470e47b27dbd5",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第40期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496424&idx=1&sn=5fe9a6e895e6233b3421de7dd56b7dc4",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251013-20251019)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496424&idx=2&sn=d0af4531ef2fe3c5f51c638b171a4cbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
