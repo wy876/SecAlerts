@@ -226,5 +226,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503573&idx=1&sn=b1804f5bbedd5df6f1c11e86283cc637",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "看懂“授时中心被黑”的整件事：一条从手机到电脑的隐蔽渗透链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487529&idx=1&sn=90703cba18a27a139baae7e5eab16a2c",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "阿里P7安全工程师私藏的渗透实战笔记（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575347&idx=2&sn=610fd8beb14613eef95f03389f457579",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "紧急！7-Zip 曝两大高危漏洞，恐被植入恶意代码执行任意操作",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536866&idx=4&sn=bfee1fd8e4adee8a00cca5a46683bebb",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
