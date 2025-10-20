@@ -1,0 +1,146 @@
+[
+    {
+        "title": "2025-10-20 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487652&idx=1&sn=c55f3c830a748a17f174582b77e15664",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "时间的战争：美国NSA如何对中国“心脏”进行长达两年的静默渗透？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjU4NA==&mid=2247485854&idx=1&sn=ffef22d6823a6e5be7d602902a14ddda",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "一处关键的WatchGuard Fireware漏洞可能允许未经身份验证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495075&idx=2&sn=8ced31f4abfb8c9e9aebc4fc35be86d8",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "细节公布！美方网攻我国授时中心过程公布，利用某国外品牌手机漏洞，秘密监控工作人员",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534208&idx=1&sn=dbfb93b8a0d6460b24924b908bdd2178",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "某思OA漏洞检测工具 -- JiusiOAExploitTool（10月15日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517483&idx=1&sn=a53057c39ded7f624d2c20da21fa5f25",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "苹果将RCE漏洞赏金提高至200万美元以应对商业间谍软件威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612812&idx=2&sn=bb05b4ce0722071dedadecff0fe5366c",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "Web权限越权检测工具，一个功能强大的浏览器扩展程序，专门用于检测Web系统中的越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612812&idx=4&sn=76040bbead8167051f86b19ff940a8ad",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【渗透测试】AntiDebug 未授权访问杀手！嘎嘎稳！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491691&idx=1&sn=d5e4a4cb09b5ce7fa609f6fccee25bcf",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "科大讯飞招聘企业蓝军-内网渗透、逆向分析、安全解决方案等岗位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506965&idx=1&sn=f5ca423b82fafacfe6406ee892ae702f",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【渗透测试】手把手带你玩转SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498051&idx=1&sn=8f69f22e48650d162cc3db9321e81427",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "实战必备！30 个任意文件下载漏洞挖掘技巧！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484763&idx=1&sn=f11ce2b2718ceb7c709b81469d67db94",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "Moxa 严重漏洞（CVE-2025-6950，CVSS 9.9）允许未经身份验证的管理员通过硬编码 JWT 密钥进行接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485467&idx=1&sn=79ea897aa9a945172416d1ef748e1334",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500842&idx=2&sn=46ba9dab18ebea08f1e783f6031f0ac5",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "0day | 某在线拍卖系统代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507792&idx=1&sn=cb3b94a89b4114d0e3cd3f2ff39d5e13",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "苹果手机已知被利用并被用于黑客/间谍软件攻击漏洞列表",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjgxNTQ1MA==&mid=2247488528&idx=1&sn=a5f5345a7a695233f68ca0a95ed4d5ed",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "多数据库安全评估工具，支持xa0PostgreSQL、MySQL、Redis、MSSQLxa0等多种数据库的后渗透操作",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514200&idx=1&sn=5c163d517d66c9861799c27fd392156e",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【技术分享】从渗透到逆向还原攻击过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODY2ODA0OA==&mid=2247486075&idx=1&sn=fd87e8135d0acc3a7f6030b899d7295a",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "搞安全的注意了！AMD EPYC 全线中招，黑客窃密成功率100%的漏洞来了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485180&idx=1&sn=1dca48c2237e9dbb04c35ca4b96a8fc9",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "不止是打补丁！从SAP最新高危漏洞，看大神们如何玩转JVM纵深防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901488&idx=1&sn=26c4a28928f03c511385be7e67ef2aa2",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "漏洞赏金指南之条件竞争漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDg3NTc1Mg==&mid=2247485013&idx=1&sn=7b013a05957be371c39a8ed6fd9a6f7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "漏洞预警 | 7-Zip目录穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494709&idx=1&sn=89697d9e7983c15b26a963aef813be59",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494709&idx=2&sn=279d0dcf7ef1bfe62dbc7f93edee6bb3",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494709&idx=3&sn=e8cd6a3da864c5960b09fff1578c8229",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "河南舞钢市一学校数据泄露事件查明：系统漏洞致个人信息遭窃，校方被行政处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462048&idx=1&sn=712dbbce4606131ae14decc93353bc9e",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    }
+]
