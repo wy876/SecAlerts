@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494026&idx=1&sn=dae0aff96ff158fa5b1ffec25082e17d",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "Zimbra 紧急修复 Chat Proxy 配置中的严重SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524221&idx=2&sn=098a25797ac4273cffca0263a429835e",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
