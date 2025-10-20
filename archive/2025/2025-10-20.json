@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493030&idx=1&sn=e228ee7c07ffae2d64f956cf5f84e8ad",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "严重的RasMan本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484943&idx=1&sn=a081d66c400039ce22f9266e211fd0f3",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "JavaSec | hibernate组件的反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552982&idx=1&sn=5ca622d2b100e26221c8d8087747a7a7",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
