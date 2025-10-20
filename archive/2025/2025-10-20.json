@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487520&idx=2&sn=77012bc28725cc7535a20477bb814af4",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "海外平台HackProve冠军亲述：那些被忽略的漏洞如何助我登顶？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328981&idx=1&sn=2ef2d05a40d0570968e979e43c6fcfcd",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "广州大学 | Tor匿名性漏洞：Trapper攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494026&idx=1&sn=dae0aff96ff158fa5b1ffec25082e17d",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
