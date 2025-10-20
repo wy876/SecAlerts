@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462048&idx=1&sn=712dbbce4606131ae14decc93353bc9e",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "Gladinet CentreStack 和Triofox本地文件包含漏洞复现 (CVE-2025-11371)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484155&idx=1&sn=90d53f69c9da36c503e19085b8d105c9",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "EvertzSDVN3080ipx 10G 远程命令执行(CVE-2025-4009)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493030&idx=1&sn=e228ee7c07ffae2d64f956cf5f84e8ad",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
