@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
