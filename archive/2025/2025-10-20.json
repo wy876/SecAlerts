@@ -166,5 +166,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552982&idx=1&sn=5ca622d2b100e26221c8d8087747a7a7",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "安全动态回顾|NVDB提示：防范Google Chrome远程代码执行高危漏洞风险 微软10月补丁星期二修复172个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584945&idx=3&sn=f4cee4486163f443d00ace287dc638d5",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【已复现】漏洞预警 | Cherry Studio客户端命令执行漏洞（CVE-2025-61929）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484622&idx=1&sn=f534617ce3cd87e323f7c00ee14f918d",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "一级贡献！斗象在我国网络安全漏洞治理工作中发挥积极作用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=1&sn=453f79a488bb6fabaae2e877f1533233",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "做好漏洞报送“排头兵”，斗象再登CNVD年度多项表彰榜单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=2&sn=c1f7e686a511429b62ad73e5179d529c",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
