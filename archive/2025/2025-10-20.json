@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534700&idx=2&sn=c1f7e686a511429b62ad73e5179d529c",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "Android 渗透测试实战——TikTok  rce远程代码执行案例分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507865&idx=1&sn=9a7e2c8b3d86ae77d74727b030de938d",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "【首发复现】Linux 内核 ALG 模块越界访问漏洞(CVE-2025-39964)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494978&idx=1&sn=4cef61f8eb8fb7544da69693e06e0e75",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
