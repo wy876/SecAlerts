@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524221&idx=2&sn=098a25797ac4273cffca0263a429835e",
         "source": "Doonsec",
         "date_added": "2025-10-20"
+    },
+    {
+        "title": "数据安全警钟再响！一文旅公司因安全漏洞被罚15万元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "JS逆向新思路：从调用链分析绕过单次请求校验（记一次越权漏洞挖掘）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487094&idx=1&sn=f73d456485795a59dc286fc14585136f",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
+    },
+    {
+        "title": "海外平台HackProve冠军亲述：那些被忽略的漏洞如何助我登顶？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495027&idx=1&sn=89cf18d9e21d91ecfcf0134cc9b0613f",
+        "source": "Doonsec",
+        "date_added": "2025-10-20"
     }
 ]
