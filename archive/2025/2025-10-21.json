@@ -10,5 +10,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493219&idx=1&sn=bee7fe906d4e3d6752b5d060730202f7",
         "source": "BruceFeIix",
         "date_added": "2025-10-21"
+    },
+    {
+        "title": "渗透测试之信息收集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjYxMDM4MA==&mid=2247484138&idx=1&sn=c732be763ae2ea229841cfca307de298",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329037&idx=2&sn=ffb7c25d01ffa159c7395e97aa0c1b19",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "Windows SMB漏洞遭野外利用（CVE-2025-33073），可导致权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329037&idx=4&sn=8147222376e5ae2912a14b57969ca57f",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "CVE-2025-8078：通过 CLI 命令注入实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533164&idx=1&sn=68b1ae5ffecc729c645c10f87ae6b87c",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "自主式AI安全漏洞来袭：确保企业无忧的七道防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260517&idx=1&sn=8ac8240d76afd48a97790101e0fd9354",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0930-1011）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136357&idx=1&sn=9cdf21f805b13ebac4db33f27f3e793f",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "404新书再上新：《Web漏洞分析与防范实战（卷2）》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991023&idx=1&sn=5393554cd8d52f0c4e9cd7cb85f75ffe",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "金和OA DownLoadBgImage.aspx任意文件读取漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484161&idx=1&sn=0a34f25e0835f73c5c948333630717bd",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612834&idx=4&sn=c21b39967ca139efe5eedccc9f97928e",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "安全从业者的必读书单推荐！《Web漏洞分析与防范实战（卷2）》新书重磅来袭",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872702&idx=1&sn=c75e798887c6f46bf547ebe63653ef45",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "一个被无数程序员忽略的致命漏洞：Cookie注入竟能打出RCE！(CVE-2025-2611深度复盘)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901502&idx=1&sn=9d95f4646f59cc406e7ceab97aa6d274",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "公安部第三研究所招聘：渗透测试工程师、网络安全测评工程师、数据安全工程师、安全服务工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293248&idx=1&sn=6742e3cc14ac78becbb083aaa8620494",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
     }
 ]
