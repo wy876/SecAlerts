@@ -82,5 +82,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293248&idx=1&sn=6742e3cc14ac78becbb083aaa8620494",
         "source": "Doonsec",
         "date_added": "2025-10-21"
+    },
+    {
+        "title": "保险代理后台“裸奔”酿祸！系统漏洞致敏感数据遭遍历窃取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462058&idx=1&sn=38fa812e9a984193e3d63cfc5a1c74ec",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "教育SRC挖洞“寻宝图”：从信息搜集到漏洞利用的超详细指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484902&idx=1&sn=dec21b2c0e2fad299a92d8e1472b4839",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "【高危漏洞预警】金和OA BookUpdate.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490886&idx=1&sn=50d2373ea4ed23fd8fcf8a025df10308",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "【高危漏洞预警】用友NC OAUserQryServlet反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490886&idx=2&sn=b382bf34f8f5e6a4312410d50f2c7aaa",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "ConnectWise 修复 Automate RMM 工具中的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524236&idx=1&sn=bbcaf3e185a9aa4e032908ad76311c67",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "杜比解码器存在高危漏洞，可用于零点击攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524236&idx=2&sn=4113a3b94c7aab71d9c45a1a26aae7cf",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "价值100万美元的WhatsApp 0点击远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501497&idx=1&sn=b014d1ac388a654d1c0ca77cc0e0c26e",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "杜比解码器0-Click 漏洞可通过 Android 上的恶意音频发起 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796623&idx=2&sn=70ad6f02ab395a605a5a35f6aae21162",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
+    },
+    {
+        "title": "某渗透项目遇到(国密)SM4加密之实战逆向",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484011&idx=1&sn=635208b6c852f0a1996c7c41d0df1deb",
+        "source": "Doonsec",
+        "date_added": "2025-10-21"
     }
 ]
