@@ -226,5 +226,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483691&idx=1&sn=62d9cd321b7067dbf36c6b35d227df0b",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "DudeSuite进阶版：从漏洞验证到抓包重放，让渗透测试更顺畅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329104&idx=1&sn=0e3cfcfa07c9d32896f7daf0c30957c7",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "TP-Link Omada网关曝高危漏洞，无需认证即可远程执行命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329104&idx=3&sn=9e51800fbacfb37649c7aa7ce20887dc",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "Microsoft 365 Copilot提示注入漏洞可导致攻击者窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329104&idx=4&sn=7ba0b99b0ecb99335c4ee1cd588d382d",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "ChaMd5安全团队《物联网漏洞挖掘与利用》来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTkyODI0OA==&mid=2247529292&idx=1&sn=9bf4f3dcac103160c20f75de9eba1d36",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "TP-Link：注意 Omada 网关中严重的命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524245&idx=1&sn=4a7bd30edd225c7c61e25759686c43ba",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "AI驱动安全未来 | 🤖腾讯云黑客松-智能渗透挑战赛开战！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528185&idx=1&sn=2844e030c568fa1ec25596b1e945384f",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "edu漏洞挖掘实战：三个典型案例的思路分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523484&idx=1&sn=df16b7ce48c3cd4f9cd191a265de62b7",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
