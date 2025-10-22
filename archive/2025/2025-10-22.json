@@ -1,0 +1,92 @@
+[
+    {
+        "title": "CVE-2025-32463 Linux 中通过 Sudo chroot 将本地权限提升至 Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488184&idx=1&sn=ceabf6c1f30469ef574e46e410bb7c65",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "借助DeepSeek从漏洞挖掘的角度分析fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498114&idx=1&sn=afe22eb1ebfd281a97e190d9a0c3ac9c",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "Oracle 2025年10月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504052&idx=1&sn=c0c2fb24b3ace61f29b420bda25af2b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "JeecgBoot积木报表综合漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495477&idx=1&sn=5823e788adf04ce85b8b65f053d89cfd",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "ChaMd5安全团队《物联网漏洞挖掘与利用》来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247513526&idx=1&sn=16a08bc24438af6fd0d63aca4b67ab3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "漏洞预警 | Samba命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494724&idx=1&sn=dd3705c19e60274f9e7351044aeb38f9",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494724&idx=2&sn=03f09bf18f8be4cbdf18eebab25961cf",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494724&idx=3&sn=31fc4fb44a4b75a6371573b95885210e",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "把前端底裤一键扒光！这款Burp外挂让加密JS原地裸奔，逆向仔从此带挂渗透！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493252&idx=1&sn=519a1b8da9c502a6061964fbe987b896",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "微软预警：GoAnywhere 关键漏洞遭勒索软件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493811&idx=1&sn=adad479b523accb34401d4ec111c5983",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "工具推荐 | 高效便捷的图形化Nuclei GUI POC管理工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496070&idx=1&sn=b74b81486a44c1cec065954dff777e88",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "代码审计还在硬看？IAST动态扫描让甲方代码审计提效三倍！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjY0NDM3OA==&mid=2247484231&idx=1&sn=cd6cd20acc8a2e0d774ecd07a3c4f374",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495065&idx=1&sn=0bb338e1e155da007ab9ad78e4fb3812",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "记一次edusrc超级简单的rce挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485651&idx=1&sn=b266a759e417c634c2d5031bae856571",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "【已复现】Linux Kernel本地提权漏洞（CVE-2025-39682）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494995&idx=1&sn=2ae02fd7bcfd87315652e4c2145422b1",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    }
+]
