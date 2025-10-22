@@ -154,5 +154,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484167&idx=1&sn=17976dd2aca37a82ff26c8d3dc24f90c",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "Traccar存在任意文件读取漏洞CVE-2025-61666 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483683&idx=1&sn=6a8915640d4344c98cc442c0e5592d31",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "红队视角下内网渗透中的 “横向移动” 实战指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488280&idx=1&sn=c9d8f71755957155e025377ecfa07954",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "汉王EFaceGo exportResourceByFilePath 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493049&idx=1&sn=03ba88d6623897b239f570a344807ac7",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
