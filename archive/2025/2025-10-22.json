@@ -304,5 +304,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490891&idx=1&sn=a0fb54123f66a88e495daf00745d76ff",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "Linux-PAM漏洞PoC漏洞利用代码发布，允许提升Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502364&idx=2&sn=7c8099890fe279b8451277f8f2e61a9a",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "内网一键梭哈神器，专为后渗透设计的信息收集工具|快速收集系统信息和凭据（V1.0.2更新）支持HTML报告输出",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495298&idx=1&sn=f73ec1b15c51554694da7e9743e1769c",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
