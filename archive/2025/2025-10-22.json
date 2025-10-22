@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495298&idx=1&sn=f73ec1b15c51554694da7e9743e1769c",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "详解并发漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247486028&idx=1&sn=ecd822aefcc930ac8b2f72eaa14c1400",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
