@@ -190,5 +190,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507314&idx=1&sn=37cab88a987c78609517761f00442d74",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485114&idx=1&sn=d6d10dd1f18f1b338dd44e496ab95918",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "渗透测试和逆向工程，它们的区别是什么？当一名白帽黑客要学逆向吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487538&idx=1&sn=5f4436c5886b325ce3f3192e513cd3f1",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483708&idx=1&sn=574ebdaf168017118108fff0cfea5833",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "Day27 目录遍历、文件包含与SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488461&idx=1&sn=7cbe187f0feff822f8bdb57a9d1dda3f",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "【论文速读】| MirrorFuzz：利用LLM与共享漏洞实现深度学习框架API模糊测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497190&idx=1&sn=24189bf4d3688afda9daed234ed6a103",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483691&idx=1&sn=62d9cd321b7067dbf36c6b35d227df0b",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
