@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489404&idx=1&sn=ec8f3f5a1aeae00faf460e187a7142f8",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "【高危漏洞预警】Windows远程访问连接管理器权限提升漏洞CVE-2025-59230",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490891&idx=1&sn=a0fb54123f66a88e495daf00745d76ff",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
