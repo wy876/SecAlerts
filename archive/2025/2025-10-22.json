@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582511&idx=1&sn=dee6734f2c87bde4b2b2dca9a407d6d3",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "emlog 2.5.3 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486204&idx=1&sn=7a4b0b62de67c246097afb840b7bf698",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "记一次edu小程序逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483911&idx=1&sn=12f140ac8dd7e01d84e0c75ae7062a4c",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
