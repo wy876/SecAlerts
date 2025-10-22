@@ -106,5 +106,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501502&idx=1&sn=9043711bacd714d6d993ed8e4ab2bb72",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "渗透测试实战：api接口认证绕过小tips，以及druid打法总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483868&idx=1&sn=81cada1cdceb7c1071020b85a8468a5a",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "【在野利用】Windows 远程访问连接管理器特权提升漏洞（CVE-2025-59230）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495023&idx=1&sn=19f69b3c53d851826572e74eb95c5ddd",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "【漏洞挖掘Tips】一种小众的边缘资产收集方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484465&idx=1&sn=8daf89001db72726d2fa75096461c182",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "ABB 严重漏洞（CVE-2025-9574，CVSS 9.9）导致 EoL 负载控制器暴露给未经身份验证的管理员访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485503&idx=1&sn=02a371b0d7c2b5bb67f44b673aeef135",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "Linux提权漏洞CVE-2025-6018&CVE-2025-6018",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712561&idx=1&sn=2961d7a233a93079be87adaef6b2c39f",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第42期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463770&idx=1&sn=e14e2c5ef6eac7df1a1068a2507b7f2e",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "GoSSRF - SSRF漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490390&idx=1&sn=b3c0e1909a929d158e58d8e83e3859cc",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "普华Powerpms Transfer.aspx存在未授权访问致信息泄漏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484167&idx=1&sn=17976dd2aca37a82ff26c8d3dc24f90c",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
