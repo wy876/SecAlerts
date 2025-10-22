@@ -88,5 +88,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494995&idx=1&sn=2ae02fd7bcfd87315652e4c2145422b1",
         "source": "Doonsec",
         "date_added": "2025-10-22"
+    },
+    {
+        "title": "] [【漏洞通告】Windows Server Update Service(WSUS) 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489375&idx=1&sn=a261ce924fa1cbc2404784e8d49f59e8",
+        "source": "ChainReactors",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "] [【漏洞通告】Windows Server Update Service(WSUS) 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489375&idx=1&sn=a261ce924fa1cbc2404784e8d49f59e8",
+        "source": "BruceFeIix",
+        "date_added": "2025-10-22"
+    },
+    {
+        "title": "一文学会物联网安全漏洞挖掘与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501502&idx=1&sn=9043711bacd714d6d993ed8e4ab2bb72",
+        "source": "Doonsec",
+        "date_added": "2025-10-22"
     }
 ]
