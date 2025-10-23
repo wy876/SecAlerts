@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498453&idx=1&sn=6493d671c56a8ea5d872c70560d4cdf8",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "Rust异步TAR库TARmageddon高危漏洞可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329141&idx=1&sn=cf252a2809c7c25db8c3b11e2893e5f3",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "MCP服务器平台严重漏洞可暴露3000+服务器和数千API密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524251&idx=1&sn=0581723e878fb683f7b1df7fc9c7bda6",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "GitLab 修复多个漏洞，可导致触发 DoS 条件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524251&idx=2&sn=4e764bf2d4ed304bf3f75a38df1f877d",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
