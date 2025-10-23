@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504283&idx=1&sn=7510ff939e8337515f8b5788d42e2bb9",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "实战之短信轰炸漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483757&idx=1&sn=f972fb8fa75422b01b1ed60ee93db0a4",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
