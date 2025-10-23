@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483757&idx=1&sn=f972fb8fa75422b01b1ed60ee93db0a4",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "代码审计插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489540&idx=1&sn=2fe8774e8c3bcd4f5db686a7e209748f",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "AI驱动安全未来 | 腾讯云黑客松-智能渗透挑战赛开战！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585002&idx=1&sn=6c9fc86abcea0a5fe0a6c43523cf084e",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "渗透测试实战：小程序任意账户接管的两大典型案例与经验总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483881&idx=1&sn=4265230f9e29057b9286918c35415324",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
