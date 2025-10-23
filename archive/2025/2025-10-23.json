@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486209&idx=1&sn=568e75e9ff134eab46e5b2cc57542988",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "实战某SRC上APP的多个漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
