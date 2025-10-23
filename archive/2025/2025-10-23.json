@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483881&idx=1&sn=4265230f9e29057b9286918c35415324",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "IdeaCMS sql注入漏洞(CVE-2025-5569)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493069&idx=1&sn=1be694639ef2025cb929c0bd360ed883",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "渗透篇：某选妃网站渗透测试，拿下后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTEyMjgzMw==&mid=2247483813&idx=1&sn=69caf2d2dba49baa8fdc9f14427e7b60",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
