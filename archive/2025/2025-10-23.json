@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501698&idx=2&sn=c29f0a6426963619a679f778d33ca462",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "某系统存在多处SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498453&idx=1&sn=6493d671c56a8ea5d872c70560d4cdf8",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
