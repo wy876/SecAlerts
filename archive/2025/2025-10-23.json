@@ -244,5 +244,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490622&idx=1&sn=c94e9b9432ae2f8f7b0611fda3ef0ee4",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "CNNVD通报Oracle多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174901&idx=2&sn=52d2fec27960143776c36c7e3f65bf50",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "工联众测安全谈・安全漏洞简报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDMwNTkwNg==&mid=2247487993&idx=1&sn=a437e5bf29b34784d2bc29d093e01a86",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "金和OA JC6 JDBC远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485499&idx=1&sn=19d969e3b3a2812117efa1fa96c1915f",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "【漏洞通告】Windows 服务器更新服务 (WSUS) 远程代码执行漏洞(CVE-2025-59287)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501698&idx=2&sn=c29f0a6426963619a679f778d33ca462",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
