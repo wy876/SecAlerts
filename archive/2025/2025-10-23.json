@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496880&idx=1&sn=26a77c6c0a9017da748cdd0558b66525",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "孚盟云平台GetDropDownListContent.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
