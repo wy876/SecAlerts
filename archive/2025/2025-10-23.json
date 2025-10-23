@@ -166,5 +166,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517494&idx=1&sn=643854f4a67cb6933b7f1b37257bd8a1",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "独家：NSA漏洞承包商网络武器库泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486568&idx=1&sn=309143d0bd958d85af3b1a8cf4b831cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "初步了解漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488679&idx=1&sn=31ae5dcf77c54f649f3e3917e7d4bb12",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "深度剖析：iOS漏洞为何被疑是苹果员工故意留的后门？从技术细节到历史证据的全面拆解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486972&idx=1&sn=159c9571aadb9e04e8e2b4a0eabccf4e",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "CNNVD关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463778&idx=1&sn=07999c8b230c33955ce741d1ea606f5b",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "新一代内网/域渗透神器--NetExec",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247506221&idx=1&sn=7f04d4d5b645e30b5b7327546712a087",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "美国核安全局关键设施遭渗透，SharePoint漏洞成突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504283&idx=1&sn=7510ff939e8337515f8b5788d42e2bb9",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
