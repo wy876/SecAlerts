@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Google Hacking常见语法挖掘漏洞与思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489102&idx=1&sn=6ae65f43395defdb00b8a52922376286",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "发现严重漏洞后，TP-Link敦促用户立即更新Omada网关固件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495110&idx=1&sn=27278103594030b182049e97663faca9",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "Async-Tar Rust库的TARmageddon漏洞：处理嵌套TAR文件时可能被植入恶意档案",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495110&idx=2&sn=ca0adbe9603d92e35f6bc0d51cdc87fd",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "《物联网漏洞挖掘与利用》来了！文末送书~",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490396&idx=1&sn=80db6a89a691205b4c5f42ea24229b5b",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "渗透测试快速启动工具箱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612865&idx=4&sn=0ef813490ad966539fd606c09a6c1c61",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483716&idx=1&sn=7081fde758f2b748aaa673e521b053f9",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "从 .NET 代码审计视角剖析 IDOR 越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500856&idx=1&sn=2ce968767edd8a4d3473401dcfd1e2dc",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "ChaMd5安全团队《物联网漏洞挖掘与利用》来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502438&idx=1&sn=97faa20fc952b31a09d3e7e6708cf266",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "Oracle 的两个关键营销漏洞（CVE-2025-53072、CVE-2025-62481）立即修复，否则将面临全面接管的风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485519&idx=1&sn=a9b97aa8e8445563884c2267861462cc",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "2025年高校网络安全管理运维赛暨全国网络安全行业职业技能大赛(渗透测试员)WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494722&idx=7&sn=7c46938c7dbd54261a4cd028428c9ebb",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "赛门铁克报告：利用ToolShell漏洞入侵关键基础设施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796650&idx=2&sn=6d21d4c744024e3ddafe748acc83dcd9",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "热门 Rust 库中的 TARmageddon 漏洞导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796650&idx=3&sn=abff20e7cfebb139fd50dcb2fd129428",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "SRC漏洞，某酒店服务任意用户登录接管 解题思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486506&idx=2&sn=30a95835bed23b1b35dbc9d09dadc643",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "漏洞挖掘从黑盒到白盒-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487777&idx=1&sn=0f36e31cc26045fbaa6aec81f033490a",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "一款轻量级 Java CLI 工具，用于抓取、展示和导出 Exploit-DB 的漏洞数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495487&idx=1&sn=6158d493978718cbc0615aacc0da7118",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "运维安全三大挑战：动态IP管控、漏洞治理与加密架构实战解析｜总第302周",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492259&idx=1&sn=aeaec0448fc82a96940df404c644c4b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "别让安全漏洞，拖慢你的大模型落地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520272&idx=1&sn=5b175bb4add592d32bf78bceb173dcf2",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "漏洞预警 | MetaCRM客户关系管理系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494764&idx=1&sn=053df9d0d3c52ea281993a8983e9d7b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494764&idx=2&sn=b32bf02c734ff6ac6fc39c5af8ee6cd4",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "漏洞预警 | 用友NC反序列化和SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494764&idx=3&sn=15525a395c3aac6ba9b376163b128ec6",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "100页 红队渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293306&idx=1&sn=2f95a46de6380f5c4fdcf70233ca5ef3",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    }
+]
