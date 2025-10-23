@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293306&idx=1&sn=2f95a46de6380f5c4fdcf70233ca5ef3",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "DudeSuite进阶版：从漏洞验证到抓包重放，让渗透测试更顺畅",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495092&idx=1&sn=81dc8fe51a6bd15b7d6dcde71ff8cb07",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "为什么嵌套反序列化仍然有害 – Magento RCE (CVE-2025-54236) 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485893&idx=1&sn=a68c6ff81e11c4a7ecd1ff390c644c96",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
