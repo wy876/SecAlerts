@@ -136,5 +136,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485893&idx=1&sn=a68c6ff81e11c4a7ecd1ff390c644c96",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "【工具推荐】帆软报表漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484720&idx=1&sn=003c1a2d48f23289f813eec90dd76b8b",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "【首发复现】Cisco IOS XE命令注入提权漏洞（CVE-2025-20334）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495024&idx=1&sn=f765f3582d4cd19e18816d87be2d5d80",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "DXScanGo_v1.7：一款实战导向的自动化 XSS／Web 漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484172&idx=1&sn=9011a3a1af92d22034d9c43c24121f06",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "SRC漏洞思路分享：GitHub域名接管测试案例：一个被遗忘的“404”陷阱",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484448&idx=1&sn=a6e945454c5183204ee192fba2cca6f2",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "SSRF漏洞检测工具 -- GoSSRF（10月22日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517494&idx=1&sn=643854f4a67cb6933b7f1b37257bd8a1",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
