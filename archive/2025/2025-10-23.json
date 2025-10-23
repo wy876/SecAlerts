@@ -292,5 +292,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524251&idx=2&sn=4e764bf2d4ed304bf3f75a38df1f877d",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "【安全圈】BIND 9 爆出三项高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072360&idx=3&sn=73984816dee15f34d3ed385690d4a859",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "【安全圈】黑客利用Adobe Commerce漏洞入侵Magento商店",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072360&idx=4&sn=27bb4489d8f48112170e47e9c8281b54",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "CNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251716&idx=2&sn=54a7594c54d20993bb8439a2a8ff6cd0",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "主流AI Agent存在关键参数注入漏洞，攻击者可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329141&idx=3&sn=c157e875c9d29f5dfe56e538536db732",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "GitLab 多安全漏洞可致攻击者触发拒绝服务状态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329141&idx=4&sn=e3b7e1d79700835476f7af8ffd1eed64",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
