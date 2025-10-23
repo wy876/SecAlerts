@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329141&idx=4&sn=e3b7e1d79700835476f7af8ffd1eed64",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "CVE-2025-25256｜Fortinet FortiSIEM 远程命令执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486209&idx=1&sn=568e75e9ff134eab46e5b2cc57542988",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
