@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494554&idx=1&sn=d76399cc2e3cada7a78ddea36b9a7f70",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "你还在手动检测？用 BucketTool 秒破 OSS/COS/OBS/S3 漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485875&idx=1&sn=57d0603a1a02ff23dadc3ab2cfa74de8",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 金和OA ExamineNodSingletonXml.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
