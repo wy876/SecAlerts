@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade",
         "source": "Doonsec",
         "date_added": "2025-10-23"
+    },
+    {
+        "title": "【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
+    },
+    {
+        "title": "2025年9月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496880&idx=1&sn=26a77c6c0a9017da748cdd0558b66525",
+        "source": "Doonsec",
+        "date_added": "2025-10-23"
     }
 ]
