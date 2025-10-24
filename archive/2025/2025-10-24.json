@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072380&idx=3&sn=3f976515e5d752db84d6c18c7d0d5183",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "你是说甲方让我测他们的漏洞靶场，然后出渗透报告？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491469&idx=1&sn=bc076ca6187e71ef6dd050d1a4389acb",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
