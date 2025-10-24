@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500767&idx=1&sn=9edc42c4bb00f20b0aa7d3bdbc0648b5",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "DudeSuite 进阶版：从漏洞验证到抓包重放，让渗透测试更顺畅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562835&idx=1&sn=7603b3a375e4166fc660f338c8a6cda4",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "AI智能体中从提示注入到远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485898&idx=1&sn=4ee9f8da1f04b2effa1aab4d492381a3",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "英国军情五处警告“Z俄间谍渗透”简直是闹剧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562658&idx=2&sn=52200e74d440276bc5771734dd041954",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "英国军情五处警告“Z俄间谍渗透”简直是闹剧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzM0NzA5MA==&mid=2247511820&idx=1&sn=9d4d34b2ff9ba0613413d4f05ecd7396",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
