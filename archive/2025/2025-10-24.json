@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536995&idx=1&sn=1f98d01461c8bef52d082f2b75941861",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "2025年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575412&idx=3&sn=28c506601f2d7f60274fbbe1476ad900",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "金和OA AddressImportList.aspx XXE漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484179&idx=1&sn=775aa9e2b86a249a25e7340dfae2ef16",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "JeecgBoot漏洞利用的Tips",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485503&idx=1&sn=67f61c1a44a92c2a2f2ba81255db09db",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
