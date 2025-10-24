@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485503&idx=1&sn=67f61c1a44a92c2a2f2ba81255db09db",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "SSRF 深度探究 — PoC、实验室和报告工具包（第二部分）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507896&idx=1&sn=89d6518ac1257d67e0ed6994f6172df3",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "CNNVD | 关于Oracle多个安全漏洞的通报（其中超危漏洞21个，高危漏洞92个，中危漏洞133个，低危漏洞21个）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487281&idx=1&sn=e075cd0216669e8f07dde295bff67cd1",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "SRC 漏洞思路分享：水洞版CORS 配置不当导致敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484456&idx=1&sn=4c2d7332a5f75bf18be1d8393a5a55a9",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
