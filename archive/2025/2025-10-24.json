@@ -202,5 +202,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzM0NzA5MA==&mid=2247511820&idx=1&sn=9d4d34b2ff9ba0613413d4f05ecd7396",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "信呼OA openkqjAction SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493079&idx=1&sn=4d3cfe40c026fba9b5163e301cbfd95e",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "ChaMd5安全团队《物联网漏洞挖掘与利用》来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ1MzQ0NA==&mid=2247494365&idx=1&sn=804535cf0300ab8b553a4fba37a6bf75",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "向 AI 代理中快速注入 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533207&idx=2&sn=4a821d9150f2072656939fb5c341c161",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "《物联网漏洞挖掘：从原理到高级利用技术》",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523492&idx=1&sn=0317e7e0a9745a69972f3fcc59e46001",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "Unity 引擎高危漏洞 CVE-2025-59489 深度解析：覆盖十年版本，游戏行业迎安全大考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTg2NjYxOA==&mid=2650744284&idx=1&sn=fa8a9df7b6c0cbdfac2f0321c3fcb89b",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "实战攻防之黑盒挖掘Java反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504876&idx=1&sn=eab6ec3d1522453d09386c0431c5508b",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
