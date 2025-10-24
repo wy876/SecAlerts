@@ -70,5 +70,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=3&sn=a2fab88caf9510cf3b0f59a2dcaaa2fd",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "代码审计系列-实战篇-MCMS系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTk5MzM4MA==&mid=2247484307&idx=1&sn=dd2aed12c500507705bfbffc82da6244",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "2025年9月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485090&idx=1&sn=e32957c82555e74c010cc5b7439e268c",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483722&idx=1&sn=0147fc6e5ec5ca8f51161515f6b23805",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "特工身份藏不住了！NSA 遭 “集体开盒”，暴露网络战人员防护致命漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247536995&idx=1&sn=1f98d01461c8bef52d082f2b75941861",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
