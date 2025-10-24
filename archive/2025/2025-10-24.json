@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490902&idx=1&sn=4543d915a05a12314730d0a34fd61183",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "CVSS 9.8严重漏洞揭秘：CVE-2025-59287 WSUS PreAuth RCE的利用困局",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
