@@ -310,5 +310,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489428&idx=1&sn=b2199af15b8e27895d45c3331e36adf4",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "一公司前苹果漏洞开发者遭间谍软件攻击后，前总经理被控向俄售秘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183133&idx=1&sn=f6d8dd97959f98182f87550821ef0252",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "0071.电子邮件验证绕过中的特殊竞争条件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691157&idx=1&sn=c1a07f302d1ad7f6b9d64dbc7437cfbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "【高危漏洞预警】Windows服务器更新服务 WSUS远程代码执行漏洞CVE-2025-59287",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490902&idx=1&sn=4543d915a05a12314730d0a34fd61183",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
