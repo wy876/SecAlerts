@@ -154,5 +154,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232741&idx=1&sn=7ced67ee80c16c360e86d2c2a879801d",
         "source": "Doonsec",
         "date_added": "2025-10-24"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491342&idx=1&sn=bb2183438ec4dad2c364f320718010cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "某设备前台文件读取代码审计-固件提取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486982&idx=1&sn=c7dde95f88b6ba6388587751e841c559",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "1024-漏洞挖掘经验局，多重奖励邀您来测！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTY4OTM3Nw==&mid=2247484089&idx=1&sn=f98202a8d5f2dfd13ab5d0ef6236ceb6",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第40期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500767&idx=1&sn=9edc42c4bb00f20b0aa7d3bdbc0648b5",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
     }
 ]
