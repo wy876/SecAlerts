@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Pwn2Own第二日：主办方为56个零日漏洞支付79.2万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495124&idx=1&sn=5b3b68f14975eb0c7910c6237826a7fb",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "超过250次攻击通过关键漏洞CVE-2025-54236针对Adobe Commerce与Magento",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495124&idx=2&sn=d275cb5e2afb53abfbabc1fa148214b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "【高危漏洞预警】用友NC OAUserQryServlet反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612894&idx=4&sn=c0297ed605d6fc781c047a4e4a55cc7c",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "软件测试转安全测试：30 天掌握接口漏洞测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488018&idx=1&sn=19dcf7c88257705ca55a4f274ad5d35a",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "VirtualBox 存在多个漏洞，可导致系统被接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796665&idx=3&sn=79ecd59b571a3636ece0624a8485b5ed",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "一个flutter框架的App渗透日记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527627&idx=1&sn=3c6e5b5186625b4811ff94a5aa38ed8c",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "深度拆解：从SMS漏洞到42种工具集，一次针对“北京时间”的“教科书式”攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901521&idx=1&sn=c1b7bf81b952903f389023aa22a331ec",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "红蓝对抗、攻防渗透、威胁情报、数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "漏洞预警 | Apache ActiveMQ反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=1&sn=c68bf5766e25fe37221cb61177ae7b4b",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "漏洞预警 | 同享人力资源管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=3&sn=a2fab88caf9510cf3b0f59a2dcaaa2fd",
+        "source": "Doonsec",
+        "date_added": "2025-10-24"
+    }
+]
