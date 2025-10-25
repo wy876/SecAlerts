@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914",
         "source": "Doonsec",
         "date_added": "2025-10-25"
+    },
+    {
+        "title": "RediShell：从PoC到补丁——当 Redis 的 Lua 沙箱被攻破（CVE-2025-49844）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484659&idx=1&sn=077ed29e41039c1f1bca85eed5522575",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
     }
 ]
