@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484659&idx=1&sn=077ed29e41039c1f1bca85eed5522575",
         "source": "Doonsec",
         "date_added": "2025-10-25"
+    },
+    {
+        "title": "9.8高危！CISA刚拉响警报：Oracle、微软这5个漏洞，黑客已在“实战”中！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485224&idx=1&sn=5cba3750f386e7140ca339d6d1cb2d12",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
+    },
+    {
+        "title": "构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485180&idx=1&sn=08133c80d5eedcd15ca5437c6ca3b192",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
     }
 ]
