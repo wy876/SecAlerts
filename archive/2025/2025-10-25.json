@@ -64,5 +64,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485180&idx=1&sn=08133c80d5eedcd15ca5437c6ca3b192",
         "source": "Doonsec",
         "date_added": "2025-10-25"
+    },
+    {
+        "title": "两个新的 Windows 零日漏洞被利用——其中一个影响所有已发布的版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=2&sn=c336b60dd2ed407b56498467ed470569",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
+    },
+    {
+        "title": "WSUS 反序列化漏洞（CVE-2025-59287）攻击分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=3&sn=2714cfad7e92c3bbae52bcfc36d43938",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
+    },
+    {
+        "title": "0072. 我如何使用 FOFA 在 Grafana 中找到“CVE-2025–4123”（并获得赏金）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691170&idx=1&sn=bc3ecd564c0bfce6e0c7dce48f5543f6",
+        "source": "Doonsec",
+        "date_added": "2025-10-25"
     }
 ]
