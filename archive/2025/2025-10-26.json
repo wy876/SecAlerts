@@ -22,5 +22,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "金和OA GetTreeDate.aspx SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "用于评估AI Web渗透测试能力的工具：XBow Bechmark,比靶机更好",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486354&idx=1&sn=4014e8b3507b47666624e45dde977b6a",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
