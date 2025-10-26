@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485799&idx=1&sn=ad05459aa4d5ea024ad708f6b21f797c",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "VMware Workstation 客户机到主机逃逸（CVE-2023-20870/34044/20869）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533230&idx=1&sn=fc8009be646722909273048ee9ee51d2",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
