@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NjI4OA==&mid=2247484861&idx=1&sn=db499a1599115b00873cd46221d9b64a",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "FastJson漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486685&idx=1&sn=475ff7f54831eb19770265917a1347f3",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "CVE-2025-59287：微软修复遭主动攻击的关键WSUS漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495133&idx=1&sn=2bab5102ff38b1a856bbda40bfe896c9",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
