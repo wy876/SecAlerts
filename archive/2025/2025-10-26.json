@@ -34,5 +34,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486354&idx=1&sn=4014e8b3507b47666624e45dde977b6a",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "XWiki 存在任意文件读取漏洞CVE-2025-55747 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483740&idx=1&sn=7cddd47901f6cf15ca2f9c8574a64fd1",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "CVE-2025-33073 针对 NTLM 反射 SMB PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
