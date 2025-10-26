@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "跨语法雷区：利用语法混淆进行漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
