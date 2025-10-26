@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=4&sn=f4a4dcb0648be3e74e9b2cf97e4672c8",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(下)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504521&idx=1&sn=7bbeb7599752c1a08ff8fbe08d4912f6",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
