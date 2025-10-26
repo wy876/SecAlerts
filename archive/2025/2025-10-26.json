@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329371&idx=3&sn=fc8a09ffea85c5a466e285324d755e40",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "美国核安全局关键设施遭渗透，SharePoint漏洞成突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=3&sn=cf570f445bcfcb625ec35e2bc7cbd691",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "三星Galaxy S25的0Day漏洞遭利用，可远程操控摄像头并追踪定位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=4&sn=f4a4dcb0648be3e74e9b2cf97e4672c8",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
