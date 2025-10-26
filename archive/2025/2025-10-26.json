@@ -76,5 +76,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484743&idx=1&sn=840c733c7435fec5b625a38d8ca53ac6",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "“最后一米的攻防”：关键信息基础设施物理渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492158&idx=1&sn=16516d00be98f3e4589acf7e4e967b68",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "实战 | 记一次X站逻辑漏洞到到管理员后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498465&idx=1&sn=376cefca383754d3b7c2740f994bfd46",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "0073. 我使用 GPT-3 在单个代码库中发现了 213 个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691176&idx=1&sn=776ddd929eff30f7104f8ba72beb8767",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "70余万台BIND 9实例受缓存投毒漏洞影响，PoC已公开（CVE-2025-40778）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329371&idx=3&sn=fc8a09ffea85c5a466e285324d755e40",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
