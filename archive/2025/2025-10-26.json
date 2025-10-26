@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4",
         "source": "Doonsec",
         "date_added": "2025-10-26"
+    },
+    {
+        "title": "【漏洞复现】Unibox路由器download_csv.php存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485809&idx=1&sn=ff06b5359693b754add3b857e06c6839",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
+    },
+    {
+        "title": "【漏洞复现】Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485799&idx=1&sn=ad05459aa4d5ea024ad708f6b21f797c",
+        "source": "Doonsec",
+        "date_added": "2025-10-26"
     }
 ]
