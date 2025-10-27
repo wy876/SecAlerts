@@ -274,5 +274,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524735&idx=1&sn=db46b53845369cfde708d16ccc463286",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "漏洞复现 | 用友U8Cloud pubsmsservlet 远程代码执行漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492947&idx=1&sn=ef26db52d3e1bf5540918ac94aecce95",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490403&idx=1&sn=aecf3fc09a1dfc33cdafff5c656e0e73",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "免费赠送 | 诸子云星球福利大放送 · 攻防漏洞报告合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247645394&idx=3&sn=cb77a0bf1c8dcab95c8d6d52b1f715e0",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "渗透世界扑克巡回赛：ClubWPT Gold 后台管理系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533259&idx=1&sn=69546a9b2079ef63e7a232ecd22f538f",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "自动SSRF漏洞扫描与利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498469&idx=1&sn=d924920c7a9e0232c18d43f9ad13297b",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
