@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484475&idx=1&sn=c870f992e4c489d059e3c4ad5ffdb2e9",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "360协同国家相关单位极速封堵超危RCE漏洞，守护全球数百万大模型服务器安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582562&idx=1&sn=59e12a0ed46baee10f84b93fbff492f3",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.10.20-2025.10.26",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503580&idx=1&sn=8d76dbe1c9bcc3abe91c07cf0db46802",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "从 XSS 到 \\\"RCE\\\" 的PC端利用链构建",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490752&idx=1&sn=7c59302b250357c6ef1bf2cf0374a195",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【漏洞通告】Windows 服务器更新服务 (WSUS) 远程代码执行漏洞(CVE-2025-59287)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524735&idx=1&sn=db46b53845369cfde708d16ccc463286",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
