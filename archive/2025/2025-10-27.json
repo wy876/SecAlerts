@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329398&idx=4&sn=8f290d4ee3168bcf78599ef5228b96fe",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "Dell Storage Manager 的严重漏洞让攻击者破坏系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096578&idx=1&sn=4d17e0477116128a67b3bab4ba02efd9",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "黑客利用 Windows Server Update Services RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096578&idx=2&sn=71c0e190ed439156e651b5c8f1eeabae",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
