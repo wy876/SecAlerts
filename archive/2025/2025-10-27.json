@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498469&idx=1&sn=d924920c7a9e0232c18d43f9ad13297b",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "每周网安资讯（10.21-10.27）| IBM多款产品存在配置文件中存储口令漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507236&idx=1&sn=55d3e96e0b3a6e19c83e5f4e8ba09d07",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
