@@ -118,5 +118,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494795&idx=3&sn=6493bc8fa86e5bf50db9f551ba8159b3",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "我是如何在漏洞赏金中赢得 1100 美元，这改变了我的生活",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507921&idx=1&sn=05687191da6a380954cce83e090a75c7",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "越权漏洞-小白也能轻松上手SRC！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553080&idx=1&sn=a293d74fd4ec2c8937230ae604c07e7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "全网首发！HMV全套13台windows域渗透教程，3w字超详细！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508595&idx=1&sn=d4d90bf92ee0d97fc376c1b2d9d09400",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【已复现】Windows 云文件过滤驱动权限提升漏洞(CVE-2025-55680)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495045&idx=1&sn=8e89ac5467743d540819f446d123e363",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【已复现】Windows Server Update Service远程代码执行漏洞(CVE-2025-59287)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504063&idx=1&sn=028ec8f075afd68647fcbf48accfbaa3",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "应急响应|某项目特洛伊挖矿木马靶场复现(附开源环境)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE5OTQyNQ==&mid=2247490072&idx=1&sn=5b905316b7251c03175197340ca0ff47",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "用友U8Cloud pubsmsservlet远程代码执行漏洞复现(QVD-2025-39606)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484198&idx=1&sn=bef2839f82eb99496bbd9eb9ea1ada9a",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "一次针对 iOS 间谍武器开发人员的 0day 攻击到美国十大政府承包商 L3Harris 的陷落",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516445&idx=1&sn=96ac3c139e429191e1472dcdb916cda7",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "JQuery-XSS漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTgzMTg2OA==&mid=2247483771&idx=1&sn=16f8e26717308ef40c289bcaaf40a852",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "FastJson 反序列化漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487539&idx=1&sn=19fe98a4e148bb187c8a71d7eb5a68d0",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "代码审计系列-实战篇-MCMS系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487539&idx=2&sn=1e5e7e3ada87d7036abf2d3cd5bc3c94",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "从上周的 WSUS 远程代码执行谈 .NET 反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500865&idx=1&sn=ff565fc267cda77f7a0e09342b886b8d",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
