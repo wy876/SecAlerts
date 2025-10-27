@@ -310,5 +310,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507236&idx=1&sn=55d3e96e0b3a6e19c83e5f4e8ba09d07",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "挖洞效率翻倍！详解SSRF漏洞的发现与利用，助你斩获高额奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797248&idx=1&sn=34a8903f2ac78814a20d8848bb3eab77",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "黑客正在大规模利用受老旧漏洞影响的WordPress 插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524284&idx=1&sn=a47fdc708ae65d68939d797fb4f739ad",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "OpenWrt 修复 DSL 驱动中的 RCE 和内核内存泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524284&idx=2&sn=3db26e74afeb401ca38364146c82882b",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "Pwn2Own大赛：黑客利用73个0Day漏洞斩获102万美元奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329398&idx=4&sn=8f290d4ee3168bcf78599ef5228b96fe",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
