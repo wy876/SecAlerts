@@ -352,5 +352,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490907&idx=1&sn=bbd24b1e11c96e79b2846ec90bd55e82",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "【渗透Tips】XXE高效Payload记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485353&idx=1&sn=8b3fe965fbc1106183e16ec50ac9316d",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
