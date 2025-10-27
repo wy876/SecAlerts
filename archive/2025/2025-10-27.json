@@ -1,0 +1,122 @@
+[
+    {
+        "title": "黑客利用 Galaxy S25 0day 打开摄像头并跟踪用户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490187&idx=1&sn=d96a8e7544d1c8cae806d2b3515b81a7",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【JAVA代审】金盘图书馆管理系统代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487452&idx=1&sn=f4d26e93faccb6340f82d48e68c67b37",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【高危漏洞预警】用友U8Cloud pubsmsservlet远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612907&idx=4&sn=e297edad1a59dc409604514174d2c591",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "Apache Druid存在服务端请求伪造漏洞SSRFCVE-2025-27888 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483745&idx=1&sn=89421387a20db79edfeef359ddb253b2",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "巡星漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484864&idx=1&sn=deecfb860d1988539c75df286513f252",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "安卓真机渗透机配置及抓包准备",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485421&idx=1&sn=691ca43840bb711216eaf242dd3000d6",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "Windows Server WSUS 关键漏洞遭野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796676&idx=1&sn=f0cfed236474800dcd51d50d0270ecc3",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "Lanscope Endpoint Manager 0day漏洞在野外被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796676&idx=3&sn=b990b0c9c1d8e8fbc6e869ca817e39f5",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "2025-10-27 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486293&idx=1&sn=ca3e76de93fef943eb42b8d659d74992",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "渗透测试辅助工具mSS-GUI v0.1更新：新增GUI和webpack处理插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487316&idx=1&sn=fa7f2f811a76fb1339ff428bcca75014",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "戴尔存储管理器严重漏洞（CVE-2025-43995，CVSS 9.8）允许未经身份验证的 API 绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485551&idx=1&sn=6946ad1f0556a4eec8bb26c4041f5b93",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "【高危漏洞预警】Windows服务器更新服务 WSUS远程代码执行漏洞CVE-2025-59287",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549299&idx=2&sn=53b81dc7ed31a1ebda9e80bd31248290",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "云渗透利器AzureHound攻防指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484584&idx=1&sn=ed6dd34fe9b883823fa419d32e067de1",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "一款高价值漏洞情报爬取工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508005&idx=1&sn=d385d308b22f43dbbf4bbacb6cfe01c3",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "redis弱口令到横向渗透初探",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490308&idx=1&sn=3d43d2adc80de777954c9ee1f68037a0",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "edu漏洞挖掘实战：三个典型案例的思路分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514296&idx=1&sn=648d9724169059e5fff5156857a70daf",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "补天漏洞提交助手 - 浏览器插件版",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495521&idx=1&sn=1f4c160ed916375628bfdf2753adc001",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "漏洞预警 | JEEWMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494795&idx=1&sn=b0f1160bddd186284aa03ffcc2846d94",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494795&idx=2&sn=8ae953be78922ca371a3992a93d29efc",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "漏洞预警 | 富勒仓储管理系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494795&idx=3&sn=6493bc8fa86e5bf50db9f551ba8159b3",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    }
+]
