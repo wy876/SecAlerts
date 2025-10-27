@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096578&idx=2&sn=71c0e190ed439156e651b5c8f1eeabae",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "【高危漏洞预警】Windows Cloud Files Filter Driver权限提升漏洞CVE-2025-55680",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490907&idx=1&sn=bbd24b1e11c96e79b2846ec90bd55e82",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
