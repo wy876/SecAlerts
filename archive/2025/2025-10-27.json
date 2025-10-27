@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247492668&idx=1&sn=e95795944bf44a30ad9d363b37b1cfe3",
         "source": "Doonsec",
         "date_added": "2025-10-27"
+    },
+    {
+        "title": "CVE-2025-59287 — WSUS 未认证远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490958&idx=1&sn=c02fd61f3a371da2ed2ea915c1b5b2d9",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "SRC漏洞思路分享：通过 OneForAll 挖掘子域，发现与修复云存储“列桶/暴露”风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484464&idx=1&sn=38afb29e8971955db637ed105d214b33",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
+    },
+    {
+        "title": "安全动态回顾|CSTIS发布关于防范SEO投毒攻击的风险提示 TP-Link警示Omada网关设备存在高危命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585043&idx=2&sn=d620150b7964f8930078220610e10b2a",
+        "source": "Doonsec",
+        "date_added": "2025-10-27"
     }
 ]
