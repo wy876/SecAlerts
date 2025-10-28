@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486290&idx=1&sn=e2c24bdf0807911797f3131ac484c641",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "【复现】Samba 认证前命令注入漏洞（CVE-2025-10230 ）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492501&idx=1&sn=b3c5ebcf646ffe0c6ee21536e0f2eeb8",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "一个价值10000美刀的CVE漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490760&idx=1&sn=bb4fe939c1f88769cc11dc2d483d976c",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
