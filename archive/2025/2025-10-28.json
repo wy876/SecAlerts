@@ -346,5 +346,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490912&idx=1&sn=aae12ef4a42f84e89a7cd77cd79ef4a3",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "【安全圈】AI漏洞导致泄露数万亿记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072445&idx=2&sn=485531ca561994a61f2a46cfebdaf989",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "【安全圈】Perplexity旗下Comet浏览器的截图功能存在漏洞，可被利用进行恶意提示词注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072445&idx=3&sn=02507b97ca4164aea3eaf58321f28d02",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "【安全圈】Jira中存在权限漏洞，可导致攻击者篡改Jira JVM进程有权访问的文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072445&idx=4&sn=cb692dbf52cd58a24d940e30476438ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
