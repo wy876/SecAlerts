@@ -1,0 +1,128 @@
+[
+    {
+        "title": "泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483750&idx=1&sn=d126d8b20cc6e331c61e5aa1cd57c23c",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Mementoxa0Labs再现踪迹：Chrome 0day漏洞揭露欧洲商业间谍势力暗流",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490192&idx=1&sn=bf16797796ad8a64f20fbee51f514344",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Microsoft Defender漏洞3个月未修复，攻击者可绕过认证并上传恶意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612931&idx=2&sn=628a93007b59feaca39ab3247fb20e6d",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "某路由器代码审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486998&idx=1&sn=eb15731b4602c501a0faf19681d00ecb",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Kali Linux 入门实战：3 个必会工具 + 漏洞扫描全流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488113&idx=1&sn=66a1df5337375674b7c882c1e08bee9f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "证书站实战｜多API接口组合攻击漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489080&idx=1&sn=d31bf11c15e73cde273974901b15df1f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Chrome 0day漏洞利用与意大利 Hacking Team 间谍软件有关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796689&idx=1&sn=88df9a74e6c1590d6fc492190ab5cedb",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Dell Storage Manager 漏洞导致整个系统受到攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796689&idx=3&sn=cea0d63dca7ea8a1ffdc33c8f16ba495",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "智联云采 SRM2.0 restore 存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484868&idx=1&sn=31ac8000346e928fa88a3272494dce4f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Secator v0.19.0：多合一漏洞扫描框架全面解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485556&idx=2&sn=ece2635b7c2a873ce15fe4cfaf9b87eb",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Azure Fabric后门：基于内置工具的持久化攻击（附PoC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484596&idx=1&sn=da9ecbc02a92c1c950df5a61985916e5",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "CVE-2025-22457 Ivanti Connect Secure RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488226&idx=1&sn=6996394c71dc1d7da9742fe392635b6b",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "告警与漏洞处置如何与威胁情报联动？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516592&idx=1&sn=f86d567ffba37c883a17fa1af1c49757",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "一款用于快速验证未授权漏洞Burp插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520323&idx=1&sn=6fdd85f3f0715333cbdd65f93cb4e18f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "漏洞预警 | Windows WSUS远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494798&idx=1&sn=972e02cfeadd40c04c5d9c7b98e7b278",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494798&idx=2&sn=55e8addbd00a991a83845db9812ff885",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494798&idx=3&sn=0d4d0f94c791281e85d665f7ca32716d",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "别让邮箱成“隐私漏洞”！这个免费工具帮你隔绝90%的垃圾邮件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484053&idx=1&sn=f68690995d49611de62588d5de147efb",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "9.1分高危！\\\"SessionReaper\\\"漏洞复现，250+电商中招。技术人速来围观这个RCE是怎么打的！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485230&idx=1&sn=f6bc4005a67683fd6b4daa117e7c9e1d",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "BeEF（浏览器渗透测试开源框架）技术指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293511&idx=2&sn=1283ca91cf085434af30d0bbd1da8671",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "如何高效挖掘越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489057&idx=1&sn=a9fee9e10717c7069f3095abd76c258c",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    }
+]
