@@ -322,5 +322,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524292&idx=2&sn=358d93e91985d5c3e0efde32e60d34a6",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "OpenAI Atlas浏览器漏洞允许向ChatGPT注入恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329430&idx=3&sn=a9b2bd253c5a90d2b11d7523ef2dfba5",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Apache Tomcat曝三大安全漏洞，最严重可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329430&idx=4&sn=d61c415b51dfe650e78be0c7a80195a7",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "SQL注入漏洞挖掘指南：从入门到赏金到手（1）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797254&idx=1&sn=aa24888cc32a710b8ef0631afe85d294",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Tomcat相对路径遍历漏洞CVE-2025-55752",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490912&idx=1&sn=aae12ef4a42f84e89a7cd77cd79ef4a3",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
