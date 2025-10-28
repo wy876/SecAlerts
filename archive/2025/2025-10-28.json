@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODE0Njk2Nw==&mid=2653021704&idx=1&sn=83a60d1107b251ebdee5bb58936d2c35",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "【独家复现】泛微e-cology 10 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495049&idx=1&sn=8ae885f11a5d6b15382892ffc2264fde",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "第139篇：美国苹果手机\\\"三角测量\\\"验证器后门样本及0day漏洞是如何被捕捉到的 | \\\"三角测量\\\"系列第5篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487881&idx=1&sn=b975b18e75fc3df9fa52525abc2b4ed7",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
