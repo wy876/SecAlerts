@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489452&idx=1&sn=67565426dbcfb94e0c3ae04affae6818",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "工具推荐 | fastjson一键命令执行检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496114&idx=1&sn=983a2e4748ae6e167aad1d576423e033",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "CISA：高危 Windows SMB 漏洞现已被利用进行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493966&idx=1&sn=97804c08de12ed0ae5fefced93ca532c",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
