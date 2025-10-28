@@ -292,5 +292,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490760&idx=1&sn=bb4fe939c1f88769cc11dc2d483d976c",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "【漏洞通告】Apache Tomcat路径遍历漏洞（CVE-2025-55752）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489394&idx=1&sn=3d982b5916b54c77936bb6c9105d9f90",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "ChatGPT Atlas浏览器现新漏洞 可植入持久恶意指令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602753&idx=2&sn=db90258fe95ba6b65b3aca7c6e45e664",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490410&idx=1&sn=0da0400bd06736a44452c9a76f236be7",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "ChatGPT Atlas 浏览器漏洞可用于植入恶意命令并执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524292&idx=1&sn=e8849782ea150ce733b1fafc7bbd3d73",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "QNAP 提醒注意 Windows 备份软件中的严重 ASP.NET 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524292&idx=2&sn=358d93e91985d5c3e0efde32e60d34a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
