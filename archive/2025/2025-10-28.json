@@ -124,5 +124,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489057&idx=1&sn=a9fee9e10717c7069f3095abd76c258c",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "2025-10-28 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487659&idx=1&sn=1abfebd9aa3f4ad9ddd9ca612041a2cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "翼龙开源游戏面板 远程命令执行漏洞(CVE-2025-49132)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493088&idx=1&sn=55bbfb6cd1ea1ca790424c53a820a350",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "2025-10-28 最新安全漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486337&idx=1&sn=647c4fa87f910deb33b34b4aa32e242a",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "近7.6万台WatchGuard Firebox安全设备存在漏洞 面临高危远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585050&idx=2&sn=a94c25a5c24a7c2b25a50b09e21673c0",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "我在上千份渗透报告中找到了.....",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491745&idx=1&sn=d46613d3696b70e1662bf8593616fb27",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "针对postmessage xss的漏洞扫描器 -- postmessage_xss_scanner（10月27日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517514&idx=1&sn=7bc3ce5260b42bdc68dce670d7616e94",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "你的专属内网演练场：CyberBear综合渗透靶场重磅上线！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523752&idx=1&sn=3591953a3e43dfeb62279b7d4051ce8c",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "未授权访问漏洞挖掘入门解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489145&idx=1&sn=4126bee974421c776e2b070bdf0cd5a2",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Apache Tomcat 修补URL重写绕过漏洞 (CVE-2025-55752)，存在 RCE和控制台 ANSI 注入风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485583&idx=1&sn=a336b73209456e70bfef1df0711132cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
