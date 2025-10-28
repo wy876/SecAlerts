@@ -220,5 +220,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487881&idx=1&sn=b975b18e75fc3df9fa52525abc2b4ed7",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "文件上传漏洞初剖析与绕过技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483693&idx=1&sn=54a13ad35c7e623d445363be815cdfcd",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "Apache Tomcat 漏洞允许在易受攻击的服务器上执行远程代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503825&idx=2&sn=03b0c37668ba2dcc52994a0ba001f442",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
