@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497930&idx=1&sn=1243c90c90a5dea3079de04fe1f44ad1",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "dddd新增POC及误报修改20251028",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485137&idx=1&sn=f732dd55711230c12f568804c05bddfc",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "用友U8 Cloud pubsmsservlet接口存在远程代码执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489452&idx=1&sn=67565426dbcfb94e0c3ae04affae6818",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
