@@ -232,5 +232,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503825&idx=2&sn=03b0c37668ba2dcc52994a0ba001f442",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "代码审计系列-实战篇-新蜂商城系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487541&idx=1&sn=ee865ae618dbbc84c71f9927ec5af846",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "0075. 高级 XSS 漏洞赏金：多向量有效载荷为我赚了 1500美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691208&idx=1&sn=b80deb0bf8d7ebe3e85fe0bd55326727",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "【漏洞通告】Apache Tomcat 目录遍历漏洞(CVE-2025-55752)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501714&idx=2&sn=0e4260a1e5f6bef7b0b0dc66acc58c24",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "【漏洞通告】Docker Desktop 安装程序 DLL 劫持漏洞(CVE-2025-9164)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501714&idx=3&sn=4e1a905bf1fb31242725f41e5772265f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251028",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562843&idx=1&sn=46448a985969f5cb2cf62d484a30ba90",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
