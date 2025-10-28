@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485583&idx=1&sn=a336b73209456e70bfef1df0711132cd",
         "source": "Doonsec",
         "date_added": "2025-10-28"
+    },
+    {
+        "title": "渗透实战 | 利用浏览器漏洞挂马实现远程控制靶机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486185&idx=2&sn=bf227ca072bdf9a467e254d8d48a829f",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
+    },
+    {
+        "title": "记一次红队渗透通关某金融单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486185&idx=3&sn=2dfcfd7eb106076126bcdce32d9fb2f2",
+        "source": "Doonsec",
+        "date_added": "2025-10-28"
     }
 ]
