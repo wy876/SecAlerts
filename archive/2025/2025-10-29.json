@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489157&idx=1&sn=5a66c7fad6446ae54c9a2c86f4ea7edd",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "月子会所ERP云管理平台 UploadHandler.ashx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493116&idx=1&sn=cf504008987f8e6910eaa7ce9dcd2497",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "一个简单的 SSTI 如何变为RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262193&idx=1&sn=456d37d03651c48705bbb7279aba8181",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
