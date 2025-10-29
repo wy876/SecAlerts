@@ -268,5 +268,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247602005&idx=4&sn=9ef2086283fc638c58b9f89421dae6d2",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "漏洞通告 | Apachexa0Tomcatxa0目录遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507949&idx=1&sn=1dcdbdc965a48087e4c44fb75d17da35",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【后渗透Tips】一种常见但是不容易想到的伪提权方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484485&idx=1&sn=0558cfc03361e1320b757ad29074bbbb",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
