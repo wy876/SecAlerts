@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485940&idx=1&sn=32649eb1d6e882cea8162758692fa4b7",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "我如何把漏洞变成房租钱：一年漏洞赏金经历",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507945&idx=2&sn=7a1cfa36b533c389f5d6eaf6c9be0728",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "会话管理漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553125&idx=1&sn=235f3a23260f6764b37dc4ac2c63b73b",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520332&idx=1&sn=9af57f12370aa7a0a7400de55c93cbf3",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
