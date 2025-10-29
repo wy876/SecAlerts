@@ -100,5 +100,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462102&idx=1&sn=d8c05539b81467f87d562aeb76f42060",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "天锐绿盾审批系统findRolePage.do SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484209&idx=1&sn=00def4c68527fb144c2f1daa08483f0f",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "第140篇：美国NSA苹果手机\\\"零点击\\\"漏洞入侵中国国家授时中心的流程图梳理和分析 | \\\"三角测量\\\"系列第6篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487906&idx=1&sn=0ce66c1d60e3ea87a264d1e7b4200824",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "主流AI浏览器普遍存在致命漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504313&idx=1&sn=319e8c7161f46ba9c300ab0c66180e67",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "《2025年暴露管理指数》深度解读：高危漏洞激增20%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504313&idx=2&sn=6eb7b996f25b3761b6776a06d13c1682",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "发现漏洞主动上报，居然被抓？！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500211&idx=1&sn=32f792bdadd681a821a8b8298cece360",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【代码审计】用友NCCloudGatewayServlet 命令执行漏洞 补丁分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485940&idx=1&sn=32649eb1d6e882cea8162758692fa4b7",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
