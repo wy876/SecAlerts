@@ -208,5 +208,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTM5MDUxMA==&mid=2247508179&idx=1&sn=06235158d71b57c68965a61a257f5f88",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "java 代码审计 - SSRF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485704&idx=1&sn=24c697d32e1d91ee08bb7833c4de8159",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "安全运维必备！5个高级漏洞扫描工具，吃透99%安全警报！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575458&idx=1&sn=b71c8a92e1c96dbe42d9024ef942ba91",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【珍藏版】渗透测试手册，简直太赞了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575458&idx=2&sn=8fdd4397d24a8344fc15211065facb92",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "CNNVD关于Apache Tomcat安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463797&idx=1&sn=22fe0712d6495c717076bb3623ec9f6b",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第43期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463797&idx=2&sn=62fb6b10d22b92c9e338cdba3268d1bb",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【已复现】Apache Tomcat RewriteValve 路径遍历漏洞(CVE-2025-55752)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504071&idx=1&sn=3452fa2a86bf741b6d8c06e44929d62b",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
