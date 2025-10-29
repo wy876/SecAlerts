@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262193&idx=1&sn=456d37d03651c48705bbb7279aba8181",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第41期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500786&idx=1&sn=0c863f7339fa36d33ea236c5a957b8cb",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498478&idx=1&sn=3e7df424e1fd0324097c5570ea0671e7",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "京东实战案例：LLM 如何重塑安全运营与渗透测试？CAIDCP 带你看 AI 驱动安全新范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTM5MDUxMA==&mid=2247508179&idx=1&sn=06235158d71b57c68965a61a257f5f88",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
