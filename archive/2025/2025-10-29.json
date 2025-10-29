@@ -382,5 +382,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637824&idx=4&sn=1406810b76eaedbf5184a183cd40202f",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "【高危漏洞预警】Docker Desktop安装程序 DLL劫持漏洞CVE-2025-9164",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490917&idx=1&sn=54d0997fc7d1e60ec54c4e9d59efdfa4",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
