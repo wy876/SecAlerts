@@ -346,5 +346,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486609&idx=1&sn=54b97adb734368272d5ad75302977730",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "CVE-2025-62725 – Docker Compose OCI 工件路径遍历",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533334&idx=1&sn=4e5683ce6127d0e21411e716c85de9ca",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "MS08067顺利交付中国人民解放军某部队C#代码审计培训课程【高质量精品实战版】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524827&idx=1&sn=00b6ce95057e5ab4502092ddffd5e6f1",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
