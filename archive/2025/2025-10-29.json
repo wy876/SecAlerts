@@ -244,5 +244,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504071&idx=1&sn=3452fa2a86bf741b6d8c06e44929d62b",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "银狐木马9月新变种：藏身explorer.exe核心进程，无声攻破终端防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650625874&idx=1&sn=b5be4257fb18d7bb09682761e2de125a",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "一款人工智能驱动的高性能漏洞扫描器 -- Deep-Eye",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486970&idx=1&sn=a9d57f0f2014a273b551a68213052478",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "渗透 | SQL注入高级查询扩展",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486212&idx=1&sn=a7146a8eae849356063d4940bf757140",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Oracle 零日漏洞蔓延：数十家企业数据或被窃——企业级数据泄露防线如何重建？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247602005&idx=4&sn=9ef2086283fc638c58b9f89421dae6d2",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
