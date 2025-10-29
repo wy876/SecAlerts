@@ -292,5 +292,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252075&idx=2&sn=285e1a4e4530f91da43311cc324d4f96",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "马克龙妻子税务档案性别被黑客改成男性 系统漏洞引发风波",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543172&idx=1&sn=85988487dc0ec856c68069a7b0348724",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "edu漏洞挖掘实战案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485761&idx=1&sn=34e699ea5c57bd45d9609ae0da983e69",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "MikroTik 严重漏洞可用于暴露路由器管理员凭据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524305&idx=1&sn=60cf6de2e02ede50696541627d839f18",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Apache Tomcat 漏洞导致服务器易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524305&idx=2&sn=151df83a78bc5a9f5351bf4c295a1d03",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329485&idx=2&sn=f1d4296d3190b1580fea6bc75c556ec4",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Docker Compose曝高危漏洞，执行只读命令即可覆写任意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329485&idx=3&sn=3da6e9986c07d59ee0c083a61843c1bc",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
