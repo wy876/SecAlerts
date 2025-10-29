@@ -388,5 +388,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490917&idx=1&sn=54d0997fc7d1e60ec54c4e9d59efdfa4",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "原创 | 反序列化漏洞：你以为编译型语言就安全？别被“假象”骗了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524637&idx=1&sn=d6f060b005793201fef0dc9f5983ffc9",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "工具推荐 | 一款免费的AI代码审计扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496120&idx=1&sn=c24969cb4388277a177dbe1c083d8603",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
