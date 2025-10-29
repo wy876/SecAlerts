@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Geoserver Configuration API存在敏感信息泄露CVE-2025-27505 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483754&idx=1&sn=55e9140261087b486e7921f469c0673d",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "QNAP NetBak PC Agent 受严重ASP.NET漏洞影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495151&idx=1&sn=556684169c5b026c19e06558b5d82978",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "一款轻量级 Java CLI 工具，用于抓取、展示和导出 Exploit-DB 的漏洞数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612936&idx=4&sn=ed8cd285b30f7721b135a35224ee9f66",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Docker Compose 路径遍历漏洞（CVE-2025-62725）允许通过 OCI Artifacts 覆盖任意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485595&idx=1&sn=78dc5d18170bb5e03ce7019f0b8b0acb",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Gamaredon 网络钓鱼活动利用 WinRAR 漏洞攻击政府机构",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796705&idx=2&sn=3bcb1c8be73457383a3c587693784617",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "严重 .NET 漏洞（CVE-2025-55315）可使攻击者绕过 QNAP 备份软件的安全保护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796705&idx=3&sn=3304ae689a407c200e62f34c89433d7b",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "HexStrike AI：下一代网络安全与人工智能结合的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485566&idx=1&sn=8f987d84fcd4b6415411d38b5adccdc0",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "CVE-2025-49844：Redis Lua 解析器 Use-After-Free 漏洞复现与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485566&idx=2&sn=981415db0f8934880b7d79dd45235143",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【web实战】数据泄露漏洞总结&国外paypal上万美刀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498412&idx=1&sn=30cfe95e06831a0cc5c1393fe993b933",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【SRC实战】通过FUZZ挖掘高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498996&idx=1&sn=7f015ede0fb3ab4590c7b69e4e5601d2",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "CVE-2025-59419 Netty SMTP 命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488229&idx=1&sn=217b5539a57173f5a35cef1e5de7682a",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "Metasploit模块开发指南：从PoC到武器化！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527694&idx=1&sn=7d358b58ef9e0f3e053ecb74087b75d4",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "JAR一扔，全链路裸奔！JavaWeb漏洞审计神器：字节码里跑“虚拟栈”，一条调用链直达RCE老巢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493447&idx=1&sn=24fcd7f0bdb9248cf30f458ddcaa418c",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "漏洞预警 | CraftCMS任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494809&idx=1&sn=e813bb1705ea5c982a4e4910f6477f4d",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "漏洞预警 | 安数云综合日志分析系统命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494809&idx=2&sn=bfd17a72be0d20ffb2412cc3d40a5335",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494809&idx=3&sn=e191674e2b9d4ef68c9fa3e98c9d8088",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "AI 助手反成内鬼！微软 Copilot 惊现漏洞，企业邮件竟被“一键外泄”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462102&idx=1&sn=d8c05539b81467f87d562aeb76f42060",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    }
+]
