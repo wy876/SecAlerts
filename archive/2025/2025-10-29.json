@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484485&idx=1&sn=0558cfc03361e1320b757ad29074bbbb",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "SQL注入漏洞挖掘指南：从入门到赏金到手（2）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797259&idx=1&sn=d87762ab9cd6394a28c5c5ef37e13581",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "CNNVD | 关于Apache Tomcat安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252075&idx=2&sn=285e1a4e4530f91da43311cc324d4f96",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
