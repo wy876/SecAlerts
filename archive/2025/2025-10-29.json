@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520332&idx=1&sn=9af57f12370aa7a0a7400de55c93cbf3",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "【已复现】Apache Tomcat 路径遍历漏洞 | 利用有前置条件(CVE-2025-55752)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495063&idx=1&sn=fd0d5b1b05ad855ab82f4e184c46fb54",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
