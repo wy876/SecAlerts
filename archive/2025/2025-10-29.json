@@ -358,5 +358,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524827&idx=1&sn=00b6ce95057e5ab4502092ddffd5e6f1",
         "source": "Doonsec",
         "date_added": "2025-10-29"
+    },
+    {
+        "title": "Azure AD 渗透学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712587&idx=1&sn=9e76c05b06283dec35bff152d28d782e",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "【案例】Google Cloud SSRF 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485495&idx=1&sn=14c17432a1a9e269c519a08b8cda0562",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
+    },
+    {
+        "title": "想靠挖SRC漏洞赚钱？先想清楚这几个问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY3MTE5MA==&mid=2247485578&idx=1&sn=32db29e4c455e418527ae0b88f84a8e8",
+        "source": "Doonsec",
+        "date_added": "2025-10-29"
     }
 ]
