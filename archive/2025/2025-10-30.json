@@ -1,0 +1,110 @@
+[
+    {
+        "title": "西部数码NAS ftp_download.php接口存在命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483761&idx=1&sn=734397edfaacd028b30bc00c3b05f6ec",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【已复现】Apache Tomcat RewriteValve 路径遍历漏洞(CVE-2025-55752)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527706&idx=1&sn=a6e022a0d3397b5cfa5959a58b762bbd",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "AI漏洞导致泄露数万亿记录|3,000 个 YouTube 视频被曝为恶意软件陷阱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612953&idx=1&sn=397c620fdad3a1f6e21a99ba5c24f0d1",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "TP-Link Omada网关曝高危漏洞，无需认证即可远程执行命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612953&idx=2&sn=6553e92ebbbb73e6d6fa0a3caf2849e0",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【高危漏洞预警】Windows远程访问连接管理器权限提升漏洞CVE-2025-59230",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612953&idx=4&sn=5446b16b58cd5c4f90cd92ff4838be04",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508053&idx=1&sn=96aa6bcefec81905a515d3846f774c03",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "秋风代码审计大模型 V1.0 发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484330&idx=1&sn=0aad79fbaf917b67db11d383c83e2727",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "LiteSpeed 缓存漏洞 (CVE-2025-12450)：700 万个 WordPress 网站面临 XSS 攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485623&idx=1&sn=139a6e6bdbfe34082060176f34166c39",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "Chromium 的 Blink 渲染引擎中存在一个严重的、目前尚未修复的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796718&idx=3&sn=965cacb69de17d2ee394962a06b2d17f",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "秋风代码审计大模型 V1.0 发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTc1MDQ3MA==&mid=2247483680&idx=1&sn=0668da08f147ee58ea2650036d07cdd1",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "CVE-2025-62725：Docker Compose任意文件写入漏洞PoC&原理分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484613&idx=1&sn=9d02d37102b6ca51ed1bcbe9511690a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "从用友U8Cloud-FileManageServlet反序列化漏洞开始的0day挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489569&idx=1&sn=0287524ab3f1c042b386a2b2f7347f36",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "LLM能自动生成漏洞Poc了？成功率高达72%，安全生态迎来新变革",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484090&idx=1&sn=e15f06d099975facd3b76b3a360fba99",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "Burp Suite插件 | 监听响应接口、拼接源地址、一键发送请求、快速验证未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495541&idx=1&sn=6c9856796c478e909523f60605d653a6",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "腾讯朱雀实验室出品｜AIG：让AI漏洞扫描像装软件一样简单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493477&idx=1&sn=e3e61e581e5df43983096fca79755f02",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "漏洞预警 | Apache Tomcat目录遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494818&idx=1&sn=7b4bf40c60a8fbb36980c9dd7a05da23",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "漏洞预警 | 红帆iOffice SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494818&idx=2&sn=af17cb7cdd0325f02a54375d5bb2d908",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494818&idx=3&sn=770eb1300476ccfd6068f543f3523624",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    }
+]
