@@ -154,5 +154,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501523&idx=1&sn=50ded334b419b198d86a7253faffac8d",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "从用友U8Cloud-FileManageServlet反序列化漏洞开始的0day挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493031&idx=1&sn=89ebec89515dc1f7c5ba4590adcdf6c4",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "史诗级漏洞！Salesforce遭连环入侵，美APT身份信息数据外泄，FBI紧急查封泄密站",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487041&idx=1&sn=bd0587fad6b4662598c6bdc7d4307fa3",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "Copilot高危漏洞，黑客利用Excel表格隐藏指令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484983&idx=1&sn=a51807c73d5483ee7bdbf47cc5235152",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "安全小知识-第九期-零基础漏洞挖掘入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483982&idx=1&sn=3f571601ae1a0c06f22b047bde5c6b58",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
