@@ -226,5 +226,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTUwMjUwNQ==&mid=2247485807&idx=1&sn=63a9fbcf9fff42c1d2ebc3b7b0ed6966",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "【已复现】Docker Compose OCI 路径遍历漏洞(CVE-2025-62725)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504077&idx=1&sn=c64d3f9372b9ed154653cdc467423555",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "警惕！Windows 曝高危漏洞 CVE-2025-59230，远程访问管理器遭攻击可提权控设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537296&idx=3&sn=b403e7aefb935c2ab5e049792339454d",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "无需认证可远程执行命令！TP-Link Omada 网关漏洞实锤",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537296&idx=4&sn=6572c8d1d0a5821102d090762382a4c8",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "安全人必备！这款 Java CLI 工具，轻松爬取 Exploit-DB 漏洞数据，导出即用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537296&idx=5&sn=91bcdaed62bb74baab2e2f94b3fe31c3",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【已复现】泛微e-cology 前台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492975&idx=1&sn=722f62cc55573832023fab778eaa76e3",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
