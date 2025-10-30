@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503848&idx=3&sn=5eed30437ee74ca9d999e86f92b5447d",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "自动化代码审计的可达性验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485631&idx=1&sn=8c328edeb4f0fa0e9e0329bc1f449fff",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【已复现】Docker Compose OCI 路径遍历漏洞可导致远程命令执行 (CVE-2025-62725)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495076&idx=1&sn=115b479dcced3ec9e25a5c809882bb8d",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "QNAP警示ASP.NET Core高危漏洞波及NetBak PC备份工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585093&idx=2&sn=b67f779335e628b55d77fadd0fcbb0a4",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
