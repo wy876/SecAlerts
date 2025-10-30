@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585093&idx=2&sn=b67f779335e628b55d77fadd0fcbb0a4",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "一个开源的全球通用漏洞库 | 统一漏洞搜索平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486549&idx=1&sn=6be719e106cc2c46974869e1682a2d81",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【PHP代审】某客服系统前台RCE审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487479&idx=1&sn=7cd5225f53e3918ff0a5aff9c7723992",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
