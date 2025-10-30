@@ -184,5 +184,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486348&idx=1&sn=1528d734b5fb4e0e8033500dbbe4b579",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "Chromium漏洞曝光：Brash DoS攻击让浏览器瞬间崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503848&idx=3&sn=5eed30437ee74ca9d999e86f92b5447d",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
