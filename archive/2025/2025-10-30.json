@@ -292,5 +292,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503869&idx=1&sn=95c40ea9ec6d9714d962d2c03e8da4fc",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "【安全圈】Bitter APT 利用旧 WinRAR 漏洞发起新型后门攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072486&idx=2&sn=df940bbc4e35d0f899c79dcbd9a40053",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "一款人工智能驱动的高性能漏洞扫描器 -- Deep-Eye",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486975&idx=1&sn=40aa436c0d1e9d629036703d57fb1bca",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "CISA：DELMIA 工厂软件漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524309&idx=2&sn=6a1f2f3bc9f09a34ea32edd38d3bd146",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
