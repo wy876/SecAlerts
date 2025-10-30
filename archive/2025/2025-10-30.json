@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492975&idx=1&sn=722f62cc55573832023fab778eaa76e3",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "实战｜记一次某系统的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575466&idx=1&sn=e25bcf3ff504098c603d9632dea9de16",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【漏洞通告】Docker Compose 路径遍历漏洞(CVE-2025-62725)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501724&idx=2&sn=0c17c5a1e6ed81094bc16791c5ab64ab",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "LangChain 任意命令执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490775&idx=1&sn=8cdfdbb3497b8f3e14fd7a63362b6a78",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
