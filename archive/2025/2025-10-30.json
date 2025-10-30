@@ -106,5 +106,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494818&idx=3&sn=770eb1300476ccfd6068f543f3523624",
         "source": "Doonsec",
         "date_added": "2025-10-30"
+    },
+    {
+        "title": "东胜物流软件 UserInfo.aspx SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484222&idx=1&sn=0b6ab90b86a023139db351a5f8219a38",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【漏洞通告】Apache Tomcat RewriteValve 目录遍历漏洞 (CVE-2025-55752)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524739&idx=1&sn=f2d1ead29085eb405715273345bc97d9",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "针对若依系统nday的常见各种姿势利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498449&idx=1&sn=6a6fd80869ecc7582ba815d8e92d7011",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "漏洞预警 | Apache Tomcat Rewrite 模块路径遍历漏洞（CVE-2025-55752）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488360&idx=1&sn=8e83d24bcbbbd4380d34097017cfc2ce",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "宏景eHR DigestDownLoad SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493137&idx=1&sn=618a2ed2f0c770bf1d0a1334703b162a",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "急聘渗透测试工程师（郑州绿盟）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485736&idx=1&sn=f27d430ad6b2b0865ec24fcaec9987c0",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "新的ChatGPT Atlas浏览器首个漏洞让攻击者可以植入恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492811&idx=1&sn=42b3c4b5cd5e150b840ec25abe9be8d4",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
+    },
+    {
+        "title": "【CVE-2025-55752】Apache Tomcat 路径遍历检测与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501523&idx=1&sn=50ded334b419b198d86a7253faffac8d",
+        "source": "Doonsec",
+        "date_added": "2025-10-30"
     }
 ]
