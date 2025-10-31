@@ -430,5 +430,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDcyMDkxNQ==&mid=2247483755&idx=1&sn=abb1d39ce574168cdfd03117ac36308d",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "想让XSS漏洞斩获翻倍？这组Payload利器不容错过！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797278&idx=1&sn=5b3a0d787068a4ce564d4930fde67613",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
