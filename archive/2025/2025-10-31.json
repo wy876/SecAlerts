@@ -370,5 +370,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDM5MjczMw==&mid=2247484533&idx=1&sn=028aabc74d89dd98cb51234b1a20f11e",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "Java代码审计[上]-(RuoYi_V4.2)若依管理系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDAwNzM3MQ==&mid=2247522204&idx=1&sn=9680ded8378c889f466b12d2aeef6880",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【安全圈】新“Brash”漏洞：单个恶意 URL 即可在数秒内使 Chromium 系列浏览器瘫痪",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072509&idx=2&sn=d3f8121beda67518cdde70e636d390d5",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "OpenAI发布基于GPT-5的自主漏洞修复AI Agent",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329712&idx=1&sn=49bb0e9917b02f6732864538cad4cce2",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Blink渲染引擎漏洞可在60秒内导致Chromium内核浏览器崩溃，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329712&idx=2&sn=1bbf917bb5b075e9ea9222ad64819470",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "RediShell RCE漏洞导致全球8500多个Redis实例面临代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329712&idx=4&sn=5ffb7573bc284b41f18ccddc7dcc511a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "复旦大学、清华大学等 | 超越漏洞扫描：一种功能性变更驱动的远程软件版本识别方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494247&idx=1&sn=d4177459c870a0c51a257b1b630593ad",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "小红书RCE漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486563&idx=1&sn=c04c32714a87a31aa3fe58fbaf719e4b",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
