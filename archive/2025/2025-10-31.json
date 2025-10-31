@@ -256,5 +256,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzA0ODUwNw==&mid=2247487273&idx=1&sn=4ba6004fc32a1fa03b11b281ae0539e7",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "【已复现】Windows SMB 服务器特权提升（CVE-2025-58726）：幽灵 SPN 与 Kerberos 反射攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495139&idx=1&sn=717fd0f8a4a01eb4d16d86d0010112b6",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【已复现】Ubuntu AF_UNIX 模块权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495139&idx=2&sn=9fb294118352fe960e2896c29f7ce99e",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "小红书翻译功能任意命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501531&idx=1&sn=ad4fb391168e49b5a5b13cd00833332e",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞挖掘-AI提示词越权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484658&idx=1&sn=f64559fc51f8234c8a6cff9c12133e74",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "信息安全漏洞周报【第045期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064424&idx=1&sn=b76e7b4dfd817d67bd4a145f5450a2e0",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "随便玩玩！小红书翻译的命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTczNzIxNQ==&mid=2247487218&idx=1&sn=6913e8b65464c230e5e3c534833186c9",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【漏洞挖掘Tips】IDOR 终极技巧清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484492&idx=1&sn=457911a190466d6241e0a286517b4701",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Greg, 黑客、摇滚明星和渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232791&idx=2&sn=4cb214e7880513f07ebc534e7ea41310",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
