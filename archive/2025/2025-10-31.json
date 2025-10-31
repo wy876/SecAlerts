@@ -448,5 +448,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232793&idx=1&sn=3b3710a2acc3900ae28976b9642d6072",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "CVE-2025-55752 Apache Tomcat 路径穿越漏洞影响范围修正与利用分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492522&idx=1&sn=b0d52f967db7df8ec7bddf3a639e63b3",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
