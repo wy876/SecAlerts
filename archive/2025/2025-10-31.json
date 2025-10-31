@@ -346,5 +346,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247487385&idx=1&sn=bb0d97d8fff49f70b6fc034731e433f0",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "谷歌沉默以对，Chromium漏洞曝光！数十亿用户面临浏览器崩溃风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603005&idx=2&sn=40181b69e27466e402c789292a095783",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞预警 | Docker Compose OCI 路径遍历漏洞可导致远程命令执行 (CVE-2025-62725)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484673&idx=1&sn=8ccbf6bb1560e3619382567f55d3191a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【高危漏洞预警】Microsoft Windows SMB Server身份认证绕过漏洞CVE-2025-58726",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490929&idx=1&sn=b5563b8061a9a2847499ca24cd09ffe8",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "小红书翻译模型RCE- LLM幻觉",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDM5MjczMw==&mid=2247484533&idx=1&sn=028aabc74d89dd98cb51234b1a20f11e",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
