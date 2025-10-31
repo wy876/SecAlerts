@@ -106,5 +106,137 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628209&idx=1&sn=ee2f52ee9f68f66094b446c038e23017",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "SRC漏洞思路分享：一次普通的弱口令测试，为什么改了个 accountType 就能登录内部账号？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484496&idx=1&sn=c82e610d2ab1cfab489a6b411ba26c73",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "美特CRM getFile 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493146&idx=1&sn=51f0b022a0d229dfaa080708aee707fc",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Done-RCE进阶学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDcyODYwNw==&mid=2247487498&idx=1&sn=fc0548c026aa2a77a5a0050344725e8e",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "jeecg-boot getDictItemsByTable接口存在SQL注入漏洞CVE-2024-48307 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483769&idx=1&sn=01553e3daf3ee85114e43ab4fd19f425",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "外网打点不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508100&idx=1&sn=d1b09d4fe12bd15e5858fc108372ed7a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Progress 修复了 MOVEit Transfer AS2 模块中的高危漏洞 (CVE-2025-10932)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485651&idx=1&sn=4da870e7fc99b71f8039c4c0743ac981",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "渗透测试数据库提权命令清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492905&idx=1&sn=cc651b5a012052ad68248b3d56e1bb76",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞组合拳与JS攻击面的博弈",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514457&idx=1&sn=10145932052c816254f6f716be707df1",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Exploiting path mapping for web cache deception 解题教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjI3MzU3MA==&mid=2247484948&idx=1&sn=6d1284cd15d14ff6345a84b7771f5e20",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "一次渗透测试中的任意文件上传+任意密码重置",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489084&idx=1&sn=1cf481bd294cc0eeceb9afb6a478693e",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞预警 | Docker Desktop DLL劫持漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494824&idx=1&sn=a47e2b3b63e140f8d5024f4bf6c16c07",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞预警 | 博硕BGM SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494824&idx=2&sn=e95e01833095e68d603246ac1ea5e86f",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494824&idx=3&sn=056276917321c4a1172ac255659328eb",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱v1.9.3版本更新（优化小程序反编译，支持提取敏感信息以及导入开发者工具运行）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484591&idx=1&sn=c6f27cf26f68892942c469405a44026a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "内网渗透(四)：隧道搭建",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487932&idx=1&sn=2450bf4ee5c2c98595ae4e954e90c0cd",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "2025最新AWVS/Acunetix-v25.8.25高级版更新漏洞扫描器下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495464&idx=1&sn=581444e1c7cdd68c46f760488d987cc4",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "超过 75,000 台 WatchGuard 安全设备存在严重 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493969&idx=1&sn=b527eb841d2070cdcaf27aa307be49bd",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524648&idx=1&sn=f2c24b20f296fdf69bcc67a56d82cd87",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【吃瓜】502敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485412&idx=1&sn=2feb86e05999a975172c05aa24a83d88",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "安卓应用安全：WebView漏洞挖掘教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485365&idx=1&sn=e4a83ed87069ebb80ead6e9ca4475936",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "内核漏洞提权已过时？当黑客连上Tro0ll3靶场SSH，却发现整个世界只有一个端口开放……",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247488514&idx=1&sn=954e9f3ff75d34eb54a57391a3f445c6",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "实战攻防技巧 | Everything后渗透利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521016&idx=1&sn=25b0644c0e68c51c8c492bb1d9508e3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
