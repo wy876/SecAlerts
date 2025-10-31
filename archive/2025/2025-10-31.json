@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232791&idx=2&sn=4cb214e7880513f07ebc534e7ea41310",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "【漏洞通告】Docker Compose OCI路径遍历漏洞 CVE-2025-62725",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524750&idx=1&sn=d471c01bbc34fe3a5b16da387fd7d3dd",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Java代码审计（day3）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483744&idx=1&sn=b3877e7d0f730b22b31a6b3029fb04b9",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "化解“两高一弱”安全危机：星海自动化渗透平台，一键透视集团企业核心威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650625888&idx=1&sn=286dc8e534b1c510d1d1b4254e9fffe0",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "漏洞吃瓜爆料 小红书翻译RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNDI1Mg==&mid=2247483811&idx=1&sn=4bae7bac966889627f2098baea46c257",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【漏洞预警】Apache Tomcat路径遍历漏洞（CVE-2025-55752）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485215&idx=1&sn=8ed7f89a92acdd09de855308b7e173b8",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
