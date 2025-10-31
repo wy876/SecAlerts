@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485215&idx=1&sn=8ed7f89a92acdd09de855308b7e173b8",
         "source": "Doonsec",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "渗透测试人员的副业指南：如何用安全技能变现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484978&idx=1&sn=799a6ec9e8dc094dcc76e25f1861f5c1",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "论文研读与思考|Is MPC Secure？利用神经网络分类器检测MPC实现中的数据泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247487385&idx=1&sn=bb0d97d8fff49f70b6fc034731e433f0",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
