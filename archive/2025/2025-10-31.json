@@ -10,5 +10,101 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183237&idx=1&sn=c92702256a591c5076ee8d2e9f867e5d",
         "source": "BruceFeIix",
         "date_added": "2025-10-31"
+    },
+    {
+        "title": "2025-10-31 最新安全漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486352&idx=1&sn=219236dafa1f45f3530f4ee0f8cedf2b",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "死灰复燃！昔日 “黑客军火商” 换壳归来，用 Chrome 零日漏洞猎杀俄政府目标",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487060&idx=1&sn=19b15fe51cf3e93a3f2a30997fab73d7",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "CVE-2025-49844：Redis Lua 脚本中的释放后使用漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533362&idx=1&sn=696fe473c7b6a1d00faae7d250bfac93",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "某新版AI客服系统前台反序列化RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493033&idx=1&sn=a7f94b3cb242fd9dbb7f63234a18de5c",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "渗透测试AI神器 -- FastAIE（10月31日）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517527&idx=1&sn=a58307b06792f808a3beb30255ad1a6d",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612997&idx=2&sn=d8cfe3b3ea7529ac3dce2046277ebf17",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "水漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492351&idx=1&sn=3565c0f65540b34b3c6e95a506ddbe3a",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "UNC6384利用ZDI-CAN-25373漏洞，对欧洲外交机构部署PlugX恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796735&idx=1&sn=486a7c464abe87202a1a94d3e1859bd5",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "美国前国防承包商高管承认向俄罗斯出售漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796735&idx=2&sn=9bc231f22dbe85a938ebc65f363e48fa",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "RediShell 远程代码执行 (RCE) 漏洞严重威胁全球 8500 多个 Redis 部署",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796735&idx=3&sn=3ec651d715f7185ebb1678509a260b13",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "帆软反序列化漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484923&idx=1&sn=82437eab7e32359b428afff693d39597",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "渗透测试辅助工具mSS-GUI v0.1.4更新：关于小老妹为更新插件怒提两个PR这回事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487392&idx=1&sn=0eb56f2122e61251e1f7bb34afb29d80",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【已复现】泛微e-cology 前台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527754&idx=1&sn=dea936b01ececab91e406e9adf12e27d",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "通过未经请求的应答记录进行 BIND 9 缓存投毒攻击 (CVE-2025-40778)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533361&idx=1&sn=68b067e9e11ddfa7d14550ea22f40fd1",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "【高危漏洞预警】Docker Compose OCI路径遍历漏洞CVE-2025-62725",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490924&idx=1&sn=c7ad5dcb261fdc41308a414e2aa64031",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
+    },
+    {
+        "title": "车联网漏洞挖掘方法及典型案例剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628209&idx=1&sn=ee2f52ee9f68f66094b446c038e23017",
+        "source": "Doonsec",
+        "date_added": "2025-10-31"
     }
 ]
