@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzY3MTgyMw==&mid=2247484169&idx=1&sn=16d3899502f30a6f9a756535e463fb22",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "Apache Tomcat 修补URL重写绕过（CVE-2025-55752）存在RCE和控制台ANSI注入风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553127&idx=1&sn=e999f4a9abb58bb5ff153f36f80bb31c",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
