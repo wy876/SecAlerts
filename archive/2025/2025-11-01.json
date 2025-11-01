@@ -64,5 +64,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTQ2MjAxMQ==&mid=2247483870&idx=1&sn=d91957783a27107f1fe818e7c7763843",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "【案例】HubSpot 账户接管漏洞：参数暴力破解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486665&idx=1&sn=5a7ebd057dd281cbd1e2d0aa4388fecf",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "国外软件漏洞预警！！！拒绝服务通杀全平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzY3MTgyMw==&mid=2247484169&idx=1&sn=16d3899502f30a6f9a756535e463fb22",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
