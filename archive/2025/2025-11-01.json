@@ -88,5 +88,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553127&idx=1&sn=e999f4a9abb58bb5ff153f36f80bb31c",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "黑客神器还是安全盾牌？聊聊Python在渗透测试中的“万能”魅力",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485015&idx=1&sn=207afd9065af96b494fda1cefe5cded1",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "全球最大的信用报告和数据分析公司之 Experian 因大规模收集个人数据被罚款 320 万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493978&idx=1&sn=91836ffb68ad87969bd34177f8eff735",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "微软 WSUS CVE-2025-59287 漏洞回顾分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485919&idx=1&sn=886982076d0abccabc11184b9b250a01",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "CVE-2025-49844：Redis Lua 脚本中的释放后使用漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=3&sn=8af813cf85c60fa876ed8502df5e31d3",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
