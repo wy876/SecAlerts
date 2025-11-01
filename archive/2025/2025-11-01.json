@@ -1,0 +1,26 @@
+[
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：SQL注入漏洞深度解析（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484830&idx=1&sn=07b8a85f89d2816332a98968035cecd8",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "Burp Suite插件 | 监听响应接口、拼接源地址、一键发送请求、快速验证未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613020&idx=4&sn=1b359c1855699f863d7b07f542874c29",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "【攻防渗透集锦】漏洞组合拳与JS攻击面的博弈",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498624&idx=1&sn=24b361695a7d97a4afe6a07e23d7d40c",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "从用友U8Cloud-FileManageServlet反序列化漏洞开始的0day挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493510&idx=1&sn=50d977641b59f4936252285fe8cbac4c",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    }
+]
