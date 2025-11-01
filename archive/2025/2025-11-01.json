@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495146&idx=1&sn=96d740a86e8d9aae0437d4882834ef5d",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "【JAVA安全研究】 鉴权绕过 Spring与Shiro对于\\\"/\\\"和\\\";\\\"的处理差异导致绕过 CVE-2020-1957",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484406&idx=1&sn=6378de6f0b6c01f8ca614e22a4c92e79",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
