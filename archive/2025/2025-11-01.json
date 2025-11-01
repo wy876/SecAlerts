@@ -22,5 +22,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493510&idx=1&sn=50d977641b59f4936252285fe8cbac4c",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "] [ISC2新课程通过策略执行点传授零信任技能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493246&idx=1&sn=bbd2f64a345a4f4aae5b0268076a37ed",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "Fastjson漏洞原理与绕过方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489175&idx=1&sn=54be721ef77fdfab78caeea34e6e1dc0",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "网安技术入门：从漏洞原理到实战防御的 3 个核心维度（附工具包 + 视频课）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486366&idx=1&sn=c09c172ea6a4dd0a4144a5832fd00c15",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "【真实复现】Redis Lua脚本 UAF 漏洞可导致远程代码执行(CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495146&idx=1&sn=96d740a86e8d9aae0437d4882834ef5d",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
