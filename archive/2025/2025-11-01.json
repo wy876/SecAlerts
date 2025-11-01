@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484406&idx=1&sn=6378de6f0b6c01f8ca614e22a4c92e79",
         "source": "Doonsec",
         "date_added": "2025-11-01"
+    },
+    {
+        "title": "Nacos nodes接口存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483774&idx=1&sn=3e0e4d3fa507babbabeaa787c176e564",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
+    },
+    {
+        "title": "ActiveMQ漏洞检测工具发布！一键检测，守护企业安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTQ2MjAxMQ==&mid=2247483870&idx=1&sn=d91957783a27107f1fe818e7c7763843",
+        "source": "Doonsec",
+        "date_added": "2025-11-01"
     }
 ]
