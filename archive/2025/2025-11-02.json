@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498494&idx=1&sn=bac97ff85c737b657923306d701e70b5",
         "source": "Doonsec",
         "date_added": "2025-11-02"
+    },
+    {
+        "title": "别把桌面当防线：Docker Desktop 的 Engine API 未授权访问（CVE-2025-9074）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484732&idx=1&sn=d28f22d90bc94e947dd883499c7ba723",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
     }
 ]
