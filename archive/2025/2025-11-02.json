@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486356&idx=1&sn=c236a9c56ee692451bbe163ad08f89e5",
         "source": "Doonsec",
         "date_added": "2025-11-02"
+    },
+    {
+        "title": "契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
     }
 ]
