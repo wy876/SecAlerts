@@ -100,5 +100,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484732&idx=1&sn=d28f22d90bc94e947dd883499c7ba723",
         "source": "Doonsec",
         "date_added": "2025-11-02"
+    },
+    {
+        "title": "XXE漏洞基础玩法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490972&idx=1&sn=41fb94123a92539772b8b29ecccb82a0",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "Rust库曝高危漏洞（CVE-2025-62518）可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "从资产发现到漏洞利用: 一款工具轻松搞定",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496133&idx=1&sn=5e1be38b9248e1db7eb9a2a9aba559c8",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "把小洞变大洞：将任意文件读取/删除漏洞危害扩至最大导致系统全面沦陷|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495533&idx=1&sn=a8ad96dfb124d3cb22405dfb847dec18",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
     }
 ]
