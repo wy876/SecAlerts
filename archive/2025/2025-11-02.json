@@ -46,5 +46,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651",
         "source": "Doonsec",
         "date_added": "2025-11-02"
+    },
+    {
+        "title": "【安全圈】潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=2&sn=c81c7308a4677ee750540927bea32d33",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "【安全圈】黑客利用Windows零日漏洞攻击欧洲多国外交部门，微软未修补",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
     }
 ]
