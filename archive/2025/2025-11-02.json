@@ -58,5 +58,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6",
         "source": "Doonsec",
         "date_added": "2025-11-02"
+    },
+    {
+        "title": "XXE漏洞前置知识",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490915&idx=1&sn=0644988af352918c6e44fa7872bf16ea",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "《2025年暴露管理指数》深度解读：高危漏洞激增20%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637866&idx=4&sn=4e23302e960340ceb71edeeaa4dcccac",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "记edusrc某高危漏洞的简单挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "远离赌博！德州扑克洗牌机漏洞可操控赌局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484407&idx=1&sn=1e5e0ba7047b044c7a194eb1be3281cf",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
+    },
+    {
+        "title": "WebSocket漏洞挖掘新手指南：轻松发现隐藏的XSS",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630",
+        "source": "Doonsec",
+        "date_added": "2025-11-02"
     }
 ]
