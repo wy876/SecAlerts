@@ -268,5 +268,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262209&idx=1&sn=acf63b442fcadb961e29ff786612d4f7",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "CVE-2025-50168 漏洞利用 PoC — Pwn2Own Berlin 2025-LPE（Windows 11）漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533391&idx=1&sn=ed3f49f3fe60f14b3518d611cbdd8aa9",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.10.27-2025.11.02",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503587&idx=1&sn=1eeb1f6ec48a5b08eded94f7eef3e282",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "AI驱动的漏洞搜寻正在颠覆赏金行业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260535&idx=1&sn=971608593b4deddbd261a616762c1429",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "又一个可用于命令执行的 DCOM 对象（第 1 部分）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491025&idx=1&sn=bc37b7838d3e286b13e9e98ddcee7d77",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
