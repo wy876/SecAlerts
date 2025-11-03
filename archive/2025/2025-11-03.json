@@ -376,5 +376,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490936&idx=1&sn=67fb6a9539fe1317e913e84e6dd29759",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "自动化检测 Swagger API 接口未授权访问漏洞工具 - SwaggerHound",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486637&idx=1&sn=dbd8f8e92bdc4a375a39b1a5964a0d9e",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：SQL注入漏洞深度解析（三）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484836&idx=1&sn=e518b281f7cd728a8779d4b86cc1f195",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
