@@ -1,0 +1,110 @@
+[
+    {
+        "title": "漏洞危害严重",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247502290&idx=1&sn=5e9fb7db061a2c6cd73ac874b17cbe9e",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞挖掘-AI提示词越权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484664&idx=1&sn=c919d528c0459a536f47b1dc728363d5",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "APT组织UNC6384利用Windows 0-day漏洞攻击欧洲外交机构",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490225&idx=1&sn=2df49e0536eb9343c5f0f686dd8aa32e",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Dataease JWT 认证绕过导致未授权访问漏洞CVE-2025-49001 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483784&idx=1&sn=753e144b5bfc25c213fb5fa8b91ab959",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=3&sn=6608e0f7c733f381bee7f07449038a3a",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Metasploit模块开发指南：从PoC到武器化！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=4&sn=1381116953ad5657fc41fa1aa6da13a3",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "记某综合管理系统代审前台Http_SSRF到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487506&idx=1&sn=9dd94b4ee58ed2066507e56a036d5678",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "证书站实战｜多API接口组合攻击漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=2&sn=7d44ab93bdfea5094d59b24832a63842",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "意外收到快递-学员对他渗透又审计（教科书式）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487043&idx=1&sn=1bf84441abd0e2f274fd7f72d3d7084e",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "WordPress 插件严重漏洞（CVE-2025-8489，CVSS 9.8）允许未经身份验证的管理员接管账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "高效渗透！Web资产存活快速验证工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508157&idx=1&sn=b400016db515e5ebaa131f2f61087e19",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "5款浏览器漏洞挖掘插件，红队白帽必备效率神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484092&idx=1&sn=cd536592ab6dc20a7c677b97c165522f",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "深扒：黑客如何“隐身”两个月？揭秘“零恶意软件”的渗透攻击链！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485265&idx=1&sn=feb5603d028c0f8f8fac7bf53d0b1658",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Nacos 综合漏洞利用工具 | 更新V3.0.5！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514478&idx=1&sn=575b0bff4211dd0706213f4fd598a708",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "OSS 存储桶漏洞扫描工具，支持阿里云、腾讯云、华为云、AWS S3 等主流对象存储服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495565&idx=1&sn=69e655fb70d2e95cc7138872fec37303",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞预警 | WordPress Plugin Contact Form CFDB7 SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞预警 | Ruvar HRM SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    }
+]
