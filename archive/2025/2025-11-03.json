@@ -370,5 +370,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329758&idx=2&sn=4c9f0a322f8727237074f2e6c888c42c",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "【高危漏洞预警】JumpServer ConnectionToken权限验证不当漏洞CVE-2025-62712",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490936&idx=1&sn=67fb6a9539fe1317e913e84e6dd29759",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
