@@ -346,5 +346,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329758&idx=3&sn=84df5ebc3b5f2fb929e1a3dec1288c6c",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "【安全圈】新型BOF工具利用Microsoft Teams Cookie加密漏洞可访问用户聊天",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072559&idx=1&sn=0d7a0114f06acdd1cc9c2e8f0cd2a305",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "【安全圈】SMILODON 木马通过伪造 PNG 潜入 WooCommerce 执行支付信息窃取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072559&idx=2&sn=bcf2305f77dbac5bf6b0b49f922f6bfb",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "赏金猎人笔记：XSS漏洞的四种高级利用方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797290&idx=1&sn=f782f20396172b96390121a51b649314",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Claude AI漏洞：攻击者可利用代码解释器窃取企业数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329758&idx=2&sn=4c9f0a322f8727237074f2e6c888c42c",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
