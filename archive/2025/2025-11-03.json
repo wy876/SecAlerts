@@ -106,5 +106,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "java代码审计基础-jvm以及字节码介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492922&idx=1&sn=18982d21b13938612436f7c71086e383",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Springblade二开框架较全历史漏洞总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489190&idx=1&sn=357d4f0e7136233f032ea8486d007493",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "用友NC ActivityNotice export sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493155&idx=1&sn=1b1a82402244571d8749fa1ba43b464d",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "2025-11-03 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487663&idx=1&sn=4ca4771000d2ae605327ed881177af9d",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "学员EDUSRC挖掘成果分享（RCE&&Durid未授权）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247486294&idx=1&sn=6440104dcb28d9235d4705a76fff9c95",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "秋冬福利季｜速来⏳10个漏洞轻松赢最新款周边！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509532&idx=1&sn=ed79c6207af431e823d899ecdb61f939",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "OpenAI 推出 Aardvark：GPT-5 驱动的智能体，实现代码漏洞 “自动检测 + 修复” 闭环",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486331&idx=1&sn=f4572ceb91f5e929ee827b68a5134531",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Brush漏洞可在15-60秒内导致任何基于Chromium的浏览器崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495178&idx=1&sn=72d0f4797604d2a654d16a0b17f6cade",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "旧版Linux内核漏洞CVE-2024-1086在勒索软件攻击中再度浮现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495178&idx=2&sn=893791e04784c6ec51d56b32e9366b89",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
