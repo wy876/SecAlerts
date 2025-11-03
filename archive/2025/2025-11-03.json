@@ -160,5 +160,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495178&idx=2&sn=893791e04784c6ec51d56b32e9366b89",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "意外收到快递-学员对他渗透又审计（教科书式）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493040&idx=1&sn=493ea7afc0206c0951f757544710c65d",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "Nacos综合漏洞利用工具 -- NacosExploit（11月1日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517535&idx=1&sn=5d5c487e563423ca187adf3472e659cf",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞挖掘 | 某学工平台越权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553196&idx=1&sn=51c8e34ab344a1e2408037ff142183a4",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
