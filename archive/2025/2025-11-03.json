@@ -340,5 +340,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488316&idx=1&sn=1239681f90709fe05aab7dc65cbcc70b",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "Linux 内核释放后重用漏洞正被用于勒索软件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329758&idx=3&sn=84df5ebc3b5f2fb929e1a3dec1288c6c",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
