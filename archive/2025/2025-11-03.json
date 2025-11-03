@@ -292,5 +292,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491025&idx=1&sn=bc37b7838d3e286b13e9e98ddcee7d77",
         "source": "Doonsec",
         "date_added": "2025-11-03"
+    },
+    {
+        "title": "ISC修复 Kea DHCPv4 中的高危DoS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524320&idx=1&sn=306dfe01a82660773ae94222e26c6dc8",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "每周网安资讯（10.28-11.3）| Linux Linux_kernel存在经典缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507246&idx=1&sn=4e55042d01cb4994c289438d02766976",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "「情报猎手」集结！双倍奖金+大疆Pocket 3，锁定精英猎场 ！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NDEzNzIxMg==&mid=2650493185&idx=1&sn=770e09327100ec773653f110cf79d60f",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "【WordPress专题01】前台管理员账户创建漏洞（CVE-2025-4334）漏洞分析及POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484874&idx=1&sn=201d4be14b19110dd810479005c241ea",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "物联网停车场景漏洞设计：从 LoRa 数据伪造到平台信息欺骗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjkwNTUwOA==&mid=2247484144&idx=1&sn=33f9b0f1174fd5b24ae1047e91098b70",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "漏洞盒子 x 金蝶SRC | 漏洞盒子「企业SRC」新住客",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649769689&idx=1&sn=34d267bb7b4d8f529329e658c704f49c",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "0076.足以彻底终结“信任微软”的“上帝模式”漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691214&idx=1&sn=3cb60906fab0bcf24a49d907dbef11fc",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
+    },
+    {
+        "title": "如何有效提升自己的渗透测试技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488316&idx=1&sn=1239681f90709fe05aab7dc65cbcc70b",
+        "source": "Doonsec",
+        "date_added": "2025-11-03"
     }
 ]
