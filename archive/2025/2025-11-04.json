@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495554&idx=1&sn=f9504dea52ab2dcc3e287eae40d2c781",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞挖掘 | 记某证书站漏洞挖掘分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMTE2OQ==&mid=2247484251&idx=1&sn=c6d162d122d7978ec536c26de5c508d3",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "研究揭示全球移动网络存在“上下文完整性”架构级漏洞危及数十亿设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247515539&idx=2&sn=f4b30d294f1a2d1c3cfd64da15004521",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
