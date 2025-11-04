@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508701&idx=1&sn=69b6c5958d5c8899b5178561fa6d9b49",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "OpenAI发布能自动修复代码漏洞的“安全智能体”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504345&idx=2&sn=f3d9f0ca4095b2315125c21c569b1892",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "Windows SMB高危提权漏洞遭活跃利用 未打补丁设备恐被获取SYSTEM权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585143&idx=2&sn=a94dc8104b295d873d3064cc8fbf8149",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
