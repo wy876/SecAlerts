@@ -268,5 +268,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495167&idx=1&sn=95d7e1a9457d2f9f8c4bdb34d819e49f",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "谷歌为两个 Chrome 漏洞各支付5万美元赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524326&idx=1&sn=82a7e38332ab7d2a0d31d4616e76a10d",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "Elastic Cloud Enterprise 中存在高危提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524326&idx=2&sn=77c8f9b883e84dc5758247fd1b100205",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【漏洞通告】JumpServer连接令牌验证不当漏洞（CVE-2025-62712）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489404&idx=1&sn=e7c550ee55d4feea09a51b8516771a55",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
