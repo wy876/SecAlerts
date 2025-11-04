@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490797&idx=1&sn=01f054c79a6ae9e2326533d85c8f6454",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "西门子医疗大中华区网络安全官确认「MediSec 大会」分享：医疗器械生命周期安全漏洞管理机遇与挑战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247562109&idx=3&sn=7c0af4b7b9cc6e8c11e50df529237dc8",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "分享一个白帽挖掘到漏洞的过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498508&idx=1&sn=edcb4162c0da31e475113aecbbf40032",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【已复现】NVIDIA Linux GPU Kernel本地提权漏洞（CVE-2025-23280/23330）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495167&idx=1&sn=95d7e1a9457d2f9f8c4bdb34d819e49f",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
