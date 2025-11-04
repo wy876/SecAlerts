@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585143&idx=2&sn=a94dc8104b295d873d3064cc8fbf8149",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "一次白盒审计实战：快速挖掘通用漏洞并获取CNVD证书",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDc0MDE2Mw==&mid=2247483757&idx=1&sn=95df408f90a16f02184ba3f694b90094",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第42期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500788&idx=1&sn=d11e9f9c37c26205894a35a035e886c1",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
