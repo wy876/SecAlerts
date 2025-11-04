@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489474&idx=1&sn=b3c36f4caf17aace1b5ca164f529243e",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "支持主流平台 | 最新OSS 存储桶漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496150&idx=1&sn=77262b87d312e8acf100b6760c4e08ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "OSS存储桶的漏洞扫描工具，目前支持阿里云、腾讯云、华为云、aws|漏洞探测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495554&idx=1&sn=f9504dea52ab2dcc3e287eae40d2c781",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
