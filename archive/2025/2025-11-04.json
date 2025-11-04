@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492748&idx=1&sn=04604e4d567dc66a869d1a96d16d36c9",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "【SRC实战】通过FUZZ挖掘高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521027&idx=1&sn=badca6b9aede18e3d17f826fba93ab72",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
