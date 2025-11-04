@@ -286,5 +286,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489404&idx=1&sn=e7c550ee55d4feea09a51b8516771a55",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "Struts2全版本漏洞检测工具 — Struts2VulsScanTools",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486324&idx=1&sn=326ed1be8d277ded8f89f51ffe5f2487",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【安全圈】黑客大规模扫描 TCP 端口 8530/8531疑似利用 WSUS 远程执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072575&idx=2&sn=b0a0a119af928b981b818b1cfb4ac9cd",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "Spring框架的漏洞扫描及漏洞利用图形化工具 - YYBaby-Spring_Scan",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486639&idx=1&sn=ce43d9196d975a5d2b865ebed9fb566b",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "XXE漏洞狩猎指南：从原理到实战，斩获高额赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797298&idx=1&sn=c160483d59f47b2ac06595f16eac201b",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
