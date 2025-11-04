@@ -1,0 +1,86 @@
+[
+    {
+        "title": "OpenVPN漏洞（CVE-2025-10680）允许通过恶意DNS服务器在Linux/macOS上注入脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488292&idx=1&sn=9b93055f43727fb9de8e9643140f5a96",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "Chrome 142发布：修复两个高危级V8漏洞，支付10万美元漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495189&idx=1&sn=07a0236d0f1a21a2e06a6102597d02aa",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "黑客利用Windows零日漏洞攻击多国外交部门，微软未修补|潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=1&sn=ce13fbc76c54b782a7963b76e214107d",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "OpenAI发布基于GPT-5的自主漏洞修复AI Agent",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=2&sn=340b0d8e6acf43766066b8168c8783de",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【高危漏洞预警】Microsoft Windows SMB Server身份认证绕过漏洞CVE-2025-58726",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=4&sn=270e267f082cc09cf86d769eedeca5a1",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "2025-11-04 最新安全漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486364&idx=1&sn=f494d2768ecd0587ddd3c829119737a8",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "java代码审计基础-java反射(一)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492944&idx=1&sn=19c47ab9b0b6d27f272b944c755e5bd9",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "一个接口到底能引发多少漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520393&idx=1&sn=5d43ed836d46c7237421ec20fb1daf71",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞预警 | JumpServer ConnectionToken 权限验证不当漏洞(CVE-2025-62712)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484679&idx=1&sn=4fcee0b77b5f07b1dc769c7af04664ba",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞预警 | Windows远程访问连接管理器权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=1&sn=437cac8ee10ee6fb081523d0c58a7f64",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞预警 | KINGOSOFT高校智慧校园教学综合服务平台任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=2&sn=8ba9891e708d425ba04bf8a6975a150c",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "渗透测试利器，基于多引擎融合的 AI漏洞扫描器和渗透测试工具|Deep-EyeV1.3漏洞探测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495539&idx=1&sn=4000366232b81fd1c0f105fe21b9a48c",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "同享人力资源管理系统PeiXun.asmx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489463&idx=1&sn=0f7ee91993801ca90365e208ebb93f30",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    }
+]
