@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650636935&idx=2&sn=bdb72fa2e67c0481b1d568fcc02e79aa",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "【DC-7 合法模拟渗透学习】两次\\\"社工\\\" + 一次定时任务执行提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484845&idx=1&sn=890bacd0a2cc18224a2dc5637ae6b277",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "渗透测试工具大全及对比分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485015&idx=1&sn=1232e133e2ad2cc128ea57bf5690cf1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "漏洞通告 | JumpServer superconnectiontoken 权限管理错误漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507958&idx=1&sn=02807b3fdc6e69de9452f8c7117b8b20",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
