@@ -220,5 +220,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501738&idx=2&sn=69a90e316d1d585a3c4e395ce3e6560f",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "价值25,000$的UniFi OS前台RCE发现之旅",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484636&idx=1&sn=916cae948132e44a511694e0869e6629",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "ZASRC漏洞接收资产范围更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQwMjYxNg==&mid=2247483838&idx=1&sn=eabc0fbe0e2177375901961d9f0b8d2e",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "1Day-某UAS企业管理系统存在多处SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485891&idx=1&sn=9d0d2267268fa91d0266135a2b5a50dc",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "双系统同时曝高危漏洞！外交部门遭窃密，Linux 十年漏洞被勒索利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537461&idx=1&sn=d3373e82f647cd1cfc21d6c9010f25cc",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "Sudo堆溢出漏洞分析及利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490797&idx=1&sn=01f054c79a6ae9e2326533d85c8f6454",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
