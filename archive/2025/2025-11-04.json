@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797298&idx=1&sn=c160483d59f47b2ac06595f16eac201b",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "APT组织利用LNK漏洞和OpenSSH后门攻击白俄罗斯军方始末",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329791&idx=1&sn=a0f02e7bd2b67da12a3ef393ebba42e7",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "研究人员披露Windows SMB服务器权限提升漏洞（CVE-2025-58726）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329791&idx=2&sn=2181e8520e9c3a7925bdf018c2d8a940",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
