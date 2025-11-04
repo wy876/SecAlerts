@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500788&idx=1&sn=d11e9f9c37c26205894a35a035e886c1",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "Android Root Expert v4.5 - 专业多平台提权与刷机工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499002&idx=1&sn=2d76648e5e83d1677bed0f439963c6d8",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【漏洞通告】JumpServer 连接令牌泄露漏洞(CVE-2025-62712)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501738&idx=2&sn=69a90e316d1d585a3c4e395ce3e6560f",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
