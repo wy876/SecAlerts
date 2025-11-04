@@ -358,5 +358,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183448&idx=1&sn=cca33a014a93e95880058180138294f5",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "【高危漏洞预警】React Native CLI 远程命令执行漏洞CVE-2025-11953",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490942&idx=1&sn=62039db9a9e74ecd9d1ad699b24da857",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "中成科信票务管理系统OrderManager.ashx接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489474&idx=1&sn=b3c36f4caf17aace1b5ca164f529243e",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
