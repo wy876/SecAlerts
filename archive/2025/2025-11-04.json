@@ -160,5 +160,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507958&idx=1&sn=02807b3fdc6e69de9452f8c7117b8b20",
         "source": "Doonsec",
         "date_added": "2025-11-04"
+    },
+    {
+        "title": "【已复现】React Native CLI 远程命令执行漏洞(CVE-2025-11953)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504108&idx=1&sn=d836b9742399b6bfc3c9fe85eba49b25",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "【漏洞复现】海康威视 综合安防管理平台 keepAlive接口 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483816&idx=1&sn=26149ee30e208b62e1d39ffc167640f4",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "朝鲜黑客Lazarus掏出“终极武器”！微软零日漏洞+Rootkit组合拳，金融机构成提款机",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487109&idx=1&sn=2bef56fb6c513d22ccb75a3519c7fd0e",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
+    },
+    {
+        "title": "巧用异或绕过限制导致rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508701&idx=1&sn=69b6c5958d5c8899b5178561fa6d9b49",
+        "source": "Doonsec",
+        "date_added": "2025-11-04"
     }
 ]
