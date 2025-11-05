@@ -280,5 +280,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691233&idx=1&sn=4cca7ddb3e402e72b2d107face27d54c",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "汉王EFaceGO queryMeetingFile.do sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493190&idx=1&sn=4f311e26c749607ff100f202c43293d1",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "Next.js应用安全：中间件重定向SSRF漏洞深度解析（CVE-2025-57822）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485933&idx=1&sn=001a5e0c635d58a109fe8c8cf5ba7a64",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "Webpack通用漏洞DOM Clobbering导致XSS",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490372&idx=1&sn=f978e9c1cf8516b72b65c404375fea5e",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
