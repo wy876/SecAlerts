@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247486511&idx=2&sn=c13c06790e15b2622c0fd5d339084b69",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "OSS存储桶文件解析漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486890&idx=1&sn=6078cc5ff1a9897dd54a13a42b735338",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
