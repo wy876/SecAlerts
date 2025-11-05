@@ -172,5 +172,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517563&idx=1&sn=5b471beeb07738427f3d6c336a9aebc3",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "记一次edusrc高危7rank漏洞的简单挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "【附POC及复现环境】Apache Tomcat RewriteValve 路径遍历漏洞复现(CVE-2025-55752)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484891&idx=1&sn=0e0a03bd22742bc1529f72cc6ac1613d",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "渗透测试的8个步骤，一文详解（小白必看）！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575547&idx=1&sn=74fbba09f0a6e6d5df218010cea0112d",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "双漏洞警报：Linux 内核藏勒索后门，Claude AI 偷敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=1&sn=fabbe1472974118ac729c28a79f2a3d9",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "别小看一个接口！从数据裸奔到系统沦陷，它能引发致命漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=3&sn=9c77ea419a48dac14311b6433b5013d7",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "【已复现】WatchGuard Fireware OS 未授权远程代码执行漏洞(CVE-2025-9242)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
