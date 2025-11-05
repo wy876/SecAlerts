@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第44期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
