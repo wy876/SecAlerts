@@ -214,5 +214,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487603&idx=1&sn=be95ade7502335a6f3b22aeb7cae9af0",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "谷歌AI再立新功，“Big Sleep”发现Safari五大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=3&sn=e6576c3dfd7b2ef0e1aa066a64add6c0",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "JavaScript库React高危漏洞（CVE-2025-11953）威胁数百万开发者",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=3&sn=ba21721061015dacf28f01c8ec7c0f91",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "谷歌AI工具Big Sleep发现苹果Safari浏览器WebKit组件5个新漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "某个OA系统的代码审计【ok】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556686&idx=1&sn=3667a89185b438268be057c549d23d3e",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
