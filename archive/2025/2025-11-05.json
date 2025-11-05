@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494870&idx=3&sn=17468cc6e5e2d621ce6b79d86f64183c",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "谷歌BigSleep在Safari中发现五个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=1&sn=f183d8110ba9ba6993dbd5de3b9db31a",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "谷歌修复安卓高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495203&idx=2&sn=34bbcea3076b47581bd6fb2d696875f6",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "一不小心发现了一个 0day！！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500286&idx=1&sn=4cce2f7ac0c39a1ee98758a87e03cd64",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
