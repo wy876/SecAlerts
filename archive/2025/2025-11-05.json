@@ -148,5 +148,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "金和OA C6 XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk4MTM0OA==&mid=2247488405&idx=1&sn=bc51163e1a181cef4a96fe6b85fd9257",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "利用 CVE-2025-21479 在三星手机上实现攻击的研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262221&idx=1&sn=41c46a9d52e942ea37b88da66ee3d27b",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "WordPress Latepoint 文件包含漏洞 (CVE-2025-6715)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485693&idx=1&sn=9190fabd98cb25dfd9e11309485461b2",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "Ai全自动化渗透测试工具 -- AiScan-N（11月1日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517563&idx=1&sn=5b471beeb07738427f3d6c336a9aebc3",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
