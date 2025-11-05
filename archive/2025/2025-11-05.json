@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Linux 内核释放后重用漏洞正被用于勒索软件攻击|Claude AI漏洞：攻击者可利用代码解释器窃取企业数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613075&idx=1&sn=f865ebf7f820fb011f4a4d791029b002",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "一个接口到底能引发多少漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613075&idx=3&sn=b905c4da51c61c8cd49ccec867327721",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "OSS 存储桶漏洞扫描工具，支持阿里云、腾讯云、华为云、AWS S3 等主流对象存储服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613075&idx=4&sn=0a6a24387a64830cd440eab685ecc28c",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "一款 Nacos 综合漏洞利用工具——NacosExploit",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498904&idx=1&sn=7df92d791ddcbf6ddaf1f2c87213bfd6",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "React Native CLI存在严重漏洞，允许通过暴露的Metro服务器进行未经身份验证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485702&idx=1&sn=8a3a4a72b656d6a2d8725fabf72ccebb",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "【SRC实战】只给了800的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499021&idx=1&sn=d72886822209d78914c56991d76a9eab",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "热门 React Native NPM 包中存在严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796778&idx=3&sn=b38540622d70c53ca009b9aa6dfebba0",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "PHP代码审计靶场+懒人专版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491755&idx=1&sn=6cddfb2223a3bd19cd832adb21ef06fb",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "渗透攻防 | 安全服务集成化工具集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514503&idx=1&sn=c0aed88f1939ab880b9d5fe8da1e8500",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "日常运营提升效率 | 快速检索漏洞名称、问题描述、风险分析以及安全建议",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495584&idx=1&sn=e29e8117063e2ed2b050ececbbb8da09",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "漏洞预警 | JumpServer权限验证不当漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494870&idx=1&sn=bf7ac04e553510dc2038dc64403a8490",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统数据库备份下载漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494870&idx=2&sn=453b62aa0db00a69c489a219eda7dbba",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494870&idx=3&sn=17468cc6e5e2d621ce6b79d86f64183c",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    }
+]
