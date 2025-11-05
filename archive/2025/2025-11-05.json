@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490372&idx=1&sn=f978e9c1cf8516b72b65c404375fea5e",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "从 0 搭建 Nginx 安全网关：3 步堵住 90% 的 Web 漏洞!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247486511&idx=2&sn=c13c06790e15b2622c0fd5d339084b69",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
