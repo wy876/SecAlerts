@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "Android 0-Click允许远程代码执行攻击漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "AMD Zen 5 处理器 RDSEED 漏洞：随机性失效引发完整性破坏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "WatchVuln-web 一个用于监控和展示漏洞信息的全栈 Web 应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
