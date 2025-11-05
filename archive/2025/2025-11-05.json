@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500286&idx=1&sn=4cce2f7ac0c39a1ee98758a87e03cd64",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "为什么数据包模糊测试对漏洞悬赏仍然有价值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508045&idx=2&sn=9bdf0f918adae6a3241a3dd611c600a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "从扒官网到捡源码：我的 “瞎猫撞上死耗子” 式渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553284&idx=1&sn=448ff1b2e416da0c045e147e3f9788ea",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
