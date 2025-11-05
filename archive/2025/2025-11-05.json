@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=2&sn=bc54e02a8f815ed78b67d3135a9f9607",
         "source": "Doonsec",
         "date_added": "2025-11-05"
+    },
+    {
+        "title": "【cyberstrikelab】PT-17 CVE-2025-24813",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488528&idx=1&sn=d03183a139f69651fd1d0776c05de802",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
+    },
+    {
+        "title": "【高危漏洞预警】高通Qualcomm代码执行漏洞（CVE-2025-47361）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362",
+        "source": "Doonsec",
+        "date_added": "2025-11-05"
     }
 ]
