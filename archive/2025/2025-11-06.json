@@ -322,5 +322,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDk1ODM1OA==&mid=2247483889&idx=1&sn=210fb46baa375fe5b63f70fbbd232c4d",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "Windows Server 中的关键 WSUS 漏洞现已被利用进行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493997&idx=1&sn=2b4932595c0a67b6f59b79418f1b2764",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "工具推荐 | 最新Nacos综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496178&idx=1&sn=e11a5c49e1171da3cdd01fabb2306811",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "最新Nessus2025.11.6版本主机漏洞扫描/探测工具Windows/Linux下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495569&idx=1&sn=cdcd6403846caeb2b55a87f4af45961b",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【高危漏洞预警】Django SQL注入漏洞CVE-2025-64459)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490952&idx=1&sn=0b5578daea9adb8dffb366b87581ea56",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
