@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483687&idx=1&sn=562ad0bb1c58bcb79f67922f144b34ed",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "利用三星 S23 上的 CVE-2025-21479 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533416&idx=1&sn=765a8edd32f1ed049decbf5339a1b786",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "CVE-2025-9415 漏洞分析：GreenCMS任意文件上传（Upload）及其他漏洞研究-第一部分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485697&idx=1&sn=70321910d4a4317fcc8710ac85f69d83",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
