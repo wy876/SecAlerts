@@ -166,5 +166,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "《Web漏洞分析与防范实战》套装全2册来了！（评论区留言送书2套）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545753&idx=1&sn=e1e7aea36e118722f595fff12451f3a8",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【荐书】《Web漏洞分析与防范实战》套装全2册来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889814&idx=1&sn=2900e94a67722c18d8ca7ab166ac85ef",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "高危！Cursor CLI 远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650625956&idx=2&sn=cf0ea31f5a1038a70f60fbd62ce7f23d",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "登录框渗透测试：一份从弱口令到逻辑漏洞的全面攻击思路梳理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483687&idx=1&sn=562ad0bb1c58bcb79f67922f144b34ed",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
