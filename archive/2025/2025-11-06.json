@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "Go模糊测试实战：原理解剖+CVE漏洞挖掘过程复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDUzNDExMQ==&mid=2247485851&idx=1&sn=e72e66912e2c7f4bf56663052bb7b3b8",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "你是说甲方让我测他们的漏洞靶场，然后出渗透报告？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493046&idx=1&sn=70a0ed5b23b34abbdba14722847959f9",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
