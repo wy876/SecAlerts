@@ -1,0 +1,80 @@
+[
+    {
+        "title": "2025-11-06 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487673&idx=1&sn=6d8f81a6d7bd45759b320ce5c1c88c5e",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "美国检方起诉三名前网络安全从业者，涉嫌参与BlackCat|黑客扫描 TCP端口8530/8531疑似利用 WSUS远程执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613087&idx=1&sn=a29fc2ccb2b17bf277bc800f7eec8299",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "Windows SMB高危提权漏洞遭活跃利用 未打补丁设备恐被获取SYSTEM权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613087&idx=4&sn=6da27ca36d30d79efb49819c336517b5",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "用友NC Cloud importhttpscer接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483825&idx=1&sn=a6d8f0b310e19aef313a2b5e484dd8ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "NVIDIA 应用高危漏洞 (CVE-2025-23358) 允许在 Windows 系统上进行本地权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485719&idx=1&sn=e7ee64fa192185421a9f8a751fbcca2a",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "赛事招标丨漏洞挖掘能力提升培训课程（II期）服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494994&idx=2&sn=835f5930a017d4e62a5cfb3bb1b85acf",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "漏洞预警 | Docker Compose路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494878&idx=1&sn=fb295be4a28a77f3b68d8a3014472d63",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "漏洞预警 | 维达外贸客户关系管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494878&idx=2&sn=98ba370bc557d6a7b7f46533dba71332",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494878&idx=3&sn=82611e0cc485512d082f9e6f65c282ca",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "JetBrains 五件套终极外挂-代码审计神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493552&idx=1&sn=7cd4e14d9957dcab97cd8403bab0ce1c",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "Nuclei POC 漏洞验证可视化工具 | 更新V3.2.3",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495594&idx=1&sn=5eba62e6740952f6d90d579e56917d3f",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "警惕“影之逃逸”：新型AI漏洞正无声窃取海量隐私，数万亿记录或已泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462157&idx=1&sn=bfcc48714dff56c3026ce9793fd9a93f",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "以案释法|有关单位未按规定发布漏洞信息，网警依法予以处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247568861&idx=1&sn=110dfd884052773a1fce026289ca4efa",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    }
+]
