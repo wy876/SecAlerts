@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247568861&idx=1&sn=110dfd884052773a1fce026289ca4efa",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "渗透测试：流程&内容&价值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTIxNzg0Ng==&mid=2247488316&idx=1&sn=a1f4644dc74e310de3932b7dd5c0fd06",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "Blink渲染引擎漏洞可在60秒内导致Chromium内核浏览器崩溃，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248571&idx=1&sn=49cc99a4112fd116c9b1ed8ec1623114",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【SRC实战】只给了800的严重漏洞（加码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
