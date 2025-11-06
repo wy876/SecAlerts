@@ -268,5 +268,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329887&idx=4&sn=ba2646784818eedc3d9dfb57d67ff20c",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "AI 全自动漏扫工具更新！联合“资产发现”工具，帮你一键搞定找接口、测漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495347&idx=1&sn=a7d4eb7097fed4d4936d90fe7f9c1c43",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【安全圈】React Native CLI 零日漏洞：开发者系统面临远程攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072605&idx=3&sn=dc5ea66a360ae0467ff7bdf939c202e4",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【安全预警】谷歌紧急修复Android“零点击”漏洞 CVE-2025-48593，当心！虚假PoC实为钓鱼陷阱",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495194&idx=1&sn=877738bbedd38b13291401b35f23ecc3",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
