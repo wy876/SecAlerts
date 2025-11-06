@@ -304,5 +304,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175011&idx=1&sn=180ecff686712cc7095b6b5897b23273",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "从“空白页”到突破口：渗透测试中的信息发现七种思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521218&idx=1&sn=de5a87504c8fcc9da937c6d23a6906b6",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "漏洞就藏在“乱码”里：赏金猎人的字符编码破译术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797310&idx=1&sn=8fa6846d4161c0ece660b4de0ddb8b1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
