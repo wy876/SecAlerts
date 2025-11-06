@@ -202,5 +202,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485697&idx=1&sn=70321910d4a4317fcc8710ac85f69d83",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "公安部网安局通报：某漏洞平台未按规定发布漏洞信息被责令整改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515173&idx=2&sn=5e1f052f72d215b27dece833459ae14a",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "微软Teams曝严重漏洞：攻击者可冒充高管伪造身份，全球3.2亿用户受威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603667&idx=2&sn=03686a433abd68c496ed208b6aab988e",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603667&idx=3&sn=b5343c47a4fba2f54b0ea381d7574ab9",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "关于开展「安全漏洞防治SOP征集活动」通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485116&idx=1&sn=d1fb383eb6e9ce202c8533ec4f6233da",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "荷兰国家安全中心通告CFMOTO 存在越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247562399&idx=1&sn=a32b9c96da556bc095bd1756b404abc0",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "记一次EDU未授权通杀漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483770&idx=1&sn=ac9340f3a94200c83ebcac8342a1e370",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "CISA：CWP严重漏洞已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524336&idx=2&sn=8870a1783120abfbdf96905ba2fdddab",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "荷兰国家安全中心通告CFMOTO 存在越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzQzNzMxOA==&mid=2247488189&idx=1&sn=ca249021ee590ed0aef45300cc33c1f7",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "记录一次CMS的代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556699&idx=1&sn=e51de1a87992264b04228f286e7b4f14",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "【免费领】最牛渗透测试工具Metasploit实操教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556699&idx=2&sn=b77656e259341a626283633204be61ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
