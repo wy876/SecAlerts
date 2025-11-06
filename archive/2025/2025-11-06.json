@@ -136,5 +136,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585178&idx=2&sn=316d25dca1d9667e401962858e65f20b",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "内网渗透应该如何做",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488333&idx=1&sn=c0f22e8fe6c5c12b74f5748b2f433565",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "如何有效提升自己的渗透测试技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488333&idx=2&sn=e8651fc4d3a11631ec994437c691d19c",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "“双11”反诈指南：警惕“退款理赔”与“百万保障”新骗局；加密货币价格飙升引发PHP漏洞利用潮,攻击者大规模部署挖矿程序| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139243&idx=2&sn=32e0c1ef5dee1a75ee8846f1987f2cd1",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "《Web漏洞分析与防范实战》套装全2册来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517568&idx=1&sn=a28a18f9cdf9d2b01c017319b798ded6",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "鸡肋 Codebuddy RCE漏洞 450元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
