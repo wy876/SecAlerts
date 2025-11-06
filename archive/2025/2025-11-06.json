@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495194&idx=1&sn=877738bbedd38b13291401b35f23ecc3",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "黑客利用OneDrive.exe的DLL侧载漏洞执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096594&idx=1&sn=2d5fd738c828ab794b90e636bcfe4dff",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "Windows云文件功能中的驱动程序漏洞被黑客利用，成功提升系统权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096594&idx=2&sn=970fa3cc3b520c953a2d0473c1ffaa43",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
