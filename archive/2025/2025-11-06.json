@@ -112,5 +112,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97",
         "source": "Doonsec",
         "date_added": "2025-11-06"
+    },
+    {
+        "title": "信息安全漏洞月报（2025年10月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463827&idx=1&sn=8c36b0ccdd5b178162d06ba80297656c",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "如何将提问变为攻击？Claude Desktop 的严重 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "《Web漏洞分析与防范实战》套装全2册来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872800&idx=2&sn=fad4c7546ddd38a33fbdae03bf6f61d0",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
+    },
+    {
+        "title": "Windows Server WSUS高危漏洞遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585178&idx=2&sn=316d25dca1d9667e401962858e65f20b",
+        "source": "Doonsec",
+        "date_added": "2025-11-06"
     }
 ]
