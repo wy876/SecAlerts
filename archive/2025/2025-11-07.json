@@ -136,5 +136,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553314&idx=1&sn=ca52e2f09e085de5b2ea83e71cb611a4",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "安全报告：CVE-2025-64459 — Django QuerySet _connectorSQL 注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533421&idx=1&sn=30972cc727df5d6b837709fd7f5ed1a8",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "秋冬福利季｜速来⏳10个漏洞轻松赢最新款周边！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509629&idx=2&sn=8f6f1eb82c1f9c446e57d9186f8438c6",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251107",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562853&idx=1&sn=bc0d16218fecc81ef5aa64ede6a8b026",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "ChatGPT曝七大漏洞，可诱使AI泄露记忆与聊天记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789373&idx=1&sn=23dbbc6520d871be580baf1455ec6516",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "安全大厂实验室的《Web漏洞分析与防范实战》什么水平？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521259&idx=1&sn=921de1bb763fcf63e63342bdd12bc1fa",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "春秋云镜靶场渗透测试--Certify",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDcyODYwNw==&mid=2247487541&idx=1&sn=d7a21a658c9079529e5cfa9e6019206c",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "超越渗透测试！每家企业都应开展的10项实战化网络安全演练",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139258&idx=1&sn=c1e16d728603b322c78798c3caa2cac9",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "中国牵头制定的工业5G国际标准发布；92%漏洞检测率!OpenAI推出AI安全研究员颠覆传统防御模式 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139258&idx=2&sn=1c5e3e24e36adb99a54567b2b477a1a7",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
