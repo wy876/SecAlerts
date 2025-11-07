@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508079&idx=1&sn=4268406fd76b7d5c680e2719d06b9bfe",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "web渗透实战 | js.map文件泄露导致的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553314&idx=1&sn=ca52e2f09e085de5b2ea83e71cb611a4",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
