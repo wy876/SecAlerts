@@ -124,5 +124,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488879&idx=1&sn=98259a4790b03a3f28538feaf21b067d",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "Signal 桌面版 在附件保存中存在路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508079&idx=1&sn=4268406fd76b7d5c680e2719d06b9bfe",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
