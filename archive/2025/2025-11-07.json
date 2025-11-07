@@ -250,5 +250,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575563&idx=2&sn=cfbb6d80969bde1fdc62978c436075cb",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "Chrome紧急修复 WebGPU 和 V8引擎中的三个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524343&idx=1&sn=bafd6d107e51fa5d67f552a22dd26211",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "思科修复 Contact Center Appliance 中的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524343&idx=2&sn=54f09a81eb6da8e9b06f5a17b8b70644",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "NVIDIA App曝高危漏洞，紧急更新防黑客入侵！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603945&idx=4&sn=496a77a25e59671f8e5c5b380d758c1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "那看来网安也要转型物联网安全了，机器人(IoT)渗透......",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483938&idx=1&sn=a24b50a28c46557e02e5dc7b281254b2",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "警惕！APT-C-08（蔓灵花）组织首次借WinRAR漏洞CVE-2025-6218实施网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507464&idx=1&sn=fa744e1c4a49e29091fc417d2ca74226",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "模拟红队进行漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556711&idx=1&sn=921bc63ee014e892a8a53ec0adae25fb",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【免费领】Kali Linux无线渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556711&idx=2&sn=e2633ebe43ace4f389f01e18f3eac668",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
