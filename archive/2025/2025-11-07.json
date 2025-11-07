@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487161&idx=1&sn=3fe5feeef6144006c64be51b1f5a1519",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "泛微E cology9 getdata.jsp SQL注入漏洞(QVD-2025-23834)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493199&idx=1&sn=882b01f05e9e0a7748d3a9caec45c192",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
