@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493199&idx=1&sn=882b01f05e9e0a7748d3a9caec45c192",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "CVE-2025-51482 漏洞分析：Letta AI 组件代码注入导致远程命令执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488879&idx=1&sn=98259a4790b03a3f28538feaf21b067d",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
