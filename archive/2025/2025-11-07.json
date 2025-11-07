@@ -310,5 +310,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496936&idx=1&sn=28a7612170846b9621fc2b933614dfd2",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "【安全圈】ChatGPT曝出七大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072620&idx=1&sn=8f70b2c8f6cc8495d0e6692ce5d981d8",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【安全圈】NVIDIA 修复 Windows 版 NVApp 严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072620&idx=4&sn=cd862a7afb4d45dad113fd278b270cb1",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "238支全球顶尖战队上演AI攻防巅峰对决，腾讯云黑客松-智能渗透挑战赛即将开启！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528413&idx=2&sn=265ebd8df263734afe20a0c047f65a10",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "NVIDIA NVApp 漏洞可致恶意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096602&idx=1&sn=299bc901842aef25108f90b845a4b497",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "思科 UCCX存在远程任意代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096602&idx=2&sn=aea8c8ae0fbae9ad74287a60f4b73cd7",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【高危漏洞预警】AutoCAD权限提升漏洞（CVE-2025-10885）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490960&idx=1&sn=8c0d7ee4efff3cef20ee2be9727a6d4f",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【高危漏洞预警】Dataease拒绝服务漏洞CVE-2025-64164",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490960&idx=2&sn=a931af8f0470f877a18f8c51e416a1f3",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
