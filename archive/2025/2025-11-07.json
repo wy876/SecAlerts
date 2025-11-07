@@ -190,5 +190,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488340&idx=2&sn=92a23b140d5691eeaa5de410d60d6c6c",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "信息安全漏洞周报【第046期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064428&idx=1&sn=7b9e0004f744ee1edef9442b7b0724fc",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【漏洞通告】Django SQL注入漏洞(CVE-2025-64459)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501753&idx=2&sn=98fb11fa65c0ecebfa4a1fa04ec9736a",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "SSH高危漏洞修复、屏蔽工具----付费文章集合版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxODc0Mzk4OQ==&mid=2247484787&idx=1&sn=e85605021c07afbdcc238acc5dd88b86",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【赠书抽奖】《Web漏洞分析与防范实战》上下册",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1ODI0MTczNQ==&mid=2247491225&idx=1&sn=3fe6a97e7f7cd4411605787d25fa0830",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
