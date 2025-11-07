@@ -1,0 +1,104 @@
+[
+    {
+        "title": "蓝凌EIS智慧协同平台fi_message_receiver.aspx接口存在SQL注入漏洞 xa0漏洞预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483831&idx=1&sn=5b0d6c718eca3c3891502257f34cdd89",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "Cisco ISE 高危漏洞 (CVE-2025-20343) 允许通过精心构造的RADIUS请求发起未经身份验证的拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485743&idx=1&sn=786c6d9cb920f6a61ed8ed478d90c252",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "SonicWall将9月安全漏洞归咎于国家支持的黑客",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495220&idx=3&sn=d9e73ad59ae5abba962c3449bed87283",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "HTTP/2“MadeYouReset”漏洞可导致拒绝服务（DoS）攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796799&idx=2&sn=02ccbc375f6e930bdc2ba53942a53a7c",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "菜狗安全《代码审计培训》双十一优惠开启：手把手0day挖掘教学",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487578&idx=1&sn=a21fbe51597fd84452661e43c7461c7a",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "云服务安全攻防：漏洞挖掘技术与实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498939&idx=1&sn=a4f17ee7114a87e3b37c594640bb3a11",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "Docker Compose 路径遍历 （CVE-2025-62725） 允许通过 OCI 工件覆盖任意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488299&idx=1&sn=18b6bb768ca388c28fb0a47f705af35a",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "AI容器的安全幻象：路径穿越漏洞案例研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484642&idx=1&sn=95648ebdf524443841aa6b39797cad05",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【SRC实战】通过FUZZ挖掘高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498521&idx=1&sn=9306378db8f472d0d916be7e9389dcfc",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "一款漏洞库批量下载更新工具，便于在离线情况下漏洞的访问检索",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495599&idx=1&sn=0a04825b1a3cc6431e6ee5b8e4701766",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": ".NET 通过 LINQ 投影加载程序集实现命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500894&idx=1&sn=c3c917eb3fa8268ac1592741c312559b",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "漏洞预警 | Windows SMB权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494886&idx=1&sn=f1b84dc0fdc30cf05756493ba365c3aa",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494886&idx=2&sn=7819cac9bc111b94544b45b1fb4cd5b4",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统Zip Slip漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494886&idx=3&sn=6433ebd3f78e75bba26174f12ace4989",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "CVE-2025-32463：sudo提权漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484164&idx=1&sn=48779bfa7a4df4e6cac2245afab0075f",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "超值！渗透测试工程师课程，1人拿证书，多人可免费学习！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293963&idx=1&sn=556cf1c44ea69ff0e9cea0df25f0ae37",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "【深度】别傻傻地喂数据了！Tenable揭露7大AI漏洞，从“零点击”到“内存投毒”，我带你扒开LLM的阿喀琉斯之踵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901577&idx=1&sn=a5ab3eee4b82d6466d35a76e8ef8312d",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    }
+]
