@@ -352,5 +352,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490960&idx=2&sn=a931af8f0470f877a18f8c51e416a1f3",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "漏洞无处可藏：OWASP dependency_check助你高效挖掘安全隐患",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797319&idx=1&sn=2b853936db4e5d2420749e9bb634f1ef",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
