@@ -214,5 +214,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1ODI0MTczNQ==&mid=2247491225&idx=1&sn=3fe6a97e7f7cd4411605787d25fa0830",
         "source": "Doonsec",
         "date_added": "2025-11-07"
+    },
+    {
+        "title": "安全热点周报：黑客利用 Gladinet 文件共享软件中的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504113&idx=1&sn=ebbfa1f912a759a56775f303c03ba0ee",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "wepoc 高效多任务nuclei 图形化POC扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524829&idx=1&sn=d0db4dd0d5eb7913ac16bf8f78e4ca9c",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "警惕！Windows SMB 高危漏洞遭滥用，设备或被获取最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537586&idx=3&sn=eadb658ae974ce25311eb6b299d19010",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
+    },
+    {
+        "title": "不按规定发漏洞信息？有关单位被处罚，给行业敲警钟",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537586&idx=4&sn=19899a2d043f495eda174ed453d85b0a",
+        "source": "Doonsec",
+        "date_added": "2025-11-07"
     }
 ]
