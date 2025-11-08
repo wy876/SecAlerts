@@ -106,5 +106,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483970&idx=1&sn=4a3e25ab2266a9790de9ec55f323bfb0",
         "source": "Doonsec",
         "date_added": "2025-11-08"
+    },
+    {
+        "title": "Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483836&idx=1&sn=63b092a59ec09f93dfbef7e47539107f",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "在看 | 周报：知道创宇数据泄漏事件实为“炒冷饭”；某漏洞平台未按规定发布漏洞信息被责令整改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247646358&idx=1&sn=1ed242c274fd5281d15b362088ef7389",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "FreeBuf周报 | GPT存在七项零点击攻击漏洞；JS库React高危漏洞威胁数百万开发者",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330013&idx=2&sn=63074cae20f3c11bb7d35244d28b19a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
     }
 ]
