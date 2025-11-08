@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330013&idx=2&sn=63074cae20f3c11bb7d35244d28b19a6",
         "source": "Doonsec",
         "date_added": "2025-11-08"
+    },
+    {
+        "title": "HTTP/2 \\'MadeYouReset\\' 漏洞可被用于发起拒绝服务（DoS）攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096610&idx=2&sn=f11a9a3651bbf0e888d716c28bb5d387",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "【安全圈】三星Galaxy零日漏洞被利用在手机中植入间谍软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072645&idx=4&sn=47d7d2203cd91624a0fcace92229b992",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
     }
 ]
