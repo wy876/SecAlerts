@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072645&idx=4&sn=47d7d2203cd91624a0fcace92229b992",
         "source": "Doonsec",
         "date_added": "2025-11-08"
+    },
+    {
+        "title": "XXE漏洞狩猎清单：掌握这7种Payload，告别“一无所获”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797325&idx=1&sn=9e272c1790005e498e1b6d73bbc1544e",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "【攻防实战】代码审计Getshell联动Cobalt Strike打穿三层内网(上)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504714&idx=1&sn=3e48da388d88f5a283ac32b13c20efe0",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "Apache Tomcat RewriteValve目录遍历漏洞  | CVE-2025-55752 漏洞分析 漏洞研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484441&idx=1&sn=40d4254b41abb0773586f2641cb78a6e",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
     }
 ]
