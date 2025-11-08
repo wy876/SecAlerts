@@ -28,5 +28,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527877&idx=1&sn=8799cd986549d66ffc5e8b3a1063003f",
         "source": "Doonsec",
         "date_added": "2025-11-08"
+    },
+    {
+        "title": "Calibre代码审计集合",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524867&idx=1&sn=2c064df86e6fffbffd658ccc09baf23a",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "代码审计的基本概念和流程，白帽黑客必会！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575573&idx=2&sn=b1cb33dcb0af57f2e4fd3de6b15ea97d",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "推荐一个无审查的模型，特别适合渗透测试等安全工作",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486409&idx=1&sn=3008204f32a9c5c834387508841a2e80",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498525&idx=1&sn=43ecdd1da56e7a91cb9d09eec9afbc27",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "挖漏洞一个月赚两万多？别被骗了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500406&idx=1&sn=c1b7d81deb2e03b6e7fd1d9602ff070b",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "内网渗透应该如何做",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485075&idx=1&sn=87f7ce939ece86739a1cc71f39362166",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "从“空白页”到突破口：渗透测试中的信息发现七种思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493637&idx=1&sn=d94c3467bde51b5ea90f5e47510bd79e",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "黑客在 Pwn2Own 爱尔兰漏洞竞赛中凭借 73 个零日漏洞赢得 1,024,750 美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493999&idx=1&sn=eb5f97431945e59ca98c90ffac7b590b",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502596&idx=1&sn=9336091636c9bb709e8c479869b9b3eb",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "Openssh版本高危漏洞快速修复工具----助力漏扫中SSH高危修复困难的问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxODc0Mzk4OQ==&mid=2247484783&idx=1&sn=d0027c1a39e028a0fb1e289748998e82",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "【附POC及复现环境】Django SQL注入漏洞复现(CVE-2025-64459)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484922&idx=1&sn=176c8ff6e6595f70edbe67c3be40029b",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "JetBrains 代码审计插件：安全开发新利器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486376&idx=1&sn=306ac222c5c3b66d9b159b2673d4122e",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
     }
 ]
