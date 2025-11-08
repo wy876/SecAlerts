@@ -4,5 +4,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090450&idx=1&sn=9b1cd05528a894225f16e2f7c2b9ca31",
         "source": "BruceFeIix",
         "date_added": "2025-11-08"
+    },
+    {
+        "title": "我们的AI发现了一个零知识证明库的漏洞，Sam Altman的项目也用了这个库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960252&idx=1&sn=a17f504cfb7c8844f295b02f099aa720",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "苹果新版网页版App Store 前端源代码因配置错误被泄露|安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613114&idx=1&sn=5435917840030de5c4b0e80be1cb5d32",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "日常运营提升效率 | 快速检索漏洞名称、问题描述、风险分析以及安全建议",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613114&idx=4&sn=8854380a20a74a9710ea8cece0c20178",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
+    },
+    {
+        "title": "一款红队未授权漏洞检测浏览器插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527877&idx=1&sn=8799cd986549d66ffc5e8b3a1063003f",
+        "source": "Doonsec",
+        "date_added": "2025-11-08"
     }
 ]
