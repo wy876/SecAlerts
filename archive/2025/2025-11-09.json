@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e",
         "source": "Doonsec",
         "date_added": "2025-11-09"
+    },
+    {
+        "title": "存储桶解析漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483820&idx=1&sn=31a2a18ccc79cfed173d910fd63d0bdf",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
     }
 ]
