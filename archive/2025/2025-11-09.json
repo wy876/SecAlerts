@@ -70,5 +70,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e",
         "source": "Doonsec",
         "date_added": "2025-11-09"
+    },
+    {
+        "title": "【安全圈】QNAP 紧急修复7大零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
+    },
+    {
+        "title": "记一次edusrc漏洞8rank的简单挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
     }
 ]
