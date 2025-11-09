@@ -34,5 +34,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613143&idx=2&sn=13d678c179ebcb5fcc388f3047a607da",
         "source": "Doonsec",
         "date_added": "2025-11-09"
+    },
+    {
+        "title": "某PHP系统前台代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
     }
 ]
