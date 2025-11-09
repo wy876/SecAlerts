@@ -16,5 +16,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=2&sn=ee990f9f76d32a9a9ebd4be3a4020b4b",
         "source": "Doonsec",
         "date_added": "2025-11-09"
+    },
+    {
+        "title": "Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483842&idx=1&sn=f8ead5ae5379af874ec31763ddada9d6",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
+    },
+    {
+        "title": "企业SRC支付漏洞&EDUSRC&众测挖掘思路技巧操作分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
+    },
+    {
+        "title": "主流AI浏览器普遍存在致命漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613143&idx=2&sn=13d678c179ebcb5fcc388f3047a607da",
+        "source": "Doonsec",
+        "date_added": "2025-11-09"
     }
 ]
