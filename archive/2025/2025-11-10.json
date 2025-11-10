@@ -286,5 +286,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524352&idx=1&sn=32cb3690b5c7841d5cd484997fc1a32b",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "runc 漏洞被利用，导致容器逃逸与主机沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096618&idx=1&sn=2193f86e347efd9e9e9b9f29df832eb8",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "Elastic Defend for Windows 漏洞可致攻击者权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096618&idx=2&sn=a2b5cc54ed10486cf9697deecf54e3ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "JAVA代码审计之Oasys系统(上)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484180&idx=1&sn=569db4e9ac044abe98becf652547ef68",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "渗透打靶日记-Day1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODQzMzkyOQ==&mid=2247484195&idx=1&sn=9c8a11b668f244173c7b3b1df0a54475",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "三星0Day漏洞遭间谍软件LANDFALL利用入侵Galaxy设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330102&idx=2&sn=a3e2857b20148d5ab2a4728f24595d9a",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "思科身份服务引擎漏洞可致攻击者意外重启系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330102&idx=4&sn=095d7cb0ec3e30daf68fb6bd4222a830",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
