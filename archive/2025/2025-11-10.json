@@ -364,5 +364,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485289&idx=1&sn=82b7cf6142dceccc6139ea9541e5ac26",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0 Day 友加畅捷U+财会通 RepFile.ashx 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483995&idx=1&sn=9a3e91f92be209b55a8bfff60e5cc026",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "黑客利用 Adobu200bu200be Magento 中的关键“SessionReaper”漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494007&idx=1&sn=0cb4e43a0057a2c16897e1f63693524e",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "WEB漏洞扫描器Invicti-Professional-V25.10.0（自动化爬虫扫描漏洞）更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495621&idx=1&sn=dce9840086e84776d9f924de6287c3e7",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
