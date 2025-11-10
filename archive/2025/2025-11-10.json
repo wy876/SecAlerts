@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330102&idx=4&sn=095d7cb0ec3e30daf68fb6bd4222a830",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "护网—2025丨某科技公司未及时修复安全漏洞，网警依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637948&idx=3&sn=aea3ad5e9de1eb46298426eb13c5a15c",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "SRC经验分享 | 一个被忽视的“金矿”：如何批量挖到地图API密钥接管漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797350&idx=1&sn=108b0aff4f14ca3621ad14f5d4dc79a9",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
