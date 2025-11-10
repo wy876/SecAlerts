@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267873&idx=1&sn=7d5f656567609b7c555c6bee7efdb908",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "QNAP修复Pwn2Own大赛上发现的7个 NAS 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524352&idx=1&sn=32cb3690b5c7841d5cd484997fc1a32b",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
