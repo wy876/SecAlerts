@@ -1,0 +1,116 @@
+[
+    {
+        "title": "如何快速上手Java 安全工具开发和代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489586&idx=1&sn=3a7877c96a79b76dc930c00ba91c550c",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "2025-11-10 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487677&idx=1&sn=0118ce6d225fcd42ddf56994fe8bedde",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "高级 NoSQL 注入漏洞利用指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262247&idx=1&sn=e767cc174df6ce3af2c8f008a71138f4",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "教育行业之渗透测试打点",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499105&idx=1&sn=a804f2c8e5a238245dbb23d153f6efaf",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "ChatGPT曝出七大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087387&idx=1&sn=260764fbad7c4a661f7769e845138ce3",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "思科修复允许根命令执行的关键UCCX漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495234&idx=1&sn=8a146475a58d3dcd369b074ea09ef65e",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "威联通修复Pwn2Own 2025黑客大赛中曝光的多个零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495234&idx=2&sn=75eacc37ba6cd693e86a2dae3966f577",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "ChatGPT曝七大漏洞，可诱使AI泄露记忆与聊天记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613155&idx=1&sn=8310f2872d9342995868012aca060ad4",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "一款漏洞库批量下载更新工具，便于在离线情况下漏洞的访问检索",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613155&idx=4&sn=0915abd0d960fe5f8bb33d09dcfd16ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "java代码审计基础-鉴权类漏洞审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492984&idx=1&sn=14c048c4bab02ea21c599dd97b6d660b",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "CVE-2025-64439：LangGraph 中检测到远程代码执行漏洞：代理编排框架面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485755&idx=1&sn=eccab0b5989dfe086f6e9dfd9718d05e",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "SRC实战之严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498546&idx=1&sn=c7088de23447268302257500ed480c3b",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "漏洞预警 | React Native CLI远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494896&idx=1&sn=74eb9848b607246be56ebe8aa570aa34",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "漏洞预警 | 绿盟运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494896&idx=2&sn=58afc2004a5030351f6d4e38026f3713",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494896&idx=3&sn=1f2618ecf05aac73c91279dacbecb721",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "后渗透必备：智能提取浏览器缓存、远程工具配置与数据库连接凭据的一体化解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493658&idx=1&sn=5aaf5f5c475bb0b8aa376db54454517c",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "漏洞修补前，公开漏洞细节违法吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294014&idx=1&sn=9146c6202412cec033301588858794c5",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "高危漏洞袭卷十万网站！WordPress插件AI Engine曝权限失控风险，攻击者可秒变管理员",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462196&idx=1&sn=af1c5ecb6e7f04a3aadff1896c3c1e49",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "从零到一：10 个渗透测试场景下的漏洞挖掘技巧|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495618&idx=1&sn=1165aea2ab70e986fcace29a4487db65",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    }
+]
