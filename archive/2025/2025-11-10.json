@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496480&idx=2&sn=4ff4f71079f5049f3cfb2012b57cf177",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "ChatGPT曝七大漏洞，可诱使AI泄露记忆与聊天记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534624&idx=1&sn=565c83458b83ec3ef802ad64cb1e919d",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "利用TP-Link AX10路由器中的零日漏洞（CVE-2025-9961）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533511&idx=1&sn=e0cdb117ca720e01b9d2d86443c26ba4",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "针对 CVE-2025-55680 的 PoC 漏洞利用程序已发布——Windows 云文件迷你筛选器驱动程序权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533511&idx=2&sn=1cfe42ef09c64964b30d0c66d9498995",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
