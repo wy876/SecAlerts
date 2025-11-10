@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797350&idx=1&sn=108b0aff4f14ca3621ad14f5d4dc79a9",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "XXE漏洞进阶玩法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491024&idx=1&sn=5a7883a7ae546a7aeeddc22a203d7497",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "5分钟挖出网站漏洞的高效排查法u200bu200b",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521317&idx=1&sn=25c96159e70fb027e7b3b26849d96da8",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
