@@ -352,5 +352,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489485&idx=1&sn=fe924fe786dbbef84430fa706e026deb",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "【高危漏洞预警】Open WebUI任意代码执行漏洞CVE-2025-64495",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490966&idx=1&sn=9a2e2433c083d9e15361fd5c757308fa",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "丝滑渗透之soap接口",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485289&idx=1&sn=82b7cf6142dceccc6139ea9541e5ac26",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
