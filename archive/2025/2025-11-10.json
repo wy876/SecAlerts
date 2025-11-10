@@ -190,5 +190,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504126&idx=1&sn=6c30055553c4d0766ad738cb51c9fca2",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "【漏洞通告】Elastic Cloud Enterprise 权限提升漏洞(CVE-2025-37736)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501761&idx=2&sn=a2cc5a11ac45b705c9a6cfd8697fcaa8",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "【漏洞通告】Monsta FTP 远程代码执行漏洞(CVE-2025-34299)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501761&idx=3&sn=a78bd7bc9fc5dbcff3d4e0a2c7e6fcf6",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "网安实验干货每日分享Nginx文件解析漏洞-1110",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484078&idx=1&sn=f28102bc6f04c2295ecc4a695d64f984",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "用友U8Cloud NCCloudGatewayServlet命令执行漏洞补丁分析及绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524945&idx=1&sn=b3ed5221fb5899f37356c5c228af2327",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "如何有效提升自己的渗透测试技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488344&idx=2&sn=f642fd5216d2e26937db80540beb67bf",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第43期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500817&idx=1&sn=103cb691272f41868ae9bd1201d45230",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第43期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496480&idx=1&sn=5904a29aaac5251ad3700c8e816a2cf9",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251103-20251109)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496480&idx=2&sn=4ff4f71079f5049f3cfb2012b57cf177",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
