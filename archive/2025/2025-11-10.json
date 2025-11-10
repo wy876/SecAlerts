@@ -112,5 +112,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495618&idx=1&sn=1165aea2ab70e986fcace29a4487db65",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "华天软件 Inforcenter PLM 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493217&idx=1&sn=e97289f336afb98a657ffcdd83086acb",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "CVE漏洞多平台监控推送",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484339&idx=1&sn=c10993db1013ddc52bc067520ec95577",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
