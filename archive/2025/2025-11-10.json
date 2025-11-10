@@ -256,5 +256,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533511&idx=2&sn=1cfe42ef09c64964b30d0c66d9498995",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "SDC2025 议题回顾 | 利用大模型辅助自动化 BYOVD 驱动漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604044&idx=1&sn=b4a9afda0c3cbd7755e716331ec19d7a",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "三星0Day漏洞遭间谍软件LANDFALL利用入侵Galaxy设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604044&idx=3&sn=f4abd7819eccecbe85bc803633762cb2",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "某科技公司未及时修复安全漏洞，网警依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493252&idx=1&sn=51ad920e92375e4af6d409a7f6794145",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "为什么要复习 ekucms2.5 漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267873&idx=1&sn=7d5f656567609b7c555c6bee7efdb908",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
