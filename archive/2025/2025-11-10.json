@@ -160,5 +160,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139268&idx=2&sn=feebfcfb4ee786fc3fe369fa38127cf7",
         "source": "Doonsec",
         "date_added": "2025-11-10"
+    },
+    {
+        "title": "致远OA getAjaxDataServlet接口存在任XXE漏洞 附POC软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483851&idx=1&sn=da66a9f571470617d156f853448b7cf8",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "卢浮宫惊天劫案背后：长达10余年的弱密码安全漏洞暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789380&idx=1&sn=862e488d716da792b7aa1e1c2beeaba1",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
+    },
+    {
+        "title": "某科技公司未及时修复安全漏洞被处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175051&idx=1&sn=0741c0bd89d78ef1432e43357d3bf823",
+        "source": "Doonsec",
+        "date_added": "2025-11-10"
     }
 ]
