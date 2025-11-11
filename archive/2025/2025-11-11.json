@@ -328,5 +328,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489496&idx=1&sn=99a8baf34ce40094a54deb90cbaf7e4d",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "BurpSuite插件 | 一款轻量级的OSS漏洞被动扫描插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497186&idx=1&sn=0cab6ddc7ac322dff09b508f624efe43",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "护网—2025丨某科技公司未及时修复安全漏洞，网警依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502710&idx=2&sn=2ce2085447100d46f90ae8ddefe37d5e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【高危漏洞预警】Spring Cloud Gateway表达式注入漏洞CVE-2025-41253",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490971&idx=1&sn=2a5bbec0c03e3bb74c0de423185c0e64",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
