@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491219&idx=1&sn=2c72aa5811312e34ba6fc1bc3de517ed",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "XXE漏洞黑白盒挖掘以及防御方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491045&idx=1&sn=3c3d39f4aa7dbae9d268f8553ad00851",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【已复现】Spring Cloud Gateway 表达式注入漏洞修复后再曝新漏洞（CVE-2025-41253）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495219&idx=1&sn=ae0210e979a5c9c25fe9942eecca2e99",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【首发复现】Milvus Proxy认证绕过漏洞(CVE-2025-64513)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495219&idx=2&sn=61ee548d88fa7331d51aa49bf8a89886",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
