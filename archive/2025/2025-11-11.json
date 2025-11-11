@@ -1,0 +1,86 @@
+[
+    {
+        "title": "NET代码审计下前台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487056&idx=1&sn=500b71cbab4a82edf6c0df682780dbe2",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "丹麦与挪威调查宇通电动公交“安全漏洞”，欧洲再现对华技术疑虑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490266&idx=1&sn=94ee2e3e7e9eff82f33c2769f84d7cf6",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "SuiteCRM SQL注入漏洞（CVE-2025-64492、CVE-2025-64493）可能泄露客户数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485776&idx=1&sn=31d6e43950d6516839fc2c7201a663ea",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "ChatGPT曝七大漏洞，可诱使AI泄露记忆与聊天记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549610&idx=2&sn=b1e6b3fb18f94949905934c741db617e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "藏在图片里的ZIP！三星旗舰0-Day漏洞被曝，间谍软件LANDFALL如何实现“降维打击”（内附SELinux篡改细节）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485281&idx=1&sn=f155a9b603bdf23df27183cfeab8515b",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494972&idx=1&sn=dd8b6225037bc5583698fbeb16f75e3e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": ".NET 环境下的 CSRF 漏洞与防御策略详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500902&idx=1&sn=b066c88be376d6aa18b4218946f872e8",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "一款面向网络安全从业者的--高危漏洞实时情报自动推送工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486966&idx=1&sn=382beb93351e7d4d912a73a6bcd9a640",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "20 个渗透测试核心技能曝光！每一个都值得写进简历，新手也能快速上手！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520513&idx=1&sn=a6d50500de4440a6099cf1c4a56182b8",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "HexStrike代理：让大模型继承专家经验，显著提升渗透测试效率",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486414&idx=1&sn=b9f5eadbe6cf4841b29409325e740e4b",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "漏洞预警 | Django SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494903&idx=1&sn=921e5b6edd27042391e3442a633c6dcc",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494903&idx=2&sn=3cc87a3bf949123ee031eae5b4935b34",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494903&idx=3&sn=3ed0a6e5c954cfe6be57005363bfee1e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【Java漏洞综合利用工具】Hyacinth v2.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508774&idx=1&sn=a027d20a53a985b86e56fc6af30b1f22",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    }
+]
