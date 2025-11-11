@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484756&idx=1&sn=ede7142b21db448a17230f2605116c65",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：跨站请求伪造CSRF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484840&idx=1&sn=9267ee16bd996f74d45512c9d581b459",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "《别只盯着SQL注入了！这个被低估的漏洞，才是你的赏金“金矿”》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797354&idx=1&sn=9af3a8cca6fe8af8e1488b0af7e36d14",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "runc关键漏洞威胁Docker和Kubernetes容器隔离安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330233&idx=3&sn=116042e940f4573d54f44b1b2e661f22",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
