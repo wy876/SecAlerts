@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248583&idx=1&sn=43a7bf2bb105080796a17fb80f089a56",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "SQL注入渗透与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485050&idx=1&sn=2fecc056ea555a484bfbaded7273fe3d",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "泛微E Cology jqueryFileTree.jsp 路径穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493247&idx=1&sn=a507606c43b545e3c094b5facab9feb9",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
