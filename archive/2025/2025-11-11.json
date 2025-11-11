@@ -256,5 +256,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604080&idx=2&sn=e8be2a3e73a6aecb13ebf43dc72aae0e",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "【已复现】Milvus Proxy 身份认证绕过漏洞(CVE-2025-64513)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504138&idx=1&sn=139f49200a7c297b738fff871c805343",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "记一次edu漏洞挖掘/从信息泄露到内网滲透",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486038&idx=1&sn=9cb6015f1335927ac65406980fbb528a",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "runC 存在多个严重漏洞，Docker 和K8s容器隔离机制面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524359&idx=2&sn=6daf5f0d15e7847808853efadff34393",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "JavaScript 热门库 expr-eval 易受 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524359&idx=3&sn=dca660000a6936def1900d3d5cf13519",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
