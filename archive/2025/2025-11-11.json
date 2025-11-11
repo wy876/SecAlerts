@@ -136,5 +136,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495219&idx=2&sn=61ee548d88fa7331d51aa49bf8a89886",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "某科技公司未及时修复安全漏洞，网警依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087393&idx=1&sn=9c0d321ab616946216c60e4dec649c51",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "渗透测试全流程与操作指南，从资产收集到漏洞验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485729&idx=1&sn=f5b59055998f1e05ddc01acdee96d592",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251111",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562859&idx=1&sn=d39eac8164492ecd013aa1912230f927",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "KINGOSOFT高校智慧校园教学综合服务平台downloadzgkssmwd.jsp接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483857&idx=1&sn=9e31a92166d5cf982c80904eb881f885",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
