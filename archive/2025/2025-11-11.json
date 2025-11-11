@@ -184,5 +184,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483942&idx=1&sn=d2aeb74966321319c62ac3158e1eb98b",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "【漏洞通告】Spring Cloud Gateway 表达式注入漏洞(CVE-2025-41253)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501767&idx=2&sn=bc024430f0ffdf5f7b6321ee1b553fc9",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "安全小知识-第十期_密码找回逻辑漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483990&idx=1&sn=c9695b6c2db8c93807eeb2a6f485e90a",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "JumpServer连接令牌泄漏漏洞 (CVE-2025-62712)复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524969&idx=1&sn=ffb226f204668c980499a330d5c527e6",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "处罚案例 | 某科技公司未及时修复安全漏洞，网警依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247501482&idx=1&sn=f55d0e25e328af7fe37fd6a27677190f",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "我是如何发现ASP.NET最严重的漏洞——一个价值1万美元的漏洞（CVE-2025-55315",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533533&idx=1&sn=38286be035163ed21092aa4ae79ae395",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "CVE-2025-41253 使用 Spring 表达式注入漏洞导致语言暴露环境变量和系统属性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533533&idx=2&sn=4c37661941599bdc5359b4bdc7489243",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "CVE-2025-49844、CVE-2025-46817 和 CVE-2025-46818 严重 Lua 引擎漏洞的概念验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533533&idx=3&sn=f9cc605b3b906fc43eeec60b1422d63e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【已复现】Spring Cloud Gateway 表达式注入漏洞(CVE-2025-41253)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504132&idx=1&sn=053b67fe9460b2ac9fcc4ab6164d1c53",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.11.3-2025.11.9",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503594&idx=1&sn=91fcc98336c62c1862488511fae73d97",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
