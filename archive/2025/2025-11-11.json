@@ -280,5 +280,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524359&idx=3&sn=dca660000a6936def1900d3d5cf13519",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "【安全圈】三项严重漏洞允许攻击者突破 Docker、Kubernetes 容器隔离",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072684&idx=2&sn=1e5dc92d90633b2491948fa3e9c91e0e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "【安全圈】Zoom 多项漏洞可被利用绕过访问控制导致数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072684&idx=3&sn=b6950f2c8a2430eae813fb56247c4863",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "CVE-2025-34041 深挖：深信服EDR命令注入复现与检测要点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484756&idx=1&sn=ede7142b21db448a17230f2605116c65",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
