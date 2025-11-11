@@ -160,5 +160,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483857&idx=1&sn=9e31a92166d5cf982c80904eb881f885",
         "source": "Doonsec",
         "date_added": "2025-11-11"
+    },
+    {
+        "title": "双系统危机：苹果配置失误泄源码，安卓零点击漏洞可远程执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537650&idx=1&sn=ebbd6db0f3e90faa124a203a1afff5e1",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "运营提效！漏洞信息一键检索",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537650&idx=5&sn=aa336b75781c44a26adf5f87992d9c7e",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "最新版 | OWASP  TOP10 安全漏洞，新增两大类别",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540780&idx=1&sn=5a138792e01db25a9f60a56f7d0e93b2",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
+    },
+    {
+        "title": "PHP-Code-Sec 靶场：PHP 代码审计与漏洞学习的离线实战平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483942&idx=1&sn=d2aeb74966321319c62ac3158e1eb98b",
+        "source": "Doonsec",
+        "date_added": "2025-11-11"
     }
 ]
