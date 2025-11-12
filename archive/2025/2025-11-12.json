@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490839&idx=1&sn=44387c75980e0ae2dc3235b4d7971330",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "网络安全框架全景解读（上）：渗透测试与攻击建模",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485766&idx=1&sn=f343abacb2561c84da90bb71fe03f794",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】微软11月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501773&idx=2&sn=5aaecf4a7562c413b9d9dfa0285d7218",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
