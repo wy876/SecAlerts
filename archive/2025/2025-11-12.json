@@ -130,5 +130,89 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796840&idx=3&sn=4ab99140474223c4a5452a37712d74e4",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞预警】Elastic Cloud Enterprise权限提升漏洞CVE-2025-37736",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490982&idx=1&sn=a362e9a8439901974275438d4d33a289",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【高危漏洞预警】微软11月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490982&idx=2&sn=a5aae0e1371bb8ca3e44a47d98d6f708",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "从对抗到出洞：某金融APP 实战渗透与 Frida 反检测绕过（Rpc + Flask + AutoDecoder）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521354&idx=1&sn=e7fe08a2268569c9de7832f6ccf9db90",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "群晖发布紧急更新，修复 BeeStation 严重远程执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543246&idx=1&sn=ce4a68f6451aa6ae07fa3afe66820420",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "最新版 | OWASP TOP10 安全漏洞，新增两大类别",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496924&idx=1&sn=ebf3fab1f71495b127d2c2977c90e8fb",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【影响1w+】WordPress AI Engine插件存在前台管理员越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490349&idx=1&sn=d82f2bd21a53f9210fd072f9a94d93dc",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【安全更新】微软11月安全更新多个产品高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489408&idx=1&sn=2ce5c823d816b19d06644cfba27cee95",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】Radiometrics VizAir 绕过认证漏洞 （CVE-2025-61945）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486806&idx=1&sn=7240a2cd5e1b005bc7af4963f7ddfae0",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】三星移动处理器和可穿戴处理器VTS中发现信息泄露漏洞（CVE-2025-54325）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486806&idx=2&sn=60b88b4a8cae3f39f43b0ae06627540e",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】Survision LPR Camera（车牌识别摄像头）系统存在未授权访问漏洞（CVE-2025-12108）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486806&idx=3&sn=159bf4091d019b9732806bd24edc0107",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】NVIDIA App for Windows在安装程序中存在权限管控漏洞(CVE-2025-23358)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486806&idx=4&sn=a5dd0af5893443823b26f6f762d9d79c",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【漏洞通告】NVIDIA RunAI 平台存在信息泄露漏洞（CVE-2025-33176）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486806&idx=5&sn=81d75920b9a7d59c1a6a002ae7d2cf80",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2025年11月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526676&idx=1&sn=0c2f1fb5ee24e799a579cfc5f8b44c74",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "国产手机警惕！Operation South Star 用 0day 漏洞搞间谍活动，点击邮件就中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487174&idx=1&sn=77066f7c0e15a38c4bc6e47efc6e8b6e",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
