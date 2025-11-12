@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501773&idx=2&sn=5aaecf4a7562c413b9d9dfa0285d7218",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "百择唯供应链存在RankingGoodsList2存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483910&idx=1&sn=cddafeb05f267919a74bf250a19b9e8e",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
