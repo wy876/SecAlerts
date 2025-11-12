@@ -52,5 +52,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493346&idx=1&sn=a64a6619cc2f9b7e620aab97eb3f4e94",
         "source": "BruceFeIix",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：XSS跨站脚本攻击漏洞（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484845&idx=1&sn=fd76d2aed5fc7fe185fda32fc683ba31",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "Windows内核0day漏洞遭野外利用实现权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096626&idx=1&sn=1e6187713ff19f2add287f5cd6afd618",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "Ivanti Endpoint Manager 漏洞允许攻击者在目标系统任意位置写入文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096626&idx=2&sn=d82f42ba2c88dcbbe48b2fe0193b92fc",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "Windows 内核 0Day 漏洞遭野外利用提权（CVE-2025-62215）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330302&idx=3&sn=fa32deeaae2bb2b68999b0eb2db64665",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "群晖修复 Pwn2Own大赛中利用的BeeStation 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524369&idx=1&sn=98014966c8dafda944a1e00a5e3decb1",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "微软2025年11月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524369&idx=2&sn=07fedd121d307d4b3867834ea9b25395",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "2025-11微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527507&idx=1&sn=e5ae2eabdd0c445211130b727ce1f49f",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告 （1012-1025）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136450&idx=1&sn=710b51dfb722c27b7bc738475116155e",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "最新版 | OWASP TOP10 安全漏洞（web方向）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521916&idx=1&sn=d4a844a85c4b7c0c55fb9803f3f04b8a",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第45期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463840&idx=1&sn=be3b465928f401d05bb95fc2653c1142",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "苹果新版网页版App Store 前端源代码因配置错误被泄露|安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248587&idx=1&sn=642330b32402907167f796049b2677a0",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "网安学习资料【之】漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485361&idx=1&sn=46999d6310a05a4d34dc4f9366f98b01",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "微软 2025 年 11 月补丁日修复 63 个漏洞，其中包括 1 个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796840&idx=3&sn=4ab99140474223c4a5452a37712d74e4",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
