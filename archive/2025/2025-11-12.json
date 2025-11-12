@@ -1,0 +1,50 @@
+[
+    {
+        "title": "微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、4个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504139&idx=1&sn=cb450b5580783621b7ad808cff70f9c0",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "三星、苹果手机曝严重漏洞，成间谍软件重点目标",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549677&idx=2&sn=3193a9c91f9254b13b1b89fd40b04101",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "一个RCE命令执行靶场",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508251&idx=1&sn=8027fd1fda0f01a1a81b3ee50d635270",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "漏洞预警 | PHPGurukul Apartment Visitors Management System SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494910&idx=1&sn=a1b7801500f92f2e34f9f785ec89174e",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "漏洞预警 | 维达外贸客户关系管理系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494910&idx=2&sn=d85e424e536928f367fa5d145d48133b",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494910&idx=3&sn=96889493b7fab058f382a0bb162cea2c",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "专为AWD攻防演练比赛设计的综合性工具箱，集成漏洞利用、流量监控、自动化攻击等功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495634&idx=1&sn=1f745ee8689ba58dcce331cf78671833",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "GYscan v2.0.1 - 专业的Go语言内网横向渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490530&idx=1&sn=c5725a9b2c31e436ec103cf47a5cb1b1",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    }
+]
