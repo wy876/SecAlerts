@@ -244,5 +244,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485055&idx=1&sn=baea42ffc4dbc80d253cf61a49b57ce1",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "微软2025年11月份于周二补丁日针对63漏洞发布安全补丁，其中包括一个正在遭受攻击的 Windows 内核零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502724&idx=1&sn=6eb9e27fd1772937c44fa5c0339d7510",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "黑客利用Rust 库中过时的 TARmageddon 漏洞发起 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494027&idx=1&sn=a91f8a2b8b34b70ad83be495bbd028e8",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "JSAPIscan自动化漏洞扫描与API接口发现工具|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495657&idx=1&sn=771c4b2542d7d11a006f61889fbdf383",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "针对 CVE-2025-60710 的安全公告，这是针对该 LPE 的 PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533539&idx=1&sn=9116855ab894bfb28b959511c3e31666",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "KINGOSOFT 高校智慧校园教学综合服务平台 downloadzgkssmwd.jsp 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493256&idx=1&sn=cce5c81c2cf3bc28c377fba82062999b",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "语法混淆：利用多语言语法差异实现漏洞利用的高级技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490463&idx=1&sn=8fb367135c738fdffdbed4b8c58fb3ed",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "Windows 11 PolicyConfiguration 计划任务特权提升漏洞(CVE-2025-60710)附带POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484340&idx=1&sn=78afafd1d411aaf7c8e49ca27766ef10",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "一个CTF 竞赛与渗透测试的专业虚拟机环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483950&idx=1&sn=d507435582b2ad0cb75e73b28353bb16",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "Hutool XML 反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490839&idx=1&sn=44387c75980e0ae2dc3235b4d7971330",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
