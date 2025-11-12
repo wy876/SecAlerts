@@ -214,5 +214,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487174&idx=1&sn=77066f7c0e15a38c4bc6e47efc6e8b6e",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "Tomcat常见漏洞汇总",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486040&idx=1&sn=80cfa917ec2d97904770ea3ce2842ddc",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【已复现】Windows 11 PolicyConfiguration 计划任务特权提升漏洞(CVE-2025-60710)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495236&idx=1&sn=f0b014cb6c52bfd082d580a4a26602de",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "英国情报机构调查中国电动公交车远程关闭漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637975&idx=4&sn=c589c4e0ff0809a265fa8ac644b65e5f",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "【WordPress专题02】CVE-2025-2563漏洞分析及POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484958&idx=1&sn=9cef3027500d25c935256d0e196b70eb",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
+    },
+    {
+        "title": "XSS 渗透与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485055&idx=1&sn=baea42ffc4dbc80d253cf61a49b57ce1",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
