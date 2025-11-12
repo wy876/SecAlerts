@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483910&idx=1&sn=cddafeb05f267919a74bf250a19b9e8e",
         "source": "Doonsec",
         "date_added": "2025-11-12"
+    },
+    {
+        "title": "小程序渗透测试之全站用户接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487037&idx=1&sn=e147355e8ea0ef4e647bbe67ac3c3a97",
+        "source": "Doonsec",
+        "date_added": "2025-11-12"
     }
 ]
