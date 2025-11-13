@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483994&idx=1&sn=c658787f06d836dec40bce9068367f47",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "【成功复现】Lychee路径遍历漏洞(CVE-2025-50202)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503657&idx=1&sn=07fd2e63fb855347089947402d04c5c2",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
