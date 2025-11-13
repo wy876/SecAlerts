@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507962&idx=1&sn=f08e1364ea4ba789e5f7b77d4c5f9195",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "Jackjson的CVE-2020-36188分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484249&idx=1&sn=b24d6541e06235679894d8a8d514ad6e",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
