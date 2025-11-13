@@ -94,5 +94,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494927&idx=3&sn=0d8396f515d562d0af3e5a3e999df2f2",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "] [如何从漏洞管理升级到暴露面管理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485769&idx=1&sn=a34faa266b8d8c0bde76edb3d3631726",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463846&idx=1&sn=6b6e911f0ef82810e25b9495ea9e64f8",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "Citrix NetScaler内存泄露与反射型XSS漏洞 CVE-2025-12101",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【复现】TongWeb ejbserver反序列化漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484960&idx=1&sn=bb4bce6fbb24e6c7d577576a1950346a",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "渗透测试的车联网通信安全与防范措施研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628620&idx=3&sn=9d2aed372652cf35aa7f24fa4d478e9b",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "APP 渗透测试技巧大汇总！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527908&idx=1&sn=50b4ece787ee8ff894771c47ffa4905d",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
