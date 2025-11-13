@@ -196,5 +196,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504145&idx=1&sn=e87ffc546abe4fc51baa1e751a82f076",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "【漏洞通告】Apache OFBiz 任意文件上传漏洞(CVE-2025-59118)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501779&idx=2&sn=914b665da3e87723b34ae47954891fe0",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "CERT/CC 警告 Lite XL 文本编辑器存在代码执行漏洞（CVE-2025-12120、CVE-2025-12121）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "Windows远程桌面服务漏洞允许攻击者提升权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=3&sn=85515815d0c7bba11137b1a1c61c5584",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞安全通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
