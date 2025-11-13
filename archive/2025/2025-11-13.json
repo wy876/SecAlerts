@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484241&idx=1&sn=585236988187708d216cf474110d78e7",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：XSS跨站脚本攻击漏洞（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484848&idx=1&sn=5045a798d5cceaa24256a99799cb5b86",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
