@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330362&idx=4&sn=3c733291dc0f790e9f762a3220430601",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664253314&idx=2&sn=bc04651b2917327c7550323318e60ac8",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "落云安全·内部圈子：POC、红队与源码的研究共同体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484241&idx=1&sn=585236988187708d216cf474110d78e7",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
