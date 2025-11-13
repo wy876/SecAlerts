@@ -244,5 +244,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484249&idx=1&sn=b24d6541e06235679894d8a8d514ad6e",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "美国成立 Scam Center Strike Force：打击东南亚虚拟货币诈骗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247490282&idx=1&sn=fd8301d31b99060767130849e1406281",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "冬筑·蓄能 | 微众银行SRC冬季漏洞挖掘激励计划",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NjAyODc1NQ==&mid=2247487166&idx=1&sn=470b28ed390c24147de7c7bdbdd02ac9",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "安全通告：Chrome V8引擎发现高危漏洞，官方发布修复更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604124&idx=3&sn=23593b87e2f899c70583a2e18866e9b8",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【已复现】东方通 TongWeb ejbserver 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495244&idx=1&sn=61383c41881877e96af51951020e76c3",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【cyberstrikelab】lab3-内网渗透，NetLogon特权提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488635&idx=1&sn=a6e05ad0bd91faaae9d9b12580661b62",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "漏洞速递 | 东方通 EJB 反序列化远程代码执行0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501564&idx=1&sn=17fdaeefb363063457bc0a0b9cc30dde",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【免费领】硬核渗透工具：Coablt Strike官方教程（中文版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556750&idx=2&sn=a782bb5a8ff93d8d16d1dd9c5b58330a",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
