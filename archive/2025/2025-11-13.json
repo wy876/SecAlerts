@@ -286,5 +286,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556750&idx=2&sn=a782bb5a8ff93d8d16d1dd9c5b58330a",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "【安全圈】OpenAI Sora 2 漏洞通过音频转录暴露系统提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072716&idx=1&sn=38412a9178d6f38b8c9329d74034513f",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【安全圈】CISA 将 WatchGuard Fireware 高危漏洞列入已被利用漏洞目录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072716&idx=4&sn=ef6a80b1a03ac75d4f0170b9932d19c1",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "高效漏洞挖掘：利用 sqlmap 与 BurpSuite 实现批量 SQL 注入扫描",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797366&idx=1&sn=a2c982b475a874aea0dbb49de930ed83",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "攻击者利用自定义GPT的SSRF漏洞窃取ChatGPT机密数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330362&idx=1&sn=a92d36d88ac0528b31b27f96549c442f",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "Windows远程桌面服务漏洞可导致攻击者权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330362&idx=3&sn=10740b31334efccc33ef574bdf43de37",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "GitHub Copilot与Visual Studio漏洞可致攻击者绕过安全防护功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330362&idx=4&sn=3c733291dc0f790e9f762a3220430601",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
