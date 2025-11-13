@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "一个稍显诡异的逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524991&idx=1&sn=03ef61bfe072575dbad8145072e8b9de",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "从零到一：10 个渗透测试场景下的漏洞挖掘技巧|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575678&idx=1&sn=55496a0976445671527b23662450be72",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "漏洞通告 | TongWeb应用服务器 ejbserver 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507962&idx=1&sn=f08e1364ea4ba789e5f7b77d4c5f9195",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
