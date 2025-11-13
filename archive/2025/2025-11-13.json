@@ -358,5 +358,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650563125&idx=2&sn=0b8fae15c84182a35e2672febb060d69",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "【高危漏洞预警】东方通TongWeb ejbserver远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490987&idx=1&sn=9a17f809b161cebad9fffd1da3961112",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
