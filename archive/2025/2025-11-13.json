@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485368&idx=1&sn=7b388a188e523e9b79bbce3d2b4a86db",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "CVE-2025-9415 漏洞分析：GreenCMS任意文件上传（Upload）及其他漏洞研究-第二部分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485739&idx=1&sn=252dc8891b13e6a0eb75a30e1ea5ab1d",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "微软封杀KMS激活漏洞！KMS38时代终结，HWID成激活新救星",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504106&idx=1&sn=2af419013ad47199255489a54ccf7800",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【已复现】Windows 任务主机进程权限提升漏洞(CVE-2025-60710)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504145&idx=1&sn=e87ffc546abe4fc51baa1e751a82f076",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
