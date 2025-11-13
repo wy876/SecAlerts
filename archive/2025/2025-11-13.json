@@ -1,0 +1,98 @@
+[
+    {
+        "title": "渗透测试必备---Kali渗透实战：3分钟搞定Kali_Linux安装，Kali常见渗透工具介绍--超详细，从零基础入门到精通。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487262&idx=1&sn=d04745545bf1fe6c600218c873f70189",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【风险通告】微软11月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490619&idx=1&sn=c93af0e1ef2a6fdf3377836556864fbc",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "英国情报机构调查中国电动公交车远程关闭漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613207&idx=1&sn=7dcd617d19e1e5cdbbe0af4b3abce561",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "JavaScript库React高危漏洞（CVE-2025-11953）威胁数百万开发者",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613207&idx=2&sn=7260f4135b4d532e10f2201af7ff8fd2",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "Nuclei POC 漏洞验证可视化工具 | 更新V3.2.3",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613207&idx=3&sn=d0767937a573be52437bbec8276508bf",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "微软2025年11月\\\"补丁星期二\\\"安全更新修复了一个被积极利用的Windows内核漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495260&idx=1&sn=f8b952e74552893b4c159416b35bf287",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "群晖修复Pwn2Own爱尔兰黑客大赛中披露的BeeStation严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495260&idx=2&sn=2a9772d9798c6ff576cffafee2afae44",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "绿盟科技渗透测试/安全研究方向",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507292&idx=1&sn=63f29c0db9fb89c79f042674e363c49d",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "某企业src中危漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499205&idx=1&sn=2826919af1b07744c9d74c2da6f7f387",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "复杂的网络攻击正利用 Cisco ISE 和 Citrix 中的0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796850&idx=2&sn=dc3bc6e80531a0ae53f9524a75bf8e74",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "研究人员详细介绍了 Windows 云文件迷你过滤器驱动程序权限提升缺陷 （CVE-2025-55680）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488307&idx=1&sn=178c8720d62e7ad6966d068d615a3878",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "如何通过搜索JS文件找到一些有价值的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498563&idx=1&sn=a7db785c1e15e5cc01dc9aff8975e4bf",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "【工具推荐】Java综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484726&idx=1&sn=73b4507fcec3c5d6e5e3f60686f27154",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "漏洞预警 | Open WebUI任意代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494927&idx=1&sn=2d350ffec5a0284f3a8f24b2fcf9bec3",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494927&idx=2&sn=5a368f1e7eca04db14c6e480262204bb",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494927&idx=3&sn=0d8396f515d562d0af3e5a3e999df2f2",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    }
+]
