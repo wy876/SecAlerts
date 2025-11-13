@@ -130,5 +130,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527908&idx=1&sn=50b4ece787ee8ff894771c47ffa4905d",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "紧急预警！FIN11 APT组织通过Clop 用零日漏洞攻破 Oracle EBS，施耐德电气等巨头应声中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "高危 GitLab XSS 漏洞 (CVE-2025-11224) 可能导致 Kubernetes 代理会话劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "高级黑客利用 Cisco 与 Citrix 零日漏洞发起定向攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486782&idx=1&sn=37cb33fc6f72716b042979083c0770e5",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "上传验证渗透与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485060&idx=1&sn=12672e02f51f807675c6f98a1982115d",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "《奇安信SRC产品漏洞评级标准V3.2》",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "安全小知识-第十一期_交易支付逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483994&idx=1&sn=c658787f06d836dec40bce9068367f47",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
