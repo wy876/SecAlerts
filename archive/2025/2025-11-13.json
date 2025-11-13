@@ -364,5 +364,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490987&idx=1&sn=9a17f809b161cebad9fffd1da3961112",
         "source": "Doonsec",
         "date_added": "2025-11-13"
+    },
+    {
+        "title": "Windows RDP漏洞允许攻击者提升权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119491&idx=1&sn=06d459e2835765639c285139b669f993",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "指纹识别+漏洞扫描+路径绕过 | RVScan让你的Burp Suite如虎添翼",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497215&idx=1&sn=a4ab0bcecbf8674eaff361ff4ea7113d",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "ICS周二补丁日：西门子、罗克韦尔、Aveva、施耐德电气修复漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502748&idx=2&sn=8f470ed05522144d789a271c32ba1fc3",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "“零漏洞”是伪命题！漏洞管理需要转变工作方向",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516701&idx=1&sn=23b4bff1060922fab53010d001725881",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
+    },
+    {
+        "title": "天地伟业Easy7 downloadWordRecord接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489507&idx=1&sn=d24ab1dbbf9f0f9362a6f2afcdfe17b9",
+        "source": "Doonsec",
+        "date_added": "2025-11-13"
     }
 ]
