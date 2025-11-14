@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485261&idx=1&sn=1357ad5127a28759c76389bc62ce40c7",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "GitLab多个漏洞允许攻击者注入恶意指令窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096634&idx=1&sn=047260b234adfaa8e76c9ec9d56f912a",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "Fortinet FortiWeb 零日漏洞遭利用，攻击者可获取完全管理权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096634&idx=2&sn=b80b5dd0f509e15cab90e65f3b925592",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
