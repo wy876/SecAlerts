@@ -94,5 +94,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247484856&idx=1&sn=0a9e92bc90e94e4d92448aab5f21873a",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "] [GRC及领导力快速课程：解读网络风险，驾驭框架和标准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493350&idx=1&sn=eb17d7194b84a97194b5160a2feb28e0",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "【已复现】东方通 TongWeb 应用服务器 ejbserver 远程代码执行漏洞(QVD-2025-44295)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "揭秘 XSS Exploitation Tool：跨站脚本漏洞研究与测试利器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "安徽江淮汽车：基于渗透测试的车联网通信安全与防范措施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=1&sn=373f2a8435e365412c2e73d50b4088c1",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "基于能力成熟度模型的车联网漏洞管理探索",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=3&sn=19c5dedfe4c706740604514a8beb0c07",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "驻场招聘 | 渗透测试工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDY2MTUyMA==&mid=2247491962&idx=1&sn=87e819846d658f8a79c721d83452f7cc",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
