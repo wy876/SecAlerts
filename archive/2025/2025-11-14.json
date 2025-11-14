@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485065&idx=1&sn=e2ade99450f870d52b797d0bcecc7a18",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "【漏洞通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
