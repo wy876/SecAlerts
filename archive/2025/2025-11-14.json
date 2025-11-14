@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489519&idx=1&sn=0829ee65125f779710573ace4dfd9e81",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "科汛新职教网校系统CheckOrder存在SQL注入漏洞  附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
