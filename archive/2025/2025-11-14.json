@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562864&idx=1&sn=66830796e05331965b8de0a69c1979a6",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
