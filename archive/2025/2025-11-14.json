@@ -1,0 +1,98 @@
+[
+    {
+        "title": "致远密码重置漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483933&idx=1&sn=262393950f3242ae4dc3cbe9c99509fc",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "明源云GetErpConfig.aspx敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483919&idx=1&sn=ecb1c7a72d1714162978ff7744e65d75",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "教育行业漏洞挖掘思路简析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489244&idx=1&sn=a8565a816bf43c72ee92765159612ba8",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "Zoho Analytics Plus 存在严重漏洞 (CVE-2025-8324)，允许未经身份验证的 SQL 注入和数据劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485872&idx=1&sn=d65a67ee300dd41e45089c4d1ee8dbff",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "如同 请问算漏洞吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492390&idx=1&sn=d720f9dc79b2f067a3dce7a9dd47bf6f",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "ImunifyAV 中的远程代码执行漏洞使数百万个托管在 Linux 上的网站面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796863&idx=1&sn=0c663dd2f2e3317a64e1fd81324c90ad",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "没想到会泄密？涉密硬盘送境外、127 份文件遭窃取！“不经意” 操作竟成泄密 “致命漏洞”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzI3MzMwMQ==&mid=2247531646&idx=1&sn=7474d245c9f2cef21278bfaf7091a929",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "微软封杀KMS激活漏洞！KMS38时代终结，HWID成激活新救星",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549708&idx=2&sn=7ecdc5e34a56b7effdad52c53a27e52a",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "网络安全漏洞的分类分级及闭环管理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549708&idx=3&sn=95d1a07f85addb5ebcfb55366ab35cee",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "某edu站点打包高危9分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489161&idx=1&sn=f733ad323e2069b8108b54b3312cd9cc",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "漏洞预警 | XWiki SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494974&idx=1&sn=1b03a1a8e4b604b3dc0cd6236e540a82",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "漏洞预警 | 维达外贸客户关系管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494974&idx=2&sn=a344596c87c52eea253f5e310999d656",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494974&idx=3&sn=177ef4cae96f40b7c80ba47342f500de",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "图形化武器库：千条网址自动过刀，Confluence 0Day、DedeCMS 注入秒级收割",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493714&idx=1&sn=abf828376ac350939cb1edf445196a48",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "【成功复现】React Native CLI远程命令执行漏洞(CVE-2025-11953)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503668&idx=1&sn=762eca1707f7e52769ac63cd5c48e878",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "BabyStream - 从LFSR到LPN的完整攻击复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247484856&idx=1&sn=0a9e92bc90e94e4d92448aab5f21873a",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    }
+]
