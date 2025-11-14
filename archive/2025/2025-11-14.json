@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260551&idx=1&sn=5415f033ed88646ba5346b935dd2066c",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "【附POC】极易利用的Windows11提权漏洞复现（CVE-2025-60710）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484976&idx=1&sn=c72ab946f5728b58c819d32601bdf610",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
