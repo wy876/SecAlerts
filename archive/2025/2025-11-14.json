@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491389&idx=1&sn=f638cec35441134932dd577dc9864c19",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "关于防范Redis数据库内存释放后重用超危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489328&idx=1&sn=f815b915cfa712027a3cc6c191efc08a",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "信息安全漏洞周报【第047期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064432&idx=1&sn=0940280b9d9d0c74242f3f2ea94abeb7",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
