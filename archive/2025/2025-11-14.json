@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484633&idx=1&sn=38518418e9cf4927795058dd813d523f",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "GitLab曝多个安全漏洞，攻击者可注入恶意指令窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330440&idx=3&sn=46b796ec87fc7ebb7b8f00a1af392a30",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
