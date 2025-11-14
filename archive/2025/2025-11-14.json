@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDY2MTUyMA==&mid=2247491962&idx=1&sn=87e819846d658f8a79c721d83452f7cc",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "XXE渗透与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485065&idx=1&sn=e2ade99450f870d52b797d0bcecc7a18",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
