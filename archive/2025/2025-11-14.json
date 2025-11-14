@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525722&idx=1&sn=a551200cec387b410ab58bc30758627b",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "记一次从短信验证码缺陷到发现大量学校管理员弱口令的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553335&idx=1&sn=02fe5d03587f25c677951a423284c630",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251114",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562864&idx=1&sn=66830796e05331965b8de0a69c1979a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
