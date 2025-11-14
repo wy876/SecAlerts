@@ -262,5 +262,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484855&idx=1&sn=066acb504bfe34e33e43346f359df5cc",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "安全人的价值：不在“修漏洞”，而在“护业务”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516710&idx=1&sn=57905e771ceb5e1a26dd8d93b54a2542",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "【高危漏洞预警】Apache OFBiz任意文件上传漏洞CVE-2025-59118",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490992&idx=1&sn=1271e5bd9762b896bd1c40b3c889518d",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
+    },
+    {
+        "title": "React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489519&idx=1&sn=0829ee65125f779710573ace4dfd9e81",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
