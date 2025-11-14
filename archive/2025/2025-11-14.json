@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484976&idx=1&sn=c72ab946f5728b58c819d32601bdf610",
         "source": "Doonsec",
         "date_added": "2025-11-14"
+    },
+    {
+        "title": "【漏洞挖掘Tips】模糊测试和绕过AWS WAF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484633&idx=1&sn=38518418e9cf4927795058dd813d523f",
+        "source": "Doonsec",
+        "date_added": "2025-11-14"
     }
 ]
