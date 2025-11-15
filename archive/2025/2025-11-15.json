@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=2&sn=acba643cf7f56aee70e503bb235302db",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "文件上传代码审计深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525017&idx=1&sn=63e77b032a5c261c715045ff4eadd3cf",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
