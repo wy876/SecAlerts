@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493050&idx=1&sn=4b5983d65a088dce65a681550ae7a5ab",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "Windows TCP/IP 协议栈中存在一个严重的远程代码执行漏洞 (CVE-2025-26686)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "Fortinet FortiWeb 管理界面中的路径遍历身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=2&sn=acba643cf7f56aee70e503bb235302db",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
