@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487947&idx=1&sn=d6d10acafa39b3cc3b391f5002e9a01c",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "漏洞复现 || React Native CLI远程命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484858&idx=1&sn=6fd81c53c3ad6b37e79fd74cf9306e77",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
