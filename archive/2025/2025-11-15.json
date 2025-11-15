@@ -34,5 +34,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489159&idx=1&sn=ff3017210378ab4b4256c05dc2074c63",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "] [ISC2课程丨AI Security: Managing Overconfidence Course",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493355&idx=1&sn=5b8b003d8a868a2417ba1dc3975160c0",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "Fortinet FortiWeb 认证绕过漏洞 CVE-2025-64446 分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486067&idx=1&sn=dc2f86ee323603faf190f8f5bce8a80b",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493050&idx=1&sn=4b5983d65a088dce65a681550ae7a5ab",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
