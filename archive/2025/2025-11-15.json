@@ -70,5 +70,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525017&idx=1&sn=63e77b032a5c261c715045ff4eadd3cf",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=2&sn=b944c440a5ca14eb9491a63f7df34466",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "专访国外爆火的AI渗透机器人XBOW：对抗性机器人与自主威胁猎手的较量",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=3&sn=20859f4e878e1810f1a199443ddef4e0",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "CVE-2025-61882｜Oracle E-Business Suite 远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "CVE-2025-11001｜7-Zip远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "深信服运维管理系统 set_port 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "漏洞推送|X华智能物联综合管理平台_receive命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
