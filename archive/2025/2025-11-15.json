@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=2&sn=f48c62a37b29a834126d60b5de81cb0b",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "浅谈Java反射、反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487947&idx=1&sn=d6d10acafa39b3cc3b391f5002e9a01c",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
