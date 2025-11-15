@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f",
         "source": "Doonsec",
         "date_added": "2025-11-15"
+    },
+    {
+        "title": "NVIDIA NeMo框架漏洞可允许代码注入与权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "思科统一联络中心（CCX）多个漏洞暴露，攻击者可执行任意命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=2&sn=7411b33034b209e18125b808d353684e",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
+    },
+    {
+        "title": "【安全圈】群晖发布紧急更新，修复 BeeStation 严重远程执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=3&sn=ed845332a76f0967ed40d52ddff0ae59",
+        "source": "Doonsec",
+        "date_added": "2025-11-15"
     }
 ]
