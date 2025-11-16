@@ -4,5 +4,113 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330476&idx=3&sn=4d477ea411b3aa4185a781f76ce992a7",
         "source": "Doonsec",
         "date_added": "2025-11-16"
+    },
+    {
+        "title": "【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "AWD自动化渗透测试工具（AWD_TOOL_SUMMARY v1.0），全球首创攻防一体化情报机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485757&idx=1&sn=d7d5b8a385c686325f4d7ff38416206c",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "蔓灵花 APT组织盯上WinRAR新漏洞！这类压缩包千万别随便解压",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487221&idx=1&sn=adcbeedfae4b42e139551fb7c345551c",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "漏洞推送|XX服运维安全管理系统netConfig/set_port存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485193&idx=1&sn=292ec6badd2df67b37851de17ce2468c",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "Oh My ZSH  升级与漏洞复现思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447979996&idx=1&sn=7469288d98c26ced754b01126899aeb1",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "美国针对东南亚诈骗进行打击“Scam Center Strike Force”专项打击行动详细情况",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486101&idx=1&sn=1c3fff3da64a99a18dd04304aee1e5ca",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "无需地址泄漏 - 通过 ROP 链绕过 ASLR 实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491296&idx=1&sn=f1f8a89e4cf7a13feb7591e9259f0af1",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "EHR在线订餐管理系统存在SQL注入漏洞 全网首发 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483939&idx=1&sn=deca04836875db79bd80c2f4cc52e38e",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "变废为宝-从废弃的硬件中发现0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037964&idx=1&sn=5731c0605c39cdfb90759f7faf1aa682",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "卢浮宫惊天劫案背后：长达10余年的弱密码安全漏洞暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613252&idx=3&sn=8c12be13b2612f660187da351a3edc46",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "实战利器 50个渗透攻防命令速查！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520648&idx=1&sn=bd0c67f2bd2db6da438905a4dc7fc566",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "ASM Crypto 加密算法完整复现与深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247484920&idx=1&sn=8f3c1b5f22212a2b219b66b1bfecd134",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "Burp插件 | 提示词注入漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489166&idx=1&sn=a5a4bc7615b00074abcff8ac07278e68",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "TP-Link 警告 Omada 网关存在严重命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494037&idx=1&sn=efe1c11af2d8a4dbc63230168086eaaa",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "心得分享 | EXP-401 OSEE  — 攻击性安全漏洞利用专家",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525726&idx=1&sn=77a33883d1821d22ce2f04395f7e7bbc",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "漏洞预警“刷屏”，为何我们依旧疲于奔命？——从风险管理视角看漏洞治理工作",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516702&idx=1&sn=12b5b029aa1e486c5b298406fbc91eec",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "【工具】Nacos综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488652&idx=1&sn=3f58214a8e5275e7f38b4197ed88a1ef",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "2025年Solar应急响应公益月赛-9月——特洛伊挖矿木马事件排查复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTk3NDg0MA==&mid=2247483956&idx=1&sn=4b1201c3d0721a94bc9c43d3b1dd8f35",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
     }
 ]
