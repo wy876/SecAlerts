@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484862&idx=1&sn=aeaccf3c2026debd6e8c4504621f6b55",
         "source": "Doonsec",
         "date_added": "2025-11-16"
+    },
+    {
+        "title": "重磅！FortiWeb 新漏洞 CVE-2025-64446 的 PoC 已公开，攻击风险陡升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492263&idx=1&sn=7a22f6368aa6fb330c86380c4e231f59",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "RuvarHRM人力资源管理系统存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
     }
 ]
