@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTk3NDg0MA==&mid=2247483956&idx=1&sn=4b1201c3d0721a94bc9c43d3b1dd8f35",
         "source": "Doonsec",
         "date_added": "2025-11-16"
+    },
+    {
+        "title": "汉王EFaceGO getGroupEmployee.do sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493284&idx=1&sn=76bb0afd8bbd8d01d1e5fef75ec9f7bc",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
     }
 ]
