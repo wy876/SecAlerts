@@ -166,5 +166,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595",
         "source": "Doonsec",
         "date_added": "2025-11-16"
+    },
+    {
+        "title": "SRC从逻辑缺陷到越权接管：密码重置漏洞挖掘|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495781&idx=1&sn=d96b3d33abd4762b027879ca4d71f5c3",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "企业管理类系统常见漏洞挖掘指北",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247485962&idx=1&sn=1583d3ee71e2428674ecdb672afbadda",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "CISA 确认黑客利用了 Oracle E-Business Suite SSRF 漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494039&idx=1&sn=ded1cfd6860911d381bbe9f19f4c31a5",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "工具推荐 | 快速探测可能存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497221&idx=1&sn=ef1ea1cc65fb78464ebcd927859b3fec",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V1.9.6更新(支持ctf 杂项流量包一键梭哈功能)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484601&idx=1&sn=61f4e990cee0cca43f57677e9d90276f",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
     }
 ]
