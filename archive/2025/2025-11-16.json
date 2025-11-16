@@ -118,5 +118,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493284&idx=1&sn=76bb0afd8bbd8d01d1e5fef75ec9f7bc",
         "source": "Doonsec",
         "date_added": "2025-11-16"
+    },
+    {
+        "title": "2024华为漏洞管理白皮书",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628694&idx=1&sn=5019972e07d564b3ea0fff7086c4eeba",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "【安全圈】微软推送 Win10 首个扩展安全更新：修复 63 个漏洞、解决误报 BUG",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=3&sn=b546a0312adffe65c8c06576f8144422",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "CVE-2025-59287｜Windows 服务器更新服务 (WSUS) 远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486223&idx=1&sn=3e235b2573c1086c694bcc63e3e88d3c",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "CVE-2025-55752｜Apache Tomcat目录遍历漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486223&idx=2&sn=d770c9ca5545499655896aa8dd024db7",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
+    },
+    {
+        "title": "西软云XMS download 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247483936&idx=1&sn=747365fc3d3efac2c00abbd53377a8db",
+        "source": "Doonsec",
+        "date_added": "2025-11-16"
     }
 ]
