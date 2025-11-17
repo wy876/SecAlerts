@@ -388,5 +388,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500993&idx=1&sn=fc6a423d268776244e5c59de0c4033f1",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "漏洞推送|璐华RuvarHRM人力资源管理软件存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（四）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484865&idx=1&sn=325232da10bea5f2e29a7cee48fdb312",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
