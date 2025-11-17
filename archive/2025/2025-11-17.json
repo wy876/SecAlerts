@@ -304,5 +304,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537715&idx=3&sn=07e586b7224cc82f1ef9aa64e7bb28b8",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "SAP紧急修复9.9分高危漏洞，系统面临完全失控风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604263&idx=3&sn=991047edd9f272fd8afc98e7df4b3c11",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "java代码审计-ssti",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247493009&idx=1&sn=4eceac5b5b88255d1cc28ecdd909aa20",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第44期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496500&idx=1&sn=c2569737ef72fd1453f5a16e699d6288",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251110-20251116)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496500&idx=2&sn=977daad0f50433197c5c8c2e0b1560f9",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
