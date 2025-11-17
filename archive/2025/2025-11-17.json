@@ -1,0 +1,140 @@
+[
+    {
+        "title": "Vite 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483947&idx=1&sn=c0537c49b3d93478acd19b683f254eea",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "严重FortiWeb漏洞遭利用，可导致系统完全被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495275&idx=1&sn=63ef1ca38884c98f98af1b5ea9fa3058",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "严重漏洞CVE-2025-59367可使黑客远程入侵华硕DSL路由器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495275&idx=2&sn=5e8337693512cd6f891faf9b8768f30e",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "Imunify360关键漏洞遭利用，数百万网站面临安全威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495275&idx=3&sn=9dc1d54a22b30c6325d52ebc458ccf6c",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【漏洞复现】西软云XMS download 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485272&idx=1&sn=e8d8e94741547e2f2fa4165ebfa0eb55",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "三星、苹果手机曝严重漏洞，成间谍软件重点目标",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613253&idx=3&sn=c24369209c6f8d3487945fd76ba180db",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "20 个渗透测试核心技能曝光！每一个都值得写进简历，新手也能快速上手！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613253&idx=4&sn=158c433cfd3ce0e3931692652bb7f925",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "网络安全周刊#23：Fortinet FortiWeb 认证绕过漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489585&idx=1&sn=0e7dc996f3d6f98bd73f218bc2dab107",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "韩国最大电信遭黑客渗透43台服务器，刻意隐瞒，用户隐私或已外泄！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087413&idx=1&sn=40fc6dd1a646ab9e26cd61b174074069",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "CVE-2025-64459｜Django SQL注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486231&idx=1&sn=80053c22d550580473eeef4e7d207a0d",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "CVE-2025-41253｜Spring Cloud Gateway表达式注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486231&idx=2&sn=eade2fda6386901d785c11977e973de7",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "目标资产收集从XSS客服弹窗获取cookie到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499431&idx=1&sn=ae9a1b23ad0772e43189b25e985305c5",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "针对 FortiWeb WAF 漏洞的 PoC 攻击工具已发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796880&idx=3&sn=3a58e8bec2499032e932ff5c58157c5b",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "思科警告：Catalyst Center 虚拟设备存在高危权限提升漏洞 (CVE-2025-20341)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485888&idx=1&sn=0daa8c28a22de2aea471be488184c395",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "零日漏洞攻击锁定Cisco ISE和Citrix系统，一场高度复杂的攻击行动正在展开",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549734&idx=2&sn=b278dc25d1086e4a67394d3b5253180f",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "MCP SDK漏洞如何引发OAuth劫持与供应链风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484685&idx=1&sn=1efe8836e600147667815da0efe5a18c",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "渗透测试快速启动工具箱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508303&idx=1&sn=b3fe940a8a96ebeb7917fc913e985727",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "友加畅捷管理系统 RepFile.ashx 存在文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247483968&idx=1&sn=aa20b71fee2db2314bd2fdc45a005ae2",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "Java漏洞集合工具 | 更新v2.0.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514606&idx=1&sn=71f8c750f0f76bae583fa2751630388c",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "漏洞预警 | Spring Cloud Gateway表达式注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494983&idx=1&sn=44b568332638d382a58542ddf3cbfdf2",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494983&idx=2&sn=c3b1548e08d10584f1d4004592da3e71",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494983&idx=3&sn=279b8fd6b59ed924f41a0fd2cdc7eb60",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "PHP 代码安全扫描器， 快读识别代码执行、命令执行、文件操作、文件包含等漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495660&idx=1&sn=ff49f5571f4dd53dbe01bdf793d0b9ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    }
+]
