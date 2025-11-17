@@ -136,5 +136,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495660&idx=1&sn=ff49f5571f4dd53dbe01bdf793d0b9ae",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 meetingFileManage.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493303&idx=1&sn=5f99d4f6cce1774a4956aa0c2a5f4081",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【在野利用】可未授权远程创建管理员账户！Fortinet FortiWeb 身份认证绕过漏洞（CVE-2025-64446）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495252&idx=1&sn=b2bed1548000d40373e6cd102bcfd6c9",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "多重奖励来袭 | MiSRC 年末漏洞冲刺活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518561&idx=1&sn=ccfc90491b139a991c4ad8fc70653c2a",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "利用ROP链绕过ASLR实现远程代码执行（CVE-2025-8760）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486085&idx=1&sn=9995575ba7979ddc5aac81b892c677ad",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
