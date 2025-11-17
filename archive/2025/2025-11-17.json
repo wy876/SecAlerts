@@ -160,5 +160,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486085&idx=1&sn=9995575ba7979ddc5aac81b892c677ad",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "TongWeb最新反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484581&idx=1&sn=0eb58c0d862effdb8dc93789da48faee",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "记一次未授权访问到接管后台通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553355&idx=1&sn=6129f6c02b64d6895d639a355d64a531",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "三方并肩：NOFX AI 交易系统漏洞守卫战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503684&idx=1&sn=d4619219c1c49392743b36db8af0cb8f",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "天锐绿盾任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485070&idx=1&sn=12b65347133af1cfdb029b441c4d5e6d",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "iOS 沙箱逃逸新链：Books × iTunes 双守护进程路径穿越全解析（POC 附）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533607&idx=1&sn=ff90ba9a50e2326075d08fad9c31cbb9",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "针对具有 DNSAdmins 权限且启用了 WinRM 的 Windows 域控制器的 CVE-2025-33073 通用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533607&idx=2&sn=1d0ba1aaff8c4f46227e3645ecaaa6fe",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "2025-11-17 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487681&idx=1&sn=ba398b260eb05f1cb227bc622d05f3ea",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
