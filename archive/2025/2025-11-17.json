@@ -328,5 +328,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496500&idx=2&sn=977daad0f50433197c5c8c2e0b1560f9",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "华硕：注意DSL系列路由器中严重的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524415&idx=1&sn=3417918d2651ce32de3b5b5ee91d1907",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "因代码复用，Meta、英伟达和微软推理框架受多个严重AI漏洞影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524415&idx=2&sn=732f73ade3ec009bdf9b52d3163591a2",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "赠书福利 | 《Web漏洞分析与防范实战》免费送",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330508&idx=2&sn=fbe35770b9e616dce6bfd97afd16a81a",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "Rust语言助力Android内存安全漏洞占比首次降至20%以下",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330508&idx=4&sn=73d5040902651535f7f0ca31ed48abe9",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
