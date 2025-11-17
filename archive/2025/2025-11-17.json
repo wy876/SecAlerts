@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499126&idx=1&sn=cff5ec83340484e42712fe5a2fd2a225",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "【已复现】AstrBot 远程代码执行漏洞(CVE-2025-55449)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504178&idx=1&sn=6e1d45233182d65c523af799eb33491b",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【漏洞通告】Fortinet FortiWeb身份认证绕过漏洞CVE-2025-64446",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490998&idx=1&sn=a15329f03254ad907c7aea3989b740ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
