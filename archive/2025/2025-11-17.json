@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490998&idx=1&sn=a15329f03254ad907c7aea3989b740ac",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251117",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562869&idx=1&sn=d9dff5621160afb71f0f371ebf36d5d5",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【漏洞通告】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501789&idx=2&sn=4355d17c05a9a0eb89513b8ebe559271",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "报告发布 | 数世咨询：漏洞情报选型指南报告（附下载）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540845&idx=1&sn=ec923893881e69010ad830ec852b0abb",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "AI 自主渗透测试平台 - 让安全测试像对话一样简单。内置上百个安全工具，灵活扩展，MCP协议实现AI智能决策与自动化执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487554&idx=1&sn=7e559fc02828c03a788ccf67635656ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
