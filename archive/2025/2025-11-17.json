@@ -202,5 +202,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487681&idx=1&sn=ba398b260eb05f1cb227bc622d05f3ea",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "javaxa0代码审计xa0-XXE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485765&idx=1&sn=93f6de8066c9e23805622e8ca95fe5fe",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "pgAdmin4 中的严重漏洞允许攻击者在服务器上远程执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247525017&idx=4&sn=6195f3357715598ac8c1773964996350",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "记一次未授权访问到接管后台通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485844&idx=1&sn=01a9cd438db808e4456fcce55e4e3001",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "TongWeb最新反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494995&idx=1&sn=fa5c1bd321ed570bb74aa0750e1f772f",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "【成功复现】Fortinet FortiWeb路径遍历漏洞(CVE-2025-64446)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503676&idx=1&sn=209148d15afc3443a34b8668bd0e22ba",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
