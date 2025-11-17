@@ -274,5 +274,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487554&idx=1&sn=7e559fc02828c03a788ccf67635656ac",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "渗透实战！从外网直接打到内网全过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575722&idx=1&sn=7fc930c8e04259f6f5b782d573759282",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575722&idx=2&sn=cc07de1e6bae7c7b6b93d55d2648c384",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525051&idx=1&sn=cc33e9b88a9f7e33c21200d76c80da71",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.11.10-2025.11.16",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503603&idx=1&sn=ce4371beab60e79f8e0215cfb17b9be9",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "卢浮宫惊天劫案真相：竟因弱密码漏洞藏了 10 余年！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537715&idx=3&sn=07e586b7224cc82f1ef9aa64e7bb28b8",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
