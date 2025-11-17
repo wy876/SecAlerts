@@ -352,5 +352,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330508&idx=4&sn=73d5040902651535f7f0ca31ed48abe9",
         "source": "Doonsec",
         "date_added": "2025-11-17"
+    },
+    {
+        "title": "【安全圈】美国五名涉案人员承认协助朝鲜IT劳工渗透美国企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072778&idx=2&sn=02f3187456edab82589bdc4c0975a8c2",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
+    },
+    {
+        "title": "预警丨防范Redis数据库内存释放后重用超危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175098&idx=2&sn=ec28fdbd407eea706b833a0283ed366d",
+        "source": "Doonsec",
+        "date_added": "2025-11-17"
     }
 ]
