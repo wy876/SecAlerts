@@ -4,5 +4,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493357&idx=1&sn=1a53c0a603482e1a4cdff5678a3e2cdd",
         "source": "BruceFeIix",
         "date_added": "2025-11-18"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（五）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484869&idx=1&sn=7186c1841d64a2af21c97d04affce4e5",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "EchoGram漏洞可绕过主流大语言模型的护栏机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330545&idx=4&sn=7cfd99639d749061b3f5b88c0c732fd2",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "Clop勒索团伙再出手，罗技确认因Oracle漏洞导致数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604320&idx=2&sn=364d0c2862669459505599b2fa67b41f",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "重磅开课！系统0day安全——车联网安全入门（第8期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604320&idx=3&sn=4931474594577332913a3d537678c029",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "群晖DiskStation漏洞利用：从CVE-2024-10442到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037972&idx=1&sn=fe440ef7c3c27ebeee58f8be9ef2a491",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "OpenAI发布能自动修复代码漏洞的“安全智能体”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613261&idx=4&sn=b98a045e63333a8e67a5b50de15d7dc6",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "转行做渗透测试工程师：3 个月自学计划分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488455&idx=1&sn=f75b78ce96b5f4e76bf9b48e03304f96",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "漏洞情报选型指南报告（2025）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294285&idx=1&sn=c989c63d5da067b48deca451b533f6d2",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
     }
 ]
