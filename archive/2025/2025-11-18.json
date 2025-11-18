@@ -52,5 +52,125 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294285&idx=1&sn=c989c63d5da067b48deca451b533f6d2",
         "source": "Doonsec",
         "date_added": "2025-11-18"
+    },
+    {
+        "title": "【安全圈】EchoGram 漏洞暴露大模型防护体系重大缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072795&idx=2&sn=d1a4fb92f3c9d076e6d36e4f58db2e97",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维安全管理系统远程命令执行漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493058&idx=1&sn=3d15041bbc862e0df84103433f22ad25",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "谷歌紧急修复已遭利用的Chrome V8 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524445&idx=1&sn=9145b7009a002f9da12dbec7be2ae727",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "ruoyi（若依）漏洞整合",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485214&idx=1&sn=8ef5b6cf7fb8aa264dae55053d386da3",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【易行网安课程】渗透测试技及工具应用-课程介绍与大纲",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517912&idx=1&sn=57b91799a805fdd2edc4a07dfbc9e2e4",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【高危漏洞预警】深信服运维安全管理系统远程命令执行漏洞CVE-2025-12916",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491005&idx=1&sn=fe60124fea2016fd57e72c0462b242a9",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【扶摇(FUYIO)】一款JS漏洞检测与敏感信息挖掘工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521847&idx=1&sn=328e276d80732b0cb05e73567d3b4a96",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【漏洞复现及预警】 | 远程命令执行漏洞(CVE-2025-12916)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483998&idx=1&sn=481e7e60c3f1829a3f2cdbb56b5f0270",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "陌陌安全应急响应中心漏洞处理流程及评分标准V3.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【已复现】深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-13223)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=2&sn=49ca4eeb550114f1eafc9b886bec1354",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "AI自主渗透测试平台 -- CyberStrikeAI（11月17日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517607&idx=1&sn=4a9ca5054c4b811f20c32ecb5308d678",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "ActiveMQ反序列化漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484234&idx=1&sn=cba877cf9657d544f53c09422009cc46",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "挖到大厂高危漏洞，有三条路，你会怎么选？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500553&idx=1&sn=f0e199f4da6e262bdf10e4c9f2385d33",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "JeecgBoot代码审计系列1",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487556&idx=1&sn=fac277634681b9befaef2925b835f57b",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "用友NC loadDoc.ajax 文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487336&idx=1&sn=bd2ad1c47f0dcb45a7536fd49bae0478",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "通达OA前台任意用户登录漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487336&idx=2&sn=d90479297b614f70bd85e3d548097663",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "CVE-2025-64446｜Fortinet FortiWeb身份验证绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486242&idx=1&sn=4df04ffe397b422550dbda8dda002178",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "CVE-2025-32463｜Linux sudo 本地提权漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486242&idx=2&sn=c6783056ac2a70dec869ed91e8be0589",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第44期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500839&idx=1&sn=a863ad43b5b3c51fd7ff75f2f69d2cd4",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
     }
 ]
