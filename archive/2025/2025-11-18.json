@@ -172,5 +172,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500839&idx=1&sn=a863ad43b5b3c51fd7ff75f2f69d2cd4",
         "source": "Doonsec",
         "date_added": "2025-11-18"
+    },
+    {
+        "title": "【DC-8 合法模拟渗透学习】exim4 提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484867&idx=1&sn=cb947fc667e77b331ed3ce5a687e8caf",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "Top20战队决出！@腾讯云黑客松智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528444&idx=1&sn=20ee42d291b9ffb8a354192e23a4ad21",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "已在野 | 深信服运维安全管理系统 portal_login 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507967&idx=1&sn=a9c41190456f92e998403e2424418e7c",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【已复现】深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495267&idx=1&sn=6865d9e0015295ea7444d9833a609b41",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484684&idx=1&sn=1502d50bad36720d192cd88cc92fb9e2",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "罗技正式确认数据泄露，甲骨文 EBS 漏洞余波再添受害者",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486802&idx=1&sn=b82ac959ed9f307695339801dfa861f6",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "6个真实场景,YinVulKiller如何让漏洞扫描效率翻倍",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247485156&idx=1&sn=8ca6b3e23c084b905c28c93892fac0ff",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "安全小知识-第十二期_越权漏洞解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483998&idx=1&sn=1a981fb951eed91d413d600473d0600e",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-13223)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495257&idx=1&sn=9156ca6460fceab3ea478e3335b4dabe",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "Nacos nodes接口存在敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483959&idx=1&sn=a6fe525a0854e4fe6b96201182097bc6",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "在现代 Spring Boot 应用程序（3.3.4 版本）中利用服务器端模板注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486105&idx=1&sn=e393a8b4ba7cbbaea7bf1326b9fd9841",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
     }
 ]
