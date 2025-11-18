@@ -238,5 +238,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486105&idx=1&sn=e393a8b4ba7cbbaea7bf1326b9fd9841",
         "source": "Doonsec",
         "date_added": "2025-11-18"
+    },
+    {
+        "title": "西软云XMS download接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489586&idx=1&sn=6882f8581bb768a3bff007d9a577f4cd",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "CVE-2025-64446 最新FortiWeb漏洞 网站秒拿下",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484466&idx=1&sn=865c224392668d9f8f5ec36b1983401c",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【cyberstricklab】 lab-4 内网渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488763&idx=1&sn=73990b8f44cc2377e262781b3c355f86",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【WordPress专题03】遇到不按规范编写的插件如何进行代码审计？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485055&idx=1&sn=b7ea163ea3178b48f716d6e55941700e",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 getDoors.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493311&idx=1&sn=457e4d75d108254ccce873d9b74c8b55",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "Java漏洞集合工具 | 更新v2.0.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575728&idx=1&sn=0c11034bea894adb27a404c22c39bb1d",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "三星苹果用户警惕！严重漏洞缠身，已成间谍软件攻击重灾区",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537777&idx=2&sn=e6a6a14a3c1facce246a2ba440553f28",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "20 个渗透测试核心技能，新手易上手，简历加分利器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537777&idx=5&sn=1492e7ba38cdead5a1f87879a658eb5a",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "【漏洞通告】Chrome V8 类型混淆导致远程代码执行漏洞(CVE-2025-13223)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501795&idx=2&sn=8a6ed618e8b14f9857ed4f28466f07d6",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "网安SRC漏洞审核常会碰到哪些漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTczNzIxNQ==&mid=2247487307&idx=1&sn=f0f270d94165e2f69f7929966a8cfc40",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "发几个POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484284&idx=1&sn=c4d5fd2a48118883a1a805018fca3e0a",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
     }
 ]
