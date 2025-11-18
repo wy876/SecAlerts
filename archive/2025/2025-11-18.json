@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484284&idx=1&sn=c4d5fd2a48118883a1a805018fca3e0a",
         "source": "Doonsec",
         "date_added": "2025-11-18"
+    },
+    {
+        "title": "工具推荐 | 一款专为检测和分析 SQL 注入漏洞而设计的插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "AI推理引擎中多个高危漏洞暴露，影响Meta、Nvidia和Microsoft框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119588&idx=2&sn=a0f2c69f0e5a59d5212cb2fb53720517",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "一键安全评估：基于Golang的高性能AI渗透测试系统(2025-11-17更新)|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495806&idx=1&sn=546c5c76d5eebfe34b38dca51a844676",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "实战案例 | 组合拳漏洞导致全校的信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489185&idx=1&sn=2c05a505976dd65a9e6b3af10655a0af",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
+    },
+    {
+        "title": "某edu站点打包高危9分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489185&idx=2&sn=568578ac37005f18f63d5d766ca1c5ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-18"
     }
 ]
