@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDc0MDE2Mw==&mid=2247483767&idx=1&sn=b2d8004b8062e971496e0536167a9bd2",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V1.9.7更新(支持cli工具参数添加与调用功能，支持定时任务执行)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484609&idx=1&sn=849392d8908bebb28f5ca46752829b2c",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
