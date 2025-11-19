@@ -148,5 +148,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508311&idx=1&sn=24c1ab98590707c509a0f7d2a2ddb37d",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "高危runC漏洞曝光 黑客可突破Docker容器逃逸",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585513&idx=2&sn=a34446a3dfe4b71cba0efc8ebea28195",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "【2025全新】网络安全学习路线：从 0 到挖漏洞、打 CTF、护网，详细路线助你精通就业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486650&idx=1&sn=de5b219a37bedfdd359a89c018bc941d",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "【漏洞预警】深信服运维安全管理系统 portal_login 命令执行漏洞(CVE-2025-12916)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485285&idx=1&sn=00504adf39baba35caeba1313dff0933",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "Fofa搜索语法实现同一类漏洞批量挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489263&idx=1&sn=17c7f3b47cc5d428b6dbc305b44162e3",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "微渗透信创体系——红队视角下的高价值攻击路径与防御清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483699&idx=1&sn=43a79087c886a4b10dd9152b172bb067",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "AstrBot 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247483983&idx=1&sn=7ca1a9df4401c0e8b5c5ac6bbcde7ada",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
