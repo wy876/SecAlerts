@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTQwOTI3Ng==&mid=2247483696&idx=1&sn=8ccc1aba3caaa593bbc9f6cc02ea77bd",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "新的零日漏洞允许一键泄露浏览器中的 NTLM 哈希值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533640&idx=1&sn=ee6e53fd9b5da9eb45d83b86acfc780a",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "某edu站点打包高危9分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489534&idx=1&sn=3073de9df8669f308a7e4847572d5fd4",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
