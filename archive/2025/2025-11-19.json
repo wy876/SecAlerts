@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521382&idx=1&sn=9f32fb9341980f7cf6c35dbc95a2b678",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "CVE-2025-55752：Apache Tomcat 路径遍历漏洞漏洞分析与复现（含RCE）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDc0MDE2Mw==&mid=2247483767&idx=1&sn=b2d8004b8062e971496e0536167a9bd2",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
