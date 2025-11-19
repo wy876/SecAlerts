@@ -208,5 +208,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490889&idx=1&sn=15ff593b59b77d3426ec028de96c83b7",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "IBM AIX 多个漏洞可导致远程攻击者执行任意命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524451&idx=1&sn=f71a1f0136eba7842b3360c9af52a53f",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "W3 Total Cache 插件存在严重的命令注入漏洞，百万网站易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524451&idx=2&sn=40767e9bab88232789546a1dcf703529",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "安全漏洞丨OWASP TOP10安全漏洞，新增两大类别",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247535986&idx=2&sn=49afd4c46fe244cf5150f48d8bce7e0f",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "记一次某大学逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556785&idx=1&sn=a06b2b2890940f2cc716435ab46c6525",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞预警｜Fortinet FortiWeb 操作系统命令注入漏洞（CVE-2025-58034)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517633&idx=1&sn=1617ce6b42c01294e948f7fbb560e588",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "火绒小问答——「个人版」漏洞修复类top问题解答",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527689&idx=1&sn=e9b4678ab85705a50f61af1f9e45f274",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "POC|天地伟业Easy7 downloadNote存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485220&idx=1&sn=f2cf4162732f36e2714552aad66fb790",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
