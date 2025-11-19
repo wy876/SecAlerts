@@ -76,5 +76,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294334&idx=1&sn=7646af5d59ddb4fef46e213a7244a5f4",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "深信服运维安全管理系统远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485080&idx=1&sn=727feaf7e30ed9007b951b179d11e98d",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "爱数AnyShare智能内容管理平台Usrm_GetAllUsers信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483967&idx=1&sn=4e36d11a2372cd91f4d27d39bf391c49",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "Flowise 存在严重漏洞，允许未经身份验证的远程管理员通过暴露的注册端点接管系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485920&idx=1&sn=71c7ef02c27604a8bef41ddab45ec986",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "多智能体自动化渗透测试时代来临啦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486124&idx=1&sn=fc5edb7997d137de737a10bb1a6a13ad",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞预警 | Windows任务主机进程权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495011&idx=1&sn=5cda974e7fd5a247d7d83c01238a43d5",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495011&idx=2&sn=1a88a1efb7a45c671e5e787cbe58635b",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495011&idx=3&sn=18f5d6a42ca203cd584309c2a5988f4b",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "图形化渗透测试辅助工具AuxTools | 更新-5.8.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495673&idx=1&sn=b2141858d5587cdaca5b1ca03307cd79",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "实战案例 | 组合拳漏洞导致全校的信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489187&idx=1&sn=3bafba4f74b7ed4f3c1aa510c26d6f17",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "某edu站点打包高危9分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489187&idx=2&sn=3a4e14728274bf661690f173235d214f",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "不再翻墙扒CVE！VulnCrawler v2.0一键日期筛选，高危漏洞秒级推送",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493830&idx=1&sn=73223eb604e97ce292eb8c94948701ce",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "如何寻找真实的 Bug Bounty 目标 | 实时渗透与工作流解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508311&idx=1&sn=24c1ab98590707c509a0f7d2a2ddb37d",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
