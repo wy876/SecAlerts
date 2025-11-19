@@ -268,5 +268,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491012&idx=1&sn=54413fe505c1cc5b30e803a0f8531f33",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "N-able N-central：从已知漏洞到0day发现之旅(CVE-2025-9316)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486140&idx=1&sn=498a72ef3f77ec963ac507584a0f3f73",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "【安全圈】WhatsApp漏洞泄露全球35亿用户电话号码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072832&idx=3&sn=3118ef2a6c77ae2141258936eab6bba0",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
