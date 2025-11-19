@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485220&idx=1&sn=f2cf4162732f36e2714552aad66fb790",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "“记住我”的致命漏洞：深入剖析令牌生成与Intruder自动化爆破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797399&idx=1&sn=6254259e5a873a8184a66c692e2b5ad9",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "谷歌紧急修复Chrome浏览器正被利用的0Day漏洞（CVE-2025-13223）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330585&idx=4&sn=6a2bdd1041ff5a7753a04044989b4b9b",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "【高危漏洞预警】AstrBot远程代码执行漏洞CVE-2025-55449",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491012&idx=1&sn=54413fe505c1cc5b30e803a0f8531f33",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
