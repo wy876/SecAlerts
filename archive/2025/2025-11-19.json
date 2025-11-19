@@ -184,5 +184,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247483983&idx=1&sn=7ca1a9df4401c0e8b5c5ac6bbcde7ada",
         "source": "Doonsec",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞验证-用友U8Cloud IPFxxFileService 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTQwOTI3Ng==&mid=2247483696&idx=1&sn=8ccc1aba3caaa593bbc9f6cc02ea77bd",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
