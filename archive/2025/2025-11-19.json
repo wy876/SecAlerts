@@ -16,5 +16,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498600&idx=1&sn=e6caa2b23599841446d87ccd16d101c9",
         "source": "BruceFeIix",
         "date_added": "2025-11-19"
+    },
+    {
+        "title": "面向ThinkPHP框架的代码审计思路流程—某多语言微盘系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzUwNDEzNg==&mid=2247484665&idx=1&sn=10488f0397dd8144923ced11dfd71a4f",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "技术分享 | EXP能力升级（第一期）：从CVE-2025-61882看Goby如何破解路径固定难题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545848&idx=1&sn=39877ba3745fe2763031035d80c00283",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "重运营的游戏公司，如何做好安全？从防泄密到渗透测试的实战思考｜总第303周",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492281&idx=1&sn=89f8055da3aa3488093996ebd0e7d5ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "Android 5.0屏幕录制漏洞（CVE-3878）威胁预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODQzOTA5Mg==&mid=2247486961&idx=1&sn=81be17cc800425c9519fd59cb4e10a7e",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "教育行业渗透打点实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520714&idx=1&sn=00360fbd38c9e5ab5681715fe93b7c6f",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "Fortinet警告称，FortiWeb存在新的0day漏洞，已被积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796907&idx=3&sn=4076893772b17096953141d6937e21ff",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "蓝凌EIS存在多处SQL注入-漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487348&idx=1&sn=0a0e313641853c23e54ed55380f2ba1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 exportResourceByFilePath 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487348&idx=2&sn=70754edf12945717b2362348320007d6",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "漏洞预警 | OpenStack Keystone曝令牌授权绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484712&idx=1&sn=4befdda82e8b46be85bfc9ea56de958a",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
+    },
+    {
+        "title": "阿里巴巴集团安全部招聘：渗透攻防、安全运营、数据安全工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294334&idx=1&sn=7646af5d59ddb4fef46e213a7244a5f4",
+        "source": "Doonsec",
+        "date_added": "2025-11-19"
     }
 ]
