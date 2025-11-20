@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712621&idx=1&sn=189f1dffeb2dfda6f58768294a239e2a",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "高危runC漏洞曝光 黑客可突破Docker容器逃逸",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543288&idx=1&sn=84f03402334a772c9736b9081094fd65",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "Chrome修复2025年第七个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489284&idx=1&sn=2641d7dedd9ae76df2352937b61e07f6",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
