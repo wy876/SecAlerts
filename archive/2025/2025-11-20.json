@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553368&idx=1&sn=ae69e8539596601e4d1297fbc28417e4",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "【在野利用】Fortinet FortiWeb OS命令注入漏洞(CVE-2025-58034)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【在野利用】Cisco防火墙VPN Web服务器未授权访问漏洞(CVE-2025-20362)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=2&sn=79a11719662e35122dbc56e8f18fe497",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
