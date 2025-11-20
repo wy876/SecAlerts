@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484458&idx=1&sn=361ee4fdf1bf3250869da9a419b815a6",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "【已复现】Fortinetu2002FortiWeb 命令注入漏洞(CVE-2025-58034)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "常见未经授权漏洞测试及利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712621&idx=1&sn=189f1dffeb2dfda6f58768294a239e2a",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
