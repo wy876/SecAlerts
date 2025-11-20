@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489284&idx=1&sn=2641d7dedd9ae76df2352937b61e07f6",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "【漏洞通告】FortiWeb API 与 CLI 多处命令注入漏洞(CVE-2025-58034)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "RocketMQ 命令执行漏洞复现分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
