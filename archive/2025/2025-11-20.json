@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=2&sn=79a11719662e35122dbc56e8f18fe497",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "鸿宇多用户商城scan_list.php存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "速修！FortiWeb无条件RCE利用链发现在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507976&idx=1&sn=6b5edb53f10e21451c6e14ae478b7268",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
