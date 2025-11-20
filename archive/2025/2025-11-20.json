@@ -148,5 +148,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528066&idx=1&sn=7da40c31caa8fb7fe758a8dcf762d9c1",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "【红队渗透手册】100个sql注入Payload，（非常全，无任何废话版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508897&idx=1&sn=7331af6a4da97128c461ffe072392cf6",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "Ubuntu Linux内核高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485086&idx=1&sn=d93fd3cb10f7c250539b9c2c251988b9",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "一款强大的OA漏洞利用工具 I-Wanna-Get-All",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484052&idx=1&sn=cc67d0d19c3ff65e46d5cdc50eb30558",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "装盟科技 家装ERP管理系统 WeChatAPI_ERPMobile.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493329&idx=1&sn=d6fe7f7bc1d1899aae36904ea97bd0fd",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
