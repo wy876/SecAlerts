@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "首发|天地伟业Easy7 存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485224&idx=1&sn=12dab424ccfe7fab9086a9ce9e308175",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1026-1108）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136479&idx=2&sn=2d18d0d67d888d122884e7191613e785",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "绕过JWT签名导致的越权漏洞-玄域靶场实操演示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483982&idx=1&sn=ab2afe14cd00bc2cb011307420528611",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "JeecgBoot3.5.0版SQL注入漏洞详细分析记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
