@@ -376,5 +376,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=1&sn=cf210939b4c44de97b60529383818aaa",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "条件竞争导致的RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDM1NjY4Mw==&mid=2247483775&idx=1&sn=3bcc6d0273d6c7ec4d47b651c90993f3",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
