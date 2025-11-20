@@ -298,5 +298,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556791&idx=2&sn=1bf0c88e682dd55dafea3f2e885a0578",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：XXE-XML实体注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484909&idx=1&sn=1076dd71abe896baf07402348c189630",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "重要通知丨第九届“强网杯”漏洞智能分析赛道决赛入围名单公布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488438&idx=1&sn=e2c046be327b9ae0c5cffc891a87e45a",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "7-Zip曝高危RCE漏洞（CVE-2025-11001）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096658&idx=1&sn=8a5eab9c867402d27970098dbc644768",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "FortiWeb曝高危命令注入漏洞（CVE-2025-58034）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096658&idx=2&sn=56298d867873c5d74d35b1d04625675f",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【安全圈】CISA 警告 Chrome V8 0-Day 被积极利用导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072848&idx=1&sn=d86cbdc3bcd1c657ff0c80a9e915853a",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【安全圈】7-Zip 漏洞被证实遭到攻击利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072848&idx=2&sn=988a91ea3270a54f52e42d08973b89fb",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【安全圈】Ollama 被曝模型解析漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072848&idx=3&sn=5f9c47c03a34f8134402494b1cb87ca4",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "Fortinet警告FortiWeb新漏洞（CVE-2025-58034）已被野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330685&idx=1&sn=2dd634c0df98b743e578697b13c40b6f",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "点击一次渗透42天：Akira勒索软件利用CAPTCHA诱饵摧毁云备份致存储公司瘫痪",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330685&idx=4&sn=15d272142ae04c0e467a8087cf0f6576",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【漏洞通告】Fortinet FortiWeb身份验证绕过与命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489417&idx=1&sn=08bf5aa3fb48b70cdd6a884ad30b4659",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "一公司因未处置高危漏洞被黑客攻击篡改，公安机关依法处罚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493295&idx=1&sn=94d6e1334ca0b946028d766480e82648",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "代码审计无从下手？四阶段实战教学，带你从入门到精通",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604411&idx=3&sn=b355152f50e954a71ee190e6438d7f89",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "CISA要求政府机构在7天内修复这个 Fortinet 新0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=1&sn=cf210939b4c44de97b60529383818aaa",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
