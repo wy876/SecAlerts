@@ -274,5 +274,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "用AI攻击AI：Ray AI开源框架中的老旧漏洞被用于攻击集群",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=2&sn=41ec03ab3c0572c4ecc61e20dcd8fdb6",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【高危漏洞预警】Fortinet FortiWeb命令注入漏洞CVE-2025-58034",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "一次有点抽象的渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556791&idx=1&sn=39318351e4418a5aa69c3fdc68079b6d",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【免费领】渗透测试必备工具：Nmap实战技术全解教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556791&idx=2&sn=1bf0c88e682dd55dafea3f2e885a0578",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
