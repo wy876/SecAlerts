@@ -1,0 +1,116 @@
+[
+    {
+        "title": "【漏洞复现】泛微OA E-Cology action.jsp 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487358&idx=1&sn=e3f568c9670e569274b912b39a997c08",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "卢浮宫惊天劫案背后：长达10余年的弱密码安全漏洞暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087479&idx=1&sn=5f23bdab2cee9a11b99b5376163682b7",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V1.9.7更新(支持cli工具参数添加与调用功能，支持定时任务执行)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485230&idx=1&sn=4848d16adb80554725493425cbbea342",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第46期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463872&idx=1&sn=d61b2be7c3e7de4543a9501d436ed605",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "超越渗透测试！每家企业都应开展的10项实战化网络安全演练",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613284&idx=3&sn=c191cb7a91e7c758955fa9e7c2ffaf33",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "Apache Causeway严重远程代码执行漏洞 (CVE-2025-64408) 允许通过 Java 反序列化执行已认证代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485944&idx=1&sn=6570f9751a71638762de4039f5d33107",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "用AI做渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484245&idx=1&sn=a21ba8bc40f19c0576673fc39ef85786",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "手把手xxe漏洞实战案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499561&idx=1&sn=215d293af0a2b799eae0ce749150d8ff",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "7-Zip远程代码执行漏洞（CVE-2025-11001）已被积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796917&idx=3&sn=d1b2f1434f7f1b5324dd86ec005df27b",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "以合规渗透测试筑牢数字防线，拒绝“软肋”式安全短板",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODQzOTA5Mg==&mid=2247486967&idx=1&sn=b45a1994e739af2c8dbc913044711ab9",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "易达科技-ECMS getlistProjAuditDataQGC 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247483991&idx=1&sn=a9fca05c65b4d4fb986fc47e11fe444c",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": ".NET 环境下的 CSRF 漏洞与防御策略",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500916&idx=2&sn=c809d65e0ffe14a95ba22270c4d64f37",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【AI自主渗透测试平台】让安全测试像聊天一样简单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490488&idx=1&sn=fac1f11f18c0c02c15712e1af3dabf31",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "实战中Swagger信息泄露造成的XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500606&idx=1&sn=0cb20a839c22ace56527bb79781e3aa0",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "漏洞预警 | Apache Ofbiz任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495017&idx=1&sn=489237f44f67627e9dbd213466ae16ed",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "漏洞预警 | 东方通TongWeb应用服务器远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495017&idx=2&sn=b46f13dfca38d7234e25a00ec96e50ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495017&idx=3&sn=c6e21e1dbf6b8d545a73e4c1d19bbf0b",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "谷歌官宣：Rust立大功！安卓内存安全漏洞首次低于20%！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901627&idx=1&sn=915dab4dc677cee15e338fb3346a448c",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "一次低危变高危的存储桶遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489191&idx=1&sn=a2b45808a9eef3f67495817e72ffbe04",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    }
+]
