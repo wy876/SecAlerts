@@ -112,5 +112,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489191&idx=1&sn=a2b45808a9eef3f67495817e72ffbe04",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "高危漏洞预警：Apache Tomcat远程代码执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037980&idx=1&sn=d5ffd6db702ce05f2e1ce7e3206d8ee1",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【已复现】Fortinetu2002FortiWeb 命令注入漏洞(CVE-2025-58034)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504197&idx=1&sn=99fe135087d866605140a294cccf24a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "PatchEval 发布：一个比你更关心修复效果的 AI 漏洞自动修复评测基准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495788&idx=1&sn=c0996b5d49e67f725e68f37dc9511ac9",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "【工具分享】Upload_Auto_Fuzz文件上传漏洞Fuzz插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486848&idx=1&sn=92d89295b2d6a56fae8c7716b2b6e440",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "CVE-2025-9501：W3 Total Cache 中的 CWE-78 操作系统命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488319&idx=1&sn=a511d068f508e235b637b71b8cce0a71",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528066&idx=1&sn=7da40c31caa8fb7fe758a8dcf762d9c1",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
