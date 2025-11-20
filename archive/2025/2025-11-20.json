@@ -382,5 +382,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDM1NjY4Mw==&mid=2247483775&idx=1&sn=3bcc6d0273d6c7ec4d47b651c90993f3",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "论文研读与思考|PENTESTGPT：评估和利用大型语言模型进行自动渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247489147&idx=1&sn=4de2adccbcdecd928a83135ded19acae",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
