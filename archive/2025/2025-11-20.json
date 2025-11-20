@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493329&idx=1&sn=d6fe7f7bc1d1899aae36904ea97bd0fd",
         "source": "Doonsec",
         "date_added": "2025-11-20"
+    },
+    {
+        "title": "从目录遍历到拿下shell以及云权限（证书站漏洞等级严重案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553368&idx=1&sn=ae69e8539596601e4d1297fbc28417e4",
+        "source": "Doonsec",
+        "date_added": "2025-11-20"
     }
 ]
