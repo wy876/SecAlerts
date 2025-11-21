@@ -226,5 +226,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064436&idx=1&sn=6bc588a4987b7c80a462e928dcb7a83c",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "点击一次渗透42天：Akira勒索软件利用CAPTCHA诱饵摧毁云备份致存储公司瘫痪",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525120&idx=1&sn=abf3648a24c3f4ff2689b274779c759b",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "安全热点周报：谷歌紧急修复今年第七个在攻击中被利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504208&idx=1&sn=4fcb7d56849a9a3b69f8fedb205fd2a3",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "影视短剧后台漏洞实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490902&idx=1&sn=c82c8177a9e5c26a01c170a7c3ebfeb9",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
