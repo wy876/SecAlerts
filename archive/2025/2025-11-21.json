@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072860&idx=3&sn=8a336e0838110ebd196af44ae856b4d4",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "【附POC及复现环境】飞塔Web防火墙双CVE漏洞链可致RCE（CVE-2025-64446+CVE-2025-58034）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485076&idx=1&sn=619b6b7164fbdc85ba28c30af2231fdb",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
