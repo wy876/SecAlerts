@@ -34,5 +34,131 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901633&idx=1&sn=b6cfdb2e5437c6a325ef3091fe238b12",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "7-Zip 符号链接远程代码执行漏洞 (CVE-2025-11001)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488342&idx=1&sn=8d3c20ada4043e7fd27bfc0964566793",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "漏洞复现——CVE-2025-64446 FortiWeb敏感信息泄露和登陆绕过漏洞！（附POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484289&idx=1&sn=db7a5b88b9f1eab447885982b58836b1",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "用友 NC任意命令执行漏洞(CNVD-2021-30167)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483987&idx=1&sn=1d16be3c2d0817d39b9130733d56d1f2",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "分享一个另类的 \\\"支付漏洞\\\"——0 U 购买理财",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487337&idx=1&sn=c6e279950494bc818aeca303a21a4ab2",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "Src捡钱8，一键自动挖掘Vue框架未授权访问漏洞与隐藏资产",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485921&idx=1&sn=11974cbbdd75a43e54108bfb464d1c99",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "研究人员发现严重 AI 漏洞，Meta、英伟达及微软推理框架面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486352&idx=1&sn=a550482403ede0ceccecce8057da7fa5",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "攻防渗透集锦JS泄露突破多个后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486082&idx=1&sn=034de08743c44cd38e1fb4c9f1fab4bd",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "红队横向移动技巧：10 种绕过内网检测的横向渗透方法！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520737&idx=1&sn=71fe863e4283501c55fe9e64231cd23c",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "一个终身免费的渗透测试资源库！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508406&idx=1&sn=373b4018942f9ddea447d42d06ae4533",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "Grafana 修复了 SCIM 严重漏洞（CVE-2025-41115，CVSS 10），该漏洞允许权限提升和用户冒充",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485956&idx=1&sn=88a35676d2e7009e61895446cc90bed5",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "深信服运维安全管理系统 protocol/session 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487375&idx=1&sn=c9f11281cc2aba268daa8f25dc443416",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "Windows 图形组件漏洞（CVE-2025-50165）严重，黑客可利用单张图片夺取系统控制权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796940&idx=3&sn=e09da1fb1f7504f1e994cede6886fc48",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "企业管理系统常见漏洞实战案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499600&idx=1&sn=83efaddc34b54d3ebbd38c06b1d5a24b",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "漏洞预警 | Fortinet FortiWeb身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495023&idx=1&sn=ce090a08d96681855cc9ab88a2677b35",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "漏洞预警 | 智跃人力资源管理系统敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495023&idx=2&sn=36512b9a936934ee924c86c86787b4a9",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495023&idx=3&sn=50e461e2b4fe752b168f85f7331724ee",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "渗透测试工具箱框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495693&idx=1&sn=6bc544218afc836dd3a77b7691c180a4",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "红蓝对抗新利器：PotatoTool一站式搞定渗透测试与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484376&idx=1&sn=bfc3b06f29a2be919ff918593f56d3df",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "渗透测试之短信测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247486055&idx=1&sn=3cf403d46fb94c97363bd0ce7ca2c6b4",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "集成漏洞利用、流量监控与自动化攻击的AWD攻防演练比赛工具箱(2025-11-20更新)|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495861&idx=1&sn=92af3b6ff8246385fbfe71b85a0f717c",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "效率翻倍 | Slack红队工程师的轻量化渗透工具箱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497265&idx=1&sn=1a07ff3abbd639dc617ff468c4378c16",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
