@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516243&idx=1&sn=67962bdd1b3a9fde4c66a1ae48fd067d",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "ImunifyAV曝远程代码执行漏洞 数百万Linux托管网站面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585547&idx=2&sn=3e77e5b7f44413ebc737e426f38c4059",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "CVE-2025-50165：Windows 图形组件中的严重缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533668&idx=1&sn=4b4f72d1113552bc546a6cb9303f3984",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "利用 W3 Total Cache for WordPress 中的预身份验证远程代码执行漏洞 (CVE-2025-9501)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533668&idx=2&sn=ff894f88d6f11e36fcc22343749ecbce",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
