@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490902&idx=1&sn=c82c8177a9e5c26a01c170a7c3ebfeb9",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "什么？影视短剧后台登录漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556797&idx=1&sn=a19aa7905a911ea933d6633767814fe2",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "【已复现】Oracle Identity Manager 未授权远程代码执行漏洞(CVE-2025-61757)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495335&idx=1&sn=e4c0cd0de0068291e79217c2d49e5dcb",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
