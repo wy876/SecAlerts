@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485076&idx=1&sn=619b6b7164fbdc85ba28c30af2231fdb",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "Ollama曝高危漏洞：攻击者可通过解析恶意模型文件执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096667&idx=1&sn=0bef30949785d5deb06f7105bd26f1ab",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "SonicWall SSLVPN漏洞：攻击者可远程触发防火墙崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096667&idx=2&sn=db7434ad863467236366196ab2e920ab",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
