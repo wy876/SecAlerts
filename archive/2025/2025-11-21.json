@@ -160,5 +160,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497265&idx=1&sn=1a07ff3abbd639dc617ff468c4378c16",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "2025 年每个初学者都能发现的 P4 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508334&idx=1&sn=9f0b41c770d64312fd0745621ce7d134",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "大华ICC智能物联综合管理平台 download 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484002&idx=1&sn=ab560735d93b59be51ddbf1025168de9",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "Secator：一条命令=子域+端口+漏洞全扫完，渗透快得离谱！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493871&idx=1&sn=f85b59b3efe3a43174b5ed34c0ca7253",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "意大利国家铁路集团2.3TB数据泄露警示：你的供应商可能是你最大的安全漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516243&idx=1&sn=67962bdd1b3a9fde4c66a1ae48fd067d",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
