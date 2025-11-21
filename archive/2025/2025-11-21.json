@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096667&idx=2&sn=db7434ad863467236366196ab2e920ab",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "赏金翻倍秘籍：从JWT黑盒到RCE，那些让你报告单价飙升的越权技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797420&idx=1&sn=2d2a1f7792ae4350742c7dfbce6972b1",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
