@@ -280,5 +280,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556797&idx=2&sn=6be7accb1662737009946ba11a34763e",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "黑客论坛惊现微软Office 0Day RCE漏洞交易",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330742&idx=3&sn=9fe78d7bbeb3b2a8c97dad5f47d00d1b",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "Ollama漏洞允许攻击者通过解析恶意模型文件执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330742&idx=4&sn=74c6f1380ae5f5238e0a3209c45be96b",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "D-Link：注意 DIR-878 路由器中的多个RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524471&idx=1&sn=2c5a11dba130eea68bd2080f69e5410e",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "SonicWall SonicOS 中的高危漏洞可导致防火墙崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524471&idx=2&sn=e9b9286afdd20627c6c7da72d8249375",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维安全管理系统protocol/session远程命令执行漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493068&idx=1&sn=64ff97d14e2e197da64a64e5046fc47b",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
