@@ -256,5 +256,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495335&idx=1&sn=e4c0cd0de0068291e79217c2d49e5dcb",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "Oracle EBS零日漏洞遭大规模利用，近30家机构数据被窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604437&idx=4&sn=c8c02adf4a01fb9a90ce98efa70ac380",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "【易行网安课程】渗透测试技及工具应用-渗透测试概述和方法论",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517925&idx=1&sn=6041111d9a1b50d20e7e8e38d84e778c",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "明源地产ERP login.aspx 身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493339&idx=1&sn=340f6b6c1adaf8f81829ab2c9dde7425",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
+    },
+    {
+        "title": "【免费领】顶级黑客工具：Kali Linux最优渗透测试思路及方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556797&idx=2&sn=6be7accb1662737009946ba11a34763e",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
