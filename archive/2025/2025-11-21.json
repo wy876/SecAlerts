@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533668&idx=2&sn=ff894f88d6f11e36fcc22343749ecbce",
         "source": "Doonsec",
         "date_added": "2025-11-21"
+    },
+    {
+        "title": "某商城系统前台xss漏洞快速挖掘以及waf byass过程记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODExOTU3Mw==&mid=2247483861&idx=1&sn=236f39aa339c63b2199f331ed3b5afb4",
+        "source": "Doonsec",
+        "date_added": "2025-11-21"
     }
 ]
