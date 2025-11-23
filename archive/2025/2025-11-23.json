@@ -1,0 +1,116 @@
+[
+    {
+        "title": "红队渗透必备神器TscanPlus",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484112&idx=1&sn=b937f37fbe55f92ca430ff6719ad6487",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "微信万能门店小程序系统存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483991&idx=1&sn=f946a5cc805f52dad55355c818f4bd03",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "赏金猎人：请查收这份JSON登录漏洞“体检清单”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797424&idx=1&sn=b6a5199c330573d8db38417c9a13f2c7",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "【安全圈】漏洞，请立即更新Windows",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072874&idx=2&sn=63ac84c77120190944e17963678aa181",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "朝鲜黑客组织Kimsuky与Lazarus联手利用0Day漏洞攻击全球关键行业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330782&idx=1&sn=fbd4e7ec8b3580e701bf76b7bc90f801",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "高危Windows图形组件漏洞：单张图片即可让黑客接管系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330782&idx=2&sn=76b2fe93f8a2e796c282148d883cdda4",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "极路由远程命令执行漏洞-漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604463&idx=1&sn=63eb614120055ac689f6192c16cb2c74",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604463&idx=2&sn=ec105db6a0b9106aec654784d428fcab",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "AI魅魔漏洞——训练一个不会拒绝\\\"我\\\"的你",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553375&idx=1&sn=e9f991d7be8e50e71bd57404c0baa90b",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "大学生现在这样学网络安全，明年春招 offer 手到擒来！（漏洞挖掘+简历+面试全攻略）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485927&idx=1&sn=99b2d3302694611e9c5ff29f6547961d",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "【独眼故事汇】冷战秘密档案：苏联首次渗透中情局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504217&idx=1&sn=e5b02a5f42eec68486f27268d53243dc",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "【服务升级】EnhancerSec第五期漏洞挖掘培训招生啦！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486189&idx=1&sn=dcde7526cb7e1e39f69036bb78697569",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "CVE-2025-41253：利用 Spring 表达式语言泄露环境变量与系统属性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491461&idx=1&sn=b91c099ddfbd5487e513b667f59c0092",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "红队横向移动技巧：10 种绕过内网检测的横向渗透方法！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613357&idx=3&sn=fa32ee8ecd9611bb8b4df6b2e1f9af32",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "记一次抽丝剥茧式的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499627&idx=1&sn=3aa72607b1cee75fb49b6e8cd7e5ba84",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "VPN设备遭“地毯式”扫描，预计将有0day漏洞公布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516290&idx=2&sn=750f1948193832e9814800174bc1b71c",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "web渗透测试接单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495067&idx=1&sn=a4cce63dcf800ceb58a2ce5214253ba6",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "Java/Python/Golang/nodejs等常见语言代码漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489202&idx=1&sn=3b3f52e09dd8a55dd1cece91547d5ff5",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "来看看团队PWN佬写的EXP",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkzNDQ2NQ==&mid=2247485562&idx=1&sn=d7e1bbaa09f5079e45ed3c69f4ea8944",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    }
+]
