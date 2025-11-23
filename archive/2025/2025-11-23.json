@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575787&idx=2&sn=44301faa9b3d1aa138db0e8ed78fbbe6",
         "source": "Doonsec",
         "date_added": "2025-11-23"
+    },
+    {
+        "title": "【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
     }
 ]
