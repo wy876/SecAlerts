@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f",
         "source": "Doonsec",
         "date_added": "2025-11-23"
+    },
+    {
+        "title": "从实战中提炼：逻辑漏洞合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486091&idx=1&sn=56913fbc3ad9dba266012842c5f48723",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "红队新思路 | 利用SQL注入漏洞直接加载Cobalt Strike",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
     }
 ]
