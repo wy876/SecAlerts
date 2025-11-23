@@ -112,5 +112,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkzNDQ2NQ==&mid=2247485562&idx=1&sn=d7e1bbaa09f5079e45ed3c69f4ea8944",
         "source": "Doonsec",
         "date_added": "2025-11-23"
+    },
+    {
+        "title": "] [【安全圈】D-Link路由器出现新的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072874&idx=3&sn=8c68d0c8e3f07ca185a9cdca270f6c70",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "] [实战 | 记一次X站逻辑漏洞到到管理员后台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498695&idx=1&sn=aec67b7e7d012992f641150550dfb39c",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "Nday|深信服运维安全管理系统/protocol/session存在命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485245&idx=1&sn=a165740f3a4a3ee47376e88928efa6cb",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
+    },
+    {
+        "title": "揭示汽车微处理器（MPU）中隐藏的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628921&idx=1&sn=87e20e10b3fc3cf37676275bfc4e31aa",
+        "source": "Doonsec",
+        "date_added": "2025-11-23"
     }
 ]
