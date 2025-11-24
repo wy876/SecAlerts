@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330850&idx=2&sn=28dd980edcd593bebefae1098172f807",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "Nday|Traccar存在任意文件包含漏洞(CVE-2025-61666)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485254&idx=1&sn=f542145fa19b821840b00d4184ab350b",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
