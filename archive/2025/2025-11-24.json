@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485227&idx=1&sn=944af64b7ba9b393dae76870e4d12596",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "【安全预警】ShadowMQ漏洞模式曝光：Microsoft、Meta、NVIDIA等多款模型推理服务框架面临未授权RCE风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
