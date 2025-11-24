@@ -118,5 +118,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490909&idx=1&sn=af056b21929072a1f44dc1fb692166e4",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "学员投稿-针对一次某物流代码审计前台RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487072&idx=1&sn=7ed55fdfcdff5fb4572a5b7cead1d422",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "研究人员利用WhatsApp API 漏洞获取35亿个用户账号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524481&idx=1&sn=14e321f1c3a2caf170a7ddad233657ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "微软Azure Bastion 严重漏洞可导致攻击者绕过认证和实现提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524481&idx=2&sn=46622d694aa60bc2d314867e3e424ec1",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "vLLM 高危漏洞可导致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524481&idx=3&sn=6d0b161f8add2f6c1ee65e60ef6955d8",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "vLLM曝高危漏洞CVE-2025-62164，恶意嵌入可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604494&idx=2&sn=b62d0ad139306b8ae175c223238664a8",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "聚铭网络荣升国家信息安全漏洞库（CNNVD）一级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508361&idx=1&sn=4ac35feac3090b51dbee15d6bf30f9a0",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
