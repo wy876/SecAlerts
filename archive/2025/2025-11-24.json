@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "【成功复现】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-61882)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
