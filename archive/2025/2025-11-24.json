@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495967&idx=1&sn=416d94d7a8831b557d3eaf6a2322aec1",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "漏洞情报(已验证) | 友加畅捷U+财会通 GetZTList 存在敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247484002&idx=1&sn=a00ca88da2b64ef56d0169055cc35aa1",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
