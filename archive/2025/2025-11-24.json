@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496968&idx=1&sn=a61626ed5fcb34425a2b519763ad3ce5",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第45期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496518&idx=1&sn=b8a554dcbd1edea242fbdc5d6ad712a5",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "无漏洞，黑客如何入侵目标？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490909&idx=1&sn=af056b21929072a1f44dc1fb692166e4",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
