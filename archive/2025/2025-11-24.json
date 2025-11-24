@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489211&idx=1&sn=c6f3315946fab9625c1cb3d13d506c3e",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "] [【安全圈】Grafana 修复 SCIM 身份映射漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "关于AI自动渗透测试，我自己的看法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485227&idx=1&sn=944af64b7ba9b393dae76870e4d12596",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
