@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924",
         "source": "Doonsec",
         "date_added": "2025-11-24"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251124",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562873&idx=1&sn=f060b686079b3cfcad9d18b7dbedf45e",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
+    },
+    {
+        "title": "安全动态回顾|新型安卓银行木马Sturnus可窃取加密通讯并控制设备 WordPress插件W3TC存在PHP命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0",
+        "source": "Doonsec",
+        "date_added": "2025-11-24"
     }
 ]
