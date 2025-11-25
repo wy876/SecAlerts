@@ -46,5 +46,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495046&idx=3&sn=b981fc3ae42e8cc8071a19c9fa5a1a9e",
         "source": "Doonsec",
         "date_added": "2025-11-25"
+    },
+    {
+        "title": "] [【安全圈】Wireshark 多个漏洞可被恶意构造数据包触发崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072904&idx=1&sn=4ee3aa1b8b2892eed101535d1f516173",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "] [【安全圈】7-Zip 爆出严重漏洞 已有公开利用代码 需立即手动更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072904&idx=2&sn=a83d7a0a97369e8c7791076afb0628e5",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "] [【安全圈】ShadowPad 恶意软件正在利用 WSUS 漏洞获取系统最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072904&idx=4&sn=e6ba143fb44ccf2e63d906f52ea3c80a",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20251117-20251123)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496518&idx=2&sn=bef823a86a950400c5366839b27c5cf9",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "] [“ShadowRay 2.0”全球攻击活动：利用旧漏洞劫持Ray集群构建自传播挖矿僵尸网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=1&sn=8565d809f7627078ba1e77c25694c714",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "fastjson攻防(0day)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483948&idx=1&sn=93fc6ae31fbb0d571e203cc4d588ba76",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "某依最新版本稳定4.8.1 RCE (Thymeleaf模板注入绕过)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484878&idx=1&sn=cebcd8efb9f7973d04e829f99e311f4a",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
     }
 ]
