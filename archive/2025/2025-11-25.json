@@ -94,5 +94,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556812&idx=2&sn=288552236806da1b78629475a515bbb8",
         "source": "Doonsec",
         "date_added": "2025-11-25"
+    },
+    {
+        "title": "Grafana SCIM 中存在严重漏洞，可导致身份冒充或提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524487&idx=2&sn=e85da781a2fe55ed8b1a2296242adb26",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "【论文速读】| VULPO：基于策略内LLM优化的上下文感知漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497411&idx=1&sn=da1446685780eb704ce709d60ee3e211",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "未公开|邦永PM2项目管理系统存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485261&idx=1&sn=50442f2b1c32b6c89da1ba558a856d0e",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "证书站实战｜多API接口组合攻击漏洞案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492417&idx=1&sn=6af052851010008b3dfb23e62a03f7ae",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "【已复现】Claude Code 提示词注入导致任意文件写入漏洞(CVE-2025-64755)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495415&idx=1&sn=f0e10d2a8ab9588c770b6dfa53a8ac1e",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "科汛新职教网校系统CheckOrder存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483992&idx=1&sn=95ad3a76010ce390323a4cabaf705137",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "2025-11-25 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487685&idx=1&sn=8a0539ab54de14899dded3641060bd9f",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "小红书SRC漏洞激励加码！ | 诚邀白帽共筑安全生态~",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDUwNDU0OA==&mid=2247483795&idx=1&sn=1500ea134252aebad2bf2142c840f303",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "某依最新版本稳定4.8.1 RCE (Thymeleaf模板注入绕过)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485668&idx=1&sn=a5fdd86587ce848d63a1f1d422c9e58f",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
+    },
+    {
+        "title": "渗透测试实战：从默认页面到命令执行的信息收集小tips",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483898&idx=1&sn=ec5813679cceff0aabc78586efb672da",
+        "source": "Doonsec",
+        "date_added": "2025-11-25"
     }
 ]
