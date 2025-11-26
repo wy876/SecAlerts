@@ -418,5 +418,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492340&idx=1&sn=3035491fe87a1dc7a3c384b621741117",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "POC|【新】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485273&idx=1&sn=1370bfa650bc62d4cda1c8e2225796fd",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "打印泄密成企业数据安全“隐形漏洞”，超两成内部泄露源自办公打印机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462313&idx=1&sn=e7f9767310ce6ac823ab33651878ec07",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
