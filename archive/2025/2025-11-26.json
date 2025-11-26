@@ -136,5 +136,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503612&idx=1&sn=54aaea98c3701289462a696248155529",
         "source": "BruceFeIix",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "工具推荐 | 一款专为高价值系统设计的后渗透工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497292&idx=1&sn=e8be416e069334c76ce377b5a121e8ca",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "2个真实场景验证：用对工具，渗透测试效率翻倍其实很简单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331178&idx=2&sn=75476335c0d2b3d9155afe966ba61c4b",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "第八届强网拟态防御国际精英挑战赛 - WIN！致敬mt 复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604539&idx=1&sn=52ae9835635172918961d471e1302f7a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Firefox曝高危漏洞CVE-2025-13016，1.8亿用户面临代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604539&idx=2&sn=b39d4c8f84761e16602c7fb06ab27eed",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "0087.2025 年每个新手都能发现的 P4 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691346&idx=1&sn=dfb404f6135d2ef4f4e8e0a8182c1e02",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "赏金猎人指南：如何利用.svn漏洞拿下整个项目源码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797432&idx=1&sn=574d3c2dbb5828225671fa63a9a7a646",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "更新反噬：Windows 更新健康工具中的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533718&idx=1&sn=742ef7444ebc4df7dbf79c9db06b9657",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "CodeQL对Java项目进行命令执行审计总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980011&idx=1&sn=54468b60e47baf0a7d08b49eebbb63dc",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "深夜挖掘 Claude Code 漏洞记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491622&idx=1&sn=6498327be541af077c2349fc58b1fa1e",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "PHP 代码安全扫描器， 快读识别代码执行、命令执行、文件操作、文件包含等漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613402&idx=4&sn=829d678070a58457a45aa4df7691b001",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "攻防演练神器 | 一键检测Struts2/Shiro/Log4j等主流漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497285&idx=1&sn=1e22fdb36992c3d8d0f154c2972ffe82",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
