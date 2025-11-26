@@ -352,5 +352,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495425&idx=1&sn=473d6fbb5ce111fef4e7b6ab0d597cba",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556827&idx=2&sn=6963e2f3ced0d267a414071bfab54bc8",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【漏洞复现】WinRAR 目录穿越漏洞(CVE-2025-8088)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDYwODk2NQ==&mid=2247484614&idx=1&sn=f31bab9b658b1c97c5dcbbd1f959d387",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "当攻击速度快于补丁速度：2026年漏洞到底该如何补？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540984&idx=1&sn=8d77973634f59b3dc7f01d8f39835936",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
