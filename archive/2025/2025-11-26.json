@@ -370,5 +370,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540984&idx=1&sn=8d77973634f59b3dc7f01d8f39835936",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "CVE-2020-3331复现与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTUwNTg2Ng==&mid=2247485686&idx=1&sn=be950a0fcdfe33f5302c1d532edcea0d",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Apache Spark 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490921&idx=1&sn=1f9ae973645bf69f839494032acc556e",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "漏洞预警 | GeoServer GetMap XXE注入漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487925&idx=1&sn=6fb3b07b46dde65f85f7088f53be5b0a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【漏洞通告】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501823&idx=2&sn=af2ac7c7b7fcbdc74256807aec321061",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【已复现】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247488345&idx=1&sn=a6992f8db8c9c5924746752b182af1c5",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【POC】GeoServer XML外部实体注入漏洞分析 (CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492876&idx=1&sn=42fe15b6422d979f4a2a68a7977644dd",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
