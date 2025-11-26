@@ -1,0 +1,122 @@
+[
+    {
+        "title": "摩根大通84页最新报告：2024全球高级别自动驾驶汽车渗透率达45%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522007&idx=1&sn=be7dcc84e64d87b40b5a12d99eaa1ed0",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【近源渗透】猜猜今天我进来用没用访客码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490637&idx=1&sn=5fd45fff2ec40cb575dd043c19ae4f7a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "超百亿次部署的Fluent Bit曝高危漏洞，可致云环境沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484749&idx=1&sn=58f65e8cfd756348c2cb4ae93dbc9f3a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "渗透测试之批量刷洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508467&idx=1&sn=3c8cbff92f4ce7298638fc9c185777e0",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【漏洞情报】ExecuTorch整数溢出漏洞分析与修复指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485129&idx=1&sn=9574feb59a85dabce916433935ef7d24",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "KINGOSOFT高校智慧校园教学综合服务平台存在文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484015&idx=1&sn=6c4183c0aed316b66d9ab21694178e29",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "CVSS 评分 2.1 的漏洞也不放过：为了连上 iPhone，安卓这次真的拼了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901651&idx=1&sn=ea0654536ef2dd780ee3d6037f019ca3",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "强推一个永久的渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520797&idx=1&sn=4b2c2c254b17920e758bbad569812e50",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "渗透测试靶机Metasploitable2-Linux攻略",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTUzNjE3OQ==&mid=2649560507&idx=1&sn=6251b0e3a6ba751749eadf44b2de248e",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "内网综合渗透靶场一(上) 附靶场环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247487137&idx=1&sn=f26d0844058aff2ad256d8d12155160c",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "漏洞预警 |  Claude Code任意文件写入漏洞(CVE-2025-64755)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484690&idx=1&sn=8e445c52eb6f94fec4630eab0225cf0c",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【样本对抗】PHP类型Webshell通用任意命令执行木马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493076&idx=1&sn=4926ece9d64512832a8a9922d37e8e06",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【安全圈】Fluent Bit 多漏洞曝光引发云端入侵风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072919&idx=4&sn=1e08e66183d64b564fd711464521f8f1",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【高危漏洞预警】Claude Code工具命令注入漏洞CVE-2025-64755",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Fluent Bit曝出五个高危漏洞，可导致云基础设施遭远程控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=3&sn=18b7ba00d5bd991608304b94145548e1",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【样本对抗】PHP类型Webshell通用任意命令执行木马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503715&idx=1&sn=555cfc1e0dda1a9c8a35fb51ad2fd1d6",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Apache Syncope 硬编码密钥漏洞（CVE-2025-65998）可致用户密码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604498&idx=3&sn=0d3802aa7534e61d602c5526e8f6d149",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "拆解Crypto24勒索软件的“隐身术”：EDR绕过与权限渗透背后的高级威胁运营逻辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650626273&idx=1&sn=fe5469e698c6955bb14a8e42b66ff45f",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "企业管理类系统常见漏洞挖掘指北",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575840&idx=1&sn=e29b2442c178a47b89a0ffcd4af4cbf4",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    }
+]
