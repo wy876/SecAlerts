@@ -250,5 +250,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494129&idx=1&sn=fe9f9c5fe91ff75b0148a1ba07972a0f",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "GeoServer WMS GetMap存在未授权XXE漏洞CVE-2025-58360 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489597&idx=1&sn=1cabbff938a345491b09685c2aa3aa1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "GeoServer XXE 漏洞(CVE-2025-58360)来袭,腾讯云主机安全RASP可自动防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497002&idx=1&sn=1b0fe1efaf0798bec7b412d10c9265da",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "别让 0-Day 毁掉你的年终奖！IntelliJ 这款「Maven 依赖漏洞秒扫」插件我直接吹爆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247492079&idx=1&sn=8798b3c7051c35f884aa5ed95d05211b",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【成功复现】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503723&idx=1&sn=1d75686b823d872f39cc3ff1a83abc96",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【漏洞预警】GeoServer XML外部实体注入漏洞CVE-2025-58360",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491044&idx=1&sn=bd35531617af98c09a4815458994dcae",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "AI全面渗透网络攻击！趋势科技发布2026年六大网络威胁预测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515261&idx=1&sn=e35f7cd4fd49cfb02ae85fe89c9788de",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "首发|锐明Crocus系统 DeviceFileReport.do 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485267&idx=1&sn=4c7ca9bd484e9ff781e7dbf4c5ed1f53",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Windows 图形漏洞导致远程代码执行与内存泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617449&idx=1&sn=c5428751021ad831a4bab3f4e039457d",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【已复现】GeoServer XML外部实体注入漏洞(CVE-2025-58360)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504216&idx=1&sn=8fd53afa984f9768f72f34db2d5988b1",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Src捡钱9，一键自动挖掘webpack框架漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485941&idx=1&sn=09a792610c7b35deffbc3b9b575df20d",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "CVE-2025-62215 深度技术分析与防护建议",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485618&idx=1&sn=eaa5f177e2d4dfee59a233ddaf26c019",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
