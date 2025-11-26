@@ -202,5 +202,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497285&idx=1&sn=1e22fdb36992c3d8d0f154c2972ffe82",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "Grafana 发出最高级别漏洞警告，该漏洞可导致身份冒用和权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494132&idx=1&sn=d508d01093e730d0f335057f51eb8a05",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "100%私密，零API成本的AI驱动子域名枚举+漏洞分析检测工具 -- God\\'s Eye",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487034&idx=1&sn=d597ab1a9e6694bba006ba1dd5f2fc12",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "微软：Windows11 24H2高危漏洞导致文件资源管理器等核心组件崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585610&idx=1&sn=56a1cfab6932567180d39a59e6b18a03",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "Grafana：最高级别漏洞可实现管理员身份冒充",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585610&idx=2&sn=ffd605079a514679b1ccf53d84e3b5f6",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第47期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463885&idx=1&sn=eb5382880ffeb70543c26b716d006f3f",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "秋冬福利季｜10个漏洞获取最新周边，等你来薅！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509800&idx=1&sn=18d19b2a1b50781b95372041369f4e61",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "高危Windows图形组件漏洞：单张图片即可让黑客接管系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248628&idx=1&sn=47031c4fccdb8e06f94090c144640ed5",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "CISA警告称，Oracle Identity Manager远程代码执行漏洞正被滥用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494129&idx=1&sn=fe9f9c5fe91ff75b0148a1ba07972a0f",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
