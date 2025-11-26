@@ -316,5 +316,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485618&idx=1&sn=eaa5f177e2d4dfee59a233ddaf26c019",
         "source": "Doonsec",
         "date_added": "2025-11-26"
+    },
+    {
+        "title": "2个真实场景验证：用对工具，渗透测试效率翻倍其实很简单",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495649&idx=1&sn=c05073cb6989f7ee13b3c7b417d9ca19",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【漏洞通告】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524793&idx=1&sn=62014d4ad4518c465dcc3f4f7c5151a4",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "漏洞预警 | vLLM提示嵌入导致的远程代码执行（CVE-2025-62164）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484695&idx=1&sn=b76ffb69543d55ea4a0fa5e07322247a",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【已复现】| GeoServer 未授权XXE漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247484006&idx=1&sn=4afee46de06596f891b173b27918ea41",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "第九届“强网杯”行业领域专项赛漏洞智能分析赛道获奖名单公布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488695&idx=1&sn=01ed2c186feb16873299178cdfeca8ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
+    },
+    {
+        "title": "【已复现】GeoServer GetMap 未授权XXE注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495425&idx=1&sn=473d6fbb5ce111fef4e7b6ab0d597cba",
+        "source": "Doonsec",
+        "date_added": "2025-11-26"
     }
 ]
