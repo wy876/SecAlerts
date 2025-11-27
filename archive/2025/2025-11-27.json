@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Ollama 越界写入漏洞简报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510969&idx=1&sn=7d8b2bb6618f6876bedcb77a689a4ac2",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "骑士cms任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484293&idx=1&sn=72f7ac2a93e1c3f8ffadb32a62a2da12",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Kali Linux 入门：转行网络安全必学的渗透测试系统（常用命令详解）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488511&idx=1&sn=197f2bc2b51c0e7d19ffd805a1f1afc7",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "教育行业渗透打点实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613426&idx=4&sn=d4eb679d2e31911bbb817f783cd37d19",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "华硕MyASUS漏洞允许黑客升级至系统级访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796997&idx=3&sn=9410435cde0eaa9550d639f0ea83a4b3",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "从原理到实战：一文读懂Web缓存欺骗漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500286&idx=1&sn=66631d906ab68658aed7eed347ad317e",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "微软：Windows11 24H2【高危漏洞】导致文件资源管理器等核心组件崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549955&idx=2&sn=d4ca4d78c402698ba442237b92643c6d",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "【漏洞情报】TorrentPier论坛管理员面板SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485134&idx=1&sn=d7426c7bfc20f4940fe77cff5a345db5",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "接口越权漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498716&idx=1&sn=b798bb8fe5b5dfeaab3a4ac80b8a2900",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "大华ICC智能物联综合管理平台 viewPDF 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484025&idx=1&sn=803d7dbed783f3260c8448832dbca4eb",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "漏洞预警 | runc容器逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495070&idx=1&sn=c04e144f15a953f4bdcd86c995e92968",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495070&idx=2&sn=c307a3d6b9456cfde23691328defe269",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495070&idx=3&sn=fdf624669a66ff4f1eeb2e5ad68b6ece",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "安服/渗透报告漏洞描述Wiki",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495717&idx=1&sn=79222559517e85782709771bcffa42e8",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Windows Installer 提权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDg3NTc1Mg==&mid=2247485265&idx=1&sn=a73c6c2b2de8334928fcd190890d0cb8",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "从CVE-2025-59287看攻击链：黑客如何用“白加黑”技术攻陷WSUS服务器？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901660&idx=1&sn=7ace399031866230c70bba3d978578e5",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    }
+]
