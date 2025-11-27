@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489596&idx=1&sn=5b9f0a2a25af8b8c1be8e3b874590f0c",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "警惕 “SaaS 连环劫”！一个接口漏洞，200 家大中型企业敏感数据外泄",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537959&idx=1&sn=89278c6400cc6020b0983f859bdd94c3",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Burp封神插件！自动提取路由 + 被动递归探测，漏洞挖掘效率狂飙！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485961&idx=1&sn=38d2b61ae1c653b09ed6e5b6216b2a50",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
