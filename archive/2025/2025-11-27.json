@@ -208,5 +208,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485961&idx=1&sn=38d2b61ae1c653b09ed6e5b6216b2a50",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "Solon框架模板漏洞深度剖析与修复实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490928&idx=1&sn=5152b1bd5d74f7cdb16da1b762571fb4",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "黑客视角的运维安全：这 7 个 Linux 服务器配置漏洞，你中招了吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575871&idx=2&sn=8cc5cbdc8948c1b9c42cbf2c7847cfe9",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "【复现】vLLM远程代码执行漏洞（CVE-2025-62164）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492525&idx=1&sn=a47f5945a114ba286c34621fb5330b2e",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "【漏洞通告】GeoServer GetMap XXE注入漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NjMwMzI3Mg==&mid=2247504233&idx=1&sn=f08b53ea4d2faaa7da550e16761cfd5e",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "中国红客特训  |  中国红客利剑突击战队 ▁  Kali渗透测试与主动防御课程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484570&idx=2&sn=815b420d1c6494611f70b63c5238be5b",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "情报 + 敛财双杀！朝鲜黑客用 0Day 漏洞横扫全球",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537959&idx=3&sn=291b400db5397535e07a3033422fb3f4",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
