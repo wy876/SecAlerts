@@ -94,5 +94,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901660&idx=1&sn=7ace399031866230c70bba3d978578e5",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "] [已复现！GeoServer GetMap XXE注入漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507981&idx=1&sn=b47d2553b034b9ef84b26f9e7cc4b087",
+        "source": "BruceFeIix",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "苹果设备的“锁屏漏洞”：CVE-2025-24200如何被攻击者利用？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651038011&idx=1&sn=0007f949ec79fa97fd667a3b9de78b93",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "漏洞挖掘 | Js接口的各种Fuzz场景研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDY2MTUyMA==&mid=2247492006&idx=1&sn=74b55f1394f85ee1d02a0e35fdd5245c",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "为什么“搞漏洞的”和“搞运营的”总是说不到一块去",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247506974&idx=1&sn=4c8b7648d6efa55479f9c927528d208c",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Windows Exploit Suggester",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491795&idx=1&sn=b9930bcde0b2a74064df2753e956cc95",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
