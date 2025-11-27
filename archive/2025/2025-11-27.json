@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525251&idx=1&sn=0be187e927653de8732e8acd84692287",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "【高危漏洞预警】Cursor命令执行漏洞CVE-2025-62354",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491050&idx=1&sn=833948f97aa25a0242fc074300d98ba9",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "华硕紧急修复9个漏洞，包括1个严重的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524529&idx=1&sn=3ac1c504b6bdffbb4d5aa2dea1943445",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "热门JavaScript 加密库 Forge 修复签名验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524529&idx=2&sn=f430edc811448de4be9a55cfb12448d5",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Hyper-V平台IUM进程调试工具及通用TPM漏洞CVE-2025-2884分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604548&idx=1&sn=8375e00ae768fbb4d8b952b3fb61a204",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
