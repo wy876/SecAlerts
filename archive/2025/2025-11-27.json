@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331223&idx=4&sn=02a6568b348291d06a5f65eca456caab",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "【已复现】Ray AI计算引擎远程代码执行漏洞(CVE-2025-62593)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495436&idx=1&sn=415814be6231de7eced23a9239477fcb",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
