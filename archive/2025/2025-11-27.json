@@ -142,5 +142,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500673&idx=1&sn=f391c8a5acde46f50ec7c38b3fbfcff5",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "渗透测试: 使用 Penelope 进行高级 Shell 管理入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491633&idx=1&sn=1af162ee321a8794c5be4a72d56a7db7",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "GeoServer XXE注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493406&idx=1&sn=d3c59b977c761f792a5ee72d8fcf9a4a",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "【吃瓜】单比渗透我是神，单比挖洞我退网！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490685&idx=1&sn=daa08ec91e588e93b769b60a27f68aa1",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "2025年真正获得赏金的顶级漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508392&idx=1&sn=e59b4d6433d7fc41d635c829a39dc20d",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "记某证书站一次渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553407&idx=1&sn=4fbb772e525345ae6eaca9e46a1cf830",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "从0到挖到第一个漏洞的经验总结，附用过的视频教程和学习笔记！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247485102&idx=1&sn=c12a9f8663416b33c5b5d77d47329e76",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "蹭一蹭热度-CVE-2025-58360",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMDkxMTk4MQ==&mid=2247484129&idx=1&sn=eb614acacc3d9411c99334d756f6b86f",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
