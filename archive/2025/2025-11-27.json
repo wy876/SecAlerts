@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604548&idx=1&sn=8375e00ae768fbb4d8b952b3fb61a204",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "攻击者在暗网兜售iOS 26全链0Day漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331223&idx=2&sn=bc50c5f58d1d49b6796ffd230f983a60",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Next.js框架DoS漏洞仅需一次请求即可导致服务器崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331223&idx=4&sn=02a6568b348291d06a5f65eca456caab",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
