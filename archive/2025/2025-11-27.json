@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491795&idx=1&sn=b9930bcde0b2a74064df2753e956cc95",
         "source": "Doonsec",
         "date_added": "2025-11-27"
+    },
+    {
+        "title": "目标资产收集从XSS客服弹窗获取cookie到RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486347&idx=1&sn=1f2b5e1ee0f4d210ef3dd15a2241467a",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "Oracle Identity Manager 远程代码执行漏洞（CVE-2025-61757）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488428&idx=1&sn=8e8294ad45176b63357950e34ccd3bb4",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
+    },
+    {
+        "title": "零基础新手漏洞挖掘入门指南：要啥技能、去哪挖、怎么挖？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500673&idx=1&sn=f391c8a5acde46f50ec7c38b3fbfcff5",
+        "source": "Doonsec",
+        "date_added": "2025-11-27"
     }
 ]
