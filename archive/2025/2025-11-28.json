@@ -160,5 +160,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604601&idx=3&sn=35dd5bd4c71a05d1a770635c98edf0ec",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "内网综合渗透靶场一(下) 附靶场环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247487328&idx=1&sn=44eefd5938726b3466b14a12b48589da",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "遗留Python包中的漏洞代码可通过域名劫持攻击Python包索引",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331296&idx=4&sn=ae9c319b0b73d7888bb0e4af8b227255",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "信息安全漏洞周报【第049期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064440&idx=1&sn=0f05abb5c71fa09d41987be333b56230",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "“共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MTY5NDQyMw==&mid=2247526232&idx=1&sn=a59329238022edbb164a1dd34de6d3cd",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "利用 W3 Total Cache for WordPress 中的预身份验证远程代码执行漏洞 (CVE-2025-9501)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533769&idx=2&sn=bb6b3c17f3a52483b73b9f3e4e5128a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491438&idx=1&sn=6ca3cd2be833f936a87fa37553462035",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
