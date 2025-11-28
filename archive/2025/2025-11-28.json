@@ -88,5 +88,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521521&idx=1&sn=00401d0fa36b2964036dbc83072f989e",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "从扒官网到捡源码：我的 “瞎猫撞上死耗子” 式渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553409&idx=1&sn=b455e5ae704f9eba0e0622e4ee7d5efa",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "AI泡沫的致命漏洞：大模型不是真正的智能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504504&idx=1&sn=eabb325ef6a31661028faa5c7c9eced3",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【漏洞挖掘Tips】将 JSON payload 伪装为 PDF 或图像文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484667&idx=1&sn=fd9fac73c7e7d4f23187059825528e8c",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "Android APP客户端漏洞挖掘思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514826&idx=1&sn=bb3e1fae0dc6c62424349dd33268b7ff",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "swagger测试工具与漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489235&idx=1&sn=649d52123122ca7d23e3a1c8f74f9bfc",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
