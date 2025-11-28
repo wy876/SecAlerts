@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489235&idx=1&sn=649d52123122ca7d23e3a1c8f74f9bfc",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "OAuth 实战漏洞分析：我如何通过修改 redirect_uri 直接窃取用户 JWT",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508403&idx=2&sn=7681cecc67add378215f107bc3b6139c",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "Kali Linux (6) 内网渗透的艺术——横向移动与域控攻防",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc3MTc1OQ==&mid=2247483703&idx=1&sn=8e849d73862b3b60bfa1aa8d656a0af5",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
