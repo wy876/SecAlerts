@@ -250,5 +250,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485500&idx=1&sn=5bfd8be766957e9f42f9474d8f5ee492",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "漏洞预警 | Cursor远程代码执行漏洞（CVE-2025-62354）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484700&idx=1&sn=df5d841601a01cf413097400a672a53f",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "fastjson0day报名直接送",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483959&idx=1&sn=ac901f670ce7e23f53baad513f2b64ad",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-62354）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489427&idx=1&sn=0de2d32a84d3e3685723814776d55971",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【免费领】全网最详尽的漏洞挖掘实战技巧大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556844&idx=2&sn=2a18bcce1553d9801df6f48c92aad23f",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【WordPress专题04】通过漏洞介绍构造CVE-2025-11457的POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485111&idx=1&sn=73c6db35dd7cfb5b2bc6d51a02497de0",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "畅捷通T GetisInitBCRetail SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493415&idx=1&sn=6ee166577f4e4137943d32847630aad9",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
