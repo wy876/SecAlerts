@@ -10,5 +10,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294809&idx=1&sn=d577f70f32845b91f92bfcad7f98abd1",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "POC|友加畅捷管理系统 Attachment.ashx 存在文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485279&idx=1&sn=e76c929f2c2b12000e36971e8c7b865a",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "一款用于渗透测试的开源人工智能代理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493892&idx=1&sn=560a0b53216514a5e9a5958d68d43002",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486357&idx=1&sn=a9519803b71ba2a18958c92ebca29c27",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "AI全面渗透网络攻击！趋势科技发布2026年六大网络威胁预测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613440&idx=1&sn=ef65ea0d4e14aae15f73c0347440b253",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "“ShadowRay 2.0”全球攻击活动：利用旧漏洞劫持Ray集群构建自传播挖矿僵尸网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613440&idx=3&sn=c6fc7fa34bde3eea6ff097fbefe121ac",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "CVE-2025-59367：ASUS DSL 路由器爆发严重 AuthBypass 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485647&idx=1&sn=de7d6cf1d73ec03414ab8e372aa4acf8",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "VE-2025-66359 — Logpoint SIEM Web 页面 XSS 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485647&idx=2&sn=a1d0e49a341452d7f5f5f6f73ac47f81",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【漏洞情报】Apache Syncope AES加密漏洞分析：硬编码密码的安全风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485139&idx=1&sn=1639ffae86ab17084ae53ead0d807782",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "还在用正则做鉴权？Oracle 这个 0-day 漏洞教做人，Groovy 编译期也能执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901662&idx=1&sn=08dcb7de8d81fdcd532f372a66737139",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "全面扫描Spring框架漏洞 167 个目录未授权检测 + 多 CVE 利用，Spring 实战功能拉满|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495995&idx=1&sn=6a8dd86945ff3c66fde2ca5e428d0fc7",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "安服/渗透测试 报告生成工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493087&idx=1&sn=8fc73357df5b1cb54ddfeb11d5669d2c",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "锐明Crocus系统DeviceFileReport.do接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489615&idx=1&sn=68b9dc42c2ce89f364d33ed1fa3f5da1",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "教育行业渗透打点实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521521&idx=1&sn=00401d0fa36b2964036dbc83072f989e",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
