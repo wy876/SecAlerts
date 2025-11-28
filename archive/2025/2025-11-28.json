@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247486096&idx=1&sn=e1eefceb6a73f454e2d4e64153b92633",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "攻击者利用物联网漏洞部署新型ShadowV2恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331296&idx=3&sn=13b59c62185fa7245c93506d7bcf9d1a",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "新曝Next.js未授权DoS漏洞，可一键击溃服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604601&idx=3&sn=35dd5bd4c71a05d1a770635c98edf0ec",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
