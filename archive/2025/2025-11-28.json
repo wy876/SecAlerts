@@ -196,5 +196,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491438&idx=1&sn=6ca3cd2be833f936a87fa37553462035",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "金蝶云星空CommonFileServer接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489626&idx=1&sn=e4ff68840a05df4bd3d70967f5ff1c44",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【高危漏洞预警】Ray AI计算引擎远程代码执行漏洞CVE-2025-62593",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491055&idx=1&sn=f15d0d3aa805fe81ac9293dd5b16248d",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "Antigravity 停飞！Google 最新 IDE 中的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490536&idx=1&sn=dbb9da8c2b79da55d99d0ac1e120df1d",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "东方通TongWeb反序列化漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485589&idx=1&sn=0aec0d0ad71583176b2325c99e90e35f",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "Intent本地拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247493293&idx=1&sn=1d3b8f8b59cbaf3a85b917e54a2c4815",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "安全热点周报：Oracle Identity Manager 中的严重漏洞正被积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504220&idx=1&sn=558289331957486b5fa0f121fa99ceca",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛-渗透测试初赛WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDE2Mg==&mid=2247485522&idx=1&sn=08664f8567bc33114504fef989ae362c",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "漏洞盒子十年：在线安全服务平台的演进与未来范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247535048&idx=1&sn=47beae50e3f11ebb6a8288fd7ad965a9",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
