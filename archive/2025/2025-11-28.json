@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc3MTc1OQ==&mid=2247483703&idx=1&sn=8e849d73862b3b60bfa1aa8d656a0af5",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "自动化渗透测试扫描工具 -- AegisScan（11月26日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517634&idx=1&sn=b23a1552de45bb100bb0603b93829f19",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251128",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562879&idx=1&sn=11d82789cd6f677494e46c9d74d05ed3",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
+    },
+    {
+        "title": "【漏洞复现】GeoServerXML存在外部实体注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247486096&idx=1&sn=e1eefceb6a73f454e2d4e64153b92633",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
