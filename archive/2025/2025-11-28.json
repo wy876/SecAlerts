@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247519130&idx=1&sn=4b0a201dc08307378f5aa99c7821e0c6",
         "source": "Doonsec",
         "date_added": "2025-11-28"
+    },
+    {
+        "title": "CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381",
+        "source": "Doonsec",
+        "date_added": "2025-11-28"
     }
 ]
