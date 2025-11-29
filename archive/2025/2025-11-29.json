@@ -58,5 +58,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757",
         "source": "Doonsec",
         "date_added": "2025-11-29"
+    },
+    {
+        "title": "QQ nt版本图片onerror代码注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
     }
 ]
