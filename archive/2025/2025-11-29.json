@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37",
         "source": "Doonsec",
         "date_added": "2025-11-29"
+    },
+    {
+        "title": "华天动力协同办公系统travelAjax存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
     }
 ]
