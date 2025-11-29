@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489240&idx=1&sn=99a469dbdd649ea2da293fa07ddfc65c",
         "source": "Doonsec",
         "date_added": "2025-11-29"
+    },
+    {
+        "title": "POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
     }
 ]
