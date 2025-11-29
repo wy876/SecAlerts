@@ -88,5 +88,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=1&sn=357f3fe1b69f30e01015e6c7c4bf9cfc",
         "source": "Doonsec",
         "date_added": "2025-11-29"
+    },
+    {
+        "title": "FreeBuf周报 | 新型黑产AI工具KawaiiGPT降低黑客门槛；黑客出售微软Office 0Day RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "NVIDIA DGX Spark曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=1&sn=5644d33c5b40b1cd18e45d784d580c3c",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "Apache SkyWalking曝XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "GeoServer WMS GetMap XML 外部实体注入漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "NVIDIA Triton推理服务器Python后端命令注入漏洞（CVE-2025-23316）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "【工具推荐】渗透网站、CTF竞赛？有了AI之后只是动动嘴而已！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487632&idx=1&sn=17993c9e1ff6271221e92385cc53c473",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "南北软件ERP ListDir.jsp 目录遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493434&idx=1&sn=0d783e2f46c13a3643987124b5048627",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
+    },
+    {
+        "title": "【漏洞挖掘Tips】将JS伪造为 PDF 的一些方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484674&idx=1&sn=ee0129f2674a549ee73e94ff0b5b8dcc",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
     }
 ]
