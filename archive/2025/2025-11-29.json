@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504295&idx=1&sn=18e0cd397bcb7f300f181e901bf86f17",
         "source": "Doonsec",
         "date_added": "2025-11-29"
+    },
+    {
+        "title": "佳会视频会议系统任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484007&idx=1&sn=53c08e5868de3d714124cfd6a5e75620",
+        "source": "Doonsec",
+        "date_added": "2025-11-29"
     }
 ]
