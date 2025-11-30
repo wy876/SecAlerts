@@ -16,5 +16,125 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485307&idx=1&sn=07c89c6bce4614ab55e627a8b109bffd",
         "source": "Doonsec",
         "date_added": "2025-11-30"
+    },
+    {
+        "title": "CVE-2025-27591: Below本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485843&idx=1&sn=d7b643d12902a3b47b1bce5119912bf5",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "如何开始微信小程序渗透？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247488778&idx=1&sn=422d3b0cac57d17be53c8e3349ae96e7",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "记一次edusrc的任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486089&idx=1&sn=eb925fe03aae8e2667a54859ccc772bc",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "RCE安全（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491099&idx=1&sn=3fb7bdf0c4248143981bd006cd6e89bb",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "【安全圈】Gitlab 修复多项可导致认证绕过与拒绝服务攻击的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=1&sn=0c3a26835ab03509894776e4bfc857a6",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODMwOTQ5MQ==&mid=2247485418&idx=1&sn=8034706a2ce3e54492dedd418973434f",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzk5MTM2NA==&mid=2247484411&idx=1&sn=b70cb27e6d80b899b7aafad1a0415c89",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "漏洞盒子十年：在线安全服务平台的演进与未来范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331395&idx=1&sn=5e54694c391552eb1aa4ca8929da49cc",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "20年老协议仍威胁全球网络安全：黑客利用NTLM认证漏洞攻击Windows系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331395&idx=2&sn=ead8ab383d82ca76a2c85068d3300b13",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "用友时空KSOA workslist.jsp SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493443&idx=1&sn=c0a53060bb887e8fae5b0d129d6afa63",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "某管理系统源代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487670&idx=1&sn=baafc95125581f0eb4b48ade0ca891f2",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "开启AI驱动渗透测试时代！绿盟科技两支队伍荣获“黑客松-智能渗透挑战赛”优秀奖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474561&idx=1&sn=50a8b2f20603f6cf6b078da2176e1fd6",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "渗透大佬都在看的渗透笔记合集，超级实用，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575904&idx=2&sn=388f9642217db18629bf1569c25e019a",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "【补天白帽黑客城市沙龙-长沙站】MCP漏洞挖掘与Nday复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525324&idx=1&sn=a1ddf96e0e2b1fd3d8ca92d6f61fde0f",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "Web 漏洞逆向分析实战方法论",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486200&idx=1&sn=660d44d4adc17798ddeb09c545f0b67b",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "渗透测试核心：攻破Windows认证与凭证提取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797457&idx=1&sn=e381da3a7210831ed41c2e28b1347b73",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "复旦白泽漏洞治理团队× 腾讯悟空｜共建业界首个项目级 AI 生成代码安全性评测框架 A.S.E",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496807&idx=1&sn=26e49f88d6ea359eb7f1f34ecfe1d725",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "【漏洞情报】WordPress FindAll Membership插件身份验证绕过漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485149&idx=1&sn=557ad2cf9ef33aeaba80f5ba315ba4b3",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "渗透实战：记一次JP web服务RCE到内网",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498731&idx=1&sn=3dd9a4a3b5eb577becb796205a4fda3d",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "一次PhpMyAdmin绕过杀软内网渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486361&idx=1&sn=dcc3a93252bae7ea8074fd709f467cf5",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
     }
 ]
