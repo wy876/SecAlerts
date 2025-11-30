@@ -136,5 +136,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486361&idx=1&sn=dcc3a93252bae7ea8074fd709f467cf5",
         "source": "Doonsec",
         "date_added": "2025-11-30"
+    },
+    {
+        "title": "JeecgBoot3.5.0版SQL注入漏洞详细分析记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486413&idx=1&sn=717a10f4fc1094e7455ff39e0e69e1a2",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "WhatsApp API 漏洞让研究人员得以抓取35亿个账户信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494146&idx=1&sn=f425d2aa04d946dbf8f49faa9c332ac9",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "JS代码中的隐藏漏洞从敏感信息泄露到加密参数逆向",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496022&idx=1&sn=9d44dc120737a8a3f2b6b220918cc7f6",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
+    },
+    {
+        "title": "SPON IP网络对讲广播系统php/getuserdata.php存在敏感信息漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489637&idx=1&sn=4f46c90f4c225b491273c727dc0dd0f5",
+        "source": "Doonsec",
+        "date_added": "2025-11-30"
     }
 ]
