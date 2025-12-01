@@ -1,0 +1,110 @@
+[
+    {
+        "title": "2025-12-01 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487696&idx=1&sn=8e49f36d219028e9bd41aba6777692e2",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛-渗透测试初赛WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488294&idx=1&sn=3d8ad5f53f09a313be07f8bdc115ffc1",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "Wireshark漏洞允许攻击者通过注入畸形数据包导致程序崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613451&idx=2&sn=397b3ad5e420ba00de635f28e9a86663",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "一款Java漏洞集合工具| 更新v2.0.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613451&idx=4&sn=5a9180d783ee3b2d0264e2ccc9481127",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "渗透 | EduSrc证书站若依 SSTI Getshell实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MTQ5Ng==&mid=2247483752&idx=1&sn=2be60628aabdae297f61a3b54164fee1",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【漏洞复现】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485313&idx=1&sn=6339ca7d07f5bc90778af4ae0d03306b",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "PostHog承认Shai-Hulud 2.0是其有史以来最大的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797019&idx=2&sn=3a3cf689780002e2d57ba9a44a2c6042",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "高危 GeoServer 漏洞 (CVE-2025-58360) 允许未经身份验证的 XXE 进行文件窃取和 SSRF 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486059&idx=1&sn=40b840d2119c8213b94de08ad1d2b00f",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【漏洞情报】lsFusion服务器路径遍历漏洞分析：unpackFile函数的安全隐患",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485154&idx=1&sn=8b636318215c485e572349270e3dae90",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "分享一款综合型Java漏洞平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508503&idx=1&sn=3ec2111473c7841af78d6067e17f6e78",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484048&idx=1&sn=c8ca4f0f5312ead006dc6b3e3d8f7d54",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "带你走进渗透测试之js逆向大门第二篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484156&idx=1&sn=3a40d20b5c997a2601e661cf10fad648",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "开源漏洞扫描神器Sirius，Docker一键部署！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484477&idx=1&sn=d2532c6122892bc970ead82215a36e92",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "浏览器存储桶配置漏洞检测插件 | 更新！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495763&idx=1&sn=2d610a1ff78273ad74a650909a2b4bb0",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "Edu打法 | 某985证书站三个漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489231&idx=2&sn=249720f58f5a69d9d5d9917ec9f8a6ff",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "漏洞预警 | GeoServer XML外部实体注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495109&idx=1&sn=24deee998f3ee5ea4987914e6c8b1d24",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495109&idx=2&sn=e76c005b32f5015c42e21bb058dc3750",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495109&idx=3&sn=e9a170a9b442e84db1639b6d12f2d072",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    }
+]
