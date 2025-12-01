@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
