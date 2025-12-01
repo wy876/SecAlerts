@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483965&idx=1&sn=9a58fe1540071809eab7645387829ae8",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "CVE-2025-50168漏洞利用 PoC — Pwn2Own Berlin 2025-LPE（Windows 11）获奖漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533818&idx=1&sn=d8b00e112ab096e0ad129302caa94bce",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
