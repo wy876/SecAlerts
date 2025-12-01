@@ -364,5 +364,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494150&idx=1&sn=edfa97fc6d638e757cdd33592b810500",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "从 Cookie 同意到命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498740&idx=1&sn=567432168d99263e7d0f429f0ddb2617",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
