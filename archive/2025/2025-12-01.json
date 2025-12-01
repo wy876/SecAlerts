@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495109&idx=3&sn=e9a170a9b442e84db1639b6d12f2d072",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251201",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562886&idx=1&sn=29d4164cef7e654379ad0aa272eb8bc2",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【SSRF漏洞】云服务元数据利用分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489296&idx=1&sn=a761477cff48cb768c1b12bdf1bfe199",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
