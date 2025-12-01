@@ -328,5 +328,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484618&idx=2&sn=8573a2675fc4a737df80dd70f0920043",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "APP渗透测试标准化流程Checklist（2025版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267886&idx=1&sn=407b388df80ec3fbc9ddb8ff83c5cf88",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【Ai渗透神器】AiScan‑N Ai自动渗透测试 | 助力CTF网络安全大赛，开启智能防护新篇章",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486744&idx=1&sn=8a247f091498ada202e8b5ad987f3f14",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "2025最新AWVS/Acunetix-v25.11.25高级版更新漏洞扫描器下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496026&idx=1&sn=3f7fc3e77026986e5cfb1f39b832d49d",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "edu漏洞挖掘：统一门户的绕过拿下9rank高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486425&idx=1&sn=7afa5c9ad96cb32ea78f3a371f001377",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "星球优惠 | 最新RCE命令无回显利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497331&idx=1&sn=9b10e2e31d988d234c9106dc20206d1a",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "伊比利亚航空披露供应商安全漏洞导致客户数据泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494150&idx=1&sn=edfa97fc6d638e757cdd33592b810500",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
