@@ -262,5 +262,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496536&idx=2&sn=a5604ebf8176a3dc2d0fdf77633ad236",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "【已复现】Windows 11 管理员保护功能被绕过，可轻松获取管理员权限(CVE-2025-60718)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525342&idx=1&sn=0a93047a76f89e77ae5af07904491f9c",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【工具推荐】Java综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485553&idx=1&sn=cc738dd67d34696cf2f27a80cc6b4922",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "从侦查到利用：详解Windows共享漏洞的完整攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797462&idx=1&sn=cedb6212e5e54aa1603335798fb3a84c",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "200多个CVE漏洞遭利用，谷歌云OAST服务成复杂攻击活动跳板",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331416&idx=1&sn=b6775fc89fea0b34a05d123fa46b124d",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "CISA警告OpenPLC ScadaBR跨站脚本漏洞（CVE-2021-26829）正遭攻击者利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331416&idx=2&sn=ff5a6cd93e1e1aafa783ea5562bd862c",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "高危警报：Apache Kvrocks \\'RESET\\' 命令漏洞可获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331416&idx=3&sn=3807ed7fea9c7d971087d7c78e994052",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "微软Outlook高危零点击远程代码执行漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331416&idx=4&sn=45963fe6ed4783c7c948db01a3c463de",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "关于fastjson0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483965&idx=1&sn=9a58fe1540071809eab7645387829ae8",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
