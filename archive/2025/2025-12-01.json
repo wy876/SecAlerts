@@ -184,5 +184,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575911&idx=2&sn=1dc263d6261d90f0b17f0f2c791d3538",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "网络安全框架全景解读（上）：渗透测试与攻击建模",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247503014&idx=1&sn=bdf192212b26588a765b94d488b9c40f",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "文件上传漏洞全攻略：攻防与绕过实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247503014&idx=2&sn=f4bb88270fde374d1ab6b397e2511d31",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "APP 渗透测试技巧大汇总！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247503014&idx=3&sn=7577d914885850e5ba1ffed0220e001f",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "记一次简单的支付相关漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486105&idx=1&sn=f521abc88a0916c8884fddf3416b2f98",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "GeoServer 高危漏洞可导致未认证XXE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524561&idx=1&sn=746ba33a46d787d0443917a920872276",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "漏洞盒子十年：在线安全服务平台的演进与未来范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649769783&idx=1&sn=22ecc90787896dbac4c9964e76f6d26c",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "Outlook高危0点击漏洞PoC公开，无需交互即可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604640&idx=2&sn=5c18988c87f29aa71e037b8faa8bbddb",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "启明星辰出席第二届华为漏洞管理与应急响应技术大会",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735070&idx=2&sn=a9404bc75f0434c01630825d52e1ef82",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【已复现】Windows 11 管理员保护功能被绕过，可轻松获取管理员权限(CVE-2025-60718)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495450&idx=1&sn=19636105cd657be67f3e9073b8cb718e",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【高危漏洞预警】Tryton身份认证绕过漏洞(CVE-2025-66423)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491060&idx=1&sn=46448e21c30438a0aa0381769fd0eafa",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "技术分享|EXP能力升级（二）：还在手搓FTP？看Goby如何一键拿下服务依赖型漏洞shell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545861&idx=1&sn=d05699773dc9ff20d29276e7d77a16bb",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【免费领】求职宝典：渗透测试工程师面试题大全（含答案）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556855&idx=2&sn=35b589153116bfa6f4b9c5ebe26efb7b",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251124-20251130)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496536&idx=2&sn=a5604ebf8176a3dc2d0fdf77633ad236",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
