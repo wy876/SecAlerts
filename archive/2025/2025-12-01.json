@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491126&idx=1&sn=f2cdfddc477754f4181e8e6b29dee0a3",
         "source": "Doonsec",
         "date_added": "2025-12-01"
+    },
+    {
+        "title": "WhatsApp堵上了允许研究人员收集35亿个账户数据的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488507&idx=1&sn=3e1f8c547b116e3d6f0b4f85b72780f3",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "【1day】最新ruoyi 4.8.1模板注入RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
+    },
+    {
+        "title": "提示注入漏洞：2025年OWASP大语言模型（LLM）十大风险之首",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d",
+        "source": "Doonsec",
+        "date_added": "2025-12-01"
     }
 ]
