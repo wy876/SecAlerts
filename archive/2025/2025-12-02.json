@@ -88,5 +88,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495118&idx=3&sn=25a7bb2d3e4373e379e4acd99b2a56d2",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "Android 设备指纹攻防对抗：漏洞挖掘与风险环境检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523611&idx=1&sn=e9b2c41c39642a17ea371ba3c6bcca47",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "若依4.8.1SSTI绕过获取ShiroKey&RCE复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQyOTQxNQ==&mid=2247483848&idx=1&sn=af6380ad1a16db4b40007244ffd44e00",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "CVE-2025-64775：Apache Struts“文件泄漏”漏洞威胁磁盘空间耗尽",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486087&idx=1&sn=5567a0408963a68fb2b8fde0f3620e65",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
