@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzgyNTA3NA==&mid=2247484036&idx=1&sn=86c340ebc3fc97ace90da0c9c4c3d7c4",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "安全运营数字化笔记-“RedOps如何联动AI大模型生成热补丁填补漏洞修复空窗期的风险”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Mjg0NzA5Mw==&mid=2247494864&idx=1&sn=01860bbb5f6349852119105ac4a251fc",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "当漏洞赏金成为负担：如何在 Bug Bounty 的黑暗面中生存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508457&idx=1&sn=aa0697ce20edad3f3ddf9f4362b26792",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "一篇文章看完 Windows 所有 LOLBins 后渗透攻击方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504483&idx=2&sn=93d2f48cea4f9ba3d33a8b3d4e1a446f",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
