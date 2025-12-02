@@ -1,0 +1,92 @@
+[
+    {
+        "title": "若依4.8.1后台模板注入复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484771&idx=1&sn=2508d20c2180daafe6a99ad2bb0141f8",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "如何高效复现CVE漏洞并编写PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484314&idx=1&sn=46e806e3f668fd858287f02a56cb99a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "代码审计篇二-fastjson-1.2.24漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488644&idx=1&sn=313ac458fbe0c43b663f36995fc4e2ba",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "渗透测试工具箱框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613481&idx=4&sn=8096d81656009d2a90292860a86f07f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛-渗透测试初赛WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495310&idx=5&sn=29fdd64308f9b69858d51df26ec924f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "【漏洞情报】Revive Adserver反射型XSS漏洞分析（CVE-2025-55124）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485160&idx=1&sn=f2c1924d3a47010ac1879f075985e8f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "AWS SageMaker权限提升漏洞（附PoC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484767&idx=1&sn=287be00fa22d0aaf4f6ef9f06175a0ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "想进大厂做渗透？20 个高频渗透面试题必须会！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520835&idx=1&sn=473f9aff9194e39f67400eb96b64d65e",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "用友U8 Cloud系统VouchFormulaCopyAction方法SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489298&idx=1&sn=c19f9c63263ac383171112ab7b461121",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "Komo 综合资产收集和漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514878&idx=1&sn=79269c9959efcfe7ea51fe98f0b356f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "RondoDox：利用多漏洞入侵的挖矿与DDoS复合型僵尸网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDIzNTYwOA==&mid=2247490415&idx=1&sn=d04e5dfaad6c33e3105d00a11ec470ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "【网安吃瓜】未授权不要进行挖洞渗透，不然扯不明白的。。。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484510&idx=1&sn=07f6c75a136ed387301c3eefdd084eba",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "漏洞预警 | CIBELES AI任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495118&idx=1&sn=08492ad7c2cd587fa9eea9512f637403",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495118&idx=2&sn=8a219616328bb5d8e722f144db32196c",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "漏洞预警 | 锐明技术 Crocus系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495118&idx=3&sn=25a7bb2d3e4373e379e4acd99b2a56d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    }
+]
