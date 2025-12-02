@@ -106,5 +106,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486087&idx=1&sn=5567a0408963a68fb2b8fde0f3620e65",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "安全运营-命令执行告警AI辅助分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980054&idx=1&sn=437c72fc8696ba6db885c47d5b10903c",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "揭示汽车微处理器（MPU）中隐藏的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629187&idx=1&sn=d1fe72ef33d835b9167db835c69b43ad",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "RCE安全（三）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491142&idx=1&sn=90ca94b10be94bb0f87dddd5a1c826f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
