@@ -232,5 +232,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501841&idx=2&sn=15ff09014c387e3123a076dfff30ca8f",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "【漏洞预警】Zabbix OAuth任意文件读取漏洞CVE-2025-27232",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491065&idx=1&sn=660e412f809e157719f5365cc99e58eb",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604701&idx=1&sn=da4afd6579a54417d1ea5d199dd4f292",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "从C到Pwn：栈溢出漏洞利用实战入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604701&idx=2&sn=88b548d360e026b8d2ebc11d66d54240",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "安卓曝高危DoS漏洞及两个遭利用零日漏洞，请立即更新补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604701&idx=3&sn=c8c472c30c1e3e7a9a38dd3a152f27c6",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "记某微聊源码代码审计过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490633&idx=1&sn=d06e24f3a544c71765062be750e835b4",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247551586&idx=1&sn=0c943fe421d381fd768adeb954fc4d63",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
