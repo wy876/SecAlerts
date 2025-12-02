@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521530&idx=1&sn=77c6acb285240b1648fec2326698ece2",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "工具推荐 | Burpsuite漏洞扫描检测插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497338&idx=1&sn=a4b36650c42d4cad237b4af4d5bbfcfa",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "JeecgBoot 全场景漏洞检测工具，含 SQL 注入 / 命令执行 / 文件上传 20 + 漏洞|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496034&idx=1&sn=1b24b64d7eb63da7c91a4b6385d9cecc",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "安卓系统远程拒绝服务攻击漏洞的隐藏价值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183936&idx=1&sn=e03dda64f4583661ffc66b3d92a36e57",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
