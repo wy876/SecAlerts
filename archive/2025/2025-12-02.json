@@ -280,5 +280,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167291&idx=1&sn=f5644e9a3638a9879a4314df699d558d",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "重磅披露 | Water Gamayun APT组织利用MSC“邪恶双胞胎”漏洞发起定向攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486483&idx=1&sn=9a9b442c80efb3db4b07134e0d331cc0",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "扁鹊飞救智能急救与质控系统 GetMonitorList sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493461&idx=1&sn=fb73790d88342fd247488ce1206ec91b",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "CSPT漏洞是什么以及它如何结合其它漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521530&idx=1&sn=77c6acb285240b1648fec2326698ece2",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
