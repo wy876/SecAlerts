@@ -148,5 +148,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504483&idx=2&sn=93d2f48cea4f9ba3d33a8b3d4e1a446f",
         "source": "Doonsec",
         "date_added": "2025-12-02"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497040&idx=1&sn=4eaf152946d8484a7dfb0f76b09b49f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "西部数码NAS modUserName.php接口存在命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487392&idx=1&sn=998ad4b14c0946163e18e8501b8be647",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528661&idx=1&sn=ac87b0efc07c4a5dc6dcc440c8c4e58f",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541048&idx=1&sn=66e4d1e35af2639cc5070196f40d77ac",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "Outlook 零点击远程代码执行漏洞的 PoC 利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533831&idx=1&sn=9742eff71a4f6d0b5f72957c07fbb396",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "CVE-2025-61260 — OpenAI Codex CLI：通过项目本地配置进行命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533831&idx=2&sn=249f60b74d0250a8e452b915b05bb2f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
+    },
+    {
+        "title": "域渗透之Exchange打法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247486636&idx=1&sn=191ff562346cf2fe3bd3a19decd2d30b",
+        "source": "Doonsec",
+        "date_added": "2025-12-02"
     }
 ]
