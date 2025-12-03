@@ -1,0 +1,104 @@
+[
+    {
+        "title": "CNVD漏洞周报2025年第46期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500900&idx=1&sn=6174aa109eadff936a54c6169e7b554b",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "强推一个永久的渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247498314&idx=1&sn=73d4b32d19d665502e2e58d4ef3c76fd",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE(全JAVA版本绕过，附带POC)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzk5MTM2NA==&mid=2247484433&idx=1&sn=7505842ab9a9e8e3babcd88be28dcf81",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "200多个CVE漏洞遭利用，谷歌云OAST服务成复杂攻击活动跳板",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613490&idx=1&sn=f2b9864b9fd47ac3da4bc35db5c3aa65",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "当攻击速度快于补丁速度：2026年漏洞到底该如何补？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613490&idx=3&sn=3f1b35d0d8348d95211efdafea869242",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "Firefox WebAssembly 漏洞使 1.8 亿用户面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797052&idx=3&sn=ed2f9a6f3930e00b10edcebdbcd0faaa",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "高危 Angular 漏洞 (CVE-2025-66412) 允许通过 SVG 和 MathML 绕过进行存储型 XSS 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486103&idx=1&sn=c7ce35d8ffcc685864ee6767ff6f3402",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "「企业SRC」SQL排序注入&云安全Minio渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500514&idx=1&sn=9335cb84547b7e1fcb995707b3deaaac",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "APP 渗透测试技巧大汇总！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486427&idx=1&sn=9348659eb730b9a171e5365154203369",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞复现】骑士cms任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487406&idx=1&sn=2974ac94740e88b7ac74a6a7ba9458e0",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞情报】Backdrop CMS Host 标头注入漏洞 (CVE-2025-63828) 技术分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485168&idx=1&sn=8a398abb00860a82e0a4fc69f6812680",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【更新】水滴工具箱，集合各种渗透工具-v10",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508614&idx=1&sn=0cd9df2bee18ee053163095f9bc8c238",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "告别复杂命令！用AI聊天完成渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484485&idx=1&sn=394ca47531fa325230090e1182e2d2f1",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "漏洞预警 | AI Feeds任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495126&idx=1&sn=51acc99a704a6d38ff494122bf2bde78",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "漏洞预警 | 易达科技-ECMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495126&idx=2&sn=05944692e31ad569d0432b45371d8811",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495126&idx=3&sn=2a9f4b618c49dd9e432297140f9be616",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "工具 | Geoserver_gui_exp",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495126&idx=4&sn=c20f3af168b0ff254139a46c956dbfa1",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    }
+]
