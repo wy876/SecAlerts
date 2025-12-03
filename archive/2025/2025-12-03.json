@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485670&idx=1&sn=1804d068cd144e1eea04ec4470c1882e",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "警惕！Wireshark 漏洞遭畸形数据包攻击致崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538080&idx=4&sn=9d21fc44da46c1c2421981a7c79e90ad",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
