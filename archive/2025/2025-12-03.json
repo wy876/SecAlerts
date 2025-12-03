@@ -226,5 +226,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538080&idx=4&sn=9d21fc44da46c1c2421981a7c79e90ad",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】PDF-XChange Editor EMF功能越界读取漏洞(CVE-2025-58113)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486817&idx=1&sn=f7fc733d3742d64bffd8234fbe2ae22c",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】Django FilteredRelation SQL注入漏洞(CVE-2025-13372)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486817&idx=2&sn=971e9f577c629336982912004b05435d",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】CODESYS开发系统任意代码执行漏洞(CVE-2025-41700)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486817&idx=3&sn=a5be89096a602d75fef0e210adf4fb09",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】Entrust nShield设备固件未授权修改漏洞(CVE-2025-59695)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486817&idx=4&sn=075e638c0de1ba398994d08ff001b5b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】Upload.am WordPress插件任意选项信息披露漏洞(CVE-2025-12630)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486817&idx=5&sn=f7103f08bffd640e245d6cedcc4f6424",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】Windows Vim 路径劫持漏洞导致远程代码执行(CVE-2025-66476)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501847&idx=2&sn=acd12af7e344d6555ed6453e3fbd785d",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "微信安全警报：2025年末最新漏洞深度解析与防御指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODQzOTA5Mg==&mid=2247487026&idx=1&sn=ffd433333a0cd76bf543477220017a0b",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第48期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463897&idx=1&sn=41bcbcee07882c71ca1f7089318296bb",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
