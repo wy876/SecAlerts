@@ -148,5 +148,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248650&idx=1&sn=845b14a1358fd2a825523c7b02dc5f73",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "我如何通过 GraphQL 查询发现 1400 多个用户的个人身份信息 (PII)，并使用相同的逻辑发现了另外 5 个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508488&idx=1&sn=95704442e5baa2c5e575591d9eac64ea",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【已复现】Windows Vim 路径劫持漏洞(CVE-2025-66476)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504247&idx=1&sn=4b58dc11f129441af45662b414b90a9e",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "黑客渗透测试必备扫描利器：一文讲透Nmap",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167344&idx=1&sn=5fa2ac7b8de73fd2f25c14a8a93e0d6e",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "火狐浏览器高危漏洞影响约1.8亿用户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485135&idx=1&sn=72ff23ec623cf61edcc70185ed1586ca",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【已复现】Windows Vim 路径劫持漏洞(CVE-2025-66476)安全风险通告险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504242&idx=1&sn=0f81ceac7e09dcade58f7a2463c3436c",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "CVE-2025-6389 - WordPress 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488515&idx=1&sn=97d3b6cc5d37e2389d9114e7fab651f1",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
