@@ -340,5 +340,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495800&idx=1&sn=c59168da32a999aec01f6043b41ceac0",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "【安全圈】aaPanel（宝塔面板）数据库权限查询逻辑存在 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073023&idx=2&sn=d2056c788647c874cd8ebc8dffb274f9",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE(全JAVA版本绕过，附带POC)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493097&idx=1&sn=00cae1510687caddbffda3be29372c76",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
