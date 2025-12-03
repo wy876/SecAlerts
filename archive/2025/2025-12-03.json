@@ -100,5 +100,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495126&idx=4&sn=c20f3af168b0ff254139a46c956dbfa1",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "攻防技巧|红队快速高效挖掘.net系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523786&idx=1&sn=818b5ffcf8e05a72b1668e815e60f6c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "中国信息安全测评中心主任彭涛：共谱国家漏洞治理生态新篇章",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254376&idx=1&sn=60b98a6e111737559ac81e5dcbc32f23",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【CVE-2025-64755】如何在一个晚上发现 Claude Code 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262363&idx=1&sn=e011f90817aaf69bd8f15867d965ddc3",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "安卓渗透测试工具 -- AppMessenger（12月1日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517642&idx=1&sn=cb40ff68230fd0be95854a802ed4671f",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "华夏ERP 2.3 代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDAwMTU1Nw==&mid=2247484759&idx=1&sn=5140d3e0e99bbea328f3a8a8c172779a",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "安全热点回顾：热门CVE、npm蠕虫回归、Firefox RCE、M365邮件突袭及更多",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484319&idx=1&sn=73aeb5616499fee523477146c44109a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "GB/T 34944-2017《Java语言源代码漏洞测试规范》详细解读",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzUyNjU5Mg==&mid=2247486203&idx=1&sn=3303628582368f3bc22bb7b98dbd3f42",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "20年老协议仍威胁全球网络安全：黑客利用NTLM认证漏洞攻击Windows系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248650&idx=1&sn=845b14a1358fd2a825523c7b02dc5f73",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
