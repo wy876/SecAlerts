@@ -286,5 +286,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503619&idx=1&sn=75146f8f9692093f97adc3ce9044a748",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "Java代码审计 | RBAC管理系统审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjkwNTUwOA==&mid=2247484283&idx=1&sn=b9e721cd6777e9daf10b107cfd3c112c",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "SDC2025 议题回顾 | 不同芯片架构下的可信执行环境（TEE）安全漏洞研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604765&idx=1&sn=684d1b0ceaa34e63f3d276f6d9b7cb12",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "谷歌修复107个安卓漏洞，其中2个已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524571&idx=1&sn=877a0981b4dec19068dff6f479fce3b9",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "OpenAI 编程代理中高危漏洞可用于攻击开发人员",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524571&idx=2&sn=e4271fa2e064e2011e1b779ac929f05f",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "渗透成功率超94%！长亭科技AI自主渗透智能体再获“腾讯云黑客松”决赛冠军",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489133&idx=1&sn=236deb90d138ef4c87a20320a4f9fb9e",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "某edu的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486160&idx=1&sn=519654ed5ce119a74ce538e321804a74",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "渗透成功率超94%！长亭科技AI自主渗透智能体再获“腾讯云黑客松”决赛冠军",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389932&idx=2&sn=d789ead5739103b1d786b03df279581b",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛渗透组赛题解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486586&idx=1&sn=b2d7e1d6987cbd0423246a56476ea965",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "抖音电商反爬专测上线！漏洞奖金千元起步～",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495800&idx=1&sn=c59168da32a999aec01f6043b41ceac0",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
