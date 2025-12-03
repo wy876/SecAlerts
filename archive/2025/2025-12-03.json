@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491081&idx=3&sn=ae841300dca3afd2d1d7087065f1377a",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】CODESYS开发系统任意代码执行漏洞(CVE-2025-41700)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486816&idx=1&sn=29a9800abbccae142124c1a559f23eb4",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞通告】Entrust nShield设备固件未授权修改漏洞(CVE-2025-59695)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486815&idx=1&sn=c08de012cd9ae07cd1738a65c9f4cb06",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛渗透组赛题解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485670&idx=1&sn=1804d068cd144e1eea04ec4470c1882e",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
