@@ -184,5 +184,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488515&idx=1&sn=97d3b6cc5d37e2389d9114e7fab651f1",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "【漏洞复现】GeoServer XML外部实体注入漏洞(CVE-2025-58360)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491081&idx=1&sn=8951b1e4713ae6f45f894f842bfcb01f",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【高危漏洞预警】Windows Vim路径劫持漏洞CVE-2025-66476",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491081&idx=2&sn=942d69033b9491e0cfd0245f84095f10",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "【高危漏洞预警】Grav Web平台服务器端模板注入漏洞CVE-2025-66294",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491081&idx=3&sn=ae841300dca3afd2d1d7087065f1377a",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
