@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490575&idx=1&sn=3c1116c2140841d2a6f563feaf527933",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "红队专属集成化作战平台！一站式搞定资产测绘、小程序逆向、解密到漏洞利用全链路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496051&idx=1&sn=cacc6cf2eda03e9d3d2903c370d1ece3",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
+    },
+    {
+        "title": "漏洞复现 | 若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493109&idx=1&sn=ef5748494dc831691015f179401fbe5e",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
