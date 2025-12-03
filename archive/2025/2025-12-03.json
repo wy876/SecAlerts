@@ -364,5 +364,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528228&idx=1&sn=5a610339da98ef6a8ea4423a04ec8ce1",
         "source": "Doonsec",
         "date_added": "2025-12-03"
+    },
+    {
+        "title": "Rusty Pearl:Postgres 实例中的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490575&idx=1&sn=3c1116c2140841d2a6f563feaf527933",
+        "source": "Doonsec",
+        "date_added": "2025-12-03"
     }
 ]
