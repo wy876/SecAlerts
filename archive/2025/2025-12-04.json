@@ -382,5 +382,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492023&idx=1&sn=62a5cc629b00d88a4d3a2271a8e81b75",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞检测POC】React Server Components 远程代码执行漏洞 （CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247486996&idx=1&sn=0114dc6fd4caf21d5dda14e002a2df16",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "网传某框架核弹级！炸裂！惊天动地0day！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500638&idx=1&sn=a8f249c5c1915dfcb011d8c71a1c0546",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "CVE-2025-55182 RSC远程代码执行漏洞分析附nuclei检测模板",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485678&idx=1&sn=42ae01d91661da578e37c4f7480afe4f",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504535&idx=1&sn=170fb44c8dfeaeeb73076f8001a3fff9",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞检测POC】React Server Components 远程代码执行漏洞 （CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247486989&idx=1&sn=1653172db9f4ed2551c06774c7a8962e",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【复现+支持检测】React/Next.js远程代码执行漏洞（CVE-2025-55182/CVE-2025-66478）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489437&idx=1&sn=7f614ffd54ef7ad00b9119bafda9f9c7",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【年度最具影响力漏洞-POC】React Server Components 远程代码执行漏洞 （CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247486985&idx=1&sn=a5f4827849d9834bf7b494d96fafe1db",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "最新Next.js rce漏洞是核弹？实则跳蛋......无良公众号为了流量脸都不要",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492895&idx=1&sn=7660b9e0e75fc3e40e798f264c094378",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "注意升级|React、Next.js曝CVSS 10.0严重代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489294&idx=1&sn=76418c38cb97a2bb617fe2a450418c17",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
