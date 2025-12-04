@@ -1,0 +1,152 @@
+[
+    {
+        "title": "【有POC，已复现】React Server Components 多个远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064452&idx=1&sn=fbd5fa10f728f8921c29e12ee74dd1b3",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【核弹级】又一个类似log4J的核弹级漏洞出现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484302&idx=1&sn=31f5b0003bbd1e38e5290ed934d6e052",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【严重！已复现】React Server Components (CVE-2025-55182)远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516887&idx=1&sn=37159cfcf5788326fd194b5cad50c4c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "Windows 版 Vim 存在高危漏洞 (CVE-2025-66476)，可能导致攻击者从受感染的文件夹中执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486139&idx=1&sn=a99da58d89219d3c8a88d47970e97f8c",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【有POC，已复现】React Server Components 多个远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504269&idx=1&sn=a289b2cbc157a0de23d1fc5fc95e645a",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【立即处理】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064448&idx=1&sn=27b43a70927bde51e868a5923d072d84",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "Kubernetes攻防演练：十大安全漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485678&idx=1&sn=2fdcaddb6e41b9c23d2f4ebc1a547277",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "39% 的云环境存在最高严重级别的 React 漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797068&idx=2&sn=2e36bf2c8200259a18e53fce49a22b73",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495335&idx=4&sn=89da6a6cdffed8d84f67a0cc98281752",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "攻防技巧|红队快速高效挖掘.net系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486461&idx=1&sn=4eb40a7a630ecba403c3515e2b24e3ea",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞脚本】信呼OA openkqj Action SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487439&idx=1&sn=9b7ce8d6cc09e2b162e9af7e1baba292",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React Server Components存在远程代码执行漏洞(CVE-2025-55182 内附poc)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484647&idx=1&sn=a2590f3e7e3ade16fcbc6cb83f2b16f5",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "Azure APIM跨租户注册绕过漏洞（附检测工具）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484786&idx=1&sn=9e0ca3af47ea19169a052deded264eae",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "基于LLM增长的CodeQL漏洞检测框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486501&idx=1&sn=c436c3262a8a762f9b4e451a7b3adb8f",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "攻防技巧|红队快速高效挖掘.net系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247484008&idx=1&sn=3b619b5f558e2835d34ef99e79de4c80",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "已复现！React/Next.js 组件爆RCE 漏洞，建议立即排查",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507996&idx=1&sn=f8e078d87c5c21bc4438d844a52837e7",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【核弹级漏洞】React 与 Next.js 现高危 RCE 漏洞，CVSS 10.0！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484943&idx=1&sn=73038ab8b413522c3436a429cb6e5abd",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【立即处理】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629986&idx=1&sn=719838a3b79633137f19c7370f0053d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "近源渗透在红队实战中的落地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528559&idx=1&sn=7667262852e5d804ec35b733537b1241",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "一款面向安全研究人员、红队与蓝队的本地化漏洞情报聚合与分析工具。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495792&idx=1&sn=d3f2823a75786e5bfcdc975199236294",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495139&idx=1&sn=d5e581bc42362660080814ff0b06687a",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495139&idx=2&sn=2161cf527d9f4e32e8b3801d868ab7de",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495139&idx=3&sn=ea0ff505532f6973636dcfceb21c5114",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "红队快速高效挖掘.net系统漏洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515112&idx=1&sn=ee546124f8308c95acba298ab6b4a276",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "安全攻防 | 网络安全逆向工程：通过漏洞分析保护系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294964&idx=1&sn=2658568cad1dcaa068ea645b82f34eb7",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    }
+]
