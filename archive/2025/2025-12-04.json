@@ -664,5 +664,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247648091&idx=2&sn=ed8e8f5ee4844c62ab823fe4e0532ad2",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "从[CISCN2023初赛]DeserBug一题深入学习java反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODI1NjMyNQ==&mid=2247484800&idx=1&sn=9609d8b7068419d9fbd9fd82d40487c8",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞预警】核弹级漏洞 React RCE漏洞（CVE-2025-55182）含Poc",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484844&idx=1&sn=a4d7a23b1b33f3b7ac175aceef2bd9ae",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞通告】React/Next.js 远程命令执行漏洞 CVE-2025-55182/CVE-2025-66478",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524826&idx=1&sn=d18ec375b01544ede00a7d2f0c7d3837",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
