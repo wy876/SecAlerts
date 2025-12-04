@@ -460,5 +460,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzU5OTc1NA==&mid=2247484100&idx=1&sn=c40d589aee3105ae6ed4b72e9aa697c5",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞推送：CVE-2025-66478",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDIzNTYwOA==&mid=2247490424&idx=1&sn=50a495d42f547cc81f95445a17ef25ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTQyMzkyMg==&mid=2247484094&idx=1&sn=bfbbe4b69d91f757bb34c4d3296b951b",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【已复现】React Server Components 远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528572&idx=1&sn=db792eea764fdd7b2b04a4a949d047b5",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
