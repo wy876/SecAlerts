@@ -298,5 +298,89 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492016&idx=1&sn=523015e37462fd4e3c81b310ea755b75",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "TDP检测团队公开React漏洞检测规则与排查方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185216&idx=1&sn=203d00418fb5cdbbd5008e1720be6557",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "白盒渗透：VS Code + Burp 如何找到黑盒测试错过的 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508499&idx=1&sn=3810a518069a53922e8652e6ec51f9a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "俄APT 组织 Water Gamayun玩新套路！假 PDF 藏 Windows 漏洞，点一下 PowerShell 就被偷家",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487413&idx=1&sn=464694597929e117139544a8568e938a",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞通告｜React Server Components 远程代码执行漏洞（CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517700&idx=1&sn=d42de3f964dd067021c8cab0cf46c15c",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React/Next.js最新远程代码执行漏洞实际影响有限，仅影响近一年应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDMxMjgxMg==&mid=2247485120&idx=1&sn=146616ed0d3d1bcc72dd5382db5846e3",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "微软悄悄修复多年前就已遭利用的 LNK 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524584&idx=1&sn=c3b264a905dace804ae6937303f8f391",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "速修复！React满分漏洞同时影响 Next.js，可导致未认证RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524584&idx=2&sn=d601040ac12c82888e8edba633d2fc02",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞预警 | React/Next.js组件存在RCE漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487930&idx=1&sn=01b2a3c00194ebb460133b78940633da",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "CVE-2025-55182：React Server Components 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515646&idx=1&sn=550f90feaa0f3cd41ef90383691dcf27",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "[已复现]React CVE-2025-55182代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484785&idx=1&sn=25afbc0a15f2ba96b1bda7d8d5ba0dc5",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【附POC及复现环境】最新的核弹级漏洞！React/Next.js 组件远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485168&idx=1&sn=0368d9ce797d967c810ad13399e2821f",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "关于网传堪比log4j的CVE-2025-55182，利用价值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDU2MzAzNQ==&mid=2247487833&idx=1&sn=d15c5258dc5eeff1ddacb06d0bafb6c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "CVE-2025-55182 - React 服务器组件原型链漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODMwOTQ5MQ==&mid=2247485427&idx=1&sn=66c2892bd4c10b873f0947092fff250e",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "关于网传CVE-2025-55182，利用价值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492023&idx=1&sn=62a5cc629b00d88a4d3a2271a8e81b75",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
