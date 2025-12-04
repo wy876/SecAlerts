@@ -610,5 +610,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484707&idx=1&sn=16a7adb7775ae16a7ecde56cbbc90434",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "悬挂的指针、脆弱的内存──从一个未公开的漏洞到 Pixel 9 Pro 提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850291&idx=1&sn=4f9781a5441f3fe7bd2aa08597bef373",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【安全圈】aaPanel（宝塔面板）数据库权限查询逻辑存在 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073041&idx=1&sn=7f234047a883e6b1da1107344a18c530",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【安全圈】aaPanel（宝塔面板）数据库权限查询逻辑存在 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073041&idx=4&sn=1ce2b8f049342beec102ab2bc1e56e40",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "揭示汽车微处理器（MPU）中隐藏的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629219&idx=1&sn=86809cc2ff3857599426340fc999ad60",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React框架被曝最高危险等级漏洞，阿里云一键防护指南速览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331589&idx=2&sn=4f19655f492716a355a7b7fe3b7acfd0",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "核弹级漏洞：React与Next.js严重RSC漏洞可致未经认证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331589&idx=3&sn=3ccd221582e7696eacbfc2c0ace62649",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React框架被曝最高危险等级漏洞，阿里云一键防护指南速览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486381&idx=1&sn=153787d6906454c70ba0dc3252123d7c",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "攻防技巧|红队快速高效挖掘.net系统漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495075&idx=1&sn=3bfc20ad71f8437d8de84aedc77f7697",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
