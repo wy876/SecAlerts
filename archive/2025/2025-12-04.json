@@ -520,5 +520,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533848&idx=1&sn=d204090946c996bda6ff8243dd469f5d",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "【高危预警】React/Next.js 曝满分RCE漏洞，无需认证即可远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508429&idx=1&sn=fafea0029fbaab19dcc0e2201b67fb22",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "核弹级漏洞？请看CVE-2025-55182真实测验分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525404&idx=1&sn=2dc8af8b50a837c2875068cdb2b6037c",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【二次更新：通用利用受限，远程扫描方案】React 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODQ0ODkyNA==&mid=2247485097&idx=1&sn=f92b63febe31eef1f740574a43dd040d",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "核弹级漏洞？请看CVE-2025-55182真实测验分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545870&idx=1&sn=578883ef2e196b4608cdf6afb6b8ad1b",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
