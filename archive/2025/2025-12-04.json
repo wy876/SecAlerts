@@ -544,5 +544,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545870&idx=1&sn=578883ef2e196b4608cdf6afb6b8ad1b",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "React Server Components 远程代码执行漏洞来袭，网御星云提供优选解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204460&idx=1&sn=a63f9102606f9f4291afa3ef937b17e9",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React Server Components远程代码执行漏洞来袭，启明星辰提供解决方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735120&idx=1&sn=60e928bae63af9c3dac7dae6b79da971",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React框架被曝最高危险等级漏洞，阿里云一键防护指南速览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093549&idx=1&sn=7549e0ecd6bf414c6270aede60eca71b",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "EXIF解析缓冲区溢出漏洞分析与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604770&idx=1&sn=174d05be91d4dac9e2bfe20e7d389e50",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞情报】React Server Components 远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501483&idx=1&sn=ab38ad037d45ceb35a2309fb265eedbe",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "“运费险”变“致富经”？揭秘黑产如何把平台漏洞玩成印钞机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODQzOTA5Mg==&mid=2247487031&idx=1&sn=f352e3e4b99c7f655cbe8b57fe4fd4bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【免费领】杀手级渗透工具BurpSuite实战技术教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556893&idx=2&sn=96265e529e3620dc4214b176a8e8fafb",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【CVE-2025-55182】POC+一键开启靶场环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523756&idx=1&sn=d902c88cd27087c01244291072ff97b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "35亿用户数据告急！从WhatsApp漏洞看攻击面管理的不可缺失",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650626437&idx=1&sn=9116cbf3e0a23e06a99896d2106a168f",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞复现|【新】若依（4.8.1）后台SSTI漏洞致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485294&idx=1&sn=90e3957dc31b2593a38fbb822701b821",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "工具流教学：Gau + Uro + Dorking，一套组合拳挖到星巴克的XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484707&idx=1&sn=16a7adb7775ae16a7ecde56cbbc90434",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
