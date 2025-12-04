@@ -148,5 +148,155 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294964&idx=1&sn=2658568cad1dcaa068ea645b82f34eb7",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞速递 | 已复现 CVE-2025-55182 核弹级RCE漏洞（建议自查修复）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501581&idx=1&sn=f60fa198ca96d1028067379f27c8cd95",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "风险极高！React Server Components 披露 10 分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486877&idx=1&sn=55677982b9c55dba6f02d7265e73aa91",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【已复现】React Server Components 远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492991&idx=1&sn=195e26f28c4ba07246dc8c672e3fd602",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "信息安全漏洞月报（2025年11月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463913&idx=1&sn=eace37c584da23869f84e9168a9569ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【高危漏洞预警】React Server Components远程代码执行漏洞CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491088&idx=1&sn=377f0293d3466f16bd97755502406b58",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "巨洞复现：CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485559&idx=1&sn=e7b1aaabc7c574511648149723de49aa",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【复现】腾讯QQ JS注入漏洞，可被远程控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485952&idx=1&sn=892cc1f7ae36a94162647790b7978bce",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞预警】核弹级漏洞 React RCE漏洞（CVE-2025-55182）含Poc",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486764&idx=1&sn=9f4f0205cdeca537a5b05af9e2717ea1",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "紧急预警！React 爆 “核弹级” RCE 漏洞，CVSS 10.0 分，全球应用紧急升级！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484562&idx=1&sn=9344fbee08e9ee1266ca36da0af961af",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489300&idx=1&sn=a7b36afbb8c7f7541eb2a47b35fe1b00",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞通告】React Server Components 远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501853&idx=2&sn=7ce2cac64457a46e09b6f212c3556663",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修，已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486596&idx=1&sn=f91b81acb559241718e350ef960d2a46",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "React RCE (CVE-2025-55182)漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485949&idx=1&sn=20991c7d00ef06043d0a0fb69a33eddf",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "CVE-2025-55182 React/Next.js 组件爆RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484836&idx=1&sn=f0fc1059aaf931e125b263d59945f639",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修，已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzY1NzMwOA==&mid=2247483951&idx=1&sn=f7fe324dc700258cae1a172546b2ff05",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【已复现】React/Next.js 组件无条件 RCE 漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495466&idx=1&sn=39b8dbcb944514f9a15987e3ad405849",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【核弹级漏洞】React/Next.js 服务器组件远程代码执行漏洞 (CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490826&idx=1&sn=4b3d30b055bcc70a77230e4a9ea53eca",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修，已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485192&idx=1&sn=2ad2d2d5fb44d3a9ba0be21eac49fcd6",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修，已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDU2MzAzNQ==&mid=2247487825&idx=1&sn=7ad7296aea92e934ffa5d2bb458258f0",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "核弹级漏洞：React远程代码执行漏洞CVE-2025-55182，立即升级！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485957&idx=1&sn=c478075076e146f4e867ef8622b63e9d",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【有复现靶场】【有poc】React/Next.js 组件爆RCE 漏洞，建议立即排查",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486861&idx=1&sn=4c2bcf06e2f0e2e36409a1421e6ee457",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "漏洞预警 | React Server Components 多个远程代码执行(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484705&idx=1&sn=49c69c34a955203ed349cfcdee44b194",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修！已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490641&idx=1&sn=f6a8154bcee2ec6aa384aa7de0917faa",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "AI泡沫的致命漏洞：大模型不是真正的智能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248655&idx=1&sn=3c5f4f85b82093f7ed3c7f2ae8c215ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "大洞速修，已复现CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492016&idx=1&sn=523015e37462fd4e3c81b310ea755b75",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
