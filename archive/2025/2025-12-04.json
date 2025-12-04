@@ -682,5 +682,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524826&idx=1&sn=d18ec375b01544ede00a7d2f0c7d3837",
         "source": "Doonsec",
         "date_added": "2025-12-04"
+    },
+    {
+        "title": "假核弹：CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488910&idx=1&sn=c67990691ed4bb87c158057807e38712",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
+    },
+    {
+        "title": "【漏洞挖掘】业务响应状态码攻击面新思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521677&idx=1&sn=dc1c13a8adb29c54e2bbc12453dced76",
+        "source": "Doonsec",
+        "date_added": "2025-12-04"
     }
 ]
