@@ -886,5 +886,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 的解释和完整的 RCE PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【内网渗透】记首次内网靶场渗透-红日靶场1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
