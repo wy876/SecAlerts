@@ -580,5 +580,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTczNzM1Ng==&mid=2247485642&idx=1&sn=afc3e3d64c2df1e3d30849a17d002b28",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 |【React/Next.js漏洞后续】大语言模型编排工具dify存在RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487952&idx=1&sn=7577c4564ff3430603794f87a2f35b60",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 RCE  Next.js无条件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzQxMjQ4Ng==&mid=2247484257&idx=1&sn=24fd3eb8fb7cfa1c434e23c6102c7ff3",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "苹果超级漏洞实锤！官方播客 APP 竟成攻击突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538144&idx=2&sn=f35690cae5f8a576b6611caaf8b18777",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "谷歌云 OAST 翻车！200 多个 CVE 漏洞沦为攻击工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538144&idx=3&sn=9ec5251070f76d17857cf809a04848bf",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "紧急预警！CVE-2025-55182：React Server Components 远程代码执行漏洞来袭",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDc0MjUxMw==&mid=2247486510&idx=1&sn=941db44cca26b00be15ee16dac70fd07",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484331&idx=1&sn=26484b7c1718907fa8ea7dee2eb2c681",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞预警】React 和 Next.js 中的严重远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485336&idx=1&sn=ee5324f66e6093ded4633350ec3a129c",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "「\\\"Nextrap\\\"」开源框架安全事件分析：Next.js远程代码执行漏洞正在被黑灰产用于挖矿攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487723&idx=1&sn=447d3ac10eb3f1823cbebb7a49ab7da1",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "紧急预警！CVE-2025-55182：React Server Components 远程代码执行漏洞来袭",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDkxMjEyNw==&mid=2247484080&idx=1&sn=25fb97b6e261f38641fe0f10ffc99d25",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "「\\\"Nextrap\\\"」开源框架安全事件分析：Next.js远程代码执行漏洞正在被黑灰产用于挖矿攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzU4ODE5Mw==&mid=2247485826&idx=1&sn=bc3b88242456ff28d822de2e0925d9b4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
