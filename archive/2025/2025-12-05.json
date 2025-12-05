@@ -820,5 +820,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254692&idx=1&sn=ced051d3f2fd437a12a9ebd6d0498da5",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "REACT RCE CVE-2025-55182 复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React漏洞有感",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483800&idx=1&sn=a9e49aac5845dd67edec52413401d48b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
