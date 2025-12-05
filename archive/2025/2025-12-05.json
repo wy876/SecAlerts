@@ -640,5 +640,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzU4ODE5Mw==&mid=2247485826&idx=1&sn=bc3b88242456ff28d822de2e0925d9b4",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "【高危预警】Next.js Server Actions 曝出远程代码执行(RCE)漏洞，利用不善可导致服务器DOS！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3MzExMTk5Mw==&mid=2247484577&idx=1&sn=54e3826761a45a04fe09d8610df379c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React/Next.js RCE漏洞，Dify受直接影响，已验证！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487267&idx=1&sn=8ab9c8e8ec513f37a3a21e5d5a1791e3",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
