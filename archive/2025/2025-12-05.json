@@ -760,5 +760,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247500299&idx=1&sn=a6c93b3bc489eafdde8dfc959778dd5d",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "【处置手册】React/Next.js远程代码执行漏洞（CVE-2025-55182/CVE-2025-66478）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489458&idx=1&sn=b8d1d093a18a06d85074f785729bdc99",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "AI赋能EASM与MDR服务，React漏洞风险排查的最优解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489458&idx=2&sn=88878abfe7ae0df5e8e92b9a6e96010d",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "紧急｜已复现｜CVE-2025-55182漏洞全景分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDU2MzI1MA==&mid=2247485569&idx=1&sn=74fc106233461632ac111ebbacc32be5",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182：React Server Components",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQ3MTYxMA==&mid=2247484234&idx=1&sn=97cc567f40632d4a5cdd6d5edc5f7134",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "极危！覆盖面广！有关CVE-2025-55182漏洞分析与检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyNDkwNjQ5Ng==&mid=2247486130&idx=1&sn=37407e304bb73930d0ee805852ab801f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Dify已复现，速修（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488914&idx=1&sn=1027545ff7e0db022159ac215ba26c9f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "高危级Splunk漏洞：Windows文件权限配置错误导致本地提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331769&idx=3&sn=b9be04ec1f8fa8bfce8097e0b8b086ef",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
