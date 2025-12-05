@@ -520,5 +520,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484361&idx=1&sn=0e6417cc65406d5f0cafa22f81697d5d",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "记一次小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483850&idx=1&sn=604d33e9d145aa83458fcef780915f22",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js无条件RCE漏洞 - 浏览器插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTM5MTk0OA==&mid=2247496794&idx=1&sn=6edb134db950e296cc402dc088b8c7a5",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js & React 满分RCE漏洞 (CVSS 10.0) 现已公开（附PoC与自查工具）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495872&idx=1&sn=fdc625bf5e37979713634384ebe67b8c",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "想在网安大赛脱颖而出？渗透测试特训营是致胜密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTUyNjkwNA==&mid=2247484444&idx=1&sn=d390a4af5e98dd9caf18f50fda61eef5",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js（App Router）致命 RCE 预警 | CVE-2025-55182】在野安全风险紧急通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzIzNDExMA==&mid=2247486793&idx=1&sn=353a2e6814aff5e5e3172b2333e271af",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【已复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490369&idx=1&sn=e9f3dc4b8da4297067e8da2d3b814025",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "从“被动合规”到“主动运营”：漏洞风险例外管理机制实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541076&idx=2&sn=4ab92438f6d90356ed1c1feab3b53258",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 | React Server Components|Next.js远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488492&idx=1&sn=3fdbbc476cf72a2d842e4dea0d4d13f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js Server Actions RCE Vulnerability Analysis",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQ0MDc2Mg==&mid=2247484917&idx=1&sn=13816909948d6a230e9d0fa998ff1d5f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182，Dify+Umami需紧急防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTczNzM1Ng==&mid=2247485642&idx=1&sn=afc3e3d64c2df1e3d30849a17d002b28",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
