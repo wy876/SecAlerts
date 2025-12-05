@@ -424,5 +424,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489552&idx=1&sn=221abf26f331a992e2993fb539a172e6",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553411&idx=1&sn=c6cc79937d5faa38f482dc61d51e91ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 RCE最新利用，非垃圾洞~在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490703&idx=1&sn=1cec911670972262fabe76f75ff08c91",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 React next.js CVE-2025-55182 RCE漏洞  已复现（可回显）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247483910&idx=1&sn=033beb1fd04864438f7113cb34e7b986",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【Dify靶场】CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486867&idx=1&sn=fb06d77baf373e670f521cf5e7b88438",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "可回显exp，Next.js 0Click 核弹级 RCE： 通杀多个主流 AI 平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NjgzMDM3Mg==&mid=2247494407&idx=1&sn=3b5eb472794fec1a8f0b1105a3ee8be4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
