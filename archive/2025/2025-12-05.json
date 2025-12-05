@@ -724,5 +724,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507617&idx=1&sn=9a64ed18ff9ef62dc3e66b76b1ac6a8b",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "WebXR漏洞影响40亿Chromium用户，请立即更新浏览器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331769&idx=4&sn=99a3f10cc259b6668a0c62159704bd54",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "GitHub Actions 出现提示注入漏洞，影响财富500强公司",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524592&idx=1&sn=9908beba8dc24ac369a0fa794aaf3e72",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Cacti 高危漏洞可导致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524592&idx=2&sn=8aff82f7cd9318d952e1e19e57602fd6",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "满分RCE漏洞__Next.js！！poc全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485664&idx=1&sn=542f2c9867b3b3c0909874fb9e88ca01",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React高危漏洞，腾讯云全系安全产品一键防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528736&idx=1&sn=8c6561f3151382c0294a36410ce2c96a",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 的解释及完整 RCE PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247500299&idx=1&sn=a6c93b3bc489eafdde8dfc959778dd5d",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
