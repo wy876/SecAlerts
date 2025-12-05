@@ -298,5 +298,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "关于“核弹”漏洞的说明",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504537&idx=1&sn=5c75f706c2abcfa20d91cebaac70c766",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182-Next.js-RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485904&idx=1&sn=152b1c5204d51365728a3b2f52e6a9a7",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "RSC/next.js RCE 分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484653&idx=1&sn=81bedf7837af19589651535e596e7d81",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "RCE安全（四）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491193&idx=1&sn=5b8fb2ed51e403797b03baa39c597a8e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞预警】前端核弹级别漏洞 CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTEzMjc4OA==&mid=2247489249&idx=1&sn=8cddc0247fa7825e1ab72923f523ee26",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js RCE圈子版dddd已集成",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485472&idx=1&sn=12cd225e3c582b1239e650d73923ca32",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182-Next.js无条件RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞复现】nextjs、dify RCE payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "2025年十大软件漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485145&idx=1&sn=4340a9431c3338761817991dfd23e1e2",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
