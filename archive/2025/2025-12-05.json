@@ -802,5 +802,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331769&idx=3&sn=b9be04ec1f8fa8bfce8097e0b8b086ef",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "【小程序】记一次动态密钥加密的渗透测试(重发)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzg4ODQzOA==&mid=2247484869&idx=1&sn=ab60049588cb776b9b1e7b94a5c189a6",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js无条件RCE漏洞 - 浏览器插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525431&idx=1&sn=f485ce18c7aa69c3afa97fea90fbf3b1",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "专题·漏洞生态 | 统筹发展和安全 推进基础软硬件产品漏洞生态体系建设",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254692&idx=1&sn=ced051d3f2fd437a12a9ebd6d0498da5",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
