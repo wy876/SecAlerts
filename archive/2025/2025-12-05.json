@@ -400,5 +400,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508510&idx=1&sn=d30f25fc8bb6fe708a718e86e83e6831",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "NVIDIA Triton 服务器修复了两个高危拒绝服务攻击漏洞，可能导致关键人工智能推理功能中断",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486159&idx=1&sn=152a11e9199bbcdbf928518421015c20",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js（App Router）默认配置下存在远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495528&idx=1&sn=067b1d8f3c95d8852f1b722d5ab4b1e0",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "捕获在野利用！React漏洞无条件触发，通用规则可检出",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185281&idx=1&sn=6664f3249848140c49c2137ab5a3a279",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js 暴雷：CVE-2025-55182 无条件 RCE 漏洞预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489552&idx=1&sn=221abf26f331a992e2993fb539a172e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
