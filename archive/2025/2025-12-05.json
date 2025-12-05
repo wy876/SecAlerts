@@ -832,5 +832,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483800&idx=1&sn=a9e49aac5845dd67edec52413401d48b",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "React Server Components 远程RCE利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485194&idx=1&sn=59fca13a3b60537c046f9c6bb08c575e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React Server Components 远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "学员分享 | 我的 OSED 漏洞利用实战备考历程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525901&idx=1&sn=3e390077c15c453a0e61bd77ca3b1bf9",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "车联网漏洞挖掘方法及典型案例剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629235&idx=1&sn=24fa94fcec236e1d1775444e9103153b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182：React/Next.js RCE漏洞验证与分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
