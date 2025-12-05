@@ -166,5 +166,137 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183972&idx=1&sn=d2a4411d2ea14dbfb3f7f7af6ef02a28",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "西湖论剑2025决赛 IOT安全挑战 (漏洞挖掘部分) wp",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODQzMzkyOQ==&mid=2247484542&idx=1&sn=f2848ec67666899baae6eedefb75b852",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js无条件RCE可影响Dify",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488298&idx=1&sn=901a759e6c4bcecba02e15eda5a25214",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js CVE-2025-55182研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712632&idx=1&sn=c2a5c6b0b3fe635c3812f3e2304c0ae9",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【梆梆安全监测】 安全隐私合规监管趋势及漏洞风险报告（1109-1122）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136567&idx=1&sn=9120d6d92e3130ff5167b7c0f16e543b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "反转！dify将昨天的next.js跳蛋漏洞变为大漏洞！dify利用率较高！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492897&idx=1&sn=855a0644d0d0d09097a752e462c65238",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "前端圈的核弹: CVE-2025-55182 React/next.js 内存马的一些玩法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487754&idx=1&sn=72ed5ee33e0e652093785170ca3cd2ac",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js无条件RCE可影响Dify(带回显版本)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484346&idx=1&sn=3e0b1bcb07a1827d63f197e6eb9704be",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "[已复现]Next.js rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【注意！已公开】React Server Components存在远程代码执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Dify RCE漏洞预警（受Next.js影响）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484671&idx=1&sn=6c2924e546e855155861beba7798a965",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js RCE(CVE-2025-55182)漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞复现】React/Next.js RCE 漏洞（CVE-2025-55182）（含靶场搭建）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js RCE(CVE-2025-66478/CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "干掉AI！Next.js无条件RCE可影响Dify",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjIxMDU5OA==&mid=2247498745&idx=1&sn=0f0c913c88f4b71a2cc953c02c45f9b8",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【低危漏洞Tips】甲方乙方水漏洞之爆破账号锁定绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487351&idx=1&sn=d10badc9387eff4c8cf7e1e04297ac44",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "畅捷通TPlus SQL注入漏洞  附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "学院投稿-某系统组合拳前台RCE-模板注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487128&idx=1&sn=4837043d646b0f83a22d62a23fc2138f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493112&idx=1&sn=63972108a3e8fd25c90c20f340afc75e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "RSC/Next.js RCE漏洞高可信度检测方法(CVE-2025-55182 & CVE-2025-66478)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
