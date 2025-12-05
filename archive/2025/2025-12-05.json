@@ -868,5 +868,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "【已复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js RCE(CVE-2025-55182) POC和EXP(凑个热闹)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "新鲜出炉 | CVE-2025-66478打了一个小鬼子的站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
