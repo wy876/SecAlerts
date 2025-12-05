@@ -1,0 +1,170 @@
+[
+    {
+        "title": "React/Next.js 组件 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【复现】React Server Components远程代码执行漏洞(CVE-2025-55182)风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【成功复现】React Server Components远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "hessian反序列化利用工具 -- HessianExploit-tool（12月4日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517675&idx=1&sn=2ed3b17816712e3727d859f347119639",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087558&idx=1&sn=ea6968260ddc19f06b71074a84f39ee6",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Windows 版 Vim 存在漏洞，攻击者可利用该漏洞执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797081&idx=3&sn=76790ee74a38990a910a8635d3aa144c",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=1&sn=af71ae7d9601345863a4c4e87313ab5d",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "攻击者在暗网兜售iOS 26全链0Day漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=2&sn=631d2e405f22b26e2a6aeb5d9f2fa02b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞脚本】南昊网上阅卷系统 monitor 未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487440&idx=1&sn=50a93ed9da9f4f561485d73b3d6639c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "那个 Next.js 的漏洞是真无条件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485739&idx=1&sn=8a91948643d1ec75faf90a3cfa906646",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "第二届全国网络安全行业职业技能大赛渗透组赛题解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495340&idx=5&sn=56e99ebeb7798840390a591b424bce52",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【二次更新：通用利用受限，远程扫描方案】React 远程代码执行漏洞(CVE-2025-55182)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "代码审计篇三-fastjson1.2.47绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488678&idx=1&sn=53e588e457914bac068d0279f289c401",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "AI泡沫的致命漏洞：大模型不是真正的智能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550062&idx=1&sn=8248f5a81c6ab532c4255061fb62b781",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【漏洞情报】LangChain 提示模板注入漏洞详解：通过属性访问实现攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【CVE-2025-55182】漏洞情报员们疯狂的一天",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485680&idx=1&sn=3555dd6dccfd9786a0e7348222625bdb",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "20个任意文件下载漏洞挖掘技巧（附实战案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520843&idx=1&sn=85769b402985f9e63019a45c8b2fe0c1",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "QQ高危漏洞(QVD-2025-45847)复现，速查你的版本！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484582&idx=1&sn=50edbba2c1569331a725021b37b8783b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 | vLLM远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "抛弃鼠标点点点，run结束即可提交报告，REST API 渗透测试「全自动狙击枪」",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494139&idx=1&sn=48b941ed4b8c213733e8bcc3e38980f1",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=2&sn=e4000ea8b202f7e279b8fe55d3e17806",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【AI安全】漏洞！SSE+DNS 重绑定可远程监听 MCP 服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484147&idx=1&sn=d2e9432a1d3d2038cd553b0ee60503a9",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182漏洞批量检查工具（v2.0）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486440&idx=1&sn=8f6c7b9aa8cf5f6f616f565f5077aacf",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484180&idx=1&sn=52f281e0001beb168c96815ad4f0712d",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Intellexa联盟0day漏洞攻击不止：泄露分析揭全球监视黑幕",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183972&idx=1&sn=d2a4411d2ea14dbfb3f7f7af6ef02a28",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    }
+]
