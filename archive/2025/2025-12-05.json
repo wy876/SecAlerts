@@ -652,5 +652,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487267&idx=1&sn=8ab9c8e8ec513f37a3a21e5d5a1791e3",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "揭示AUTOSAR中隐藏的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247563724&idx=1&sn=e5cb38ae105397323681700b5309681e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "关于React Server Components存在远程代码执行漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496540&idx=1&sn=8ae3dd2daee466615da484b1ee44c286",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "黑客渗透测试Nmap NSE 脚本实战进阶：10 个常用脚本的深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167365&idx=1&sn=83794074e28c4fba591437201bba9cd2",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【已复现】CVE-2025-55182：Next.js RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484720&idx=1&sn=cdd8a3894b02daa48cfc124c04b30586",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【CVE-2025-27389】应用安装流程校验缺陷可能导致风险提示被绕过的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494582&idx=1&sn=821c6f69a681f0d0451418e2b24923b7",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "美智库报告：文化渗透的公私混合新模式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247488192&idx=1&sn=883bb0bafcb223fd0e0afb87eeb84136",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "一文教会你JAVA代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484329&idx=1&sn=dbcebd2b6ac2cf12b76a8a99b579892e",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React高危漏洞，腾讯云全系安全产品一键防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497064&idx=1&sn=3225bf0b198d43103d466e7b111658a3",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React曝出关键高危漏洞，长亭多款产品已实现升级防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489153&idx=2&sn=b5a6103b36c63f6ae72d36a4d673bd33",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "预警丨防范React服务端组件远程代码执行超危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175226&idx=2&sn=d7069eddd9e854b7d6ae12ea70ab0a91",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "超危漏洞通告|Next.js RCE 漏洞（CVE-2025-55182）[漏洞复现]",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485301&idx=1&sn=bdcd4d23171893e75bf89ae33c8a57bf",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "APT-C-53（Gamaredon）利用CVE-2025-8088进行网络钓鱼攻击活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507617&idx=1&sn=9a64ed18ff9ef62dc3e66b76b1ac6a8b",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
