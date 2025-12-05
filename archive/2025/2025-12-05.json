@@ -490,5 +490,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489332&idx=1&sn=e69b3c7bb33447f47463db427113bb46",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 React Server Components 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDQxMDE0NQ==&mid=2247485109&idx=1&sn=dc23475f93e76a685a1574e3685d9dd4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React/Next.js RCE漏洞（CVSS 10分，“核弹级”）处置SOP",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485149&idx=1&sn=85cb076cefcb81a1db968b99637c73e4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "【追更】已支持回显验证！新爆CVE-2025-55182 PoC可无条件利用，Dify受影响严重",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545884&idx=1&sn=014a0a852d2ff74e197c2bb25b01e928",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 React & Next.js React2Shell RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247504498&idx=1&sn=7f9ae4fabb98bf81b8236b9e3f1248b4",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "Next.js无条件RCE最全POC（有回显，无回显，内存马，反弹shell）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484361&idx=1&sn=0e6417cc65406d5f0cafa22f81697d5d",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
