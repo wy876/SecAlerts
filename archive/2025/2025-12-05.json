@@ -898,5 +898,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "CVE-2025-55182 Dify内存马二开加验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTcwNzEwOA==&mid=2247483823&idx=1&sn=2c90c76f6ce9294ac29c35c7fb8b63d0",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "覆盖全场景！Next.js RCE 多个 POC 合集整理：无/有回显/内存马/反弹 Shell|CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "华硕警告称：AiCloud路由器存在新的严重身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494209&idx=1&sn=da8c89ed66279b3d87cc14f08ec155be",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
+    },
+    {
+        "title": "React CVE-2025-55182 漏洞介绍与 AWD 靶场复现环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5MjIwNg==&mid=2247484076&idx=1&sn=242246f2cb9e905596517aed73367c7f",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
