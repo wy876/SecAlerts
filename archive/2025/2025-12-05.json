@@ -862,5 +862,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6",
         "source": "Doonsec",
         "date_added": "2025-12-05"
+    },
+    {
+        "title": "【已复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648",
+        "source": "Doonsec",
+        "date_added": "2025-12-05"
     }
 ]
