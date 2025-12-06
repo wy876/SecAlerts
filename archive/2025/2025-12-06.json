@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491208&idx=1&sn=eb549be8cbb614797b2ccd5c4ff227b6",
         "source": "Doonsec",
         "date_added": "2025-12-06"
+    },
+    {
+        "title": "帮管客CRM jiliyu接口存在SQL漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
     }
 ]
