@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed",
         "source": "Doonsec",
         "date_added": "2025-12-06"
+    },
+    {
+        "title": "[ad域渗透凭证获取]Microsoft 部署工具包敏感文件提取攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484629&idx=1&sn=04868ac1b834d84d80447f47b2f607f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "CVE-2025-55182-React以及DIFY利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491208&idx=1&sn=eb549be8cbb614797b2ccd5c4ff227b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
     }
 ]
