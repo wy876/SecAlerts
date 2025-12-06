@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391",
         "source": "Doonsec",
         "date_added": "2025-12-06"
+    },
+    {
+        "title": "CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
     }
 ]
