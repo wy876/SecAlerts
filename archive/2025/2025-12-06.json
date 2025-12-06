@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08",
         "source": "Doonsec",
         "date_added": "2025-12-06"
+    },
+    {
+        "title": "Cloudflare全球服务中断事件溯源：React漏洞修复适得其反",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331816&idx=2&sn=7936ebbb2ff0fc59a814790080075f07",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "FreeBuf周报 | 高通骁龙8 Gen3曝出高危漏洞；核弹级React远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331816&idx=3&sn=c98084779a9587e1a5eddb5e0137cb22",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
     }
 ]
