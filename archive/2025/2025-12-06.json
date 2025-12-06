@@ -1,0 +1,80 @@
+[
+    {
+        "title": "苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535241&idx=2&sn=df70383887e75bc6c07b71006478e191",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "助力企业应对React框架高危漏洞，阿里云多款安全产品限时免费",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093573&idx=1&sn=b31ea90e93229c485df8d16a88fd3f22",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "软件供应链安全再爆重大漏洞：React Server Components 远程代码执行事件解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650641037&idx=1&sn=717e46447adeb28d66611063c395c450",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "【小程序】记一次加密+防篡改+防重放的渗透测试(重发)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzg4ODQzOA==&mid=2247484871&idx=1&sn=0ef3544333f2b14416b91beb14e9b76c",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "【核弹级远程代码执行漏洞】 Next.js 无条件RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501575&idx=1&sn=da397a2257e3d621da68fe3d0b271849",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "一款面向安全研究人员、红队与蓝队的本地化漏洞情报聚合与分析工具。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613535&idx=4&sn=a15adbeb2b093d4e4b1ba21359ab104b",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "React 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485150&idx=1&sn=0923a9cc7d38bc614bc76db7c2d3c997",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "关于React Server Components存在远程代码执行漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NzczMDg4Mg==&mid=2247483983&idx=1&sn=839bce131c32e2303517ec4c7365b23d",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "漏洞速递 | 已复现 CVE-2025-55182 RCE漏洞（建议自查修复）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485690&idx=1&sn=cfd58207cfb82ff071a776ff3c1c48ed",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "【JAVA代审】小智ESP32管理平台代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487719&idx=1&sn=b00d49bb121e56765ddc4c4131dcab94",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495195&idx=1&sn=3192255f30e9cefb6e7201c50e625984",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "CVE-2025-55182 Next.js漏洞检测插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489281&idx=1&sn=f4d8a8e9d188c3678ca32194dde6a6cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    },
+    {
+        "title": "React && Next.js && Dify RCE（RND2Shell）Checker（v1.0）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486451&idx=1&sn=44c99e9287c2bfcbc27a2f639973d354",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
+    }
+]
