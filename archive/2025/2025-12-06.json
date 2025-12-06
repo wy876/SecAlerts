@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486539&idx=1&sn=20c96aff16c91e7544c16809d38e35e0",
         "source": "Doonsec",
         "date_added": "2025-12-06"
+    },
+    {
+        "title": "【复现】React服务器组件 - 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed",
+        "source": "Doonsec",
+        "date_added": "2025-12-06"
     }
 ]
