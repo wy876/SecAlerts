@@ -1,0 +1,98 @@
+[
+    {
+        "title": "启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞（CVE-2025-47372）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=2&sn=844ff30945c4be31bb51532692996474",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "从对抗到出洞：某金融APP 实战渗透与 Frida 反检测绕过（Rpc + Flask + AutoDecoder）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=3&sn=e30a4f6b584713edc903bacc979dd160",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "图形化渗透测试辅助工具AuxTools | 更新-5.8.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=4&sn=f51d1e77dc9b5f427d0035b821259c02",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【0day】泛微OA从历史漏洞到全新0day，附EXP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486554&idx=1&sn=cb18f3b4b1b2c2775ab3f48b6a2d86dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "React/Next.js RCE漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "信息安全漏洞周报【第050期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064470&idx=1&sn=4ed4d45e68d204dd3e2be64ab87595ae",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "智能渗透系统“黑曜石”：AI驱动的下一代网络安全测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452515040&idx=1&sn=ca5f177bb74b278e3eb3c10bce034501",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【漏洞复现】React(next.js)远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494242&idx=1&sn=9d8db6f1a5a827450be7f05b495edafd",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "Next.js RCE（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Mjk3MDA5Ng==&mid=2247486626&idx=1&sn=bf57ceb215310f854948c18f36ba61ba",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "React Server Components命令执行漏洞-react2shell-scanner扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486773&idx=1&sn=7d5ae5792fb1fc34485c9b0a493b4caf",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "让Trae全自主学习开发近期爆出的React RCE漏洞靶场并自主利用验证（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODQyMjgwNg==&mid=2247485783&idx=1&sn=478458527537b3408c2d703745959626",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "美特CRM druid组件 未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493478&idx=1&sn=d5e20d06528ccb02d4051ace2bf39541",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【安全圈】React Server Components 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073071&idx=3&sn=ff648efa97dae6e980b00152ee2d6763",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "Iptime漏洞分析，未授权、未授权修改账号密码、远程调试(后门)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485944&idx=1&sn=5d02a7658f894eb04e36d94c543e73b7",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "念古诗绕过AI安全护栏：25款顶尖模型栽跟头，模糊语义成安全大漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331816&idx=1&sn=f1c70f8695bdf5bc557b9a36459b7e91",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    }
+]
