@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492538&idx=1&sn=fc886058323f7d23414ab5e734f8f8ee",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "【JAVA代审】小智ESP32管理平台代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493116&idx=1&sn=4bf55fd56cf18b960a05a4dd5ed2e593",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "CVE-2025-55182 Next.js Server Actions RCE Vulnerability Analysis",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mjk4NjgxMg==&mid=2247483811&idx=1&sn=5cb349f959bd6fb3a1d44c8513fe1e50",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
