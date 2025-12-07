@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487785&idx=1&sn=ae447bb4a6240c2d1808f9a91a13a4fb",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "CVE-2025-23358 Windows版 NVIDIA APP 提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzY5MzI3Mg==&mid=2247484021&idx=1&sn=7b75852cb1c8dc6583b5617dd990417d",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
