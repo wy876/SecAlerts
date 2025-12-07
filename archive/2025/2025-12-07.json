@@ -172,5 +172,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483816&idx=1&sn=1ff5273b0744dace5620e169fc788c38",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "215万台运行Next.js的Web服务暴露于互联网，CVSS10分漏洞需紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331842&idx=1&sn=1f7220c88577f037a95925bae76b0997",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "Cursor等AI编程工具曝30余项漏洞，可导致数据窃取与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331842&idx=2&sn=b2b555d37c8629fcdad2e7d8ce2e4134",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "每周PDF资源：苹果锁屏漏洞探究；Javassist代码审计关键点实践；网络安全实验教程；计算机病毒揭秘与对抗，网络防卫计划",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331842&idx=3&sn=972e374404552be6f5b67e2a8c06950d",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "汉王EFaceGO wxLogin.do 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493494&idx=1&sn=8ab1eb28894cb7c27f462c4948eea121",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
