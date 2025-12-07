@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485186&idx=1&sn=748b7d0c876a930cff73ac5534ba89db",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "React 服务器组件飞行协议反序列化远程代码执行漏洞 (CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533866&idx=1&sn=f4c26307de54a5ac885678fda58598d9",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
