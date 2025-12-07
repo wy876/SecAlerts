@@ -154,5 +154,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485340&idx=1&sn=4591f7f295b4d9eeb6d56d8609a64ef6",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "Dscan：全方位自动化攻击面管理与漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485322&idx=1&sn=9d861f81f9d0c2a3af8260651bddf942",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【网络安全】目录索引漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521480&idx=1&sn=d6700e214daf4533a1d2d16660da0bbb",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "CyberStrikeAI新增fofa_search MCP，自然语言一键搞定靶场发现与漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483816&idx=1&sn=1ff5273b0744dace5620e169fc788c38",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
