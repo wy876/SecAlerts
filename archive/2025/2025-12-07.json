@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331816&idx=1&sn=f1c70f8695bdf5bc557b9a36459b7e91",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "] [探索·向上！极客公园 2025 年度「InnoForce 50」发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653093477&idx=1&sn=cae657d45f2770190637dedb4223124d",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "漏洞复现|QQ Windows客户端存在跨站脚本（XSS）漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485309&idx=1&sn=f9e334e988aa390362c5d86f16f34b41",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "Dify Next.js CVE-2025-55182 RCE漏洞本地复现详细版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485186&idx=1&sn=748b7d0c876a930cff73ac5534ba89db",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
