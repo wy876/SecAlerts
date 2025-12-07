@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533866&idx=1&sn=f4c26307de54a5ac885678fda58598d9",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "人工深度调试剖析 CVE-2025-55182 React4Shell 反序列化漏洞（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492538&idx=1&sn=fc886058323f7d23414ab5e734f8f8ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
