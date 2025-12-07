@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493494&idx=1&sn=8ab1eb28894cb7c27f462c4948eea121",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "把 RSC 放进容器里：从 React2Shell 到 Next.js RCE 的一次远程执行完整复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487785&idx=1&sn=ae447bb4a6240c2d1808f9a91a13a4fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
