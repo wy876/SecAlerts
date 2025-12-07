@@ -136,5 +136,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mjk4NjgxMg==&mid=2247483811&idx=1&sn=5cb349f959bd6fb3a1d44c8513fe1e50",
         "source": "Doonsec",
         "date_added": "2025-12-07"
+    },
+    {
+        "title": "【漏洞检测POC】React Server Components RCE（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487035&idx=1&sn=b1e9e1e5d66e73622ee446ddacc3b3dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【漏洞检测POC】React Server Components RCE（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487032&idx=1&sn=ee1f9872e27db431a4c75da2c810c046",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
+    },
+    {
+        "title": "【紧急提醒】React 与 Next.js 爆出安全漏洞，近期项目几乎全中招！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485340&idx=1&sn=4591f7f295b4d9eeb6d56d8609a64ef6",
+        "source": "Doonsec",
+        "date_added": "2025-12-07"
     }
 ]
