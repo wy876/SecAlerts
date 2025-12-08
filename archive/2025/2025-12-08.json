@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496556&idx=2&sn=46f75ba780134844babc057455566d4d",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493381&idx=1&sn=3adfd4b5af08ce906534d72407a8cab7",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "速修复！Apache Tika 中存在严重的满分XXE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524600&idx=1&sn=fe09ca1df38ec9061341a2100567e69b",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "众多AI 编程工具存在30+漏洞，可导致数据被盗和RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524600&idx=2&sn=10cbb52355fe219ed945912fcd54a0fd",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
