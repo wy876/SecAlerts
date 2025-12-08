@@ -1,0 +1,32 @@
+[
+    {
+        "title": "小程序渗透测试，只有一个页面？以及关联通杀方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492042&idx=1&sn=1cf77918c10296444510f9db5ad3363c",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【漏洞脚本】飞企互联FE业务协作平台 attachment 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487442&idx=1&sn=f8542a6ece7d67bc44d36ed35778e774",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "React2Shell漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797091&idx=3&sn=1ae2472bf108cc1efc3f30df801d6dd7",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "lz4-java 高危漏洞 (CVE-2025-66566) 在解压缩过程中泄漏未初始化的内存",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486179&idx=1&sn=7ca4c0ad626867fa26e8bf785789d9df",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "AI自动化渗透2024年的一些经验",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzA5OTYzNw==&mid=2247484755&idx=1&sn=3567aa7404f68af71bca68aba4739375",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    }
+]
