@@ -370,5 +370,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495877&idx=1&sn=c2107028bbc3080b66ae8458e5184a00",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "用友NC漏洞剖析，从Nday到1day的攻防实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484748&idx=1&sn=dd3ee5b458a51e3ca51e5a9699445484",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【已复现】Apache Tika XML外部实体注入漏洞(CVE-2025-66516)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064475&idx=1&sn=fb2696f77b4d231e2012f72b43fe9c18",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "孚盟云 GetIcon.aspx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493510&idx=1&sn=eef895948cb685d02f08df3d3ea1bb98",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
