@@ -394,5 +394,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493015&idx=1&sn=eb784e9dbb0e5d0e4f4c27f190996930",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496148&idx=1&sn=cbf5fa6f83636ba1b7147b0571367f99",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【网络安全】CSRF跨站请求伪造漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521502&idx=1&sn=df493ce3a0cd6937056e679ea80a58aa",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "React(next.js)存在远程命令执行漏洞CVE-2025-55182CVE-2025-55182 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489649&idx=1&sn=a83b6d0950f3777e3f8050bcd4af52f5",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
