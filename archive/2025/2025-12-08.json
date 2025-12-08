@@ -46,5 +46,131 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901676&idx=3&sn=b9319ee66bb490b24d1709692ad604f9",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "SSReportTools - 安服/渗透测试报告生成工具 - 2.0版本发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTUxMjA3OA==&mid=2247483803&idx=1&sn=4b41c1940bfe2524eb9be3bc91b59e7f",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【已复现】Apache Tika XXE注入漏洞(CVE-2025-66516)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495538&idx=1&sn=a71c57042550b1f29ed4173ea0173ded",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "张辽奇谋智御\\\"两高一弱\\\"之洞察高危漏洞 严防趁虚而入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247570662&idx=1&sn=7b37ef17c1c5b832eaed81e7bd5488ea",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "安全动态回顾|国家网络安全通报中心：重点防范境外恶意网址和恶意IP 黑客利用WordPress扩展插件高危漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585760&idx=2&sn=fd8c8671593a86c7dedc53e47231c32a",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "今日零日漏洞内幕：基础设施、镜像和暴露模式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533884&idx=1&sn=c4b48a93708c6443df9eac664f44a8bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "RCE安全（五）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491214&idx=1&sn=5bde0ab06db5202ddb15caa4e43a57d9",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "RedAgent：AI驱动的全自动渗透测试桌面神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485330&idx=1&sn=7dcfee465baec02ee229fcc8eb846f6e",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "CVE-2025-55182-React 服务器组件原型链漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484122&idx=1&sn=c3052e34597df2dbf915425a37f6b573",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "铭飞CMS SQL注入漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484031&idx=1&sn=5523eef6b6b18b96f5c02f0efacdf7ca",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "浏览器存储桶配置漏洞检测插件 | 更新！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613552&idx=4&sn=30926dc058671a1d894eb0750b24975f",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "又一个10分漏洞：Apache Tika 存在严重 XXE 漏洞 CVE-2025-66516",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797091&idx=2&sn=fb77da3b35bea70c95f2923db55d34c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "网络安全周刊#26：React Server Components中的CVE-2025-55182（React2Shell）漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489601&idx=1&sn=91eb2e93324f79d37a7271e1fcea41d7",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "React 19 满分漏洞下，雷池 WAF 的“未受影响”，藏着全栈安全的答案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517683&idx=1&sn=1337c9d2807465416b38233df48d9560",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "致命精准的渗透测试利器 · 专为红队打造的集成化安全平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515173&idx=1&sn=1a11a4f6c163eaa274d46b9b4d5a3f98",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495169&idx=1&sn=964f33bd92e0ba6a83f5ade6cacf5ce0",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495169&idx=2&sn=1747334361ea0078534c2a0cec3b397b",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495169&idx=3&sn=180221bdb192f4c77de1fc7d19e80fc1",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "渗透测试遇到抽象js加密之实战逆向",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484178&idx=1&sn=b227cfb59adb8765da98c9415aa2fc28",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "一款Next.jsRCE漏洞检测工具，这款Chrome扩展让Next.js App Router无处遁形",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484747&idx=1&sn=a7bfbc10d3a3e201f75e47bca47420f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "利用TP-Link AX10路由器中的零日漏洞（CVE-2025-9961）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488617&idx=1&sn=01c046f9fcaf68675d144fd850a14797",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "工具推荐 | 图形化渗透测试辅助工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497376&idx=1&sn=30054c033f0e0155b566c01e5ac5014f",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
