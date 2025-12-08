@@ -214,5 +214,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487636&idx=1&sn=f0db4f7af881e2d5f49bd02e16d41c70",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "我是如何发现奔驰车中一个关键的 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691406&idx=1&sn=1d39be885b0a407c627065b49f7a524a",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【已复现】Apache Tika XML外部实体注入漏洞(CVE-2025-66516)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504309&idx=1&sn=4d4845766d1d86334361a69319addc8a",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【WordPress专题05】CVE-2025-11499前台文件上传漏洞 全网首发POC及漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485207&idx=1&sn=d3a4f5828ccfbb2f68c39c6ce69f7bcf",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "ruoyi最新版本4.8.1命令执行链和获取shiro key利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247483946&idx=1&sn=1c68e4d6b3ae226e0453e7eb0606206a",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【漏洞通告】XWiki Details Summary宏远程代码执行漏洞(CVE-2025-65036)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501868&idx=2&sn=f6ca712d8c23027a85225fe9097bf45d",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538205&idx=4&sn=b0d1e8cde5822dc3fdcef26f33243a3f",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "渗透神器 AuxTools 更新！5.8.0 图形化辅助更能打",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538205&idx=5&sn=52409008bc2105a5fd62eeabfcf47d33",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Tika XXE漏洞CVE-2025-66516",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491102&idx=1&sn=0946bd92339296e19f40c2c6ba6d787c",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
