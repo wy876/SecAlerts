@@ -322,5 +322,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524600&idx=2&sn=10cbb52355fe219ed945912fcd54a0fd",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "[CVE code Trace]CVE-2025-55182 react code sink trace",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484665&idx=1&sn=14d6e2e806acac8b766a71cb86865dca",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "闹麻了，Dify漏洞没修完整，被挖矿的小哥：我谢谢啊",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484534&idx=1&sn=94d82f9fead14e87fcee8f7f26c111f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "5天近百万次！Reactxa0RCE漏洞正在被大范围利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508037&idx=1&sn=1457472b23bedbbac0bcb58a395ba2a4",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【安全圈】微软修复Windows LNK 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073104&idx=4&sn=d33462008b57bbbbd606c325b3923f15",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
