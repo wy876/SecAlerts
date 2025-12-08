@@ -262,5 +262,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491102&idx=1&sn=0946bd92339296e19f40c2c6ba6d787c",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "每周网安资讯 （12.2-12.8）| Linux Linux_kernel存在竞争条件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507304&idx=1&sn=da1a6c7e37a02f20a0f6233b8a843975",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "专题·漏洞生态 | 基础电信企业漏洞管理面临的挑战与应对之策",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254831&idx=1&sn=b0e83230e26149358b096a3c5f49eb42",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "【网络安全】目录遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521493&idx=1&sn=0c0e7615a4c2554999ffc3e0cb2815ec",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "CNCERT：关于React Server Components存在远程代码执行漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515305&idx=2&sn=90c2cfd9ff04c23d553318f6709f52fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "从CVE复现看栈溢出漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556938&idx=1&sn=3e8a4877711b4ec0e4891020d9668c9f",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第47期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496556&idx=1&sn=950c38b98041331ffc86f75d2b526067",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251201-20251207)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496556&idx=2&sn=46f75ba780134844babc057455566d4d",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
