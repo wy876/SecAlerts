@@ -388,5 +388,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493510&idx=1&sn=eef895948cb685d02f08df3d3ea1bb98",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "【红队渗透手册】100个sql注入Payload，（非常全，无任何废话版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493015&idx=1&sn=eb784e9dbb0e5d0e4f4c27f190996930",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
