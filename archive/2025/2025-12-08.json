@@ -28,5 +28,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzA5OTYzNw==&mid=2247484755&idx=1&sn=3567aa7404f68af71bca68aba4739375",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "Next.js rce注入内存马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484806&idx=1&sn=cfa145dc750bf73ee921c4e228eb83fa",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "想进大厂做渗透？20 个高频渗透面试题必须会！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613552&idx=3&sn=481ed77d3f08a58df7c78fb9bffaf7e7",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "还在用正则做鉴权？Oracle 这个 0-day 漏洞教做人，Groovy 编译期也能执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901676&idx=3&sn=b9319ee66bb490b24d1709692ad604f9",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
