@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497376&idx=1&sn=30054c033f0e0155b566c01e5ac5014f",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "AI驱动的自主渗透测试平台 CyberStrikeAI",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486697&idx=1&sn=9d3dc260aa5c9d8473141b45634f98c7",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489302&idx=1&sn=f46ca3d3db74b589da26a96293bedb27",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
