@@ -346,5 +346,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073104&idx=4&sn=d33462008b57bbbbd606c325b3923f15",
         "source": "Doonsec",
         "date_added": "2025-12-08"
+    },
+    {
+        "title": "Dscan：全方位自动化攻击面管理与漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331879&idx=1&sn=0749ea8f4e08b5e5f4fc12cff241b4fd",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "Next.js发布扫描工具，可检测并修复受React2Shell漏洞影响的应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331879&idx=2&sn=cf79186c77bbc4ed43e5bb14b7962893",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "高危lz4-java漏洞可能导致敏感数据泄露（CVE-2025-66566）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331879&idx=4&sn=334f57f901c649f97da439a2d2093f7d",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
+    },
+    {
+        "title": "Dscan：全方位自动化攻击面管理与漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247495877&idx=1&sn=c2107028bbc3080b66ae8458e5184a00",
+        "source": "Doonsec",
+        "date_added": "2025-12-08"
     }
 ]
