@@ -280,5 +280,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528384&idx=1&sn=4609e43f80479bafb225b2a2df9f6d63",
         "source": "Doonsec",
         "date_added": "2025-12-09"
+    },
+    {
+        "title": "如何发现 OpenAI Atlas的 OAuth泄漏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484771&idx=1&sn=8b73c59b002e8806d4a1b046e3b5119e",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【漏洞检测脚本】Apache Tika XXE注入漏洞(CVE-2025-66516)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487041&idx=1&sn=2b8e989c46e053219ee2fe6425a939a0",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【论文速读】| PBFuzz：面向漏洞利用证明生成的智能体引导定向模糊测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497515&idx=1&sn=03677a721924d883e7dfa87a659bc19e",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【免费领】网安大神作业本：渗透APT攻击与防御实战全笔记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556945&idx=2&sn=61baa868b7251bc2674314ed51698592",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "网安高手不挖漏洞，改薅游戏道具了？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490983&idx=1&sn=0992510556a1e9a5ddd1b27b1a30de3c",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【漏洞通告】Apache Tika XML外部实体注入漏洞(CVE-2025-66516)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501875&idx=2&sn=df4e4684809da82803b9ab969b34aa92",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "聚焦软件供应链安全： JAR包安全态势及开源组件包漏洞查询一站式方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541090&idx=2&sn=dacecaa8471655e681a91d8a4d2027b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
     }
 ]
