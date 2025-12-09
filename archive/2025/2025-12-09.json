@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489296&idx=1&sn=b65601dcdcb8aa6287391db2a4a0cade",
         "source": "Doonsec",
         "date_added": "2025-12-09"
+    },
+    {
+        "title": "WordPress 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484037&idx=1&sn=1148cf3e54367dc747f76a40b07f75be",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "从对抗到出洞：某金融APP 实战渗透与 Frida 反检测绕过（Rpc + Flask + AutoDecoder）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248668&idx=1&sn=02e26c12fb6f35e8ab778d64f5bea62a",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
     }
 ]
