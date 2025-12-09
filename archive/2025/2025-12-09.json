@@ -322,5 +322,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541090&idx=2&sn=dacecaa8471655e681a91d8a4d2027b6",
         "source": "Doonsec",
         "date_added": "2025-12-09"
+    },
+    {
+        "title": "Apache Tika严重漏洞导致XXE注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120077&idx=2&sn=631ff770e27ffc8de282012a0ea9498d",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【网络安全】JSONP跨站劫持漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521509&idx=1&sn=aa1636143a22df4b0df1092434aa51fa",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "ARL 灯塔平替！集成资产/Nuclei漏洞/任务调度等的一站式自动化安全扫描平台(2025-12-09)更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496168&idx=1&sn=e04e8a9cd91ab99aae2f27c8032f7f7b",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
     }
 ]
