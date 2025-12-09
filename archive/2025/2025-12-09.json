@@ -88,5 +88,125 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248668&idx=1&sn=02e26c12fb6f35e8ab778d64f5bea62a",
         "source": "Doonsec",
         "date_added": "2025-12-09"
+    },
+    {
+        "title": "fix-react2shell-next——一个命令来修复应用程序中的CVE-2025-66478",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODA3NjAzNg==&mid=2247485154&idx=1&sn=4d6ecbdb8c134f8ec347c19591636e6a",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "警惕！虚假的 CVE-2025-55182 扫描器被用于传播后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzUwNDEzNg==&mid=2247484698&idx=1&sn=85e37cc99209afa9540bbe9554062e58",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "TD路由器环境模拟与漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605025&idx=1&sn=c887ac897c43aba332fd6c6835c68332",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "记一次对裸聊网站的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545920&idx=1&sn=447dff092252833f556dfd3fa7c81ffb",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【附IOC】Next.js RCE漏洞在野利用事件分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504312&idx=1&sn=49d843f75bd521724afb5dffc51247a8",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "高危漏洞影响CI/CD管道，提示注入即可攻破谷歌Gemini CLI",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525481&idx=1&sn=d6db51643d18ecc0e0654e201f68dff2",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "黑客最常用的六大渗透工具、你都知道吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247488302&idx=1&sn=e5a51e18e5cf5ead6292b9f1471d5c30",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "张辽奇谋智御\\\"两高一弱\\\"之洞察高危漏洞 严防趁虚而入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTU4ODM2Nw==&mid=2651180001&idx=1&sn=145c615bd7498d6ba5b2c90aff850164",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【已复现】n8n Git节点远程代码执行漏洞(CVE-2025-65964)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495567&idx=1&sn=cc4793a7e529109dbf5cfec42b25548b",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【已复现】Linux ABRT守护进程命令注入导致本地提权漏洞(CVE-2025-12744)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495567&idx=2&sn=887eb9c191b06f6d096ec9c24a5a225a",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "CVE-2025-66516 (CVSS 10.0): Apache Tika 存在严重 XXE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533903&idx=1&sn=a1ab30e389ec160a6dba677aad34ba64",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "Next.js 重磅双漏洞链（CVE-2025-55182 + CVE-2025-66478）被黑产疯狂挖矿",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533903&idx=2&sn=4b9ab4879f1b93081e8e60878490c8e2",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "CVE-2025-26858：Socomec 的 DIRIS Digiware M-70 存在溢出导致的拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533903&idx=3&sn=76d772d6fc3a60fced750dcfd12303d1",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "30 余个 AI 编程工具漏洞，可导致数据窃取与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486899&idx=1&sn=72efb0e9992e1cb118cd03d367b14f71",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "NetExec 网络服务漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484337&idx=1&sn=97b9309ff9faeb726c8bb9e3cd348ad7",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "新型Mirai衍生僵尸网络ShadowV2现身 瞄准多品牌IoT设备漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585783&idx=1&sn=0c38edfcdb97d208efa52ac6a7ca3bab",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "旧技术现新漏洞：NTLM滥用现象持续，2025年仍遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487524&idx=1&sn=e4cb1605c50114fc44a76beeba2f149d",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251209",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562892&idx=1&sn=a3d8d04cf39f3786691fcf982c597aef",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "React 远程代码执行漏洞简报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510986&idx=1&sn=424be0708a67b3ef8a802ca6bb5e4fdb",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【专属邀请码】DudeSuite渗透测试神器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490971&idx=1&sn=4d65a936ba245fae93e5925ff74fa2d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
     }
 ]
