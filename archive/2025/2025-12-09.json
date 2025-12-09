@@ -208,5 +208,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490971&idx=1&sn=4d65a936ba245fae93e5925ff74fa2d6",
         "source": "Doonsec",
         "date_added": "2025-12-09"
+    },
+    {
+        "title": "天地伟业Easy7 queryPassword接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489660&idx=1&sn=e1bfaaa33438c8250520b8bf86aa7367",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "反序列化远程代码执行漏洞-CVE-2025-55182-复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODgzMDg3MQ==&mid=2247484627&idx=1&sn=a66153831c311f5c65db0dda9312b871",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【高危漏洞预警】n8n远程代码执行漏洞CVE-2025-65964",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491107&idx=1&sn=2b238e2f0f16fc7b9a7def8fcd26528f",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【安全工具速递】CVE-2025-55182 批量检测工具，支持一键RCE、内存马注入、反向shell等。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485188&idx=1&sn=a2ccca75d76a974809d5edb49b881483",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "深度剖析：React Server Components安全漏洞CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515698&idx=1&sn=116f866f4f19b9f0cd87ba5881d85eb9",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "12月，警惕！国家级的网络间谍活动和全球性的高危漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDkxNjEwNg==&mid=2247494404&idx=2&sn=b2809daf57aafb2c0042240b7eb7e1c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【0day】致远OA再曝反序列化漏洞，速览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484756&idx=1&sn=80c35d7fc84f630d65209f6874407b9e",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "DC-5 渗透测试WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTgyMjY2NQ==&mid=2247484223&idx=1&sn=ca2afe299dd46fb82ea7003db3e166f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "多阶段攻击链深度解析：从JScript到双恶意软件的渗透路径",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488622&idx=1&sn=dc6485da521be3e169b0fdfba3cd7196",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "专题·漏洞生态 | 关键信息基础设施国产化产品漏洞治理挑战与生态共建路径探析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254909&idx=1&sn=73bcd5050fdac9157704db0bcf2a3c91",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【安全圈】新型Mirai衍生僵尸网络ShadowV2现身 瞄准多品牌IoT设备漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073119&idx=3&sn=8dd5ed4e3d25661a4f2f176cc278ef76",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "关于火绒安全产品防护CVE-2025-55182高危漏洞的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528384&idx=1&sn=4609e43f80479bafb225b2a2df9f6d63",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
     }
 ]
