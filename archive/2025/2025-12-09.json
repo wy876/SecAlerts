@@ -1,0 +1,80 @@
+[
+    {
+        "title": "AI渗透工具——具备自主人工智能代理渗透工具Strix",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486703&idx=1&sn=ef01db4f3863013717d16b7dfea55ca3",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "大规模扫描开始：React服务器组件漏洞(CVE-2025-55182)遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486621&idx=1&sn=56ee57e3aaa99ee42e71b8fd18aeb1be",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【附IOC】Next.js RCE漏洞在野利用事件分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247517208&idx=1&sn=92ee1ae869f212bb8cec41dc715ac438",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500724&idx=1&sn=78178c2da8d9621d424d52611ed2eec5",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【漏洞复现】Next.js 无条件RCE，回显Payload+内存马Payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487453&idx=1&sn=dd57b05f650b5d132a97c7ceead16480",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第47期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500922&idx=1&sn=bf69f957b7428838db209676e2e270f9",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "【漏洞情报】ProsemirrorToHtml 因未转义的 HTML 属性值存在跨站脚本（XSS）漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485191&idx=1&sn=d94e801b9099e1c9fa9e4a95da07cb1c",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "渗透攻防交流群 限时进群！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520891&idx=2&sn=97cb7b2b680f0f4423e0778d995c6207",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "漏洞预警 | React Server Components远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495180&idx=1&sn=c145d86a377a715990a63504dfc3c324",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495180&idx=2&sn=a377eef55d3c540f874161df0bfb6b7a",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495180&idx=3&sn=354d9904c6827c1ba45dd12d967b1bac",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "基于汽车领域 TARA 的有效漏洞优先级排序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629321&idx=3&sn=1fbf000733753dbf0a5521cc3385ea8e",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    },
+    {
+        "title": "一次曲折的任意用户登录漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489296&idx=1&sn=b65601dcdcb8aa6287391db2a4a0cade",
+        "source": "Doonsec",
+        "date_added": "2025-12-09"
+    }
+]
