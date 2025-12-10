@@ -274,5 +274,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485312&idx=1&sn=2455651592e3ccfaecca6fff27de3d4b",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "【安全圈】微软修复三处0Day漏洞：云文件驱动提权至SYSTEM与Copilot远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073133&idx=3&sn=c32827197752956ab0a30327e84ca924",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【安全圈】Gemini AI曝出GeminiJack零点击漏洞，企业机密数据面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073133&idx=4&sn=6f5fca41da4f09001f04914f054afcff",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "数智赋能 智御未来 | 第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254971&idx=1&sn=0ba397323a5f59261ba85f7306f59d11",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Fortinet 提醒注意严重的 FortiCloud SSO 登录认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524622&idx=1&sn=c4730e9500580e409534b376a56f70db",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "微软12月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524622&idx=2&sn=ba8c3120218ed455901938344a91aa4f",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Gemini零点击漏洞可致攻击者窃取Gmail、日历及文档数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332014&idx=1&sn=7d489eaaa2505c470dc260395dc2347d",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "朝鲜黑客组织利用React2Shell漏洞部署新型EtherRAT恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332014&idx=3&sn=7a9814be07c86c73f43f90e688e368be",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Burp Suite扫描工具新增关键React2Shell漏洞检测能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332014&idx=4&sn=ccaccc4a5ef630ac7dd7719c8fa28e87",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "ysoSimple：简易的Java漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485662&idx=1&sn=a18973de99d5ed1f4d15a2dcbea85dbd",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【风险通告】微软12月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490635&idx=1&sn=47601be5d29c240b57b7a74947bd52b8",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "CyberBear仿真渗透实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523758&idx=1&sn=8cb9e87d66f75cba7da08148644f5f8b",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【漏洞检测POC】若依(RuoYi) 4.8.1 后台SSTI漏洞（可RCE）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487052&idx=1&sn=691b72b851131e6f65ccc28c29e630f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Gemini漏洞让攻击者零点击窃取企业机密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605041&idx=3&sn=708372f05fbb66c1ed5cbc05bfe3f3f5",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
