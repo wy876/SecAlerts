@@ -1,0 +1,140 @@
+[
+    {
+        "title": "【吃瓜】\\\"友情检测\\\"因CVE-2025-55182重现江湖",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485650&idx=1&sn=825dfaab26b880f040d927bbbc6d501c",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "OA漏洞利用工具（12月9日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517696&idx=1&sn=4d8949dac72db77b96e47a202336d10b",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "[已复现]TongWeb反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484824&idx=1&sn=1e3bbada6d435c136a76f16a5bf9ed00",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "核弹级漏洞：React与Next.js严重RSC漏洞可致未经认证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613582&idx=3&sn=485a0260781a2a404d9d64c844d12a3a",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "20个任意文件下载漏洞挖掘技巧（附实战案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613582&idx=4&sn=ff036062bea9da90f2e5755f02b83abf",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "ZITADEL 严重漏洞 (CVE-2025-67494) 风险：通过 XSS 实现 SSRF 内部数据泄露和账户劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486228&idx=1&sn=4b08dd00019183f23ac4dff9ba068dc6",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "教育行业之渗透测试打点",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500727&idx=1&sn=d49c67113a0973da1fd02ea74bac24aa",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "渗透测试即服务（PTaaS）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485789&idx=1&sn=4a36ec2b6448a5e58af580b73716b333",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【漏洞复现】普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487467&idx=1&sn=f99b43bdef03646bd2fc5702bb5d3e87",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "零基础到精通！这本Kali Linux渗透测试书带你逆袭网络安全圈",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485743&idx=2&sn=e1a91299c6b28946b0b9348ca4bc9153",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "React2Shell漏洞攻击与曹县黑客有关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797117&idx=1&sn=20740492fa43d8e64b73c01ecc006a55",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "微软修复了57个漏洞，其中包括3个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797117&idx=3&sn=dafaf909eedabdf5fe848cb3425ba6e1",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "微软12月补丁日多个产品安全漏洞风险通告：1个在野利用、2个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504313&idx=1&sn=58ffa041206ebb2618ea809b92125f9a",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【漏洞情报】ImageMagick CLAHE：无符号整数下溢和除零导致越界指针运算及进程崩溃（拒绝服务）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485196&idx=1&sn=c18c5a7cb436313461a7540b5b80ddd2",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "某友资产管理存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484064&idx=1&sn=3804b0e31094a223802de6cbccfe7896",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "手把手拆解：小程序/Web端加密鉴权绕过案例全复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515231&idx=1&sn=1285a3a57d9dae0c7ae47dbb447d4fb7",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "用友U9Cloud最新RCE，微步TDP10月已支持检测！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508044&idx=1&sn=06dd04f0b4832a93e07f355a8be27099",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "漏洞预警 | Windows Vim路径劫持漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495183&idx=1&sn=417e0c35478f17a676c0ae0180dd9ba4",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495183&idx=2&sn=11a748e2f3a59df448fad54519cfc9c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495183&idx=3&sn=61735e8f6f3b767a1739f3c1423006fc",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "潜伏13年！CVSS 评分高达 10.0！Redis高危RCE漏洞（CVE-2025-49844）复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484812&idx=1&sn=f5ab0c7cf8538fd8b8a5088733fa3109",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "渗透测试报告自动生成工具SSReportTools",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489301&idx=1&sn=aafa2cd5d928e7b95ae3dddd1296f004",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Kali Linux（7）——Web 渗透测试的核心方法与实战技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc3MTc1OQ==&mid=2247483722&idx=1&sn=94a7dcd9fd484bc2f77f003fd37da60c",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    }
+]
