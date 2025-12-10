@@ -430,5 +430,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzODE5Mjc2Ng==&mid=2247484018&idx=1&sn=3818534c1b2cd96fee47ad0fefd95485",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "人工调试剖析 React4Shell 反序列化漏洞（二）- 原理、利用及 Bypass WAF 等",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492655&idx=1&sn=fa4695b1e5fa8bc4d5667f70dcde3f1f",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "常见应用漏洞指纹识别工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487285&idx=1&sn=8b4fa10f8696fdbb6afbbb24e2b5665c",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "AI大模型（LLM）漏洞集锦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486202&idx=1&sn=e4bcceeeff9006983ab8695be3ef1aca",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
