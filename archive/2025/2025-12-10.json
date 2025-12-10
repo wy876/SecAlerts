@@ -262,5 +262,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495580&idx=1&sn=2f2248b04a36938dd669c289e5b66fc3",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "2025-12微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528418&idx=1&sn=63edf0e97792d20e02f66844a474e865",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "POC|友加畅捷管理系统GetZTList 存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485312&idx=1&sn=2455651592e3ccfaecca6fff27de3d4b",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
