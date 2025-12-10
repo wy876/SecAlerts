@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248672&idx=1&sn=a1973f69eb23df523b407cf3e2841386",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "【漏洞通告】React Next.js 远程命令执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NjMwMzI3Mg==&mid=2247504298&idx=1&sn=e973e16f844402162c6bba219026a32c",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "同样做网安，有人挖漏洞有人慌，差距在哪？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576020&idx=2&sn=30b94b1aed2e07ef9db4125fd26aa50f",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
