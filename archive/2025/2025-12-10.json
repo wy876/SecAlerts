@@ -226,5 +226,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504319&idx=1&sn=ac761b31086cc4cb0d0b992927a93bba",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "CyberBear仿真渗透实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493044&idx=1&sn=d13d8c9f01d97943cd6648a6dc4f88e4",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "专题·漏洞生态 | 关键信息基础设施国产化产品漏洞治理挑战与生态共建路径探析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489192&idx=1&sn=42f08bb4aa2436bc33a14ef143f82cda",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Gartner警告企业严防AI浏览器渗透：或导致数据\\\"不可逆且不可追踪\\\"泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525487&idx=1&sn=d42726ec44a3acbdb7fd928b9740bcdf",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "CVE-2025-55182 React 漏洞二次分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484137&idx=1&sn=cccbf1a38ce2ba44fc0ef40e5a4fa297",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "漏洞预警 | vllm 代码执行漏洞（CVE-2025-66448）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484711&idx=1&sn=8d78dba85149a6957ac5382fea1193d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【已复现】Ivanti EPM 未授权存储型跨站脚本漏洞(CVE-2025-10573)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495580&idx=1&sn=2f2248b04a36938dd669c289e5b66fc3",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
