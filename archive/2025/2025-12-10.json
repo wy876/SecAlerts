@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484043&idx=1&sn=6a322da48d223ef0d91c2087af5ce714",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "3 名黑客间谍近源渗透被抓",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504636&idx=1&sn=fba2b65c3f91450b01bed2360c5b2564",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【已复现】vllm 代码执行漏洞(CVE-2025-66448)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504319&idx=1&sn=ac761b31086cc4cb0d0b992927a93bba",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
