@@ -136,5 +136,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc3MTc1OQ==&mid=2247483722&idx=1&sn=94a7dcd9fd484bc2f77f003fd37da60c",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "AI仅用4天识别并修复NASA航天器存在三年的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789506&idx=1&sn=70cb25cae6c2a4d7693cb4bc7dc0bddb",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "Ollama大模型工具被曝高危漏洞！默认配置或致模型窃取、算力盗用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462401&idx=1&sn=a7a4682af7a9c294c68570498aa8a393",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "0094.我是如何发现一个价值 5 万美元、危及数千人的 Web3 漏洞的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691438&idx=1&sn=fdc0089de8ee15ed7a177013ceb8adb4",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "CTF之Web模块拆解（首期）：吃透 3 大核心漏洞，直接搞定 60% 基础题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487050&idx=1&sn=b78a4efdc0237fbbbf82b0462c4762b9",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【论文速读】| 检索增强型少样本提示与微调在代码漏洞检测中的比较",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497554&idx=2&sn=809b143e59f4cf18aa18da1191909f6b",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "图形化渗透测试辅助工具AuxTools | 更新-5.8.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248672&idx=1&sn=a1973f69eb23df523b407cf3e2841386",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
