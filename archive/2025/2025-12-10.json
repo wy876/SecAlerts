@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501881&idx=2&sn=026c0d9c75d62457225a68e2f315d661",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2025年12月）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526808&idx=1&sn=b445931c50cfc5dc3e6049591ecc733a",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "BP插件 | 针对Next.js RCE的扫描插件，探了几个小日子的，基本没问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247489982&idx=1&sn=adbae85cedb613573c1673e1016782e1",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "鸿运(通天星CMSV6车载)主动安全监控云平台存在任意文件读取漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484043&idx=1&sn=6a322da48d223ef0d91c2087af5ce714",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
