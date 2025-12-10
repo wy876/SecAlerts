@@ -352,5 +352,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605041&idx=3&sn=708372f05fbb66c1ed5cbc05bfe3f3f5",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "【漏洞通告】SAP Solution Manager 代码注入漏洞 (CVE-2025-42880)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524865&idx=1&sn=6c1aeab5544b2ceb748233050fdcef10",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【业界动态】数智赋能xa0智御未来·第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998744&idx=1&sn=de9c8b5ab0bf81520a5ec6ed1d0f881b",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第49期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463925&idx=1&sn=820456a81c63ed45a984d39f811be872",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "数智赋能xa0智御未来——第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247648600&idx=2&sn=5513ebc45e71e81b9f9d7c5980d93a74",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
