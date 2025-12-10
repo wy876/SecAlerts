@@ -394,5 +394,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490904&idx=1&sn=2c70d87b0c99ae986ff36dbf43267cf8",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "数智赋能 智御未来 | 第十五届网络安全漏洞分析与风险评估大会在天津盛大启幕",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486265&idx=1&sn=e84f996c87961ecdbde2c0485cdb2f45",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【安全工具更新】CVE-2025-55182 批量检测工具，支持一键RCE、内存马注入、反向shell等。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485197&idx=1&sn=8b76c1584eff5d2df908e4eec5151122",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
