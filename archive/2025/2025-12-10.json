@@ -406,5 +406,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485197&idx=1&sn=8b76c1584eff5d2df908e4eec5151122",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "AD域渗透信息枚举",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484701&idx=1&sn=56000784edded193434277e1282b1989",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "畅捷通TPlus Ufida.T.SM.UIP.ashx存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489680&idx=1&sn=0fcfc52711b7941a500dd62d1bd0fbe3",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
+    },
+    {
+        "title": "【高危漏洞预警】vllm代码执行漏洞CVE-2025-66448",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491113&idx=1&sn=795666ada27860166422f82caae12ae9",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
