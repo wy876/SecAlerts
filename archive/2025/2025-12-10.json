@@ -424,5 +424,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491113&idx=1&sn=795666ada27860166422f82caae12ae9",
         "source": "Doonsec",
         "date_added": "2025-12-10"
+    },
+    {
+        "title": "edu漏洞挖掘：小程序强开F12js逆向&通杀漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzODE5Mjc2Ng==&mid=2247484018&idx=1&sn=3818534c1b2cd96fee47ad0fefd95485",
+        "source": "Doonsec",
+        "date_added": "2025-12-10"
     }
 ]
