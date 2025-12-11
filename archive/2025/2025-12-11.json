@@ -460,5 +460,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485338&idx=1&sn=365af6cd913bffea388426768cbf98a8",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "web安全-CRLF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247486113&idx=1&sn=48299011b37e01dba254edfc3fb6e0b4",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "更新|帆软、用友、泛微、蓝凌等常见OA系统综合漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487310&idx=1&sn=f27b0f1199b3f52b086d1c7dc18685d0",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
