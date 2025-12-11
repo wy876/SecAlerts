@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495605&idx=2&sn=b43fbf45f0a00754590d9a910e66579f",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【在野利用】Gogs 远程代码执行漏洞(CVE-2025-8110)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495618&idx=1&sn=3cf3592231d6525f5154f2de357c4cf9",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
