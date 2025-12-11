@@ -154,5 +154,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495618&idx=1&sn=3cf3592231d6525f5154f2de357c4cf9",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "2025年11月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497069&idx=1&sn=ba34ac75cc3c9a86a1906196d7c90d66",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "前端已死？React Server Components 惊现远程代码执行，塞讯攻击库已实时更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247507033&idx=1&sn=3caf58e9fcd82f76e570dc044e742181",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "鸿腾精密遭INC深度渗透：富士康全球供应链爆发前所未有泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247506802&idx=1&sn=4f84ea049357763eb0c80b0c2f652657",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Yakit复现fastjson漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488715&idx=1&sn=cd7beaa3982ab63ae3e7723070879b83",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "苹果\\\"围墙\\\"倒塌：iOS与Android互操作时代正式来临；2025年12月首周CNNVD安全漏洞统计及修复情况报告| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139670&idx=2&sn=3989c7c1cf0cd0c812e359dacb4814b1",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
