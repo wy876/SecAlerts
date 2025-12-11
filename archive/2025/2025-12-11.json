@@ -346,5 +346,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735217&idx=1&sn=94c2ef24a40a8a8206643ba9e1edc9cf",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【安全圈】GitLab高危XSS漏洞（CVE-2025-12716）可通过恶意Wiki页面劫持用户会话",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073159&idx=2&sn=71fd13ead231ec7f73e5e6aab55ebb0d",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【安全圈】Windows Defender 防火墙服务漏洞可致攻击者泄露敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073159&idx=3&sn=4764b0749651731fc5ae430666805475",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "记一次对某系统文件上传漏洞GetShell分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1MjY5OQ==&mid=2247486357&idx=1&sn=2211910369df2159c68bacf07579cbaf",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Windows PowerShell 0Day漏洞可导致攻击者执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332055&idx=3&sn=c04edbcc2002482b821caa699429d9a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "React2Shell漏洞遭大规模利用：攻击者投放加密货币挖矿程序与新型恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332055&idx=4&sn=e530d162696d6fca89c27cbee8e53a6f",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Ivanti提醒注意 EPM 中严重的代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524630&idx=1&sn=f3a9316989486371722d9656c43f333e",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "谷歌Gemini Enterprise存在漏洞，可导致企业数据遭暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524630&idx=2&sn=be82a743b4b79c2cc101a8757cb82cc4",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "江南信安亮相第十五届网络安全漏洞分析与风险评估大会",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTE0MTEwNQ==&mid=2668670913&idx=1&sn=01a95f3286331ca70d92d1ff4a70cab7",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
