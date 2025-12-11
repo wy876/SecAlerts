@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493931&idx=1&sn=bfa5ba55454a967dac723861fc76e122",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【安全工具更新】CVE-2025-55182 批量检测工具，已适配哥斯拉内存马注入连接。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485217&idx=1&sn=5a10fa49d62475dc819bd9e7722ec5be",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "华云安荣膺CNNVD双项大奖，以AI强化漏洞治理核心战力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501613&idx=1&sn=eecb384e9d2d74fa57474171d6ac7939",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
