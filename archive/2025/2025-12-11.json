@@ -436,5 +436,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491119&idx=1&sn=375f3263abbcc5416eb018c93ecc8a10",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "多厂商云存储桶漏洞检测浏览器插件（阿里云 / 腾讯云 / AWS）2025-11-27更新|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496192&idx=1&sn=b4ef5b73569d8c3c0d4b117597996cb5",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "友加畅捷管理系统GetZTList接口存在信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489692&idx=1&sn=43a295026dde3ba93cfa37a0be56ff51",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【从公开报告到私有神器】：如何通过漏洞报告制作字典",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484779&idx=1&sn=5a96dcbe955001b24cfdfb9d3bf4a468",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "KaliGPT：你的AI自动化渗透测试专家，解决大模型\\\"健忘症\\\"！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485338&idx=1&sn=365af6cd913bffea388426768cbf98a8",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
