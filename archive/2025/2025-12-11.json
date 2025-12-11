@@ -184,5 +184,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139670&idx=2&sn=3989c7c1cf0cd0c812e359dacb4814b1",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞预警 React(next.js)远程代码执行漏洞(CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492376&idx=1&sn=1de4abeebe1a47138bdab1f209a07fc8",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "攻击者借助 React2Shell 漏洞向多行业投递挖矿程序与恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486910&idx=1&sn=56ceb6aa4feba14ba1866bd0837b592d",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "React Server 组件中的关键安全漏洞(CVE-2025-55182)影响范围有多广",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504681&idx=1&sn=9cbf2b19536627e4f8352b4d4460a30c",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Gogs 零日 RCE 漏洞（CVE-2025-8110）深度分析：国内受影响范围最广",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504681&idx=2&sn=345ef1d1d0215d069581ca2dbea9557d",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "JeePlus低代码开发平台存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484049&idx=1&sn=ab3afac78dd9339f91aa975d23bbe95e",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
