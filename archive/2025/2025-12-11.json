@@ -106,5 +106,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248676&idx=1&sn=8e01a7f857773151b8b6cf06d56e9b7b",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【漏洞通告】Gogs 符号链接绕过漏洞导致远程代码执行(CVE-2025-8110)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501887&idx=2&sn=3183f63d228d651f2e9dbb3dd27e3782",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "半自动AI代码审计的思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDE2Mg==&mid=2247485534&idx=1&sn=2a2da8d230ec2adabad31a22c55545fe",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "React2Shell (CVE-2025-55182)：剖析针对生产环境 Next.js 应用的 Node.js 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533915&idx=1&sn=a4c589fa5340639344926f880f4793ba",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞奖励计划活动开启！奖金提升，提交减负！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508052&idx=1&sn=6c34b61745a3fec188b00a85000a694a",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【安全更新】微软12月安全更新多个产品高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489462&idx=1&sn=a11f3e997854bd97575bcc7c0be52bbe",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【已复现】用友U9 Cloud 未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495605&idx=1&sn=e2a9a7449f0d06d9b1b45a1844ce9e6c",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【在野利用】Google Chrome 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495605&idx=2&sn=b43fbf45f0a00754590d9a910e66579f",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
