@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484049&idx=1&sn=ab3afac78dd9339f91aa975d23bbe95e",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "报告发布 | 漏洞情报选型指南报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503919&idx=1&sn=56528995065564e314b3c11a7ae15573",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【漏洞预警】CVE-2025-8110 漏洞在野外被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493931&idx=1&sn=bfa5ba55454a967dac723861fc76e122",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
