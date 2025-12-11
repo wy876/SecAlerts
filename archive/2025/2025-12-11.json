@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489308&idx=1&sn=63cf258e334feb578b3393fe25ea2972",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【在野利用】Gogs 远程命令注入漏洞(CVE-2025-8110)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504327&idx=1&sn=3e4ca68768c8adfec8ab348b27a08310",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "215万台运行Next.js的Web服务暴露于互联网，CVSS10分漏洞需紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248676&idx=1&sn=8e01a7f857773151b8b6cf06d56e9b7b",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
