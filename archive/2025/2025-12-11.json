@@ -394,5 +394,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTE0MTEwNQ==&mid=2668670913&idx=1&sn=01a95f3286331ca70d92d1ff4a70cab7",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "专题·漏洞生态 | 人工智能赋能的智能化漏洞治理研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255145&idx=1&sn=997b63921bc9821b109c1788481a887b",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255145&idx=3&sn=7dda2b383a1e35ff6989408a85547126",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
