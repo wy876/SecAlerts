@@ -406,5 +406,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255145&idx=3&sn=7dda2b383a1e35ff6989408a85547126",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "Windows Defender 防火墙服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096694&idx=1&sn=28812bde350edbde9e76b8c0fd5f66f1",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Adobe Acrobat 阅读器存在允许攻击者执行任意代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096694&idx=2&sn=4cf35e441cb5a745e69ea33fe929b7df",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
