@@ -424,5 +424,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515718&idx=2&sn=9593f238015810c1f1f3ad14b678f530",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【网络安全】CORS跨域资源读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521806&idx=1&sn=1af97150a0d6f7457e1ff0aef5f85f56",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【高危漏洞预警】Gogs远程命令注入漏洞CVE-2025-8110",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491119&idx=1&sn=375f3263abbcc5416eb018c93ecc8a10",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
