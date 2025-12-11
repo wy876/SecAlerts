@@ -418,5 +418,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096694&idx=2&sn=4cf35e441cb5a745e69ea33fe929b7df",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "【安全工具更新】CVE-2025-55182 批量检测工具，已适配哥斯拉内存马注入连接。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515718&idx=2&sn=9593f238015810c1f1f3ad14b678f530",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
