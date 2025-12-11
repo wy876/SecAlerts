@@ -238,5 +238,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501613&idx=1&sn=eecb384e9d2d74fa57474171d6ac7939",
         "source": "Doonsec",
         "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞复现|维达客户管理系统 UserView.jsp 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485321&idx=1&sn=925839d3d847930d2484e7aa5c29b541",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CISP-PTE 通知 | 国内高公信力的渗透测试，随报随学，刚需资质",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525966&idx=2&sn=171e9a822b714dfe52e804926898da03",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "网络安全之渗透测试步骤与思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576032&idx=1&sn=a667390837d0f00d7ba383873a13dd41",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "【附更新后POC】React/Next.js 无条件 远程代码执行漏洞复现步骤及环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485235&idx=1&sn=1052decf5a4a7a90222810bc4de719b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "渗透测试辅助工具mSS-GUI v0.2.1更新：Ctx_antiguard 去除vue-router",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487546&idx=1&sn=e4a6c0b68c41b548583c3e11f12a182e",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CTF Web 进阶拆解（第 2 期）：2025 赛事必学 3 大漏洞，中等难度题直接破局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487074&idx=1&sn=a1b9154b8d8972ab019bd29a30e99917",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463938&idx=1&sn=cdccc9b1223e441f79e05f210f61caae",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "burp 插件｜加密数据自动解密数据包，从此再也不怕没漏洞了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487814&idx=1&sn=514ed3b95c73a5980c53189ad24fe4c3",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "burp 插件｜加密数据自动解密数据包，从此再也不怕没漏洞了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491653&idx=1&sn=4c87f5dbf69b3e0e22e17786fc2232a6",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
     }
 ]
