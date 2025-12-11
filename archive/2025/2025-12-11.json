@@ -1,0 +1,98 @@
+[
+    {
+        "title": "【高危漏洞预警】Cursor命令执行漏洞CVE-2025-62354",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486719&idx=1&sn=444f988170b2894b8c8238302713a145",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "AI仅用4天识别并修复NASA航天器存在三年的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613609&idx=1&sn=955e3f049b2c43cf81f94ba8cf99418c",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "严重联网监控摄像头漏洞 (CVE-2025-13607) 存在因身份验证缺失而导致视频流劫持和凭证窃取的风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486252&idx=1&sn=895ef03b9715617422642aa40e4d29c6",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "Web 渗透测试必看：逻辑漏洞挖掘实战指南（含真实案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485688&idx=1&sn=8c58f235c1b0fc168cc88a3423451040",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500818&idx=1&sn=3ced7c96f030b0df9470238a63ebb463",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CISA警告：多个威胁组织利用WinRAR漏洞（CVE-2025-6218）攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797128&idx=1&sn=9cd56ca253f52ab130767e3d14d15e13",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "React2Shell漏洞利用导致加密货币挖矿木马和新型恶意软件在多个领域传播",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797128&idx=2&sn=8778c09fe167dfa4e6299d402438402f",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "一次攻防打点中由外至内的渗透经历",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486656&idx=1&sn=3fd8548baf33759d4082c8411ef50dbe",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "SSReportTools - 安服/渗透测试报告生成工具 - 2.0版本发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485755&idx=1&sn=48ac34ca18af6022dfffb8d6a3c5b662",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "智联云采 SRM2.0 verifyToken存在反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484069&idx=1&sn=0747067a189fde6d1966952be12bffb4",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "打点利器 | 全量OA漏洞利用工具最终版，漏洞数量470+",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515272&idx=1&sn=78513d7d3558979ab25c863908d6b470",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495202&idx=1&sn=7347ba95a7233c2929517073b6cea9e0",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞预警 | 西软云XMS任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495202&idx=2&sn=1db05c2c866eb8f0608aba69868a9a15",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495202&idx=3&sn=8dd1073581e083a12c46e6ec6d18e7f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495852&idx=1&sn=d321a399d3433502190a7471df33ae68",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    },
+    {
+        "title": "一次小问题引起的高危短信漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489308&idx=1&sn=63cf258e334feb578b3393fe25ea2972",
+        "source": "Doonsec",
+        "date_added": "2025-12-11"
+    }
+]
