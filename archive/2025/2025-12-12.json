@@ -244,5 +244,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486639&idx=1&sn=d3356427667a08834f56e4edd7ff26ef",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "React 再曝高危漏洞！可导致服务瘫痪与源码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUxMzQ2NTM2Nw==&mid=2247493720&idx=1&sn=8ba2aab92c6ae22cf67b4a9d100ec9b2",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【再次来袭！】【漏洞检测脚本】React Server Components 源代码泄露（CVE-2025-55183）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487073&idx=1&sn=316e4784166d784359b7fc1603987f50",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Tongweb 闭源中间件代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247491017&idx=1&sn=5a4103c9decbb0dd1fb622876d8516ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "React2Shell 漏洞在野利用情况汇总",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504728&idx=1&sn=9c200452c7d04c9880f243743067e32c",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【漏洞通告】React Server Components 拒绝服务漏洞(CVE-2025-55184)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501893&idx=2&sn=0f78535d9b3529962e3a630856057c87",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
