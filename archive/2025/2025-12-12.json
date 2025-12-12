@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501893&idx=2&sn=0f78535d9b3529962e3a630856057c87",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "APT-C-26（Lazarus）组织利用WinRAR漏洞部署Blank Grabber木马的技术分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247507693&idx=1&sn=e73e1cca5af2ee80c3037daa1dbd2ab1",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【已复现】React Server Components 拒绝服务漏洞(CVE-2025-55184)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504343&idx=1&sn=6c44f2ccc0ede3207b75e8157faac028",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "安全热点周报：黑客利用 ArrayOS AG VPN 漏洞植入WebShelu200bu200bl 并创建恶意用户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504343&idx=2&sn=cea3e417e541c5aa75652768f7f71928",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
