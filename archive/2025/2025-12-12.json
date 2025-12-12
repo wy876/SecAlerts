@@ -148,5 +148,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487174&idx=1&sn=aa7565303ab8d7c36c09210ad2f8bc6e",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "漏洞复现 || React(Next.js)存在远程命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492743&idx=1&sn=dfe0b4f326077853a8bb5bdbd94c23f3",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "CVE-2025-55182漏洞利用影响智能家居",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533933&idx=1&sn=cc2066dc141165c75df5f3ee3494d3f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Gogs 零日漏洞 (CVE-2025-8110) 可通过绕过符号链接路径绕过漏洞，对 700 多台服务器构成远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533933&idx=2&sn=cc65919b2801060c2a8ba1b9b4d7d36e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "GDPS 2025 AI安全漏洞全球挖掘赛，最后24小时入场倒计时！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649769861&idx=1&sn=bd2518076ac9eba23f93a343e08e8c9a",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Gogs 远程命令注入高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485176&idx=1&sn=cc5c43997faf94886692d0305e24da11",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
