@@ -202,5 +202,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486768&idx=1&sn=2a540f50ea6fe0f81f0b72170ba101d6",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491485&idx=1&sn=99a2507717f9991c0c6f8d90aa3f2054",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "我如何靠开发者思维挖出 3 个业务逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508622&idx=1&sn=7b20236fd56bdc81caddac18a099becc",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【工具推荐】哥斯拉内存马+React2Shell (CVE-2025-55182)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMjU2OTEwMQ==&mid=2247484047&idx=1&sn=6e403ac86aa07b0d095ae9afaebbccac",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "双奖加冕，实力鉴证：四叶草安全获国家级漏洞治理最高认可",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553502&idx=1&sn=463f32353c2711ced235e7421cea5868",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
