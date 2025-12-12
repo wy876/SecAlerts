@@ -400,5 +400,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484622&idx=1&sn=ff55a9a5b177d2e872df3a11e43de02f",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "Fortinet警告称FortiCloud SSO登录认证绕过存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494270&idx=1&sn=0cc38e6864c15b3e9386c5f822d0632e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【高危漏洞预警】React Server Components拒绝服务漏洞CVE-2025-55184",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491124&idx=1&sn=88d031b8496434681ef279ca81871dd2",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
