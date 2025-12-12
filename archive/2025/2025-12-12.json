@@ -178,5 +178,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485176&idx=1&sn=cc5c43997faf94886692d0305e24da11",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "【首发复现】Windows 远程访问连接管理器特权提升漏洞(CVE-2025-62472)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495634&idx=1&sn=4d76835a83685f6d0e84cbfaf60bda25",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
