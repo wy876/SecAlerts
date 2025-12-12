@@ -370,5 +370,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486274&idx=1&sn=0705d79ecf3e4a1a7277d1b876175688",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490923&idx=1&sn=0fdda6bf3e59e3f059ab2c2c780dbe2e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "内网渗透(六)：权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247488108&idx=1&sn=9182d50ce84777753761f05c06e53500",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "基于Fastadmin框架的涉网平台从渗透测试到电子数据取证一条龙手册",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTcyMTc5Nw==&mid=2247490109&idx=1&sn=169d0effcdd8de8b6dd9ce6eb4413609",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "利用大语言模型优化 CodeQL 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484622&idx=1&sn=ff55a9a5b177d2e872df3a11e43de02f",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
