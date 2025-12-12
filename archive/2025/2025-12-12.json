@@ -112,5 +112,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495860&idx=1&sn=9dd5691a3e685ad899f1c23bf0dd87ca",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "CTF Web 巅峰拆解（第 3 期）：2025 高难度题核心，搞定这 3 类漏洞直接冲榜",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487097&idx=1&sn=2713e2c59973cadbca571c16a3d47306",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Gogs 零日漏洞遭野外活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492032&idx=1&sn=5d7cec9e40d9158181cb5966e5d870fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【渗透测试员工种】复赛技术文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495410&idx=5&sn=ea4161ddea12e35dbb472f091a6c1a19",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "2025年11月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485126&idx=1&sn=9725c8d9c998e8d681b2254469fa44d1",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "智邦国际ERP GetPersonalSealData.ashx SQL注入漏洞  附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484055&idx=1&sn=ee4be9fef40492805765f65eabdbd234",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "某终端安全系统前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487174&idx=1&sn=aa7565303ab8d7c36c09210ad2f8bc6e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
