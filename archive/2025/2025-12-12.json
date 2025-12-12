@@ -292,5 +292,77 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504343&idx=2&sn=cea3e417e541c5aa75652768f7f71928",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "【安全圈】React再曝新高危漏洞，可致拒绝服务攻击与源代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073174&idx=1&sn=75188194abd1bc77cf57b710064bfeda",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "redis 漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485884&idx=1&sn=a15808e4e1224fd6232c08d43baf1fed",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "粉丝投稿干货！用友 U8 Cloud 漏洞审计实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484790&idx=1&sn=965b0ce5728d907e75fa916516b12dbe",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "谷歌紧急修复已遭利用的 Chrome 新 0day，无CVE编号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524650&idx=1&sn=2b90845db7d53c90cf5fea1670d12bfe",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "微软将影响在线服务的第三方漏洞纳入奖励计划",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524650&idx=3&sn=b7863ac8099dfd54d53e02832cf2eb2f",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "紧急补丁：Notepad++ WinGUp漏洞可被利用劫持更新植入恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332187&idx=3&sn=586f41ea6d5e8dd71ff71d86ed1ee653",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "小程序渗透测试，只有一个页面？以及关联通杀方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519707&idx=2&sn=f88b661387761b29926d9042ae1fc1da",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【漏洞通告】Fortinet多产品身份验证绕过漏洞（CVE-2025-59718）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524883&idx=1&sn=0c6adc6337df36f15bbe633bb2af3a7e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "亿赛通电子文档安全管理系统(CDG)存在前台GetShell漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495654&idx=1&sn=ee1f517c81d035e8340cd2f3594a8b23",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "redis 漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485824&idx=1&sn=9b52b86a51db60e62c526c1bc4eb81fa",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【漏洞预警】Apache Tika XXE漏洞来袭(CVE-2025-66516)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485360&idx=1&sn=ecdec287caa76b7ba5a15e6b017564fc",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "安易科技参加第十五届网络安全漏洞分析与风险评估大会",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTI3ODUxOQ==&mid=2247485290&idx=1&sn=c625fa1535bb8e1586b423db25574d7c",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
