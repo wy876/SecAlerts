@@ -364,5 +364,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTI3ODUxOQ==&mid=2247485290&idx=1&sn=c625fa1535bb8e1586b423db25574d7c",
         "source": "Doonsec",
         "date_added": "2025-12-12"
+    },
+    {
+        "title": "ZKTime 熵基智能考勤管理系统 ic1ock SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
     }
 ]
