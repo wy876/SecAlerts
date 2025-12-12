@@ -1,0 +1,116 @@
+[
+    {
+        "title": "edu漏洞挖掘：证书站挖掘&信息搜集&案例简单分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzODE5Mjc2Ng==&mid=2247484133&idx=1&sn=b5115ce805721870aea258833e8e7e8d",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "NETREAPER：集成70余款渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484347&idx=1&sn=b5e86dce6fce1e419d43f2abeff9a004",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "域渗透信息收集思路入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489307&idx=1&sn=0f754a8b49be51d528d93442f7b02426",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Redis图形化漏洞利用工具 -- redis_tools_GUI（12月11日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517703&idx=1&sn=1621183c804917a7fd2b785831d7bd1e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "紧急补丁：Notepad++ WinGUp 漏洞允许恶意软件劫持更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486284&idx=1&sn=7894dc74dd26f9a1cd8ec8f9a25ef74e",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "渗透测试辅助工具mSS-GUI v0.2.1更新：Ctx_antiguard 去除vue-router",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486748&idx=1&sn=ddc8942d1e90a8dca37e2d417ff259b1",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【安全工具更新】CVE-2025-55182 批量检测工具，已适配哥斯拉内存马注入连接。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485795&idx=1&sn=bac2643be2fc1915fe33a2766a5b1464",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "全球网络攻击者正集中火力利用 React2Shell 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797144&idx=2&sn=a513d54f1559067a2b4ab2b8be8259d5",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "edu之AI漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483917&idx=1&sn=99a89f9e3bb1c643e71576557843782f",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【高危漏洞预警】vllm代码执行漏洞CVE-2025-66448",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550172&idx=2&sn=0ac9b49f7cc9af8c31586685b6e27d53",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "deepseek+burpsuite实现渗透测试大模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489689&idx=1&sn=8b94732cfe8785f5bd1dc89295e2f30d",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "【漏洞情报】CVE-2025-64829: Adobe Experience Manager中的存储型跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485201&idx=1&sn=ee8c3f4e4bde2be86e8e95ae7d350ab3",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "告别漏洞情报焦虑：这款开源神器让你一个界面掌握全网CVE动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485686&idx=1&sn=81e80f02e7953552936704482a8ddc6d",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "PCIe 5.0 也不安全了？三大底层加密漏洞曝光，Intel 和 AMD 全中招！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901687&idx=1&sn=2e64ba3daef8d360837f09079ed3e639",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "紧急预警：微软2025收官补丁日，内核级0day已被在野利用！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485385&idx=1&sn=70a734e03f31666b788928a0897b4950",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "漏洞预警 | XWiki远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495223&idx=1&sn=55ea4729356cc25c7e2d1d7f32ff4f9a",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "漏洞预警 | 红海云eHR SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495223&idx=2&sn=1ce722d3bb2551f00e5cb25139d6bc98",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495223&idx=3&sn=798a9fb2311ba0b02eaf0ee77fc8c722",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    },
+    {
+        "title": "Redis 漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495860&idx=1&sn=9dd5691a3e685ad899f1c23bf0dd87ca",
+        "source": "Doonsec",
+        "date_added": "2025-12-12"
+    }
+]
