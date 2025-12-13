@@ -142,5 +142,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484478&idx=1&sn=7cfdbc77e5062e7778a161af6be58361",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "APP攻防-渗透抓包前置环境配置&Frida&Magisk&LSposed&Xposed&双向验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485304&idx=1&sn=bf7b9a9287a0b3ada3f3d87f17b1d7d1",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "苹果0Day漏洞遭利用，针对特定iPhone用户发起复杂攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=1&sn=121e3b62a5e2ac021fcedcfb4d9a55cc",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "React再曝新高危漏洞，可致拒绝服务攻击与源代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=2&sn=27ae787533404873bbf570ce31825a16",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "FreeBuf周报 | 大学生出售Webshell入侵5200余政府教育网站；Notepad++漏洞可被利用劫持更新植入恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=3&sn=165ba7417870cdd12222a3e987ebafec",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "图形化反序列化漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485830&idx=1&sn=9ec4459b9a9c2e5ad31f02f7e2be0c70",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
