@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "文件上传漏洞绕过记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484478&idx=1&sn=7cfdbc77e5062e7778a161af6be58361",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
