@@ -1,0 +1,44 @@
+[
+    {
+        "title": "CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613644&idx=4&sn=6188e3d518a3b38bbeaa64c9f2c5307d",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "2025年最常被利用的20个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517215&idx=2&sn=ed62be135cee1941641ebbb440e01a77",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "技术分享会—LLM for 白盒漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486937&idx=1&sn=306eeb91eab3c063b203f8bfa6db54cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "「干货分享」应急响应之文件上传漏洞排查",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495260&idx=1&sn=4e5e8033a4670f42e2dda8e0b307cff7",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "CVE-2025-55182挖矿木马分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712691&idx=1&sn=531a0a739cd50fe21cbe6b89dc60951c",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "从对抗到出洞：某金融APP 实战渗透与 Frida 反检测绕过（Rpc + Flask + AutoDecoder）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494382&idx=1&sn=c76b88cd7dd563ca829d34671f155ea3",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    }
+]
