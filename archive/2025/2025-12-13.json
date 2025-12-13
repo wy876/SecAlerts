@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484061&idx=1&sn=5443ca9732ec6640787d1abab2efa7c6",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "一次攻防演练中RCE绕过waf获取webshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484038&idx=1&sn=ec78d5e9b1b7a639ea677c0943de91c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "CTF Web巅峰拆解（第3期）：2025高难度题核心，搞定这3类漏洞直接冲榜",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487116&idx=1&sn=6963ee74186a6523c0c2c701dc68c16b",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
