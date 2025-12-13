@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487116&idx=1&sn=6963ee74186a6523c0c2c701dc68c16b",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "android 12月公开漏洞分析：普通app绕过BAL限制(附poc)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484788&idx=1&sn=cca5b14aa65c1754f0324eff9d3107c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
