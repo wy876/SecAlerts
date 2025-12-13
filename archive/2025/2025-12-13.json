@@ -124,5 +124,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464092&idx=1&sn=e9a5389533032154bf172cbae9164e8c",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "CVE-2025-8088武器化那些事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483807&idx=1&sn=3db967776e04e6692d3f76cae483fa27",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "高危漏洞威胁情报合集 | 绿盟漏洞情报（2025-12-12）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
