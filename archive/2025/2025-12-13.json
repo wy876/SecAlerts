@@ -172,5 +172,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485830&idx=1&sn=9ec4459b9a9c2e5ad31f02f7e2be0c70",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "【安全圈】苹果 iOS26.2 修复 25 个漏洞 谷歌、字节跳动、阿里巴巴等参与“救场”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=3&sn=052ef64cb3596b544a0ab6914d1d2a76",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "Windows远程访问连接管理器曝提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=1&sn=8197b075c0e21a353a900e48ada418ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "Apache Struts 2曝拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=2&sn=ec1149680b5942bab4e065d621ef22f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "美特CRM mobileupload.jsp 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493543&idx=1&sn=f35cf8dad2d8da552a5840a3aa081e0c",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
