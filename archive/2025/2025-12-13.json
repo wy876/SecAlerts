@@ -40,5 +40,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494382&idx=1&sn=c76b88cd7dd563ca829d34671f155ea3",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "] [Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、反弹shell等",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "] [《2025年ISC2网络安全人力研究报告》重磅发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493431&idx=1&sn=bc136a2f46f4945620d83122ddc68fea",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "] [【小程序通用】一招识别小程序通用的方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519707&idx=1&sn=8b2b73e376c90a93c263b8b43db75a49",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "打工是没前途的：全球漏洞赏金实时更新汇总",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528704&idx=1&sn=fe14cffea9b7caf1d405e899fd7a1b23",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "【Nday】Go-fastdfs 未授权+任意文件上传",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNzExNjA1OA==&mid=2247483907&idx=1&sn=5813875d0aec32fdec320be76d763540",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、反弹shell等",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
