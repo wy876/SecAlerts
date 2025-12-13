@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484788&idx=1&sn=cca5b14aa65c1754f0324eff9d3107c2",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "React 组件远程代码执行漏洞-CVE-2025-55182 Poc",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "技术分享会—LLM for 白盒漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487958&idx=1&sn=765c8390535ed221d851585b65b2b94c",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
