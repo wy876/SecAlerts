@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6",
         "source": "Doonsec",
         "date_added": "2025-12-13"
+    },
+    {
+        "title": "【漏洞检测脚本】React Server Components 拒绝服务漏洞（CVE-2025-55184）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487090&idx=1&sn=576ba6a08928185630bfbd3f6cc1b8af",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
+    },
+    {
+        "title": "致远分析云存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484061&idx=1&sn=5443ca9732ec6640787d1abab2efa7c6",
+        "source": "Doonsec",
+        "date_added": "2025-12-13"
     }
 ]
