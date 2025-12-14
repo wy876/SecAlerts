@@ -100,5 +100,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489703&idx=1&sn=7c332a50f54489ad2e8f3d0dcc2f08af",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "漏洞挖掘：众测 SRC 高频漏洞测试姿势全总结（支付 / XSS / 验证码篇）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496300&idx=1&sn=7368c2647482cd91d4e12c257c26abe8",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "自动化集成Web漏洞扫描器 -- NucleiFuzzer",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487048&idx=1&sn=d68f149d597660372e06b264a78467bd",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "苹果修复了两个在定向攻击中被利用的Webkit漏洞，其中一个与谷歌ANGLE漏洞同源",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
