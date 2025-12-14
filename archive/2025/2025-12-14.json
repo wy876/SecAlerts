@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517245&idx=3&sn=c368a3000135cd1f3606302d140e3f35",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "CVE-2025-55182复现学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247870&idx=1&sn=2ac768318e4ca71d301e2e05bc88f86f",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
