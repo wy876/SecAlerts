@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485887&idx=1&sn=2da95e369551524b4a52802bf9e4435d",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "致远AnalyticsCloud分析云a接口存在任意文件读取漏洞 POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489703&idx=1&sn=7c332a50f54489ad2e8f3d0dcc2f08af",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
