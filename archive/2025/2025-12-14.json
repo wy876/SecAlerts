@@ -118,5 +118,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "OSCP必备技能18-往期真题漏洞合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485656&idx=1&sn=f8c70239d1842ed67a8b7f402e091121",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "推荐！全面的资产侦察及漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487396&idx=1&sn=5100224c9f9a61003699fde6b8ab36ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "Android零日漏洞天价公开叫卖，称可一键获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517274&idx=2&sn=bd09e95f8068e6d937366306b7b2f9cb",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "【漏洞检测POC】Tenda AC20 路由器远程缓冲区溢出漏洞（CVE-2025-14656）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487115&idx=1&sn=f125799d88a0bdd3fbdb55ced2ea891c",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
