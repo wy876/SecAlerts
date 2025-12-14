@@ -52,5 +52,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247870&idx=1&sn=2ac768318e4ca71d301e2e05bc88f86f",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "Hexstrike AI在多个工具及模型上的渗透测试表现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486485&idx=1&sn=d85235dbb61db0acea73363f08bd57bf",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "直播预告｜解码AI安全攻防未来！国内首个AI智能渗透挑战赛独家复盘即将上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528753&idx=1&sn=68594366e31d33f40070031948503e1d",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "【0day】蓝凌OA再爆SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484802&idx=1&sn=9f69adb129d057b81c27084a1d285971",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "森鑫炬水务企业综合运营平台 Get 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493560&idx=1&sn=f3edc9e41b50855eb29bfa0640b2aac7",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "【安全圈】59元汉堡套餐“0元购”？上海一男子利用知名快餐APP系统漏洞，改价代下单1300笔牟利！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073198&idx=1&sn=a8f89c45946624f7e850bf07b1ed02d7",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "每周PDF资源：IOT安全手册；社交媒体安全实务指南；渗透测试面试题合集；网络数据安全风险评估办法；API安全测试指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332275&idx=4&sn=bc493a73b25d7257746cc24cb0ef1497",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "Spring相关高危漏洞-综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485887&idx=1&sn=2da95e369551524b4a52802bf9e4435d",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
