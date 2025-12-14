@@ -10,5 +10,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493173&idx=1&sn=6e15250a03947e0178765dbfe20fcfc8",
         "source": "Doonsec",
         "date_added": "2025-12-14"
+    },
+    {
+        "title": "CVE-2025-55182复现学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247490284&idx=1&sn=ca57ccc183a7a3aec9d1b287d2f7fe39",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "【招聘】-阿里集团安全部招聘安全工程师（渗透攻防）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247546034&idx=1&sn=fc6913f2a8a66ee783e4a0a8908827b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "[代码审计-新0day]华天动力OA存在多个SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "「干货分享」分享云安全浪潮src漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "「干货分享」分享云安全浪潮src漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
+    },
+    {
+        "title": "真实网络战场上的首次对决：AI渗透测试代理与人类专家的全面比较研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517245&idx=3&sn=c368a3000135cd1f3606302d140e3f35",
+        "source": "Doonsec",
+        "date_added": "2025-12-14"
     }
 ]
