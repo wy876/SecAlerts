@@ -394,5 +394,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484170&idx=1&sn=45b80584d95f435953fdd0676941a111",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "揭秘Cobalt Strike：内网渗透的“终极武器”，藏着多少攻防玄机？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDY2MDMxMA==&mid=2247484112&idx=1&sn=9abf8480b47c6f2955fc561143c64c75",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "我的第一次渗透测试：从 “小白慌神” 到 “精准破局” 的实战手记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDY2MDMxMA==&mid=2247484105&idx=1&sn=b8b2193dc12577f63b4e233bddfc3d73",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
