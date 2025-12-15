@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTcxMjE2NQ==&mid=2247487897&idx=1&sn=dfafef71ba887f84ca1925088e911824",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "CVE-2025-55182 - Next.js-Exploit-Tool 图形化综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486778&idx=1&sn=7397e11c8e6eb487b5f7a8d85f645717",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "OSCP必备技能14-EXP搜索小技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485684&idx=1&sn=dea46004e39afd2712cfee981e71027a",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
