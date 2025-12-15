@@ -1,0 +1,104 @@
+[
+    {
+        "title": "苹果公司证实针对 iPhone 用户的定向攻击中存在0day漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797155&idx=2&sn=529684d1e1ac87db07b24cd270d8d16a",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "企业级漏洞扫描与资产管理平台 -- 星环（xingrin）（12月13日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517708&idx=1&sn=e5a4c57108f0f1561b7b0825b72c8fb2",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Windows PowerShell 0Day漏洞可导致攻击者执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613645&idx=3&sn=c19fe361ed9e68a2e81d16e1cb8c5aa1",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Redis 漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613645&idx=4&sn=1b55c01f74e01f8ba6accb8e0780023f",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "pgAdmin 严重远程代码执行漏洞 (CVE-2025-13780) 可绕过修复，允许通过恶意数据库恢复接管服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486304&idx=1&sn=dee1553d97c464b548bb3409fb0c94fc",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "网络安全周刊#27：.NET SOAPwn 漏洞：利用流氓 WSDL 实现文件写入和远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489606&idx=1&sn=7de0bc1bfdd4f5b19c65b2aade937b31",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "苹果 iOS26.2 修复 25 个漏洞 谷歌、字节跳动、阿里巴巴等参与“救场”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087604&idx=1&sn=42a9b423219f7c819855842ae653158d",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "CVE-2025-55182 - Next.js-Exploit-Tool 图形化综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492731&idx=1&sn=71b7afee818e73301ecddc5d6c22130b",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "一款java漏洞集合工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508753&idx=1&sn=77730574d28794147ee1261841f5fa39",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "若依RuoYi 4.8.1存在SSTI漏洞复现，一键获取Shiro密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484831&idx=1&sn=d44a895b437cd4e6527d46055f432e1e",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "0成本打造“漏洞NSA”！TL-ICScan把NVD、CISA、GitHub PoC全偷回你硬盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494428&idx=1&sn=d06dd6dea899e01d00305d33de826bb9",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "记一次证书站的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515309&idx=1&sn=1ffe64cb6a94015df848f25300c7949b",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495238&idx=1&sn=be12ab9ac28195a0cdecaf0b58a1c1e5",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "漏洞预警 | 友加畅捷管理系统文件读取和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495238&idx=2&sn=497d06ffd959e9067f3ad0da440387ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495238&idx=3&sn=2d7bc0cb79dc17fb055e5f022d92be13",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【域渗透】CyberStrikelab靶场lab1-lab11，3w字超详细",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510152&idx=1&sn=dfe50ce0b214ec7b16497ad923fafb75",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "CVE-2025-55182 React2Shell 打入godzilla内存马并用godzilla连接",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489328&idx=1&sn=77008608a9a732c5fd5242b9eebf2bad",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    }
+]
