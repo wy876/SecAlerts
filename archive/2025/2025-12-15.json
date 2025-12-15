@@ -340,5 +340,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497883&idx=1&sn=18551c5b8c1c5f0a847253152e93a7e4",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "全新升级BurpSuite2025.12专业(稳定版)下载Windows/Linux/Mac支持Java21以上|新增POC检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496307&idx=1&sn=82643c8a40412d35e38d11630f99b9c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Ivanti 警告称，Endpoint Manager 存在严重代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494288&idx=1&sn=6d15487a09431909fd27a53d08d16bd1",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "友加畅捷管理系统RepFile.ashx接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489714&idx=1&sn=73f913b8d7eb70f0d6e59634302eac5b",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "2025最新！Linux常用10种提权方法复现，w字解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493135&idx=1&sn=4f5a46ffa267761f42170df439467ed9",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "面试官问：“给你一个网站，你将如何开展渗透测试”，这样回答就稳了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487678&idx=1&sn=eb2241713c97646993bf0f650f84609f",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【高危漏洞预警】Kubernetes服务器端请求伪造漏洞(CVE-2025-13281)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491129&idx=1&sn=54b8ec235f6c1fdc0a50b7fa115500a3",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "[SWPUCTF 2021 新生赛]babyrce",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTUzMDY1OA==&mid=2247485154&idx=2&sn=4136c509ec8dbdad012b01cfc01bea73",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "[SWPUCTF 2021 新生赛]easyrce",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTUzMDY1OA==&mid=2247485154&idx=3&sn=8d00e4a55aeeb73a9b0d1f9f4a98b747",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【安全预警】用友U9 Cloud DynamaticExport 任意文件下载",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484170&idx=1&sn=45b80584d95f435953fdd0676941a111",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
