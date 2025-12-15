@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "盘点网安牛马好用的在线渗透工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTczNzIxNQ==&mid=2247487335&idx=1&sn=d2b618c7a5501881e6a2ec4c7ca27108",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.12.8-2025.12.14",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503633&idx=1&sn=ed8c46701570f36906982f6edf548eae",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、批量扫描、反弹shell等",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483741&idx=1&sn=6b2e485c43aff796ab2aa71abcc386dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
