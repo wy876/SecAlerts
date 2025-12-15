@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562897&idx=1&sn=b1c8b117f61849a953dbc9c856750ba5",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "CVE-2025-55182检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484355&idx=1&sn=4125a2378ec60528040afb327976b48a",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
