@@ -100,5 +100,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489328&idx=1&sn=77008608a9a732c5fd5242b9eebf2bad",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "0097.从“唉，这只是个反射型 XSS 漏洞”到“卧槽，我干掉 CEO 了”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691505&idx=1&sn=eda977442feca061061c98c755f160dd",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "一款java漏洞集合工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247524933&idx=1&sn=58974f25fca6e47e31a3f95130de8bfd",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【漏洞复现】Traccar文件包含漏洞(CVE-2025-61666)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487484&idx=1&sn=748387e419f07f8cd26223488bd22076",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【2025全新】网络安全学习路线：从 0 到挖漏洞、打 CTF、护网，详细路线助你精通就业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487184&idx=2&sn=38dc9d1a0f71cf95e1545ada94562cb8",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "安全总监的灵魂三问：工具买了一堆，漏洞为何越扫越多？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247514239&idx=1&sn=e7b271183e2e6a5a44ed8de241b59cb5",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "WookTeam轻量级的团队在线协作系统存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484068&idx=1&sn=fb9ce26a40ffdaa533c766c0fbebf045",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "SSTI漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491268&idx=1&sn=9bd4b006c0bd3d8ff0a2c0263fbd48b9",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Notepad++ 修复一个漏洞，该漏洞允许攻击者劫持更新程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797155&idx=3&sn=edf3ceb5a65a27b7e3f6fbf1143374c1",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
