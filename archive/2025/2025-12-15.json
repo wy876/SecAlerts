@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=2&sn=277fd3663e820da5c8b55a0b2fcf73de",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "苹果紧急修复两个已遭利用的 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524661&idx=1&sn=a7c928af6fec96c822d33060a6e3cd66",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "2025年度（第三期）CNNVD漏洞奖励评选结果公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464098&idx=1&sn=920e05fd81cae60497687672cc16c804",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332319&idx=1&sn=4c7fecc35022b05e7cc58d9cab8d7622",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "SHADOW-VOID-042组织冒充趋势科技发起钓鱼攻击，意图渗透关键基础设施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332319&idx=4&sn=2ac155e7f427a29eb544325a0781c016",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "edu漏洞挖掘：小程序强开F12js逆向&通杀漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzODE5Mjc2Ng==&mid=2247484135&idx=1&sn=23532d6743b175fccc28521df7391fa1",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
