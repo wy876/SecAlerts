@@ -262,5 +262,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485327&idx=1&sn=18be2e89947081f4b8e4790a3e561aca",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "每周网安资讯 （12.9-12.15）| Adobe多款产品存在输入验证不恰当漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507331&idx=3&sn=64b16d9efef5c9285619c19a52077d53",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "强网杯2025决赛复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=1&sn=772414290f665251e45086ee738cd157",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "Windows惊现“连环漏洞”：未修补的RasMan缺陷可被任意用户触发崩溃，直通系统最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=2&sn=3a78ff2f491c5072c958977b42355fab",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "最近网上怎么不见“大神”秀漏洞了？新《网络安全法》两张罚单告诉你答案！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488933&idx=1&sn=b370f2aa2d6c39e5c0c53e746ba55636",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "全部OA-图形化综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486017&idx=1&sn=2bb93084899d275781c5b7fbd9f78026",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "CVE-2025-2945 pgAdmin <9.2 后台命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=2&sn=277fd3663e820da5c8b55a0b2fcf73de",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
