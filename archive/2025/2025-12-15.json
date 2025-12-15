@@ -238,5 +238,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525527&idx=1&sn=6232a8be2fa37146557e0023e598fe57",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第48期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=1&sn=cc5d16d7609a4315335ae839fff90ab8",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251208-20251214)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=2&sn=0783034e514e64ef03d33ae23d52e2c7",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "【复现】Apache Tika XXE漏洞（CVE-2025-66516）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492539&idx=1&sn=8a04206213a94828bd4a9760a8b4cc1a",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "漏洞复现|通天星CMSV6车载视频监控平台_StandardReportMediaAction_getImage存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485327&idx=1&sn=18be2e89947081f4b8e4790a3e561aca",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
