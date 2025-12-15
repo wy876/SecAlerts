@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485339&idx=1&sn=df2e830682456a34646c79618798b553",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "某edusrc教育厅漏洞简单挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "SHADOW-VOID-042组织冒充趋势科技发起钓鱼攻击，意图渗透关键基础设施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525527&idx=1&sn=6232a8be2fa37146557e0023e598fe57",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
