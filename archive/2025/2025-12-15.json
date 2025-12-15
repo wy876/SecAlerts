@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797155&idx=3&sn=edf3ceb5a65a27b7e3f6fbf1143374c1",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "苹果iOS 26.2正式版修复25个漏洞--包含针对特定iPhone用户发起复杂攻击漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTE5MTA0NQ==&mid=2247483727&idx=1&sn=b7dca02e0b9559de385da1372eb6fb35",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "禅道最新版RCE等漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493133&idx=1&sn=9e9f0161b53b1b57a5c6801c2779dd55",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
