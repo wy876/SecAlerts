@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484355&idx=1&sn=4125a2378ec60528040afb327976b48a",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "【WEB安全】React-RCS RCE（CVE-2025-55182）漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
