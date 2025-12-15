@@ -406,5 +406,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNDY2MDMxMA==&mid=2247484105&idx=1&sn=b8b2193dc12577f63b4e233bddfc3d73",
         "source": "Doonsec",
         "date_added": "2025-12-15"
+    },
+    {
+        "title": "短信验证码高危漏洞案例，不容错过！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487429&idx=1&sn=17d8f0909eb53c46eecb13391522e400",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
+    },
+    {
+        "title": "web漏洞之CORS跨域资源共享漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247486121&idx=1&sn=a9262f006b8345dcbc6531911676e3dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-15"
     }
 ]
