@@ -166,5 +166,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533957&idx=1&sn=70e8f10748a6ac005f7a84194035a490",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "【漏洞通告】React/Next.js 远程命令执行漏洞 CVE-2025-55182/CVE-2025-66478",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "NETREAPER：集成70余款渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=1&sn=b2ca638bfce1ca5ff0d1539089dbe9b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=2&sn=a07ed21e6f7034a5751e5f33140a5fc5",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Windows GUI渗透工具箱：支持TscanPlus与天狐导入部署",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247518116&idx=1&sn=5b148f679d957a6f8185fb7b7df87255",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "速修！帆软 FineReport 前台远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "直击React高危漏洞 | 山石网科深度防护，筑牢安全壁垒",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304643&idx=2&sn=8e6cb3d8980eb32e80bda9b7f2641a81",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "[安全研究篇]关于微软powershell零日漏洞的POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493770&idx=1&sn=a57bd1ccb33512ba121a1669e6637508",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
