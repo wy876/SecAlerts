@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493770&idx=1&sn=a57bd1ccb33512ba121a1669e6637508",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504603&idx=1&sn=b44cc869405df81dbf1cbb1f2ffab0f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486928&idx=1&sn=0f85780ae3366d75a7eaae3dffcc7970",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
