@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508694&idx=1&sn=55f07800bed58624b06712bc151d8ba0",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "CVE-2025-64669：揭示 Windows 管理中心中的本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533957&idx=1&sn=70e8f10748a6ac005f7a84194035a490",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
