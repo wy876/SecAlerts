@@ -112,5 +112,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485396&idx=1&sn=422c65aaf90291de2f89413ac33065e8",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "Fastjson1.2.83-0day(开autotype)+mysql不出网打法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488307&idx=1&sn=87cb736969f147c98b1279a0d3285b02",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Fastjson1.2.83-0day(开autotype)+mysql不出网打法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523959&idx=1&sn=3327e56bd499ab7bec6b5cf796b7159b",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "东胜物流管理软件 WmsZXFeeGridSource.aspx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493577&idx=1&sn=42e355e8b262cb1e242ac1c39eed76ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "React服务器组件漏洞(CVE-2025-55182)最新攻击payload",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486647&idx=1&sn=742199ebde015cddbbe618ca9f4d90d4",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【红队】一款现代化的企业级漏洞扫描与资产管理平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493966&idx=1&sn=0c087a80415e14ac90f3e5597818ec32",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "0day漏洞复现 | MetaCRM6客户关系管理系统存在SQL注入漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493146&idx=1&sn=08b762dbf8dee3b4472a738c5d3ef78c",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
