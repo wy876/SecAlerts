@@ -364,5 +364,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492349&idx=1&sn=359eec1b6c5c6318692c2c9f4d37f231",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "网络安全漏洞扫描：技术逻辑与实战应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496331&idx=1&sn=c3d98cbfd4b813313144c33b40ba81e2",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "资产 / 漏洞全可视化、一站式企业资产发现与漏洞扫描安全管理平台|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496313&idx=1&sn=4fc65bdbb672c39cb75a0881c00f5f2d",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "朝鲜黑客利用 React2Shell 漏洞发起 EtherRAT 恶意软件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494292&idx=1&sn=3b92f140d2822bb484cbc36015d3d526",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "工具推荐 | 最新redis图形化漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497443&idx=1&sn=28b1195d7a8b4b48bbc030c8e5164604",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
