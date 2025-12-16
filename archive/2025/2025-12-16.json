@@ -1,0 +1,116 @@
+[
+    {
+        "title": "技术分享 | EXP能力升级（三）：JDBC反序列化不再难！CVE-2025-6507 实战化EXP指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545895&idx=1&sn=5be1e3c71709ed4bfe7268b10f86cdb3",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Gemini零点击漏洞可致攻击者窃取Gmail、日历及文档数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613654&idx=2&sn=42126bbf2038eecea4742dce6b57534d",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "macOS LPE漏洞再次出现：.localized目录被利用劫持安装程序并获取root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486328&idx=1&sn=bee185191c7f47d06ef9ce85215314ac",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Wireshark在渗透测试实战中的 30 个分析技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528787&idx=1&sn=cc7e9d2fb725d927c4582a233be50e69",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Atlassian 修复了 Apache Tika 中的最高严重性漏洞 CVE-2025-66516",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797175&idx=3&sn=62bcfd89ec7cf1aa673c1d2c8a7c0d6d",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "基于GO开发的本地Nuclei POC管理器，支持Win、Mac、linux三端",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484191&idx=1&sn=11aac609aa48aff6159127e263bee820",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "某CMS - CVE存储型XSS漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500876&idx=1&sn=24a4ccfb218f0a755cc220e30e97577c",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第48期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500938&idx=1&sn=33d42912089c8bf3209d479f546f7df6",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Android APP客户端漏洞挖掘思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521205&idx=1&sn=58125914edf1d12fd522cd37dde2eae2",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "苹果0Day漏洞遭利用，针对特定iPhone用户发起复杂攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550278&idx=2&sn=1e86f9078e815a07e9475ac85bf35f40",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "MITRE发布2025年最危险的25个软件漏洞列表",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550278&idx=3&sn=ab085318df7f155c1da2fcd0a89de50b",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "IDA NO MCP 一句话挖掘某路由器固件漏洞，小白也能轻松审计固件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485834&idx=1&sn=ae892e2d0f37775c1d7c0a57c55b5207",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "漏洞赏金猎人必备的十大工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485211&idx=1&sn=9b8620d24ae0c3b996e64488a8151f29",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "现代化的企业级漏洞扫描与资产管理平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491531&idx=1&sn=cf9292fae8463957b5c85e3ecd536aee",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "NVIDIA Merlin漏洞允许恶意代码执行和拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247483936&idx=1&sn=e481b67ddd4f8b7c6ff06edd2483f14b",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "漏洞预警 | Apache Tika XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495243&idx=1&sn=154308bca1c29a6b3dcd7b472d018bdd",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495243&idx=2&sn=32ae4f94a3b2463ba4d2c1fbd7991d55",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495243&idx=3&sn=3d3f362fac24b57acb8e5d42000a8693",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "iOS 26 惊现“在野”利用！深扒 CVE-2025-14174 背后的 ANGLE 渲染引擎危机",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485396&idx=1&sn=422c65aaf90291de2f89413ac33065e8",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    }
+]
