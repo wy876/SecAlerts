@@ -262,5 +262,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "【复现】帆软报表export/excel SQL注入漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Fastjson1.2.83-0day(开autotype)+mysql不出网打法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=1&sn=ded7f35ff75c04978a03afeaa466bc9f",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【闪石星曜 Java代码审计】？？？？？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=2&sn=2517603873b8df376fb13e10887af3a3",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "专题·漏洞生态 | 对人工智能驱动网络漏洞治理的新思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255523&idx=1&sn=656cc065dd7f27e017e38178e804aa81",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Struts2全版本图形化漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486018&idx=1&sn=622a1c0b7fcbf21d40022c5f1bf4002d",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "当AI的“讨好型人格”成为漏洞：数字谄媚如何塑造下一代网络威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488948&idx=1&sn=57ef9f2f5470b8d30c447820db691d3b",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【已复现】FineReport 帆软报表前台远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
