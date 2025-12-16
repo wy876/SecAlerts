@@ -232,5 +232,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=5&sn=984fbcd8defbb0a12b30db33d9542682",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "漏洞管理警惕“账面修复”陷阱：测试与生产的脱节",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541150&idx=2&sn=9dcb7efbe5b2f15fef0b9ce97d176c50",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "Gogs 零日漏洞深度分析（CVE-2025-8110）:超700台服务器已被攻陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486310&idx=1&sn=cf8627fbd06df44b5762417ffe9b9a7b",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【已复现】FreePBX 认证绕过/SQL注入/任意文件上传漏洞链 (CVE-2025-66039/61675/61678)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
