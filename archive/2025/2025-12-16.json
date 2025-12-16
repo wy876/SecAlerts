@@ -304,5 +304,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "【安全圈】PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=3&sn=82520125d0a2bfd6a170cb07064fcc26",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【安全圈】严重的 Plesk 漏洞允许用户获取 Root 级别访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=4&sn=c1841caa9f7803503c27e512e8039810",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "FreePBX 修复多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=1&sn=bc36c9f6d44d660e3000cd5b371b5f50",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "React RSC 新漏洞可导致 DoS 和源代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=2&sn=bd7c744b1ab80e6eeb119c4307ab5cdd",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【漏洞通告】帆软 FineReport SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "自动化集成Web漏洞扫描器 -- NucleiFuzzer",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487058&idx=1&sn=af7bce5e5627687542c051b032c29dc9",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
