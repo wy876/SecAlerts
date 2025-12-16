@@ -250,5 +250,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "CVE-2025-8110 0day 绕过分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525575&idx=1&sn=ebc81b9d83cbc0c0c8fdcc5522ba1fe5",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "【附POC及复现环境】Gogs命令注入漏洞详细复现（CVE-2025-8110）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
