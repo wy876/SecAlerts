@@ -352,5 +352,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484823&idx=1&sn=774f19c2c1e00191d7e366c3e813c0c8",
         "source": "Doonsec",
         "date_added": "2025-12-16"
+    },
+    {
+        "title": "【高危漏洞预警】帆软报表前台SQL远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491134&idx=1&sn=8a7721d5c691361551042f6fdc46fe63",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
+    },
+    {
+        "title": "一文读懂：自动化渗透测试与 BAS 的区别与联系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492349&idx=1&sn=359eec1b6c5c6318692c2c9f4d37f231",
+        "source": "Doonsec",
+        "date_added": "2025-12-16"
     }
 ]
