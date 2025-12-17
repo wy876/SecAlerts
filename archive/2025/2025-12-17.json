@@ -364,5 +364,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483861&idx=1&sn=3194f10725a8740042885634385bfcc2",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "存储桶相关漏洞记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485511&idx=1&sn=f1ece4a6598fdab1cb8a8b0ebad9bdc3",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
