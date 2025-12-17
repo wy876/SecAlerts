@@ -148,5 +148,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489340&idx=2&sn=3bc7933032b2bf5527d7834799ae019a",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "【已复现】FineReport 帆软报表前台远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521213&idx=1&sn=bc5d33eb0bc2512a5c55f4c962a4dc77",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞预警】用友-时空KSOA chatconfirm-sql 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492406&idx=1&sn=fd23670db0db2d1b77c9cddcddcb620c",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞预警】用友-时空KSOA chatconfirm-sql 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492400&idx=1&sn=5d7dd98e338ebb1bf43e90f112b06fa0",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【已复现】帆软FineReport export/excel SQL注入漏洞(QVD-2025-48729)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504352&idx=1&sn=91b4dc15094a68cfd5cebf65d6776607",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "59元汉堡套餐“0元购”？上海一男子利用知名快餐APP系统漏洞，改价代下单1300笔牟利！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087608&idx=1&sn=cac504d83151f01c152a5d2f40692107",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第50期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464111&idx=1&sn=2fbd8a1818bb599e1ab73f23e8db89f3",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞预警】用友-时空KSOA chatconfirm-sql 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492389&idx=1&sn=45d7e190663e47685e75324b2a52c72f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
