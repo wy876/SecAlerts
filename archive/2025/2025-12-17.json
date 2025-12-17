@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484785&idx=1&sn=82c963c67a9089d124addd85890c4c34",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞通告】pgAdmin 4 远程命令执行漏洞(CVE-2025-13780)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501909&idx=3&sn=7d661fd4c3a8ce359ca22e8ed3cad20e",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
