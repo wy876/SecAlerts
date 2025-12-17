@@ -298,5 +298,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255548&idx=1&sn=c0796bc90a6d3a92f72b6e9068909ecf",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "【安全圈】谷歌Chrome紧急更新：修复WebGPU与V8引擎高危内存破坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073244&idx=2&sn=81e3a8defb0ce6d0ef666c41eb830db2",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【安全圈】NVIDIA发布关键AI安全补丁：Isaac Lab与NeMo框架漏洞可能导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073244&idx=3&sn=eea268248d5f05a6531dfc6d65cc575c",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【安全圈】Windows Admin Center 漏洞（CVE-2025-64669）可导致攻击者提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073244&idx=4&sn=3aedb0b2fc2fe525da6950ddd7406c8f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "FreePBX 安全漏洞深度解析:CVE-2025-66039 及其他漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486351&idx=1&sn=60a40093c770669991655c1447adeab8",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "“缓存欺骗第三章第二节”为什么修改了路径，服务器还返回相同数据？这可能是赏金漏洞的信号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797532&idx=1&sn=26f6d747ff8d7c65cdcc4b8602878fe1",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "攻击者利用React2Shell漏洞部署Linux后门程序，日本成重点攻击目标",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332464&idx=2&sn=76eaf0a1d09bfc2c54252e73153db94a",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "FortiGate设备SSO高危漏洞遭野外利用，攻击者可获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332464&idx=4&sn=8e7abfd3424200f29630f4caee8c3cb0",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "漏洞复现：不安全的jquery版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NTI4NjEwOQ==&mid=2247485137&idx=1&sn=6d06be5caf04fe4cd9b5446cc7ce6c6c",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "ScreenConnect 严重漏洞可配置数据遭访问并安装不受信任的扩展",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524675&idx=1&sn=64506e72bae10c7c535780cce3738778",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "JumpCloud 远程助手漏洞可导致系统遭接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524675&idx=2&sn=2c60923d7020c1f7e81eb9225bc5d57b",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
