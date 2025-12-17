@@ -370,5 +370,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485511&idx=1&sn=f1ece4a6598fdab1cb8a8b0ebad9bdc3",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "[代码审计]WebFTP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTUzMDY1OA==&mid=2247485215&idx=4&sn=30005ef4391a4327198293e9a253ae79",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.0.2更新(新增漏洞扫描功能，优化存在的诸多bug)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484654&idx=1&sn=6cda01489ccdb21cb669bd316dd2905a",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "Windows 桌面窗口管理器（DWM）本地提权漏洞 CVE-2025-55681 详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533963&idx=1&sn=a5d7834c19e638d051f722fed36ccaa1",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
