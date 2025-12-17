@@ -1,0 +1,152 @@
+[
+    {
+        "title": "穿透waf跨平台实现Next.js RCE漏洞精准扫描",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493874&idx=1&sn=e0fe5e55543af01e7ab0c2bda06a9cab",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "CISA发布警报：苹果WebKit 0day漏洞正被积极用于网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490497&idx=1&sn=a72a29f1b93dc56935c42631eb1663e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "Plesk曝高危漏洞（CVE-2025-66430），可导致服务器被接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489302&idx=1&sn=6720a744e48b8ad58f8cdf474942b911",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "航天骨干炒股亏空向间谍泄密获刑 ！|59元汉堡套餐“0元购”？上海一男子利用知名快餐APP系统漏洞，改价代下单1300笔牟利！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613673&idx=2&sn=899ad0ebe8e378e43a19adf32f70bd1f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "20个任意文件下载漏洞挖掘技巧（附实战案例）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613673&idx=4&sn=7f14aacc3b37b9e7c43648cd2d5996f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "作者整理的基于AI大模型的渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486225&idx=1&sn=ab314438a147adc942e4b32a03dd38dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "黑客在 Fortinet 发布补丁几天后就开始利用其关键漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797188&idx=3&sn=51c3785fb7f1eeef3717eb35f826ad7c",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "「干货分享」OAuth2.0漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500853&idx=1&sn=3a58f08048d9947b255516a6640013e5",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "强网杯2025决赛复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495442&idx=6&sn=2ae73e9eaa474ecfac864e2d55a3c246",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "无0day复杂利用！挖逻辑纯靠 “肉眼扫描器”？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498806&idx=1&sn=2981a41e00b1a2568fa50c9170567bac",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞脚本】大华智慧园区综合管理平台 access modifyOrg.action 反序列化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487485&idx=1&sn=a8c17db8cc38d72005b7706d07b4ca2b",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "Windows 管理中心漏洞 (CVE-2025-64669)：一个简单的文件夹权限如何打开了系统访问权限的大门",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486348&idx=1&sn=02579c9f65b85f1364a0a482f2b323cc",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "0day漏洞复现 | 天锐绿盘文档安全管理平台存在信息泄露漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493153&idx=1&sn=388abc1c9cec96cbde6ef4651ef43dee",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "网络安全攻防新局：从漏洞秒级检测到 AI 武器化应对，关键技术与实战路径解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550307&idx=1&sn=351a08b86139f58b572dbbf3d657abf6",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528792&idx=1&sn=88090f1b2fdbea93a99cdc8d499be2cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "Google Cloud Shell 容器逃逸与内核漏洞利用实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484896&idx=1&sn=05ce82983c600d3958c7d4a2066d4afb",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "记一次抽丝剥茧式的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508816&idx=1&sn=9f3b37c73258ceb151bfaa99b2213d1d",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "帆软报表前台SQL远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484074&idx=1&sn=3071d9ad37781729bec2a063c86cec1a",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "漏洞预警 | Gogs符号链接绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495248&idx=1&sn=fb0bfcf54f9b9b3937188f169e1fb874",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "漏洞预警 | 用友BIP登录绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495248&idx=2&sn=e2898f1bd97ce0d23ae46626162ce8bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "漏洞预警 | 朗新天霁eHR SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495248&idx=3&sn=3020b83fb194877e9039a9d57000c307",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "某证书站多个系统高危漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489309&idx=1&sn=6caf84229e57a42535817cad63577bce",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "高危预警！Apache Tika曝XXE漏洞(CVE-2025-66516)，可窃取服务器文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484832&idx=1&sn=df2960e41ef09a051e17164c62d7a055",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "Burp插件 | 自动SSRF漏洞探测插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489340&idx=1&sn=0ebe77f7f0077835a96818775db0497c",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "如何高效挖掘越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489340&idx=2&sn=3bc7933032b2bf5527d7834799ae019a",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    }
+]
