@@ -358,5 +358,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524675&idx=2&sn=2c60923d7020c1f7e81eb9225bc5d57b",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "react2shell 漏洞浅析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483861&idx=1&sn=3194f10725a8740042885634385bfcc2",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
