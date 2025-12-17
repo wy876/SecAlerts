@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501909&idx=3&sn=7d661fd4c3a8ce359ca22e8ed3cad20e",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "漏洞验证-Apache Kafka 未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTQwOTI3Ng==&mid=2247483702&idx=1&sn=1d52503fc07c69b36805b1ead38620b0",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【红队工具】红队后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484803&idx=1&sn=dce55a20fa33fd531eed535da01e68eb",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
