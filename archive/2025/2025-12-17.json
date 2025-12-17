@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491890&idx=1&sn=c78434c03d6c5d0d775081747fd1e2ce",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞通告】Windows Admin Center 本地权限提升漏洞(CVE-2025-64669)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501909&idx=2&sn=ee11529dd7f3415acd3c675af0f76882",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "LLM 驱动的 Windows 补丁漏洞自动化分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492174&idx=1&sn=fc516082270b1af47770ae69852c07a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【漏洞挖掘Tips】一种新的 GraphQL 绕过角度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484785&idx=1&sn=82c963c67a9089d124addd85890c4c34",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
