@@ -394,5 +394,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491142&idx=1&sn=e264bdd4d719baa434a734de6af2c7d4",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "470 漏洞 + DNSLog 联动！多 OA 安全漏洞高效检测工具最终版|工具分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496329&idx=1&sn=1af1730ff50be3675468340022b6dd69",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "网络安全漏洞扫描：三步曲和企业资产扫描清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496360&idx=1&sn=38dd57aa64cfbc78b09f4242f82981fe",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "MITRE公布了2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494352&idx=1&sn=5aab38182f0dd1da1e15ac7284e5d1c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "IdeaCMS GetList.html存在SQL注入漏洞CVE-2025-5569 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489725&idx=1&sn=7482eda0392c636e65ecbd04054b1747",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "学员投稿之edu漏洞的JS逆向解密导致任意密码重置",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494634&idx=1&sn=7cc83a90badea88d7d7d25583bd0c419",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
