@@ -190,5 +190,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492389&idx=1&sn=45d7e190663e47685e75324b2a52c72f",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "已复现】FineReport 帆软报表前台远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489886&idx=1&sn=154747ae6a9868ce0f9022a39d5c406f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "【已复现】Windows Admin Center权限提升漏洞(CVE-2025-64669)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495714&idx=1&sn=53caccad6ceb0475b7733836a80cb8c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "NetExec 网络服务漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485803&idx=1&sn=6b235b210fe2b8ab8907f84fb12e1d26",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
