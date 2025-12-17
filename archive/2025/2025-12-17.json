@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485803&idx=1&sn=6b235b210fe2b8ab8907f84fb12e1d26",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "[已复现]某软报表export/excel SQL注入内存马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjM4NA==&mid=2247483842&idx=1&sn=9f06bbb79a94ac37e22adea0a027b616",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
