@@ -256,5 +256,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484803&idx=1&sn=dce55a20fa33fd531eed535da01e68eb",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "NVIDIA发布关键AI安全补丁：Isaac Lab与NeMo框架漏洞可能导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525587&idx=1&sn=d049fe8d4605e139724315977132f938",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "渗透测试基础总结，对初学者太有用了！（果断收藏）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576069&idx=2&sn=c6666caa53d67a0c2db135cdf87df690",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "搞那么多漏洞库干什么？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDM4NTk4NA==&mid=2452947153&idx=1&sn=df5d449a6c4300e33c74a3e3eeffcc6f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "从6000架飞机软件漏洞看航空软件开发生命周期的教训与安全隐患",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260595&idx=1&sn=90f0a5c6bf87349c67a2b1e85cafe6d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
