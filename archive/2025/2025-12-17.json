@@ -280,5 +280,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260595&idx=1&sn=90f0a5c6bf87349c67a2b1e85cafe6d6",
         "source": "Doonsec",
         "date_added": "2025-12-17"
+    },
+    {
+        "title": "WEB安全手册（红队安全技能栈），漏洞理解，漏洞利用，代码审计和渗透测试总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486019&idx=1&sn=2e97e55c8c5d15f31d31913e35ebd8a0",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "从零开始绕过 DexProtector 加固的 Frida 检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605634&idx=1&sn=e5ae14490afe4efc0bae3837f333ce0f",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
+    },
+    {
+        "title": "专题·漏洞生态 | 带洞生存：国产软硬件发展中的网络安全治理新范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255548&idx=1&sn=c0796bc90a6d3a92f72b6e9068909ecf",
+        "source": "Doonsec",
+        "date_added": "2025-12-17"
     }
 ]
