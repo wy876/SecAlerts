@@ -88,5 +88,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495263&idx=3&sn=6518c7b196d5321b26cbb2f9121d8eae",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "代码审计-铜哨云用户中心前台任意文件上传漏洞-0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTkwMDY4NQ==&mid=2247483790&idx=1&sn=55ca05f6683e91c558bfc45d68b34e8f",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【漏洞预警】Panabit日志审计系统 app_handle.php 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "记一次某EIS办公平台0day挖掘审计过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524051&idx=1&sn=f924a121fb2bf68e88375ba0aaebfa8e",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488309&idx=1&sn=0a7d50b082de2badb5a2ca2ff50163fa",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "帆软报表sql注入漏洞【2025-10-20】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【漏洞预警】panabit日志审计系统 app_handle.php 命令注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "支付宝苹果免密漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484155&idx=1&sn=f2ebbf69899b3f6fa090c638c90deabf",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【代码审计】.net快速高效漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491115&idx=1&sn=8ef684de06af30d92e53350a21fc815b",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "某证书站多个系统高危漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489315&idx=2&sn=70455a2b7803e382cfaddf313a23b8f0",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3MzExMTk5Mw==&mid=2247484605&idx=1&sn=a6204675b99a7a05b8c934d3727e9aa8",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "Windows GUI界面的渗透测试工具箱，支持TscanPlus扫描结果和天狐工具箱工具导入快速部署",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248697&idx=1&sn=2f0dd64c998dc95583d2f8011340c919",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "0day漏洞复现 | 华天动力OA 8000前台getAwokeListData存在SQL注入漏洞【附poc】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "蜂信物联(FastBee)物联网平台任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
