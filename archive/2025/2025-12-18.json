@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1NTA5MA==&mid=2247484736&idx=1&sn=5dcd1f8e2c61fdbdb75e0e17f5d3f6e9",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "支付宝苹果免密授权漏洞到底是真的吗？我想说几句",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492971&idx=1&sn=301efedd4c05ca6a5a75b997c1940007",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "针对 PHP-Proxy 的已知明文攻击：从破碎的加密到 FastCGI 远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
