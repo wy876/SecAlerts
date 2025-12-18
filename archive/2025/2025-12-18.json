@@ -358,5 +358,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NTI4NjEwOQ==&mid=2247485175&idx=1&sn=59729dcf57537a4cb3214289e1b396e4",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "Node.js 警报 漏洞可能导致超过 1600 万月活跃用户遭受 Windows 远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534000&idx=1&sn=ab47eaba5107082e25b484a84ce88c73",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
