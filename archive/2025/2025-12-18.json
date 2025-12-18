@@ -226,5 +226,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzMTEzMDU3NA==&mid=2247484016&idx=1&sn=063e96db037411bc65f8b7eba184890d",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "精品产品  | 捷普WEB应用漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507364&idx=2&sn=8b4f8df3990903bcdd54c2876e442892",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "速修复这个已遭利用的 SonicWall SMA1000 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524683&idx=1&sn=7224ee1419a26c8bb16d70f9eed840e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "首届 Zeroday Cloud 黑客大赛落幕，11个0day 获32万美元赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524683&idx=2&sn=274d1e41d158b73e997e0244df454498",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "谷歌紧急修复 Chrome 中的两个高危内存损坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524683&idx=3&sn=ccf1081df758629e4af0ca28f97b0972",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496941&idx=1&sn=43dc88fd1af03dc1cd636f767b7a6de9",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "Nacos 图形化综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486020&idx=1&sn=6450c4d787260b877a349a2f6b8daeac",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "致命漏洞！黑客可远程劫持汽车仪表盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605731&idx=2&sn=cdd29f92be3ce9d1e4153037452d70cf",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "抢占智能汽车安全风口！系统0day安全——车联网安全入门（第8期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605731&idx=3&sn=2079720e18f7880d3ce370f10c5426d8",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "统筹发展和安全，推进基础软硬件产品漏洞生态体系建设",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515347&idx=2&sn=1f8b0cb96cac1cd524383b80dc8c5c13",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【免费领】Android App渗透实战方法大全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557041&idx=2&sn=7b1286acac1ec969fbcdff0215437396",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "软件自主可控、 软件代码成分(开源率/自主率)分析、代码审计是什么，区别与联系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzU4MDg0Mw==&mid=2247489551&idx=2&sn=dcd4727454508915224bd1d6038975f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "一个API请求让大模型服务瘫痪！看MAF如何破局LLM供应链漏洞危机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735310&idx=1&sn=455c080ee64f5c63122b23ac644a2ecb",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【论文速读】| VulnLLM-R：基于智能体架构的漏洞检测专用推理型大语言模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497599&idx=1&sn=38041edcf682eec38eb2797ea7d58b5e",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
