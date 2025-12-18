@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489273&idx=1&sn=175bf8a3e09d1c11d4097f963306ed6c",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "深度解析 CVE-2025-55182：React Server Components RCE 漏洞全剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484851&idx=1&sn=ca00027467d1b67d89e2da31a6393900",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "漏洞复现|美特客户关系管理系统sql. jsp存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485333&idx=1&sn=bd5447e03168f2d807c4fa4e88be2b14",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
