@@ -370,5 +370,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491148&idx=1&sn=035b3a419093b139ba48e5ff877f537c",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "黑客利用 Gladinet CentreStack 加密漏洞发起远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494355&idx=1&sn=6e3fbe01ee03c365c1bddcc9b05a5dce",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
