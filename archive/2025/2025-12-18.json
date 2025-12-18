@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "高危远程代码执行漏洞（CVE-2025-55182）利用工具 --ReactExploitGUI（12月16日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517767&idx=1&sn=1e86f75b731dba030e291efe67b3e749",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "记一次某EIS办公平台0day挖掘审计过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzMTEzMDU3NA==&mid=2247484016&idx=1&sn=063e96db037411bc65f8b7eba184890d",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
