@@ -1,0 +1,92 @@
+[
+    {
+        "title": "CVE-2025-8110 Gogs远程命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "dddd 批量信息收集漏洞探测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484225&idx=1&sn=0dfc0b23f9057ca908a59a6a290440b9",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "苹果0Day漏洞遭利用，针对特定iPhone用户发起复杂攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613677&idx=3&sn=a8f4e4c8415a2b7bc25ba9641daf2e9c",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "CVE-2025-46295 (CVSS 9.8)：Apache Commons Text 严重漏洞，可能导致服务器完全被控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486370&idx=1&sn=6e340dbba41c069d3088717dacf10d4a",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "ForumTrol APT组织利用Chrome 0day 针对俄罗斯政治学者发起定向网络钓鱼攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797204&idx=1&sn=4939facb76c098475bb5c3cdf82c5f05",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "CVE-2025-55182 Next.js-Exploit-Tool 图形化综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500915&idx=1&sn=78a5783c2f668ccf793fe2252cbbd978",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "deepseek+burpsuite实现：【渗透测试】大模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550313&idx=3&sn=a1ae61dcab00f1e87c2bb6859c4e3897",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【靶场463】【JS逆向】某X系统发现任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486942&idx=1&sn=00e1a957533ac6833b267ccb64d61da7",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【工具推荐】泛微E-cology9 SQL 注入漏洞批量检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487493&idx=1&sn=870c11f671905624439e36b940629964",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "牛逼的 POC 漏洞检测模板管理工具 | 支持 Windows、macOS、Linux 多平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495902&idx=1&sn=4c56dd44cbe50e453fe00a3a3d968d44",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "注意升级|帆软报表曝前台RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489309&idx=1&sn=99b022454c480721b9f1e90189753747",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "一款专业的AI Prompt注入漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494469&idx=1&sn=a187a39fba25f3d76e82984c7dfcd6cf",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "漏洞预警 | React Server Components拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495263&idx=1&sn=fad906762aa4cf7f5b49b11494318a05",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495263&idx=2&sn=013d71bdd617b7a623cc6961f362275b",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件读取和删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495263&idx=3&sn=6518c7b196d5321b26cbb2f9121d8eae",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    }
+]
