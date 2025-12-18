@@ -166,5 +166,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489554&idx=1&sn=42351b07940aad8201fd78d346ce8e73",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【成功复现】IdeaCMS SQL注入漏洞(CVE-2025-5569)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "【锐评】关于支付宝苹果免密漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491133&idx=1&sn=a0d8f63ff3c64b52e69c369edec8544c",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "CNNVD统计本周公开漏洞新增1733个；美国三大金融监管机构联手出台AI网络安全新规| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139752&idx=1&sn=570fb6110c69cbcfed90d252fb73f816",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "俄罗斯APT组织Gamaredon（APT-C-53）玩“漏洞蹦迪”！WinRAR新漏洞偷乌克兰机密，解压文件=开门揖盗",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
