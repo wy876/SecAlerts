@@ -346,5 +346,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjg1OTY3Mg==&mid=2247492490&idx=1&sn=e9d572a00803b7727f7d5e73592b2baf",
         "source": "Doonsec",
         "date_added": "2025-12-18"
+    },
+    {
+        "title": "【首发复现】Fortinet 多款产品身份认证绕过漏洞，已发现在野利用（CVE-2025-59718/59719）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495726&idx=1&sn=4a13b18201c9193548c50efd486f2a33",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
+    },
+    {
+        "title": "wifi网络渗透：使用fluxion创建Captive Portal进行wifi钓鱼",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NTI4NjEwOQ==&mid=2247485175&idx=1&sn=59729dcf57537a4cb3214289e1b396e4",
+        "source": "Doonsec",
+        "date_added": "2025-12-18"
     }
 ]
