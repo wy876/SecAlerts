@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTMxNzYxNA==&mid=2247491079&idx=1&sn=43b2ca325a050456ad588f0e4dc30c55",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "CVE-2025-55182 React2Shell 深入详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483896&idx=1&sn=e85b3d3de4f6ac511c5777725718b9ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "中识云平台 sys_user_list 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "数据安全与渗透测试：保卫金库与测试门锁",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485125&idx=1&sn=16a690766c146855573a996aa70bb8e5",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
