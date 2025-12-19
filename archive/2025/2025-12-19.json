@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493192&idx=1&sn=70b39dfbde81522c1a5dfea45d47cbbc",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "CVE-2025–52692：Linksys E9450-SG 路由器零日漏洞的发现与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508746&idx=1&sn=24083445824ee4771029bc6be8016694",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "超过50%的公开漏洞可绕过主流Web应用防火墙",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504628&idx=2&sn=815fed07bd47814ad0aaf30ab1f90a3c",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "自研工具推荐 | info_scan自动化漏洞扫描系统 | docker版本（2025年12月13日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484500&idx=1&sn=7e04d78fbd035c89e91a895b8dba49fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
