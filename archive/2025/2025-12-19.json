@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096710&idx=2&sn=7bcfecec21d7271821f4d56f748b3696",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "Gogs远程命令注入漏洞(CVE-2025-8110)复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTMxNzYxNA==&mid=2247491079&idx=1&sn=43b2ca325a050456ad588f0e4dc30c55",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
