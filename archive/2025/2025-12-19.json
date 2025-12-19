@@ -232,5 +232,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDIzODk3Nw==&mid=2247484869&idx=1&sn=7e3b26679404dadee1f2f66d9ee00b7c",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "慧与提醒注意 OneView 软件中的满分 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524697&idx=2&sn=2293ce91b3c44d394de4fe120df687b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "图形化渗透测试辅助工具AuxTools | 更新-5.8.0",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247518123&idx=1&sn=fa04d7bf84b73dbacab9c740adf4a913",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "OpenAI发布GPT-5.2-Codex：显著提升智能编程与漏洞检测能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332591&idx=2&sn=60fa10702b10bd9bc1ef732d6ef37e7a",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "BugTrace-AI：基于人工智能的渗透测试工具，可检测潜在漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332591&idx=3&sn=30a66b97e06324151d758d47d470b0f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "流行Node.js库曝严重漏洞，可致Windows系统遭受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332591&idx=4&sn=a486ec2b0db73841f35fc4c06655a3f9",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "Geoserver综合漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486021&idx=1&sn=31e22c82a8bc5bd2214d58479134d841",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "CISA将华硕恶意代码漏洞列入KEV名单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605737&idx=3&sn=67acf1dbcec50f71ad78b37fa004a8d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "appsx｜V1.2.8 支持 JS 混淆解析和优化未授权漏洞扫描逻辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc2NDk2MQ==&mid=2247483976&idx=1&sn=fa58ba78113a1cac3408fa7c18f3e735",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "安全热点周报：苹果修复了两个在“复杂”攻击中被利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504356&idx=1&sn=f5d2d7bd852745af850531ede48f2428",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "人机交互防线失守：新型攻击将AI安全机制转化为漏洞利用载体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525645&idx=1&sn=4adb589850a20f3c98b8923f828d0741",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
