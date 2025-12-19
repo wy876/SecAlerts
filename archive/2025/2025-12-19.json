@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255787&idx=1&sn=65f3bff3e24fcb7e8483ab3901c4d504",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "新的UEFI漏洞使得对ASRock、华硕、技嘉、MSI主板的早期启动DMA攻击成为可能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247483965&idx=1&sn=cc617bbd698f9dfb0b5750f59a9bbf7c",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【安全圈】华硕内置恶意代码漏洞遭活跃利用，被CISA列入高危漏洞目录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073282&idx=2&sn=3334a1f8d9dc4e659cf6933449d3e6eb",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞速递 | CVE-2025-13780 pgAdmin RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501683&idx=1&sn=777f7002c33717152250ca88198c2ba7",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
