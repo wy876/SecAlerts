@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486956&idx=1&sn=131242c1424be44adaabbce425d70b53",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "【已复现】大模型 AI 工作流框架 Langflow 被曝远程代码执行漏洞(CVE-2025-34291)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495734&idx=1&sn=57575548668acd71de20df205efb8d37",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
