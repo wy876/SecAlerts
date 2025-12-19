@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Kubernetes 警报：Headlamp 漏洞 (CVE-2025-14269) 允许未经身份验证的用户劫持 Helm 集群",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486390&idx=1&sn=1b960bb67e9183c3c20d1e70afd8cc64",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613704&idx=3&sn=13a89f2d0d822899f02d3072933eb11c",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "牛逼的 POC 漏洞检测模板管理工具 | 支持 Windows、macOS、Linux 多平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613704&idx=4&sn=88be5713c95d61c61ff55311b7f10cb0",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞挖掘：众测src测试姿势总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488830&idx=1&sn=c175b14d5665ae7a995ce848bbcbb9c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "「干货分享」OAuth2.0漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486977&idx=1&sn=080c9408cbb45bdd5b633acf48882034",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "CVE-2025-8110 0day 绕过分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500954&idx=1&sn=e919629392fa7a572f45165b29af3476",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "主流主板的UEFI漏洞可导致早期启动DMA攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797216&idx=3&sn=9a205b9d16ae7f7303362d190c38c494",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【工具分享】Web漏洞扫描工具Arachni",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485836&idx=1&sn=3403ff2db838de4b8ca07ef3f52bb155",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "综合性 WebShell 管理平台 | 内存马注入、命令执行、文件管理和代理等高级功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495917&idx=1&sn=9c9355894e9731a429ee56ded18e50d7",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "30 个渗透实战技巧 从弱口令爆破到权限提升全攻略！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528855&idx=1&sn=d77a46f269e81ca726556eb306aff282",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞预警 | 帆软报表SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495290&idx=1&sn=2e9dca0ac7222715e4446fbbfdfdecb7",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞预警 | 恒友摄影ERP SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495290&idx=2&sn=98036e6d9783c40a7b43a05ea9e4e8d5",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞预警 | 建文工程管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495290&idx=3&sn=821e7837d61feb0223629456fafd394e",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "Java漏洞实战平台上线！覆盖30+安全场景",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484833&idx=1&sn=f146f4facccde026a3bd980f979fd07b",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "新版 CyberStrikeAI 集成 fofa MCP，让渗透测试更便捷",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510358&idx=1&sn=185f72f7ccdd34849754e8e98d7a4272",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    }
+]
