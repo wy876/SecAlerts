@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495734&idx=1&sn=57575548668acd71de20df205efb8d37",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "pgadmin4-9.10 CVE-2025-13780 命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488695&idx=1&sn=6ce206a31dd527f11ccaf55072f49a0b",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
