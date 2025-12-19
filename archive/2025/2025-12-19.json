@@ -358,5 +358,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzODk4ODc2Ng==&mid=2247484487&idx=2&sn=8982d319494aadb21b89d05957c23c7b",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "什么？瞎逛也能捡到高危漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483835&idx=1&sn=22362148fdb8ae6c7b24f012228d1bb4",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【漏洞预警】Apache Airflow Providers Edge3权限提升漏洞(CVE-2025-67895)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491153&idx=1&sn=41256cbdf79b54780d80dae55103bfc4",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
