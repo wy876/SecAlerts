@@ -88,5 +88,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510358&idx=1&sn=185f72f7ccdd34849754e8e98d7a4272",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "deepseek+burpsuite实现渗透测试大模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483878&idx=1&sn=84e763360aa534046e5d966dd9ee94a1",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "deepseek+burpsuite实现渗透测试大模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483878&idx=2&sn=c5e04d13ae1cc016f35c0e5fc0d82d57",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【漏洞预警】浙江宇视视频管理系统 setNatConfig函数 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492423&idx=1&sn=12170bad2a9a0dea62e10f2bb3d7c565",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "某快速开发平台任意文件读取漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483785&idx=1&sn=90f08beb15401a931709e8270a71275f",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "漏洞复现 | 通达OA V11.10 login.php SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493192&idx=1&sn=70b39dfbde81522c1a5dfea45d47cbbc",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
