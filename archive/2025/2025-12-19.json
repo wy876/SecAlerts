@@ -136,5 +136,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484500&idx=1&sn=7e04d78fbd035c89e91a895b8dba49fb",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "【漏洞预警】浙江宇视视频管理系统 setNatConfig函数 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492430&idx=1&sn=5d05b77ffecc9f1c27690a8b007e04ed",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "黑客借React2Shell漏洞发起EtherRAT恶意软件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586013&idx=1&sn=0eb362c1a48a9b56edd4bdc1d4ec6887",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "Kali2025.4+Cherry Studio一键配置HexStrike AI全自动渗透测试助手全教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489583&idx=1&sn=1bdac71d3973bb1d60651fb00041de42",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【靶场463】某林业学院存在严重逻辑漏洞以及信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486956&idx=1&sn=131242c1424be44adaabbce425d70b53",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
