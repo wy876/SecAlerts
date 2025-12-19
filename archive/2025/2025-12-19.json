@@ -316,5 +316,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501683&idx=1&sn=777f7002c33717152250ca88198c2ba7",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "Apache Commons Text曝高危漏洞：攻击者可远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096710&idx=1&sn=722b450510090b66f4ff07d79a70e43a",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "Node.js库曝高危漏洞：Windows系统面临远程代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096710&idx=2&sn=7bcfecec21d7271821f4d56f748b3696",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
