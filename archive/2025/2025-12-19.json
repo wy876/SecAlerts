@@ -190,5 +190,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064490&idx=1&sn=a5ed595aaa1515781ab16cbb360a910b",
         "source": "Doonsec",
         "date_added": "2025-12-19"
+    },
+    {
+        "title": "Java代码审计第9期（再次更新超强课程体系）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524897&idx=2&sn=1d1e63d923d188ebfc0d9b27ab11549c",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "安全小知识-第十四期_智能设备渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247484010&idx=1&sn=ee657d5e0c87a7aed46910de4ded4729",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "记一次对母校的漏洞挖掘经历",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576114&idx=1&sn=94a6f340caced823778744d68e07ff00",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "吃透 Web 漏洞！420 页权威指南人手一份（PDF）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576114&idx=2&sn=d72380f7e1537bd759159bbf267951a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "【附POC及复现环境】WordPress漏洞评分满分的 管理员账户接管漏洞复现（CVE-2025-13390）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485279&idx=1&sn=737298915d37f1813bc7cfee34a04168",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "用 SyntaxFlow 规则“狩猎”逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529239&idx=1&sn=a68cf207a58a85fba0bddb5d0973c8b6",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
+    },
+    {
+        "title": "深圳奇安信招渗透测试、安全运营啦～",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDIzODk3Nw==&mid=2247484869&idx=1&sn=7e3b26679404dadee1f2f66d9ee00b7c",
+        "source": "Doonsec",
+        "date_added": "2025-12-19"
     }
 ]
