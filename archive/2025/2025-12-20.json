@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "记录某系统实战内网K8S渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
