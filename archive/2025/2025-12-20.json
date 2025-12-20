@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485339&idx=1&sn=0122ace110f8c7e402ecc0f9dd9d892d",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "Microsoft DNN NTLM暴露(CVE-2025-52488)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493604&idx=1&sn=61a2e89683248aa440ff4654ac54a497",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "世纪东凌中，艾特思、全鑫达候选！中信证券统一源代码审计平台AI研判能力开发服务及代码审计策略优化驻场服务采购项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653933255&idx=3&sn=92380f3cc2089c9cdaa392442fa06f61",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
