@@ -1,0 +1,56 @@
+[
+    {
+        "title": "【已复现】CVE-2025-66516 Apache Tika PDF XXE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "Wireshark在渗透测试实战中的 30 个分析技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=4&sn=d4b63349aff3cbb32802294870f457a4",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "帆软export/excelSQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495314&idx=1&sn=84f5e4b9841809d2169d7a671a9f2da4",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "原创 Paper | React2Shell 漏洞利用分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    }
+]
