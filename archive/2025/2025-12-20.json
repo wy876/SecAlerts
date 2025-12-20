@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "记一次未授权访问到接管后台通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
