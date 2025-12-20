@@ -118,5 +118,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "攻击者利用PuTTY工具实现横向渗透与数据窃取双重目的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=1&sn=9fdb586fc9fec395e96e49adaf799b06",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "Linux内核首个Rust漏洞CVE-2025-68260曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=2&sn=c887e63995c76837b3cd9b9c5b5718d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "FreeBuf周报 | 2025年Chrome浏览器八大0Day漏洞；攻击者利用React2Shell漏洞部署Linux后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=3&sn=6aff928a66bcd027a52142ceedc0bd25",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "漏洞复现|铜哨云用户中心/Fileopt.ashx存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485339&idx=1&sn=0122ace110f8c7e402ecc0f9dd9d892d",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
