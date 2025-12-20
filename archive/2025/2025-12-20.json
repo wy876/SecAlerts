@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=2&sn=d16a929844c24b43b5f82fd57c6dafaa",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=3&sn=5e6c2d4dca791657021d3208d2c97c6e",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
+    },
+    {
+        "title": "【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
