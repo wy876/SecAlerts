@@ -70,5 +70,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828",
         "source": "Doonsec",
         "date_added": "2025-12-20"
+    },
+    {
+        "title": "非典型SSRF漏洞详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b",
+        "source": "Doonsec",
+        "date_added": "2025-12-20"
     }
 ]
