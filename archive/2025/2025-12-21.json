@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119",
         "source": "Doonsec",
         "date_added": "2025-12-21"
+    },
+    {
+        "title": "【安全预警】大华icc receive RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
     }
 ]
