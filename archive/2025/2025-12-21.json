@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Python反序列化：谁说 Python 只有 pickle RCE？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "0101.将漏洞与未经身份验证的数据库访问联系起来：一次协作式漏洞搜寻",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691544&idx=1&sn=6ff2f4f17b52e035359c4d795f9866cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "「干货分享」微信内置浏览器渗透测试中绕过限制的多种调试方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500984&idx=1&sn=893733b08664d18d14d0eee80263af0c",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "原创 Paper | React2Shell 漏洞利用分析报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247936&idx=1&sn=7428ea3750a49c7ba92d0e75172fbfc4",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "0day漏洞复现 | 华天动力OA前台接口getRelationData存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "【效率翻倍】14款渗透必备插件，这款Firefox定制版帮你一键集齐",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484834&idx=1&sn=6ce6214a51634deecb9ca3621d2f6096",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    }
+]
