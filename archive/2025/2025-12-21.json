@@ -34,5 +34,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484834&idx=1&sn=6ce6214a51634deecb9ca3621d2f6096",
         "source": "Doonsec",
         "date_added": "2025-12-21"
+    },
+    {
+        "title": "网络安全域渗透：域环境信息采集与利用全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487154&idx=1&sn=b41e0814bd95254364566680b1a40850",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
+    },
+    {
+        "title": "CTF Pwn模块拆解（第11期·进阶篇）：2025赛事核心，搞定ROP进阶、堆漏洞精准利用与内核入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8",
+        "source": "Doonsec",
+        "date_added": "2025-12-21"
     }
 ]
