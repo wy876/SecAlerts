@@ -220,5 +220,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501925&idx=2&sn=0e4962e7f427d0e79517c2a7dc67a946",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "专题·漏洞生态 | 操作系统安全漏洞治理技术与实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255986&idx=1&sn=724836e12a08c6d86e512029972ed276",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "Tomcat 弱密码检测与漏洞利用集成工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486032&idx=1&sn=41fd35f369b786122fd60bf59d646466",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "漏洞复现|SuiteCRM responseEntryPoint存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485345&idx=1&sn=20ce960777a54c320bbd956b307bef69",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "CVE-2025-14282 Dropbear——通过 Unix 域套接字转发进行权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534013&idx=1&sn=2d16d4f7c8b19ae74a873bbaabe95424",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "CVE-2025-31200 和 CVE-2025-31201 | iMessage 零点击远程代码执行链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534013&idx=2&sn=f55ccc37a33822205b8f23ffb020b7d7",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "OrangeHRM远程代码执行漏洞 - CVE-2025-66224",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534013&idx=3&sn=43d53096dfe2d3875004281a7e4c378a",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
