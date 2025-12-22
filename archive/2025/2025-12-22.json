@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524713&idx=2&sn=cbada2ec39c0947792f38de8f0b2282a",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "Apache Log4j曝漏洞，攻击者可拦截敏感日志数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096718&idx=1&sn=5336d808f9d4ea309ac15f1c2da25c8a",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "Linux内核Rust模块曝新漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096718&idx=2&sn=d208840c5b3d9fb08ff83c41e0b1c28e",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
