@@ -316,5 +316,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491161&idx=1&sn=7f8de253200be6a01ddb5bb3e869712f",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "攻防常见ActiveMQ漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487236&idx=1&sn=eed9edfe6fe040e17eca804b599bd506",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "灵当CRM XlsFileUpload.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493629&idx=1&sn=6e93f583609af6c3b4249ba6ec435729",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
