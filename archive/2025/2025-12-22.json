@@ -190,5 +190,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484477&idx=1&sn=95c0581695a1eb9cd0aad7c33f014e91",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "如何从0开始挖到第一个漏洞？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247488547&idx=1&sn=8e13089f70ccd528cffed35ee54381b5",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "中国信通院建设的人工智能产品安全漏洞专业库（CAIVD）正式上线运行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489309&idx=1&sn=0f245bb1219d00daca1eaae1534d7c3a",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "人机交互防线失守：新型攻击将AI安全机制转化为漏洞利用载体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525701&idx=1&sn=57de57ae62381d71b421edcf6c223a26",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "OWASP 2026年智能体应用安全TOP10风险、常见漏洞示例、攻击示例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510115&idx=1&sn=225ef1fed8be4ebebeb861cd3fee79d3",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "【漏洞通告】n8n 远程代码执行漏洞(CVE-2025-68613)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501925&idx=2&sn=0e4962e7f427d0e79517c2a7dc67a946",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
