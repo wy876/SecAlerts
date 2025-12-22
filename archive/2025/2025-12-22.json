@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTUxMjA3OA==&mid=2247483854&idx=1&sn=95812fe7e2e8a012c82949ff4f1318c0",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "CVE-2025–8961｜LibTIFF tiffcrop tiffcrop.c main 函数内存破坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508776&idx=1&sn=6582216dae211450a992f3cc9c3a0893",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "[Java Puzzle #3 WP] Fastjson write ascii JAR RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484665&idx=1&sn=d346b67f98ff645fa84d0d60ad37dfae",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
