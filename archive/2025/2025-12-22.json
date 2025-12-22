@@ -118,5 +118,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTM5MDA5MA==&mid=2247483837&idx=1&sn=fc345fd3a9bd0e97fab43e22a6021d0b",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "挖到了大厂高危漏洞，但有三个截然不同的选择，要怎么选？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500849&idx=1&sn=b92420b0dde1ae3dcec65955a20cb0f4",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "2025-12-22 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487708&idx=1&sn=5eba55af44dd21e3ef43326609e3bbf5",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "渗透测试漏洞溯源分析：从警报到攻击者画像的实战指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484607&idx=1&sn=4995d2fb753469a6cb4cc502f7f5b65d",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "短剧影视小程序平台任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484087&idx=1&sn=087f54259202410e52b382a19cfa076d",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "帆软export/excel SQL注入漏洞分析及复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTUxMjA3OA==&mid=2247483854&idx=1&sn=95812fe7e2e8a012c82949ff4f1318c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
