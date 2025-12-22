@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489738&idx=1&sn=4ccbbc36eb437b32e3570575e2c27d9a",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "CVE-2025-68613 n8n 表达式注入导致远程代码执行（RCE CVSS 10.0）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488700&idx=1&sn=f0d21d2b541da44286d3f1e08f30aa5b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
