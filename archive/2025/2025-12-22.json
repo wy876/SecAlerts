@@ -328,5 +328,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493629&idx=1&sn=6e93f583609af6c3b4249ba6ec435729",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "苹果修复了两个在 “复杂” 攻击中被利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494368&idx=1&sn=fee138881378c20846d17f840c20a041",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "新型智能体在漏洞检测方面优于90%的经验丰富的专业渗透人员",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120315&idx=1&sn=ec6122ea28ec75fbeadd3933245e0b2c",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "帆软报表FineReport export/excel接口存在SQL注入漏洞 预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489738&idx=1&sn=4ccbbc36eb437b32e3570575e2c27d9a",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
