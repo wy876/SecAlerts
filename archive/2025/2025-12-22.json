@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096718&idx=2&sn=d208840c5b3d9fb08ff83c41e0b1c28e",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "AI大模型漏洞POC&EXP集锦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484846&idx=1&sn=7980d3a5d7cde06ef40c2fcc45114d6b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "攻防实战思路-不靠0day组合拳拿下目标系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521844&idx=1&sn=8dd191a5bdda9436f5688b885ca983f1",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "【高危漏洞预警】SonicWall SMA1000权限提升漏洞CVE-2025-40602",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491161&idx=1&sn=7f8de253200be6a01ddb5bb3e869712f",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
