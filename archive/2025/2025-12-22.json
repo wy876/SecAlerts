@@ -1,0 +1,122 @@
+[
+    {
+        "title": "[漏洞复现]帆软export/excel sql注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484836&idx=1&sn=d40e8b18c2e5639aed75427fc257ab24",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "攻击者利用React2Shell漏洞部署Linux后门程序，日本成重点攻击目标",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=3&sn=118751ea5720e2bc14f5073eeb2428ea",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "【红蓝对抗】记一次教育攻防的渗透过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNzExNjA1OA==&mid=2247483908&idx=1&sn=3ecc8dd7c0fd78566c64f731fe0ce3ac",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "网络安全周刊#28：React2Shell 漏洞利用机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489611&idx=1&sn=ff0340ffa27b80ef15f63c58f16ab2da",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "一文读懂：自动化渗透测试与BAS的区别与联系",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550339&idx=3&sn=afcc01e8cf40e8f82a7252986fcaa00b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "起底“沙虫”组织新战术：利用原生抓包工具搞渗透，这波操作太“运维”了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485422&idx=1&sn=9c4427b50e8d37434021acaa922a7920",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "API Fuzz结合AI实战获取数据库密码漏洞-实战证书站案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489337&idx=1&sn=fa3491174b2e49630ba55f4ccd599c14",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "一款用于在 Mac 和 Windows 上快速启动和管理各类安全工具的渗透工具箱，支持多种类型工具的统一管理和快速启动。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495928&idx=1&sn=06e8801fe4c0a32b5722dde8125e097c",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "漏洞预警 | pgAdmin4远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495293&idx=1&sn=6b72bed12c7faf243a62c9c966aaa9d1",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件读取和删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495293&idx=2&sn=5ffc642344448c6ceb916dca8b59337b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495293&idx=3&sn=ea157a5f83eead6d180411636e894eb9",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "漏洞复现 | 天锐绿盾审批系统 addUpFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493284&idx=1&sn=df3dde9cd41b517507413689ed4af7ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "安全攻防 | 虚拟化管理平台后渗透思路解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655295687&idx=1&sn=b6f24f0cd26a71591f2960bb8b43add6",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "CVE-2025-8110 0day 绕过分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510444&idx=1&sn=81122a0693f0dd2b4256c9a9b15d1824",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "EasyTools 简单方便渗透测试工具箱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489378&idx=1&sn=68187bd641c04dc931b45b0e7b592bee",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "WordPress主题Soledad曝高危漏洞！低权限用户可秒变管理员，5.7万网站曾面临接管风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462462&idx=1&sn=e14ce919fe1ae52a48ae2de3ce5ab4ea",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "让AI去挖漏洞：11款大模型的黑客能力，我来替你测了个遍",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDg3NTc1Mg==&mid=2247485418&idx=1&sn=6ba00bca54afc8283e878a1affc01478",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "DrayTek Vigor3910 工业路由器固件解密与逆向分析：CVE-2024-41592/23721漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247486198&idx=1&sn=372c4ad97e4eb8c12f63ccc0f6e775d3",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "新型云服务阿里云OSS对象安全攻防 逻辑漏洞 / 文件上传 / SSRF 的云服务漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496376&idx=1&sn=62996021f750a6554c6ca66a9edcdc5b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "详解MagicDot漏洞及其利用手段",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTM5MDA5MA==&mid=2247483837&idx=1&sn=fc345fd3a9bd0e97fab43e22a6021d0b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    }
+]
