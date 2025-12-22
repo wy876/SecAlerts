@@ -256,5 +256,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534013&idx=3&sn=43d53096dfe2d3875004281a7e4c378a",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "Web 应用安全实战（PART 1）：登录环节两大高风险漏洞，这样防护才到位！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486052&idx=1&sn=73651ac30b06b638b3cea06f65bab454",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第49期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496585&idx=1&sn=a03ad373f60885db1914f8b180dcc7d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251215-20251221)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496585&idx=2&sn=8d1cc1946fb76b328d36fef5a510056f",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "WatchGuard：注意已遭利用的 Fireware OS VPN 严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524713&idx=1&sn=0bb209822721bbc91cb805c144f236a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "如何通过一次供应链攻击同时攻破 X、Vercel、Cursor、Discord等数百家企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524713&idx=2&sn=cbada2ec39c0947792f38de8f0b2282a",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
