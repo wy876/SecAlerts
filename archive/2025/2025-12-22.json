@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484665&idx=1&sn=d346b67f98ff645fa84d0d60ad37dfae",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "【PHP代码审计】某SEMCMS代码审计学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247486027&idx=1&sn=9c3a4458da61c69026f61c9d478fd43f",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "RuoYi 4.8.1 后台SSTI 漏洞 一键获取Shiro Key",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517780&idx=1&sn=11e20c7e71f7bde90ef9f70ac144a714",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
