@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886440&idx=1&sn=dcfebd958df4bdcc13e07d9440a788b2",
         "source": "Doonsec",
         "date_added": "2025-12-22"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.12.15-2025.12.21",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503640&idx=1&sn=ddab67ab2a56f1afe75b5e64de36950b",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
+    },
+    {
+        "title": "狗窝公开课-某证书站越权获得大量敏感信息&一分钱支付漏洞案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484477&idx=1&sn=95c0581695a1eb9cd0aad7c33f014e91",
+        "source": "Doonsec",
+        "date_added": "2025-12-22"
     }
 ]
