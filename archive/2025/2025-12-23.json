@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248711&idx=1&sn=7608645cdb91c70bc70ec41ba457b4bc",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "React2Shell 解剖：深入理解 CVE-2025–55182",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508800&idx=1&sn=d3776397a09f5667c14b67b3db90392c",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
