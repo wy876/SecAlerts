@@ -232,5 +232,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495743&idx=1&sn=d339ef9f6b26c2e8ee75ad528a5b9871",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "“缓存欺骗第四章”分隔符被解码，而且顺序不一样？可以挖掘的漏洞点就在这里了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797572&idx=1&sn=dc73db9071cd5dfaafb590c75f15751e",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Log4j 的安全盲点：TLS新漏洞可用于拦截敏感日志",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524719&idx=1&sn=e66447dfb5cb6f92f28d1ed15a93d766",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "n8n工作流自动化平台曝高危漏洞：数万实例面临任意代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332801&idx=1&sn=52c4694e9c82cdb974cbffac68b785d8",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "直播预告 | 攻防演练季应急自救指南——0Day/NDay来袭，传统防护失效下该如何破局？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332801&idx=2&sn=9a484088ff7905a2af2237137a37dc2d",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "新型\\\"谎言循环\\\"攻击利用AI安全对话框实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332801&idx=3&sn=3f779be5eb65d839aee6cc0ffa28d3d4",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Linux内核POSIX CPU计时器实现中的释放后使用漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332801&idx=4&sn=dad05b5eff88693c8f49aa18c5ae1b1e",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
