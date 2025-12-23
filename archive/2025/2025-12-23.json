@@ -160,5 +160,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562902&idx=1&sn=2b63c1e6f7668fe9f164180dc33f9a5a",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "0103.我找到的漏洞可能会让 X（Twitter）损失数百万美元。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691565&idx=1&sn=fce3dd70c5aaf27ef52f62ac9bfcfd85",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "从源码泄露到 RCE：某 AI 平台沙箱逃逸实战复盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484811&idx=1&sn=caa813a20731000976190bb759046681",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "【已复现】FreeBSD rtsold 远程命令注入漏洞(CVE-2025-14558)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504372&idx=1&sn=ec0ca2fb20e9061517a7d4a32162d553",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "【已复现】n8n 远程代码执行漏洞(CVE-2025-68613)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504372&idx=2&sn=59a1b1bff23e5eb7f44f8ac5c6c09d3d",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "总结9大常见Web漏洞，网安小白不能错过！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576174&idx=1&sn=2280dc7bde595a63780e72b770c18d06",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
