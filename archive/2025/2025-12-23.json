@@ -1,0 +1,92 @@
+[
+    {
+        "title": "泛微E-Mobile client/cdnfile任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484097&idx=1&sn=6e80876262dbe3165752dfd42a3cd08d",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "MongoDB 存在严重未经身份验证的漏洞，可通过 zlib 压缩泄露敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486448&idx=1&sn=6fa779425fa010b951e719b4d16e2dc0",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第49期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500972&idx=1&sn=e4d505e64f71c2c946b8c816f028d384",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "30 个渗透实战技巧 从弱口令爆破到权限提升全攻略！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613760&idx=3&sn=d19fdc741c681f2864858d0223745dbc",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "综合性 WebShell 管理平台 | 内存马注入、命令执行、文件管理和代理等高级功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613760&idx=4&sn=6573c187cc51af1c6e7a1c0c6883a613",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "【干货分享】一份超详细的Web渗透测试方法指导书（内部公开）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247485235&idx=1&sn=4ed92ffb15cdd68dfd562f28a5f37976",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "125,000 个 IP 地址的 WatchGuard Firebox 设备暴露于互联网，易受零日远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797248&idx=3&sn=d43ebfdd5171c4bd1fbbadd709ed8604",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "漏洞复现 | KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493310&idx=1&sn=2ff5da2197dea0b7f1f73d6e01ba7aa5",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Docker AI助手提示词注入漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484935&idx=1&sn=85e3f5b4278edf9748ceb417710adf48",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508843&idx=1&sn=d32214bd089b8769517b70782b01b8c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "渗透测试用MCP调用工具，有点画蛇添足，合理的方法有两种",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486489&idx=1&sn=79868ad9f2b033bf1d949613d234aab7",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "API Fuzz结合AI实战获取数据库密码漏洞-实战证书站案例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489339&idx=2&sn=19a2c362c954acc493a9a456c57dc75e",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "漏洞预警 | Windows Admin Center本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495300&idx=1&sn=c383d1a9281f86aaa52a102ee44d95b1",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "漏洞预警 | 宏景eHR SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495300&idx=2&sn=68c18de8e38b390e5760f6513b65b552",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495300&idx=3&sn=3cb34f24c438e3700497e5e7fa80f3f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    }
+]
