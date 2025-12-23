@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256073&idx=1&sn=8862eb8de14b179335cfc86281a76981",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "【已复现】| 帆软export/excel sql注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247484013&idx=1&sn=514d45521e2166d6f28f10eee4417bef",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "XXL-JOB的SSRF漏洞详细分析记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485606&idx=1&sn=dcd065c2f4d672d87bfbc460815ce20c",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
