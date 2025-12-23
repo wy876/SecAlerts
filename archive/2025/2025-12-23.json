@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508800&idx=1&sn=d3776397a09f5667c14b67b3db90392c",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "【红队】基于AI的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247494019&idx=1&sn=c41f3e21fc4242e33744c6e5ddcc0d96",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "全网挑战：听说只有 1% 的安全专家能找到全部漏洞，不服来测！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247507072&idx=1&sn=458a5283bf73a0803d426689fdd01139",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "DudeSuite 漏洞更新播报 20251223",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562902&idx=1&sn=2b63c1e6f7668fe9f164180dc33f9a5a",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
