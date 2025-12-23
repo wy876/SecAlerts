@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485606&idx=1&sn=dcd065c2f4d672d87bfbc460815ce20c",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "一款用于检测思科安全电子邮件网关零日漏洞在实际攻击中的新工具发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120320&idx=1&sn=3ed2fc0eff8a7c95219fdf77a0687c0c",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "短剧影视小程序平台juhecurl接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489749&idx=1&sn=a38c9a26fd76d97916149bed05f3d4a2",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
