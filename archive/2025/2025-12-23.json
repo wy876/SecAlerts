@@ -190,5 +190,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576174&idx=1&sn=2280dc7bde595a63780e72b770c18d06",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "挖漏洞要怎么挖，从0到进阶",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500858&idx=1&sn=064acb1dd2df75a5e14b979a76bb4e20",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "高危Windows图形组件漏洞：单张图片即可让黑客接管系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247518128&idx=1&sn=af13bc471823a9b1f41d7842bac011dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "仿真｜内网渗透：Chrome CVE-2020-6418 Nday + 自动化脚本，拿下运维终端",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4MjkwNTUwOA==&mid=2247484302&idx=1&sn=36c4bb83f56dbaf9c4d1bb0bc9794935",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Thinkphp的GUI漏洞检测利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486039&idx=1&sn=fe15bd0c0c26d0216d945d2da3d341fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "邀测&直播预告|AI漏洞猎人Agent实战分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497672&idx=1&sn=4f315431a4985357ca1af5b67fcc8870",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "邀测&直播预告|AI漏洞猎人Agent实战分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mjg4NTcyNg==&mid=2247490647&idx=1&sn=717db63c3f497e51594759693803f628",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "【已复现】OpenShift GitOps Operator 跨命名空间 RBAC 越权漏洞(CVE-2025-13888)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495743&idx=1&sn=d339ef9f6b26c2e8ee75ad528a5b9871",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
