@@ -88,5 +88,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495300&idx=3&sn=3cb34f24c438e3700497e5e7fa80f3f2",
         "source": "Doonsec",
         "date_added": "2025-12-23"
+    },
+    {
+        "title": "网络间谍伪装高级军官邀请函渗透俄罗斯国防工业",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486954&idx=1&sn=c67d2507d79f5cb06d8d1f888c220d03",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Java RCE场景下的RevShell技术全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485589&idx=1&sn=ac37d509334e6da3e0d4c58ae2d80859",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.0.2更新(新增漏洞扫描功能，优化存在的诸多bug)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485863&idx=1&sn=a228a3989709b4114ebc2f1150ba7100",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "新型UEFI漏洞曝光：技嘉、微星、华硕、华擎主板面临启动前攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586042&idx=2&sn=e4c71c7c6977a72cfa6ba1d0e49d8b0e",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "当 OAuth 成为武器：CVE-2025-6514 的教训",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492457&idx=2&sn=fb2dc4cdffe76f383aec21891091dc95",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "【高危漏洞预警】DedeCMS SQL注入漏洞（CVE-2025-15004）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491172&idx=2&sn=1fd69a01f3b97df6e04f406774a7761a",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "Web应用安全实战（PART 2）：别让登录凭证“形同虚设”！这两个漏洞最容易被忽视",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486069&idx=1&sn=77d0f7fae8dc062f2dfee1f2b1c328d8",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
+    },
+    {
+        "title": "超过50%的公开漏洞可绕过主流Web应用防火墙",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248711&idx=1&sn=7608645cdb91c70bc70ec41ba457b4bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-23"
     }
 ]
