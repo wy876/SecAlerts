@@ -370,5 +370,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485399&idx=1&sn=ca9ed9b482f5bd4423f80bab89335798",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "Nacos  configs接口存在未授权下载配置信息漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484121&idx=1&sn=3c61be8e7cc5823c746be1ae4fc8a506",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "2025年：漏洞被武器化的临界之年",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120326&idx=1&sn=ca6345f853d2ac44a847b0a203fd17d9",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "2025年最易被利用的20个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120326&idx=2&sn=a72c39aa02c5a28ba40b9fd9a8c7bda4",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "工具推荐 | 专注云存储桶遍历、未授权等漏洞浏览器检测插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497638&idx=1&sn=c6f8ee0cb0950a310f704139c59ad19e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "Redis 图形化综合漏洞检测工具：redis_tools_GUI，多漏洞一键探测 + 利用（2025-12-10更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496407&idx=1&sn=5189be4f2bd5fd979daabd26037278ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "黑客利用未修复的 Gogs 零日漏洞入侵了 700 台服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494374&idx=1&sn=5e9d51e37bcec8d94ca14b2e04971472",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
