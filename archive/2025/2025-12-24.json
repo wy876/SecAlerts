@@ -1,0 +1,104 @@
+[
+    {
+        "title": "CVE-2025-55182：Next.js RSC RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485668&idx=1&sn=6a8fd3bb71df71be2cb7dc3fa754bc9e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "CVE-2025-66478：当修复还不够彻底，React Server Actions 的第二个漏洞浮出水面",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485668&idx=2&sn=602e65cd316db4c8b346f6f6bc305f55",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞挖掘：众测src测试姿势总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613773&idx=4&sn=5afc388f9c703ce67986dc7e32784b59",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【已复现】n8n 远程代码执行漏洞(CVE-2025-68613)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521269&idx=1&sn=18de5f89f399329157c0744e7dfc6c54",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "CVE-2025-66476复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484363&idx=1&sn=f7ebe356e39d75533e444b197681072e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "众测小技巧-XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488848&idx=1&sn=4731b4e4e72737bbbaf07d9bb1a0a39f",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "浅析云存储安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501099&idx=1&sn=a8294921e13b9a36a37b4fa18c0386f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "2025 CWE Top 25 揭秘：那些年我们始终没躲开的老漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550421&idx=3&sn=536761b28302a755b087a3e2fc9f3b87",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "恒丰银行AI门户项目POC测试供应商征集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653933295&idx=1&sn=a996111f4181ffd54ecae0787f730521",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞管理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMjYzNDgzMg==&mid=2247487876&idx=1&sn=df7a52e6c93ff7d3da0bfe81e81df184",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "图形化渗透测试辅助工具 - AuxTools（v5.8.1）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508846&idx=1&sn=76dfe61f20aa93305d70ef144748c5b7",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "Web 权限漏洞，为什么永远修不干净？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MDQ0NzkyMw==&mid=2247484933&idx=1&sn=af3b50903121efb81421dc98ec3da872",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "YinVulKiller – 企业级漏洞猎杀引擎",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494675&idx=1&sn=843355b2ba132ce8493b294a23a709d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞预警 | Mattermost信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495327&idx=1&sn=78bd419abc60a989c3b606a89bfb769e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495327&idx=2&sn=d279fc970e82fb62668db2960958fd59",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞预警 | 安友固定资产管理系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495327&idx=3&sn=988050b2ea34cc3639c9752ccaa9d60a",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【物理渗透】一个U盘，强制修改管理员密码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510463&idx=1&sn=b0ede1de149c5a748542ec9a20ece63e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    }
+]
