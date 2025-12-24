@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524734&idx=2&sn=7ccd5eea40d0b6a7a1e2dc6c3f41c681",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "文件包含导致的任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486660&idx=1&sn=c77070e6b416ad33a924658ac3a7d3d9",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
