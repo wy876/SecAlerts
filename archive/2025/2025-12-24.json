@@ -352,5 +352,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489761&idx=1&sn=9f142000e179c9d2a438a3044fd11c84",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "东胜物流软件 WorkFlowGridSource.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493638&idx=1&sn=2c56dfe32704f9db9a572f64eb32fb17",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "服务号存在注入之有意思的edu漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494659&idx=1&sn=e357db59d806c93f3a5a36b5c312b335",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "PenTest：用于渗透测试的AI黑客",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485399&idx=1&sn=ca9ed9b482f5bd4423f80bab89335798",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
