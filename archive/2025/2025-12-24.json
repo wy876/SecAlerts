@@ -256,5 +256,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524905&idx=1&sn=64675b20681ab339b6605e62383bf43b",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "ATT&CK实战靶场 | Lab16：从Web渗透到域控掌控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523760&idx=1&sn=b597fe51ebd68d069229b7912404658d",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "贵港市两家单位因网络安全漏洞被罚，你的系统安全吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493513&idx=1&sn=8bc7598e7cf6a366e5c2e4c3b6a927f2",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487669&idx=1&sn=23a8480c63393cadf15b4ada5a09a11e",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "n8n工作流自动化平台曝高危漏洞（CVE-2025-68613，CVSS 9.9）：数万实例面临任意代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525766&idx=1&sn=a556e4f74892620cc6da78ae57bc00d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
