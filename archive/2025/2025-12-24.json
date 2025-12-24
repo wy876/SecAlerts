@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495750&idx=1&sn=5d6929de7dc07100621f1d6629625c58",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "黑客利用 Gladinet CentreStack 加密漏洞发起远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586062&idx=2&sn=020407397854aad03874c64e26b327d4",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "回报家乡-某证书站的一次渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553650&idx=1&sn=1043c37153b364c815a00c0b8ee4b580",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
