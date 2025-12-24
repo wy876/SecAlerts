@@ -154,5 +154,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487571&idx=1&sn=d193dad0f60188db01bc47df4942fada",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "CVE-2025–66516 & CVE-2025–54988：利用恶意 PDF 攻破 Apache Tika",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508824&idx=1&sn=937d8e8589a79cfa1db2f7ae374c2f02",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "好靶场-哎，这是什么，又一个博客系统2-Werkzeug 文件下载漏洞-WP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488877&idx=1&sn=3cb129935c720c93f17520326effd5e4",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "联发科 MT7622 无线网卡驱动程序的 19 个以上漏洞及 PoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534101&idx=1&sn=2e821b8806fa6b48a25b23c75c3a3fa8",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "重新审视 CVE-2025-50165：Windows 图像组件中的一个严重缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534101&idx=2&sn=ebc82c98a9ea9b33f9474d931c249a1a",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【已复现】LangChain 序列化注入漏洞(CVE-2025-68664)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495750&idx=1&sn=5d6929de7dc07100621f1d6629625c58",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
