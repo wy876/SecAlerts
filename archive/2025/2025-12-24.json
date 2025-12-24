@@ -202,5 +202,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493910&idx=1&sn=6e3bd51a528c8509c2c385a5127e8a15",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "【漏洞通告】RuoYi v4.7.9 认证用户SQL注入漏洞(CVE-2024-57521)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501935&idx=2&sn=b6b66c288527a9bbea575824d14ef0a7",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "新春福利季打响！提交漏洞赢取新年礼盒，仅此一周！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509944&idx=1&sn=223ff2fb1223f5ed72a07ba9a5844d45",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【漏洞预警】Traccar GPS 跟踪建站系统 文件包含漏洞(CVE-2025-61666)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492445&idx=1&sn=60ac135a4029917d3cee84c349bc2995",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "漏洞定级困惑，运营者该信谁？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541252&idx=2&sn=ddbb3e5b658defc9aa1eb379bf586323",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "PostHog 安全研究：从 SSRF 到 RCE 的完整攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486522&idx=1&sn=95da1d543de3fffa75d595fb16d45499",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "ATT&CK实战靶场 | Lab16：从Web渗透到域控掌控",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493046&idx=1&sn=de1e3f3e78f6b36c8d4bbce1648e0fa0",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【漏洞预警】Traccar GPS 跟踪建站系统 文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492440&idx=1&sn=cf7b1a6ba554bd96b031647d3ab70bfc",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
