@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486349&idx=1&sn=eace76809f64080c9b24e6160657f813",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "浙江宇视视频管理系统VM.php接口存在远程命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489761&idx=1&sn=9f142000e179c9d2a438a3044fd11c84",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
