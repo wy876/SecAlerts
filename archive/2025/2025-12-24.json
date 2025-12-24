@@ -280,5 +280,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525766&idx=1&sn=a556e4f74892620cc6da78ae57bc00d6",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "【安全圈】NVIDIA高危漏洞（CVE-2025-33222/33223/33224）可致AI系统完全沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073367&idx=1&sn=fba048676467618b1282d93f6e25fc3a",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【安全圈】n8n 高危漏洞致数千实例面临任意代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073367&idx=2&sn=25e2681f63b6c5e1fd21f1f45ae2d07c",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【安全圈】索尼PSN账号系统曝致命漏洞，双重验证形同虚设",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073367&idx=3&sn=a3017b2a835ce9c84e5065e422339651",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【0day】云网OA",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484853&idx=1&sn=45037004b9e8c0e1e3e948ba80000839",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "“缓存欺骗第五章第一节”漏洞挖掘实战：如何利用URL标准化差异绕过缓存，实现缓存欺骗攻击？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797577&idx=1&sn=cbdbf65b7287c749a733cadad281a328",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "OSV-Scanner——漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODA3NjAzNg==&mid=2247485221&idx=1&sn=bdff852b55284c852d5354b684ace152",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "n8n严重漏洞可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524734&idx=1&sn=7accfa41ad8e25a3c0a292eb451552af",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "UEFI新漏洞可用于在多家厂商主板上执行预引导攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524734&idx=2&sn=7ccd5eea40d0b6a7a1e2dc6c3f41c681",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
