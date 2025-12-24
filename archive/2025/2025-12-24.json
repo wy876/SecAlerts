@@ -100,5 +100,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510463&idx=1&sn=b0ede1de149c5a748542ec9a20ece63e",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "CVE-2025-55182 React2Shell 深度分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487720&idx=1&sn=cc9cb802b97871c8e97b5c083c68bbb0",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "【高危漏洞预警】n8n远程代码执行漏洞CVE-2025-68613",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491181&idx=1&sn=c82ce1b94401e5beea4fbf5d5f6349ca",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "重磅升级！Burp Suite 2025.12 专业稳定版｜Win/Linux/Mac，适配 Java21+，新增 POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDkxMjEyNw==&mid=2247484113&idx=1&sn=6381a76b19cb77c46f3b64f52a5b4920",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "记一次内网渗透复盘-拿下域内30+机器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528924&idx=1&sn=d5802ae528b7011402ba215d90c18155",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "记一次任意用户密码重置漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504951&idx=1&sn=fbd75115d9e67eb31ada8ef4d4f4fc41",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "0104.通过不安全的 JS 沙箱绕过实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691578&idx=1&sn=eb514e180bed1511515c1827b20e1756",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "WVP-GB28181摄像头管理端 敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484105&idx=1&sn=a0c3952f0d67a4120db4173c886028c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "0day | 金和OA XmlHttp.aspx 接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493331&idx=1&sn=44081be1c03f777a469ed431752aefb5",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
+    },
+    {
+        "title": "不久之后：CVE-2025-55182 漏洞便遭到恶意利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487571&idx=1&sn=d193dad0f60188db01bc47df4942fada",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
