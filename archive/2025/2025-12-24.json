@@ -412,5 +412,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485944&idx=1&sn=6b8d28a4833c0ecb124598fdc910f9dc",
         "source": "Doonsec",
         "date_added": "2025-12-24"
+    },
+    {
+        "title": "记一次SRC渗透测试实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487518&idx=1&sn=9d4498c7829a31051be9ba9813d367ec",
+        "source": "Doonsec",
+        "date_added": "2025-12-24"
     }
 ]
