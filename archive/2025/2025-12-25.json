@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484386&idx=1&sn=a53339b2c46f20d01a3d246ae0a5e0d4",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "记一次SRC渗透测试实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486665&idx=1&sn=f6de7890b57d8aa3c21f1ca8190fc028",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "AI 赋能漏洞管理全链路：从多源漏洞情报采集到定制化响应的实践解密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501643&idx=1&sn=73b29aad5aad737c6df98843d3d5e77c",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "n8n工作流自动化工具中的认证后远程代码执行漏洞（CVE-2025-68613）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
