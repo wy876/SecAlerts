@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606104&idx=2&sn=397f7d463ab27cf4f87c397937f2d6e6",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "【圣诞节快乐】EasyTools渗透测试工具箱V2.0.3更新(新增白加黑挖掘与自动编译、文件上传自动bypass测试等功能)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484672&idx=1&sn=42b9f5c9cba2b1c4618844a9caa46cae",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "CVE-2025-55182 完整调试分析复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484715&idx=1&sn=ac7808aa3051f14e53fffc0fd85a5e8c",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "SRC混子的漏洞挖掘之道",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
