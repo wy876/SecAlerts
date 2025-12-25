@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497652&idx=1&sn=e26e513500422e57dc7b2669abc72222",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "【已复现】Windows PowerShell 命令注入漏洞(CVE-2025-54100)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504378&idx=1&sn=15cc0b201bd26cbbbc49ededed4437c1",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
