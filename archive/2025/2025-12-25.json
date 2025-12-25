@@ -166,5 +166,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "【漏洞通告】LangChain 序列化注入漏洞导致敏感信息泄露(CVE-2025-68664)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501941&idx=2&sn=75dd08ccf1908b38bff967ae60baab1c",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "安全小知识-第十六期_企业Java代码审计参考",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247484015&idx=1&sn=06adea715429876c4941fe97a09bd93f",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "微信内置浏览器渗透测试中绕过限制的多种调试方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576241&idx=1&sn=0cbcdf83f3780832c7299704f37b0bba",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "TP-Link Tapo C200智能摄像头：硬编码密钥、缓冲区溢出漏洞及人工智能辅助逆向工程时代的隐私安全问题",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486531&idx=1&sn=d23383b58eacfe71072eeb1ceb7afafb",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【已复现】MongoDB Zlib 压缩协议曝出远程未授权堆内存泄露漏洞(CVE-2025-14847)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495760&idx=1&sn=4a8f14d9ee63a49e6664e9824241dfa7",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
