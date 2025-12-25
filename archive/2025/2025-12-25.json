@@ -1,0 +1,116 @@
+[
+    {
+        "title": "假身份、换脸面试、远程渗透——朝鲜IT人员“无声潜入”美企内幕曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490535&idx=1&sn=caec691499065fa986231bb4d9e44524",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "CVE-2025-7771：利用红队行动中的签名内核驱动程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534118&idx=1&sn=83658b0e9a09ddf366d731b870b01a1b",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "从“救火队长”到“安全先知”，看这家省级银行的金融级漏洞管理实践（文末福利）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650642819&idx=1&sn=579449b6b6ca483ddd9b994e5e85e226",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495154&idx=1&sn=8b0806ed48f332006857d2a16ed3da58",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "「干货分享」Java代码审计入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501125&idx=1&sn=bb33deba5f15b6a3684de7e0bf12f18c",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "MongoDB警告管理员立即修复严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797272&idx=3&sn=810be52a1efd2620e6c193fbdec174c1",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "0day | 孚盟软件-孚盟云 ExportExData.aspx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493349&idx=1&sn=ea373fe9e82e56d000279fe916192abe",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "从 RCE 到数据泄露：LLM 推理服务正在成为新的攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485678&idx=2&sn=60bee3d5b7069de885b533bcd718c83b",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "LLM 应用可利用的漏洞及其 POC 测试代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550446&idx=1&sn=ae65782369eb5bb3f318ba764de4f9c5",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【恶意软件】伪装成漏洞利用程序,专搞信息安全人员",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550446&idx=2&sn=6e71a93e48cc01e83118042511438050",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "网络安全漏洞的【分类分级】",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550446&idx=3&sn=0134f836ff84caae692dea536dc7e93b",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "Zimbra 遭受围攻：高危本地文件包含漏洞将内部文件暴露给未经身份验证的攻击者",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486476&idx=1&sn=117425209095af2a52319e9dd9779df0",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【已复现】LangChain 序列化注入漏洞(CVE-2025-68664)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528949&idx=1&sn=5458123e980343b4521a7c0e6ccb3658",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "开源项目的“隐形杀手”，Google重磅神器OSV-Scanner，一键揪出所有漏洞！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485867&idx=1&sn=2e60a48afaafca387c37ab518126145f",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "严重的n8n缺陷 (CVE-2025-68613, CVSS 9.9) 可在数千个实例中执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515840&idx=1&sn=152546c497dd1f35bae3282575060be5",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "漏洞预警 | 07FLYCMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495331&idx=1&sn=f27e308981b162e0a9831102826793c3",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统任意文件读取和删除漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495331&idx=2&sn=066a8124700fbbaf6dccfc400b76f1bb",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495331&idx=3&sn=629dbe66094fe25376dd6213bb796b9d",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "通过vulnwebview入门学习webview漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489397&idx=1&sn=9a9c0eecd4dc168c91a388fd50d78cc1",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    }
+]
