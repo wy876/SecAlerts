@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495760&idx=1&sn=4a8f14d9ee63a49e6664e9824241dfa7",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "MongoDB Zlib 压缩协议曝出远程未授权堆内存泄露漏洞(CVE-2025-14847)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521277&idx=1&sn=6d84e848e136901c3de9fa1cc29b9100",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【论文速读】| PentestEval：基于模块化与阶段化设计的大语言模型渗透测试基准测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497652&idx=1&sn=e26e513500422e57dc7b2669abc72222",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
