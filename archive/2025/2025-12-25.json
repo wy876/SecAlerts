@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "甲骨文 EBS 漏洞导致 350 万人信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
