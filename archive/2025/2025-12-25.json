@@ -322,5 +322,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "【高危漏洞预警】Windows PowerShell 命令注入漏洞CVE-2025-54100",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【高危漏洞预警】LangChain序列化注入漏洞CVE-2025-68664",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "宇视科技视频管理系统VM.php接口存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
