@@ -340,5 +340,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "WVP-GB28181摄像头管理端api/user/all存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
