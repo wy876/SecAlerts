@@ -346,5 +346,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "药业管理软件XSDService.asmx存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "Burp 未授权漏洞验证高效辅助插件|自动获取拼接接口|",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496416&idx=1&sn=ad1e5000196034c0afd07bd1e4d4ec87",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
