@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489397&idx=1&sn=9a9c0eecd4dc168c91a388fd50d78cc1",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "【Shadowrend 斩影 1.1.5】开发日志3 — 一个集成AI大模型的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485911&idx=1&sn=b9b2144d8ad02a6925bb1d7d65fed686",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "工业流自动化平台n8n曝代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "\\\"lc\\\"键漏洞：LangChain高危缺陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484386&idx=1&sn=a53339b2c46f20d01a3d246ae0a5e0d4",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
