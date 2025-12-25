@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "深入理解 CVE-2025–68613：n8n 工作流自动化工具中的高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
