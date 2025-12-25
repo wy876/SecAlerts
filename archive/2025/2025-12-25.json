@@ -214,5 +214,95 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504378&idx=1&sn=15cc0b201bd26cbbbc49ededed4437c1",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "Java 代码审计 - 反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485816&idx=1&sn=6ef920c149b587a9f11f7039c3ea2694",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第51期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464123&idx=1&sn=8fbfa7e1219d63ac3eafb92e90dd2325",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "漏洞复现|建文工程管理系统download2.aspx接口处存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485367&idx=1&sn=d2e25de7deb9e14c329b768b81aecf0d",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "“缓存欺骗第五章第二节”漏洞挖掘实战：利用路径规范化差异，实现缓存欺骗漏洞的精准打击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797585&idx=1&sn=f0d28ba4ba0334f8a2d57d6998f48202",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "记一次对母校的漏洞挖掘经历",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524079&idx=1&sn=86442649afa66fc853ebd4876bca2e7d",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "【安全圈】WordPress 头部插件曝 9/10 分高危漏洞，官方连发三补丁全失效",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073381&idx=3&sn=81ddefeda78657db996ee181ee4b8ff8",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "漏洞评估与管理市场“八连冠”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735375&idx=1&sn=0ab54c6865fa5bcb9b2cd794806f50f3",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "企业如何控制AI大模型的应用风险；AI部署场景下的web漏洞可借鉴攻防思路 | FreeBuf热门电台精选集第十六期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332912&idx=2&sn=1869cd013bdbda978f34cddc32007ddd",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "硬编码后门：NVIDIA高危漏洞可致AI系统完全沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332912&idx=3&sn=bfdc8f4a39399c2796d65589bceab903",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "年度盘点 | 360发布2025年度十大高危漏洞，揭示AI攻防元年安全新态势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247583489&idx=1&sn=b3d9e83690ac67a68399e273e0e3583a",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "MongoDB：立即修复这个严重的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=1&sn=068ebe6184b266845885514c29d92425",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "硬编码后门：英伟达紧急修复多个高危漏洞，可用于完全控制AI系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=2&sn=1d0e6c4dd1ea49e10ed0e2d46132543a",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "利用Claude Skills完成AI自动化渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NjQxMDcxNA==&mid=2709355339&idx=1&sn=46004054b6eb554127bd954a8317d610",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "OWASP 2026年智能体应用安全TOP10风险、常见漏洞示例、攻击示例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496957&idx=1&sn=e531dfdd390a5bbd65806b3b154660e2",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
+    },
+    {
+        "title": "n8n自动化平台现致命漏洞，可远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606104&idx=2&sn=397f7d463ab27cf4f87c397937f2d6e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
