@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9",
         "source": "Doonsec",
         "date_added": "2025-12-25"
+    },
+    {
+        "title": "帆软报表 FineReport export/excel SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86",
+        "source": "Doonsec",
+        "date_added": "2025-12-25"
     }
 ]
