@@ -340,5 +340,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484563&idx=1&sn=5e0bf9f09e0918e189875feb2d817b8d",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "KEDACOM phoenix监控平台upload_fcgi接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489784&idx=1&sn=859c354763a758a2aba703c21c772211",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "用友NC Cloud IMetaWebService4BqCloud SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "一款赏金猎人xss漏洞扫描工具——Mey",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "帆软 excel SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "速查 | CVE-2025-54100 PowerShell RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "Spring-gateway RCE分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=1&sn=0ecbb04c0fc82b3b2c7f446c941ee85d",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=2&sn=97be18f5f34be49068ed8679393ddc88",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "AI安全新范式：ReAct Agent在自动化渗透测试中的理论与实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485405&idx=1&sn=45a9485f4fac38c338d36e56cd6345ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【漏洞通告】PowerShell 远程代码执行漏洞(CVE-2025-54100)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
