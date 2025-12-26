@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjU1OTk0MA==&mid=2247495751&idx=1&sn=eceb2739987c59f6e14bc23a402a0f19",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "React Shell与Next.js漏洞利用和WAF绕过工具 -- NextRce&NextRCSWaff",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487065&idx=1&sn=af6aa4d6932fa5a161a7be6c77680b91",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
