@@ -394,5 +394,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "dify产品 upload接口存在SSRF漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484137&idx=1&sn=0a5e903b9e1313d2618dd60dbb463c60",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
