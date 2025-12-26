@@ -232,5 +232,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562907&idx=1&sn=4e74b553034a72791bd92c4bf5ac92c3",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "一个$20,000的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498847&idx=1&sn=c65b0ed836f812f3d33486ec0df11aba",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "安全热点周报：高危 RCE 漏洞影响了超过115000个 WatchGuard 防火墙",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504390&idx=1&sn=a20529234296872bfdf998f8eabf2e21",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "信息安全漏洞周报【第053期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064516&idx=1&sn=f50404163ffdeedb7a14cb2c19a6b367",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486669&idx=1&sn=829af854ef27aa5f54b270b15b7afc61",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491502&idx=1&sn=3d9c78eee9386d8cdc65189df1eadf74",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1123-1206）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136690&idx=1&sn=fc036a1c5551080c164859b316c27f4f",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
