@@ -328,5 +328,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487065&idx=1&sn=af6aa4d6932fa5a161a7be6c77680b91",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "LangChain存在严重漏洞，威胁AI Agent机密数据安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333010&idx=4&sn=2bcffa8d170d91437698923133bc3465",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
