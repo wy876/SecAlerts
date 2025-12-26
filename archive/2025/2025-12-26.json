@@ -268,5 +268,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136690&idx=1&sn=fc036a1c5551080c164859b316c27f4f",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "LangChain核心严重漏洞通过序列化注入泄漏密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247483969&idx=1&sn=14c9a484f61d49658c99861beb1c151b",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【公告】漏洞盒子服务器升级通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654075618&idx=1&sn=c912ebe98798c0d54f462e77a88dfba9",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "无回显漏洞测试辅助平台，提供DNSLOG，HTTPLOG等功能，辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486089&idx=1&sn=129b42d1b7624a59476ff725d1f2e322",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【复现】Windows PowerShell命令注入漏洞（CVE-2025-54100）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492548&idx=1&sn=6e2d9002dc58b33d800ac6a00c892b92",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "Fortinet：5年前的FortiOS SSL VPN 2FA绕过漏洞正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524747&idx=1&sn=4048d2d12b0a64ce62d92a0b79a83100",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "TeamViewer DEX高危漏洞可导致 Nomad 服务遭劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524747&idx=2&sn=51ac4b38d86a59e2a6d418263e3e6405",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "代码审计中XSS挖掘一些体会",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557146&idx=1&sn=359093f8bdc53fd9d7add5671a4da4c9",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【免费领】超强渗透工具：Kali Linux实战技术教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557146&idx=2&sn=342697e99f2d7e26d1110f54701a186e",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "Spring Framework目录遍历漏洞技术修复思路对Web应用开发安全的启示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjU1OTk0MA==&mid=2247495751&idx=1&sn=eceb2739987c59f6e14bc23a402a0f19",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
