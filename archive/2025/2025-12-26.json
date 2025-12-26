@@ -1,0 +1,194 @@
+[
+    {
+        "title": "CVE-2025-7771：BYOVD 实战——利用已签名内核驱动漏洞禁用 LSASS 保护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492586&idx=1&sn=79bf0252c530896b8970a7d5f9ad88c0",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "重访 CVE-2025-50165：WIC 的 JPG 重新编码漏洞分析与可利用性评估",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492586&idx=2&sn=49f3b3b540e3bf6bbc7949b5940edc4d",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "年度盘点 | 360发布2025年度十大高危漏洞，揭示AI攻防元年安全新态势",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495766&idx=1&sn=9f5c75a9150939f5e02a3e19247e778d",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "修改返回包也能获得漏洞赏金？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483771&idx=1&sn=7a1e523e42ce171f8c0bb0277c2ad261",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "一款轻量级的CTF/渗透测试Fuzz工具 -- Ryzf（12月25日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517792&idx=1&sn=1fbdf30a4ef52959ea0fc797da8aa420",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【web安全】Nacos常见漏洞分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247486083&idx=1&sn=d1a55bce9f94a5916a4e08fbeaf9cd41",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248726&idx=1&sn=fe3424462c5318044e88181c0930de18",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2025 年度全球网络安全领域的高危漏洞态势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247486562&idx=1&sn=4c4f8979a1d2fb7d33a28a9896d7394f",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "CVE-2025-7771：利用红队行动中的签名内核驱动程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487218&idx=1&sn=f75945573eddcc38b6dfbb327d53c9dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【工具推荐】图形化未授权访问漏洞批量检测工具---Unauthorized_VUL_GUI",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487514&idx=1&sn=1c37b65d6194dac776c945f220b8ff2a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "WordPress Quiz Maker 6.7.0.56 SQL 注入漏洞复现与 Exploit 脚本分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485687&idx=1&sn=a08e6072cb398a8ee555d8883d5435f3",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "Chained Quiz ≤ 1.3.3 未授权 IDOR 漏洞技术分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485687&idx=2&sn=f7cbdd973533f39211081ee1f8b3c216",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "NVIDIA高危漏洞可致AI系统完全沦陷|“黄播”涌入快手，平台安全体系缘何失控？|内鬼；黑客重金收买企业内部人员绕过安全防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613799&idx=1&sn=842708d366c46860ac2440a31a16521a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "n8n工作流自动化平台曝高危漏洞：数万实例面临任意代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613799&idx=3&sn=4a74c799697cb2d52f06ea2c13522bf8",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "捡钱神洞，看我如何挖掘SRC的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485869&idx=1&sn=fafeb55461bbeef766d961f71be50ce5",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "强推一个永久的渗透测试知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521306&idx=1&sn=a42a5c146d24036bfe0f056e7df8a3f0",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "《报告领导，我是外包！》第六章 我不会渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY3ODk4MQ==&mid=2247484821&idx=1&sn=2d8ebd5c87c2b6805375efb6fcb87e8e",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "五年前的 Fortinet FortiOS SSL VPN 漏洞已被持续利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797281&idx=2&sn=f427d788f472dfc46780f3c60a76c8a1",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "漏洞复现 | 绿盟运维安全管理系统 chgplay 存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493382&idx=1&sn=f23fae60dbfe390f72749947b97581db",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "某App渗透测试实战：从信息泄漏到OSS凭据暴露的多维度漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501201&idx=1&sn=4f0f99e39cee99dfa4dbcee30277cd67",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "捡钱神洞，看我如何挖掘SRC的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487170&idx=1&sn=33cece974251b58d54e4e444dd6e9765",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "捡钱神洞，看我如何挖掘SRC的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486270&idx=1&sn=2d72ff73b5393c6cf1884e49595da396",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "大华ICC智能物联综合管理平台 ars_list 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484079&idx=1&sn=457d4e5c2a093edc5b8dfb916bb67e77",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "Unauthorized_VUL_GUI【图形化未授权访问漏洞批量检测工具】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491932&idx=1&sn=e988d782b1067793c5b2cf7207a7e80a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "漏洞预警 | n8n远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495355&idx=1&sn=937d1ba9a1a007e611f4c11ba73f1a53",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495355&idx=2&sn=7cd8d6546ec6618e73309ca1cd31ebcc",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495355&idx=3&sn=87882257dcbfdecdf9251c9ac5cd119a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【工具推荐】NetExec 新一代内网渗透常用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484743&idx=1&sn=a0eb6ddb94a8d918af11202feccb49c5",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2025年度十大高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655295869&idx=1&sn=3b9ae04f58b514ed9306079b3b3c709a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "手把手拆解：小程序/Web端加密鉴权绕过案例全复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510648&idx=1&sn=a51284c38795b25c8133c6197ba98961",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "你的自动化工作流可能正在“帮”黑客挖矿：深扒 n8n 远程代码执行漏洞 (CVE-2025-68613)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901752&idx=1&sn=efe98e036ab30ab339939b7935b11c97",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "企业内鬼利用系统漏洞 秘密作废删除8635条采购订单获刑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247500060&idx=4&sn=6673cd9ffc85d1cbb5c95d4f110e2cb2",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    }
+]
