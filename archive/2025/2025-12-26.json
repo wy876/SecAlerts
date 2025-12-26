@@ -190,5 +190,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247500060&idx=4&sn=6673cd9ffc85d1cbb5c95d4f110e2cb2",
         "source": "Doonsec",
         "date_added": "2025-12-26"
+    },
+    {
+        "title": "Livewire 的严重缺陷使 Laravel 应用易受隐蔽远程代码执行攻击，PoC 已发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486496&idx=1&sn=472151f18127983aa3d4c95139254723",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "渗透Tips：去除BURP中烦人的杂乱流量",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485385&idx=1&sn=c3f9002c4d2fd84b6f051bb5c97d8bde",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "联手奔驰！360安全厂商成功修复19个高危漏洞，筑牢智能汽车“防火墙”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDkxNjEwNg==&mid=2247494536&idx=2&sn=e2f5464cdab5ed01e534994d1d341e1a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzY5NDUyMQ==&mid=2247485694&idx=1&sn=b110689a3e323f91682b9a5ca686c3d4",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "2026年了，想学代码审计一直没行动？别等了......让我一对一带你高效入门到进阶！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487700&idx=1&sn=4c0f31c238afd12cf120622c88d16c5a",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
+    },
+    {
+        "title": "【已复现】MongoDB Zlib 压缩协议堆内存信息泄露漏洞(CVE-2025-14847)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504386&idx=1&sn=c1da5339a9c62457dae9f1b6f6d8f4cc",
+        "source": "Doonsec",
+        "date_added": "2025-12-26"
     }
 ]
