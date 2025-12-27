@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534143&idx=1&sn=ef078bd7a7a0e818720560e8f82780f6",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "Spring-Gateway RCE 漏洞，CVE-2022-22947&CVE-2025-41243 环境部署及源码分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487704&idx=1&sn=86490ab1343db8a9caa4009bac801f10",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "2026年·第一季 170节【闪石星曜@Java代码审计零基础到高阶实战班】，一对一学习指导，持续迭代更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487704&idx=2&sn=5b0b1c133e164139c81742cb8fb5c28d",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
