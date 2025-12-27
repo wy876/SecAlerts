@@ -100,5 +100,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487704&idx=2&sn=5b0b1c133e164139c81742cb8fb5c28d",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "powershell-CVE-2025-54100漏洞POC补充复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493861&idx=1&sn=ff82b5608ba051b9439615e2d3b31c18",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "零点击漏洞肆虐的一年：2025年现代恶意软件带来的启示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333161&idx=1&sn=1cd636f72540cad36e71da0735b70445",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "亚马逊利用110毫秒\\\"延迟\\\"捕获朝鲜间谍；零点击漏洞肆虐的2025年 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333161&idx=3&sn=b6c34abade3012970ba08282d075ec97",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "Shiro漏洞利用工具合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486124&idx=1&sn=a23a757fd7e1d862a14d6fb48a8f70f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "OAExploit一款基于产品的一键扫描工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486124&idx=2&sn=046b7d2e8380673235bacd734417e1f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
