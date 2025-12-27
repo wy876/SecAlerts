@@ -28,5 +28,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138923&idx=1&sn=90e0196ba42344b621f8c057f28b9be7",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "] [ISC2课程：AI for Cybersecurity Course",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493484&idx=1&sn=0fc4c089a96ffd069163f0999a4a0a86",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "【cve-2025-54100】Windows Powershell 命令注入漏洞（附poc）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485165&idx=1&sn=8203f1bbda3da11609c0e3adc723f8a0",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "Zimbra 遭受围攻：高危本地文件包含漏洞将内部文件暴露给未经身份验证的攻击者",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488724&idx=1&sn=7af8030e1ae48f996e80559b0b918ba5",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "【一周安全资讯1227】美国FCC发布外国无人机禁令；n8n自动化平台现致命漏洞，可远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508589&idx=1&sn=4427a06330c55c2d6c8e91076b3b522d",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "Eurostar AI 聊天机器人漏洞：当客服机器人“脱轨”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492607&idx=1&sn=9553fda05577db648d3eb864cb961909",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "CVE-2025-14847 - MongoDB Unauthenticated Memory Leak",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515871&idx=1&sn=7d0348c3ad45ca1c0de0bf9ad1bbe4d2",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "漏洞复现 | 帆软报表 FineReport export/excel 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493402&idx=1&sn=b72bd9f1bbfa3003f660e8f184a47bd7",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
