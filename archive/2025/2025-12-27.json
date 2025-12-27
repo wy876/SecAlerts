@@ -130,5 +130,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486124&idx=2&sn=046b7d2e8380673235bacd734417e1f7",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "NVIDIA Isaac曝高危漏洞：攻击者可远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096726&idx=1&sn=228279ed066060f276ef9564b91d4429",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "TeamViewer DEX曝漏洞：攻击者可触发拒绝服务攻击并泄露敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096726&idx=2&sn=af9d2fb574e557a2ef19e3378045e728",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
