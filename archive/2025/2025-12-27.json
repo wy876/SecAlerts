@@ -1,0 +1,32 @@
+[
+    {
+        "title": "【已复现】Windows PowerShell 命令注入漏洞(CVE-2025-54100)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247521315&idx=1&sn=a1e9b76a5db75f79013585edf532a3c6",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "攻击者利用PuTTY工具实现横向渗透与数据窃取双重目的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613800&idx=4&sn=67733f013157dbccb465d9f597f550e8",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "应急响应之Ueditor 任意文件上传漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501172&idx=1&sn=8e40ce98bbb282d6956fbde87011b661",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495384&idx=1&sn=220e5b4ec652027fe9fdd3c5b2d30aee",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    },
+    {
+        "title": "日产汽车客户数据遭泄露，甲骨文曝0Day漏洞|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138923&idx=1&sn=90e0196ba42344b621f8c057f28b9be7",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
+    }
+]
