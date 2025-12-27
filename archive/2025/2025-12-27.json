@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI5NzExMA==&mid=2247485482&idx=1&sn=c07658cd67e42c7323e097fa78bd8a37",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "漏洞挖掘：众测 SRC 高频漏洞测试姿势全总结（支付 / XSS / 验证码篇）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522178&idx=1&sn=31c55b5ac109f26de13549a369a236cf",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
