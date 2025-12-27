@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485892&idx=1&sn=bb9aeef0289a5bbf168303c7c927c425",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "CurseForge 中 WebSocket 导致远程代码执行的情况",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534143&idx=1&sn=ef078bd7a7a0e818720560e8f82780f6",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
