@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522178&idx=1&sn=31c55b5ac109f26de13549a369a236cf",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "华为 Auth-Http Server 1.0 存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484146&idx=1&sn=1713dedf505fe7338604ba6c3562544c",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
