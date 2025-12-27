@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510660&idx=1&sn=c689dc798def81d264e8f9a37d794081",
         "source": "Doonsec",
         "date_added": "2025-12-27"
+    },
+    {
+        "title": "CVE-2015-5254：Apache ActiveMQ JMS ObjectMessage反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485892&idx=1&sn=bb9aeef0289a5bbf168303c7c927c425",
+        "source": "Doonsec",
+        "date_added": "2025-12-27"
     }
 ]
