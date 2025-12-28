@@ -28,5 +28,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797600&idx=1&sn=7f40d5080f99453f6f4cbb8424a07a95",
         "source": "Doonsec",
         "date_added": "2025-12-28"
+    },
+    {
+        "title": "CVE-2025-54322 (ZERODAY) - 未经身份验证的根远程代码执行漏洞，影响超过 70,000 台主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534155&idx=1&sn=eb7d9cb660ea70a6352254d2dde0e8cc",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "CVE-2025-62215：Windows 内核中由于竞争条件和双重释放导致的 LPE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534155&idx=2&sn=a36b699f047b7ffa02c6f23ee2145e71",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "漏洞复现|KEDACOM Phoenix监控平台存在upload_fcgi接口任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485374&idx=1&sn=24723fe4bf636a236bc26d007e9d9027",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
     }
 ]
