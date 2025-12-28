@@ -46,5 +46,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485374&idx=1&sn=24723fe4bf636a236bc26d007e9d9027",
         "source": "Doonsec",
         "date_added": "2025-12-28"
+    },
+    {
+        "title": "【吃瓜】面向渗透测试工程师的虚假招聘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485873&idx=1&sn=6d62e55b985ee896dfafd9d25a56109f",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "[代码审计]金和OA存在多个SQL注入0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494081&idx=1&sn=f770ccfb7660a7cde23f15fe3552644b",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "HTTP请求走私漏洞原理",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1MjY5OQ==&mid=2247486373&idx=1&sn=54b7ace7615f7333333410df805166ef",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
     }
 ]
