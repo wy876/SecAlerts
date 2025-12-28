@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485410&idx=1&sn=2875b0470297bf4a0f23c12750abce05",
         "source": "Doonsec",
         "date_added": "2025-12-28"
+    },
+    {
+        "title": "南昊网上阅卷系统 logname 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493665&idx=1&sn=fbbd19b45ca74eae4e830c4e917cf7e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
     }
 ]
