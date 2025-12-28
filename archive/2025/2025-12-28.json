@@ -16,5 +16,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjI3MzU3MA==&mid=2247485079&idx=1&sn=631edceba331999bbc51bc3f924c5dd1",
         "source": "Doonsec",
         "date_added": "2025-12-28"
+    },
+    {
+        "title": "渗透也骗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247506316&idx=1&sn=6cc63cb4b1903129fbd28ba8242bc4e8",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "“缓存欺骗第五章第四节”路径解析不一致怎么会导致漏洞产生？上实操！手把手教你成功运用并实施",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797600&idx=1&sn=7f40d5080f99453f6f4cbb8424a07a95",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
     }
 ]
