@@ -70,5 +70,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487706&idx=1&sn=f0e46f828e94329cde4654cb1de5a8d8",
         "source": "Doonsec",
         "date_added": "2025-12-28"
+    },
+    {
+        "title": "MongoDB高危漏洞允许未认证攻击者读取未初始化内存，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333178&idx=1&sn=944d6c888e66700b84d4f2a45e62440f",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "每周PDF资源：CVE-2025-66478攻击链分析；人工智能安全与治理现状；JavaScript引擎漏洞利用；",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333178&idx=3&sn=15c71b5b0bdd17bf5145d836dbe1536b",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
+    },
+    {
+        "title": "AI安全新范式2：ToT Agent 如何用思维树重塑自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485410&idx=1&sn=2875b0470297bf4a0f23c12750abce05",
+        "source": "Doonsec",
+        "date_added": "2025-12-28"
     }
 ]
