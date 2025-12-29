@@ -1,0 +1,236 @@
+[
+    {
+        "title": "从15天到1.5天，AI如何让漏洞修复提速10倍？SecONE核心技术首次揭秘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247514271&idx=1&sn=3171e78d450a060881bdce319e86c9af",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CTF Web模块系列分享（三）：客户端漏洞专题，核心讲解XSS和CSRF",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500880&idx=1&sn=f03b0fa8b1db6037ad053a8217c149cb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞速递 | MongoDB CVE-2025-14847漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501690&idx=1&sn=b4ff7c58c093d4973686aa6f90b41922",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞复现】锐捷 EWEB auth 接口存在远程命令执行漏洞：复现与验证过程。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487547&idx=1&sn=4208391f76431c2659c8a7e68b626609",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "一款用于在 Mac 和 Windows 上快速启动和管理各类安全工具的渗透工具箱，支持多种类型工具的统一管理和快速启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613813&idx=4&sn=f16c17dac696902421db155a71425426",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-上篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495176&idx=1&sn=ce28479d7719c9341957e4122ec05bdc",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "Mongobleed 漏洞(CVE-2025-14847)利用工具发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797294&idx=1&sn=66239fe2478aa00560e9d1416bd36078",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "育碧《彩虹六号：围攻》服务器漏洞与MongoBleed漏洞有关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797294&idx=2&sn=ce444454ba9e07af4edfef19f574a2d9",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "1day | 金和OA AjaxForCompanyBudgetDecompose.ashx存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493445&idx=1&sn=0fe7a79c7d9a4c8070d2b9b3b1b42cc7",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【WordPress专题06】CVE-2025-13342 选项修改导致的管理员用户注册漏洞POC及漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485312&idx=1&sn=0425719767b7010a004d6ea750a6495b",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "phpMyFAQ 2.9.8 被曝 CSRF 漏洞：一次“老问题”的典型复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485696&idx=2&sn=01b57d060ecad7d60120fed3e78aca3e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "一款Windows 漏洞映射与分析工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529017&idx=1&sn=4bf72a405d3c0d6b86179a9c166ff20d",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "告别传统漏洞评分：Agentic AI 安全测评体系 AIVSS 全貌图解（OWASP,2025)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550547&idx=3&sn=d24b0b6c350a6241efb10c6f5f5b8ee7",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CVE-2025-54322 (CVSS 10)：人工智能代理发现全球网络设备中的关键零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486500&idx=1&sn=2c57d9f794e31d1bf5c5f96d7ba4eb55",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "内网渗透利刃&外网打点神器：dddd-jb扫描器更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491551&idx=1&sn=70b6b25e12aa5bbde32e7e9fa40827dc",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CVSS 10分的Erlang/OTP SSH漏洞（CVE-2025-32433）复现详细版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485229&idx=1&sn=226e91862e9552892f68087930128d95",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "MongoBleed: CVE-2025-14847 已复现！速修！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507424&idx=1&sn=0f4e9f17ad5921f760626803839f0a89",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "内网渗透(七)：凭证攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247488168&idx=1&sn=d05bad05a5292f7842a32eb05b42e090",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "一款基于GPT的漏洞分析工具-VulnWatchdog",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247515294&idx=1&sn=96d4ddbbd69f3c927d8789837519bddb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495986&idx=1&sn=103764658f5011233a32103adddb1aa4",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CVSS 9.3！LangChain 爆出“偷家”漏洞，AI 时代的第一根安全毒刺？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489621&idx=1&sn=fddd0b3df3d20ca6ab466982850a311d",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489438&idx=1&sn=bcee1e1c66b565ee6437b151562c1a1f",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "渗透测试工具箱--EasyTools",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491373&idx=1&sn=b503920e3e9adee122ee319c3ccacc1e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞预警 | SeaCMS海洋影视管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495360&idx=1&sn=fed069301fb44e6d46f1160c7fb616cb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495360&idx=2&sn=2cd12233c1c5d32c2b1a5ebdabab83cf",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495360&idx=3&sn=ffb08715dbedea76b67830eeb43358fd",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "600页 详解Java代码审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296040&idx=1&sn=e901cf1abc8726be2ed94cb1c90b24fb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "渗透测试中任意文件读取小技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489421&idx=2&sn=cd3495e5f532d920a3e6a000a1e3be0e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "最高危漏洞威胁数据中心“大脑”！惠普OneView曝CVSS 10.0级漏洞，可致远程任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462490&idx=1&sn=8c1103b85ee1ccd6a0d1bb48770f1a5e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞检测脚本】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487196&idx=1&sn=16b2b14836b644e3f7eb01506a979f21",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "phpmyadmin未授权访问漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484154&idx=1&sn=74943f2e4b2c5a5de7f80fd10aafade9",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "Tomcat 常见漏洞全汇总：含 POC 的复现笔记，小白收藏即能用|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496486&idx=1&sn=fae9370e773a7bbe0b59e248c2442256",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "Parrot 7.0发布，新增渗透测试和人工智能工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120388&idx=1&sn=0b87316a3e2aec87fcc29bf30dc071f8",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "0106.我如何在漏洞赏金第一年就赚到六位数：我的经验",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691593&idx=1&sn=3e464fe7410a6dc971925ca1a1a0902b",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【重大更新】EasyTools渗透测试工具箱v2.0.5（它支持自定义主题啦，不再是以前那单调的白，同时优化诸多允许逻辑bug）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484688&idx=1&sn=66e4a1510be5adb03d0d82abf8bdf09e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "xingrin——自动化资产发现与漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODA3NjAzNg==&mid=2247485239&idx=1&sn=1c41acb5ce4b0afc1e8aa668589896f9",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【已复现】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493033&idx=1&sn=153b8c986cc2a5c1992934f0b292203e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【代码审计】某分销系统代码审计流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487238&idx=1&sn=95ad17af12ebf2893a1896f68ef5bac6",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "记一次艰难的渗透测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487174&idx=1&sn=67a00913c81e3dec9011ce6e5e40f242",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    }
+]
