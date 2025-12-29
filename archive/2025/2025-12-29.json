@@ -358,5 +358,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484630&idx=1&sn=fc555880e04adae5199b04f272fdad67",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞通告】MongoDB 未授权内存泄露漏洞(CVE-2025-14847)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524926&idx=1&sn=228995f6ca3b9742e101526240c5cc5b",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "压轴更新！Kali 2025.4 携 AI 渗透工具来袭，你更新了吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODA5MTcyNQ==&mid=2247485908&idx=1&sn=7bf3cf6a29fa5aec5045920be07d6d23",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "MongoDB中存在的高危漏洞可能导致内存泄漏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260609&idx=1&sn=06b90387c8c8f4d32b8ef8f3e7fdb6b0",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞预警 | MongoDB 存在未授权内存泄露漏洞（CVE-2025-14847）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487977&idx=1&sn=3699c611534ecba93aae075c431fa837",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
