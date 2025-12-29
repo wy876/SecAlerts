@@ -418,5 +418,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501951&idx=2&sn=98131fa6722cbd2cec627cfd126b62e1",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "警惕AI助手变“内鬼”！揭秘黑客诱导终端命令执行的新型攻击手法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247630366&idx=2&sn=e191999db86bae03da199d76ea8ac103",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "React Server Components (CVE-2025-55182)远程代码执行漏洞从环境搭建到漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484551&idx=1&sn=c5736547ded856d6faae4c7d3593870f",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "“耳机劫持”惊魂！热门蓝牙耳机藏致命漏洞，手机恐被远程操控",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606699&idx=2&sn=56ed1fca7dd1011e0b211a57baebeb2e",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247565619&idx=3&sn=426c856c4ac25ad9c52ed91c8d4a2f35",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞复现|金和OA_C6_OuterAppTIDSave.aspx存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485380&idx=1&sn=6c830aabebb5a90e980c752f4243d4c9",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【已复现】Zimbra 文件包含漏洞(CVE-2025-68645)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504401&idx=1&sn=0a41c93f61610d2de21b143cf5346f92",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
