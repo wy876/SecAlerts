@@ -316,5 +316,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486542&idx=1&sn=3bf852a69d4a680a968c21743d16fd6f",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞预警】锐捷 EWEB auth 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492456&idx=1&sn=dc9573c3c7a78685ceb4e8a8dc842982",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【已复现】帆软export/excel SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTI0MTAyNg==&mid=2247483817&idx=1&sn=1eb74ad97826263a8b6cc6d2c89f585c",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞预警】锐捷 EWEB auth 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492452&idx=1&sn=a561e3c2b1ccc3f2e2666b4ca2049a11",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "一次攻防演练中的两次近源渗透记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484131&idx=1&sn=1874d2246608045a07bbec85ce4843c4",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【吃瓜】MongoDB近5年最严重的堆内存泄露高危漏洞CVE-2025-14847复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485891&idx=1&sn=789ff57d27b78b46f9c82c9b59c4ee6d",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
