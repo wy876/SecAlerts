@@ -382,5 +382,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487977&idx=1&sn=3699c611534ecba93aae075c431fa837",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "MongoBleed：MongoDB zlib 信息泄露（CVE-2025-14847）漏洞检测插件更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492583&idx=1&sn=775eb492d63d73b76f06c6d633619533",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "记一次登录框0-1渗透突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576365&idx=1&sn=a19a3e2fe2ce3e6467ed8c580f5211cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第50期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496602&idx=1&sn=e818fe3c71e6be4b1bed1d304c101eb2",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251222-20251228)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496602&idx=2&sn=f2586ef15dc4dcb74fbe5677bee036bb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789559&idx=1&sn=9b6bcd8a6f0fc7d9ec4c3e88b8f74f4c",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【漏洞通告】MongoDB zlib 压缩内存泄露漏洞(CVE-2025-14847)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501951&idx=2&sn=98131fa6722cbd2cec627cfd126b62e1",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
