@@ -454,5 +454,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504401&idx=1&sn=0a41c93f61610d2de21b143cf5346f92",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "【安全圈】\\\"耳机劫持\\\"：索尼等主流无线耳机芯片曝高危漏洞，黑客可接管用户手机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073453&idx=1&sn=f1dbd8bd525c3a389121fa141f0374ab",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【安全圈】CVE-2025-54322（CVSS 10分）：AI Agent发现全球网络设备关键0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073453&idx=2&sn=4ad2cb470ecbf8e9ebddb77c454c0eeb",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "LangChain Core存在严重的序列化注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524761&idx=1&sn=b5d8363914b09d269fa325e5e3010cbf",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "CISA 将已遭利用的 Digiever NVR RCE漏洞纳入KEV",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524761&idx=2&sn=1b94ad55c3aaf6d0f95f5c0d1386a2e4",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "iOS 26.2陷阱：WebKit整数溢出漏洞PoC曝光，你的iPhone安全吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333216&idx=1&sn=80ca1b36dcc67f465051d8356f25a1a3",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "育碧《彩虹六号：围攻》服务器遭入侵事件与MongoBleed漏洞关联",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333216&idx=3&sn=8d91ae7d09d9ff446da635113d26debe",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "\\\"耳机劫持\\\"：索尼、JBL等主流无线耳机芯片曝高危漏洞，黑客可接管用户手机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333216&idx=4&sn=4882cb9094c62f98ea5c780bb77b3b93",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【已复现】Zimbra Collaboration 存在本地文件包含漏洞（CVE-2025-68645）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490641&idx=1&sn=06a9ca79e3169a34bc9df9ad92485e88",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
