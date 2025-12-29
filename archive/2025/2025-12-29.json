@@ -286,5 +286,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484409&idx=1&sn=e3ed42a894bd9db45025860fb6eafa64",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "我是如何在一个流行的 JS 沙箱中发现严重 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508903&idx=2&sn=b0ab4678608cc194d5dd7583a53b7e3b",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "OWASP 2025 年十大漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247534174&idx=2&sn=0a93849baa8b779110fe2e9a5dd8b626",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "如何用AI挖掘帆软表达式注入0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484695&idx=1&sn=7749b5ef1b7bcb473e22a4c9017212e6",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "从POC到规模化生产：为什么2025年是AI-SOC的真正爆发点？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139869&idx=1&sn=28439d6defc435d13edc538b1afc3108",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
