@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139869&idx=1&sn=28439d6defc435d13edc538b1afc3108",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "MongoDB内存泄露漏洞（CVE-2025-14847）概念验证工具：mongobleed",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486542&idx=1&sn=3bf852a69d4a680a968c21743d16fd6f",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
