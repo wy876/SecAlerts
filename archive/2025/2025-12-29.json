@@ -346,5 +346,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485891&idx=1&sn=789ff57d27b78b46f9c82c9b59c4ee6d",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "一次弱口令到漏洞百出",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553693&idx=1&sn=f4655e0bc0a39e7e8f257e5225e0f62d",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "Nacos漏洞攻防实战笔记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484630&idx=1&sn=fc555880e04adae5199b04f272fdad67",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
