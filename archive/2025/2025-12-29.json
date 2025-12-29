@@ -520,5 +520,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485897&idx=1&sn=3ba4555654cc9f788719b0a72cc6fe51",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "漏洞预警 | MongoDB 存在未授权内存泄露漏洞（CVE-2025-14847）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491400&idx=1&sn=3c08a7567535cd8e4b1549ae5595318b",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
