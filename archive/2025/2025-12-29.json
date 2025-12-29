@@ -232,5 +232,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487174&idx=1&sn=67a00913c81e3dec9011ce6e5e40f242",
         "source": "Doonsec",
         "date_added": "2025-12-29"
+    },
+    {
+        "title": "Vcenter后渗透一些踩坑点及自动化工具的实现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTkxNzg4MA==&mid=2247490268&idx=1&sn=ac6373d8eeac00583149df5f79650970",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "MongoDB 严重漏洞，87K 服务器暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247505029&idx=1&sn=f8c84739472d144d27b638a792b245c2",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "蓝牙芯片供应链重大漏洞披露：数亿设备面临「耳机劫持」风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247505029&idx=2&sn=77eba0df0192f3f89d927910353af702",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "渗透测试 | 通杀？某证书站统一认证平台信息泄露到用户接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484536&idx=1&sn=791ed1e492613e9e565152530d9ab1ee",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "0107.漏洞赏金的阴暗面 | 截图背后的真相",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691602&idx=1&sn=53b78b759609e3d12972ddef3a9ffa48",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "WPS文档中心和文档中台 operate 未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493691&idx=1&sn=1c7fee1dad8ac3785acdac8d5fc12719",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "2025年最危险的25个软件漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247522545&idx=1&sn=34ff2eef4de0887950ee47a3048907a4",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "【高危漏洞预警】MongoDB Zlib压缩协议堆内存信息泄露漏洞CVE-2025-14847",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491199&idx=1&sn=685a6d86c51692507bb0b6bcb85a22a1",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
+    },
+    {
+        "title": "泛微后台RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484409&idx=1&sn=e3ed42a894bd9db45025860fb6eafa64",
+        "source": "Doonsec",
+        "date_added": "2025-12-29"
     }
 ]
