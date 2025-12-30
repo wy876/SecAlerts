@@ -178,5 +178,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493700&idx=1&sn=0ae824a3fc350f82bdaa4a4c0e8b378a",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "关于NutsBot新型僵尸网络利用React2Shell漏洞传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzg0NDkwMw==&mid=2247493346&idx=1&sn=e653c13b1fab7ddce0ac9832d8359dfd",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "CVE-2025-59517 Windows任意文件读写漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485270&idx=1&sn=07e75a02d6885718d9e8967effd2b76f",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
