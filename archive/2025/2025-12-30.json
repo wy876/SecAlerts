@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096734&idx=2&sn=ed08b562fe381833a17f2f253721aeec",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "漏洞复现|X友时空KSOA_downnewsatt.jsp存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485386&idx=1&sn=1cd8bd2a43ec82a6b1c66e5290302796",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
