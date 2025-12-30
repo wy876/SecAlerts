@@ -292,5 +292,53 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485386&idx=1&sn=1cd8bd2a43ec82a6b1c66e5290302796",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "Kibana未授权访问漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484172&idx=1&sn=d58e947f0444f2d0996c3f8bfb906455",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【漏洞分析】亿赛通电子文档安全管理系统(CDG)前台GetShell漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484105&idx=1&sn=806ca76e444970d4b665b2b7c5d3e23c",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "指纹识别+漏洞扫描+路径绕过 | RVScan让你的Burp Suite如虎添翼",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497682&idx=1&sn=1bc287cd4c4fc2b34d450f8095472077",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "SQL 注入检测利器升级 基于 Xia Sql 二次开发！DouSql 重构 Burp SQL 精准检测 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496513&idx=1&sn=f8ee356fa892d07cb521428427e2122d",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "MongoDB警告管理员立即修复严重的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494504&idx=1&sn=5131dedea6874a88f4200742b480eeb8",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "MongoDB 未授权内存泄露漏洞（CVE-2025-14847）已复现版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494667&idx=1&sn=7a4e79d105f526d01a1504c2a400a240",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【高危漏洞预警】Zimbra本地文件包含漏洞CVE-2025-68645",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491205&idx=1&sn=8a7ddd77db7f3399d10cc43205fad236",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "预警：Zimbra Collaboration存在任意文件读取漏洞CVE-2025-68645",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489807&idx=1&sn=469081d745c2c2bb0875dd2d60c7a6de",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
