@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489795&idx=1&sn=22f73512d0df61047abeb439472f96a7",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "从作弊手段到漏洞利用：Webrat通过GitHub传播",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487601&idx=1&sn=a85d99e07b96a31ee7c3edd5c12be9a8",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "漏洞复现 | 帆软报表v9 printie/pdf 任意文件写入致RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493461&idx=1&sn=e99f06c1e8a624b067bfe56ab7db0d79",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
