@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494547&idx=1&sn=7f6cb8743233b9263deb08f8eaf92af5",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "华天InforcenterPLM BaseHandler.ashx 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493700&idx=1&sn=0ae824a3fc350f82bdaa4a4c0e8b378a",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
