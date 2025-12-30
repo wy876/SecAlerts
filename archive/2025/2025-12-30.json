@@ -262,5 +262,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508607&idx=1&sn=6dece16d638b68f73980624661191bbc",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "【安全圈】Xplora 儿童手表惊现“万能钥匙”漏洞，黑客可监听通话",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073476&idx=1&sn=adf8c250e520bbcee2f52917017272d8",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【安全圈】通过内核驱动与命名管道实现Windows本地提权漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073476&idx=2&sn=75eb6eae26e4c17509d77f97cdbd2e19",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "蓝牙耳机新漏洞让黑客能够劫持已连接的智能手机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096734&idx=1&sn=f651d7e97307181bb4db98bf9684ac35",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "MongoBleed高危漏洞(CVE-2025-14847)正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096734&idx=2&sn=ed08b562fe381833a17f2f253721aeec",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
