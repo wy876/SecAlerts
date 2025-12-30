@@ -142,5 +142,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493461&idx=1&sn=e99f06c1e8a624b067bfe56ab7db0d79",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "SQLi → RCE：利用 PostgreSQL 注入实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508965&idx=1&sn=d9462b4551d5f7847ca7c66029832ec7",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "关于NutsBot新型僵尸网络利用React2Shell漏洞传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501031&idx=1&sn=42a7c4fa150d21ec15b83f934aaa19bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495249&idx=1&sn=45529388a686ac221f2eab430a8485cd",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "OWASP发布AI智能体十大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504686&idx=2&sn=eab01c5cdabe7907632344151a22e9d1",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
