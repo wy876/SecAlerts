@@ -190,5 +190,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485270&idx=1&sn=07e75a02d6885718d9e8967effd2b76f",
         "source": "Doonsec",
         "date_added": "2025-12-30"
+    },
+    {
+        "title": "【漏洞通告】SmarterMail 未授权文件上传漏洞(CVE-2025-52691)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501957&idx=2&sn=4a3693efaf3919be75ecb8802a150d05",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "Parrot 7.0发布，新增渗透测试和人工智能工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576396&idx=1&sn=6759ee24b4d1f633d0db5a11ba9fd477",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "代码审计的基本概念和流程，白帽黑客必会！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576396&idx=2&sn=a9412c4da154fee96ffbd53eebcc0536",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "SMB自动认证机制的两种攻击路径复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1NTkzMTYxOQ==&mid=2247485816&idx=1&sn=bdccb8bfb72b2ce9957bc6b0404db343",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
     }
 ]
