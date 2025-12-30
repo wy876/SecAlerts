@@ -1,0 +1,134 @@
+[
+    {
+        "title": "CTF Web模块系列分享（四）：文件上传/包含漏洞，突破服务器的文件屏障",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247500884&idx=1&sn=8c060990ea8369baa0f413be916e1205",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "一款Windows 漏洞映射与分析工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613838&idx=4&sn=0d441ba78849a974c89e8509e1c38e59",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第50期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501030&idx=1&sn=39a27628a7c74d9bee12f6862a58c236",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "XSpeeder网络设备中存在严重0day远程代码执行漏洞，超过7万台主机面临安全风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797309&idx=2&sn=57a000364e1e18103af7e0450e09f631",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "新型蓝牙耳机漏洞使黑客能够劫持连接的智能手机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797309&idx=3&sn=5643ad780ec79fd1eb2400e62afba101",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "一次弱口令到漏洞百出",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487208&idx=1&sn=0c8d95de2303c62621a3252ade24daf2",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "短信验证码漏洞的三类小众挖掘思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487556&idx=1&sn=b463083aad2d08c78e8afac3052b3efa",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "CVE-2025-52691 (CVSS 10)：SmarterMail 严重漏洞使服务器易受未经身份验证的攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486516&idx=1&sn=821ee2cf3460e892fcd1a3f11cfe3993",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【已复现】Zimbra 本地文件包含漏洞(CVE-2025-68645)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529034&idx=1&sn=dd8687a1c5cddacfe1531e0cbb2fb507",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "漏洞预警 | D-Link DI-8100G/DI-8200G/DI-8003G命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495389&idx=1&sn=8de9656c1064c2b1c9c4403a22e69fc7",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "漏洞预警 | 安科瑞智能环保云平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495389&idx=2&sn=90acc0d74d671fdd3a958d1cd131503b",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495389&idx=3&sn=d4f23cabbcea813606fcb12aa23b992e",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "渗透测试系统性资产梳理，一口气看完",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNTExMDI1Mw==&mid=2247483786&idx=1&sn=41d247ba851d24f89fe86b9da69f5b49",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "一个功能强大的 Docker 远程 API 漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496019&idx=1&sn=ab3beb8bc4246f83556fb702856c9fa8",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【吃瓜】爆料称MongoDB漏洞致育碧数十TB源代码泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485928&idx=4&sn=dc0706969001334e41f9c895d2863562",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "【2026最新】10多款主流渗透测试浏览器插件分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510720&idx=1&sn=257e330d60b2b699d319dd18aa95827b",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "紧急！MongoDB 曝高危漏洞，无需登录即可偷看堆内存，快查查你中招没？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901765&idx=1&sn=338fbe102826d62663b9e68bd3b771d8",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "值得细品的任意账号接管漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487582&idx=1&sn=182f126192bc17124e50cbbc36c59b91",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "druid未授权访问漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484162&idx=1&sn=b7ce2c1db1c64d7580da82433e560670",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "攻防演练神器 | 一键检测Struts2/Shiro/Log4j等主流漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497679&idx=1&sn=32f8d71a3c9f1e30ac5d43894b46ee17",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "React2Shell 的一个严重漏洞被用于勒索软件攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494502&idx=1&sn=51af51b692f3c27d1b6eeb49a6b0d264",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    },
+    {
+        "title": "赛普EAP企业适配管理平台AppData.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489795&idx=1&sn=22f73512d0df61047abeb439472f96a7",
+        "source": "Doonsec",
+        "date_added": "2025-12-30"
+    }
+]
