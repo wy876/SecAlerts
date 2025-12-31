@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501963&idx=2&sn=e7dc1e1dc5fd9ea0e5e3f79b3b202a3b",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "rep+ 如何帮助我发现 Supabase JWT 严重暴露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486562&idx=1&sn=a206c0934531d19379ff00bf3fad5012",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "信息安全漏洞周报（2025年第52期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464136&idx=1&sn=f21c093fec2f70ee96429b403b2971ef",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
