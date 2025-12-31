@@ -1,0 +1,116 @@
+[
+    {
+        "title": "漏洞复现 | Smartbi 远程代码执行漏洞(QVD-2025-31926)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493491&idx=1&sn=1ffd3d7217effb1b50c292c566fb6024",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【成功复现】Zimbra本地文件包含漏洞(CVE-2025-68645)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503760&idx=1&sn=4d8e6ce67a0c02a646eb2e124371e30d",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613873&idx=1&sn=797b93cc0c6fe110ccfdb1b19970f8ec",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "从POC到规模化生产：为什么2025年是AI-SOC的真正爆发点？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613873&idx=3&sn=c7efe045b136da6324621e73dd91ba7f",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "漏洞预警丨CVE-2025-68668：n8n Python代码节点存在任意命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650388389&idx=1&sn=4b159867030b131506034fbe02bbf39d",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【漏洞预警】Zimbra Collaboration 存在本地文件包含漏洞（CVE-2025-68645）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485366&idx=1&sn=42d9679d7876607b8351a2ba4070c634",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487301&idx=1&sn=1d16576cd10d106251ff9200a092999b",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【漏洞脚本】用友U8 Cloud FilterCondAction SQL注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487561&idx=1&sn=151c468c8ed8e3cdcd99644f52ffdba8",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "捡钱神洞，看我如何挖掘SRC的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNDY5NzMxNw==&mid=2247484138&idx=1&sn=f7c28b7af0b0d2999d7f256f29f4bdfe",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "复现n8n RCE（CVE-2025-68613）CVSS 9.9漏洞利用详细版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485251&idx=1&sn=1be5edc1e38be0a1a5e2a1dccc1900f7",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "我家狗也能挖！全球首例AI智能体满分RCE漏洞。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507436&idx=1&sn=d773e6be0456e9aca347ec3240f3e4bc",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "0day漏洞利用合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487282&idx=1&sn=afd994d676a8efb4e470a0e608855ab2",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "CVE-2025-14847",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484869&idx=1&sn=9a0f6b636495b251308b6b5bec9ff30c",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "30 个内网渗透信息收集技巧，吃透了，内网横着走！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529035&idx=1&sn=c670d03dd56760ecec23fe3a899e9553",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "漏洞预警 | Windows PowerShell命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495392&idx=1&sn=72801aee458275fc150ad6b4fb4ce2ed",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495392&idx=2&sn=8dea7eb00b9a7abe9086042f6b644680",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495392&idx=3&sn=d8973645b761072bc8f1f07099078808",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "0day漏洞利用合集",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247510734&idx=1&sn=5b231c758a657580b76d89db3d5921f5",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "外网打点工具，可进行指纹识别和poc验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489435&idx=1&sn=e3708487097a100157845758db627a98",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    }
+]
