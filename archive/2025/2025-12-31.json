@@ -160,5 +160,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493946&idx=1&sn=62fa964a01031dbff71ea86a194b8eab",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586144&idx=2&sn=82369bded59acf2efd43574195ee052b",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "记一次MoonSec靶场渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247484187&idx=1&sn=44921af36193f8697aa2567c85321c38",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【我们的2025：始于培训，行于漏洞】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486456&idx=1&sn=1e0e16191ea023c05c332ca09484b4d0",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "智能汽车安全，始于但不止于漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247535527&idx=1&sn=1e18f957ef44c13dc7240d0cacb03bc2",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "CVE-2025-52691 SmarterMail 任意文件上传",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488732&idx=1&sn=cf577e2dc53af13f400716cdd87f79db",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
