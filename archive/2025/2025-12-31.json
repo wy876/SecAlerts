@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464136&idx=1&sn=f21c093fec2f70ee96429b403b2971ef",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "CVE-2025-47411：Apache StreamPipes 严重漏洞允许普通用户获取管理员控制权",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486524&idx=1&sn=1cabc0a6d92f31327c9812e4cd7a1240",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【免费领】全网收录最全：Web漏洞检测及修复方案手册",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557216&idx=2&sn=21d0a87aafe042eb738b8faf51963d5c",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
