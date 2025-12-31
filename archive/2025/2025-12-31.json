@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489435&idx=1&sn=e3708487097a100157845758db627a98",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "] [抢占智能汽车安全风口！系统0day安全——车联网安全入门（第8期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606724&idx=3&sn=f4867ec9a446a8be54257fad99d53e04",
+        "source": "BruceFeIix",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "元旦最后优惠｜地图大师 100+ SRC 靶场漏洞狩猎实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485238&idx=1&sn=f6267fd5ddbca6cfb9ec2678063b8572",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "通过内核驱动与命名管道实现Windows本地提权漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886450&idx=1&sn=fbb60aa38b0782865079804cb132bd27",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【已复现】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484122&idx=1&sn=3baa43b81661ec713da93e6ff62acf83",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "MongoBleed 漏洞深度解析：潜伏八年的内存泄露危机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492735&idx=1&sn=3067bf86fa4c2d048fd51b63673b6614",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
