@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491410&idx=1&sn=0716ac4aee892549d84acc71fe2f98d6",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "泛微E-cology9 SQL注入漏洞(QVD-2025-23834) 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484180&idx=1&sn=f860a00cc76e9b372417a96c1b75c20f",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
