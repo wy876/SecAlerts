@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491213&idx=1&sn=f9eba7609caadf1bf4db227cebc657b9",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "我家狗也能挖！全球首例AI智能体满分RCE漏洞。",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491410&idx=1&sn=0716ac4aee892549d84acc71fe2f98d6",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
