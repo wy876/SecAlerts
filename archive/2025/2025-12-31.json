@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503655&idx=1&sn=857eb870488d1f649d19455fefa34e04",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "致远 OA 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485613&idx=1&sn=b28f083408af6aa7dd5cf3b47e251114",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "【漏洞通告】RustFS gRPC 硬编码令牌导致认证绕过漏洞(CVE-2025-68926)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501963&idx=2&sn=e7dc1e1dc5fd9ea0e5e3f79b3b202a3b",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
