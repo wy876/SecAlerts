@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488732&idx=1&sn=cf577e2dc53af13f400716cdd87f79db",
         "source": "Doonsec",
         "date_added": "2025-12-31"
+    },
+    {
+        "title": "【已复现】RustFS gRPC 身份认证绕过漏洞(CVE-2025-68926)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504410&idx=1&sn=0d7e1c182d22de87183f283e2db41c8d",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.12.22-2025.12.28",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503655&idx=1&sn=857eb870488d1f649d19455fefa34e04",
+        "source": "Doonsec",
+        "date_added": "2025-12-31"
     }
 ]
