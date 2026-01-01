@@ -58,5 +58,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797631&idx=1&sn=4a9296d25d073528b5c726f3ff7a5774",
         "source": "Doonsec",
         "date_added": "2026-01-01"
+    },
+    {
+        "title": "2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb",
+        "source": "Doonsec",
+        "date_added": "2026-01-01"
+    },
+    {
+        "title": "【红队】一款 AI 驱动的全自动红队渗透测试智能体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487295&idx=1&sn=328c4f8ec9d3c0a2aed161d33ea85fa8",
+        "source": "Doonsec",
+        "date_added": "2026-01-01"
     }
 ]
