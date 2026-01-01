@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484905&idx=1&sn=bc94966f0c1e940688f3f8eb9dfc1d4c",
         "source": "Doonsec",
         "date_added": "2026-01-01"
+    },
+    {
+        "title": "第一章——API侦察的本质差异：为什么普通路径发现已不足以发现关键漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797631&idx=1&sn=4a9296d25d073528b5c726f3ff7a5774",
+        "source": "Doonsec",
+        "date_added": "2026-01-01"
     }
 ]
