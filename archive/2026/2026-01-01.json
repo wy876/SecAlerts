@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979",
         "source": "Doonsec",
         "date_added": "2026-01-01"
+    },
+    {
+        "title": "攻击者操纵大语言模型实现漏洞利用自动化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f",
+        "source": "Doonsec",
+        "date_added": "2026-01-01"
     }
 ]
