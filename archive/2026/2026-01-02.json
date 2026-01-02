@@ -22,5 +22,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483834&idx=1&sn=435fda398fe72ce417b190ad6e17f581",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "LangChain存在严重漏洞，威胁AI Agent机密数据安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248749&idx=1&sn=0ce09c05efb1abd640c320cb9fb58c27",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "漏洞复现 | 用友NC ContactsFuzzySearchServlet反序列化代码执行RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "漏洞扫描踩坑！出口 IP 被合作伙伴封禁？3 大转发原因 + 解决方案来了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486447&idx=1&sn=b06ea1354c1880d01d19a3a252ea6d6a",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
