@@ -1,0 +1,26 @@
+[
+    {
+        "title": "CVE-2025-52691｜SmarterMail 未授权文件上传漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=1&sn=b3eda104a3c7f41dca6faf1240b95f8a",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "CVE-2024-57521｜RuoYi v4.7.9认证用户SQL注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "swagger接口未授权访问漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484187&idx=1&sn=3e3d7ece37b57b4989be64e13cffd09c",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "CyberStrikeAI 用户体验升级：批量任务+漏洞管理+对话分组，三大功能全面升级！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483834&idx=1&sn=435fda398fe72ce417b190ad6e17f581",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    }
+]
