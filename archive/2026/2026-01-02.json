@@ -58,5 +58,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494367&idx=1&sn=5a319d6771ebf687b220b8664de8cd47",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797637&idx=1&sn=146b87dfae227ac4b1c75cc0abd76d68",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "RondoDox僵尸网络利用React2Shell的严重漏洞挟持物联网设备和web服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247484001&idx=1&sn=864d5d0ba23110bc1fde9292d486fe85",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
