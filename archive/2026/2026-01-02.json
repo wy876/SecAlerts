@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529749&idx=1&sn=1f9ef5e171c56cb6aef4d8e388c34ade",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "RondoDox僵尸网络利用高危React2Shell漏洞劫持IoT设备与Web服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=3&sn=da8e7f3c1a71e907826c62dee883b95c",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
