@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=2&sn=d8288b4081c04c148817c4ee8c3394e5",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "Hikvision综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=1&sn=9985dd75ea237ecf4b49c01e4b660f03",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "高级Shellcode加载器——高级红队渗透测试与安全研究工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=2&sn=1cf8cef62f1509ad0eb02e77b257880a",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
