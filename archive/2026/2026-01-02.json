@@ -46,5 +46,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493051&idx=1&sn=56527338940927f7d7baf815d3063ebe",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "复现MongoDB（CVE-2025-14847）CVSS8.7漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485259&idx=1&sn=01226ea83f0683f685b7edcbbb6abe81",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
+    },
+    {
+        "title": "[代码审计]蓝凌EIS存在多个后台文件上传0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494367&idx=1&sn=5a319d6771ebf687b220b8664de8cd47",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
