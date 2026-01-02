@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486447&idx=1&sn=b06ea1354c1880d01d19a3a252ea6d6a",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "React2Shell（CVE-2025-55182）原理拆解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493051&idx=1&sn=56527338940927f7d7baf815d3063ebe",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
