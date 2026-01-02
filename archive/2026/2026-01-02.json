@@ -124,5 +124,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4",
         "source": "Doonsec",
         "date_added": "2026-01-02"
+    },
+    {
+        "title": "Fastadmin框架任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582",
+        "source": "Doonsec",
+        "date_added": "2026-01-02"
     }
 ]
