@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "一次JAVA代码审计经典的鉴权绕过审计",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487248&idx=1&sn=2b9602b2aeea317ef76feb1f413da835",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
