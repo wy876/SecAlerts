@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497684&idx=1&sn=6e2cfac7fcf39d944915766f6e520bc8",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "苹果IOS端IPA签名工具平台任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484236&idx=1&sn=00a33e7c6cff30e6966383b3236107df",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
