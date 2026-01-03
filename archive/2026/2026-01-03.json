@@ -148,5 +148,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497949&idx=1&sn=18bbfce8834956f826005559f5e050c6",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "渗透新航标 | 2025年最新版OWASP TOP 10",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483985&idx=1&sn=bf6046d596655700816e931ccfab94b7",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "JS 漏洞检测与敏感信息自动化搜集工具快速定位 Webpack/Vue 漏洞，挖掘 AK/SK 等敏感信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496527&idx=1&sn=9bca116b967a2563696ddbd995713707",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "工具推荐 | 最新Nacos漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497684&idx=1&sn=6e2cfac7fcf39d944915766f6e520bc8",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
