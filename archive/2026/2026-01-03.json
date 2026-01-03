@@ -94,5 +94,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484158&idx=1&sn=ed709e898d0744a857708e1ce05c1f1b",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "2025年十大野外利用的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=1&sn=b8a97f9f74d5b26b30b187c28fae0f64",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "MongoBleed漏洞影响持续扩大，中美成受攻击最严重国家",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=2&sn=4a81e28c018333af201881fe54004648",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "全球超万台Fortinet防火墙仍受5年前MFA绕过漏洞威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=3&sn=cd0732d9b6a0d6b30c68957603242555",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "About一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=1&sn=392ed0980f9981ce4d679974bbe5192a",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
