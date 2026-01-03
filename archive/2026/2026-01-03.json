@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "深度分析MangoBleed(CVE-2025-14847)附利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484158&idx=1&sn=ed709e898d0744a857708e1ce05c1f1b",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
