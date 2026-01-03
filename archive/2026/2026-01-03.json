@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=1&sn=392ed0980f9981ce4d679974bbe5192a",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "Apache NuttX曝内存损坏漏洞（CVE-2025-48769）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=1&sn=2cbd11760ead584d48a357a2da3c66b7",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "GNU Wget2曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=2&sn=20e99cd981c04249e98c2345fbda786f",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
