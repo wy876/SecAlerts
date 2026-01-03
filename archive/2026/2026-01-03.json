@@ -82,5 +82,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487248&idx=1&sn=2b9602b2aeea317ef76feb1f413da835",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
