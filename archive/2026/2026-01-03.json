@@ -10,5 +10,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247522094&idx=1&sn=998e588853452a0e2fbcf7d7d93afed8",
         "source": "Doonsec",
         "date_added": "2026-01-03"
+    },
+    {
+        "title": "【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "漏洞挖掘｜多个海外SRC产商2FA绕过实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "漏洞与补丁管理｜安全运维的基础防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
+    },
+    {
+        "title": "漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c",
+        "source": "Doonsec",
+        "date_added": "2026-01-03"
     }
 ]
