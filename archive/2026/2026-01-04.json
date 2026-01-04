@@ -382,5 +382,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247484004&idx=1&sn=6219ed551411a065352fef52c83f501d",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "工具推荐 | 快速探测可能存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497713&idx=1&sn=ca95ab4f3867f6bc22ab743164bb5382",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "2025年Vite的一系列漏洞解读",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDc5MDY2OA==&mid=2247483774&idx=1&sn=c8785c9db9470f541a84aab15e8394fd",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2025-68668",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491218&idx=1&sn=8f08cabab7024e9d6552a724ed9c6a6e",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497966&idx=1&sn=6ad06679fe9b9effa72b3225e3dd82d2",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
