@@ -118,5 +118,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495427&idx=3&sn=2cd912d5052e9f81e7136de522856de1",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "About一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486391&idx=1&sn=6cf738b00cced68bfe864d1cff62140a",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "Hikvision综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486391&idx=2&sn=26689c198e827987615decf92e7f2860",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "安全小知识-第十七期_XPath注入漏洞：从原理到实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247484019&idx=1&sn=60e7eb29b4ae75c281144579ab883e79",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "网安人要知道的内网渗透命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk0MDY5OA==&mid=2247488608&idx=1&sn=522cc20a177b168a409f827ede75b625",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "渗透测试实战： 从任意用户注册到任意用户密码重置的扩大危害思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTYxOTYzNA==&mid=2247483913&idx=1&sn=5a119a739f45dd403f5816f45ade4df7",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "2025年度十大Web3安全漏洞及事件盘点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651038207&idx=1&sn=1ae8b8b9870a3b2653671f8cf12c6333",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
