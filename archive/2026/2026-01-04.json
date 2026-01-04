@@ -238,5 +238,47 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493708&idx=1&sn=644bd1a69ac4d4399b6888f9ffd69d06",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "信息安全漏洞周报【第054期】",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064533&idx=1&sn=7895da7eb80f663599b3e325b130e346",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "GPT 加持！漏洞分析神器 VulnWatchdog 上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538423&idx=5&sn=55e6536a6a2ec3f011eb6c83c4fb0be0",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "完美漏洞利用链的故事：六个看似无害的漏洞如何演变为安全设备上的预认证远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492894&idx=1&sn=9cd67d383c7d9d39ba8c3bbae7282ed3",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "紧急！高危漏洞曝光你的邮件服务器可能已被控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489657&idx=1&sn=34bf11a439cc14abf541bfd537258a01",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "[0day]新挖掘到一套高级LNK快捷方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk5MDE1MTY3OQ==&mid=2247484553&idx=1&sn=1e2519baefe6c1cafad43d50e21a44f6",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "挑战INFOSEC PREP-OSCP靶场：破解渗透测试之路，直击OSCP考试实战！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI5NzExMA==&mid=2247485522&idx=1&sn=05a5b7fb9da78def70ae41e262527eaf",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "KaliGPT-Attack Platform：AI 驱动的渗透测试技术实现与实战解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165700&idx=1&sn=0b85eaf6647e2110032a84ecf68c8d12",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
