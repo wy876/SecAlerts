@@ -340,5 +340,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333596&idx=4&sn=8de8c4eccded72a916e4a40c501468c3",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "EDUSRC挖掘之如何挖到第一个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "【已复现】Zimbra 本地文件包含漏洞(CVE-2025-68645）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
