@@ -1,0 +1,122 @@
+[
+    {
+        "title": "一个价值7万美刀的谷歌漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzYzODMxMA==&mid=2247483856&idx=1&sn=90d0dd46df9e30eedd6f1fea6780a998",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "OWASP发布AI智能体十大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248754&idx=1&sn=1288f42d8f7cc181be1faf83e8186eb8",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "CVE-2025-68645｜Zimbra本地文件包含漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486296&idx=1&sn=4f07edb0c05826256d761db0ab98b3fc",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "CVE-2025-54100｜Windows PowerShell存在命令注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486296&idx=2&sn=f2087e7b0b0692125c69b5094ff312da",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "假如一个高水平程序员故意留了一个只有他自己知道的漏洞，那么这种行为违法吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168944&idx=1&sn=93f609c35bfd2b717906911f60b10e91",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞复现 | 同迅科技-神行者路由 chkid 代码执行漏洞（CVE-2025-54322）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493619&idx=1&sn=982d9865d48a3ac020d7be16b02f1893",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "综合辅助Web渗透测试工具 -- EagleSword（鹰剑）（1月1日更新）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517803&idx=1&sn=0b885ff61304549335997ff9a4b3c92d",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "一款基于GPT的漏洞分析工具-VulnWatchdog",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613919&idx=4&sn=32713f2d1ae06dd86c5929485b6cf7e9",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞挖掘｜多个海外SRC产商2FA绕过实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487542&idx=1&sn=8f0795fe573730e35ea2b2ea54dd8773",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501608&idx=1&sn=5eb836122ac222ca9767a7bbc3c4521b",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "如何挖掘SRC中的支付漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486280&idx=1&sn=979b0ff0bd597d587faa82c52a297924",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "复现CVE-2025-29927：Next.js中间件绕过漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485269&idx=1&sn=63b6a1a428f64f4236223aee05a2ed23",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "前端JavaScript渗透测试步步为营",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488971&idx=1&sn=7374e5d32869cd88f990bc4fd57618d3",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "修改返回包也能获得漏洞赏金？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483773&idx=1&sn=e25892ed359da7fabd1c7ad4573a5987",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "Burp Suite 插件 | Rinte支持1000+框架POC、支持动态加载POC、指定框架扫描",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515489&idx=1&sn=ef2310717f2129d3651f4d4983a6504b",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "一款轻量级的CTF/渗透测试Fuzz工具 | 多编码方式、多线程、代理转发",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247496045&idx=1&sn=040873c2f104d627857d7fa4666645c0",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "自开CVE-2025-55182 漏洞检测与利用工具（GUI版）使用指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484916&idx=1&sn=b1f6b5a0f8d6a3a6cd5d321d7f704b52",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞预警 | FreeBSD rtsold远程命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495427&idx=1&sn=f7411a4af26995a6d1a7702397a7abf7",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞预警 | 红海云eHR SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495427&idx=2&sn=e8b479bbfd9069f3ff1d5aa8493dd459",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495427&idx=3&sn=2cd912d5052e9f81e7136de522856de1",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    }
+]
