@@ -298,5 +298,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY0OTcyMA==&mid=2247484391&idx=1&sn=bd8210726845b65d46a9a20491a0f8d6",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "【0day】金蝶OA",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484904&idx=1&sn=599d44cf3056b1ca715fbd104848ccd4",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "Apache StreamPipes 严重漏洞可用于获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524778&idx=2&sn=17e6675d731950fb6f61f841bb161ef5",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "漏洞挖掘核心技术点体系：从基础到进阶，覆盖全场景",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487695&idx=1&sn=f1dbdc0365488f98c7145ccb2b38274f",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
