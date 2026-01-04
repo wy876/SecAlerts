@@ -154,5 +154,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651038207&idx=1&sn=1ae8b8b9870a3b2653671f8cf12c6333",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "三个小众但很好用的短信验证码漏洞挖掘方式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486283&idx=2&sn=33286bd2061dab246949074f9befd8c0",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "【已复现】n8n Python代码节点沙箱绕过导致系统命令执行漏洞(CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495775&idx=1&sn=80a23bf3b605d9ed1bc6edc41d95caa0",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "Java反序列化漏洞黑盒挖掘思路-下篇",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495296&idx=1&sn=6d85503f463c90b2390790bf1efbc729",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
