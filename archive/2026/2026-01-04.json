@@ -352,5 +352,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "【已复现】n8n代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
