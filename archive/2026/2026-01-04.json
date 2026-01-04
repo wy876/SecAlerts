@@ -172,5 +172,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247495296&idx=1&sn=6d85503f463c90b2390790bf1efbc729",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "记一次edusrc小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDcyODYwNw==&mid=2247488119&idx=1&sn=c79e7a3e2d2fe8ccbc8fdeef5473b5ef",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "DudeSuite 20260104 漏洞播报，全网漏洞早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562912&idx=1&sn=49843c062a35f72abdb09bc5bd554f1d",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
