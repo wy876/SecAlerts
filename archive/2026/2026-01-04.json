@@ -316,5 +316,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487695&idx=1&sn=f1dbdc0365488f98c7145ccb2b38274f",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "【接口漏洞第二章第三节】拿到接口文档只是开始：这样批量测试，才能抢在别人之前提交漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797658&idx=1&sn=d3849a96dc7b8cf0b34b83781a1fd952",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "edu漏洞挖掘：某985证书站挖掘&通杀任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzODE5Mjc2Ng==&mid=2247484168&idx=1&sn=5f4c81f6b3f06e93a499720c147ff3f3",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493067&idx=1&sn=d20bef37df99726991f39ff5cf9b5f73",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
