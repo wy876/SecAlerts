@@ -214,5 +214,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495268&idx=1&sn=d3bc1813528061e01b1508ffbcb892b6",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "超 10000 台 Fortinet 防火墙仍暴露于存在 5 年之久的 MFA 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486990&idx=1&sn=1be353decaf2de278f1095043705230b",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
