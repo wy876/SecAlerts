@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486990&idx=1&sn=1be353decaf2de278f1095043705230b",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "【漏洞通告】n8n Pyodide 沙箱绕过漏洞(CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501971&idx=2&sn=7a6b23c2692b5bc2ace21f764b72cfd5",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "【漏洞通告】Langflow API 身份验证缺失漏洞(CVE-2026-21445)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501971&idx=3&sn=70ebaafab9925ef0c20fde0821dc7367",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "灵当CRM copyLinkToContent SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493708&idx=1&sn=644bd1a69ac4d4399b6888f9ffd69d06",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
