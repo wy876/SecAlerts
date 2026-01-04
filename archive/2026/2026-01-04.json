@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247484055&idx=1&sn=65e8bcf88e2ba0a119c025f8b322b390",
         "source": "Doonsec",
         "date_added": "2026-01-04"
+    },
+    {
+        "title": "深度分析MangoBleed(CVE-2025-14847)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMDcyODYwNw==&mid=2247488147&idx=1&sn=39ebf614a88e525e3663afe2afddc9b5",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
+    },
+    {
+        "title": "BlackFace渗透工具箱（附hvv工具）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY0OTcyMA==&mid=2247484391&idx=1&sn=bd8210726845b65d46a9a20491a0f8d6",
+        "source": "Doonsec",
+        "date_added": "2026-01-04"
     }
 ]
