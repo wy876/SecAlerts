@@ -232,5 +232,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495794&idx=2&sn=672eb935049d13b3bd2659883108b0a0",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "泛微e-cology SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484244&idx=1&sn=073e756db53f403d1ba9f3484cbea964",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【漏洞分析】n8n Python代码节点沙箱绕过导致系统命令执行漏洞(CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484227&idx=1&sn=edfc15b1289755decb90a4664182d778",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【附全网首发POC】CVE-2025-14998 WordPress管理员账户接管漏洞 详细分析及复现环境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485366&idx=1&sn=9735763d2c3f760f84aa8903c5cb761f",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第51期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501059&idx=1&sn=5bddec628f58a578a4033a52eac8effd",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【漏洞通告】AdonisJS Multipart 文件处理路径遍历漏洞(CVE-2026-21440)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501977&idx=2&sn=39b0a936f2b3572a301d2fe86e7e6a3d",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
