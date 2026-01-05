@@ -352,5 +352,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491416&idx=1&sn=211fc83d78bfdd50e531f24a5633c545",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485921&idx=1&sn=fdecfa33de761b2f31883954841394cb",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
