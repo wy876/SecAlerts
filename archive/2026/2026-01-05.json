@@ -262,5 +262,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501977&idx=2&sn=39b0a936f2b3572a301d2fe86e7e6a3d",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "【已复现】n8n存在沙箱绕过漏洞（CVE-2025-68668）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490647&idx=1&sn=197a5145701766c3fc4313afd264eb9a",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【高危漏洞预警】Cisco IOS 软件SNMP子系统栈缓冲区溢出漏洞CVE-2025-20352",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491224&idx=1&sn=63063d0f01c7af3a739fe654fa5de97e",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "从HTML注入到CSRF:一次漏洞组合拳实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557250&idx=1&sn=70bb8d363dad275c4a39e992ae04c9de",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
