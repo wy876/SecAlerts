@@ -280,5 +280,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557250&idx=1&sn=70bb8d363dad275c4a39e992ae04c9de",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "图形化渗透测试辅助工具 - AuxTools",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486696&idx=1&sn=2ba2455e371b7f1c06cf7e74f7a075c0",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【接口漏洞第三章第一节】告别依赖文档！实战演练：无文档API渗透测试入门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797665&idx=1&sn=7607ebb27a2045ca6ed1351301e9eaaa",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "QNAP修复高危SQL注入和路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524792&idx=1&sn=95cde699800fa12ea3a6a3dd3d890634",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "CISA提醒注意 WHILL Model C2 电动轮椅中的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524792&idx=2&sn=b115387a5980ae618431dc31a198d636",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
