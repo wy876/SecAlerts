@@ -1,0 +1,128 @@
+[
+    {
+        "title": "全球超万台Fortinet防火墙仍受5年前MFA绕过漏洞威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248758&idx=1&sn=a57164f877cdea43c5f2ad9ee2f99a44",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞与补丁管理｜安全运维的基础防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485942&idx=2&sn=a2d634ed236f10a39b28aaf84f5fa708",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "BD-J 沙箱逃逸漏洞分析，Bounty$5,000",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzYzODMxMA==&mid=2247483864&idx=1&sn=c1878e3792e7105b010acb1fd8ffd3a3",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "从终端渗透到电网瘫痪：拆解美国“绝对决心行动”的网络攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjM4NDYxOQ==&mid=2247489205&idx=1&sn=c1b0a49a6bda99a8ab76ccc9b56a7619",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "[漏洞复现]jmreport信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484841&idx=1&sn=1007a2558e2efd0be2610b7ac12db16e",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "「赏金」轻松赚外快：一个漏洞带来的500元赏金实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247486282&idx=1&sn=6e72669f3440c9d7e9927dd2abeffa90",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "攻击者操纵大语言模型实现漏洞利用自动化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613926&idx=1&sn=0bf382084ac5b6c2cf6ce3543cf83075",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "高危漏洞（CVE-2025-55182）检测与利用工具（GUI版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517810&idx=1&sn=97e67957f24a32806db84583ee34a59b",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "大洞！速修！n8nPython代码节点沙箱绕过导致系统命令执行(CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492240&idx=1&sn=77dfbf241c8e457b2121204ba5499c55",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "渗透“盲打”？当版本号不可见时怎么突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483723&idx=1&sn=587d9be8e940aec27ef0d1f50917fa14",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞复现 | Zimbra本地文件包含漏洞(CVE-2025-68645)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493656&idx=1&sn=640799003dc26c646a213ccf5bc82653",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "CVE-2025-66848：京东云路由器存在严重漏洞，黑客可获取root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247486541&idx=1&sn=a03d70f07ecd0158d607ef0f7f2cc0d9",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489484&idx=2&sn=5fb76b068d8d4b425b9190ed32b63d2d",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "850万美金一夜蒸发！深扒 Trust Wallet 惊天漏洞背后那只“沙丘之虫”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485479&idx=1&sn=f076cd6475ba941b9887e6e0d80f11a6",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "无需登录即可接管系统？深扒 CVE-2025-13915 认证绕过漏洞背后的技术逻辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901784&idx=1&sn=da4b08fbbb5a3304496d1e292aa2a031",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "打点利器 | 全量OA漏洞利用工具最终版，漏洞数量470+",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489459&idx=1&sn=3c3e792cb40ba6885feed5684e2986c6",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞预警 | MongoDB zlib压缩内存泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495430&idx=1&sn=a74cd2cd659ae566addf3d52ef2b0d6a",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495430&idx=2&sn=ff8292be4e0ee8d47df73214a2d3974d",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495430&idx=3&sn=28c921a48e677dc0b20b989aa3cd7c51",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "免费分享 | AD域渗透工具集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485987&idx=1&sn=8508b3c2a9d53ef246496a6a4ac9e5fc",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "致远oa-xrdController.do后台-文件复制漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485632&idx=1&sn=011991f68c20e6ea31e9793f290e9e9e",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    }
+]
