@@ -178,5 +178,59 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247484066&idx=1&sn=7df78bdd2837acf269d83540ab3d6c0a",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "CNVD漏洞周报2025年第51期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496620&idx=1&sn=7dcdb0e72cb2062feb57e74402621f75",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20251229-20260104)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496620&idx=2&sn=d06621f01f2014a14d05cfdaaf61d2e3",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "雷神众测漏洞周报2025.12.29-2026.1.4",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503662&idx=1&sn=64fde59b05adcf796945c0f6f6feed6c",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "MITRE发布2025年最危险软件漏洞榜单Top25",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541340&idx=1&sn=8a00e8055be4d9ac9c6dff76e4255372",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【漏洞预警】傲发网络传真系统 user.ashx 信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492469&idx=1&sn=b640f543703795f0643af558b60b3a4c",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "CVE-2025-54322 (ZERODAY) - 未经身份验证的根远程代码执行漏洞，影响超过 70,000 台主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488812&idx=1&sn=4578da10b4c9c3d284b5cce5eed93271",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第1期）：0基础入门必备，1小时挖通第一个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487708&idx=1&sn=addf92cb1350e97dae6f84fe948979dd",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【已复现】GNU Wget2 目录穿越漏洞可导致任意文件写入（CVE-2025-69194）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495794&idx=1&sn=058d2ec15b89e4992c59f636d783fe9c",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【首发复现】Cisco IOS/IOS XE SNMP栈溢出漏洞(CVE-2025-20352)，已发现在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495794&idx=2&sn=672eb935049d13b3bd2659883108b0a0",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
