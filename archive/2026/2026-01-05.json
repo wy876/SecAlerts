@@ -304,5 +304,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524792&idx=2&sn=b115387a5980ae618431dc31a198d636",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "AI安全新范式3：CoT Agent 在自动化渗透测试中的理论与实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485426&idx=1&sn=8fea54e6d75d5e9115a6fc1440f93d00",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "存在了五年的 FortiOS SSL VPN 漏洞已在野实际利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxNDg5ODQxMg==&mid=2247483877&idx=1&sn=58d2393ba5f22a62dd4032b225867b29",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "GHOSTCREW——基于AI的红队渗透测试工具包，包含Metasploit、Nmap及其他工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247485109&idx=1&sn=6e1efbe9251752e1b854900f2c97e52c",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "《不用漏洞也能拿下 Root？DC-2 靶机完整攻击链实录》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI5NzExMA==&mid=2247485527&idx=1&sn=0b50366bc6bc7ea3dda4a68960454306",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
