@@ -160,5 +160,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519910&idx=1&sn=4a273b7a6101af9d703595bf7981414d",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "【漏洞预警】傲发网络传真系统 user.ashx 信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492464&idx=1&sn=efc63f316e7b203f9ccb928cac210a96",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "亿赛通CDG WorkFlowAction sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493741&idx=1&sn=3cff509e6889a1b3f543d1a58ee4c0b0",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【玄域靶场】平台热点事件：1、平台出现支付漏洞，直接1分钱买永久会员，目前漏洞已修复 2、web和app靶场已更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247484066&idx=1&sn=7df78bdd2837acf269d83540ab3d6c0a",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
