@@ -358,5 +358,29 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485921&idx=1&sn=fdecfa33de761b2f31883954841394cb",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "漏洞复现 | B-LINK AC1900 V1.0.2 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493659&idx=1&sn=d80f69ce032074a6b8763363e4501737",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "大商创多用户商城系统 SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484257&idx=1&sn=b650dd6310c7835c521bbf48381ed3cf",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "端口扫描 + 指纹识别 + POC 验证｜cscan 一站式资产安全扫描平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496559&idx=1&sn=7ad12113666042f253b4acc4a07b56f9",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "一个为安全专业人员和渗透测试人员设计的综合性 WebShell 管理平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491615&idx=1&sn=4392b4aa3555850275ade0c1bff2030d",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
