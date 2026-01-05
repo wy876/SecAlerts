@@ -328,5 +328,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYyMjI5NzExMA==&mid=2247485527&idx=1&sn=0b50366bc6bc7ea3dda4a68960454306",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "记一大型商超小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247486056&idx=1&sn=3ff16a3047b9b6473b73ee8706726605",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【工具推荐】多云存储桶配置漏洞浏览器检测插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522669&idx=1&sn=90f3a1659f1b7c7e3fdd5094b40a7b64",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "RCE哨兵 - 哨兵系列第一弹",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMzUyNDIwMA==&mid=2247484129&idx=1&sn=940250abe84765dfc3046191a29edf63",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
