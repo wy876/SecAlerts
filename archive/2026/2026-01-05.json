@@ -124,5 +124,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485632&idx=1&sn=011991f68c20e6ea31e9793f290e9e9e",
         "source": "Doonsec",
         "date_added": "2026-01-05"
+    },
+    {
+        "title": "亿赛通综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486392&idx=1&sn=0d903b2cfb70757650324b9c370030e6",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "OSS存储桶遍历漏洞利用脚本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486392&idx=2&sn=a974b256e9c53f25514d877932b0a313",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【已复现】n8n Pyodide 命令执行漏洞(CVE-2025-68668)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504424&idx=1&sn=d3c8145bfaaa63da85cbf396ba122a0c",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247487329&idx=1&sn=fd80dc4168c16410d469b74013bd4df0",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
+    },
+    {
+        "title": "【509】【有靶场】【已付现】n8n Python代码节点沙箱绕过 CVE-2025-68668",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247487064&idx=1&sn=7bc14562aecdc1efe3cd648c552cf377",
+        "source": "Doonsec",
+        "date_added": "2026-01-05"
     }
 ]
