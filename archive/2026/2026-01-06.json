@@ -286,5 +286,41 @@
         "url": "https://mp.weixin.qq.com/s/ZSUItIm5nopWZcmOVTl9dQ",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "CVE-2026-21440 – AdonisJS 高级检测概念验证",
+        "url": "https://mp.weixin.qq.com/s/9Fi2WawMDNR48P0rmDs3zA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "信息安全漏洞月报（2025年12月）",
+        "url": "https://mp.weixin.qq.com/s/7s5OxEG3oBQIsmrlD0_ZKQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【论文分享】从噪声到信号：如何在千万级软件包中精准定位漏洞影响?",
+        "url": "https://mp.weixin.qq.com/s/Fy_RRF4nm0Cvtd1vNytQbA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "edu漏洞挖掘：某985证书站挖掘&通杀任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/OAbMbfwecclbLUKizAHJdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "Burp Suite + GPT-4o + MCP？这款开源插件让渗透测试进入 AI Agent 时代！",
+        "url": "https://mp.weixin.qq.com/s/TFwa597DL_YlKM4WW8Ub1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "记一次外站打点进入学校统一认证内网的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/o1pebKD0_3N9bzAYHPrV2A",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
