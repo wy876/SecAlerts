@@ -268,5 +268,11 @@
         "url": "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "Yakit复现fastjson漏洞",
+        "url": "https://mp.weixin.qq.com/s/WK1WhqDW7BtGF8y2p0S25g",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
