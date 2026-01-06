@@ -418,5 +418,35 @@
         "url": "https://mp.weixin.qq.com/s/LNNSpvpz2n8rcGcOKazrSg",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "edu漏洞挖掘：任意密码重置管理员账户&getshell",
+        "url": "https://mp.weixin.qq.com/s/0zrePFJB2PcKMC9k2AstYA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "自证安全，聊聊 Spring Framework 鸡肋漏洞 CVE-2024-38816/CVE-2024-38819 的破局之道",
+        "url": "https://mp.weixin.qq.com/s/NywdadLoz5K_vCrAuuadBQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【安全圈】WhatsApp 漏洞泄露用户元数据，包含设备操作系统信息",
+        "url": "https://mp.weixin.qq.com/s/5hFAYMoPZmJgEd8BqBP41w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【安全圈】威胁行为者声称泄露 NordVPN Salesforce 数据库及源代码",
+        "url": "https://mp.weixin.qq.com/s/_Q8-EcMrlMFC6oz4o3K4aw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【复现】GNU Wget2 目录穿越漏洞（CVE-2025-69194）",
+        "url": "https://mp.weixin.qq.com/s/IQ4tVm7C4retnqGZG_CrVQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
