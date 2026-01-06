@@ -190,5 +190,53 @@
         "url": "https://mp.weixin.qq.com/s/rXV5eumRHNypwY2a9EqQ8w",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "【高危漏洞预警】Dify API密钥明文暴露漏洞CVE-2025-67732",
+        "url": "https://mp.weixin.qq.com/s/wh3DzY9jEZIuor4AUNl-NQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "2025年度十大 Web 应用系统高危漏洞盘点",
+        "url": "https://mp.weixin.qq.com/s/adAQQHIeCpBuwzeGAVdeFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 getFirstEmp.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/7N0LqDINUbL-32-__fUH_A",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V3.0发布~",
+        "url": "https://mp.weixin.qq.com/s/kCakYjSrSW3iFIFiU9ayjg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第2期）：Web专项（上） 注入类+文件类漏洞，吃透60%分值",
+        "url": "https://mp.weixin.qq.com/s/1Tn8oNvlozv9ebsoZbelbQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "CTF Pwn模块系列分享（三）：溢出基础与ret2text漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/NHyWqcCC9CENaU3rUBnhrA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "Shiro漏洞利用工具 -- ShiroEXP（1月4日更新）",
+        "url": "https://mp.weixin.qq.com/s/R6mb4g1jwcUDZFvju-GEPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "React2Shell 的 CVE-2025-55182 深入技术分析",
+        "url": "https://mp.weixin.qq.com/s/PgWDOBPchd7uYQvKaWzYPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
