@@ -448,5 +448,11 @@
         "url": "https://mp.weixin.qq.com/s/IQ4tVm7C4retnqGZG_CrVQ",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "0113.Java 应用程序中的 ZIP 滑移导致远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/xY5WyLnusFNipKEglJdKww",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
