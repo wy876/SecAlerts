@@ -322,5 +322,41 @@
         "url": "https://mp.weixin.qq.com/s/o1pebKD0_3N9bzAYHPrV2A",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "盘点 2025 年度重大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/32RDUxdOPp30dZXjbfN4OQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "邀测&直播|安全知识智能体应用与AI 漏洞猎人更新",
+        "url": "https://mp.weixin.qq.com/s/7-OzLX5aYHzcriDXh-LTuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "周六开课！OSCE³ 之 OSED 漏洞利用实战，错过再等半年",
+        "url": "https://mp.weixin.qq.com/s/8bv5hyDFkN4SV6F2lHnJnQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "ComfyUI-Manager 远程代码执行漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/I1_2E9OyxySwWy0KqQdJXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【漏洞通告】jsPDF 本地文件包含与路径遍历漏洞(CVE-2025-68428)",
+        "url": "https://mp.weixin.qq.com/s/253yXeH8FmulA8ay2UI_yg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "渗透人狂喜！Burp Suite 插件：AI 自动生成复杂 HTTP Fuzz 字典",
+        "url": "https://mp.weixin.qq.com/s/R9e990gOtn0r_P-mscYZXA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
