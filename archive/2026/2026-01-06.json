@@ -466,5 +466,11 @@
         "url": "https://mp.weixin.qq.com/s/4_BbRVq7jC-cOrfuaCsTlQ",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "赛普EAP企业适配管理平台Download.aspx任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/BqANmEaByskImgF74an8vg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
