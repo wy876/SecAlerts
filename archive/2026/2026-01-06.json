@@ -238,5 +238,35 @@
         "url": "https://mp.weixin.qq.com/s/PgWDOBPchd7uYQvKaWzYPg",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "【已复现】jsPDF 曝高危漏洞：可窃取服务器密钥及配置文件 (CVE-2025-68428)",
+        "url": "https://mp.weixin.qq.com/s/2AkHznQlN5LfMmQKos561w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "重磅消息！天狐渗透工具箱-社区版V3.0发布，速领！",
+        "url": "https://mp.weixin.qq.com/s/i0W7hx1vDlRpEH1rwSBp6g",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "SQL Server数据库，漏洞利用与数据勒索风险急剧增加",
+        "url": "https://mp.weixin.qq.com/s/n2b-fMLDoy_mQE0WvnY3aA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "帆软bi反序列漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/hPnr3ktQtL4VHZ8zAOrHyA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "vCenter图形化漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
