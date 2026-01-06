@@ -358,5 +358,41 @@
         "url": "https://mp.weixin.qq.com/s/R9e990gOtn0r_P-mscYZXA",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "【已复现】Apache Kyuubi存在目录遍历漏洞（CVE-2025-66518）",
+        "url": "https://mp.weixin.qq.com/s/OJ1d5fhiQglTYSOXxbRxbw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "盘点 2025 年度重大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/cBCBE3Y1HEL_EutIEWwT0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "当攻击面管理遇上AI：从“人海战术”到“智能渗透”的进化",
+        "url": "https://mp.weixin.qq.com/s/-9tTagJf2J4YLDZiGSQ4dQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "CISA KEV 清单共收录1048个已遭利用漏洞，2025年增长20%",
+        "url": "https://mp.weixin.qq.com/s/ckKhjpaay-QY1BZlLMTLSQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "AdonisJS 9.2 框架存在严重漏洞，可导致任意文件写入和RCE",
+        "url": "https://mp.weixin.qq.com/s/nzCUuMAkdgfcDgtEelAtsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "Web安全中的JavaScript代码审计——寻找未授权接口的攻击入口",
+        "url": "https://mp.weixin.qq.com/s/sHr3G1cKc5dWfvkPfM3tUA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
