@@ -472,5 +472,11 @@
         "url": "https://mp.weixin.qq.com/s/BqANmEaByskImgF74an8vg",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞情报(已验证) | 时空智友企业流程化管控系统formservice 存在 XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/xDcynTtmWq0z6zs_b0dwiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
