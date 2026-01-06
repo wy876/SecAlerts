@@ -394,5 +394,29 @@
         "url": "https://mp.weixin.qq.com/s/sHr3G1cKc5dWfvkPfM3tUA",
         "source": "Doonsec",
         "date_added": "2026-01-06"
+    },
+    {
+        "title": "攻击者利用FortiWeb漏洞部署Sliver C2进行长期访问",
+        "url": "https://mp.weixin.qq.com/s/sA007cm0KmkfpinrXvjXPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
+        "url": "https://mp.weixin.qq.com/s/i98edy4KN8qXhAXyTnhSxQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "基于AI的红队渗透测试工具包，集成Nmap与Metasploit等工具",
+        "url": "https://mp.weixin.qq.com/s/CcchaOxO4c7qrOs-QGidsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "无法修补的漏洞：PS5 BootROM密钥遭泄露，索尼安全防线崩塌",
+        "url": "https://mp.weixin.qq.com/s/LNNSpvpz2n8rcGcOKazrSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
     }
 ]
