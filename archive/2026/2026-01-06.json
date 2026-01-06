@@ -1,0 +1,194 @@
+[
+    {
+        "title": "30 个内网渗透信息收集技巧，吃透了，内网横着走！",
+        "url": "https://mp.weixin.qq.com/s/oeLK-WWUngqLqyiLMFL_tQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "内推 | 上海某公司红队方向漏洞挖掘与渗透测试岗火热招聘中",
+        "url": "https://mp.weixin.qq.com/s/cJvGFMCvRPvJh2qmS_C7gw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "AI赋能的红队自动化工具包，让自然语言成为渗透测试的 “指挥棒”",
+        "url": "https://mp.weixin.qq.com/s/_bnNx47V51dDGiS0TyyXZA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V3.0发布~",
+        "url": "https://mp.weixin.qq.com/s/C_AGAUP3GBjiTFGOxGcGfw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "金融SRC各场景漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s/E_4D6KLZrzqdIJNu41Sneg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "手把手CVE漏洞编号获取&漏洞提交",
+        "url": "https://mp.weixin.qq.com/s/vq6GHn-TgHtEdWN3X0UClw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "CVE-2025-66518：Apache Kyuubi 中的高危漏洞暴露本地服务器文件",
+        "url": "https://mp.weixin.qq.com/s/zTZHhstJIrgrVX7-CS2GZg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "476万损失背后的平台漏洞：17岁少年诈骗获刑，电商业务漏洞安全敲响警钟",
+        "url": "https://mp.weixin.qq.com/s/Bhoew2W09ywXd0MgfKxbDA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "推广漏洞的特殊思路 | 通杀国内主流互联网厂商的推广漏洞思路分享",
+        "url": "https://mp.weixin.qq.com/s/t8HcCzLYKDHggG0z8YbMNw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "Monsta FTP CVE-2025-34299 RCE 浅析",
+        "url": "https://mp.weixin.qq.com/s/28gaTuhQkVq09eFfEswPyQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞预警 | RustFS认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/AQOiLKFRH1BoIU_fnAw4Hw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞预警 | 红海云eHR SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/9NljSSkisfL0hq71Xr0iCA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/oLyGPOXsK09A4qqK-ummOQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "Shiro漏洞利用工具，更新V0.2！",
+        "url": "https://mp.weixin.qq.com/s/qiITLmf2MO8r9_oHnQupwQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "CVSS 评分 10.0！满分高危漏洞 React2Shell 来袭，你的 Next.js 服务可能正在挖矿！",
+        "url": "https://mp.weixin.qq.com/s/QdSTNHb3XgCUbyMqo1ucfw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "漏洞复现 | B-LINK AC1900 V1.0.2 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/9guK9gL82gdb7nI3FTxVxw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "大商创多用户商城系统 SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/0HWJaupNP-zZRVgdZ1VyrA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "端口扫描 + 指纹识别 + POC 验证｜cscan 一站式资产安全扫描平台",
+        "url": "https://mp.weixin.qq.com/s/Sm9IKBikHGTTZ3gP4KIx2Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "一个为安全专业人员和渗透测试人员设计的综合性 WebShell 管理平台",
+        "url": "https://mp.weixin.qq.com/s/NPhonr9TQ57XkHjh-9S2YA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s/cGGJ0ezy1Ee6HhvvkR0lKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【接口漏洞第三章第一节】告别依赖文档！实战演练：无文档API渗透测试入门",
+        "url": "https://mp.weixin.qq.com/s/HazuZTizoW5Tk6tWBa1rRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "记一大型商超小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/kT3nzepRzYaxzYPRPk3mfA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【工具推荐】多云存储桶配置漏洞浏览器检测插件",
+        "url": "https://mp.weixin.qq.com/s/gUWKXlRuzIcSMNJldacGBw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "RCE哨兵 - 哨兵系列第一弹",
+        "url": "https://mp.weixin.qq.com/s/5wTYYxE-5wPRygMRaRvirA",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "AI安全新范式3：CoT Agent 在自动化渗透测试中的理论与实战",
+        "url": "https://mp.weixin.qq.com/s/sNvivv4SZtsNqORhaCF0cQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "存在了五年的 FortiOS SSL VPN 漏洞已在野实际利用",
+        "url": "https://mp.weixin.qq.com/s/amcK4lonVyG5jWhbcQ9gpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "GHOSTCREW——基于AI的红队渗透测试工具包，包含Metasploit、Nmap及其他工具",
+        "url": "https://mp.weixin.qq.com/s/z65ZitNSYdE2VG_qSyv1JQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "《不用漏洞也能拿下 Root？DC-2 靶机完整攻击链实录》",
+        "url": "https://mp.weixin.qq.com/s/d9qapPG7bDpOPlwg8daAhQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "图形化渗透测试辅助工具 - AuxTools",
+        "url": "https://mp.weixin.qq.com/s/4rnFFpVWJO9uv84egz5D4w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "【接口漏洞第三章第一节】告别依赖文档！实战演练：无文档API渗透测试入门",
+        "url": "https://mp.weixin.qq.com/s/ethfaXMXzByAAwIgiG56Rg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "QNAP修复高危SQL注入和路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/fjdC-4oZn7oPda9vBw0Xeg",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    },
+    {
+        "title": "CISA提醒注意 WHILL Model C2 电动轮椅中的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/rXV5eumRHNypwY2a9EqQ8w",
+        "source": "Doonsec",
+        "date_added": "2026-01-06"
+    }
+]
