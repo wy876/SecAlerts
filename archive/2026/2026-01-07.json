@@ -226,5 +226,47 @@
         "url": "https://mp.weixin.qq.com/s/zoQ2buJoOD-GnsaODbiLqw",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "零人工干预！全球首例 AI 智能体锁定 CVSS10 分高危 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/_R_8SRppwuKjsTU2w4xFDQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "携手护程 感恩有你 | 携程SRC 2025年度漏洞贡献值排行榜奖励揭晓",
+        "url": "https://mp.weixin.qq.com/s/RQPNqUdLF3_7OlbjS86WEA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "自动化漏洞探测工具 -- MCP-GraphQL（1月5日更新）",
+        "url": "https://mp.weixin.qq.com/s/Irh0jVBK_sHmpnRSTLIIMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "CVE-2025-6389 — WordPress 严重零日漏洞（远程代码执行）",
+        "url": "https://mp.weixin.qq.com/s/8iMo3jDtX2BHpdeY7fY9-w",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【漏洞通告】Apache Kyuubi 目录访问控制绕过漏洞(CVE-2025-66518)",
+        "url": "https://mp.weixin.qq.com/s/obVVDvYaLdOL_s29SHoLbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/5oXvc-2_RZ8D1iNjP4GV4g",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "jsPDF 本地文件包含/目录遍历 (CVE-2025-68428)",
+        "url": "https://mp.weixin.qq.com/s/NBEo3GMKdGBxWjeK0oYPDg",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
