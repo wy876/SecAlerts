@@ -298,5 +298,41 @@
         "url": "https://mp.weixin.qq.com/s/1Uehdvvgni1_AyF6mlj-nw",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "【安全圈】0Day漏洞Chronomaly可获取Linux内核root权限",
+        "url": "https://mp.weixin.qq.com/s/gcX6BkC-x3f_lNSJ7PhYng",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【安全圈】D-Link 多款老旧 DSL 网关路由器被曝命令注入 0day，已遭野外利用",
+        "url": "https://mp.weixin.qq.com/s/WvzY4wIJkN8esNhjgMi7ZA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【接口漏洞第三章第三节】API漏洞挖掘实录：从GET到PATCH，我是如何实现“0元购”的",
+        "url": "https://mp.weixin.qq.com/s/0QccRGPznspVX_qjpTxNrQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【已复现】jsPDF目录穿越导致本地文件包含漏洞（CVE-2025-68428）",
+        "url": "https://mp.weixin.qq.com/s/fxONDnqt1O99jrVXBdarKA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【已复现】GNU Wget2存在目录穿越漏洞（CVE-2025-69194）",
+        "url": "https://mp.weixin.qq.com/s/Wnkc6clygIcIkvU181f-zQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【已复现】ComfyUI-Manager 远程代码执行漏洞(CVE-2025-67303)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/4sAXdiYhp6t1SCDeJtoOQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
