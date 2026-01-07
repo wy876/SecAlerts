@@ -268,5 +268,35 @@
         "url": "https://mp.weixin.qq.com/s/NBEo3GMKdGBxWjeK0oYPDg",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "D-Link：遗留 DSL 路由器中存在已遭利用漏洞，速修复",
+        "url": "https://mp.weixin.qq.com/s/YW_Mqx_QepBTFMWMjCSEsQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "攻击面大迁移：从网络漏洞到身份漏洞的变化",
+        "url": "https://mp.weixin.qq.com/s/Arbdt-3erdFjj2-dcGxQvw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "安卓音频解码组件曝高危漏洞，可致恶意代码执行，谷歌紧急发布补丁",
+        "url": "https://mp.weixin.qq.com/s/Pz5CsfFzKMp7S5pgt_FBJQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【免费领】新手必备！Web安全漏洞挖掘实战入门教程",
+        "url": "https://mp.weixin.qq.com/s/z1NfdvfyHk0xilT7n1mkiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "苹果新型TCC绕过漏洞，macOS面临自动化攻击风险",
+        "url": "https://mp.weixin.qq.com/s/1Uehdvvgni1_AyF6mlj-nw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
