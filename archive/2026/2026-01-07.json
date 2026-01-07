@@ -190,5 +190,29 @@
         "url": "https://mp.weixin.qq.com/s/TSsGqGVoaapzGditijepig",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "一次“简单的信息收集”如何挖出了一个微软高危漏洞，并获得 MSRC 漏洞奖金",
+        "url": "https://mp.weixin.qq.com/s/B4zmWyT2OG_VCL22QWoscw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【已复现】n8n Pyodide 命令执行漏洞(CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s/fOHrg6yFudYwGUAaH6WhKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "如何避免被割韭菜之快速获取0day漏洞详情",
+        "url": "https://mp.weixin.qq.com/s/yHFE8yAi-L_BSx8Or889eA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "PHP数组漏洞实战",
+        "url": "https://mp.weixin.qq.com/s/1FZadgK2TOsHh7KknZgqGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
