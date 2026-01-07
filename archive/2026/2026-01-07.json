@@ -370,5 +370,41 @@
         "url": "https://mp.weixin.qq.com/s/qHwAQd4YXnoSj6y8XZzs6g",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "昂捷CRM系统存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/6Y2Q9oZ9IS9mWTC9iEOQRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
+        "url": "https://mp.weixin.qq.com/s/9fBFQxdUxFoRMJNDe-l2Lw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "Burp 微信小程序渗透利器，一键解密小程序wxapkg 包 + API 提取 + 敏感检测",
+        "url": "https://mp.weixin.qq.com/s/a7PCWfjU8IRhtFzcPy5KvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "从 JavaScript 到 BurpSuite 的高效漏洞挖掘实战指南",
+        "url": "https://mp.weixin.qq.com/s/tN7dMFQtJBZjct4rS6E-CA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【高危漏洞预警】jsPDF本地文件包含漏洞CVE-2025-68428",
+        "url": "https://mp.weixin.qq.com/s/-nghD_fOJ0cQX6Q4UVOAIA",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【高危漏洞预警】ComfyUI-Manager远程代码执行漏洞CVE-2025-67303",
+        "url": "https://mp.weixin.qq.com/s/7muIh50w79vyXwXT2W02jg",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
