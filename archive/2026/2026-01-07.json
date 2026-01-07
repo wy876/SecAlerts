@@ -346,5 +346,29 @@
         "url": "https://mp.weixin.qq.com/s/HrhZb9CNdhzx0Ny1i-qnCA",
         "source": "Doonsec",
         "date_added": "2026-01-07"
+    },
+    {
+        "title": "【接口漏洞第三章第二节】解锁API漏洞宝藏：从请求方法与内容类型切入",
+        "url": "https://mp.weixin.qq.com/s/06uaTTcW9QZaNjQqbXA6Xw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "【接口漏洞第三章第三节】API漏洞挖掘实录：从GET到PATCH，我是如何实现“0元购”的",
+        "url": "https://mp.weixin.qq.com/s/M76PZ6lwInelr_bIiRJUBQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "CVE-2025-55182 - Next.js-Exploit-Tool 图形化综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/bcaHmWkL7Q5zaoWVBJEYpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
+    },
+    {
+        "title": "VulnHunter AI - 漏洞猎人：一款颠覆性的AI智能漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/qHwAQd4YXnoSj6y8XZzs6g",
+        "source": "Doonsec",
+        "date_added": "2026-01-07"
     }
 ]
