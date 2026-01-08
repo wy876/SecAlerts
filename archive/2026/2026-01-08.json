@@ -460,5 +460,11 @@
         "url": "https://mp.weixin.qq.com/s/jlBpcZBdlq_P_tQZZCQZDA",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "新一代Webshell 管理与后渗透平台 | 去除通信流量强特征，支持自定义流量格式实现流量伪装",
+        "url": "https://mp.weixin.qq.com/s/pOYf-uu8u0oP5kCBaeaoXQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
