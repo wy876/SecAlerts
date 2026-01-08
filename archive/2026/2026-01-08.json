@@ -196,5 +196,35 @@
         "url": "https://mp.weixin.qq.com/s/z2jaGQamjT8jLkDSswAWEQ",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例",
+        "url": "https://mp.weixin.qq.com/s/L64Q_Rf1ZC_vM4U6skeqng",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "我是如何发现一个 Windows RCE 的",
+        "url": "https://mp.weixin.qq.com/s/NH1SQHsOvlHhtpxOjqegEw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "实战 | CISP-PTS — 国内渗透专家的 “官方通行证”",
+        "url": "https://mp.weixin.qq.com/s/AlPKwaqbaVGVl4sFogvPTw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】CVSS 10.0 满分漏洞，n8n 未授权文件访问漏洞可远程代码执行(CVE-2026-21858)",
+        "url": "https://mp.weixin.qq.com/s/72-wGfQNZT7hmZ_v8ccnQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "M-SEC 漏洞社区福利活动重磅来袭！",
+        "url": "https://mp.weixin.qq.com/s/738H_a30VQZJ5fq7V_LoIA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
