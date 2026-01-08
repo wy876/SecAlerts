@@ -508,5 +508,17 @@
         "url": "https://mp.weixin.qq.com/s/Np_-ztLJOq__mGmJjygvRA",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "详析 n8n 超危漏洞（CVE-2026-21858）如何从文件上传一路打到服务器沦陷",
+        "url": "https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "Apt_t00ls：Java 开发的OA设备高危漏洞集成利用工具",
+        "url": "https://mp.weixin.qq.com/s/It_8VnOhiNNAYzesd46gdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
