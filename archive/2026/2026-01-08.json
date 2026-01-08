@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s/C0Uy2ebKB7IyGoDQfoTlzg",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "CVE-2026-21877：n8n 存在认证远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/QGJOtU2xDxIG8UZuzdFpsw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【风险提示】MongoDB高危漏洞爆发！速查！！！",
+        "url": "https://mp.weixin.qq.com/s/ezMAgrMG82zFRfm1E-MO5Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】n8n 远程代码执行漏洞(CVE-2026-21858)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/8n4fLjpA7BydcLjPA_bjtA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
