@@ -1,0 +1,86 @@
+[
+    {
+        "title": "[RedTeamLLM] 自动化渗透测试中应用Agentic AI",
+        "url": "https://mp.weixin.qq.com/s/D39A2Xd1O33D54c9_JE0-w",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "D-Link老款DSL路由器被曝在野利用漏洞",
+        "url": "https://mp.weixin.qq.com/s/hfJGax9hV3BG9dOKIQOqtQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "Ni8mare高危漏洞曝光：n8n自动化平台面临未授权全面接管风险",
+        "url": "https://mp.weixin.qq.com/s/J5iqZMu3rYfDynpIKO6QFw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "漏洞复现 | 东方通TongWeb upload接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/6U78YnlP7S8oacRS7bELQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "30 个内网渗透信息收集技巧，吃透了，内网横着走！",
+        "url": "https://mp.weixin.qq.com/s/bqZXoYOp-IF7VFL3lijdRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "国内用户需警惕黑客正积极利用老款D-Link DSL路由器中的关键远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/LgAI6Ccnk0ZWzecEDzSSJQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "「攻防演练」某采购系统1day任意文件下载到RCE",
+        "url": "https://mp.weixin.qq.com/s/dvh7HGKH_6FVmn03LEQoMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "CVE-2025-60262：H3C无线设备严重配置错误，黑客可控制该设备",
+        "url": "https://mp.weixin.qq.com/s/0ODnsyttQICtXtzakj7DYw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "还在一条条翻接口找泄露？一键完成「反编译 + Hook注入 + 敏感信息泄露扫描」，让小程序渗透像点外卖一样简单！",
+        "url": "https://mp.weixin.qq.com/s/J4FELTP-vuiyDGrmzk1TJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "新一代Webshell 管理与后渗透平台 | 去除通信流量强特征，支持自定义流量格式实现流量伪装",
+        "url": "https://mp.weixin.qq.com/s/z7HXmiALSCsnGaqgQOpvug",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "漏洞预警 | PublicCMS命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MZ6mO1t439N2OM5vbKTUAQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/RgAsNu94e-QIFmRh-GbnlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/_vYf3RjwlWDXRfklmFXx3w",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "某次漏洞排查引起的漏洞",
+        "url": "https://mp.weixin.qq.com/s/oLifiaCiKhBqRT3YQS4N8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    }
+]
