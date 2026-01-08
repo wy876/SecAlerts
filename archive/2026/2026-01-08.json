@@ -466,5 +466,47 @@
         "url": "https://mp.weixin.qq.com/s/pOYf-uu8u0oP5kCBaeaoXQ",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "【内网渗透】从 NTLM 捕获到域管权限：THM Reset 靶场 Kerberos 委派攻击全流程",
+        "url": "https://mp.weixin.qq.com/s/9_VA1zWf_JAQ-WRGN-g0GQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "2025年十大高风险漏洞及其在实际攻击中的应用",
+        "url": "https://mp.weixin.qq.com/s/XjIhvLLOTEtWmVeKBMqkYg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "MongoDB高危漏洞已被积极利用",
+        "url": "https://mp.weixin.qq.com/s/bPbE8xXw4URxpDUIQiNE0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示",
+        "url": "https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "最新Nessus2026.1.8版本主机漏洞扫描/探测工具Windows/Linux下载",
+        "url": "https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "JeecgBoot积木报表getDataSourceByPage接口存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/VC9B3Jg5EKFQWV4RhTk3PQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+        "url": "https://mp.weixin.qq.com/s/Np_-ztLJOq__mGmJjygvRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
