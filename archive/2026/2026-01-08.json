@@ -298,5 +298,83 @@
         "url": "https://mp.weixin.qq.com/s/SDB4K0KqBlLAU9XKa45LJQ",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "自动化平台n8n曝高危漏洞CVE-2026-21858，10万服务器面临接管风险",
+        "url": "https://mp.weixin.qq.com/s/SW0lK1tkMKy4kZp75QCOQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "不止SQL注入！这门网络安全课覆盖 Web 渗透+内网攻防，零基础也能轻松上手",
+        "url": "https://mp.weixin.qq.com/s/9xXToRrSCUJ8o3OwprEAvg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "n8n 满分漏洞 Ni8mare 可导致服务器遭劫持",
+        "url": "https://mp.weixin.qq.com/s/Ad6eB5A_OqdHTb5lnI8yPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "Veeam 修复备份服务器中的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/9cJkv84S0QsPngqElYpr3Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【高危预警】Veeam备份软件曝出 CVSS 9.0 远程代码执行漏洞，勒索软件可利用其破坏备份数据",
+        "url": "https://mp.weixin.qq.com/s/uc2NAhKIHqc5XHfcy4U5dg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V3.0发布~",
+        "url": "https://mp.weixin.qq.com/s/-s-a_R5z586xuz88aupDNA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【免费领】Kali Linux无线渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s/TWJplQV3049rhkfdvHmRvQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【附POC及复现环境】n8n双CVE漏洞利用链可致远程代码执行漏洞（CVE-2026-21858+CVE-2025-68613）",
+        "url": "https://mp.weixin.qq.com/s/bDfdME5ie6Nmwz2S7Ao_dg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "高危漏洞威胁情报合集 (2026-01-08）",
+        "url": "https://mp.weixin.qq.com/s/cJ_wE479L1ASzLrW9ojZWA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【论文速读】| 用于软件供应链安全自主防御的Agentic AI：从溯源到漏洞缓解",
+        "url": "https://mp.weixin.qq.com/s/5GRQbN_ZqpiiOGKib41FsA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【漏洞通告】n8n 远程代码执行漏洞(CVE-2026-21877)",
+        "url": "https://mp.weixin.qq.com/s/u5lm3LJFVihrD5LjZy1ASw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【漏洞通告】n8n Webhook 请求处理不当导致未经身份验证的文件访问漏洞(CVE-2026-21858)",
+        "url": "https://mp.weixin.qq.com/s/M3euwAuL5jBaPTPTc8RBYg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "指纹识别+精准化 POC 攻击",
+        "url": "https://mp.weixin.qq.com/s/pJUqfDpIlO2W_EjpsoS0FQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
