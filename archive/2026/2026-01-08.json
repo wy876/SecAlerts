@@ -82,5 +82,119 @@
         "url": "https://mp.weixin.qq.com/s/oLifiaCiKhBqRT3YQS4N8g",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [【攻防实战9】记一次某人民医院的点到为止",
+        "url": "https://mp.weixin.qq.com/s/K9elnDAY7sMttWN36ugFhg",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [D-Link：遗留 DSL 路由器中存在已遭利用漏洞，速修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524812&idx=1&sn=f525d9edab2101534877ebaa069472f2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [安卓音频解码组件曝高危漏洞，可致恶意代码执行，谷歌紧急发布补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=2&sn=b3b2085a4a5679c063ceb49dae3c505b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [【已复现】ComfyUI-Manager 远程代码执行漏洞(CVE-2025-67303)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504435&idx=1&sn=cf7689de7e6702d8a2265d95cb7bc8c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [【安全圈】0Day漏洞Chronomaly可获取Linux内核root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073601&idx=3&sn=dea95a9fbe14ba2f6a20a39754e7f77a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [【安全圈】D-Link 多款老旧 DSL 网关路由器被曝命令注入 0day，已遭野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073601&idx=4&sn=9c7154506dafe5b5720c6a61411d4662",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "] [先知通用软件漏洞收集及奖励计划第十期 正式开始！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998491&idx=1&sn=0db5039114f7a7bae17301a318fe02ad",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "jsPDF 高危漏洞可窃取服务器密钥及配置文件",
+        "url": "https://mp.weixin.qq.com/s/WgT1-3_DfwGOJ-EZx12s4A",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "CVE-2025-67303 ComfyUI RCE复现",
+        "url": "https://mp.weixin.qq.com/s/iD7KCg4PUClgjxO4LWOThQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用",
+        "url": "https://mp.weixin.qq.com/s/qnXWZ7Dj7arOg5SVG-xBFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "教育漏洞报告平台注册码十个（先到先得）",
+        "url": "https://mp.weixin.qq.com/s/CUH4qyp0T_OW0g5t8_6ONA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "驰骋BPM低代码开发平台 RichUploadFile 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/gCVLDBcv3A6cHnm62pdyTg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【高危漏洞预警】n8n远程代码执行漏洞CVE-2026-21877",
+        "url": "https://mp.weixin.qq.com/s/yeH3xhTDwP-s1NzxnUJjkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "Veeam 修复备份恢复软件中的一个9分高危RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/gRI-G36OS3FbAffFnkvCTw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "京东云路由器曝严重漏洞，黑客可直接获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s/mJtd8lPrU15Pt-aBvmX1UQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第 4 期）：Pwn 专项（上）——从看懂到 getshell",
+        "url": "https://mp.weixin.qq.com/s/Vufw1SzvJNa9ArLecqnlAQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "未授权漏洞渗透技巧总结分享（十）",
+        "url": "https://mp.weixin.qq.com/s/PFAwt0BJGitiV6j5Rojk7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【红队】Webshell 管理与后渗透平台",
+        "url": "https://mp.weixin.qq.com/s/uk9LaZEYi0r7cmU6cWNkHQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "招渗透测试工程师、安全运营",
+        "url": "https://mp.weixin.qq.com/s/z2jaGQamjT8jLkDSswAWEQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
