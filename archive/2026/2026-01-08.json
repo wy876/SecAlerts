@@ -244,5 +244,17 @@
         "url": "https://mp.weixin.qq.com/s/oiJndvryMCP8_lBde8Ulsw",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "蓝凌OA漏洞利用总结",
+        "url": "https://mp.weixin.qq.com/s/Q2siDO0_xGYbvwPzbOaP_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "Nacos 漏洞利用总结",
+        "url": "https://mp.weixin.qq.com/s/C0Uy2ebKB7IyGoDQfoTlzg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
