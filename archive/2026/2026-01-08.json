@@ -376,5 +376,89 @@
         "url": "https://mp.weixin.qq.com/s/pJUqfDpIlO2W_EjpsoS0FQ",
         "source": "Doonsec",
         "date_added": "2026-01-08"
+    },
+    {
+        "title": "ByteSRC开年首测｜火山引擎AI业务单个漏洞赏金10万元！",
+        "url": "https://mp.weixin.qq.com/s/fXWXAQePehmW8wCHTWIjXA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "DLL 劫持复现记录（显式加载）",
+        "url": "https://mp.weixin.qq.com/s/xtGFMRLNafQ27jLNRRDPeA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【安全圈】三星 SSD 管理软件曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/-N1zflcEp9hrdPxEBk7oIA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【安全圈】黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
+        "url": "https://mp.weixin.qq.com/s/8XdsB9mCjaoxjL9PtZzYag",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【安全圈】安卓 / Linux 内核高危漏洞 CVE-2025-38352 验证性利用代码已公开",
+        "url": "https://mp.weixin.qq.com/s/AU9RXBp44RhMTV904AcRKA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【安全圈】GoBruteforcer 僵尸网络全球攻击 Linux 服务器，5 万台公网服务器面临风险",
+        "url": "https://mp.weixin.qq.com/s/NBUe4Dd_wtmcqdx4WBnkJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【接口漏洞第三章第四节】进阶实战：如何用 Burp Intruder “暴力推理”出隐藏的API端点？",
+        "url": "https://mp.weixin.qq.com/s/sbqRMy26Ep11ToJpgVV4Ag",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "“搜打撤”在渗透测试中的运用",
+        "url": "https://mp.weixin.qq.com/s/a7Q1uVJSS-jSO_b7Ha_G6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s/OT_eiXOGfDf2l7D6fq-pIQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】ComfyUI-Manager 远程代码执行漏洞（CVE-2025-67303）",
+        "url": "https://mp.weixin.qq.com/s/U8qYF4Y3SmTPARPEJjFSVA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
+        "url": "https://mp.weixin.qq.com/s/RkoaOPT2SHSLU1qLHgO-tg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "记某大学证书站一次渗透",
+        "url": "https://mp.weixin.qq.com/s/s779hvhDvRCbtLHNqaP4Mg",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】ComfyUI-Manager存在远程代码执行（CVE-2025-67303）",
+        "url": "https://mp.weixin.qq.com/s/4Y3mPSZ0hBmlLyni7xjVKQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
+    },
+    {
+        "title": "【已复现】n8n任意文件读取到沙箱逃逸 RCE（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s/jlBpcZBdlq_P_tQZZCQZDA",
+        "source": "Doonsec",
+        "date_added": "2026-01-08"
     }
 ]
