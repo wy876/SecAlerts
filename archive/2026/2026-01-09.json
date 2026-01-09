@@ -268,5 +268,71 @@
         "url": "https://mp.weixin.qq.com/s/ZAqKEmc_j1VurL4d-DM1xA",
         "source": "Doonsec",
         "date_added": "2026-01-09"
+    },
+    {
+        "title": "轻量级安全扫描工具Lightx，内网自查与渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/3jb_q_CwVD1tUut0b-HMCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【附POC及复现环境】SmarterMail未授权任意命令执行漏洞复现（CVE-2025-52691）",
+        "url": "https://mp.weixin.qq.com/s/zKxDRzdWGHHbSWlW1yVfNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "[漏洞复现]ComfyUI-Manager(CVE-2025-67303)",
+        "url": "https://mp.weixin.qq.com/s/Rp8EFclSWfusZB_oz6111g",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "剖析特朗普时期五角大楼AI转型：加速全面渗透军方办公与作战",
+        "url": "https://mp.weixin.qq.com/s/ZkFR3IAMXUD5sJF7OOPBkQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "渗透高质量常用字典，提高渗透效率!",
+        "url": "https://mp.weixin.qq.com/s/t6i3RhuVR7jrc9AjgX4kuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "IRify 报告功能：一键生成专业代码审计报告！",
+        "url": "https://mp.weixin.qq.com/s/H0vW2aju9F4rPHXZVBh67Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "RuoYi 后台SQL注入漏洞系列2",
+        "url": "https://mp.weixin.qq.com/s/7fPL8gnvt4X0loaJ1qzPgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "警惕跨境暗雷！韩国漏洞微基站遭改装，悄然流入中国窃隐私",
+        "url": "https://mp.weixin.qq.com/s/XKaWRWSjITR_gAmEicCXNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【漏洞通告】n8n 远程代码执行漏洞(CVE-2026-21858)",
+        "url": "https://mp.weixin.qq.com/s/gI-FeyGB6lqjwl_oxCVd8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "通用 | 春节第三趴，提交几个漏洞能拿万元奖励金/大疆运动相机？（文末抽奖）",
+        "url": "https://mp.weixin.qq.com/s/RBfSscMqiQh4_HsAFrvLXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【0day预警】ComfyUI-Manager CRLF注入导致远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/47eKj7vlfpUnzO3-9j5wvw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
     }
 ]
