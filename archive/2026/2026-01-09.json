@@ -184,5 +184,71 @@
         "url": "https://mp.weixin.qq.com/s/n9452S8b-YHHXDgY8BmXQA",
         "source": "Doonsec",
         "date_added": "2026-01-09"
+    },
+    {
+        "title": "【已复现】SmarterMail 邮件服务器任意文件上传漏洞(CVE-2025-52691)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/kR7hgM6g1hXU2CS0MtMuMw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【玄域靶场】漏洞报告里挖思路，玄域靶场中练实操-实战漏洞报告板块已上线！",
+        "url": "https://mp.weixin.qq.com/s/1MKJ7rDMWKrjjQmTJ7w-hQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "n8n RCE 101：CVE-2025–68613 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/ic_1TCloI5b8hdGh5zD1Ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "JWT安全解析：从设计哲学到致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/VoJOaP_A909qRPBO1Z0s_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【一马当先，洞见金甲】微众银行SRC新春专享漏洞挖掘激励计划",
+        "url": "https://mp.weixin.qq.com/s/4SngbeUncM3lZ31vbXnt3A",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【已复现】SmarterMail 路径遍历漏洞可导致未授权远程代码执行，EXP 已公开（CVE-2025-52691）",
+        "url": "https://mp.weixin.qq.com/s/shTMNLrCeSsSopiXlr0gpg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【在野利用】Cursor命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/3N-2AyhPAUa3zckkXXMKGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【渗透实战系列】|55-某大型集团渗透测试（全域权限）",
+        "url": "https://mp.weixin.qq.com/s/F8vALfbG5K_gp4Sr7vZPvQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "LogPoint SIEM/SOAR 平台预认证RCE漏洞链分析:从路由配置到代码执行的完整攻击路径",
+        "url": "https://mp.weixin.qq.com/s/5U_K1OWuKj1ufS3s_7pdZA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "在线资源全攻略：漏洞复现、CVE 追踪、实战提升一条龙",
+        "url": "https://mp.weixin.qq.com/s/ykj0VHboXDzXlWdwF0EeRQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第5期）：Pwn专项（下） Canary绕过 + UAF堆漏洞，把Pwn从中等题打到稳定得分",
+        "url": "https://mp.weixin.qq.com/s/EXELryA94CS-dLb1j8JD1Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
     }
 ]
