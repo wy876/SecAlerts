@@ -334,5 +334,47 @@
         "url": "https://mp.weixin.qq.com/s/47eKj7vlfpUnzO3-9j5wvw",
         "source": "Doonsec",
         "date_added": "2026-01-09"
+    },
+    {
+        "title": "【已复现】SmarterMail存在文件上传漏洞（CVE-2025-52691）",
+        "url": "https://mp.weixin.qq.com/s/a_2doPRjkA4aB6dsXmRA6g",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "周日20点直播 | FART14秒脱海外加固厂商dexprotector加壳app",
+        "url": "https://mp.weixin.qq.com/s/g0mfL12GusM5L-9dkmcGLQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "某赛通Nday漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/CiMdkibcYiyYrQ5P_dCBPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞通告｜n8n远程代码执行漏洞（CVE-2026-21858)",
+        "url": "https://mp.weixin.qq.com/s/xPDUHApz5a82Cq9OmM4JVA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【已复现】ComfyUI-Manager 远程代码执行漏洞(QVD-2026-2759)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/h2G0STVzVlsv43n_Nw1s7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【安服水洞系列】Dify API密钥明文暴露漏洞",
+        "url": "https://mp.weixin.qq.com/s/T2aLxuN0qYCmEOzvA3kX1Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "Webpack打包js.map泄露导致的通杀0day",
+        "url": "https://mp.weixin.qq.com/s/G8_DI-HJqe8GuB0zTLDnGg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
     }
 ]
