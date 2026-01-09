@@ -28,5 +28,155 @@
         "url": "https://mp.weixin.qq.com/s/wS1Ym_EgcEWSXEfQWCXhkg",
         "source": "Doonsec",
         "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493050&idx=1&sn=a3d82655ccef7eef5f6df8f29024f162",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【已复现】ComfyUI-Manager 远程代码执行漏洞（CVE-2025-67303）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493050&idx=2&sn=1f6febc527b5c1ebc9cfb93de814e380",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [n8n 满分漏洞 Ni8mare 可导致服务器遭劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524822&idx=1&sn=e3ab93e00fc28bdb1a256d94e84507f3",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [Veeam 修复备份服务器中的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524822&idx=2&sn=bf38cc5485bf41c1eb57971488d1f356",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【安全圈】三星 SSD 管理软件曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073616&idx=1&sn=00ddec83cd6f42d948271422e027e84c",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【安全圈】黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073616&idx=2&sn=741da551e46d5f17cae1ee738d1010fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【安全圈】安卓 / Linux 内核高危漏洞 CVE-2025-38352 验证性利用代码已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073616&idx=3&sn=a2ce68c4ee7e78945fbd110650da74e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【安全圈】GoBruteforcer 僵尸网络全球攻击 Linux 服务器，5 万台公网服务器面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073616&idx=4&sn=7d5cf4b99c2b8b5ea8da8517901c5016",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [自动化平台n8n曝高危漏洞CVE-2026-21858，10万服务器面临接管风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607554&idx=2&sn=938d93225f6b22535124b87b074f2578",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [【已复现】n8n 远程代码执行漏洞(CVE-2026-21858)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504447&idx=1&sn=b867a6a515f1ea35f79031f34ae71aac",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [ByteSRC开年首测｜火山引擎AI业务单个漏洞赏金10万元！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495930&idx=1&sn=e6199dfd21a6fb4cb25defde788019ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [2025年12月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497080&idx=1&sn=8cdafd619daa577dec7993b88c646783",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "] [2025年12月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485128&idx=1&sn=1fbc1ceef8a90709e3d5644a809a5c12",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "东胜物流软件 FileExport.aspx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/Q2Rdiwgz2bxGEZwtA_HxCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "Linux脏牛提权漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/5GqRvclnjNh67egnYibZGQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "网安实验干货每日分享IIS6.0文件解析漏洞特殊符号\\\"/\\\"–0109",
+        "url": "https://mp.weixin.qq.com/s/E-Y5ggi63OBlL9-dQ2YgNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞复现 | Samsung MagicINFO 9 Server 路径遍历导致任意文件写入漏洞（CVE-2025-4632）",
+        "url": "https://mp.weixin.qq.com/s/CMgG-lUg4xwBCsuSbBAyYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+        "url": "https://mp.weixin.qq.com/s/jsKOyPq22TGjnSlAb-KvJQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "如何挖掘SRC中的支付漏洞",
+        "url": "https://mp.weixin.qq.com/s/448_eq5z7NCC6E08ORpRBA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "Kali 2025.4 利用Ai进行渗透测试",
+        "url": "https://mp.weixin.qq.com/s/Lsk_pejN1Vb8NyxjaJ4QCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "一次攻防演练中的两次近源渗透记录",
+        "url": "https://mp.weixin.qq.com/s/rzb8Nu7pLa4DcVmrL5i3hw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "Linux电池实用程序漏洞允许绕过身份验证和篡改系统",
+        "url": "https://mp.weixin.qq.com/s/8sOwQ3_-XWC84JOoRQjCuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞预警 | Zimbra本地文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s/p38IHTQNF-8KP2Efb7sLJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ki-fPXPBNUFWxqQgAD-qcQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/iMW2TJ6EBiYZWbh-ryjwqw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
     }
 ]
