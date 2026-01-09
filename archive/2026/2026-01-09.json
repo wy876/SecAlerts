@@ -1,0 +1,32 @@
+[
+    {
+        "title": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+        "url": "https://mp.weixin.qq.com/s/ImWkdpZqw_g1FA3HG5k2WA",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "黑客利用0DAY漏洞利用工具包攻击 VMware ESXi 实例",
+        "url": "https://mp.weixin.qq.com/s/SmuxnPtTdB96ts4DzHYE0A",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "最高级别的 n8n 漏洞允许随机用户接管服务器",
+        "url": "https://mp.weixin.qq.com/s/k8iNMmUY3uVpe-yW0Ns1fw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "【已复现】n8n 前台远程代码执行漏洞（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s/AApuS7Q0rehhB0tBYYfTyw",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    },
+    {
+        "title": "某vue网站的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/wS1Ym_EgcEWSXEfQWCXhkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-09"
+    }
+]
