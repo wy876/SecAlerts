@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s/CAp7sX2hp_uUPucKyAy_gA",
         "source": "Doonsec",
         "date_added": "2026-01-10"
+    },
+    {
+        "title": "【三星】固态硬盘管理软件高危漏洞CVE-2025-57836",
+        "url": "https://mp.weixin.qq.com/s/RS65vp0q2j0BJo04lYosiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "Web篇 | 手把手拆解：小程序/Web端加密鉴权绕过案例全复现",
+        "url": "https://mp.weixin.qq.com/s/VttDCTBhZUGlyJDh6WzTgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
     }
 ]
