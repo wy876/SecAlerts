@@ -214,5 +214,101 @@
         "url": "https://mp.weixin.qq.com/s/_Nf4z76k8-smR_9Bc3umZg",
         "source": "Doonsec",
         "date_added": "2026-01-10"
+    },
+    {
+        "title": "JAVA代码审计之-反编译与SQL审计",
+        "url": "https://mp.weixin.qq.com/s/jStchq5yli0B4isAxiovag",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "又是n8n！CVSS 10.0致命漏洞详解：从文件读取到RCE的“一条龙”攻击链",
+        "url": "https://mp.weixin.qq.com/s/jjUdwk5w2P7vAFHWZ3wPdg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "Apache SIS XML外部实体（XXE）漏洞预警（CVE-2025-68280）",
+        "url": "https://mp.weixin.qq.com/s/1aMHuHb2-q_8pCeCn0kDQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "漏洞复现 | 东方通TongWeb selectApp.jsp 存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/xHdEhX88wiKrjfTHpFqnmQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s/UZwpyQRtVTIgbM-5y1ICWA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "某大学小程序任意用户密码修改漏洞",
+        "url": "https://mp.weixin.qq.com/s/yrNAKREQOnkSF3NsnLyJeQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "行业资讯：GoBruteforcer的僵尸网络专门针对Linux服务服务器",
+        "url": "https://mp.weixin.qq.com/s/WiTxOEIeU3XUbxRsstWVog",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "WatchGuard 防火墙发现严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DYakiV3MNZd09zPd0ZGMLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【高危漏洞预警】ComfyUI-Manager远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/kYj99qLelrVGDkeFxXLNCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【高危漏洞预警】SmarterMail邮件服务器任意文件上传漏洞CVE-2025-52691",
+        "url": "https://mp.weixin.qq.com/s/f_7MECkHxORcKmZZ2dxpnw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "高危漏洞威胁情报合集 (2026-01-09）",
+        "url": "https://mp.weixin.qq.com/s/VKct2SjrXJ9grhPTnZKvKg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "某赛通Nday漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/orKoH3w7wDetIG49R5M1YA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "CVE-2026-21876：当 WAF 遇上冷门字符集",
+        "url": "https://mp.weixin.qq.com/s/TqAe-A25A-c7GePlFTyjaA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "一次打穿 DC-1 靶场：Drupal 漏洞 + SUID 提权，完整拿下 Root！",
+        "url": "https://mp.weixin.qq.com/s/YNImVl2zqzQSkbgDNcMZiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "信息安全漏洞周报【第055期】",
+        "url": "https://mp.weixin.qq.com/s/OZbvh3mNC3zOWYHzMwKGBg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "SmarterTools SmarterMail 漏洞导致远程代码执行攻击——PoC 发布",
+        "url": "https://mp.weixin.qq.com/s/WK5EF4kPKfHT8KMo5ibtmg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
     }
 ]
