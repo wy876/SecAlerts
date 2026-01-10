@@ -52,5 +52,167 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529304&idx=1&sn=7c90ed0a414526a29a8d23ab2e9c95ad",
         "source": "BruceFeIix",
         "date_added": "2026-01-10"
+    },
+    {
+        "title": "20块钱20分钟，Manus帮我\\\"蒸馏\\\"了腾讯智能渗透挑战赛的精华",
+        "url": "https://mp.weixin.qq.com/s/yEmkDmdLOaOE3yhCU2LU_w",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "Jeecg综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/ECGxZ46xSlwXJ-LSXwCoVA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "用友漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/o7MKM0mkuwf8-A_HmRbAQw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "某学院找回密码逻辑漏洞测试案例",
+        "url": "https://mp.weixin.qq.com/s/fCqFm2Y1y6Satmi2VYjHxA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "moodleRCE 独特的bypass思路",
+        "url": "https://mp.weixin.qq.com/s/hJb_D_r1s1oQwJG0uJOc9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "2026年需重点关注的3类高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s/845EVdBSVBJHLNSJT71W-g",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "ChatGPT“僵尸代理”攻击：新型零点击漏洞如何窃取你的邮件、记忆与一切",
+        "url": "https://mp.weixin.qq.com/s/crn9SrQjYFXTVoNudu4u3g",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第6期）：Pwn高阶实战 格式化字符串+ROP进阶，拿下CTF高分题",
+        "url": "https://mp.weixin.qq.com/s/iphfIov5Xh5b9_1jtb7row",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "2025年度十大云/虚拟化高危漏洞盘点",
+        "url": "https://mp.weixin.qq.com/s/eyn-2IgbYGj9QirZAkpfhQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "n8n远程代码执行高危漏洞-最高严重性漏洞",
+        "url": "https://mp.weixin.qq.com/s/vYZMkiZTH10OTJENxdbU8w",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【在野利用】HPE OneView 远程代码执行漏洞(CVE-2025-37164)",
+        "url": "https://mp.weixin.qq.com/s/UFsv2FqD2J6kzSZtv7LlKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【原创情报】IDA Pro MCP远程代码执行漏洞(CVE-2025-67117)",
+        "url": "https://mp.weixin.qq.com/s/viMlZCrDomoVLS-_fpv5yg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "美军最神秘、最精锐特种部队：三角洲（Delta Force）部队全景解析",
+        "url": "https://mp.weixin.qq.com/s/my2C9M_XkSpEiasWVhmpGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "GitLab 代码仓库平台中的 XSS 漏洞分析 $35,000",
+        "url": "https://mp.weixin.qq.com/s/G43e90kO_ZHL_xf3cHsAhQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【安全圈】思科交换机DNS客户端漏洞事件",
+        "url": "https://mp.weixin.qq.com/s/eR9gg79sMVp29TgI89b3dQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "僵尸网络攻击全球Linux服务器、ChatGPT曝高危漏洞|一周特辑",
+        "url": "https://mp.weixin.qq.com/s/Kv4KF5AEOPzQgVCqz0Yyiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【云安全专题-3】红队御用的 AK/SK 利用与云渗透神兵",
+        "url": "https://mp.weixin.qq.com/s/rQACf3qe8QsVL8iE7l-N1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "核弹漏洞！n8n 曝出“噩梦级”漏洞链",
+        "url": "https://mp.weixin.qq.com/s/KIEBC69SKkQ4tJweziEOHQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【AI安全】核弹级漏洞！n8n 曝出“噩梦级”漏洞链 CVSS 10.0 满分",
+        "url": "https://mp.weixin.qq.com/s/HlsbSb7qz20y8K71V7g91w",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "Ivanti Connect Secure栈溢出漏洞(CVE-2025-0282)分析全流程",
+        "url": "https://mp.weixin.qq.com/s/siE6CzRgMhGiaPPQs7v5Jw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "HOST碰撞漏洞挖掘技巧，可以解决日常99%的问题！",
+        "url": "https://mp.weixin.qq.com/s/id2sacJWA0DQjNTcXblzDw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "SmarterMail未授权任意命令执行漏洞复现——CVE-2025-52691",
+        "url": "https://mp.weixin.qq.com/s/pF48lL6YS6r9UyRd7JtIFA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "年底冲刺！ZPSRC 漏洞挖掘奖励翻倍",
+        "url": "https://mp.weixin.qq.com/s/Md0Vl91LJFfHCKeuAcKc8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "用友漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/hM-dphSyYtaA5KJVOapluQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "【接口漏洞第四章第一节】赏金猎人进阶：手把手教你挖出API的“暗参数”",
+        "url": "https://mp.weixin.qq.com/s/oIAZ6cylne_SOVKoy1_euQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "Linux电源管理工具TLP曝高危认证绕过漏洞（CVE-2025-67859）",
+        "url": "https://mp.weixin.qq.com/s/9V5k-XPHK0JlX3RBiMVn7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "思科：速修复已出现 exp 的身份服务引擎漏洞",
+        "url": "https://mp.weixin.qq.com/s/_Nf4z76k8-smR_9Bc3umZg",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
     }
 ]
