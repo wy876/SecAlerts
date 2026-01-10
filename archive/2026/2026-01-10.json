@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s/WK5EF4kPKfHT8KMo5ibtmg",
         "source": "Doonsec",
         "date_added": "2026-01-10"
+    },
+    {
+        "title": "科汛新职教网校系统 checkPayStatus SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/PoN_pEQ8LjuPga3CjUTanw",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
+    },
+    {
+        "title": "ChatGPT漏洞可致攻击者窃取Gmail、Outlook和GitHub敏感数据",
+        "url": "https://mp.weixin.qq.com/s/CAp7sX2hp_uUPucKyAy_gA",
+        "source": "Doonsec",
+        "date_added": "2026-01-10"
     }
 ]
