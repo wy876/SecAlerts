@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/20H4sC5T2-FcfA4jPh70QA",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "东胜物流 GetDataList sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "2026开年第一漏洞！赶快检查Chrome浏览器（CVE-2026-0628）",
+        "url": "https://mp.weixin.qq.com/s/J0TGMVzeK7dN7Bi3iFAyCw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
