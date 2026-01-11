@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s/DR_0sQYIhNakD780YNPPHQ",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.0.9更新(新增mysql、sqlserver等诸多数据库连接、优化便携发包等功能)",
+        "url": "https://mp.weixin.qq.com/s/vdwMbOmEynAegQMWSVm0AA",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "0115.意外泄露高危 ASP.NET 漏洞：一次咖啡休息如何导致他人个人身份信息泄露（以及 600 美元赏金）",
+        "url": "https://mp.weixin.qq.com/s/L6E-CNUjVMlv0V43mVHKCw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
