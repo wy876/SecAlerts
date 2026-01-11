@@ -64,5 +64,41 @@
         "url": "https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "] [【安全圈】思科交换机DNS客户端漏洞事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=3&sn=dc42dce00e90108d55e8d5ba87118a10",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "【接口漏洞第四章第二节】隐藏参数挖不动？可能是你的 Param Miner 没配置对",
+        "url": "https://mp.weixin.qq.com/s/r1spDPzYcMvyE6yvUfNIbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "揭秘 SmarterMail 沉寂三个月后才公开的“满分”RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "CVE-2026-21440｜AdonisJS远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第 7 期）：跨场景移动端与物联网漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/sWeCFIPxGL-J6QutTF46dQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
