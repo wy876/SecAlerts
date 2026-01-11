@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "记某次渗透中order by排序注入",
+        "url": "https://mp.weixin.qq.com/s/DR_0sQYIhNakD780YNPPHQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
