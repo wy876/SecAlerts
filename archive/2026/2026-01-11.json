@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/eKkAl9z8MHFQVGg7hPXq9A",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "Chrome WebView 漏洞（CVE-2026-0628）可绕过安全限制",
+        "url": "https://mp.weixin.qq.com/s/QIXURLRau9_4Si4u33FSMA",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
