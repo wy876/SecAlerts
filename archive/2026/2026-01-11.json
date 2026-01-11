@@ -178,5 +178,53 @@
         "url": "https://mp.weixin.qq.com/s/Ea1vHr1xCKbcpDWaTP07ZQ",
         "source": "Doonsec",
         "date_added": "2026-01-11"
+    },
+    {
+        "title": "Burpsuite插件：autorize实现抓包实时越权漏洞检测",
+        "url": "https://mp.weixin.qq.com/s/80D0SdHgeQyTJGOuPY9IaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "效率提升90% | 这款资产收集工具让漏洞挖掘更轻松",
+        "url": "https://mp.weixin.qq.com/s/eJ_u0qKb2REo0LwJhT8pIg",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "Vue 站点渗透技巧：轻松挖掘 Vue 站点未授权接口，拿下海量未授权数据",
+        "url": "https://mp.weixin.qq.com/s/ImgcWy2V6Rr3zjJqiIoCww",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "新的UEFI漏洞使得针对技嘉、微星、华硕和华擎主板的预启动攻击成为焦点",
+        "url": "https://mp.weixin.qq.com/s/6npbcVqeOckA3v3fsl1rYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+        "url": "https://mp.weixin.qq.com/s/s6Lx1HQxSsrnTV756_nLlw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "战报 | 常态化漏洞挖掘演习第一周已结束",
+        "url": "https://mp.weixin.qq.com/s/B5GzGbRF9b3wNTNlSMR-Sg",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "2026 年该挖什么漏洞",
+        "url": "https://mp.weixin.qq.com/s/U4gV259Ib4GImp-eqJq5Uw",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
+    },
+    {
+        "title": "【已复现】IDA-PRO-MCP 远程代码执行漏洞（CVE-2025-67117）",
+        "url": "https://mp.weixin.qq.com/s/8s-CXV14Bs_RAJQ5xjVJnQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-11"
     }
 ]
