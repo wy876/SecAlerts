@@ -112,5 +112,35 @@
         "url": "https://mp.weixin.qq.com/s/CAUmWPTKAGgw0kEw90j2Pw",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞通告 | Apache Struts S2-069 XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/e3bFJQodEh8IOg1VsoaJRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "WEB漏洞扫描工具HCL AppScan Standard",
+        "url": "https://mp.weixin.qq.com/s/kErXWJ8b1fKVRCD9TqAe4w",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "2025年度十大工业控制系统安全漏洞盘点",
+        "url": "https://mp.weixin.qq.com/s/hBSY_2nwupnmfnwOqyC0AQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "泛微emobile6.5 6.6前台SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/-bzV4JijR9KnLNXIr0Ra1g",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第8期）：CTF赛事实战策略 8小时高效得分指南",
+        "url": "https://mp.weixin.qq.com/s/v7q1B3YOeTGy9hKcNNYvfw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
