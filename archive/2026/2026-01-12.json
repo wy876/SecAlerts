@@ -166,5 +166,41 @@
         "url": "https://mp.weixin.qq.com/s/0XcRHVwK1zZ2Auo0mYvGfw",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "盘点 2025 年度重大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/DvGT6wLRI6WI4rhCRUR7eg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "网安实验干货每日分享IIS6.0文件解析漏洞特殊符号\\\";\\\"–0112",
+        "url": "https://mp.weixin.qq.com/s/rBJtZpLLZEvFQdzm5OiFcg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【玄域】App系列漏洞靶场已更新-新增3个App版本的JWT系列靶场",
+        "url": "https://mp.weixin.qq.com/s/bY4X_NbToiE36oXSVFrqPw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "2644 万美元被盗背后：Truebit Protocol 合约漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/-WuhwU3UumBOz7YiW80wgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "一次基础漏洞复现：布尔值篡改与业务参数校验缺失分析",
+        "url": "https://mp.weixin.qq.com/s/EFjLvjF7nPW7ioMDCkEYWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "Ni8mare高危漏洞来袭 黑客可远程劫持n8n服务器",
+        "url": "https://mp.weixin.qq.com/s/V7HC4tki8NGSGgYTOIpGIw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
