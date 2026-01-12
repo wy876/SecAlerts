@@ -1,0 +1,116 @@
+[
+    {
+        "title": "第二届全国网络安全行业职业技能大赛-渗透测试方向WP",
+        "url": "https://mp.weixin.qq.com/s/Kh3yEkQSFcfekWpGNWEjMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞复现 | Letta-ai letta代码注入漏洞(CVE-2025-51482)",
+        "url": "https://mp.weixin.qq.com/s/geQUq3Ur3WqGMgTjqvNL_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "用友时空 richclient.openForm XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/xwiSH9SFnyWLNaxaoxnkWw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "AI智能体常见漏洞挖掘与修复方法",
+        "url": "https://mp.weixin.qq.com/s/EC64VtTDBHhFnJFF2MoorQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "一个功能强大的 Docker 远程 API 漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/z5U8xKmwlWH6OJ3DbJtK2g",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "记一次漏洞挖掘经历",
+        "url": "https://mp.weixin.qq.com/s/8pBKz9PNCzi9edMmrwUVVw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "nOAuth风险追踪：漏洞或致Microsoft 365沦陷",
+        "url": "https://mp.weixin.qq.com/s/pdKBJ8xumh3bCOkjm0Xn9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "感谢支持！｜地图大师 100+ SRC 靶场漏洞狩猎实录将于本周开课！末尾优惠上车！",
+        "url": "https://mp.weixin.qq.com/s/560JUOm9pRT-8YKvi0nrtQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "溯源实例-从OA到某信源RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/6ASsRbXNEWaJZ1NaBHXQyQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "CVE-2025-68637：Apache Uniffle 严重漏洞使集群易受窃听",
+        "url": "https://mp.weixin.qq.com/s/5W5QNCZL4lKd6yS9mOaDJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【黑客】App如何抓包？玄域App漏洞靶场实操演示",
+        "url": "https://mp.weixin.qq.com/s/2RoIhsFa20ev6kMjwLuRLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "基于AI的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/vCzh_gqrQstbEjGWBNNExw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【漏洞专项】存储桶相关漏洞记录",
+        "url": "https://mp.weixin.qq.com/s/EAaNPniqFtCuXKGWLVZHIg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞预警 | SmarterMail文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/jJCueg1erODOlK2yep6Ydg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞预警 | 大华ICC智能物联综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/KoRZn7rDK8d1g0GMOaEKUQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/5C8BWSqSDk2ZgEROpRSssg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "海康安防后渗透利用分析",
+        "url": "https://mp.weixin.qq.com/s/paoKRWhG2QWD5BldmR0kcw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "企业SRC赏金漏洞挖掘实战-多个奖励条件绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/a8424iGq9NXBjBwi2J3NJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "从入门到“被黑”？Coolify 这一波 Command Injection 教科书式漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/CAUmWPTKAGgw0kEw90j2Pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    }
+]
