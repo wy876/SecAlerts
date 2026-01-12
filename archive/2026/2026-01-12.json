@@ -370,5 +370,23 @@
         "url": "https://mp.weixin.qq.com/s/4iDN2Y1V0YFmTqo-jcErjg",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+        "url": "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "ApolloLnk：一键生成恶意 LNK，适配渗透测试免杀与钓鱼场景",
+        "url": "https://mp.weixin.qq.com/s/DPkiz1Fg2KJoVmED4NRKhQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "工具推荐 | 一款专为高价值系统设计的后渗透工具",
+        "url": "https://mp.weixin.qq.com/s/4vX8FCprohXcx1iKTYCE5g",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
