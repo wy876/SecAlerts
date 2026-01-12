@@ -328,5 +328,29 @@
         "url": "https://mp.weixin.qq.com/s/4bDn2N9oKAgvBMCHqSiZHw",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出",
+        "url": "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【接口漏洞第五章第一节】当API“过度热心”：批量赋值漏洞的狩猎笔记",
+        "url": "https://mp.weixin.qq.com/s/zJaHUYFOuo0qs_QAHCks_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【高危漏洞预警】WeKnora命令注入漏洞CVE-2026-22688",
+        "url": "https://mp.weixin.qq.com/s/jm38WkUfXDzx6Ng-xhDxPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【敬请期待】记下来会更新几期常见的人性漏洞有哪些",
+        "url": "https://mp.weixin.qq.com/s/wB3uv8vnBUcRnlVYTSj_Og",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
