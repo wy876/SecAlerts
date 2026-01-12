@@ -202,5 +202,89 @@
         "url": "https://mp.weixin.qq.com/s/V7HC4tki8NGSGgYTOIpGIw",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "漏洞验证-大华ICC智能物联综合管理平台 ars/list SQL注入",
+        "url": "https://mp.weixin.qq.com/s/J5Hm9nv8cJzz0xRfAxdZLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "撕开edu防线：前端的一次密码判断到3个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/1023cg9IvJXWb1MY_-TLTw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第1期",
+        "url": "https://mp.weixin.qq.com/s/PDbvdItuv0O2S_MROJfIlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "安全热点周报：D-Link 老旧 DSL 路由器曝新漏洞，正遭黑客活跃攻击",
+        "url": "https://mp.weixin.qq.com/s/O0797gUJdM5e50pPDV3Gmw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "海康安防后渗透利用分析",
+        "url": "https://mp.weixin.qq.com/s/zVgeWqcP_L1GZO2dmST84w",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "推广漏洞的特殊思路 | 通杀国内主流互联网厂商的推广漏洞思路分享",
+        "url": "https://mp.weixin.qq.com/s/Oo7tNm0Pe18oNjPalp9tJg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【已复现】腾讯 WeKnora MCP服务命令注入漏洞(CVE-2026-22688)",
+        "url": "https://mp.weixin.qq.com/s/YlgEO621i98D1R9foFPrBg",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【漏洞通告】Apache Struts XWork 组件 XXE 漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/gv7k6uDIkciFoAXdlIolQw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第1期",
+        "url": "https://mp.weixin.qq.com/s/TnBZP_CMD6O6_o9Lxlbk_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260105-20260111)",
+        "url": "https://mp.weixin.qq.com/s/7qYw0sxCut5e4EJbh4ujHw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "注意升级|Struts2曝高危漏洞S2-069（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s/svzVjtLzvKpbZqEL-Tl4LA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s/URjyp6kF_h-PO0avaFOz7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【520】【有靶场】【已复现】n8n双CVE漏洞利用链可致远程代码执行漏洞（CVE-2026-21858+CVE-2025-68613）",
+        "url": "https://mp.weixin.qq.com/s/lA10M7cBWZIEBCX2GJBsvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s/hF8JOI2RKdxqaKehndsXfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
