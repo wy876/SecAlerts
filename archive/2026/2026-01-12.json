@@ -286,5 +286,47 @@
         "url": "https://mp.weixin.qq.com/s/hF8JOI2RKdxqaKehndsXfQ",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "趋势科技：速修复这个严重的 Apex Central RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/mKW4_gwhOW4aOphOFmwUeQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "Java Apps 严重漏洞可用于劫持会话",
+        "url": "https://mp.weixin.qq.com/s/74CNvcldCWskbjUBJF0xdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "游戏工具变后门？InputPlumber高危漏洞曝光，Linux游戏玩家面临劫持风险",
+        "url": "https://mp.weixin.qq.com/s/egjnrCAH-mtzj_kR1tHFew",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【工具推荐】Shiro漏洞综合利用工具-v2.1版本更新",
+        "url": "https://mp.weixin.qq.com/s/q3t2ev3NGuQDqELXEpWTPw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【漏洞分析】LlamaIndex SQL2RCE漏洞分析(CVE-2024-11958)",
+        "url": "https://mp.weixin.qq.com/s/3OFcdQi6cKQrvcV2vyKbUQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "【案例】通达OA任意文件上传绕过+Udf绕过RCE的故事",
+        "url": "https://mp.weixin.qq.com/s/ca1zjXlmUEZIIIn6Oyg0IA",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "高危漏洞威胁情报合集 (2026-01-12）",
+        "url": "https://mp.weixin.qq.com/s/4bDn2N9oKAgvBMCHqSiZHw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
