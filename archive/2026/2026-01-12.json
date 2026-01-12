@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s/v7q1B3YOeTGy9hKcNNYvfw",
         "source": "Doonsec",
         "date_added": "2026-01-12"
+    },
+    {
+        "title": "GGML_GGUF 文件格式漏洞深度解读与挖掘思路",
+        "url": "https://mp.weixin.qq.com/s/0ay3PYjDHDDGYN3o7IXgGQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "Ruoyi单应用版本漏洞合集2",
+        "url": "https://mp.weixin.qq.com/s/WtRrCRISddbHiKLu8PZvkw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
+    },
+    {
+        "title": "税局发“稽查通知”？小心是APT黑客的钓鱼陷阱！SideWinder专盯印度机构搞渗透",
+        "url": "https://mp.weixin.qq.com/s/cF4tJ3roCgBLxDARmPWZgw",
+        "source": "Doonsec",
+        "date_added": "2026-01-12"
     }
 ]
