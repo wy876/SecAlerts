@@ -382,5 +382,23 @@
         "url": "https://mp.weixin.qq.com/s/qUyq1dq-SUiBgWRDCUJ_AQ",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "使用burpMCP和kaliMCP自动化渗透",
+        "url": "https://mp.weixin.qq.com/s/uV_-cHATPpRYxrfQ6cMfMw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【接口漏洞第五章第二节】API批量赋值漏洞实战：以电商折扣参数篡改为例",
+        "url": "https://mp.weixin.qq.com/s/0Bg6aTiSrDTPu8y-zcSOjQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "G.O.S.S.I.P 阅读推荐 2026-01-13 十三年零漏洞的密码学算法库，翻车了？",
+        "url": "https://mp.weixin.qq.com/s/LnLN0qZoNCzXqTCoPggRdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
