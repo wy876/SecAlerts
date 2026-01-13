@@ -1,0 +1,86 @@
+[
+    {
+        "title": "漏洞复现 | 致远OA /seeyon/sursenServlet 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/NSVmnPrjpvTLFhddsf-8Fg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "2025 龙信杯复现 WP",
+        "url": "https://mp.weixin.qq.com/s/yONzIqDvVGjtOZkiwBpSOw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【重金悬赏】全网白帽集结！金融众测开启，漏洞猎手速来挑战！",
+        "url": "https://mp.weixin.qq.com/s/6eULBGWhLPM4ZmQ0vSDeWw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "黑客利用0Day漏洞工具包在野攻击VMware ESXi实例",
+        "url": "https://mp.weixin.qq.com/s/TDfAcmrHqRDY5aKBJLW8Cg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【好靶场】存在逻辑漏洞-导致评论区消失且用户无法评论",
+        "url": "https://mp.weixin.qq.com/s/7kAJRKLVmiONrSCjVZF2vg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "低成本玩转SDN：实测OpenDaylight资源消耗仅1.1GB，完美纳管华为设备，开源方案真香！",
+        "url": "https://mp.weixin.qq.com/s/gI2wDmhiQCv0XJkyBVvz5g",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Apache Struts 2严重漏洞可能让攻击者窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/1qTDnP6CcY3sud0d0pGJnQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "CVE-2025-52694 (CVSS 10)：研华 SQL 注入漏洞严重，物联网设备面临风险",
+        "url": "https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "千万罚款预警！AI安全纳入法治监管，ZoomEye Pro助力企事业单位识别AI资产和漏洞！",
+        "url": "https://mp.weixin.qq.com/s/i7fdsk7xfQz7QEqMGK6TEw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "漏洞预警 | AdonisJS路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/dR-8ycJ3Ws-b9tKgJprNnQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/0FDgQC5oRj_aakIGDBIsBA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "ComfyUI-Manager RCE链组合拳",
+        "url": "https://mp.weixin.qq.com/s/xfUsH8kbI17P6gfzMbpPyg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "招聘公告‖山东测评机构招聘等保、密评、渗透等工程师",
+        "url": "https://mp.weixin.qq.com/s/tO_xLSPPuGdKM4XdEkTfcQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    }
+]
