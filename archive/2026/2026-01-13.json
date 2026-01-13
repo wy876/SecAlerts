@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s/oiySAV0HRvnuVXkSsEyMRg",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "【漏洞通告】Apachexa0Struts外部实体(XXE)注入漏洞S2-069（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s/cIm3JQiCYfHysKIYRSRNjA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "智能电表远程抄表设备命令注⼊漏洞逆向分析",
+        "url": "https://mp.weixin.qq.com/s/pFEbUmXwcnh08IwNVxP16g",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道 20260113",
+        "url": "https://mp.weixin.qq.com/s/QNnlrSZ8jLheyN8jxQ4FWQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
