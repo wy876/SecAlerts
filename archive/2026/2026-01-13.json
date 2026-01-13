@@ -274,5 +274,47 @@
         "url": "https://mp.weixin.qq.com/s/QNnlrSZ8jLheyN8jxQ4FWQ",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "kali Linux安全渗透教程",
+        "url": "https://mp.weixin.qq.com/s/EesWS12kiC1c_rtNm-iHIg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "2个由注册点导致垂直越权的漏洞案例",
+        "url": "https://mp.weixin.qq.com/s/GW9QZwVLC7WAsZ8aD5wVqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "回顾 2025：通过漏洞赏金赚到 4300 美元，并参加 SABF（南美商业论坛）",
+        "url": "https://mp.weixin.qq.com/s/L9aD6pvm5li-fOE9_h3UoQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Nginx CRLF注入漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/ZCEmaXbbKvCGxyiftrzvgw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "SRC漏洞挖掘1",
+        "url": "https://mp.weixin.qq.com/s/5ZIYXqljUjGEFCLkIlhXzg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "SRC漏洞挖掘2",
+        "url": "https://mp.weixin.qq.com/s/WX94jMVBNGzryBTSpxHPAA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "SRC漏洞挖掘3",
+        "url": "https://mp.weixin.qq.com/s/viB-17BBXdRJezVWBDgUWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
