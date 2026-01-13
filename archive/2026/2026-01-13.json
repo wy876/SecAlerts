@@ -172,5 +172,65 @@
         "url": "https://mp.weixin.qq.com/s/Levm38wrO1O5h500bUPCQA",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "成果分享 | 智能体漏洞检测 [ASE\\'25, Security\\'25/26, BlackHat EU]",
+        "url": "https://mp.weixin.qq.com/s/sZMuNfSZ0Tvhrl4zPTODRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【漏洞预警】Sangfor 运维管理系统 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/eB14Ff6ZYbTZLsVK1gcYZA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Apache Struts 2 严重 XXE 漏洞可用于窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/ZtY6gaTvAl2h3zkOjKrg5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "React Router严重漏洞可用于访问或修改服务器文件",
+        "url": "https://mp.weixin.qq.com/s/VOhHgm_Cndza2O1g0w-5CQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【已复现】深信服运维安全管理系统 protocol_session 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/ha6RN_TS-0JGq2V_tE2RdQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "XML陷阱：Struts 2关键漏洞CVE-2025-68493暴露数据",
+        "url": "https://mp.weixin.qq.com/s/n3NC1i_iN3wGi4OHcd1dPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "CVE-2025-60188-Atarim-插件-漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/TSn6Sk4UxDPmsWqOCwYGgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Telegram曝隐藏漏洞,1次点击绕过代理暴露用户真实IP, Android和iOS均中招",
+        "url": "https://mp.weixin.qq.com/s/A9qpwwOtNG1kR61kUSPskA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "SmarterMail邮件服务器任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/bliXS7yoVPR-tes0HllI1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "大华综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/fIhVItQfbmGM2pfo4I909Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
