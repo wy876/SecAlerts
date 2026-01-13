@@ -400,5 +400,17 @@
         "url": "https://mp.weixin.qq.com/s/LnLN0qZoNCzXqTCoPggRdw",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "大华智能物联管理平台evo-apigw/evo-arsm/1.0.0/ars/list接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【安全工具】从底层突破WAF：自动化发现协议级漏洞，绕过Web防火墙",
+        "url": "https://mp.weixin.qq.com/s/9bN76uwbuVx6Eubt0eJ4ag",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
