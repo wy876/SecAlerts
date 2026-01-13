@@ -364,5 +364,23 @@
         "url": "https://mp.weixin.qq.com/s/grMMYrfGjOIoHLEU5XegpA",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "Apache Struts 2曝高危漏洞：攻击者可窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/hp43SW11A2JjNQiT8O9wgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【安全圈】GoBruteforcer 僵尸网络利用弱凭证攻击加密货币项目数据库",
+        "url": "https://mp.weixin.qq.com/s/JimFtzbF_y8qYZyEQ-L4bw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/qUyq1dq-SUiBgWRDCUJ_AQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
