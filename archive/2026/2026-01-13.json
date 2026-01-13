@@ -418,5 +418,17 @@
         "url": "https://mp.weixin.qq.com/s/eRf037YUgMK00UGtI9PvHg",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "SpringBoot-Scan：针对Spring Boot的漏洞扫描和渗透工具",
+        "url": "https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "工具推荐 | 开源Shiro图形化漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/T3EB0nqxrR-GjClrTOVjhQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
