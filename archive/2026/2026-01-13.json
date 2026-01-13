@@ -316,5 +316,53 @@
         "url": "https://mp.weixin.qq.com/s/viB-17BBXdRJezVWBDgUWg",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "漏洞预警｜Apache Struts S2-069 XML外部实体注入（XXE)漏洞（CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/6iQjol9GyDitfNqj-gcZqQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Burp Suite 还能这么用？明动插件让漏洞挖掘快人一步！",
+        "url": "https://mp.weixin.qq.com/s/Dq2ytIz3qjk5naK4qVX5gw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【复现】n8n表达式注入可导致远程代码执行漏洞（CVE-2025-68613）",
+        "url": "https://mp.weixin.qq.com/s/2N2uaINgV3fFAKNWu1ConQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "《Linux Pwn 番外篇》重磅上线！6大架构全覆盖，异构漏洞利用5h学透",
+        "url": "https://mp.weixin.qq.com/s/gcntBfKjy-kMGlCkXkwXoA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【已复现】MindsDB 未授权路径遍历漏洞(CVE-2025-68472)",
+        "url": "https://mp.weixin.qq.com/s/QFdrMNkQpHUzCv6CuKlNJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "证书站一个系统八个漏洞：直接getshell ！！!",
+        "url": "https://mp.weixin.qq.com/s/ZeTithhtRYzWMzDu3RNVaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Struts外部实体（XXE）注入漏洞S2-069(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/c9xsOVTI7ENkB6KXQtULzA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Struts2 S2-069 XXE漏洞 (CVE-2025-68493) 来袭，腾讯云主机安全RASP可自动防护",
+        "url": "https://mp.weixin.qq.com/s/grMMYrfGjOIoHLEU5XegpA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
