@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s/Xz_VUYIhYGQSu5QTi7MMGA",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "帆软 excel SQL注入漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/tPZg2oQe7OpOP0Iw28tVbQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.1.5-2026.1.11",
+        "url": "https://mp.weixin.qq.com/s/jyEEtCvDxbruvBrcg2k7GQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "Telegram 的一个漏洞即使使用代理也能泄露您的 IP 地址",
+        "url": "https://mp.weixin.qq.com/s/oiySAV0HRvnuVXkSsEyMRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
