@@ -82,5 +82,95 @@
         "url": "https://mp.weixin.qq.com/s/tO_xLSPPuGdKM4XdEkTfcQ",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [漏洞通告 | Apache Struts S2-069 XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508073&idx=1&sn=0c8700c435e0541402b4e6734e4a8edb",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [趋势科技：速修复这个严重的 Apex Central RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524853&idx=1&sn=c4cd6fbd85899f9051551aad7c427db0",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [Java Apps 严重漏洞可用于劫持会话",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524853&idx=2&sn=15cdbed3f4fa83676d37cd78d148ed31",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [安全热点周报：D-Link 老旧 DSL 路由器曝新漏洞，正遭黑客活跃攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504467&idx=1&sn=9464f866ea93eb407f9ae6b83c39be3b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [游戏工具变后门？InputPlumber高危漏洞曝光，Linux游戏玩家面临劫持风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607716&idx=2&sn=f5d444c58d3d67312e7d95bbd04251ed",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [Ni8mare高危漏洞来袭 黑客可远程劫持n8n服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586311&idx=1&sn=3125ef178376c2c15a9fbc347e6118cc",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [2644 万美元被盗背后：Truebit Protocol 合约漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504176&idx=1&sn=f2cf74e966df087cb6ef9f582938e1e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第1期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496634&idx=1&sn=8686d9754dfcde9f260aaf03b297f079",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260105-20260111)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496634&idx=2&sn=32b5950802c2c35531024c09ef3c4e9d",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "] [GGML_GGUF 文件格式漏洞深度解读与挖掘思路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489906&idx=1&sn=92b4a74ac266363efbe64a4a935311ff",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "jeecgBoot漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/XlUofotbXqt9pIhEKLtwFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "jsPDF 本地文件包含/目录遍历 (CVE-2025-68428)",
+        "url": "https://mp.weixin.qq.com/s/oHi69_f0zSwM-pRBGH0hqQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "网安实验干货每日分享IIS7.5文件解析漏洞-0113",
+        "url": "https://mp.weixin.qq.com/s/DYMoAA3_G33Ee0yB_IXOZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第9期）：职业进阶篇 从CTF选手到网络安全工程师，技能转化+求职指南",
+        "url": "https://mp.weixin.qq.com/s/qcCts4XcvV8XbHFdyEMdYA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
+    },
+    {
+        "title": "一款专为安全测试人员打造的 Web 化被动漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s/Levm38wrO1O5h500bUPCQA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
