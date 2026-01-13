@@ -232,5 +232,11 @@
         "url": "https://mp.weixin.qq.com/s/fIhVItQfbmGM2pfo4I909Q",
         "source": "Doonsec",
         "date_added": "2026-01-13"
+    },
+    {
+        "title": "【漏洞预警】Sangfor运维管理系统文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Xz_VUYIhYGQSu5QTi7MMGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-13"
     }
 ]
