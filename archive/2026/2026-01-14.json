@@ -442,5 +442,23 @@
         "url": "https://mp.weixin.qq.com/s/38xOy1EufX7O3hyaPnYpcw",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "记一次SRC支付漏洞实战",
+        "url": "https://mp.weixin.qq.com/s/pFh0cr075M0AfeYlbEkAYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "企业攻防：一个压缩包导致渗透到内网数百台机器",
+        "url": "https://mp.weixin.qq.com/s/reLgNJNhifqydjOp3o7DAw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "关于 VulnHunter -AI 漏洞猎人v6.0 版本发布推迟",
+        "url": "https://mp.weixin.qq.com/s/Dpxr8JtdfDxf70JF528Hww",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
