@@ -436,5 +436,11 @@
         "url": "https://mp.weixin.qq.com/s/6IlwHMux-32N_F-zk-pc4A",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "恶意数据被“合法保存”的那一刻，漏洞已经注定：二次 SQL 注入实战解析",
+        "url": "https://mp.weixin.qq.com/s/38xOy1EufX7O3hyaPnYpcw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
