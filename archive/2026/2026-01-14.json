@@ -418,5 +418,17 @@
         "url": "https://mp.weixin.qq.com/s/UAx7xScTIOdWsnKscjKLtw",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "Burp AI Fuzzer：AI 驱动的 Burp 渗透插件，智能生成针对性 Fuzz 字典",
+        "url": "https://mp.weixin.qq.com/s/fEves1nuLErTGL0zn41Qrg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【接口漏洞第六章第一节】你以为前端参数可控就安全了？聊聊服务器端参数污染",
+        "url": "https://mp.weixin.qq.com/s/urblBuPWzhxefl75bq_Cpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
