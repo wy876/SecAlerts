@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "山石安全能力中心｜微软1月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/rzaFtbF5rfwwFrAAJYQF7g",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "利用不安全的模板格式化在 LangSmith Playground 中实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
