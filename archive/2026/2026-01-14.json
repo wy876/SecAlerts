@@ -394,5 +394,11 @@
         "url": "https://mp.weixin.qq.com/s/rn3OQz6cN9KsXLmWrxem7w",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "关键的FortiSIEM漏洞允许攻击者通过TCP数据包执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/QnyzSIVUuNWYE15IivvDkA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
