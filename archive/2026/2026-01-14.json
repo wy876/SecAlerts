@@ -292,5 +292,53 @@
         "url": "https://mp.weixin.qq.com/s/adFfUTGiyzoWxVbJAsf8Yg",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "周五20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过",
+        "url": "https://mp.weixin.qq.com/s/uyorC2UfWcrlTbxumui8jg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【高危漏洞预警】Appsmith Origin验证漏洞(CVE-2026-22794)",
+        "url": "https://mp.weixin.qq.com/s/kWa5wNnZz0m982iImR81GA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "从低空到太空：中科数测研究院发现空间通信核心漏洞——直指 NASA 航天加密体系底层安全",
+        "url": "https://mp.weixin.qq.com/s/oDKOs6Ee-y5Yjf344oginQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【已复现】OpenCode 命令执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/-qCpu0uhR87pQ_sGUm7smA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "查找摄像头漏洞，黑客只需要一步",
+        "url": "https://mp.weixin.qq.com/s/glMqepO7E18m6zpd2AGEZg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "2026-01微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/x8lMF2ne5hmBCTBuO30a-g",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【已复现】Appsmith Origin 校验不当导致账户接管漏洞(CVE-2026-22794)",
+        "url": "https://mp.weixin.qq.com/s/4CJS8kU_z3hueNuh7QR4sw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【已复现】OpenCode 命令执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/6S_SvGnZoUPOXYC9TOmT0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
