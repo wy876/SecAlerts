@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/0ED1GHRtViNjD_7FoiLLTQ",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+        "url": "https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
