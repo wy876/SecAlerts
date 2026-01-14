@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s/ThpBkW6ebOXaQUUbjp9fhg",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "【漏洞通告】Apache Struts XML外部实体注入漏洞（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s/kF0D21R7rvIFKCqRdbIg9w",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "灵脉IAST 5.4 | AI漏洞治理 X 业务逻辑漏洞检测",
+        "url": "https://mp.weixin.qq.com/s/rn3OQz6cN9KsXLmWrxem7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
