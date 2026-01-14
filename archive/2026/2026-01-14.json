@@ -88,5 +88,113 @@
         "url": "https://mp.weixin.qq.com/s/Z0oNkQBIJUaIX2jnj6ijNQ",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.1.5-2026.1.11",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503684&idx=1&sn=ff960cdd5ce6f5c6e73c4cfc426d26a2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [Apache Struts 2 严重 XXE 漏洞可用于窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524857&idx=1&sn=7d98b989a61c9b25103ccef5b0524560",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [React Router严重漏洞可用于访问或修改服务器文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524857&idx=2&sn=8c1f832d3fbc13cae125177e8f0247af",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [【漏洞通告】Apache Struts外部实体(XXE)注入漏洞S2-069（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489472&idx=1&sn=db2067a5b796dfec6e3aadef74bb9c40",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [《Linux Pwn 番外篇》重磅上线！6大架构全覆盖，异构漏洞利用5h学透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607943&idx=1&sn=5fcf7ec92bff6761d0d98524fa5e166a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [G.O.S.S.I.P 阅读推荐 2026-01-13 十三年零漏洞的密码学算法库，翻车了？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501261&idx=1&sn=15aa1c7063a90bda5c4aafac96d211c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [【安全圈】GoBruteforcer 僵尸网络利用弱凭证攻击加密货币项目数据库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073695&idx=4&sn=080d75ef27ce9b31399927cffaf20808",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [Alphabet 成第四家四万亿美元公司；德亚官网偷跑大疆 Pocket 4；国内首起 AI 服务涉黄案二审在即 | 极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097107&idx=1&sn=0eb4e14ceac1eaf580a3045a71f45a3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "] [Struts2 S2-069 XXE漏洞 (CVE-2025-68493) 来袭，腾讯云主机安全RASP可自动防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497101&idx=1&sn=bf9b5c37f748f072b12c6b0f8d78e2e3",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "关于防范MongoDB数据库内存泄露高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/zsXdExrrBN4wJeJd2vNrUg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "SBSCAN是一款专注于spring框架漏洞扫描与验证的综合利用工具。",
+        "url": "https://mp.weixin.qq.com/s/ykM-IfNtefsG1ECL2Inw_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "Fidelity充电桩AI量化理财系统存在前台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/q8UrZb82gmCQn7F3njNcxA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "成果分享 | 智能体漏洞检测 [ASE\\'25, Security\\'25/26, BlackHat EU]",
+        "url": "https://mp.weixin.qq.com/s/kIfa5d6r-MUXJOClfUMBGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "深入DirtyPipe（CVE-2022-0847）：从内核到利用全解析",
+        "url": "https://mp.weixin.qq.com/s/NESkaHThfNlTmA-zV2vgfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "东胜物流软件 DsWebService.asmx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/tiEV8NdyhAY5Z_Pf-Jod5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第10期）：网络安全实战工具包 10款高频工具从入门到进阶用法全解析",
+        "url": "https://mp.weixin.qq.com/s/HJRgndF4AQea8RhYWvXT2g",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "基于代码相似性的软件漏洞检测研究进展",
+        "url": "https://mp.weixin.qq.com/s/-b-jZJ0FjhdGLc7DwC27iw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "Fidelity充电桩AI量化理财系统存在前台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/0ED1GHRtViNjD_7FoiLLTQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
