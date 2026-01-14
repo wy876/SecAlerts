@@ -340,5 +340,47 @@
         "url": "https://mp.weixin.qq.com/s/6S_SvGnZoUPOXYC9TOmT0Q",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "微软紧急修复DWM组件0-Day信息泄露漏洞（CVE-2026-20805）",
+        "url": "https://mp.weixin.qq.com/s/SRTnftpUsARhmd4XQQziyA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "Node.js发布安全更新，修复所有维护版本中的7个漏洞",
+        "url": "https://mp.weixin.qq.com/s/t7QoWPxUp8USgf_Lrecn7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【安全圈】微软桌面窗口管理器0Day漏洞遭野外利用",
+        "url": "https://mp.weixin.qq.com/s/03Zc3udyUEiDBIV-A1YhYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "微软2026年1月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s/2rdlLLOe1SSFhQTNU3b7DQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "OpenSSH 严重漏洞可导致 Moxa 以太网交换机易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/qk4dy5IGDzkumxnbjXk67g",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "CNNVD | 关于Apache Struts安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/5uHhl2LMTM84fMCx2m62KA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "Nessus插件开发实战：从零开始编写高效漏洞扫描脚本",
+        "url": "https://mp.weixin.qq.com/s/ThpBkW6ebOXaQUUbjp9fhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
