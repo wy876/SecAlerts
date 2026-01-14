@@ -1,0 +1,92 @@
+[
+    {
+        "title": "漏洞复现 | Sangfor 运维管理系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/lo78rWLUs2Q0sJNONpOUSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【edu实战】记⼀次⼩程序泄露16 W+敏感信息，接管18000+账号的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/4wpHbE28_Y2APBgmByXZJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "微软1月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s/4S6_d2xWMTLZ9FIp2X6j2A",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "一款集成各大漏洞检测的burp插件",
+        "url": "https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "黑客利用浏览器内嵌漏洞劫持Facebook账号",
+        "url": "https://mp.weixin.qq.com/s/lsolNeaCSoJSBIKjj-RhlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "「服务攻防」Shiro框架系统不出网环境渗透利用",
+        "url": "https://mp.weixin.qq.com/s/5yLZIdwbU47ZBQtvxV_Mhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "CVE-2026-22718：已停止维护的 Spring CLI 工具（适用于 VS Code）被发现存在命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "最高阶“社工攻击”：蒋超良及其家庭如何被长期“渗透”与“控制”",
+        "url": "https://mp.weixin.qq.com/s/5y6LW_PTt3I-2DVAJIhrMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "渗透测试总踩坑？工业、云、物联网安全防护逻辑梳理",
+        "url": "https://mp.weixin.qq.com/s/_cS48QWNe7Apn1AXoFu7Yg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "云存储桶漏洞检测浏览器扩展",
+        "url": "https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "Windows域横向渗透",
+        "url": "https://mp.weixin.qq.com/s/Z0oNkQBIJUaIX2jnj6ijNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    }
+]
