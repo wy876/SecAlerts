@@ -262,5 +262,35 @@
         "url": "https://mp.weixin.qq.com/s/JlNLec35e11XNh0grjYaeA",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "预警丨防范MongoDB数据库内存泄露高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/5V8rdB4RbWBZ5RHAtvH8sg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【WordPress专题07】一文搞懂 如何对WordPress进行漏洞探测",
+        "url": "https://mp.weixin.qq.com/s/eWJKz3VTyWpqdvvIgxpw4Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "AdonisJS 任意文件写(CVE-2026-21440) 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/aPaFNFqlkpXP8aPiCup2wA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "灵脉IAST 5.4 | AI漏洞治理 X 业务逻辑漏洞检测",
+        "url": "https://mp.weixin.qq.com/s/TLmcZCSNqvaijwaNYbA2hA",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "【安全更新】微软1月安全更新多个产品高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/adFfUTGiyzoWxVbJAsf8Yg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
