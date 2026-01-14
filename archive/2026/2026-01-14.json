@@ -214,5 +214,29 @@
         "url": "https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q",
         "source": "Doonsec",
         "date_added": "2026-01-14"
+    },
+    {
+        "title": "智能工业网关：私有协议解析中的栈溢出漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s/T6-eMbMq9V19BvgNcGfHKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第2期）",
+        "url": "https://mp.weixin.qq.com/s/f0yAso4qbjUZCvnduP8cSQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "CNNVD关于Apache Struts安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/yyE_wt9dhdhoEACiZ5tITQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
+    },
+    {
+        "title": "src|暴力破解漏洞",
+        "url": "https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-14"
     }
 ]
