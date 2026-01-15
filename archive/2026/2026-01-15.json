@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s/fF6zvYGfgxgXeDBq-bGxtA",
         "source": "Doonsec",
         "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2025-64155：Fortinet FortiSIEM 远程 Root 漏洞已存在三年",
+        "url": "https://mp.weixin.qq.com/s/b44MRFIwb-RbU4fs_2wLeQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2025-53136 通过竞争条件泄露内核信息",
+        "url": "https://mp.weixin.qq.com/s/1ZorRKtuEcDa58ZGJULtEw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
     }
 ]
