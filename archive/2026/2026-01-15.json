@@ -112,5 +112,101 @@
         "url": "https://mp.weixin.qq.com/s/V-fZw5b5HRE8wgW45cSyLA",
         "source": "Doonsec",
         "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [微软2026年1月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524868&idx=1&sn=511dcdb0c6fcd3cd07ef7783b225bcf4",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [OpenSSH 严重漏洞可导致 Moxa 以太网交换机易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524868&idx=2&sn=734a45fb6b2c137eff46cd0261228384",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [微软1月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504481&idx=1&sn=4a9739d375bee82302c907aab53accbd",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [CNNVD | 关于Apache Struts安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257467&idx=2&sn=39a85214b1acf94004aeefa1206d4efe",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [【安全更新】微软1月安全更新多个产品高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489476&idx=1&sn=3520c03b51e279ce544a362114c705d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [【安全圈】微软桌面窗口管理器0Day漏洞遭野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073709&idx=3&sn=28e46901cfcbe9c4eaf461852c6db800",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [成果分享 | 智能体漏洞检测 [ASE'25, Security'25/26, BlackHat EU]",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497514&idx=1&sn=7ed15683104dc3efaac59deb8bb680ba",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [周五20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608141&idx=2&sn=c19b6cf882e4ef220bac802d3136a28b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [2026-01微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529934&idx=2&sn=1ca685ecb422e7ac54f77133cfce709a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [【漏洞通告】Apache Struts XML外部实体注入漏洞（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524963&idx=1&sn=bdc6b135d8846c856337ff22dcefe3f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "] [灵脉IAST 5.4 | AI漏洞治理 X 业务逻辑漏洞检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647797602&idx=1&sn=1fabd021b6f8a2d023b859a39731989f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2025-55182 漏洞检测与利用工具（GUI版）",
+        "url": "https://mp.weixin.qq.com/s/eVA8QMlPBfaOKb_l5vuyug",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第11期）：漏洞挖掘思维模型 从“没思路”到“稳定挖洞”的完整方法论",
+        "url": "https://mp.weixin.qq.com/s/eqjUxhBJpfyiGuN9nL5-8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【玄域】Web/App靶场 | 面试题库 | 实战漏洞报告 | 体系化学习",
+        "url": "https://mp.weixin.qq.com/s/-KOr55KBNLuRIL4DOKFLFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "nuclei POC辅助编写（管理）工具 -- nucssist（1月12日更新）",
+        "url": "https://mp.weixin.qq.com/s/RLPkb1Uk3h1UoqdPJYxElg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Shiro漏洞利用工具，更新V0.2！",
+        "url": "https://mp.weixin.qq.com/s/0FhKQ3o-o0FO13nF1MTuIA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
     }
 ]
