@@ -1,0 +1,116 @@
+[
+    {
+        "title": "【漏洞检测POC】Apache Struts XML外部实体注入漏洞（CVE-2025-68493）",
+        "url": "https://mp.weixin.qq.com/s/fYbsIINfX9bWrHt3cCy09Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+        "url": "https://mp.weixin.qq.com/s/m7oXfnmFDXr5LQQ0PLjtDQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【成功复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/lkj2G5HhYyv7-vTiq4A-pA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "乌克兰通报PLUGGYAPE恶意软件攻击，国防系统面临社交工程渗透风险",
+        "url": "https://mp.weixin.qq.com/s/0hBOAJ_jDjxYVm4MD8hDlg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "海康安防后渗透利用分析",
+        "url": "https://mp.weixin.qq.com/s/fVePQQpc5GruZ5YLNVDtqw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "微软桌面窗口管理器零日漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s/3d0a67AFBIlhNvHPlA8aKA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "1day | Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/yUzINvq_nFsWHmkDDNcJcA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "命令注入警报：LoadMaster 和 MOVEit WAF 存在高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/eS-FvpSFjOHKXe3N3f1XOw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+        "url": "https://mp.weixin.qq.com/s/_mydGg7gIcMOzo0sCTAmzg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Letta 代码执行漏洞 (CVE-2025-51482)",
+        "url": "https://mp.weixin.qq.com/s/xHuk0jOWdU8x_0Tk6hVO5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+        "url": "https://mp.weixin.qq.com/s/vSN5ZYJ6fmravzD3_-kX_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "企业SRC赏金漏洞挖掘实战-多个奖励条件绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/TMW0L3YuO0zn41uJjcI8ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | jsPDF路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/O25H79ucdyy02eK-c_Qg9w",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | 天锐绿盾审批系统信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/DqbvIy7T2ta_He_iujhk_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/XQQk-7TPy-CcbFdreanKRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "VPN漏洞频发，威努特零信任如何守护企业数字边界？",
+        "url": "https://mp.weixin.qq.com/s/oD29J03OgvSV7eJXFoU1BA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | Langflow身份验证缺失漏洞",
+        "url": "https://mp.weixin.qq.com/s/hnKUnmJfbbmtbzeNKPAw2A",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件文件删除漏洞",
+        "url": "https://mp.weixin.qq.com/s/JxRtiE-sFNOEXTVr2o4ynw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/V-fZw5b5HRE8wgW45cSyLA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    }
+]
