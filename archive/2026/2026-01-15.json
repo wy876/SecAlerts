@@ -448,5 +448,17 @@
         "url": "https://mp.weixin.qq.com/s/-JJmGsL98vozGSsTsNjzeA",
         "source": "Doonsec",
         "date_added": "2026-01-15"
+    },
+    {
+        "title": "OSCP考试中AD域渗透攻防解析",
+        "url": "https://mp.weixin.qq.com/s/rx4UdkE93G1P2jcxmiz6GA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "天价Android 0day漏洞+POC演示，宣称通杀Android12–16",
+        "url": "https://mp.weixin.qq.com/s/2RZSyd8jifzLyt3GN3HTgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
     }
 ]
