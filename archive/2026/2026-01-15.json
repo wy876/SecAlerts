@@ -274,5 +274,179 @@
         "url": "https://mp.weixin.qq.com/s/X9dsHKCPfrR0ZxgW28Bkyw",
         "source": "Doonsec",
         "date_added": "2026-01-15"
+    },
+    {
+        "title": "TsojanScan-Plus：基于原 Burp 漏洞插件重磅二开，新增多漏洞扫描与权限绕过检测",
+        "url": "https://mp.weixin.qq.com/s/FRaqBhIadnr7GcY6btWQQA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【1】深入解析CVE-2025-38352：Android内核漏洞实战分析与PoC",
+        "url": "https://mp.weixin.qq.com/s/6uySS-_s-aqoFkX_j7WD7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【高危漏洞预警】React Router目录遍历漏洞CVE-2025-61686",
+        "url": "https://mp.weixin.qq.com/s/Rc9TkUvxsM7arEZH0xVGwg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【高危漏洞预警】OpenCode AI编码代理未认证HTTP服务器漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/El2tuGXioev1OLnh4UAY-g",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "若依(RuoYi)框架漏洞战争手册",
+        "url": "https://mp.weixin.qq.com/s/Zq4GNRjWh2TOEa1-3lbsNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "src | 奇怪的任意用户重置密码组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/aQPGjD_lgc2yeiRvlh21tQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "高危漏洞威胁情报合集 (2026-01-15）",
+        "url": "https://mp.weixin.qq.com/s/t6Drg3nMdUZ-L0Oxp019Lw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "奇安信发布智能网联汽车云平台漏洞报告：九成存漏洞，超七成涉高危风险",
+        "url": "https://mp.weixin.qq.com/s/aExQGs2gTUkNPVldS9DJqw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "针对 Oracle WebLogic 中间件的一体化渗透测试工具：WeblogicTool",
+        "url": "https://mp.weixin.qq.com/s/vTpN074Y4XBnRCrQXk8dhA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【接口漏洞第六章第二节】参数污染漏洞挖掘详解：“截断”与“注入”实操手册",
+        "url": "https://mp.weixin.qq.com/s/xWXN5qkbYcqzD1CiJw4ZRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【安全圈】微软Copilot曝一键式漏洞：攻击者可悄无声息窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/b5MKtI8-KE8XnrTRcakwNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【安全圈】Apache Struts 2曝高危漏洞：攻击者可窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/NpWOsqNUORqxRr2mbrBPVg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "微软桌面窗口管理器0Day漏洞遭野外利用",
+        "url": "https://mp.weixin.qq.com/s/xDIpyd0ukxkrhOpOUHYb-Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【已复现含payload】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/_qP0F-OWAtX5fs5wBq813Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2025-68613 n8n 表达式沙箱逃逸导致远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/sDNw3Z-HFEu-uqUVotJxAQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2026-21858 因不当的 Webhook 请求处理而易受未认证文件访问",
+        "url": "https://mp.weixin.qq.com/s/NLxdfT9NogTJAfwukKUN0g",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s/9NunPUmRpw-a_SIt_NFNpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "记一次ASP站渗透测试经历",
+        "url": "https://mp.weixin.qq.com/s/AbvcfHHnK9Z9pHp6RnQC8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Palo Alto Networks 紧急修复高危漏洞，攻击者可致防火墙瘫痪",
+        "url": "https://mp.weixin.qq.com/s/P7LUgCXPzvgAqnkbVvtwCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【免费领】最牛渗透测试工具Metasploit实操教程",
+        "url": "https://mp.weixin.qq.com/s/EASB1je5dosMoUg8FpxL7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "XX渗透测试工具箱",
+        "url": "https://mp.weixin.qq.com/s/tnlvcvkU5KdWkz2i5yoEOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "基于AI的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/OKCm0zs2HWOPgeDPtO5SCw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "绝了！这份域渗透知识汇总，火了！（附下载链接）",
+        "url": "https://mp.weixin.qq.com/s/YPQ2UCC8j52kNiQQn92rVQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【漏洞通告】Fortinet FortiSIEM phMonitor服务命令注入漏洞(CVE-2025-64155)",
+        "url": "https://mp.weixin.qq.com/s/7BenYewwA8iPYwNxYoSI8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "CVE-2026-22688 - 腾讯WeKnora MCP Stdio 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/D77FQsOSjOrpWw_iM5ULQQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "[跟着静师傅学代码审计-全网首发]用友U9 V6.6企业版多组织企业互联网应用平台命令执行+SQL+反序列化",
+        "url": "https://mp.weixin.qq.com/s/l8NjnTC6d97KOval3n3Ddg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/Emdlk-rzUIlwcDgiBHixwQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "新款Shiro漏洞利用工具- Y5neKO",
+        "url": "https://mp.weixin.qq.com/s/gMApo9A53g1cyOsjEY_3ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "【已复现】React Router 未授权路径遍历漏洞 (CVE-2025-61686)：伪造 Cookie 即可实现任意文件写入",
+        "url": "https://mp.weixin.qq.com/s/-JJmGsL98vozGSsTsNjzeA",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
     }
 ]
