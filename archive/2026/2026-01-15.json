@@ -226,5 +226,53 @@
         "url": "https://mp.weixin.qq.com/s/1ZorRKtuEcDa58ZGJULtEw",
         "source": "Doonsec",
         "date_added": "2026-01-15"
+    },
+    {
+        "title": "Apache Struts XWork XML外部实体注入漏洞CVE-2025-68493 附POC",
+        "url": "https://mp.weixin.qq.com/s/0DQyyxO7cbELzJXbxF4A2g",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "0117.我是如何发现 Google 表单漏洞的（重复内部漏洞 - 已修复）",
+        "url": "https://mp.weixin.qq.com/s/TRJ79gWpK6ySL8eWSCNlfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Microsoft SQL Server 存在允许攻击者通过网络提升权限漏洞",
+        "url": "https://mp.weixin.qq.com/s/UCWuVh9FyPK4UuHDSnQyTw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Spring CLI 存在允许攻击者在用户系统上执行命令漏洞",
+        "url": "https://mp.weixin.qq.com/s/Q5i060kLY4LYTw4GB2NKag",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "奇安信发布智能网联汽车云平台漏洞报告：九成存漏洞，超七成涉高危风险",
+        "url": "https://mp.weixin.qq.com/s/ovrVymMdg6P-TJ-kdQnXUw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "好靶场-n8n-CVE-2026-21858+CVE-2025-68613",
+        "url": "https://mp.weixin.qq.com/s/D6QOwnZyGCABOHqgwoeS0g",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "Apache Struts XML外部实体注入漏洞复现(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/EUrm-RAXteMpR7WgMH4jfg",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
+    },
+    {
+        "title": "关于防范MongoDB数据库内存泄露高危漏洞的风险提示；AI安全工具选型指南：企业为何放弃新兴厂商，转投行业巨头？| 牛览",
+        "url": "https://mp.weixin.qq.com/s/X9dsHKCPfrR0ZxgW28Bkyw",
+        "source": "Doonsec",
+        "date_added": "2026-01-15"
     }
 ]
