@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s/dgwBqMrpBt1VcDjS_r_lxQ",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "星盟安全团队自研集成化渗透测试插件",
+        "url": "https://mp.weixin.qq.com/s/TTBNANXAfd25Q6LBDvFPcg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "信息安全漏洞周报【第056期】",
+        "url": "https://mp.weixin.qq.com/s/brVPs4QPTMNF4RWtr6ROaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【已复现】FortiClientEMS SQL 注入漏洞可导致远程代码执行(CVE-2025-59922)",
+        "url": "https://mp.weixin.qq.com/s/ETpsLUR_6oj9Tfo5BDAjfg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Apache Struts XWork XML漏洞CVE-2025-68493 poc及脚本",
+        "url": "https://mp.weixin.qq.com/s/yE0DPZQkxpMrn-dY1IwROQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
