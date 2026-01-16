@@ -1,0 +1,80 @@
+[
+    {
+        "title": "【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/Ylq1fBNXvgtO-7UM10bVng",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "海康安防后渗透利用分析",
+        "url": "https://mp.weixin.qq.com/s/-nQ4GvJWcR-4rZHYRhODIw",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Android应用程序渗透测试",
+        "url": "https://mp.weixin.qq.com/s/Pit6oj1XsRitP6JgL1s1ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【逻辑漏洞】 从应用场景看金融安全— 逻辑为王",
+        "url": "https://mp.weixin.qq.com/s/mIg6N3wObuep42k4jYlRmA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "SRC和常规渗透神器 带视频教程",
+        "url": "https://mp.weixin.qq.com/s/jOqhmvRR-cRFo2Rwbuj2Gw",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "基于Github任务流的开源AI代码审计框架",
+        "url": "https://mp.weixin.qq.com/s/gTwnTG676wQYAjIsz8ifyA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "致远OA rce",
+        "url": "https://mp.weixin.qq.com/s/velZeusv0yDgOI_rFbonpg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【漏洞复现】Apache Struts S2-069 XXE漏洞 CVE-2025-68493",
+        "url": "https://mp.weixin.qq.com/s/9hj1H4U6bT4iKFSUV3xTpg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Nacos系列漏洞：风险点与综合利用工具详解",
+        "url": "https://mp.weixin.qq.com/s/LJElChbwKhLiE8PdB3zP2Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "在线阅读版：《智能网联汽车云平台漏洞分析报告》全文",
+        "url": "https://mp.weixin.qq.com/s/AhppWF4s8JcKkQBzAySbyw",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s/d9tz6kLy-qhia2N0Wrl1XA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "一键化渗透神器，集成20+工具，子域收集、指纹探测、漏洞扫描全搞定！",
+        "url": "https://mp.weixin.qq.com/s/DV2FAygAM4WNVBGqQA_cAQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "智能网联汽车云平台漏洞分析报告（2025）",
+        "url": "https://mp.weixin.qq.com/s/xa1X4R2umUfyvAhf-5XJCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    }
+]
