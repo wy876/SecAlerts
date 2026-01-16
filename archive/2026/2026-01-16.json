@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s/r-i-YsG7aByjODbvz8mQjQ",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "用友NC存在反序列漏洞",
+        "url": "https://mp.weixin.qq.com/s/bLbQxfopQOWPcYWK1-u_Mg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
