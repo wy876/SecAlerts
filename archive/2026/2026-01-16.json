@@ -274,5 +274,41 @@
         "url": "https://mp.weixin.qq.com/s/M-R_ZaDuPCirHuX2Q7XVGQ",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "“零点击”数据泄露：企业级AIxa0Gemini Enterprise漏洞如何让AI成为企业安全新威胁",
+        "url": "https://mp.weixin.qq.com/s/yZEf4aY3Rh7ycxSOz2acjg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Skill赋能代码审计初探",
+        "url": "https://mp.weixin.qq.com/s/auJiEOJyD4iKFvW0YdMOSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "今晚20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过",
+        "url": "https://mp.weixin.qq.com/s/PD1mfrZ9G5VBKJA3MtsLyQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "安全热点周报：微软修复 2026 年 DWM 中首个信息泄露零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kyl7XigvyllXXe5qcu4jbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "从 XSS 到 RCE：Electron 应用中的真实攻击链",
+        "url": "https://mp.weixin.qq.com/s/R6Z77S_ZfQDVuiKc28ODqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第12期）：业务逻辑漏洞挖掘 从“会技术”到“能挖真实漏洞”的关键一步",
+        "url": "https://mp.weixin.qq.com/s/Onp-0m-Z47peRh7zz_OGhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
