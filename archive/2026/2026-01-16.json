@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/lVfChUZIiaiW82dSJhh3KA",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "致远OA wpsAssistServlet 任意文件上传漏洞(CVE-2025-34040)",
+        "url": "https://mp.weixin.qq.com/s/-LnxpwYw6Lz4ayZ1yywn1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "HPE Aruba漏洞致敏感信息遭未授权访问",
+        "url": "https://mp.weixin.qq.com/s/rkbZdimyIlDEXVVKQiEiPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "CVE-2026-20824漏洞：Windows远程协助存在安全功能绕过风险",
+        "url": "https://mp.weixin.qq.com/s/uub9l6ACfdQ8qSYF6Nz0DA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
