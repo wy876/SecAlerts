@@ -394,5 +394,35 @@
         "url": "https://mp.weixin.qq.com/s/ejkWkDKyoCtfV86KF22F7A",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "关于国内通用OA的渗透测试思路-仅供测试切勿违法使用",
+        "url": "https://mp.weixin.qq.com/s/8My-kcX1x_gjdspxrVbWXQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 命令联邦政府修复 Gogs 远程代码执行漏洞，该 0 day 漏洞已被攻击利用",
+        "url": "https://mp.weixin.qq.com/s/HTvxV0A0eZvqEmkCupdRaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s/eCujJbL37LpRVQwkJqRZUA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【漏洞预警】Fortinet FortiClientEMS SQL注入漏洞CVE-2025-59922",
+        "url": "https://mp.weixin.qq.com/s/iH1BrFH9L5jdui29ygz2dw",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Android Pixel 9 的零点击漏洞利用链全解析：从发送杜比音频解码到内核提权",
+        "url": "https://mp.weixin.qq.com/s/5ghBCECoOHZv98lVUnqD1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
