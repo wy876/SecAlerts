@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s/yE0DPZQkxpMrn-dY1IwROQ",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "记一次抽丝剥茧式的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/PMsn-o3CAsw-VrqLvraK-g",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【附POC及复现环境】Appsmith任意用户密码重置漏洞（CVE-2026-22794）",
+        "url": "https://mp.weixin.qq.com/s/P3sWlLs3xrR_bVkO24Kreg",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【漏洞通告】opencode-ai 未认证 HTTP 服务导致任意命令执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/M-R_ZaDuPCirHuX2Q7XVGQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
