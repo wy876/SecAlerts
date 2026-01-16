@@ -76,5 +76,95 @@
         "url": "https://mp.weixin.qq.com/s/xa1X4R2umUfyvAhf-5XJCQ",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [Palo Alto Networks 紧急修复高危漏洞，攻击者可致防火墙瘫痪",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608278&idx=2&sn=a74eb8d323b5228da92136491333e075",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504487&idx=1&sn=e64c861b77b37e5a7bf180bb0abceb6f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485960&idx=1&sn=51aec823340b0159b87f40d9d1ebf652",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [VPN漏洞频发，威努特零信任如何守护企业数字边界？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139610&idx=1&sn=d1c29183a3174bcaf50573bb5532eb6a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [奇安信发布智能网联汽车云平台漏洞报告：九成存漏洞，超七成涉高危风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524906&idx=1&sn=042b50af44fdb5d36a87c4aa47750af2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [【漏洞通告】Fortinet FortiSIEM phMonitor服务命令注入漏洞(CVE-2025-64155)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524974&idx=1&sn=f9ea9aeeb56719262d22f245d298458e",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [【安全圈】微软Copilot曝一键式漏洞：攻击者可悄无声息窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073727&idx=2&sn=e0c8016ed9626a7cec7c2b600f592b4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "] [【安全圈】Apache Struts 2曝高危漏洞：攻击者可窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073727&idx=3&sn=4e4471fde2273c957d656e6532c405b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "2026高危端口漏洞",
+        "url": "https://mp.weixin.qq.com/s/PiYjB2IBUgLYwCVHs5M99w",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "shiro反序列化漏洞综合利用,包含（回显执行命令注入内存马）",
+        "url": "https://mp.weixin.qq.com/s/zorOAGoejzYgGjbkQ6oEkA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "React2Shell 图形化漏洞检测利用工具",
+        "url": "https://mp.weixin.qq.com/s/5nVJwmjV2hKM1G0UUSz4Pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "SOC342 — CVE-2025-53770 SharePoint ToolShell 身份绕过与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/3QOLtuqu0jX5YbmiAFRSPA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "威胁组织利用信息窃取器窃取企业云凭证，多因素认证缺失成最大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Do8CX__aKjtOPZbpVADeww",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "从PhpmyAdmin getshell到某CMS后台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/ImO213-xjBIXInTn5GHI6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "漏洞复现 | 大华ICC智能物联管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/r-i-YsG7aByjODbvz8mQjQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
