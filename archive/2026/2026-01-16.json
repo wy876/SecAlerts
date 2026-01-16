@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s/nF48nz4642lMtup9rcU3AA",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "【接口漏洞第六章第三节】隐藏在“&”和“#”背后的秘密：我是如何通过参数污染接管管理员账户的",
+        "url": "https://mp.weixin.qq.com/s/TCoaB2A1Dr59aT9ghWRpSA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "渗透某特大网络D博太阳c娱乐平台记录",
+        "url": "https://mp.weixin.qq.com/s/ejkWkDKyoCtfV86KF22F7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
