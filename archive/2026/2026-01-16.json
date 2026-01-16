@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s/_wwFv0e3Ny7aygxs09AZ8w",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "WordPress漏洞后台RCE漏洞审计过程",
+        "url": "https://mp.weixin.qq.com/s/z_CIJ1EEuRF1r6dj_kZmMA",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "Cisco 0-day RCE 安全邮件网关漏洞在野外被利用",
+        "url": "https://mp.weixin.qq.com/s/wUIhnvYbUIO9B2lT0En5OQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第一期）",
+        "url": "https://mp.weixin.qq.com/s/XV5recnrGHolaTpSJvvJ9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
