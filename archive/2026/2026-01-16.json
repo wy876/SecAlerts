@@ -196,5 +196,41 @@
         "url": "https://mp.weixin.qq.com/s/uub9l6ACfdQ8qSYF6Nz0DA",
         "source": "Doonsec",
         "date_added": "2026-01-16"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/5dSPARFn1uwmuD8s-t_Z-A",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "外卖平台惨遭黑手！系 Salesforce 系统数据泄露蝴蝶效应",
+        "url": "https://mp.weixin.qq.com/s/5j6wHqjHmWvrEh888ybYjQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "OA渗透测试的思维盲区：从漏洞猎人到系统拆解师",
+        "url": "https://mp.weixin.qq.com/s/3PMdID0xfTN7iyYRYF9Eug",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【已复现】全程云OA QCHMS.asmx SQL Injection",
+        "url": "https://mp.weixin.qq.com/s/PZ8ZvUO4_Zee84flXO3v6Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "【漏洞复现】致远OA wpsAssistServlet 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/xWhzRjzUYmoCUZyawBlE3w",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
+    },
+    {
+        "title": "网安实验干货每日分享XSS跨站脚本-DOM型XSS漏洞挖掘1-0116",
+        "url": "https://mp.weixin.qq.com/s/dgwBqMrpBt1VcDjS_r_lxQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-16"
     }
 ]
