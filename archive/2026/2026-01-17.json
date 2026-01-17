@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s/FvjY4VXy2RnktgEzPnrw1A",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第一期）",
+        "url": "https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
