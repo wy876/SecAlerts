@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞",
+        "url": "https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "Firefox 147发布时修复了16个允许任意代码执行的漏洞",
+        "url": "https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
