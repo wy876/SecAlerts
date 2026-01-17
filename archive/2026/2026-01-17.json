@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s/pNQkwcoOj_dfd22yFJF6lg",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "通过 AppleKeyStore 引发的 SEP 固件崩溃 - iOS/macOS 26.x 内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/FvjY4VXy2RnktgEzPnrw1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
