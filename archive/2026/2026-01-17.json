@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "JS逆向对抗——记一次渗透测试签名绕过",
+        "url": "https://mp.weixin.qq.com/s/QAD6_65LQil1bz3JZ4st_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779）",
+        "url": "https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
