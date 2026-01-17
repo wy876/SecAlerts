@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）",
+        "url": "https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "渗透安全测试远程接单",
+        "url": "https://mp.weixin.qq.com/s/OfXJLcjJsfcCREsL8w8Ipw",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
