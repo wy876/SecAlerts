@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南）",
+        "url": "https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
