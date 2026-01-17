@@ -28,5 +28,77 @@
         "url": "https://mp.weixin.qq.com/s/zVTgKjhE09G-8ztTqXy7CA",
         "source": "Doonsec",
         "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [Android Pixel 9 的零点击漏洞利用链全解析：从发送杜比音频解码到内核提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184838&idx=1&sn=d4c35e35eca232ae996a5d4c50d06b08",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [国家漏洞库通报Apache漏洞、西班牙能源巨头1TB数据泄露|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139632&idx=1&sn=320aecd7aad9fb642fc495cfef2ab4b8",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [在线阅读版：《智能网联汽车云平台漏洞分析报告》全文",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524907&idx=1&sn=56ac025aa6a6fcc0f1243163f93a12bc",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [今晚20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608285&idx=2&sn=26ef1de70e528ff6d82da8c6ef3280ba",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [北京大学 | ContractTinker：基于大语言模型的真实场景智能合约漏洞修复系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494791&idx=1&sn=48f766f78cde227c2476ee008ed6d850",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [HPE Aruba漏洞致敏感信息遭未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586382&idx=1&sn=769ccf33f87c460c993b65f5757bea08",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "] [CVE-2026-20824漏洞：Windows远程协助存在安全功能绕过风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586382&idx=2&sn=ecd8789a25a92b246a88cc0d18af16a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "RondoDox 僵尸网络在攻击浪潮中针对 HPE OneView 漏洞",
+        "url": "https://mp.weixin.qq.com/s/vgqgGHdxw62OlYArhXhB5Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第13期）：业务逻辑漏洞实战 登录/支付/密码重置全解析",
+        "url": "https://mp.weixin.qq.com/s/cnaokGTQ0-W0jUZmni8cCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "实战中XSS漏洞的挖掘与利用",
+        "url": "https://mp.weixin.qq.com/s/gc6jKK2QuKkiTzHMXsTVTw",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "【2】CVE-2025-38352 – 在不打内核补丁的情况下扩展竞争窗口",
+        "url": "https://mp.weixin.qq.com/s/NpYdCE1VqK3Zi25a6RmmMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
+    },
+    {
+        "title": "Strix AI驱动的漏洞动态验证能力分析",
+        "url": "https://mp.weixin.qq.com/s/pNQkwcoOj_dfd22yFJF6lg",
+        "source": "Doonsec",
+        "date_added": "2026-01-17"
     }
 ]
