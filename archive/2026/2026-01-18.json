@@ -106,5 +106,11 @@
         "url": "https://mp.weixin.qq.com/s/m-3EQGxWk5BmACtk9MMiGg",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "【接口漏洞第七章第一节】解码vs编码：那个让安全工程师彻夜难眠的JSON处理细节",
+        "url": "https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
