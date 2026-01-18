@@ -22,5 +22,59 @@
         "url": "https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "] [1项公共安全行业标准获批发布",
+        "url": "https://mp.weixin.qq.com/s/XZ3haepOCtzw33ZVKiTrGQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "] [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=1&sn=b7baabf15c246b7188cec3311d4fcb74",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "] [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=2&sn=568bc60bf24ebbbc562831d29e7b2c5a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "] [CNNVD | 人工智能重要漏洞通报（2026年第一期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=1&sn=03dc63897eec3eeffc5eaebf1dc7d243",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "] [CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=3&sn=d265efe8a38a8c6feed55b0fdeb89dd3",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "仿真商城漏洞靶场已上线",
+        "url": "https://mp.weixin.qq.com/s/Pv8z7N78Y2dc1PqmQZhieA",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "【工具分享】MPET (Multi-Protocol Exploitation Toolkit)一款专业的多协议安全测试工具",
+        "url": "https://mp.weixin.qq.com/s/_nOsFiJOiTwF7Z0A02J0fQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）",
+        "url": "https://mp.weixin.qq.com/s/cFUhkXB_MrB9RX4A6o7bQw",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第14期）：高级SQL注入技巧 WAF绕过+盲注优化+实战案例",
+        "url": "https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
