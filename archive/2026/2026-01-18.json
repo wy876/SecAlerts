@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s/VOCvpGZ4jjSDEZLpkYP5dw",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "高危漏洞威胁情报 (2026-01-16）| n8n 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
