@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。",
+        "url": "https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "漏洞赏金高达 200 万+RMB 的 0-click 账户接管 MXSS",
+        "url": "https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
+    },
+    {
+        "title": "美特CRM sendmail.jsp 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/zzVML-pKM5_WtGCvqxW_OQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
