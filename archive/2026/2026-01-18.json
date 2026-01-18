@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "Google Vertex AI漏洞允许低权限用户提升至服务代理角色",
+        "url": "https://mp.weixin.qq.com/s/m5fSAgiQPKUgZL0jJD1PJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
