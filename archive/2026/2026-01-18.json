@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA",
         "source": "Doonsec",
         "date_added": "2026-01-18"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/m-3EQGxWk5BmACtk9MMiGg",
+        "source": "Doonsec",
+        "date_added": "2026-01-18"
     }
 ]
