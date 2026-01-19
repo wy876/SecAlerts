@@ -334,5 +334,29 @@
         "url": "https://mp.weixin.qq.com/s/LVr7_70UBsTxjb67hlS6yw",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "【玄域】web/app靶场-新增加验证码缺陷&密码重置靶场 | 新增3份实战漏洞报告",
+        "url": "https://mp.weixin.qq.com/s/MSOPSB2DZ06wA26_u6EvYg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "工信部网络安全威胁和漏洞信息共享平台发布高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/5G4ZzkBBqgNghbSdO6udhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "浙江宇视视频管理系统setNatConfig命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/IXC4ipNSzJ9A-hZCluGBYA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【漏洞通告】n8n Python 任务执行器沙箱逃逸导致任意代码执行漏洞(CVE-2026-0863)",
+        "url": "https://mp.weixin.qq.com/s/cwNoi8Ad_rCeOuNyD9_VrA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
