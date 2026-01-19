@@ -82,5 +82,191 @@
         "url": "https://mp.weixin.qq.com/s/vQt85_4s_eBTGnm8MbAEnA",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "黑客目前正利用 Fortinet FortiSIEM 的严重漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s/iin6FnCBls6Og7NxGDcVMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "虚假 Malwarebytes 活动利用 DLL 侧载漏洞植入信息窃取程序",
+        "url": "https://mp.weixin.qq.com/s/ddILckBmvEjbFRB5U5TvRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "用友NC pkevalset接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/8GBueh4NQih0PotdDgWBtQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "XXE到Chrome RCE：一次完整的不出网利用实践",
+        "url": "https://mp.weixin.qq.com/s/Hz-zG8YNml4qciVgSVQ2RA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "cve_2025_55182批量漏洞的检测+利用脚本",
+        "url": "https://mp.weixin.qq.com/s/nTfr30OIeCQwgTIcQcplvg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CyberStrikeAI新增fofa_search MCP，自然语言一键搞定靶场发现与漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/ONPHvG-8sRZOvjC-xn0gFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/kvpCeJ3uXPcS5fGPq55bEA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第15期）：文件上传绕过全攻略 前端/后端/中间件 全场景实战",
+        "url": "https://mp.weixin.qq.com/s/yYqal6LytHFRzNX3uROFDA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "最新知识库和漏洞库推荐",
+        "url": "https://mp.weixin.qq.com/s/_GK9VRe22Fx2HZ0vH49tpQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "神农SRC 漏洞挖掘实战课：从 0 到 1 成为赏金猎人",
+        "url": "https://mp.weixin.qq.com/s/gstdV6rGuKppjiQevwQV0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞复现 | 泛微e-office dept.wsdl.php 接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/IFOTAPxGY6qp66wdFzsKmQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "记录某支付类源码代码审计流程-后台注入",
+        "url": "https://mp.weixin.qq.com/s/uF2xUmqENTTm64tFFGyKnw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "网安实验干货每日分享XSS跨站脚本-DOM型XSS漏洞挖掘2-0119",
+        "url": "https://mp.weixin.qq.com/s/uEv6-WUzjwrPq_rs_PpiiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "学习干货 | 新手必练！真实复现DMZ区攻防场景与排查思路（附开源环境）",
+        "url": "https://mp.weixin.qq.com/s/3PjV7WIAM1C7Yu7cSLqUcA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "在某音约*的原因：《要找某音漏洞》",
+        "url": "https://mp.weixin.qq.com/s/8T0SEG5UYZUlS9MDBvzjMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/yqc1Ft4gyC-OnCrWXJVbCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CVE-2026-0695：ConnectWise PSA 2026.1 中修复了高危 XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZwxH6FjBYojNeziqjzlzXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "JShunter | JS 文件终端分析神器 —— 一键提取接口、硬编码密钥与潜在漏洞",
+        "url": "https://mp.weixin.qq.com/s/0mBWLZCuN03TD9zkn_xgrQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "接管AWS核心代码库：供应链劫持漏洞CodeBreach剖析",
+        "url": "https://mp.weixin.qq.com/s/_BzHeKPHh9YSZFvwgkVH3Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "新版 CyberStrikeAI 集成 fofa MCP，让渗透测试更便捷",
+        "url": "https://mp.weixin.qq.com/s/3mIudjagf0NjUIp8LiXcSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "奇安信：智能网联汽车云平台漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/rMuccGiP1kU48Li_XKtrTA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "AI赋能越权漏洞自动化检测",
+        "url": "https://mp.weixin.qq.com/s/7X1Yne8HoQ7mtx5KJYK82Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+        "url": "https://mp.weixin.qq.com/s/SwQIUavFsDhlLr6f4-cDkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "工具 | CVE-2025-9074-Docker-Exploit",
+        "url": "https://mp.weixin.qq.com/s/I-bspo4Eu3A_fSr1a21OKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "ODL高级配置受阻？巧用Expect脚本另辟蹊径，SSH批量下发OSPF/BGP/SRv6等复杂配置",
+        "url": "https://mp.weixin.qq.com/s/NgIwyWPHZtzT9wzmEhPZrA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "通过过多的暴露数据挖掘到高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/q5W9V6YcTUjWvs6yb719eA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【AI安全】Yak Mcp query_http_flow工具+chrome-devtools-mcp+TRAE自动化渗透初体验",
+        "url": "https://mp.weixin.qq.com/s/YGTMcmiAsCldhfrBRwwmIg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Yakit：一款集成的强大黑客工具（抓包，中间人劫持，漏洞利用）",
+        "url": "https://mp.weixin.qq.com/s/TJLPnfbQPHGrdWbJEZaXZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/V54PfMqkIXj3AchvdGP7bA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "渗透测试辅助插件---XMCVE-WebRecon",
+        "url": "https://mp.weixin.qq.com/s/UrZ0IXgTMSe9ErOwgj38EQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "在Kali上部署HexStrike Ai：让Ai用kali进行全自动渗透测试和CTF解题",
+        "url": "https://mp.weixin.qq.com/s/VLdPU5Qf7RaJIfWT3qkKsw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
