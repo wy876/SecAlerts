@@ -616,5 +616,11 @@
         "url": "https://mp.weixin.qq.com/s/IY_4_bIm9DwuipQDiikF1w",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞情报(已验证) | 深科特LEAN MES系统FileSync.ashx 存在文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/5ze4qDmKflvfq5UYnS2JVg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
