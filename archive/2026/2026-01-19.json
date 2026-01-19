@@ -448,5 +448,65 @@
         "url": "https://mp.weixin.qq.com/s/Fd3WRAO6All-iKD-kHZZLA",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "Windows SMB 客户端漏洞使攻击者能够控制 Active Directory",
+        "url": "https://mp.weixin.qq.com/s/HApRIpx4CTwGU12DIqvGMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【安全圈】苹果督促用户更新 iPhone 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/L9iCIbEwjAwmyJUXDvUi9w",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【安全圈】全球恶意广告劫持DNS漏洞，日均欺诈百万用户",
+        "url": "https://mp.weixin.qq.com/s/d-F4N_YfiGcQ9gjWcRJLog",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【安全圈】Deno 曝出高危漏洞（CVE-2026-22863 和 CVE-2026-22864）可导致密钥泄露与任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/KNCcrFOVj_guhGClQ0L15Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "谷歌蓝牙漏洞危及数亿音频设备",
+        "url": "https://mp.weixin.qq.com/s/WPuHZF38dJqPPssvnhLu9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Glibc 修复高危堆损坏和已存在数十年的信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/TU8ffnKzKjnOioP4T1Sh_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "严重的FortiSIEM漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s/2rCGeQa4s1MwvLnhtpZGXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Deno曝出高危漏洞可导致密钥泄露与任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/HGfePvNmp1BseCZuwrmg8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "历时数十年的漏洞与新堆损坏问题，Linux系统关键glibc漏洞曝光",
+        "url": "https://mp.weixin.qq.com/s/bLqzhkbXphjnraVR320nKQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【40万POC？？？】小场面，看纽克如何拿捏海量POC场景",
+        "url": "https://mp.weixin.qq.com/s/eKDUqh53is62L0GmJ6GRoQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
