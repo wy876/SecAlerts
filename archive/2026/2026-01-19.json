@@ -4,5 +4,83 @@
         "url": "https://mp.weixin.qq.com/s/PIBg6arcE3lUsdr4TQusEw",
         "source": "BruceFeIix",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "从灵感到落地：用Claude Skills实现\\\"一键代码审计\\\"全过程",
+        "url": "https://mp.weixin.qq.com/s/3Cq4ptqLFoTr03vSqE5riA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【首发复现】Windows Telephony 服务权限提升漏洞（CVE-2026-20931）",
+        "url": "https://mp.weixin.qq.com/s/gja_iKShxxkPKqOZcZVWEA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "来货拉拉SRC，提交任意有效漏洞可得新春礼盒~",
+        "url": "https://mp.weixin.qq.com/s/J9VVptuaR0MJG1GazP50uA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "知名心理健康服务平台存在SQL注入 - 0day",
+        "url": "https://mp.weixin.qq.com/s/w6W91_wpq2ChPGDE7Sa6vg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "AI 辅助逆向之旅：如何从TP-Link摄像头中挖掘漏洞",
+        "url": "https://mp.weixin.qq.com/s/P1wN63buKdNji9qQ8t1kSQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【吃瓜】前男友在某音给女生发约不约是挖漏洞",
+        "url": "https://mp.weixin.qq.com/s/eRwnSXNc8nlmOL4Bdn13BQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Apache ActiveMQ Jolokia 后台 RCE (CVE-2022-41678) 漏洞说明",
+        "url": "https://mp.weixin.qq.com/s/RYCEQYwBD6lnJAg_awvkAg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "好靶场-n8n-CVE-2026-21858+CVE-2025-68613",
+        "url": "https://mp.weixin.qq.com/s/x8JBunixigLfS8qVIWR34w",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CVE-2025-68428：jsPDF 中的关键路径穿越",
+        "url": "https://mp.weixin.qq.com/s/Gzv3L5STUh5rmnETRNqZ8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞预警 | Apache Kyuubi访问控制不当漏洞",
+        "url": "https://mp.weixin.qq.com/s/3FrLrb0nALFzUYc-M1HwSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/QjfNm80kRR-sFebRhPUI8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/hU8C_YDpfO86apIrWCYrnA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
+        "url": "https://mp.weixin.qq.com/s/vQt85_4s_eBTGnm8MbAEnA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
