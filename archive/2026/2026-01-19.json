@@ -268,5 +268,41 @@
         "url": "https://mp.weixin.qq.com/s/VLdPU5Qf7RaJIfWT3qkKsw",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "GoBruteforcer僵尸网络新攻势：利用AI生成配置漏洞 瞄准加密货币数据库",
+        "url": "https://mp.weixin.qq.com/s/_LqBdT3qaRFzrLYTYUuFpA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "重塑传统自动化漏洞挖掘的Multi-Agent框架攻防一体化实践",
+        "url": "https://mp.weixin.qq.com/s/bmbysdduL2DvagRUJL_vvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "FBI 卧底渗透 XSS 论坛并抓捕了黑客r1z",
+        "url": "https://mp.weixin.qq.com/s/gQpcieOZokAzFWMJNUt34w",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "漏洞复现 | React Router 未授权路径遍历(CVE-2025-61686)导致任意文件操作漏洞",
+        "url": "https://mp.weixin.qq.com/s/qqV3bGCkArGJ8xuUOoxkaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Android Pixel 9 的零点击漏洞利用链全解析：从发送杜比音频解码到内核提权",
+        "url": "https://mp.weixin.qq.com/s/91BfPYXaxNAC7dh7tddfrg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/_0LPA70VR76K_MVtCjNLDg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
