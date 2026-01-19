@@ -604,5 +604,17 @@
         "url": "https://mp.weixin.qq.com/s/nflXSF9y7FE0A5n-uHQOHg",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "从资产发现到漏洞利用：一款工具搞定渗透测试全流程",
+        "url": "https://mp.weixin.qq.com/s/52AoQONvgN2nyDVOsfhjtw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "严重程度最高的 Ni8mare 漏洞影响近 60,000 个 n8n 实例",
+        "url": "https://mp.weixin.qq.com/s/IY_4_bIm9DwuipQDiikF1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
