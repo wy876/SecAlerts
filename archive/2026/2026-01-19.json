@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s/_0LPA70VR76K_MVtCjNLDg",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "渗透测试 | fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/g3GCrBx7sqG6j-gq_F6gzg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "森鑫炬水务企业综合运营平台 Instance/Get 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/FyzAVvP2d4GqQY0HovzXKA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "干货：POP3 协议渗透全解析，从信息获取到邮箱突破",
+        "url": "https://mp.weixin.qq.com/s/3jOiqaBdH6WOS5vGEP_0aQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
