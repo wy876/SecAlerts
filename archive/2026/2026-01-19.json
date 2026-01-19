@@ -358,5 +358,95 @@
         "url": "https://mp.weixin.qq.com/s/cwNoi8Ad_rCeOuNyD9_VrA",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "【接口漏洞第七章第二节】服务器端参数污染漏洞综述：从原理、检测到手动验证指南",
+        "url": "https://mp.weixin.qq.com/s/irc5ZXTDoJvkAbBURKMwAw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "0day漏洞利用合集",
+        "url": "https://mp.weixin.qq.com/s/sf5k0lXTB3opsp-acSnp8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第2期",
+        "url": "https://mp.weixin.qq.com/s/gdwjni_xpqT1VPO9xmPr-A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260112-20260118)",
+        "url": "https://mp.weixin.qq.com/s/REXQt-uAdwXPzL12TSu_zw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "API 渗透实战：从 JSON 响应倒推隐藏的高危路由",
+        "url": "https://mp.weixin.qq.com/s/jczC5QHZqOZMkclH0qHVaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【高危漏洞预警】Windows电话服务权限提升漏洞CVE-2026-20931",
+        "url": "https://mp.weixin.qq.com/s/4xs9nkJAsy4HXQ3jCnUZDA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光",
+        "url": "https://mp.weixin.qq.com/s/vHyPpvfDS2fnXcF-n7z-qw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "苹果督促用户更新 iPhone 至 iOS 26.2，以修复遭黑客利用的 WebKit 安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/AYAqm-EsqYeR8l20S4ndPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "近期0day+POC|Windows RCE 0day漏洞利用|最后一个宣称通杀Android12–16",
+        "url": "https://mp.weixin.qq.com/s/T3vtmueTfcA52xyb5GfI6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "内网仿真渗透【GoldTiger】全网首发",
+        "url": "https://mp.weixin.qq.com/s/wmMGK8yxQ-s5EOMQsXchSQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【已复现】n8n 沙箱逃逸导致远程代码执行漏洞(CVE-2026-0863)",
+        "url": "https://mp.weixin.qq.com/s/7T6A0ZDwpu5GfVkvYUPPuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【安全资讯】谷歌 Project Zero 披露 Pixel 9 严重 0-click 漏洞利用链！发送音频文件无需交互即可内核提权控制手机",
+        "url": "https://mp.weixin.qq.com/s/NOQTXLMpKN92wMrcHjteMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "xxl-job 越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/ILs6qgUtG55kwOuN5LwYOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "【免费领】渗透测试必学必会工具及实操教程",
+        "url": "https://mp.weixin.qq.com/s/vVs0P7zH2h4hOhr9mRo7yA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CNNVD：人工智能重要漏洞通报（2026年第一期）",
+        "url": "https://mp.weixin.qq.com/s/Fd3WRAO6All-iKD-kHZZLA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
