@@ -508,5 +508,47 @@
         "url": "https://mp.weixin.qq.com/s/eKDUqh53is62L0GmJ6GRoQ",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "Mythic 后渗透框架分析",
+        "url": "https://mp.weixin.qq.com/s/aY7olvMR5wlkjcjeKQSPog",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "代码审计之XXE与SSRF与Struts2审计案例",
+        "url": "https://mp.weixin.qq.com/s/BUcNCx9qHVwroobniFFB3A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "代码审计之SpringBoot_Servlet_MVC框架",
+        "url": "https://mp.weixin.qq.com/s/6GX4vUt_Xh0mEvoYPAcylQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "代码审计之Servlet与SpringBoot与shiro的鉴权机制",
+        "url": "https://mp.weixin.qq.com/s/yz9QYEAQ4Uwlp1tnjyuPTA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Windows SMB 客户端漏洞使攻击者拥有 Active Directory",
+        "url": "https://mp.weixin.qq.com/s/czIlh7tQrNqXTdayQqbe1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "Langflow远程代码执行漏洞（CVE-2025-3248）",
+        "url": "https://mp.weixin.qq.com/s/ceYfAtd_8nK_R5owDQtV9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CNNVD：人工智能重要漏洞通报（2026年第一期）",
+        "url": "https://mp.weixin.qq.com/s/wm4nZKidPnrlfrCrL3mEHg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
