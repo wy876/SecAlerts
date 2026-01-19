@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s/3jOiqaBdH6WOS5vGEP_0aQ",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "从灵感到落地：用Claude Skills实现\\\"一键代码审计\\\"全过程",
+        "url": "https://mp.weixin.qq.com/s/S85UFLGTNgpgvzoM5itzdQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "短信发送功能点漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/LVr7_70UBsTxjb67hlS6yw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
