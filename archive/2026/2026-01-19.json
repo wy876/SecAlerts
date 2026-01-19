@@ -550,5 +550,35 @@
         "url": "https://mp.weixin.qq.com/s/wm4nZKidPnrlfrCrL3mEHg",
         "source": "Doonsec",
         "date_added": "2026-01-19"
+    },
+    {
+        "title": "【渗透实战系列】|56-海康安防后渗透利用分析",
+        "url": "https://mp.weixin.qq.com/s/FHoodSPyiCNJl1RssCYk4Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "此仓库包含针对易受攻击的 Windows 驱动程序的概念验证 (PoC)",
+        "url": "https://mp.weixin.qq.com/s/lXSKSNtqKNoRvtRrYFHkOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "CVE-2026-23745：node-tar 任意文件覆盖",
+        "url": "https://mp.weixin.qq.com/s/j_T9iaGY1oq46mSnvK_rOg",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "AI自动化代码审计RCE",
+        "url": "https://mp.weixin.qq.com/s/AnbKnyQkt7sz51zyxTOUiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
+    },
+    {
+        "title": "内网渗透体系建设指南：从 0 到 1 搭建，小白也能看懂！",
+        "url": "https://mp.weixin.qq.com/s/nPmzQVTQHaPDMZLQAEuOdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-19"
     }
 ]
