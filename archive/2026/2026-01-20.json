@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s/T9h433xLkgawItlPxzSDxg",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "从资产发现到漏洞利用：一款工具搞定渗透测试全流程",
+        "url": "https://mp.weixin.qq.com/s/J_s-jJlO-4VTOoZXbfDqkQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "最新知识库和漏洞库推荐",
+        "url": "https://mp.weixin.qq.com/s/cXYcHI4IGqKKj1kfuT0a5g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260120】",
+        "url": "https://mp.weixin.qq.com/s/gkvY_aG8zNbA8m1yc_Eqcw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
