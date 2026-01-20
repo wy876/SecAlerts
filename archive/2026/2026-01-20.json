@@ -1,0 +1,116 @@
+[
+    {
+        "title": "从 XSS 到 RCE：Electron 应用中的真实攻击链",
+        "url": "https://mp.weixin.qq.com/s/WqpB99Co-UGRm_LkwHaaRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Azure RCE漏洞剖析：单一VM沦陷可致整个租户失守",
+        "url": "https://mp.weixin.qq.com/s/h5HuV1AVYZzPmw5WKUpVxw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞复现 | 安科瑞环保用电监管云平台 uploadAttachment任意文件上漏洞",
+        "url": "https://mp.weixin.qq.com/s/id7weKXxCKScue77LcgcHw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【漏洞复现】大华ICC智能物联管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/L5Wok7BVFSCgPrg7_InoVg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【漏洞复现】Apache Struts S2-069 XXE漏洞 CVE-2025-68493",
+        "url": "https://mp.weixin.qq.com/s/Fl0BlLmiB0SSoqCCxGklFA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "菜狗安全《代码审计培训》2026年新征程",
+        "url": "https://mp.weixin.qq.com/s/wDnb8yRE3gfsgOQqCefihw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Windows SMB 客户端漏洞使组织面临 Active Directory 完全被攻破的风险",
+        "url": "https://mp.weixin.qq.com/s/yl_z9z5lORQ0UCt66ltn4A",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "泛微e-office dept sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/z5nDgsjvuL9qP2eMJEdCJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "工业警报：AVEVA 软件中存在严重远程代码执行漏洞，CVSS 评级为 10",
+        "url": "https://mp.weixin.qq.com/s/IPLwLwa5yhI1srijYff9fQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Pixel 9 零点击漏洞利用链可破坏内核",
+        "url": "https://mp.weixin.qq.com/s/rslChRVzWdVeTRVkjQN4Tg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s/HEEwGpWWo-bBSUuDAB-xUg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "新型 Kerberos 中继攻击利用 DNS CNAME 绕过缓解措施——POC已发布",
+        "url": "https://mp.weixin.qq.com/s/iVj33mTkm1ItEVdExKEprg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "CVE-2025-60188 Atarim 插件身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/y8wYnzM8gR2OvgoM8esnLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "流量之眼 - 智能被动漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s/VoDsZmLIKNTLajTPcBi6ZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "中国人民公安大学：浅析车联网漏洞挖掘技术",
+        "url": "https://mp.weixin.qq.com/s/2uOAkz5LnPDd-puFfxc2hg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞预警 | Apache Struts XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/KpOgJqpQC0WpffV2EGj8mw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/SkYyUTxHMC2kYYBYoQrL9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/cif79qvGRPaK6r43oN3TBw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/RuG9nh-GBdzBUCVII51YtA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    }
+]
