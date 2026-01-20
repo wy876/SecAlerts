@@ -478,5 +478,11 @@
         "url": "https://mp.weixin.qq.com/s/EHccCA5m7jw0hvWoZJx3Dg",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "大小写即漏洞：sqli-labs 第 27 / 27a 关通关全解析",
+        "url": "https://mp.weixin.qq.com/s/LdVOZQlsZNxV9N-ejmYjkw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
