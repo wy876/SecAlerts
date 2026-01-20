@@ -274,5 +274,167 @@
         "url": "https://mp.weixin.qq.com/s/gkvY_aG8zNbA8m1yc_Eqcw",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "Fortinet漏洞、RedLine Clipjack、NTLM破解、Copilot攻击热门事件",
+        "url": "https://mp.weixin.qq.com/s/B3Or_U8bsirv2ncZlyMe5A",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "某环保用电监管平台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/DuVSYgVFLRYerPuu4ZKsQA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Apache bRPC存在关键远程命令注入漏洞，影响1.15.0前所有平台版本",
+        "url": "https://mp.weixin.qq.com/s/42sGaV-VRo1B2ri9xABgYw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Cloudflare WAF存在高危0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/pJYpYZbEvTfK6iPdwR8fgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【接口漏洞第八章第一节】挖洞前必修课：一文读懂GraphQL API核心概念",
+        "url": "https://mp.weixin.qq.com/s/f0QCqqDHavilKnQx9cTRNA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施，PoC已发布",
+        "url": "https://mp.weixin.qq.com/s/KEVUeGPbhR3FJoeETnneLw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "诗歌竟成AI安全漏洞；朝鲜远程渗透计划年牟利6亿美元 | 2025网安行业优质播客精选集⑭",
+        "url": "https://mp.weixin.qq.com/s/RUypCGbGbqyRgEdAup-IMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Livewire Filemanager 漏洞导致web 应用易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/KCGwiwMQOESKFRD5ee8o6g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "谷歌 Gemini 提示注入漏洞可用于暴露私有日历数据",
+        "url": "https://mp.weixin.qq.com/s/0HIsZ-1s-e1RwACm5S9PQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Webshell 管理与后渗透平台(MatouWebshell）",
+        "url": "https://mp.weixin.qq.com/s/0LOhEmxmGDb899zhtab0rA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "NETGEAR 路由器环境模拟与漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/oV5VMLh5jrnmhSMJgkWcig",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Cloudflare曝零日漏洞：攻击者可借证书验证路径绕过WAF访问任意源站",
+        "url": "https://mp.weixin.qq.com/s/iYyM2y6ucPgfs1PTs6Fpcw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "满10人开班：系统0day安全——车联网安全入门（第8期）",
+        "url": "https://mp.weixin.qq.com/s/VQj7Bnes28GLq9mclxLCpQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【玄域】web/app靶场-新增2个验证码缺陷&密码重置漏洞靶场",
+        "url": "https://mp.weixin.qq.com/s/qvfvhWt0gYesQ7G7fF-I2g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "VulnHunter - AI 漏洞猎人v6.0 专业级漏洞扫描与渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/3Ag5JRTOkrt1cEBqENrGHA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "日均欺诈百万用户，DNS漏洞沦为恶意广告温床？",
+        "url": "https://mp.weixin.qq.com/s/_uW8aze4RYFzrxVAkw1B8w",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "国内第一款在线查询式漏洞挖掘工具",
+        "url": "https://mp.weixin.qq.com/s/NakvjfrgXtqlzT18lpTGLw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "JWT漏洞原理、攻击、防御全解析",
+        "url": "https://mp.weixin.qq.com/s/aHJ1oDTdTj8UHvpHoQWiqQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施 - PoC已发布",
+        "url": "https://mp.weixin.qq.com/s/6jPm01eFstPD9PoKgPnXvw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【已复现】GnuPG任意文件写漏洞",
+        "url": "https://mp.weixin.qq.com/s/wBRO68S7gC8b7eyRQanQdQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "CVE-2025-61686 React Router/Remix Run 路径遍历漏洞代码分析",
+        "url": "https://mp.weixin.qq.com/s/QKRTVKRmEa1Vp-dTs29eqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "ASP.NET ViewState反序列化漏洞介绍",
+        "url": "https://mp.weixin.qq.com/s/QFUmL0wD5RRrbcGHiNw3bA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "我是如何在 Ruby 应用中发现一个依赖混淆漏洞并最终导致 RCE 的",
+        "url": "https://mp.weixin.qq.com/s/nFqIpnmjGciYWWsoCqNbzw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Src--支付漏洞实战",
+        "url": "https://mp.weixin.qq.com/s/U4OsAdecfnVFUDrqs0tl2A",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.1.12-2026.1.18",
+        "url": "https://mp.weixin.qq.com/s/yyB_uac5NaT8JxsJJQkNhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "灵脉IAST 5.4 升级，AI漏洞治理 X 业务逻辑漏洞检测重磅上线",
+        "url": "https://mp.weixin.qq.com/s/G0Qb0TnBHugPfBp5XjFeMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "喜讯！|碳泽上榜《AI+网络安全图谱》两个细分领域-自动化渗透、SOAR",
+        "url": "https://mp.weixin.qq.com/s/Tl4l1xrwJvzLotN5W8IBnw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
