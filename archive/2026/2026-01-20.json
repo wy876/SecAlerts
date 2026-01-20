@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s/eo4h4_1cX-lXZ_T1zBZX4g",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "美国首次公开承认对委内瑞拉使用网络武器：几分钟内关闭并恢复电网供电；2026年1月12-18日CNVD漏洞态势研判报告 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/nfqg9uJ0yNqTKFZF1xLZfw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Langflow远程代码执行漏洞（CVE-2025-3248）",
+        "url": "https://mp.weixin.qq.com/s/lnkJYBVafFhfPdGyUSI4Cg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
