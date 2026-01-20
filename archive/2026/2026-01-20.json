@@ -112,5 +112,131 @@
         "url": "https://mp.weixin.qq.com/s/RuG9nh-GBdzBUCVII51YtA",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608330&idx=2&sn=db978609e85f81923fdb2003165acdb3",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [Glibc 修复高危堆损坏和已存在数十年的信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524913&idx=1&sn=8f401332b3245f7cccbc382a184094e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [严重的FortiSIEM漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524913&idx=2&sn=02e06fbe27ab50566ac1d367922f44b7",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [【安全圈】苹果督促用户更新 iPhone 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073786&idx=1&sn=651dca9c8e72b03014a22b79574bf873",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [【安全圈】全球恶意广告劫持DNS漏洞，日均欺诈百万用户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073786&idx=2&sn=a05dc4ac75eeb1922cbaac6a8bce9ee9",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [【安全圈】Deno 曝出高危漏洞（CVE-2026-22863 和 CVE-2026-22864）可导致密钥泄露与任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073786&idx=3&sn=c8f4af29c23aa47e5266e6d73a79b296",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [GoBruteforcer僵尸网络新攻势：利用AI生成配置漏洞 瞄准加密货币数据库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586404&idx=1&sn=76433e88c0fab00b3b85829927154758",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第2期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496648&idx=1&sn=01d8d7fdffebef6f4bd46e5bc28e0e68",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260112-20260118)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496648&idx=2&sn=b3ab5466e4b6c25034f4be202ab758e9",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "内网渗透信息收集实战技巧",
+        "url": "https://mp.weixin.qq.com/s/eXE-4EOyQ16smboH01mSkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "IM即时通讯系统 fileupload.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/mN4xDSfcapBu2WmfiszgWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞验证-帆软 FineReport export/excel远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/X0b_Wk19h3QlI_OyIr_Q4A",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "0120.我是如何发现 MCP 服务器中一个罕见漏洞的——漏洞赏金计划",
+        "url": "https://mp.weixin.qq.com/s/z2wbPCa9XDALojaG_I3DFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2026-0863",
+        "url": "https://mp.weixin.qq.com/s/HsAwrkMW1j-uXjJcTEGKaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "神农SRC 漏洞挖掘实战课：从 0 到 1 成为赏金猎人",
+        "url": "https://mp.weixin.qq.com/s/iJxKvofjWIF_RF9Mxz13Rg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑",
+        "url": "https://mp.weixin.qq.com/s/gqF_w3ieZZQIBavX73qCNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第16期）：SSRF高级利用 攻击内网+云服务+Redis全解析",
+        "url": "https://mp.weixin.qq.com/s/7lWgs_TCUzunvEqFzj6UJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Jeecg-boot常见漏洞汇总（一）",
+        "url": "https://mp.weixin.qq.com/s/TVEryh5WJUyEAYNDtGh_8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "Fortinet安全监控系统曝高危漏洞遭积极利用，企业核心威胁感知能力面临失效风险",
+        "url": "https://mp.weixin.qq.com/s/M1TgMzlXZm7PkALEek8ECg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【3】CVE-2025-38352 - Chronomaly 漏洞利用挖掘揭秘",
+        "url": "https://mp.weixin.qq.com/s/PjIKdLDFSlbgtngWkkxSKg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【漏洞分析】Keras 路径遍历漏洞（CVE-2025-12638）",
+        "url": "https://mp.weixin.qq.com/s/eo4h4_1cX-lXZ_T1zBZX4g",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
