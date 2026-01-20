@@ -460,5 +460,23 @@
         "url": "https://mp.weixin.qq.com/s/cPMFl-eQdH4AnUvKjbCKSA",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "WEB漏洞扫描器（新增企业版）Invicti-Professional-V26.10.0（自动化爬虫扫描漏洞）更新",
+        "url": "https://mp.weixin.qq.com/s/n33dKB1d9Lh9OdyoO3Nwag",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "工具推荐 | Swagger API漏洞自动化填充参数利用工具",
+        "url": "https://mp.weixin.qq.com/s/qF1TAKWiTC11SS3kGaefkw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【物理渗透】一个U盘，强制修改管理员密码",
+        "url": "https://mp.weixin.qq.com/s/EHccCA5m7jw0hvWoZJx3Dg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
