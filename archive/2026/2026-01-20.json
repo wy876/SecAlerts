@@ -484,5 +484,35 @@
         "url": "https://mp.weixin.qq.com/s/LdVOZQlsZNxV9N-ejmYjkw",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "一文解析 .NET 分布式事务组件反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/zNwv0w0gMmhgaWLA4bgpdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "复现（CVE-2026-21440）@adonisjs/bodyparser路径遍历漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/AnQSGEY_O2v53cjdIq57Dw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【全网首发】2025 0/1/N Day漏洞清单（超长版）",
+        "url": "https://mp.weixin.qq.com/s/VH4Gvt_pAy3ik0Yfm-6ADw",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "漏洞情报(已验证) | 中成科信票务管理系统 SaleProduct.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/DuZr2YjuGRdzfmwHkNZqQQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
+    },
+    {
+        "title": "【40万POC？？？】小场面，看纽克如何拿捏海量POC场景",
+        "url": "https://mp.weixin.qq.com/s/wZUjoI-UknD3klfEYeNcLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
