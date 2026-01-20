@@ -454,5 +454,11 @@
         "url": "https://mp.weixin.qq.com/s/eKPkK8buFgz5k16QzDeP_g",
         "source": "Doonsec",
         "date_added": "2026-01-20"
+    },
+    {
+        "title": "东胜物流软件GetPrintInfo接口存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/cPMFl-eQdH4AnUvKjbCKSA",
+        "source": "Doonsec",
+        "date_added": "2026-01-20"
     }
 ]
