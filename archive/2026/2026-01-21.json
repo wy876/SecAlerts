@@ -322,5 +322,65 @@
         "url": "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "看完这篇，还愁挖不倒漏洞？",
+        "url": "https://mp.weixin.qq.com/s/0AGNaiUEW1JhbeHhSyMTnw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare 修复可绕过 WAF 访问源服务器的 ACM 验证漏洞",
+        "url": "https://mp.weixin.qq.com/s/P-zBho0S5gxUgX8CVjTVMw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Anthropic MCP Git 服务器漏洞可用于访问文件和执行代码",
+        "url": "https://mp.weixin.qq.com/s/TgnsahDlk47F73-kVEg0-w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "记某edusrc的任意用户密码重置漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/t4F-x2ojV5-ZhTTH_UoHgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "未来已来：漏洞挖掘智能体VulnAgent 发现两个Suricata 高危漏洞，并获官方致谢!",
+        "url": "https://mp.weixin.qq.com/s/4F2tY7AP-Qyi5Tak7lPVeg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "WordPress插件AdvancedCustomFields:Extended曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/DDpmajusKV6Ul7kCDd7aSw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险",
+        "url": "https://mp.weixin.qq.com/s/cdWpY8JO9e1cYQ3r-RIVpg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Java代码审计-WebGoat-访问控制失效",
+        "url": "https://mp.weixin.qq.com/s/RUqOBXYH9sqqn0kCqUOnHQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "面向渗透测试场景的多级 SOCKS5 代理工具(BProxy)",
+        "url": "https://mp.weixin.qq.com/s/xBxpuEfsi9huPXTkSrdvHg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【免费领】渗透测试必备工具：Nmap实战技术全解教程",
+        "url": "https://mp.weixin.qq.com/s/Ez9fgLm9WsF88F6BbTvN1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
