@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s/_igxxjZSKKPSR5u-qqZ4IQ",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "Windows SMB客户端漏洞可导致攻击者掌控Active Directory环境",
+        "url": "https://mp.weixin.qq.com/s/Do2tOGIiFqA3vpNX6jwG6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "记一次渗透拿下所谓黑客排行榜",
+        "url": "https://mp.weixin.qq.com/s/5Sr_ByqfNupM5yrHeHSwCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
