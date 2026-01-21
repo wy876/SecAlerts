@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s/RxXDkelQg8xYN2fcfy0UDw",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "智能⻔锁蓝⽛通信模块整数溢出漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/_igxxjZSKKPSR5u-qqZ4IQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
