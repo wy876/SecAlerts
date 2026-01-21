@@ -484,5 +484,17 @@
         "url": "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "经典的前端鉴权绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/8Qbza74It7C2a3KHd0PjNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞情报(已验证) | 友数聚科技-CPAS审计管理系统 存在文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/fOibkfQKvN8Ics33uLqV9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
