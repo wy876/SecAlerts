@@ -436,5 +436,23 @@
         "url": "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "常见OAuth 漏洞：未验证token",
+        "url": "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
+        "url": "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "攻防技巧|快速高效挖掘.net系统漏洞",
+        "url": "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
