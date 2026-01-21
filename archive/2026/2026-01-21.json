@@ -478,5 +478,11 @@
         "url": "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "能注入 ≠ 理解漏洞：sqli-labs 第 29 关的真正考点",
+        "url": "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
