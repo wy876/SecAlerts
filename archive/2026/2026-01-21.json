@@ -430,5 +430,11 @@
         "url": "https://mp.weixin.qq.com/s/G5gYUhFb9FpBIsyA8-WWiA",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare  WAF 零日漏洞：可访问全球任何主机",
+        "url": "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
