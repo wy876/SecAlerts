@@ -382,5 +382,53 @@
         "url": "https://mp.weixin.qq.com/s/Ez9fgLm9WsF88F6BbTvN1A",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "百款AI应用集体“裸奔”：云端漏洞引发数据灾难",
+        "url": "https://mp.weixin.qq.com/s/olUhcDJP3u5yK85_jZN02w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【安全圈】WordPress 插件漏洞导致 10 万余个网站面临权限提升攻击风险",
+        "url": "https://mp.weixin.qq.com/s/dhbggM7euhNdc_AHz3sjww",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "东⽅通(TongWeb)应⽤服务器 EJB 反序列化远程代码执⾏漏洞",
+        "url": "https://mp.weixin.qq.com/s/ctgdyhvNmaIlnJIMeyWLdw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare 零日漏洞：可绕过 WAF 访问全球任意后端主机",
+        "url": "https://mp.weixin.qq.com/s/kS6rZDDpz0f6xl5aW1_3BA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【接口漏洞第八章第二节】挖掘GraphQL漏洞第一步：高效发现端口的三大实战技巧",
+        "url": "https://mp.weixin.qq.com/s/cLkmlGSUgnQHKX-S_grqCA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【已复现】多款 Linux telnetd服务中招，仅需一个参数即可远程获取 Root 权限，GNU Inetutils telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/PA5EhntsCyWfQT2kTE1yNA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器",
+        "url": "https://mp.weixin.qq.com/s/6qGhmaD7lpwa1c9xJq66GA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行",
+        "url": "https://mp.weixin.qq.com/s/G5gYUhFb9FpBIsyA8-WWiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
