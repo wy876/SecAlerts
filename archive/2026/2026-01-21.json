@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Cloudflare WAF绕过漏洞：全球任意主机访问",
+        "url": "https://mp.weixin.qq.com/s/zkp3wzgK9iyxmUedLokYlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "一次JAVA代码审计经典的鉴权绕过审计",
+        "url": "https://mp.weixin.qq.com/s/gEXQCAIvj_hP0l-PBajxqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Oracle 2026年1月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/5oo7b9TJ20ojauenFrfXJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "全是高危漏洞？CVSS 4.0 落地指南想帮安全团队挤挤漏洞的水分",
+        "url": "https://mp.weixin.qq.com/s/8tpfLLv56fawojZBhnBjvw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞复现 | React(next.js)存在远程命令执行漏洞（CVE-2025-55182）",
+        "url": "https://mp.weixin.qq.com/s/zMXlRyesyjnBQiyOK-piUA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "流量之眼 - 智能被动漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s/1iy0aoBNc0b3dvMC1AzjUg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "DeepAudit——代码漏洞挖掘多智能体ai系统",
+        "url": "https://mp.weixin.qq.com/s/EoNFdD_FYBgna9jGi1Qxew",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "网安实验干货每日分享XSS漏洞分类-0121",
+        "url": "https://mp.weixin.qq.com/s/F8RsqiH_3AhDzXy3yt1Tyg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "iOS 和 iPadOS 的新漏洞使数百万部 iPhone 面临风险",
+        "url": "https://mp.weixin.qq.com/s/4zDilvWzK5g7sogY6YkyPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare修复了ACME验证漏洞，该漏洞允许绕过WAF访问源服务器",
+        "url": "https://mp.weixin.qq.com/s/2TCqGHaMP-cSwueyZYYZlg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "ImageMagick 安全警报 (CVE-2026-23876)：“XBM”图像上传触发大规模堆溢出",
+        "url": "https://mp.weixin.qq.com/s/N-C4nOQ9FdPpdmw9teY_OA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Redis远程代码执行漏洞曝光：研究人员详细描述了官方容器中针对“简单”堆栈溢出的漏洞利用方法",
+        "url": "https://mp.weixin.qq.com/s/E3hZnLfIjpqKSjoVCXJ14w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "CVE-2026-21440 AdonisJS框架的关键路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/4QUyKEmv1qfm9lLQEcJUUg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "CVE-2026-0629：TP-Link VIGI漏洞允许攻击者重置管理员密码",
+        "url": "https://mp.weixin.qq.com/s/bTwiDDF_e5AOHVLrwkQTCQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "可访问全球任意主机：Cloudflare WAF 0-day漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/HOMtm3b2Kh9FqN2LkKd8Uw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "ShiroExploit_通过另类手法实现Shiro一把梭",
+        "url": "https://mp.weixin.qq.com/s/ZfCZJU4lZrZg8BJFdl343w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "CVE-2025-60188 Atarim 插件身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/W05-fdErYbJVg6rHPWR2cA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【红队】一款专业的多协议漏洞利用与攻击模拟平台",
+        "url": "https://mp.weixin.qq.com/s/vtypoVflLaesW0nsnY48zw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Cloudflare  WAF 零日漏洞：可访问全球任何主机",
+        "url": "https://mp.weixin.qq.com/s/eJU8djVlEW2tnxBksnOdvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞预警 | ComfyUI-Manager远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/x2G8z7_PAQ0ASGxFEsSK_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/bmCWNdDkgoL9vw_w5ezfzw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/JlNw3RDiA3tNYT44DhISDw",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "Venom - 致命精准的渗透测试利器 · 红队专用集成化平台",
+        "url": "https://mp.weixin.qq.com/s/_-tQSSJcOhz0oHhh1mfEFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "当 Stack Engine 背叛了 CPU：详解 AMD 最新硬件级漏洞 StackWarp",
+        "url": "https://mp.weixin.qq.com/s/ijrV5xSRx6a2CzFUrlw_CA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "SweetBabyScan，一款轻量级内网资产探测漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/xEUHkMqbdsvrSjMOvj1FgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    }
+]
