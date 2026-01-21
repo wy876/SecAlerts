@@ -454,5 +454,29 @@
         "url": "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+        "url": "https://mp.weixin.qq.com/s/-fxvgoVz5GQU6mOzozYG6w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "工具推荐 | 图形化后渗透信息/密码/凭证收集工具",
+        "url": "https://mp.weixin.qq.com/s/IQc7KGcRDws2vMHfvXfRPA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "渗透测试提速利器：FlowEye 被动扫描平台，Burp 集成 + 多引擎并行检测",
+        "url": "https://mp.weixin.qq.com/s/CV39obILl6NJO1a6IwfyoQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "最新高危漏洞威胁情报合集 (2026-01-21）",
+        "url": "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
