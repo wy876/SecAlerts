@@ -148,5 +148,107 @@
         "url": "https://mp.weixin.qq.com/s/xEUHkMqbdsvrSjMOvj1FgQ",
         "source": "Doonsec",
         "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [Livewire Filemanager 漏洞导致web 应用易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524925&idx=1&sn=66f2c70dfd469368ba99eb7c01321130",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [谷歌 Gemini 提示注入漏洞可用于暴露私有日历数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524925&idx=2&sn=f89ae14d71d858aa5b0a3b1ba66faf9d",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [NETGEAR 路由器环境模拟与漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608458&idx=1&sn=a2d35a8ebfe8b57b29b4000968090400",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [Cloudflare曝零日漏洞：攻击者可借证书验证路径绕过WAF访问任意源站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608458&idx=2&sn=2bdd5c55f5a0388eaadf3679c6b92827",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [满10人开班：系统0day安全——车联网安全入门（第8期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608458&idx=3&sn=e0f5efeee2b34911138bb6c44c60cc8c",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.1.12-2026.1.18",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503691&idx=1&sn=84c8cd82e1bafcf7d4f46966d8d85ec4",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [从 XSS 到 RCE：Electron 应用中的真实攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485964&idx=1&sn=78c2d90de0e51f8b4dbdb2fb7a1c5788",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "] [美国首次公开承认对委内瑞拉使用网络武器：几分钟内关闭并恢复电网供电；2026年1月12-18日CNVD漏洞态势研判报告 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140230&idx=2&sn=036ac8c3dadd0179599cea9f96646798",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【吃瓜】新年第一个“0day”",
+        "url": "https://mp.weixin.qq.com/s/9fWdC9ymTn3mgtfDI924zQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【绕过Bypass】实战waf绕过(文末有edu通杀0day)",
+        "url": "https://mp.weixin.qq.com/s/IbNUWk8P-JOlZdpkdABb3A",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "研究显示：GPT-5.2可稳定量产零日漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/sFLHzWAJCCq4d1zxm6Ftbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【代码审计】Fortify V26.1版本发布",
+        "url": "https://mp.weixin.qq.com/s/cw3JGuBl6AiGJh-doceeQQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "教育类SRC漏洞挖掘场景分析",
+        "url": "https://mp.weixin.qq.com/s/Kx71tqWUczeSAZB90SLN_w",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "今日互联网安全速报2026-01-21|CVE-2026-20805|iOS 17.3修复高危漏洞【黑客驰】",
+        "url": "https://mp.weixin.qq.com/s/zUfQSlEszW95ktrt9iPhHg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "【工具推荐】一站式网络安全扫描工具，渗透测试效率翻倍",
+        "url": "https://mp.weixin.qq.com/s/XskG_Gffa18gyq_q0n7Tsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "旭帆易云视信息科技有限公司 EasyCVR getbaseconfig 信息泄露漏洞(CVE-2025-1595)",
+        "url": "https://mp.weixin.qq.com/s/htPJk0Hp4LLl20Is3pf1lg",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第17期）：反序列化漏洞全解析 PHP/Java/Python 三大语言实战",
+        "url": "https://mp.weixin.qq.com/s/wFstbaEeKmaRvN9xGB719Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-21"
     }
 ]
