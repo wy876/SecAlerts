@@ -382,5 +382,53 @@
         "url": "https://mp.weixin.qq.com/s/0Ws8r4TrVgBjPIZzRlMi9w",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞通告】vLLM auto_map 动态模块远程代码执行漏洞 (CVE-2026-22807)",
+        "url": "https://mp.weixin.qq.com/s/7a6T5BzJjQOwa3cx_eEw6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞通告】GNU InetUtils telnetd 存在远程认证绕过漏洞 (CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/esLnBfTwUWcbs_VqBHv4xA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "n8n远程代码执行漏洞简报（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s/g6NqBpjmjLnhgvRYr2lUOw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞检测POC】GNU Inetutils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/7u29pXtloSrq-d_XBgmQGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "GNU InetUtils telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/waGpfH8zdgwFBDtumlfBGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【在野利用】SmarterMail 身份认证绕过漏洞(QVD-2026-4572)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/xGvTLEX8S9tBXKQRp5lchw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "大语言模型驱动的漏洞利用自动化时代来临",
+        "url": "https://mp.weixin.qq.com/s/QtSmkvWeDD9qerLDIXnNpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【556】【有靶场】CVE-2026-24061 GNU Inetutils telnetd 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DlItFJYQPLPsypCrYMHB_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
