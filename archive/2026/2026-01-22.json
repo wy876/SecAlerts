@@ -316,5 +316,23 @@
         "url": "https://mp.weixin.qq.com/s/r4s3jD2XpSHYZG5h5e8I8Q",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "VulnHunter - AI 漏洞猎人v6.0 功能界面查看",
+        "url": "https://mp.weixin.qq.com/s/sFQN5ypSUPRQ1aeDXfOXgw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Jeecg-boot常见漏洞汇总（二）",
+        "url": "https://mp.weixin.qq.com/s/7VwPrcxgru6SVdi3ISQYuQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞复现】CVE-2026-24061 直接拿root权限！GNU InetUtils telnetd远程认证绕过漏洞！",
+        "url": "https://mp.weixin.qq.com/s/9gaJgRZmNDoZBjKb5jXwfA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
