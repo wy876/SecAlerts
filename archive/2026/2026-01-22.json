@@ -148,5 +148,143 @@
         "url": "https://mp.weixin.qq.com/s/SYJIrOezFBMMmNVoeCPLYw",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608480&idx=2&sn=7fb7a1fd128f9485c34b6412149976d8",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [Oracle 2026年1月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504501&idx=1&sn=e5729e9e83c6d610ae05b054ac747d4c",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [研究显示：GPT-5.2可稳定量产零日漏洞利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789628&idx=1&sn=eeee12f87f31b54f145b66896be008fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [DeepAudit——代码漏洞挖掘多智能体ai系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485966&idx=1&sn=5468b4706a61a7cf1396ac6ff8c41f11",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [Cloudflare 修复可绕过 WAF 访问源服务器的 ACM 验证漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524939&idx=1&sn=3b78a85d34e70b90de763e54f7cdd239",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [Anthropic MCP Git 服务器漏洞可用于访问文件和执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524939&idx=2&sn=a0b5639d3c077f9d7f283ee4872d5c0d",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [【安全圈】WordPress 插件漏洞导致 10 万余个网站面临权限提升攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073823&idx=3&sn=c3951d395ab247469235b1bedcd3f029",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "] [未来已来：漏洞挖掘智能体VulnAgent 发现两个Suricata 高危漏洞，并获官方致谢!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497165&idx=1&sn=b2df840698d325a1079d672d0205bde3",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "大洞，必看！Linux Telnet 远程代码执行！",
+        "url": "https://mp.weixin.qq.com/s/ozPG8_QVHRBvKPU8aSozfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "GNU InetUtils telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/iueFrUg7geKBaMprqyyfQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "智监・精防・速处——企业漏洞智能防护中枢",
+        "url": "https://mp.weixin.qq.com/s/hWf6CRlpsZFru7wrdbguaA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "细一点 你说的没有含金量了从爬虫到特权：SRC路径遍历漏洞的全链路狩猎",
+        "url": "https://mp.weixin.qq.com/s/IR1bJGUKWK-edwRF1znjAw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "安全小知识-第二十期_Redis未授权访问漏洞利用与修复",
+        "url": "https://mp.weixin.qq.com/s/Wb6D_-pHQZVjemZti3QGsQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【POC已公开】GNU InetUtils telnetd 远程认证绕过漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/jaR3-gphUrnX-Yui8ME6sw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Oracle 2026年1月多产品高危漏洞风险警告",
+        "url": "https://mp.weixin.qq.com/s/HTOhttfT0eDCcvFaTpVhYg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "CNNVD关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/s-PvYADfibYQTpjdSG_x_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "大洞，速修！！！Linux Telnetd 远程代码执行！",
+        "url": "https://mp.weixin.qq.com/s/l1PQ1YDcUezaMVT1-unQ7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "天锐绿盾审批系统 uploadWxFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZYIzxnSoCnDyseN12txeDA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【已复现】易宝OA StockTakeIsPartNumber存在SQL注入",
+        "url": "https://mp.weixin.qq.com/s/bXIqI7_iO0QfN0Ok48epQQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Spring Boot Actuator未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/HETieO2Ts06x3SzcKf-fjw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "网安实验干货每日分享反射型XSS漏洞挖掘-0122",
+        "url": "https://mp.weixin.qq.com/s/n6iYKFOJaqDgAGEXGH3YAQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【红队】Shiro反序列化漏洞一站式综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/-MlKa1FijrrsMwoCU5ujBQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Shiro反序列化漏洞一站式综合利用工具 -- ShiroExploit（1月21日更新）",
+        "url": "https://mp.weixin.qq.com/s/3xdkVXVdfX7dazQ32PUUZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
