@@ -430,5 +430,23 @@
         "url": "https://mp.weixin.qq.com/s/DlItFJYQPLPsypCrYMHB_g",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "【WordPress专题08】全网首发POC及漏洞分析 CVE-2025-15403权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/WhtAkCYQ1-hj7tI4weoUxw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "从“空白页”到突破口：渗透测试中的信息发现七种思路",
+        "url": "https://mp.weixin.qq.com/s/uB3T44Apnj2tFh4z_IiJxw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "记一次某学校从小程序到后台的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/mq958_alx_K7NRbhLIY77A",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
