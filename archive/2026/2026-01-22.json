@@ -604,5 +604,35 @@
         "url": "https://mp.weixin.qq.com/s/XGx2PYSS0JK0tleL7tFbPA",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "告别手动构造 Payload：Burp 文件上传漏洞测试插件，1000 + 绕过 Payload 全解析|工具分享",
+        "url": "https://mp.weixin.qq.com/s/p0W9O4xwN_e1LCRAzg9b9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞情报(已验证) | 友加畅捷 GetAccountList 存在敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/8YuFlyeuk-VJAtxO2VYgMw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "特斯拉遭黑客攻击，37个零日漏洞在Pwn2Own Automotive 2026大会上被演示。",
+        "url": "https://mp.weixin.qq.com/s/cLYZnYwasBNTTzHB82t9Mg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "大华智能物联ICC综合管理平台evo-apigw/evo-cirs/file/download接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/BJiz2NU5xP6g2ix9BefFHg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【高危漏洞预警】SmarterMail身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/ntrezvylsSZyWHd7rKFrTg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
