@@ -448,5 +448,47 @@
         "url": "https://mp.weixin.qq.com/s/mq958_alx_K7NRbhLIY77A",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞通告】GNU InetUtils Telnetd 远程认证绕过漏洞(CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/jtS_cBaS8wcICG99Go18gQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "CVE-2026-24061：GNU telnetd 远程身份验证绕过漏洞（高危）",
+        "url": "https://mp.weixin.qq.com/s/3NQahaPuHxC6hXxIBgG_Ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞复现】CVE-2026-24061 GNU InetUtils Telnetd 远程身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/I_Pmc2-ZwO6nuaGoE17Org",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【漏洞通告】GNUxa0InetUtilsxa0Telnetd远程身份验证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/8eCk0AGCaoM4GCyRDhFb1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞挖掘实战系列（第18期）：高级Pwn技巧 ROP进阶+堆风水+格式化字符串漏洞",
+        "url": "https://mp.weixin.qq.com/s/XU2KLWLeqT9JE3NtoJ9s2w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【论文速读】|大语言模型在代码漏洞分析中的应用：一项概念验证研究",
+        "url": "https://mp.weixin.qq.com/s/bNbMgMLMKYnQf8IqhgTuPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "在一次渗透中学会编写Tamper脚本",
+        "url": "https://mp.weixin.qq.com/s/5NPwFqzHyPwkUtFpDDVF7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
