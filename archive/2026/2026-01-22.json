@@ -538,5 +538,35 @@
         "url": "https://mp.weixin.qq.com/s/-GKFC-edSfsZ35oAaMuqmA",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞复现 | 昂捷CRM UploadFile 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/XdIczkpz9cy70ZE2H8lv9g",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "做了几年安全后才明白：真正危险的不是漏洞，而是系统没人懂",
+        "url": "https://mp.weixin.qq.com/s/kjDJPjjzr0mcDcQSk5BZtg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "AI自主决策代码审计的小优化",
+        "url": "https://mp.weixin.qq.com/s/N88j3gKj0Wd1vWuuyfN5RA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【成功复现】Mailpit服务端请求伪造漏洞(CVE-2026-21859)",
+        "url": "https://mp.weixin.qq.com/s/jY-EmFAb2CX9k_Ws1AStDQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【接口漏洞第八章第三节】下一个漏洞赏金：或许就藏在未净化的GraphQL参数里",
+        "url": "https://mp.weixin.qq.com/s/6l0O2PL1a_VnWCHArk-BVg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
