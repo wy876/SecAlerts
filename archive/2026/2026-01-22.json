@@ -1,0 +1,152 @@
+[
+    {
+        "title": "StealC木马源码泄露后续：安全研究员教你如何通过控制台漏洞反向溯源",
+        "url": "https://mp.weixin.qq.com/s/ilgelT0vc-_eXKW7ydl5pA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【工具】Hikvision海康威视综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/yy93HOymGEFwwmK41wm6qg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【渗透测试】CyberStrikeAI：AI驱动的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/PNYXVDRUFE3dS5QZnLvZVA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "李某以技术手段窃取赌博网站184万余名中国公民个人信息，已扣押其180余个比特币|利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑",
+        "url": "https://mp.weixin.qq.com/s/rOjZfTamxOosfHA5tWXn8w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【红队】一款专业的多协议漏洞利用与攻击模拟平台",
+        "url": "https://mp.weixin.qq.com/s/Wai-Tb7B3CReHRw3BUPYJw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "渗透解放双手！S-APICONT V1.4 内测已发布",
+        "url": "https://mp.weixin.qq.com/s/Bj-GCpZ9eYhCqD4Re8bA-Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【AI代码审计】漏洞挖掘多智能体系统",
+        "url": "https://mp.weixin.qq.com/s/jG2hBYYv7V9Z9NRis58q8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【实战】利用 Salesforce ID 格式特性实现用户遍历",
+        "url": "https://mp.weixin.qq.com/s/piPYyb2z20u4jfiy5iyP2w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Apache配置以及漏洞",
+        "url": "https://mp.weixin.qq.com/s/akf5Cw9EAuvZ7rvV9XGbJQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Rust RAT 渗透阿根廷司法系统",
+        "url": "https://mp.weixin.qq.com/s/8vKUtBorgrLbF44b8HL2ow",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "如何用AI挖掘帆软表达式注入0day",
+        "url": "https://mp.weixin.qq.com/s/Q2hUkyEnhDa9GYIbTsVLxg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)",
+        "url": "https://mp.weixin.qq.com/s/q81u9yaeC0rPr8MkS8hkBw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "渗透技术交流群",
+        "url": "https://mp.weixin.qq.com/s/E9izBaCTZkmwH_Cvai--mg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Vivotek 严重漏洞授予 root 权限 (CVE-2026-22755)",
+        "url": "https://mp.weixin.qq.com/s/Xe8wJeKy19NpLcqS_YElIQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "CVE-2026-1245：Node.js 二进制解析器存在代码注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/UfQQRjykQEQ8b3daTtgX7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "普华PMS OfficeService存在任意文件读取漏洞【已复现】",
+        "url": "https://mp.weixin.qq.com/s/hNfyByebe8NhUzgEPwAWgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "等保测评人员必备(Golin 弱口令 漏洞 扫描 等保 基线核查工具)",
+        "url": "https://mp.weixin.qq.com/s/M_HqXbkyI1mS60xhydHzIg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "ShiroExploit_通过另类手法实现Shiro一把梭",
+        "url": "https://mp.weixin.qq.com/s/mGeC5uOsD9dGqjyyDmORaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "CVE-2026-21440 AdonisJS框架的关键路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/Aserf-XcM_VDo4teW6FDiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "新Shiro反序列化漏洞一站式综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/dU0G9lyFItVrY2w4QbzflQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞预警 | OpenCode远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/-0zSGpUQHYoSOTuUaxUrHQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/XIgbXhuy-8iB6TNHR5QDXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/fHTgD2xXT5ART3_6iBRFWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Webpack打包js.map泄露导致的通杀0day",
+        "url": "https://mp.weixin.qq.com/s/9_TUGRuTHWbjWV4Iy6reTA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Windows Telephony 服务权限提升漏洞（CVE-2026-20931）",
+        "url": "https://mp.weixin.qq.com/s/SYJIrOezFBMMmNVoeCPLYw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    }
+]
