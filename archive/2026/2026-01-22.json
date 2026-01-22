@@ -286,5 +286,35 @@
         "url": "https://mp.weixin.qq.com/s/3xdkVXVdfX7dazQ32PUUZQ",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "附排查方法！GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/WPd5yUTgPSP3isO2DyepNw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "针对若依系统nday的常见各种姿势利用",
+        "url": "https://mp.weixin.qq.com/s/K78zZTgQCkGPLt7YbyRwaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【火速排查】Linux Telnet 远程代码执行！",
+        "url": "https://mp.weixin.qq.com/s/L8SuzCB00EypG8XKPT5ALw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "基于AI 驱动的智能 Web 渗透测试进化系统",
+        "url": "https://mp.weixin.qq.com/s/u_EwCu0JZDp12qzsMk200w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "巨洞 CVE-2026-24061 Linux Telnetd 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/r4s3jD2XpSHYZG5h5e8I8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
