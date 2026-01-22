@@ -352,5 +352,35 @@
         "url": "https://mp.weixin.qq.com/s/qAJ4jNFQ3lRKmOOOzJ8DJg",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "漏洞预警 | GNU InetUtils telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/8qEzJlihCm0gUQ6aP2Y1jQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "【在野利用】SmarterMail 管理员密码重置认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/6mm-VK2MRNfk61dVXkTSjQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "从图片上传到账户接管 —— 在一次真实渗透测试中串联上传、存储与 CORS 问题",
+        "url": "https://mp.weixin.qq.com/s/pssGInisE1V17RfzVRZPqg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "从单一 ID 到机密报告披露 —— 打破真实漏洞赏金计划中的模式",
+        "url": "https://mp.weixin.qq.com/s/eQQJwaBF3at6iNvkPaVNiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "halo博客系统代码审计",
+        "url": "https://mp.weixin.qq.com/s/0Ws8r4TrVgBjPIZzRlMi9w",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
