@@ -490,5 +490,41 @@
         "url": "https://mp.weixin.qq.com/s/5NPwFqzHyPwkUtFpDDVF7w",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "【安全圈】Cloudflare 零日漏洞：可绕过 WAF 访问全球任意后端主机",
+        "url": "https://mp.weixin.qq.com/s/D2Hj1GqhvDCjrX63sNHD1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "某edusrc小程序rce漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/TqPMUdX2Jdc1hKKYIrJJcA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "Orvalxa0中存在严重的代码注入漏洞，存在供应链安全风险",
+        "url": "https://mp.weixin.qq.com/s/kgpyns7ixRzulEp-4RaKTQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "GPT-5.2可规模化开发0Day漏洞利用程序，网络安全攻防格局面临颠覆",
+        "url": "https://mp.weixin.qq.com/s/4duPcpnWymGGnvYZkrFrgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "欧盟漏洞数据库正式上线，终结对美国CVE体系的依赖",
+        "url": "https://mp.weixin.qq.com/s/IArsd4o_TI2hScRLo6ffCw",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "CNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/Uw6C-6LadvG5jzYBholWUQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
