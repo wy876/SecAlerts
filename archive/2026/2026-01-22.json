@@ -526,5 +526,17 @@
         "url": "https://mp.weixin.qq.com/s/Uw6C-6LadvG5jzYBholWUQ",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "NVIDIA NSIGHT Graphics for Linux 漏洞允许代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/Q5s1-1YfWoEAERbczsbL6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "GitLab 多个漏洞允许绕过 2FA 和发起 DoS 攻击",
+        "url": "https://mp.weixin.qq.com/s/-GKFC-edSfsZ35oAaMuqmA",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
