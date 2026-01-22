@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s/9gaJgRZmNDoZBjKb5jXwfA",
         "source": "Doonsec",
         "date_added": "2026-01-22"
+    },
+    {
+        "title": "超简单的物联网渗透之UART接口与固件提取教程",
+        "url": "https://mp.weixin.qq.com/s/29RjI63x7tHHSIOYG9I1ZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
+        "url": "https://mp.weixin.qq.com/s/aHJdEhJ0wad5jy95H-5BfQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
+    },
+    {
+        "title": "如何在 Anthropic 官方的 Git MCP 服务器中发现代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/qAJ4jNFQ3lRKmOOOzJ8DJg",
+        "source": "Doonsec",
+        "date_added": "2026-01-22"
     }
 ]
