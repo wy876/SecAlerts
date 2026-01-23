@@ -100,5 +100,77 @@
         "url": "https://mp.weixin.qq.com/s/ZCM2ZmrEu0DAPi8vJ8p0oQ",
         "source": "Doonsec",
         "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [Orval 中存在严重的代码注入漏洞，存在供应链安全风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524947&idx=2&sn=5596e7b09c6e905e054610915db4a6e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [【漏洞通告】GNU InetUtils Telnetd远程身份验证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489484&idx=1&sn=708c34d925835056baf7652dfdd9d5dd",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [【在野利用】SmarterMail 身份认证绕过漏洞(QVD-2026-4572)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504524&idx=1&sn=b7a52d0ad7bb616eb4bbb3a6c823386f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [附排查方法！GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508218&idx=1&sn=026c119b24e58480bc982acf4be329d5",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [【安全圈】Cloudflare 零日漏洞：可绕过 WAF 访问全球任意后端主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073840&idx=3&sn=23ce288e15bb2a4454965ba7e82e8c0b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [CNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257741&idx=2&sn=757fb33ee9873420a58c8265bb81350b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [n8n远程代码执行漏洞简报（CVE-2026-21858）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511005&idx=1&sn=b5b4aa6ee28a9331ff4c0cf194b40db8",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586453&idx=1&sn=84306048957277309041d293a3975287",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [漏洞预警 | GNU InetUtils telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487983&idx=1&sn=f4a51b543bf0adba0467b533bef5befa",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "] [逆天漏洞：《明日方舟：终末地》海外首日公测上线就遭遇T0级事故",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490014&idx=1&sn=a246acbc4b5b17bf95fbafb43ff17b83",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "亿赛通CDG AppExamList.jsp sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/gc7Fy6MnKqAHZ4CqxIStYA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【漏洞复现】(国标28181)WVP视频平台存在信息泄露",
+        "url": "https://mp.weixin.qq.com/s/jSZGxekaCsf7ouAPbZl8nQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
     }
 ]
