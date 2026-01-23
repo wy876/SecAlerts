@@ -286,5 +286,107 @@
         "url": "https://mp.weixin.qq.com/s/Tg0O0GffckqQLtckTUgZsg",
         "source": "Doonsec",
         "date_added": "2026-01-23"
+    },
+    {
+        "title": "XML外部实体注入漏洞（XXE）",
+        "url": "https://mp.weixin.qq.com/s/6CAy2RS8H9K8b5bnhXxSWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "CVE-2026-22200：osTicket工单直通系统Shell的漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/wV547T3xTfYvtTyjjLrvXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "谁在线上？利用 Windows Telephony Service 服务器模式漏洞：从任意文件写入到 RCE",
+        "url": "https://mp.weixin.qq.com/s/vXPKjS4NYl5BzCVZNEWgFA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【高危漏洞预警】Azure ARM权限提升漏洞CVE-2026-24304",
+        "url": "https://mp.weixin.qq.com/s/Qi7ikyen7LqwrdBCwY41_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "Fortinet 确认 FortiCloud SSO 身份验证绕过漏洞正被积极利用",
+        "url": "https://mp.weixin.qq.com/s/vngnc3t2mZfVMflpOhYaYw",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "利用 WAF 窃取 Salesforce OAuth 令牌",
+        "url": "https://mp.weixin.qq.com/s/eKC2GH7qNRWHD9z_xEkqCw",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【AI安全】DeepAudit 降临！Multi-Agent 协作击穿代码漏洞防线",
+        "url": "https://mp.weixin.qq.com/s/raMZ9uzpZFh_hKwtFh9onA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【接口漏洞第八章第四节】GraphQL漏洞挖掘实战：找不到参数？用“内省”透视API底层",
+        "url": "https://mp.weixin.qq.com/s/DND4mvouRPfdwAJtiQSGNg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-21858 RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/t5YYmUlrraGIMGyGisfB1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "Redis官方容器曝出RCE漏洞，研究人员详解\\\"简单\\\"栈溢出利用链",
+        "url": "https://mp.weixin.qq.com/s/wuJbkzB1I9thygskKbQIGg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "u200b原来有人靠「找漏洞」每月多赚几万",
+        "url": "https://mp.weixin.qq.com/s/CDpIwGzYg0ErzbqRBNiG8w",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "谷歌Gemini漏洞敲响警钟！AI提示词攻击或成企业致命隐患",
+        "url": "https://mp.weixin.qq.com/s/G28LqtWBDN9uQEC8rLLlxg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【漏洞通告】Oracle WebLogic Server Proxy Plug-in身份认证绕过漏洞(CVE-2026-21962)",
+        "url": "https://mp.weixin.qq.com/s/NVEOSga_kTIV5gkvOFBMYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【2026漏洞挑战专项第一期V1.0】白帽子集结令！火力全开",
+        "url": "https://mp.weixin.qq.com/s/bkfkXy-jRgLyml3PLgNFSA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "什么是闪电贷攻击? 3月区块链安全公开课，拆解DeFi协议的10大经典漏洞",
+        "url": "https://mp.weixin.qq.com/s/uMBJv-A77DDCrG35woXwAg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【已复现】漏洞预警 | GNU InetUtils Telnetd远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/Tn0rMkHBvS73dmj9tRSuZQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【已复现】telnet远程认证绕过漏洞（CVE-2026-24061 ）",
+        "url": "https://mp.weixin.qq.com/s/r3h_R4OAXVuWGz2ddQZCuA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
     }
 ]
