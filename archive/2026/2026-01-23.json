@@ -172,5 +172,119 @@
         "url": "https://mp.weixin.qq.com/s/jSZGxekaCsf7ouAPbZl8nQ",
         "source": "Doonsec",
         "date_added": "2026-01-23"
+    },
+    {
+        "title": "用友YonBIP LoginWithV8接口存在任意文件读取漏洞CVE-2025-66744 附POC",
+        "url": "https://mp.weixin.qq.com/s/hIS7CA_ZSg2BjU-qvQOFig",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "我们用AI提炼了88636个真实漏洞的\\\"黑客思维\\\"，现在把方法论开放给所有人",
+        "url": "https://mp.weixin.qq.com/s/tY6blgq3HeOqSydrmR_HSw",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "DeepAudit ！Multi-Agent 协作击穿代码漏洞",
+        "url": "https://mp.weixin.qq.com/s/qrIa7_dvkE3S3rm2Q7YfPA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "SmarterMail 认证绕过新漏洞被用于劫持管理员账号",
+        "url": "https://mp.weixin.qq.com/s/U1GMcISBNQJFY_kn0yPwLA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "思科修复已遭利用的 Unified CM RCE 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/9bLUTAz1KmsqpOTvd46AQg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【玄域】Web/App渗透靶场-新增1个web端逻辑缺陷类靶场&5份实战漏洞报告",
+        "url": "https://mp.weixin.qq.com/s/joYcyaFX_hjLbBG5d0J7eQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "安全热点周报：Cisco 修复了 Unified CM 和 Webex 中已被积极利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/uskS3aS3qLscYBLhmwgsTQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "伪造漏洞的来了",
+        "url": "https://mp.weixin.qq.com/s/Elt7ueHfweuw5VlHHdZa7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "首尔特辑 | 白泽PoC 2025 参会小记",
+        "url": "https://mp.weixin.qq.com/s/dXZvXPjSErLav_6B1ybQgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "2026年SaaS安全13大威胁：从零日漏洞到高级持续性威胁",
+        "url": "https://mp.weixin.qq.com/s/0c3wQyBoulHIYSGQF-V9Jw",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "梆梆安全发布《2025年移动应用安全风险报告》：超80%应用存高危漏洞，隐私合规率不足三成",
+        "url": "https://mp.weixin.qq.com/s/bzKzZvws5oyR-93VtS6ftg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "信息安全漏洞周报【第057期】",
+        "url": "https://mp.weixin.qq.com/s/1LuEQTbtF5UJO0Uv6kWJ7w",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【已复现】CVE-2026-24061 GNU Inetutils telnetd 远程认证绕过漏洞复现与分析",
+        "url": "https://mp.weixin.qq.com/s/KAqtymxTi4bZEsO-bZ_l4g",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260123】",
+        "url": "https://mp.weixin.qq.com/s/zhsleev4t_IApCt9a7IhRQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "【逻辑漏洞】【有靶场】某校*派出现优惠卷无限领取漏洞",
+        "url": "https://mp.weixin.qq.com/s/VVpBm5KbFa38kndt0Ghr1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "data-cve-poc：近两年的漏洞CVE-POC合集",
+        "url": "https://mp.weixin.qq.com/s/KXBzelKEsfpFtATwx2DSkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "CVE-2026-24061 GNU Inetutils  telnetd 命令注入涉及汽车零部件",
+        "url": "https://mp.weixin.qq.com/s/hHO8kUdrcu4pcTUJ-hv0ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "代码的特洛伊木马：为何AI生成的代码是LLM安全漏洞的“照妖镜”",
+        "url": "https://mp.weixin.qq.com/s/rCNYLUTTtikLE6D-gHgG9A",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
+    },
+    {
+        "title": "紧急漏洞披露：CVE-2026-24061telnetd身份验证绕过",
+        "url": "https://mp.weixin.qq.com/s/Tg0O0GffckqQLtckTUgZsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-23"
     }
 ]
