@@ -1,0 +1,20 @@
+[
+    {
+        "title": "漏洞复现 | Oracle E-Business Suite远程代码执行漏洞（CVE-2025-61882）",
+        "url": "https://mp.weixin.qq.com/s/mgiGbBA6I074gRvkNhKniw",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
+        "url": "https://mp.weixin.qq.com/s/trgUEzPNgsj8yw463DqL5Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "Oracle WebLogic惊现满分漏洞：CVE-2026-21962深度解读",
+        "url": "https://mp.weixin.qq.com/s/xwsVLHHEStbpMPb3cwBZJQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    }
+]
