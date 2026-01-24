@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "注意：Github上这个CVE-2025-8088工具实为木马下载器",
+        "url": "https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "CISA更新KEV目录，新增四个正在被积极利用的软件漏洞",
+        "url": "https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险",
+        "url": "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
