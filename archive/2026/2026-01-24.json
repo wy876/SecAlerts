@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "拆解 AI Skills 的五大逻辑漏洞与防御实践",
+        "url": "https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
