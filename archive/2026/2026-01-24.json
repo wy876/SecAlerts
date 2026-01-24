@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
+        "url": "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
