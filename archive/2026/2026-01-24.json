@@ -214,5 +214,23 @@
         "url": "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "StackWarp漏洞为什么不能影响海光C86",
+        "url": "https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "快云服务器助手 filemana.aspx/GetDetail 接口存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "蓝凌EKP系统接口thirdImSyncForKKWebService接口存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
