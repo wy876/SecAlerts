@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径",
+        "url": "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
