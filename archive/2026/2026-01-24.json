@@ -16,5 +16,119 @@
         "url": "https://mp.weixin.qq.com/s/xwsVLHHEStbpMPb3cwBZJQ",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "] [​原来有人靠「找漏洞」每月多赚几万",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608566&idx=2&sn=bf87ede159ec3f36f21eee4298f52ab5",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "] [SmarterMail 认证绕过新漏洞被用于劫持管理员账号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524955&idx=1&sn=34fffd85602bd5f7fa445177131ff399",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "] [思科修复已遭利用的 Unified CM RCE 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524955&idx=2&sn=922edf69046bb2a552b3f58f4f21f882",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "] [【漏洞通告】Oracle WebLogic Server Proxy Plug-in身份认证绕过漏洞(CVE-2026-21962)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524986&idx=1&sn=a422cf093b0026dd885f85e347af22f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "] [首尔特辑 | 白泽PoC 2025 参会小记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497579&idx=1&sn=098004b068f0cc79064d27fef22d4df6",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "vBulletin远程代码执行漏洞复现（CVE-2025-48827）",
+        "url": "https://mp.weixin.qq.com/s/pcTKDQs16Kyz95nn7larYw",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "漏洞扫描神器-xray从入门到放弃",
+        "url": "https://mp.weixin.qq.com/s/yZYpy7Fx4GEh1FMpOblsTQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "漏洞挖掘实战系列（终极指南）：从入门到精通的完整攻防体系",
+        "url": "https://mp.weixin.qq.com/s/AuaBvlfbaD2_pOJ51Oit1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "CVE-2026-24061 GNU Inetutils  telnetd 命令注入涉及汽车零部件",
+        "url": "https://mp.weixin.qq.com/s/blWcg3Gdf_mlKTVU68drUQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "【工具推荐】脚本小子都爱的后渗透免杀工具",
+        "url": "https://mp.weixin.qq.com/s/wcKup8_I_WJKeu-joVas8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "7B漏洞检测模型VulnLLM-R，训练数据，过程，模型全开源，效果很好",
+        "url": "https://mp.weixin.qq.com/s/PuTosiWnfW4cR-fPs4cdFA",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "第153篇：Struts2-069 XXE 实体注入漏洞分析+复现",
+        "url": "https://mp.weixin.qq.com/s/zftHpC3tmCyYEH-e3eJL8Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "【附POC及复现环境】一个-f参数即可获得root权限？GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/qkWr6CtnlTRpO2kWsrBLSg",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "基于AI的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/6KA5Tmph-X7mYeYMxTdtRA",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "CVE-2026-24061漏洞快速检测工具",
+        "url": "https://mp.weixin.qq.com/s/oH2NAXIFssc2e8x63jzfFw",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "车联网漏洞挖掘方法及典型案例剖析",
+        "url": "https://mp.weixin.qq.com/s/EX-k632VSBWWJsTJY6rpVw",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "个人接单 | web渗透测试",
+        "url": "https://mp.weixin.qq.com/s/eusfSzhzFzopAsus3ovMlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "Web 化被动漏洞扫描平台FlowEye（流量之眼）",
+        "url": "https://mp.weixin.qq.com/s/CtGHR7RTXWlJOJhLYytBZw",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
+    },
+    {
+        "title": "【云原生安全】容器环境DIND场景下的漏洞发现与利用",
+        "url": "https://mp.weixin.qq.com/s/FU4-PHu7HWPYg4A8zmO60g",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
