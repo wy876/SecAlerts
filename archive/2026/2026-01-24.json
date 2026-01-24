@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w",
         "source": "Doonsec",
         "date_added": "2026-01-24"
+    },
+    {
+        "title": "Linux Telnetd 远程代码执行！靶场镜像",
+        "url": "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-24"
     }
 ]
