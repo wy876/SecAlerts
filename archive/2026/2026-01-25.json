@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg",
         "source": "Doonsec",
         "date_added": "2026-01-25"
+    },
+    {
+        "title": "【接口漏洞第八章第五节】GraphQL内省探测全流程：从探测、查询到可视化与工具利用",
+        "url": "https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "内网渗透认知战：当攻击者开始思考防御者如何思考攻击者",
+        "url": "https://mp.weixin.qq.com/s/uu4JMLMowPdWaxvF_d-TTg",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
     }
 ]
