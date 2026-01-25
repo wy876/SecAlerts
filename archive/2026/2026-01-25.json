@@ -1,0 +1,56 @@
+[
+    {
+        "title": "dddd指纹和POC扩展",
+        "url": "https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
+        "url": "https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "新Shiro反序列化漏洞一站式综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/jBzhPGZkyszNgLtlRl9pMA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "招聘！渗透测试岗位（1人）",
+        "url": "https://mp.weixin.qq.com/s/ZfhXKucuL-1_8bMKFLly0A",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "CVE-2025-61686｜React Router未授权目录遍历漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/zSC_91YlsXBLtGk2gRt-pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "黑客利用 telnetd 身份验证绕过漏洞获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s/AZkj7nh8VIeetGQjK957Bw",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "一个整数溢出引发的全球安全危机：CVE-2022-22822深度解析",
+        "url": "https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    }
+]
