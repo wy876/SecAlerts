@@ -124,5 +124,47 @@
         "url": "https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ",
         "source": "Doonsec",
         "date_added": "2026-01-25"
+    },
+    {
+        "title": "从灵感到落地：用Claude Skills实现\\\"一键代码审计\\\"全过程",
+        "url": "https://mp.weixin.qq.com/s/1SlXxfYAH68js6G1XdE-Pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "带你走进app渗透之frida大门",
+        "url": "https://mp.weixin.qq.com/s/-rbFJMx_cEODGScx3hsYKQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+        "url": "https://mp.weixin.qq.com/s/1wylCGy0hDm8GvnpR7WDgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "CVE-2025-8088复现学习",
+        "url": "https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "【漏洞预警】GNU InetUtils Telnetd USER环境变量注入 权限绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "Shannon：这个AI渗透工具以96.15%漏洞利用成功率，重新定义AI自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/LQLv9mp211AZLMZ1d6iRUA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "红队必备POC模板管理漏扫工具(1243POC模板，支持多平台使用)",
+        "url": "https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
     }
 ]
