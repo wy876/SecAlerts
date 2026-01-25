@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/uu4JMLMowPdWaxvF_d-TTg",
         "source": "Doonsec",
         "date_added": "2026-01-25"
+    },
+    {
+        "title": "工具推荐 | 一款Shiro反序列化漏洞一站式综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/5xJHAkUPkVRozgbRVbpsMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "Laravel Reverb严重漏洞预警：CVSS 9.8高危反序列化RCE深度解析",
+        "url": "https://mp.weixin.qq.com/s/48IEzA6K-P407HlKJURCIA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "黑客在 Pwn2Own Automotive 2026 大会上利用 76 个零日漏洞获得 1,047,000 美元奖金",
+        "url": "https://mp.weixin.qq.com/s/K2exIbQDTxCZMQJ1MRwloQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
     }
 ]
