@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ",
         "source": "Doonsec",
         "date_added": "2026-01-25"
+    },
+    {
+        "title": "] [拆解 AI Skills 的五大逻辑漏洞与防御实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "构建可扩展的 Windows 驱动漏洞分析器 (第一部分)",
+        "url": "https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
     }
 ]
