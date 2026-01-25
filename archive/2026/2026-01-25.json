@@ -70,5 +70,59 @@
         "url": "https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw",
         "source": "Doonsec",
         "date_added": "2026-01-25"
+    },
+    {
+        "title": "一款优秀的基于AI的自主渗透测试平台（自动渗透）",
+        "url": "https://mp.weixin.qq.com/s/OKxLNykMnewOEoVDA_rekQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.1.2更新(新增iflow mcp对接cli工具、优化数据库执行命令等诸多功能)",
+        "url": "https://mp.weixin.qq.com/s/ckrUXelBCryksd4jso2wPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "复现（CVE-2026-21440）@adonisjs/bodyparser路径遍历漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "畅捷通 mailinactive.php sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "谨慎Github恶意项目CVE-2025-8088 WinRAR 路径遍历的漏洞编号",
+        "url": "https://mp.weixin.qq.com/s/CV1kBwJCgrcUr6tJt_-aHA",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "【0day】安全漏洞通告：SmarterMail 管理员密码重置 (CVE-2026-23760) 与 Dify SSRF (CVE-2025-56520)|孚*云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "AI在渗透测试中的应用案例三则",
+        "url": "https://mp.weixin.qq.com/s/Ko1OmZiKv3Cwjium0w2jpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "AI 狩猎 0day-自动化漏洞挖掘1000+ cve 和0day",
+        "url": "https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
+    },
+    {
+        "title": "美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府",
+        "url": "https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-25"
     }
 ]
