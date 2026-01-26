@@ -280,5 +280,35 @@
         "url": "https://mp.weixin.qq.com/s/7GLhmogxiYwVSx0Nj2fGGw",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2025-55182 的 POC，可在 Next.js 16.0.6 上运行",
+        "url": "https://mp.weixin.qq.com/s/wS-RF_RWWok9W-tjcTcjSA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "REINFORCE 越狱攻击让 Llama 3 彻底黑化",
+        "url": "https://mp.weixin.qq.com/s/NzOpzOAYQqmmYEesuOQTfA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具",
+        "url": "https://mp.weixin.qq.com/s/gkQOfK6TbjYNay4RDXeRuQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具",
+        "url": "https://mp.weixin.qq.com/s/zt3kp5jevfqQTdEPR97UPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "【接口漏洞第八章第六节】GraphQL端点发现了，然后呢？实战利用自省功能“透视”API",
+        "url": "https://mp.weixin.qq.com/s/NZbfQNFcp8tQKJHBidP-Ng",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
