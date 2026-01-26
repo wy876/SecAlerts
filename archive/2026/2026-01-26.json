@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2026-22686：AI代理沙箱的完美逃逸",
+        "url": "https://mp.weixin.qq.com/s/Ddpnhu8gyF1wuCya6Jq8hg",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】",
+        "url": "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "星图实验室接棒玄武实验室，完成底层密码学库漏洞的最终修复",
+        "url": "https://mp.weixin.qq.com/s/x4WQc2bc9ARgA_QT7ZI27w",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
