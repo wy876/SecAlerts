@@ -1,0 +1,80 @@
+[
+    {
+        "title": "【漏洞情报】【0day】织梦DedeCMS 0click劫持导致的前台rce getshell",
+        "url": "https://mp.weixin.qq.com/s/dGmXP12pAojMHe4vXB_rUA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "网安实验干货每日分享目录遍历漏洞-0126",
+        "url": "https://mp.weixin.qq.com/s/JH6hYPKtRDlnSUW9shdDuQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CISA警告：VMware vCenter 严重远程代码执行漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/T2hArPEuoQxk6Z8hQGKk8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "ChatGPT新漏洞可让攻击者窃取谷歌邮箱、微软邮箱及代码托管平台数据",
+        "url": "https://mp.weixin.qq.com/s/rvKffEWv05fmGgXYskIKWA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CISA 将已被积极利用的 VMware vCenter 漏洞 CVE-2024-37079 添加到 KEV 目录中",
+        "url": "https://mp.weixin.qq.com/s/udJiHUHzKXXw_gmL9DAppA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/HCTel_peQsxzkOd0X65-5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "漏洞复现 | GNU InetUtils Telnetd 远程认证绕过漏洞（CVE-2026-24061）【附批量检查脚本】",
+        "url": "https://mp.weixin.qq.com/s/E-g_TKIh-pFpAABuoPNS0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "免费，够强！实战使用MonkeyCode审计0day&安全开发",
+        "url": "https://mp.weixin.qq.com/s/1SHrIhS9m9nqtt4OIEvyVQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2025-67968 (CVSS 9.9)：RealHomes CRM插件严重漏洞使 30,000 个网站面临被接管的风险",
+        "url": "https://mp.weixin.qq.com/s/W6DzVMzK_qvUs7MJ4X0qww",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "思迅商旗收银系统 PayConfig 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MK04vNR0Gt2PeK_iCXz7FQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "漏洞预警 | D-Link DIR-868L远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/wWM1V6y33V_osSgLLfmZOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/iZx-70IkkFgpjGUnDGQMpA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/oclzSo8dgwS7dbQyc_AshQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    }
+]
