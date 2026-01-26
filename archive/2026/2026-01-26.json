@@ -214,5 +214,41 @@
         "url": "https://mp.weixin.qq.com/s/SLZp08Ps3aBrGKp7QJ2xqw",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第3期",
+        "url": "https://mp.weixin.qq.com/s/ctZMTfUnMAKjnxQ8OAvjOg",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞20260119-20260125)",
+        "url": "https://mp.weixin.qq.com/s/yCzriw2y9a13_GiNLF59UQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CISA：四款企业软件中的漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s/IxrijjH7ybKJxPQ1LXBx7Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "Meta低调修复Instagram高危权限漏洞，安全社区质疑其响应透明度",
+        "url": "https://mp.weixin.qq.com/s/tXjZ8yqnr8i4C4Y5cPfVJg",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "企业管理类系统常见漏洞挖掘指北",
+        "url": "https://mp.weixin.qq.com/s/mQ3XSZ-tw1ldGrNKCz59vw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "【高危漏洞预警】Linux内核IP6隧道漏洞CVE-2026-23003",
+        "url": "https://mp.weixin.qq.com/s/izrt9LFIav0d-JXyJ8QGFQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
