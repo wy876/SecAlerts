@@ -250,5 +250,35 @@
         "url": "https://mp.weixin.qq.com/s/izrt9LFIav0d-JXyJ8QGFQ",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "红队打点TOP 10漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/_vDy-68PfO531ABcZfk4tA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "黑客利用微软 SharePoint 漏洞，绕过多因素验证窃取能源公司员工凭据",
+        "url": "https://mp.weixin.qq.com/s/Xf5HoteQwbma5sPGXnBjIw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "[安全启动链破坏][EL3级任意代码执行]记一次对Nothing Phone手机的漏洞利用链的研究",
+        "url": "https://mp.weixin.qq.com/s/a9mtTzTNbgRrlR40Hc_aFA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "Node.js二进制解析库曝高危漏洞可导致恶意代码注入",
+        "url": "https://mp.weixin.qq.com/s/0nLaLjwXR4KmwigTEoHxqQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "VMware vCenter关键RCE漏洞已遭攻击利用",
+        "url": "https://mp.weixin.qq.com/s/7GLhmogxiYwVSx0Nj2fGGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
