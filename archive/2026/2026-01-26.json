@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s/x4WQc2bc9ARgA_QT7ZI27w",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2026-20931 Windows 电话服务漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/sfuwtfWCtBygkIBiAFzm4g",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "【免费领】全网最详尽的漏洞挖掘实战技巧大全",
+        "url": "https://mp.weixin.qq.com/s/q1QlzOObcgzkCDfLJj-J8g",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "[跟着静师傅学代码审计]itc中心管理服务器审计",
+        "url": "https://mp.weixin.qq.com/s/SLZp08Ps3aBrGKp7QJ2xqw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
