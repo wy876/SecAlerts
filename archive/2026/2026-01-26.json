@@ -76,5 +76,71 @@
         "url": "https://mp.weixin.qq.com/s/oclzSo8dgwS7dbQyc_AshQ",
         "source": "Doonsec",
         "date_added": "2026-01-26"
+    },
+    {
+        "title": "] [传 iPhone 17e 配灵动岛不涨价；大疆 Osmo Pocket 4 或春节后发布；中奖规则调整，买彩票成不了亿万富翁 | 极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097749&idx=1&sn=8716212769bff47a25e7ab1bc42c6544",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "英伟达Linux图形工具曝本地漏洞，开发环境面临代码执行与权限提升风险",
+        "url": "https://mp.weixin.qq.com/s/-sP_IDB3lQZtpKUGIV03LQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "Instagram隐私漏洞：私密账号并不私密",
+        "url": "https://mp.weixin.qq.com/s/81ADNkSilnl85esFTP02vQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "某省攻防演练实战复盘：从资产测绘到内网横向渗透（附带00信安优惠卷）",
+        "url": "https://mp.weixin.qq.com/s/Oi40sauc91EGyac0Nzh6wQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2026-24061GNU Inetutils telnetd 远程认证绕过漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/sC21RGnKULmVdHcWmEcotQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "神农SRC 漏洞挖掘实战课正式开课，还可以补票上车！",
+        "url": "https://mp.weixin.qq.com/s/OxsY0XHF8M2Dp3qa3SNJ8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "新中大ERP企业管理软件 NGInterface SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/QBEuBgLtMEHw4lhqh_Z1tw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "【CVE-2026-23760】SmarterMail 特权账户接管",
+        "url": "https://mp.weixin.qq.com/s/YIqAU91XfTxk_IRO3WM7pg",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "网安靶场实战指南（第 1 期）：全网 6 大类别 30 + 靶场全景图鉴 —— 新手入门 / 进阶实战 / 职业渗透全适配",
+        "url": "https://mp.weixin.qq.com/s/1Sd86Ij8ag2iVRKmRyZlOw",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "大华ICC智能物联综合管理平台敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/jnwCqKJ6acqBE84fVc5JqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
+    },
+    {
+        "title": "CVE-2025-38352 Part 1 - 在野利用的 Android Kernel 竞争 UAF 分析与 PoC",
+        "url": "https://mp.weixin.qq.com/s/1H2uL8OG_droMBMRnxVa4Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-26"
     }
 ]
