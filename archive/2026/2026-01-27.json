@@ -376,5 +376,11 @@
         "url": "https://mp.weixin.qq.com/s/ZvIrk3cgKs6491cLxYzxgg",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVSS 9.8高危沙箱逃逸漏洞，vm2缺陷危及数百万应用",
+        "url": "https://mp.weixin.qq.com/s/RRgkWtM-3vg8cHOHrRPjCA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
