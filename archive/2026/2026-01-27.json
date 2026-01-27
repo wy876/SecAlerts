@@ -262,5 +262,23 @@
         "url": "https://mp.weixin.qq.com/s/nAoM_yBliO48aLUgfPOSBA",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "Chrome V8  CVE-2026-0902 内存读取漏洞简析 & POC纪要",
+        "url": "https://mp.weixin.qq.com/s/y7cJ6Aq28kQ1Fg-qlpcdFg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "一款定制 LLM 应用的自动提示注入扫描器(自动找出50+种提示词注入漏洞)",
+        "url": "https://mp.weixin.qq.com/s/uUmqvBKRLeTHnb4YCgUAkA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【在野利用】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/GyN4XIH5dxuA_496pD-Vbw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
