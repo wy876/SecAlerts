@@ -184,5 +184,83 @@
         "url": "https://mp.weixin.qq.com/s/Ax_nQBFNY1OrjCcP5JzsvA",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "] [CISA：四款企业软件中的漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524969&idx=2&sn=f5c3f208265141f2ef4d2fca7dd25c76",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "] [Meta低调修复Instagram高危权限漏洞，安全社区质疑其响应透明度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608579&idx=1&sn=b2ea4f72fed798e5537bb1f1dd511cad",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第3期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496669&idx=1&sn=bb28f432589cb86f9ac1f9a1e500eacc",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞20260119-20260125)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496669&idx=2&sn=3bdde749cf6d4cef12694e441706e279",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "] [ChatGPT新漏洞可让攻击者窃取谷歌邮箱、微软邮箱及代码托管平台数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485828&idx=1&sn=e96ec9b2bd3cb95f89618868e299f99f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/wn1wktQwNZnJycplqyQ2rA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【紧急补丁】Microsoft Office OLE 缓解绕过漏洞 (CVE-2026-21509) 已发现在野利用",
+        "url": "https://mp.weixin.qq.com/s/Gyy6BL5Z7pdSSwMnjA3k7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "IM即时通讯系统 preview.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/HVaMyw8Gadxk7MPLsuVV3A",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【活动】通用漏洞全年3倍奖励，百万奖金持续悬赏！！！",
+        "url": "https://mp.weixin.qq.com/s/tYIeaVmmXwbzGN_xfu67MQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "网安靶场实战指南（第2期）：DVWA靶场从零到精通——环境搭建+基础漏洞全突破",
+        "url": "https://mp.weixin.qq.com/s/Hjm6RE5h0OjW3rTJdiUgAg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第3期",
+        "url": "https://mp.weixin.qq.com/s/oyu-CHhmGZzmyzC3Ms8QvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "常见信息泄露漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/jb1rLB5oi5IQJKUnwjnihA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "腾达路由器敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/nAoM_yBliO48aLUgfPOSBA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
