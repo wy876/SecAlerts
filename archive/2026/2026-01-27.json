@@ -382,5 +382,17 @@
         "url": "https://mp.weixin.qq.com/s/RRgkWtM-3vg8cHOHrRPjCA",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "Apache Hadoop 漏洞暴露系统，可能导致崩溃或数据损坏",
+        "url": "https://mp.weixin.qq.com/s/xM0p0PGeN5nAA0Odi5dG2A",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "解锁渗透测试隐秘技能",
+        "url": "https://mp.weixin.qq.com/s/BPJlQ_jCvCvnKyqBlOeO4w",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
