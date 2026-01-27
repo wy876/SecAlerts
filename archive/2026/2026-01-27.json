@@ -1,0 +1,188 @@
+[
+    {
+        "title": "CVE-2026-20045 高危漏洞曝光，Cisco 语音系统存在未授权远程执行风险",
+        "url": "https://mp.weixin.qq.com/s/ioW4o8AQANnvDFXWY-arPQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "React 服务器组件爆出“核弹级”漏洞：CVE-2025-55182 到底有多严重？",
+        "url": "https://mp.weixin.qq.com/s/Oe2f4itq3-cL9MKIeeNY1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+        "url": "https://mp.weixin.qq.com/s/ZPG8ZNXQnVUYDlMBdPzLRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/jdywrgHmfwrYCxQLRQT4Mw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "K8s RCE 0-day漏洞剖析：仅需nodes/proxy GET权限即可接管集群",
+        "url": "https://mp.weixin.qq.com/s/1_d-wS11PlgoiYlTfDljmg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "攻击者利用 Mjobtime 应用程序漏洞，通过 MSSQL 和 IIS POST 请求攻击建筑公司",
+        "url": "https://mp.weixin.qq.com/s/HZGqpH9DaUnxCB_Xjhvzew",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVE-2026-23760｜SmarterMail存在身份认证绕过漏洞可实现RCE（POC）",
+        "url": "https://mp.weixin.qq.com/s/-Z2pc8U6mMndmw-0ISIjtg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVE-2026-21962｜Oracle WebLogic Server身份认证绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/39O6D7Zey-qWJe_vK98ArQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【JAVA代审】newbee-mall开源电商项目代码审计",
+        "url": "https://mp.weixin.qq.com/s/TqcXLeHChzp2xn7NnpnbPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "某小程序rce",
+        "url": "https://mp.weixin.qq.com/s/GTaDJ-Y-nqNzgqaMB70Ftg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维安全管理系统portal_login远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/2yQXFgZdYHYHWovZR6dtsQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞利用代码公开：Firefox WebRTC 严重漏洞可导致远程代码执行 (CVSS 9.8)",
+        "url": "https://mp.weixin.qq.com/s/PQGwxIojFDStyhTMmDYITg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "微软的补丁修复了被积极利用了 Office 的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/OjAPKz7xCTy54eKhQZt8iA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "1.9-监控POC根据指纹自动创建任务",
+        "url": "https://mp.weixin.qq.com/s/tYxc4flkEcQtqQq4ZdwDRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "东胜物流软件信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/4PkH2XvT5kbzvXEaAOhg2g",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
+        "url": "https://mp.weixin.qq.com/s/uWmADwNDa3x25OQ88dtBsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "ClickHouse 数据库渗透及攻防指南",
+        "url": "https://mp.weixin.qq.com/s/M6kyoZDQCSIgkHtEWQmFqA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVE-2026-24306：Azure Front Door访问控制漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/u-tGrqRQ6J4t31UFpm3fAg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞预警 | WSO2任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/O2IrjCxBzIADNIzpdco0Gg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞预警 | 思迅商旗商业管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/joQl8D6Bumr-sb8C8beu_w",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/KIfpuEdli9I7Xm435zWgVg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "门禁系统“全面失守”：研究揭示高端门控系统存在一系列致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/N4-XpqfwKXAs8bbMrVEU-Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞情报(已验证) | 深科特 LEAN MES系统 WarehouseCheck.ashx 存在SQL注入",
+        "url": "https://mp.weixin.qq.com/s/m5ePEz5KDI0c9BWrPS2h5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【全网首发】2025 0/1/N Day漏洞清单（超长版）",
+        "url": "https://mp.weixin.qq.com/s/zO1l4B7rZHC_qswDGu69vA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【40万POC？？？】小场面，看纽克如何拿捏海量POC场景",
+        "url": "https://mp.weixin.qq.com/s/-2T1gak48FLEVXABRhbuFw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "免费的漏洞靶场，让你从小白变大神",
+        "url": "https://mp.weixin.qq.com/s/AZNA1qDVlKEgypFt5zJfxQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVE-2026-20805 PoC Windows 管理器 (dwm.exe)信息泄露",
+        "url": "https://mp.weixin.qq.com/s/TxdPLkmRvWlDpSzSCqfBKQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "旧攻击，新速度：研究人员优化页面缓存漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/TRFY_tCAOe7NBhuRLZ7yMQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "工具推荐 | 最新开源GeoServer 综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/kudyPukl1z8uJq-yCqT08w",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "Instagram 漏洞，私密帖子可被任意访问",
+        "url": "https://mp.weixin.qq.com/s/GC-qHMR2Ku5AJA1cXUZBmg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "Chainlit AI 框架漏洞导致黑客入侵云环境",
+        "url": "https://mp.weixin.qq.com/s/Ax_nQBFNY1OrjCcP5JzsvA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    }
+]
