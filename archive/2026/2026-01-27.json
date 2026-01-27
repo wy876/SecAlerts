@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s/r_j8SXaRUQnb9T1lARrFaw",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-21962 Weblogic RCE漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/KYGF8A8dPdThH5RC3-d0wA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "GNU Inetutils telnet远程认证绕过漏洞（CVE-2026-24061）分析及自查脚本",
+        "url": "https://mp.weixin.qq.com/s/nd5Gcu3Ju1wqO-HScl4vKw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
