@@ -310,5 +310,11 @@
         "url": "https://mp.weixin.qq.com/s/28bnLQdXMb2mP85T9BTEjw",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "【漏洞通告】Microsoft Office 安全特性绕过漏洞(CVE-2026-21509)",
+        "url": "https://mp.weixin.qq.com/s/nTKt2muSh2MBMqLShNm5Og",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
