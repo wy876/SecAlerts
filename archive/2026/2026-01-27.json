@@ -436,5 +436,29 @@
         "url": "https://mp.weixin.qq.com/s/9841JG7DgJeGKPfVaje6fA",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "工具推荐 | TsojanScan v2.0：BurpSuite 2026版专属漏洞扫描插件",
+        "url": "https://mp.weixin.qq.com/s/R5d_gcewBpWi9q2L56gvUw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "CVE-2026-24061 漏洞检测与利用GUI工具（1月26日更新）",
+        "url": "https://mp.weixin.qq.com/s/GBjU__UOBuKazRCqMXnN4Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "物理访问系统漏洞敞开欧洲大型公司的大门",
+        "url": "https://mp.weixin.qq.com/s/n0TQiM2C-rDLAWYYCLZ-Gg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "【高危漏洞预警】Microsoft Office安全功能绕过漏洞(CVE-2026-21509)",
+        "url": "https://mp.weixin.qq.com/s/jI5k-Q5rQWULYum_53z0Qw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
