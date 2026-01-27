@@ -316,5 +316,23 @@
         "url": "https://mp.weixin.qq.com/s/nTKt2muSh2MBMqLShNm5Og",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "Tomcat CVE-2025-24813远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/CnhHtqc8mVGaCqSsrxn9Vw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "感谢信 | 国舜科技风险评估及渗透测试服务能力获齐鲁银行认可",
+        "url": "https://mp.weixin.qq.com/s/w088UUZd2RwEIt9NhU4P5A",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.1.19-2026.1.25",
+        "url": "https://mp.weixin.qq.com/s/r_j8SXaRUQnb9T1lARrFaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
