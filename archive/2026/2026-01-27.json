@@ -346,5 +346,35 @@
         "url": "https://mp.weixin.qq.com/s/nd5Gcu3Ju1wqO-HScl4vKw",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "AstrBot任意文件读取漏洞漏洞详细分析及复现（CVE-2025-48957）",
+        "url": "https://mp.weixin.qq.com/s/nzbuLKFEZfx6Q8P2XO04jw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "自动化工具来袭：一键挖掘企业APP资产，提升渗透测试效率",
+        "url": "https://mp.weixin.qq.com/s/qeDwLHCKDDEqTvPiVs8eaA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "微软紧急修复已遭利用的 Office 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/xHwT8bJqGVbRaVR5qmXUlQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "记某edusrc通杀漏洞思路分享",
+        "url": "https://mp.weixin.qq.com/s/BP_vqp8CqTo43gK0b_WlZA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "“零点击”实现数据窃取！警惕Superhuman AI漏洞让邮件成为黑客入口",
+        "url": "https://mp.weixin.qq.com/s/ZvIrk3cgKs6491cLxYzxgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
