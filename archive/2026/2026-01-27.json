@@ -286,5 +286,29 @@
         "url": "https://mp.weixin.qq.com/s/qemXzyoh9m893qgEFjeJtA",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "颠覆传统的代码审计利器",
+        "url": "https://mp.weixin.qq.com/s/G3U7Rqh9U9JO1bxL-b6LXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "EDUSRC-支付类漏洞思路合集（包括证书，小通杀等实例）",
+        "url": "https://mp.weixin.qq.com/s/iADJW5VlR1oWh5oaP9XaNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "利用一个spel漏洞点测试一下自己内存马查杀工具的强度",
+        "url": "https://mp.weixin.qq.com/s/x5VdCVoT_N5NxUjx0jefyQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
+    },
+    {
+        "title": "skill  + lsp  +opencode代码审计工具思路",
+        "url": "https://mp.weixin.qq.com/s/28bnLQdXMb2mP85T9BTEjw",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
