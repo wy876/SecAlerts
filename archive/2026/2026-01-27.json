@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s/GyN4XIH5dxuA_496pD-Vbw",
         "source": "Doonsec",
         "date_added": "2026-01-27"
+    },
+    {
+        "title": "Radware 披露 “ZombieAgent” 漏洞：一种可实现系统静默接管与云端数据窃取的新型零点击AI智能体漏洞",
+        "url": "https://mp.weixin.qq.com/s/qemXzyoh9m893qgEFjeJtA",
+        "source": "Doonsec",
+        "date_added": "2026-01-27"
     }
 ]
