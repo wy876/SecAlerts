@@ -250,5 +250,47 @@
         "url": "https://mp.weixin.qq.com/s/nzoKuqfTNJeUbpKpnAb7yw",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "CNNVD关于Microsoft Office安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/l0R0GIMya6BbU5PxxIikpw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第4期）",
+        "url": "https://mp.weixin.qq.com/s/AJwltUhbzov3UGV9zeEunA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "补天春节快闪！速来⏳10个漏洞轻松赢礼盒，限时掉落！",
+        "url": "https://mp.weixin.qq.com/s/7_MGwnpQeYz0E5PaWiIa_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Pwn2Own Automotive 2026 落幕：76 个零日漏洞被攻破，研究人员斩获百万美元奖金",
+        "url": "https://mp.weixin.qq.com/s/pLQvtiJsU7uhrDbOkin93Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "CIA的温和提取术，揭秘特工对话渗透训练课程",
+        "url": "https://mp.weixin.qq.com/s/eTcW1Mi8z2ER8ldQteqa-A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "存储桶遍历漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/exmxB6xPaw-gmPLiRBMfsA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
+        "url": "https://mp.weixin.qq.com/s/Qmw1gRX7uIMGWW-6rtjChA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
