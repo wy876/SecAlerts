@@ -298,5 +298,29 @@
         "url": "https://mp.weixin.qq.com/s/jhNXCX65mxhZwLpMs_i5CA",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "重磅！GPT-5.2 可量产零日漏洞，网安再迎大挑战",
+        "url": "https://mp.weixin.qq.com/s/zAUr-NPGqR6KnmAjHbtOoQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "vm2沙箱逃逸漏洞分析（CVE-2026-22709）",
+        "url": "https://mp.weixin.qq.com/s/JaE-vEftXIgj5ScCCYycoQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【已复现】SmarterTools SmarterMail 远程代码执行漏洞(CVE-2026-24423)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/6tC2qMD1gLdMNexaXl-Nfg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【在野利用】Fortinet 多款产品身份认证绕过漏洞(CVE-2026-24858)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/8jTU9WKQ2FSkDGUL-OFIhg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
