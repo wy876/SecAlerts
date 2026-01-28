@@ -1,0 +1,158 @@
+[
+    {
+        "title": "泛微E-Mobile 远程命令执行漏洞（RCE）附POC",
+        "url": "https://mp.weixin.qq.com/s/VqpjysrRYKu_1TE4VfRm1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【漏洞速递】CVE-2026-21859漏洞",
+        "url": "https://mp.weixin.qq.com/s/nuxjYrZbgVTPy58xdx0bEA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "CSRC开年首测 | 漏洞奖金翻倍，专享新年礼盒！",
+        "url": "https://mp.weixin.qq.com/s/ylNJ77YEdlpl-U7gk1IGnA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "网安实验干货命令执行之DVWA-0128",
+        "url": "https://mp.weixin.qq.com/s/WIEtWZyMqxzgNW1aFF4HDg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元",
+        "url": "https://mp.weixin.qq.com/s/woNLuGMPrM_5F8HpmO2hcw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "ClickHouse 数据库渗透及攻防指南",
+        "url": "https://mp.weixin.qq.com/s/Hh6fZ-euxWOfk5nX9hJqMg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维管理系统 set_port 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/4YRolVCvG_2_GfYkI_vEGw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【项目实战】复盘 Dify 系统的“组合拳”漏洞",
+        "url": "https://mp.weixin.qq.com/s/CmokvAeRewf4KxpNHJUZiQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "NVIDIA CUDA Toolkit 爆出 4 个高危漏洞：命令注入、任意代码执行，AI 服务器也不安全了",
+        "url": "https://mp.weixin.qq.com/s/OoGpounyOGkUMrIY0aaAGg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Chainlit 被曝访问控制漏洞：已登录用户可非法查看并劫持他人对话线程（CVE-2025-68492）",
+        "url": "https://mp.weixin.qq.com/s/faKdjbNuYACqb7mjaxnqcg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Kubernetes 中的 node/proxy GET 权限漏洞：实现远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/uT4Em7_AHzKYeuLpDaZGYQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "路由器入侵：TP-Link Archer MR600 路由器存在高危命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Fbr-OCTwVVxTKkgYmrsqvQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "基于DeepSeek的代码审计工具 (Ai-SAST-tool.xjar)",
+        "url": "https://mp.weixin.qq.com/s/M5myeLRfPPHFNyT7LXC1bQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "门禁系统“全面失守”：研究揭示高端门控系统存在一系列致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/7S1o1kA5Y3EqT-y-FS3t1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "WinRAR路径遍历漏洞在野利用",
+        "url": "https://mp.weixin.qq.com/s/mpNfcgbpEGgTUtuNFm3_YA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "利用飞塔  FortiCloud SSO 零日漏洞的攻击持续在野，亟待补丁发布",
+        "url": "https://mp.weixin.qq.com/s/uHGfjznTkElVsG0iucMkgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "IM即时通讯系统 fileupload.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/8pyggy-68CTmtE4G3GB9cA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Kubernetes 中的 node/proxy GET 权限漏洞：实现远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/VnQb3w26nMFetG8Zgtu54g",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞预警 | TP-LINK TL-WR940N V6拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s/zk_Btg9EAZEP0zm0feQMCg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MASvziQWKRixfxih2kKo0Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MDnWcJfQps02tIUOa7BNuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "GUI | CVE-2026-24061  telnetd 身份验证绕过漏洞检测与利用工具",
+        "url": "https://mp.weixin.qq.com/s/_YGXthMXSd4ch6fM1-crbQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "CVE-2025-24305 深度解析：一个可植入无法清除后门的固件层缺陷",
+        "url": "https://mp.weixin.qq.com/s/Ch0sFpFick9QmXesSYkfgg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "上传代码即审计：AI 驱动的自动化漏洞挖掘与 POC 验证平台",
+        "url": "https://mp.weixin.qq.com/s/za737nF_cxMKW8jdivxFRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞挖掘 | 绕过日志记录进行敏感操作",
+        "url": "https://mp.weixin.qq.com/s/ZShQ39Hme_rDg0AqjvMSmA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Telnet漏洞或影响全球80万台设备，IoT/OT设备会很受伤！",
+        "url": "https://mp.weixin.qq.com/s/7OSxqs48F0O8ytYKgNJFyA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    }
+]
