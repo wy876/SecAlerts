@@ -406,5 +406,47 @@
         "url": "https://mp.weixin.qq.com/s/0c7_Ds3Bcgz7PwzME5DNmg",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "【工具分享】VueCrack-检测VUE站点未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/ud6BcYm9j5Vm3XmHn4w98Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【安全圈】谷歌警告WinRAR必须更新！漏洞正被黑客疯狂利用：已有大量用户中招",
+        "url": "https://mp.weixin.qq.com/s/n4TpIfIF7562iPAqDtzcUQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【安全圈】Office漏洞正被黑客大量利用！2016、2019、2021、365全中招",
+        "url": "https://mp.weixin.qq.com/s/ucMp6VaU3qmXdvasx9W-dA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【已复现】SmarterMail存在远程代码执行漏洞（CVE-2026-24423）",
+        "url": "https://mp.weixin.qq.com/s/_YnrZtFBW5f4kwm9nwuAaA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "攻击者利用React2Shell漏洞针对IT行业发起攻击",
+        "url": "https://mp.weixin.qq.com/s/q_qiAGaENw5_RPqaJPUzQQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/UvrEdy4VviHkdfYaJ3VK9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "热门 NodeJS 库 vm2中存在严重的沙箱逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s/C54Q6HmzJThnc9f_jkgl5A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
