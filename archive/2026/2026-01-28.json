@@ -496,5 +496,11 @@
         "url": "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "腾达Tenda 路由器存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/0ELPiwYJSI_aduU2lly2YA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
