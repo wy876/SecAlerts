@@ -154,5 +154,101 @@
         "url": "https://mp.weixin.qq.com/s/7OSxqs48F0O8ytYKgNJFyA",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.1.19-2026.1.25",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503700&idx=1&sn=291040c751308c295b6f74a5b544c846",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [2025年新增漏洞5万个，公开遭到利用的不足千个",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515511&idx=1&sn=fae2eb853370c6ec1a091657183fc575",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [微软紧急修复已遭利用的 Office 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524977&idx=1&sn=60a6766757d720c5fdd8346ba3b98c0b",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [初识IO_FILE Exploitation",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608741&idx=1&sn=432dff90252a270f0d35e2d76e0e2b78",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [【在野利用】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504534&idx=1&sn=b1d383f36870389f1d3f5756013896f9",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [【活动】通用漏洞全年3倍奖励，百万奖金持续悬赏！！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850450&idx=1&sn=f643efa9414dfb921586ca27e5c7f3f7",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [某小程序rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498970&idx=1&sn=5b7bb9540772df10eed8edad620ee479",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第3期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501163&idx=1&sn=5974e326145ca843bf2705f43f40dc28",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【已复现】Node.js 生态主流沙箱组件 vm2 存在逃逸漏洞（CVE-2026-22709），每周下载量近百万",
+        "url": "https://mp.weixin.qq.com/s/pEyd5xiKBvWfehwcASx5rA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Microsoft Office 高危漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s/lM0dxCitC2c-Ncq_85j4OA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "半自动化渗透？？",
+        "url": "https://mp.weixin.qq.com/s/PY8DbOfj5Qjge4WXm-wQWA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "基于大模型的代码审计与漏洞挖掘实战项目",
+        "url": "https://mp.weixin.qq.com/s/4hZPPjho41RtrSRUzu8kXQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "明源地产ERP MyPub_XMLHTTP.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/2aenwppwEtpBzaphxUBKsw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞验证-铭飞CMS cms/category/list接口存在SQL注入(CVE-2022-4375)",
+        "url": "https://mp.weixin.qq.com/s/IaITeh_pR5ok_3Ks5nCa_w",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【CVE-2026-24061】GNU telnetd 致命认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/YimGNyQ5I0tZw0DQn53D7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "漏洞验证-明源地产ERP存在身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/nzoKuqfTNJeUbpKpnAb7yw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
