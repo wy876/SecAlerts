@@ -322,5 +322,41 @@
         "url": "https://mp.weixin.qq.com/s/8jTU9WKQ2FSkDGUL-OFIhg",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "CNNVD通报Microsoft Office安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/fe2fFRiNAY92ky95r1mB8A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "ThinkPHP框架代码审计",
+        "url": "https://mp.weixin.qq.com/s/qLpFDWShSIgR-Bl_UTNL6w",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "渗透攻击超强汇总！（非常详细）",
+        "url": "https://mp.weixin.qq.com/s/gc8AiU4XVkCM46tSAGmB3Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "新手学漏洞挖掘（零基础友好）：要掌握什么技能？去哪挖？怎么挖？",
+        "url": "https://mp.weixin.qq.com/s/GaLGLoWlfBGS-32KFwV6vQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【漏洞通告】vm2 沙箱逃逸漏洞(CVE-2026-22709)",
+        "url": "https://mp.weixin.qq.com/s/KlPdc9KOnNzKQjPebrEr1w",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【漏洞通告】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)",
+        "url": "https://mp.weixin.qq.com/s/mR57nkqrtbqD0G-cXk-izQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
