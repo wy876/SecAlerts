@@ -358,5 +358,53 @@
         "url": "https://mp.weixin.qq.com/s/mR57nkqrtbqD0G-cXk-izQ",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "热门包管理器中存在多个漏洞，JavaScript 生态系统易受供应链攻击",
+        "url": "https://mp.weixin.qq.com/s/gjjfGp9QVwKHlEDC1l-u-w",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "CNNVD | 关于Microsoft Office安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/6LQcnK2c0amgTIphxapOGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "81%中高危漏洞！360年度漏洞报告出炉：攻防进入AI时代",
+        "url": "https://mp.weixin.qq.com/s/h5waTEkozhvadR_0-KJS9w",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "1700 万美元闭源智能合约攻击事件：SwapNet 与 Aperture Finance 的任意调用漏洞",
+        "url": "https://mp.weixin.qq.com/s/QbtDqF_twQvmPQ1SV2E9nw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "周六19点 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播",
+        "url": "https://mp.weixin.qq.com/s/QdK2aQiUkhPgO4bAmss1lQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "上海驻场安服岗｜3-5 年网安经验 + 3 + 金融渗透项目 急聘",
+        "url": "https://mp.weixin.qq.com/s/4yYrsSen_LnzR7764fGZ5A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Oracle WebLogic Server Proxy Plug-in身份认证绕过漏洞（CVE-2026-21962）的风险预警",
+        "url": "https://mp.weixin.qq.com/s/vNM0eM8tcxJlxV-X927vDw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Microsoft Office 安全功能绕过漏洞预警（CVE-2026-21509）",
+        "url": "https://mp.weixin.qq.com/s/0c7_Ds3Bcgz7PwzME5DNmg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
