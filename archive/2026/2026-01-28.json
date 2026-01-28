@@ -478,5 +478,23 @@
         "url": "https://mp.weixin.qq.com/s/bFcBGQbBXe0lxFTaPXsotw",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "注册功能漏洞检查清单",
+        "url": "https://mp.weixin.qq.com/s/23f7itDcmeDixxIF9ZTtsQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站",
+        "url": "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)",
+        "url": "https://mp.weixin.qq.com/s/EUhJqOlATFvX8EabSTtF9Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
