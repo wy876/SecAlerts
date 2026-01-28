@@ -448,5 +448,17 @@
         "url": "https://mp.weixin.qq.com/s/C54Q6HmzJThnc9f_jkgl5A",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "【玄域】Web/安卓/苹果渗透靶场 | 实战漏洞报告 | 面试刷题 | 企业真实漏洞案例",
+        "url": "https://mp.weixin.qq.com/s/QnUfMGmhb53L0DWOU9uLxA",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【接口漏洞第八章第八节】攻防升级：实战绕过GraphQL内省防御机制",
+        "url": "https://mp.weixin.qq.com/s/_3CJhF9n2vh9tGWPLmKqBg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
