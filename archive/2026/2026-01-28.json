@@ -502,5 +502,35 @@
         "url": "https://mp.weixin.qq.com/s/0ELPiwYJSI_aduU2lly2YA",
         "source": "Doonsec",
         "date_added": "2026-01-28"
+    },
+    {
+        "title": "OpenSSL中已修复高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/5vYMRLYE_Y3UoxST9DAKZw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "工具推荐 | SwaggerHound自动化检测 Swagger API 接口未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/5CwxcNPSXjUZydxWsVLdPg",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "Windows 电话服务远程代码执行漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/ytqmfXv4ZiQnvVro0wd4pw",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "【工具】PentestAgent：利用 AI 助力渗透测试的开源武器",
+        "url": "https://mp.weixin.qq.com/s/b_HGtmoBM3oeO1o0VCG39g",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
+    },
+    {
+        "title": "QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/vjQ2lGVNCMhMNWU4pw6U1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-28"
     }
 ]
