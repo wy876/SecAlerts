@@ -292,5 +292,17 @@
         "url": "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "CVE-2025-39566 sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "靶机渗透-DC2",
+        "url": "https://mp.weixin.qq.com/s/6MKy3FJfAgpy0oFZVWoYLw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
