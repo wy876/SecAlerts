@@ -1,0 +1,152 @@
+[
+    {
+        "title": "KaliGPT-Attack自动化渗透测试工具实操指南：硬件配置+搭建步骤全解析",
+        "url": "https://mp.weixin.qq.com/s/6zdcj1_bNzA0mYFoE1beNA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "大华DSS平安城市 login_getPasswordErrorNum.action SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/eI1Gpa6GllOnokinRO9ZeQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "网安靶场实战指南（第4期）：OWASP Juice Shop入门——前后端分离架构下的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/GnNxQ29vqFVV43h0CTz5VQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【SRC实战】某EDU SRC站点的一次渗透过程",
+        "url": "https://mp.weixin.qq.com/s/8dEuXFKzYvkrfosV2tHATQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "漏洞复现 | 百卓Smart管理平台 licence.php 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/oHYB4dC3Wf5yTeI_gLGKiw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "谷歌关于多个威胁行为者利用 WinRAR 严重漏洞 CVE-2025-8088 进行攻击分析",
+        "url": "https://mp.weixin.qq.com/s/ZyVVh1BQNOO_fEDtc7Qjqw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "ChatGPT新漏洞可让攻击者窃取谷歌邮箱、微软邮箱及代码托管平台数据",
+        "url": "https://mp.weixin.qq.com/s/xii-VrzNF6wZe84fkdRU-w",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "网安实验干货每日分享S2-053远程代码执行漏洞-0129",
+        "url": "https://mp.weixin.qq.com/s/WIg-z4De3SbjYDlXXKHHHA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "文章点赞漏洞",
+        "url": "https://mp.weixin.qq.com/s/miCQivLf_ypq7xFXDFwc6A",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "多客圈子论坛系统任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/Gl8BUqwPnZ-nkJrAvya1lg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
+        "url": "https://mp.weixin.qq.com/s/4GZ9Pj1pm8-ObSbh8OcaxQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Fortinet 修复了 CVE-2026-24858 漏洞，此前检测到 FortiOS SSO 漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/wJPCkHgw-3hiNsrwkOgIwQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "台达 PLC 被曝 3 个“9 分级”严重漏洞：真危机，还是被夸大的恐慌？",
+        "url": "https://mp.weixin.qq.com/s/ErjvCAVgjBYuRB3Rt1rQ0A",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【JAVA代审】CordysCRM代码审计",
+        "url": "https://mp.weixin.qq.com/s/iNpjFiTuKqLy5wRozQXjsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "CVE-2025-14988：ibaPDA 工业软件存在严重 9.8 级漏洞",
+        "url": "https://mp.weixin.qq.com/s/I0byVZlQfTfzvhavWqBwJA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Telnet漏洞或影响全球80万台设备，IoT/OT设备会很受伤！",
+        "url": "https://mp.weixin.qq.com/s/Iy8Np2aPfREuAuo_xSa_fw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "锐明技术Crocus系统 Upload存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/YK1BS7kNg83t35JV8lQk_g",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Chrome 144版本发布：修复10项安全漏洞，并修补V8引擎的危险缺陷",
+        "url": "https://mp.weixin.qq.com/s/07mFCKRNe18Tfc2RDZXNDg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。",
+        "url": "https://mp.weixin.qq.com/s/xesZ3Q6C3s0guPqB3IX4pg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "SpearX - 安全渗透工具箱框架 | 现代化工具管理神器",
+        "url": "https://mp.weixin.qq.com/s/mdLz1Oy_vZZomWJ6kmqudw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【深度解析】VulnHunter - AI 漏洞猎人v6.0漏洞扫描工具：功能全、速度快、操作简，安全测试的终极解决方案",
+        "url": "https://mp.weixin.qq.com/s/1YR6HLXgk4pSrgbfcoGyRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "2025年度网络安全漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/xEvSR7BXqajut0DnzF5U4w",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "漏洞预警 | vLLM远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kfn-epmorp1Yz741OdU4gg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "漏洞预警 | 英赛特互联网客户服务平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/QWEx4DuMWJXVuJE5M9DxFw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/xuWr51zaJIBxT3Z_V-M_-Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    }
+]
