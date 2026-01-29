@@ -388,5 +388,35 @@
         "url": "https://mp.weixin.qq.com/s/KITS6gt3otKeD0RvuB-99g",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解",
+        "url": "https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "严重OpenSSL漏洞可使远程攻击者执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Chrome安全更新修复Background Fetch API中的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【安全圈】PyTorch \\\"安全\\\"模式被严重RCE漏洞攻破，可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+        "url": "https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
