@@ -430,5 +430,23 @@
         "url": "https://mp.weixin.qq.com/s/JMG7EKojGxuERfZce_Perg",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "NeuroSploit 架构分析：AI驱动的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s/RIemvieVgKLhMl2JU1oS7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "AI在渗透测试中的应用案例三则",
+        "url": "https://mp.weixin.qq.com/s/RpxKwJ8Klr4E2tGBQon73g",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【高危漏洞预警】OpenSSL CMS AuthEnvelopedData栈缓冲区溢出漏洞(CVE-2025-15467)",
+        "url": "https://mp.weixin.qq.com/s/QPCJeKRVghy2fnNgq_Q4Yg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
