@@ -454,5 +454,47 @@
         "url": "https://mp.weixin.qq.com/s/WbRrARZWr_wkygZjyTS3TA",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "九思OA软件jsoa/wap.do存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/PIZ9vC4Q7g4u3H8XyGIANg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【内网渗透】票据传递基础-1",
+        "url": "https://mp.weixin.qq.com/s/Ya9TXWM2Lgl3nzc7vCTNEg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "基于 LLM 多 Agent 的全流程漏洞挖掘系统，已挖数十个真实漏洞",
+        "url": "https://mp.weixin.qq.com/s/9ReeaEdtnwoWDU4xi4HooQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "一个基于LLM的多Agent全流程漏洞挖掘项目",
+        "url": "https://mp.weixin.qq.com/s/_TEUKJ3O2Y0ur4Ow7Utacw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Burp未授权漏洞自动检测插件 -- Unauthorized_Scan（1月27日更新）",
+        "url": "https://mp.weixin.qq.com/s/Bz_pQpEUUsfVLOBpD9ADgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "GitLab警告：存在高危双因素认证绕过和拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s/k2QSNDtAPsU8MqWW2fAVVA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "太阳风 SolarWinds警告称Web帮助台存在严重的远程代码执行和身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Nwnwt8v2OGEBAjOo1GXQkQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
