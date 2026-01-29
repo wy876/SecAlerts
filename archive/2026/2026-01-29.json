@@ -148,5 +148,137 @@
         "url": "https://mp.weixin.qq.com/s/xuWr51zaJIBxT3Z_V-M_-Q",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [热门包管理器中存在多个漏洞，JavaScript 生态系统易受供应链攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524984&idx=1&sn=19aef4ce8e288278782458e430a710d8",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [热门 NodeJS 库 vm2中存在严重的沙箱逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524984&idx=2&sn=e5fceae455445bc2b4660ccfb24127dd",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [基于DeepSeek的代码审计工具 (Ai-SAST-tool.xjar)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485968&idx=1&sn=074cf0988ac928769975ca76f04dc391",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [【已复现】SmarterTools SmarterMail 远程代码执行漏洞(CVE-2026-24423)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504548&idx=1&sn=3ec06d42760edb5b95e85ea6888dae63",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [【在野利用】Fortinet 多款产品身份认证绕过漏洞(CVE-2026-24858)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504548&idx=2&sn=82db7c283ba71172c1615913d7671f48",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [【安全圈】谷歌警告WinRAR必须更新！漏洞正被黑客疯狂利用：已有大量用户中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073891&idx=1&sn=5a28b35ef1f9877f68769c480ec7c614",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [【安全圈】Office漏洞正被黑客大量利用！2016、2019、2021、365全中招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073891&idx=2&sn=37b25475a55602fcc0f9d4adb0230448",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [补天春节快闪！速来⏳10个漏洞轻松赢礼盒，限时掉落！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510181&idx=1&sn=0a0f911338d32b56abb675f7cac32e68",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [CNNVD | 关于Microsoft Office安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258292&idx=2&sn=b7765078147d374971d27457ccee4f3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [周六19点 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608753&idx=2&sn=9a4513bbabaae7ccc05bd7139de32feb",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [Pwn2Own Automotive 2026 落幕：76 个零日漏洞被攻破，研究人员斩获百万美元奖金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586526&idx=2&sn=d2ab675855e8ce84afaf88acbcb53c9d",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [【漏洞通告】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525003&idx=1&sn=86cbde8e44b1d3c4a12735928ef89679",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "] [81%中高危漏洞！360年度漏洞报告出炉：攻防进入AI时代",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584705&idx=1&sn=4905d62688a89808180dfa7a486de44f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "国家漏洞库CNNVD：关于Microsoft Office安全漏洞的通报；韩国公共系统全面沦陷：模拟攻击揭示安全防护重大缺陷| 牛览",
+        "url": "https://mp.weixin.qq.com/s/mLIvzi12Xq7mosK-FJD8TQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Fortinet 多款产品身份认证绕过漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/6-C42MFfxzG8jlJXIpTKiA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Shiro漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/eUxcfvTsRbed0qJ0cIencg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "年度报告 | 2025年漏洞态势全景复盘！",
+        "url": "https://mp.weixin.qq.com/s/NeNJMvrTvgHMXEgw75hUZg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "颠覆传统的代码审计利器",
+        "url": "https://mp.weixin.qq.com/s/g56NOC7Vmch2ml49a8velA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "强推一个永久的渗透测试知识库",
+        "url": "https://mp.weixin.qq.com/s/dyfSpHiYsYDkv6YrF_69oA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "CyberArk 开源 FuzzyAI：一键自动化检测大模型\\\"越狱\\\"漏洞，支持 20+ 攻击手法",
+        "url": "https://mp.weixin.qq.com/s/HjNCHt-G-XcI9h9u6WF06w",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Grist-Core 严重漏洞允许通过电子表格公式进行远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/SB2P0wdu5awWNwHbidMUbg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【红队】一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具",
+        "url": "https://mp.weixin.qq.com/s/3ZhwFa2wDG9FNN6CkwEo-g",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
