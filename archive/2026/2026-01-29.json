@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s/3ZhwFa2wDG9FNN6CkwEo-g",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "AI在渗透测试中的应用案例三则",
+        "url": "https://mp.weixin.qq.com/s/6ArrBa4PmgSswGrmU253LA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Redis 远程代码执行漏洞（CVE-2025-49844）",
+        "url": "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
