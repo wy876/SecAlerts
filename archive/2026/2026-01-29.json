@@ -448,5 +448,11 @@
         "url": "https://mp.weixin.qq.com/s/QPCJeKRVghy2fnNgq_Q4Yg",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "利用 NTLM 反射掌控 Active Directory（CVE-2025-33073）",
+        "url": "https://mp.weixin.qq.com/s/WbRrARZWr_wkygZjyTS3TA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
