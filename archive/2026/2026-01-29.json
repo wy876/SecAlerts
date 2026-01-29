@@ -304,5 +304,83 @@
         "url": "https://mp.weixin.qq.com/s/6MKy3FJfAgpy0oFZVWoYLw",
         "source": "Doonsec",
         "date_added": "2026-01-29"
+    },
+    {
+        "title": "PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发",
+        "url": "https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【论文推荐】大模型组队挖掘0day，成功率竟然远超专业工具？",
+        "url": "https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Gemini MCP 曝高危零日漏洞 允许远程攻击",
+        "url": "https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现)",
+        "url": "https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "密码重置漏洞挖掘指南：从原理到实战的完整路径",
+        "url": "https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "n8n 两个高危漏洞可导致认证RCE",
+        "url": "https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "Fortinet 修复已遭利用的严重 FortiOS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【论文速读】| VulnResolver：一款基于大语言模型的自动化漏洞修复混合智能体框架",
+        "url": "https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "路由器安全研究｜D- Link DIR-823G v1.02 B05 复现与利用思路",
+        "url": "https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067）",
+        "url": "https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
+    },
+    {
+        "title": "【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A",
+        "source": "Doonsec",
+        "date_added": "2026-01-29"
     }
 ]
