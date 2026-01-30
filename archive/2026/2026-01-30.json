@@ -208,5 +208,83 @@
         "url": "https://mp.weixin.qq.com/s/atBOIlZNg_2veun8r9Inrw",
         "source": "Doonsec",
         "date_added": "2026-01-30"
+    },
+    {
+        "title": "GNU Inetutils Telnetd 认证绕过漏洞检测工具（CVE-2026-24061）1月28日更新",
+        "url": "https://mp.weixin.qq.com/s/BQ_ODcsJyCHurVeZl4bR5Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "【高危漏洞预警】WinRAR 存在目录穿越漏洞（CVE-2025-8088），CVSS 评分高达 8.4",
+        "url": "https://mp.weixin.qq.com/s/BWKv_9AQ7nVNr3Ab19LQzw",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "通过沙箱逃逸在 n8n 上实现远程代码执行 - CVE-2026-1470 和 CVE-2026-0863",
+        "url": "https://mp.weixin.qq.com/s/lWrMvRHJz7XZFILqV-Pvyg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "Tmall_demo商城代码审计",
+        "url": "https://mp.weixin.qq.com/s/6bMHsjV5ubCPfc8UNXZ18g",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "【成功复现】GNU InetUtils Telnetd远程认证绕过漏洞(CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/ccRgt_BuyJ9O0dDai4UIkg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "超干干货！后台未授权访问漏洞实例分享",
+        "url": "https://mp.weixin.qq.com/s/sKpF5ql2hLpILwq9Qr3TNQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "CVE-2022-4223 pgAdmin = 6.16 未授权命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/PM-8fL98qmAVM0c1qJ_hlA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "【免费领】Android系统漏洞实战权威教程",
+        "url": "https://mp.weixin.qq.com/s/L0AWjlbg7sqQxum0jes6RA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "登录界面的20种渗透思路 —— 图文解析",
+        "url": "https://mp.weixin.qq.com/s/7kIGI5CyfDr8vBl_3Yfm7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "安全热点周报：微软 Office 零日漏洞允许恶意文档绕过安全检查",
+        "url": "https://mp.weixin.qq.com/s/cxomVcO87VA7Pr6UjdHzaw",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "高危！SolarWinds 紧急修复 Web Help Desk 四大漏洞",
+        "url": "https://mp.weixin.qq.com/s/4LYxZRiLGu2zrAFLOgvddA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "TP-Link Archer MR600 v5 命令注入漏洞预警（CVE-2025-14756）",
+        "url": "https://mp.weixin.qq.com/s/QekrIfYWGua9XwAfhAketg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "【漏洞通告】OpenSSL CMS模块栈缓冲区溢出漏洞(CVE-2025-15467)",
+        "url": "https://mp.weixin.qq.com/s/dD_yVeeSYYpwmeB2krakvg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
     }
 ]
