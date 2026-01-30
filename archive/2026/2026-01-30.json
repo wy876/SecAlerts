@@ -286,5 +286,23 @@
         "url": "https://mp.weixin.qq.com/s/dD_yVeeSYYpwmeB2krakvg",
         "source": "Doonsec",
         "date_added": "2026-01-30"
+    },
+    {
+        "title": "奇安信获NVDB-CAVD年度优秀技术支撑单位 10项原创漏洞证书彰显车联网安全实力",
+        "url": "https://mp.weixin.qq.com/s/Ue5qSeokPG4SokP7_bBOwA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "Ivanti 提醒注意已遭利用的两个 EPMM 漏洞",
+        "url": "https://mp.weixin.qq.com/s/JQSEeUSpiAg2yrtmGDuuIQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "SolarWinds 修复四个严重漏洞，可导致未认证RCE和认证绕过",
+        "url": "https://mp.weixin.qq.com/s/SzVM74aihSiJSGP684TChA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
     }
 ]
