@@ -64,5 +64,125 @@
         "url": "https://mp.weixin.qq.com/s/4W102UsYVk2AnXmgf8qcJw",
         "source": "Doonsec",
         "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [n8n 两个高危漏洞可导致认证RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524999&idx=1&sn=29baedb21e9e4bef4466b10bc66abcde",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [Fortinet 修复已遭利用的严重 FortiOS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524999&idx=2&sn=ff036e0f85b25e6ee0f685062e7a537f",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [G.O.S.S.I.P 阅读推荐 2026-01-29 超越答案正确性：揪出大模型推理回复中的“隐性逻辑漏洞”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501360&idx=1&sn=7483d15098ee377f789328685b925985",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073915&idx=3&sn=ad2665e9be5ec05d1f5f1bcdabcfa2d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073915&idx=4&sn=cc70511df2d49f4ff6dd41538bf3b02a",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [ChatGPT新漏洞可让攻击者窃取谷歌邮箱、微软邮箱及代码托管平台数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485970&idx=1&sn=5ebed8531e7d650a2b17b9dbff4497a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [年度报告 | 2025年漏洞态势全景复盘！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504619&idx=1&sn=2b304680299a0a0b75bfeddca8b596ac",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [国家漏洞库CNNVD：关于Microsoft Office安全漏洞的通报；韩国公共系统全面沦陷：模拟攻击揭示安全防护重大缺陷| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140373&idx=2&sn=b1916017fe472a1a4bc6b0f817c69ea8",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608775&idx=2&sn=d7c9a376e077cb25a0ac432f8b6eb448",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "] [CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608775&idx=3&sn=9f868b248a90e9f4119d7b6f76803edd",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "攻防失衡、跨域渗透、合规承压？AI 时代反勒索的核心难题与破解",
+        "url": "https://mp.weixin.qq.com/s/sbebVr_RJGAl4PprxyZ9qQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "某国企招聘 | 十项网络安全职位：涉渗透测试、威胁监测、样本分析、系统架构等，欢迎投递！",
+        "url": "https://mp.weixin.qq.com/s/rShQjp1A4s3kTLMWyRhkRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "端口没开也能激活+rce？ebpf/XDP 内核级隐蔽后门原理剖析",
+        "url": "https://mp.weixin.qq.com/s/ParjTWUdruIZtucozNtzpg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "【已复现】Dokploy 命令注入漏洞（CVE-2026-24841）",
+        "url": "https://mp.weixin.qq.com/s/EnLuZC0En6CakfjphUvV6g",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "北京快手招聘：客户端漏洞挖掘工程师（安全蓝军）",
+        "url": "https://mp.weixin.qq.com/s/gkTYdxftr88P1QFYF4oPLA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "工信部致谢！360荣膺“优秀技术支撑单位”并获颁原创漏洞证书",
+        "url": "https://mp.weixin.qq.com/s/u86IWqfZSyBpw0UtOEGa6w",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "网安靶场实战指南（第5期）：OWASP Juice Shop进阶——API注入+文件漏洞+第三方组件风险",
+        "url": "https://mp.weixin.qq.com/s/6rLluYeTtz6dr5jP1DVPKA",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "FakeCryptoJS - 渗透测试中的加密分析神器",
+        "url": "https://mp.weixin.qq.com/s/hsIGJGpIPs2dYP6FW2fzsg",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "NestJS Devtools 远程命令执行漏洞(CVE-2025-54782)",
+        "url": "https://mp.weixin.qq.com/s/riytASFc-80HU5mOKmEQ_Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
+    },
+    {
+        "title": "网安实验干货每日分享Spring WebFlow 远程代码执行漏洞（CVE-2017-4971）-0130",
+        "url": "https://mp.weixin.qq.com/s/dzszjP4CamZTBSEek8D_lQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-30"
     }
 ]
