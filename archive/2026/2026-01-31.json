@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "AutoPentestX – Linux 自动化渗透测试和漏洞报告工具",
+        "url": "https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "LeakDetector 是一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。",
+        "url": "https://mp.weixin.qq.com/s/nuLkCx5M9WwcVRJHS3-Daw",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设",
+        "url": "https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
