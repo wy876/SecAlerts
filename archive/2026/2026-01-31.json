@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s/CAP2D7-hllhK9dbYFFhxuw",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告",
+        "url": "https://mp.weixin.qq.com/s/jAmkGeE0nCzTyHxNMafv1A",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail",
+        "url": "https://mp.weixin.qq.com/s/ymGCtFaI8bU5XLBK1QMpOA",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "JWT：渗透测试姿势全解析（含实战）",
+        "url": "https://mp.weixin.qq.com/s/el__Ih_587ALW3xDQaf_jQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
