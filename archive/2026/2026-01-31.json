@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/yoilGdO5F2sObg94a6KzgQ",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "网络安全新挑战：红队视角下的域渗透与横向移动策略",
+        "url": "https://mp.weixin.qq.com/s/VZXTt0oqH5uO0S4o_uPDnQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "登录框常见漏洞测试方法",
+        "url": "https://mp.weixin.qq.com/s/m3eOheTYF-g0-VJZehupuA",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
