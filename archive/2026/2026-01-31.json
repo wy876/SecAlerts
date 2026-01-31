@@ -82,5 +82,23 @@
         "url": "https://mp.weixin.qq.com/s/ZZ8YKMKQr8QKI_wGd0IIzw",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "从 Vite 漏洞联想到 Flarum Less RCE",
+        "url": "https://mp.weixin.qq.com/s/yvtaC_GRTHyN7hzrJ7CFPA",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "渗透测试人员必备武器库：子域名爆破、漏洞扫描、内网渗透、工控安全工具全收录",
+        "url": "https://mp.weixin.qq.com/s/Mx0inKTIqnXo6Ak1T9-RRw",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "【AI安全】传统漏洞修复已死！VulnResolver给大模型加 BUFF",
+        "url": "https://mp.weixin.qq.com/s/qm0rfJAGrm-f55DvDa6AtQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
