@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s/el__Ih_587ALW3xDQaf_jQ",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE）",
+        "url": "https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
