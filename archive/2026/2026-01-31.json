@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "【CVE-2025-40551】：Solarwinds Web Help Desk又一处反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/yoilGdO5F2sObg94a6KzgQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
