@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s/GygBtFPmOufJghsvw5iTRg",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "0day-飞牛 fnOS存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/CAP2D7-hllhK9dbYFFhxuw",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
