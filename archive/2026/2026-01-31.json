@@ -184,5 +184,11 @@
         "url": "https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
