@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s/9DIfJvK3Hjrr-smYa4XpCA",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail",
+        "url": "https://mp.weixin.qq.com/s/S6IEtr56ruwCPpGQWpHPXw",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播",
+        "url": "https://mp.weixin.qq.com/s/8KeefJZn_TVoIVZLbS_kcQ",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "【漏洞预警】国产飞牛系统 fnOS 出现安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/GygBtFPmOufJghsvw5iTRg",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
