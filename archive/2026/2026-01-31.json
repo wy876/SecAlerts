@@ -28,5 +28,59 @@
         "url": "https://mp.weixin.qq.com/s/oRa25-OLPfD16f3AfL8juQ",
         "source": "Doonsec",
         "date_added": "2026-01-31"
+    },
+    {
+        "title": "] [奇安信获NVDB-CAVD年度优秀技术支撑单位 10项原创漏洞证书彰显车联网安全实力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525028&idx=1&sn=d5e0573d332c81e32499c1d81a8c616c",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "] [Ivanti 提醒注意已遭利用的两个 EPMM 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525028&idx=2&sn=762ebd580b93c85ca6f361c47033a215",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "] [SolarWinds 修复四个严重漏洞，可导致未认证RCE和认证绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525028&idx=3&sn=70181900e6f00cf38ce9655f395495d9",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "] [工信部致谢！360荣膺“优秀技术支撑单位”并获颁原创漏洞证书",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584738&idx=2&sn=9ecda9723b6a097aec78697c293c2cda",
+        "source": "BruceFeIix",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "Kubernetes RCE：利用 nodes/proxy GET 请求漏洞",
+        "url": "https://mp.weixin.qq.com/s/VBedpkwdO40AgzIVwgnUgA",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "网安靶场实战指南（第6期）：从Web漏洞到拿下服务器！VulnHub靶场DC-1通关实录，新手也能学会提权",
+        "url": "https://mp.weixin.qq.com/s/rafYxCOmhsCA8OWIWNp3Dg",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "密码重置漏洞检查清单",
+        "url": "https://mp.weixin.qq.com/s/3dBX4ZdJIdvbSJU6Ld_M3Q",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "EDUSRC实战RCE记录",
+        "url": "https://mp.weixin.qq.com/s/QMFDTMCuCvs2m0weeOlP5w",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
+    },
+    {
+        "title": "漏洞复现 | 致远OA 权限绕过saveExcelInBase任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZZ8YKMKQr8QKI_wGd0IIzw",
+        "source": "Doonsec",
+        "date_added": "2026-01-31"
     }
 ]
