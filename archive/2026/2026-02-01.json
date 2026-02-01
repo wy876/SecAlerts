@@ -148,5 +148,41 @@
         "url": "https://mp.weixin.qq.com/s/KP_-QU2c7Rft1g-Zg1gGag",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "AutoPentestX – 专为 Linux 系统设计的自动化渗透测试工具包",
+        "url": "https://mp.weixin.qq.com/s/2iuQQv3cBHn1m6b4GN2I1Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "【接口漏洞第八章第十一节】从理论到操作：GraphQL别名攻击完整流程",
+        "url": "https://mp.weixin.qq.com/s/1_SDCs-yDjQXGPXaqIOl6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "渗透测试网页检查清单",
+        "url": "https://mp.weixin.qq.com/s/Sw9qq6W8Lxk-2v8SQptcjQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "[系统安全] 六十四.漏洞挖掘与利用 (1)WinRAR漏洞在APT攻击中的应用总结",
+        "url": "https://mp.weixin.qq.com/s/LWuJbufyL0jf6nmAcZPoWw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "基于OpenClaw的Android漏洞PoC自动生成 Agent实战",
+        "url": "https://mp.weixin.qq.com/s/RcDFZ5x0naZs1gDDLV_bcQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "红队实战：从默认密码到域控权限的OA系统“自杀式”防御漏洞",
+        "url": "https://mp.weixin.qq.com/s/1y5qbMnthkg2HrQHIo7pEw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
