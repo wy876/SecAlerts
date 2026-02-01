@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s/3UE1NRhhbgc9LBerTYk03A",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "【Ivanti在野利用】国内外银行金融政府机构受影响！Ivanti EPMM 爆发未授权远程代码执行漏洞（CVE-2026-1281 &amp; CVE-2026-1340）",
+        "url": "https://mp.weixin.qq.com/s/KP_-QU2c7Rft1g-Zg1gGag",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
