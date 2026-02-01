@@ -40,5 +40,41 @@
         "url": "https://mp.weixin.qq.com/s/rM2zMfr6KqNkvZ0cAvzT_g",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "] [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "] [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "] [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "] [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "飞牛系统（fnOS）0Day漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/1hrOpyAOxx-i8kC16MF_ew",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "【限时靶场】【已开启】网传的飞牛任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
