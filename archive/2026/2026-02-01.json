@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s/qKEeca7_C3xehwMJGwGwKw",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "工具推荐 | 企业级漏洞扫描与资产测绘平台 4引擎协同 Nuclei+Xray+GoPOC+YamlPOC",
+        "url": "https://mp.weixin.qq.com/s/cxZCNawyZaB9dyBsgv8b0w",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "EDU 证书站边缘资产挖掘实战：从.map 泄露到高危漏洞到手全流程",
+        "url": "https://mp.weixin.qq.com/s/W7JLiKTHxTdqw8frUqp5rA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "飞牛系统FnOS下app-center-static接口存在导致任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/7_fzx9iKJie7YcPsHPZZSg",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
