@@ -118,5 +118,29 @@
         "url": "https://mp.weixin.qq.com/s/4MGC7Xe50eRNFQBvvpJwBg",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "一款针对加解密综合利用后渗透工具",
+        "url": "https://mp.weixin.qq.com/s/YmIPWhdDU4RmmE-XWdRLEw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "AutoPentestX：面向 Linux 系统的自动化渗透测试工具包",
+        "url": "https://mp.weixin.qq.com/s/o2EtB68F0PyGWOkucuL3HA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "安全界的\\\"顶级\\\"大佬-0day挖掘思路！",
+        "url": "https://mp.weixin.qq.com/s/tBX2murqRO0v951SRJWwug",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "内网渗透(九)：靶场补充",
+        "url": "https://mp.weixin.qq.com/s/3UE1NRhhbgc9LBerTYk03A",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
