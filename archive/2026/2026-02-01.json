@@ -232,5 +232,23 @@
         "url": "https://mp.weixin.qq.com/s/a2JQHOl7y6DNRQdRMiX2mg",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "从安全分析视角一文解读 .NET 越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/NnOkcX8toxlEANssIEPPiw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "SmarterTools 修复了 允许执行任意代码的严重漏洞 (CVE-2026-24423)",
+        "url": "https://mp.weixin.qq.com/s/O_F8ZWr9NANu837U-aW1Pg",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "网络武器平台遭黑：疑ExploitPack全套漏洞利用代码泄露",
+        "url": "https://mp.weixin.qq.com/s/VdlmFef6K3ZSCP44lqaAWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
