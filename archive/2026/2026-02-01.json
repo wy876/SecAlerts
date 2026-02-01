@@ -76,5 +76,47 @@
         "url": "https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "干货 | 网络安全漏洞扫描 10 步走，小白也能上手的实操指南！",
+        "url": "https://mp.weixin.qq.com/s/kHev9YGFSGh6YpI8BOJ3ww",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s/PUj3hddK8cvnqIgZF2pZLA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "记一次内网靶场渗透",
+        "url": "https://mp.weixin.qq.com/s/NtD-SYZF3mM_poSGopPDhA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "第154篇：美国NSA苹果手机硬件级后门漏洞的分析 | \\\"三角测量\\\"系列第8篇",
+        "url": "https://mp.weixin.qq.com/s/9Zxp7MM_376UnqfCHdVWvg",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "【安全圈】两个 n8n 高危漏洞可使认证用户远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/qGfxbgVgw_T8OT_JcBdLtA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+        "url": "https://mp.weixin.qq.com/s/x-v0Di9qp6cAKe2nDCGojA",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "【在野利用】金融政府机构需警惕！Ivanti EPMM 爆发未授权远程代码执行漏洞（CVE-2026-1281 &amp; CVE-2026-1340）",
+        "url": "https://mp.weixin.qq.com/s/4MGC7Xe50eRNFQBvvpJwBg",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
