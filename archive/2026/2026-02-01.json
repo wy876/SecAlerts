@@ -1,0 +1,44 @@
+[
+    {
+        "title": "【红队必备】100+服务识别+CVE匹配漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/haqpTk0I-K6wwXMxmeoD_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "网安靶场实战指南（第7期）：DC-2通关！SSH密钥登录+定时任务提权，真实渗透必学技巧",
+        "url": "https://mp.weixin.qq.com/s/n_Iw5JJuXPTHcdX4-pntuw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘",
+        "url": "https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "JAVA代码审计shiro鉴权绕过案例",
+        "url": "https://mp.weixin.qq.com/s/Hptzwr3UrNllzF0PEZrwCQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "基于AI的自主渗透测试平台 | AI-Powered Autonomous Penetration Testing Platform",
+        "url": "https://mp.weixin.qq.com/s/5JLp4g70V0HZ-sMKcDnTgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    },
+    {
+        "title": "吃瓜（2）：FBI备忘录称以色列“渗透”了特朗普，爱泼斯坦与摩萨德有联系",
+        "url": "https://mp.weixin.qq.com/s/rM2zMfr6KqNkvZ0cAvzT_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
+    }
+]
