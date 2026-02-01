@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s/CI4YQn-WMwXUwidgpOX1yQ",
         "source": "Doonsec",
         "date_added": "2026-02-01"
+    },
+    {
+        "title": "【漏洞情报】从php Zend 内核层分析PHP built-in server http请求走私漏洞",
+        "url": "https://mp.weixin.qq.com/s/a2JQHOl7y6DNRQdRMiX2mg",
+        "source": "Doonsec",
+        "date_added": "2026-02-01"
     }
 ]
