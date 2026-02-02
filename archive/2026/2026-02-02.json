@@ -250,5 +250,95 @@
         "url": "https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "赏金src报告分享&amp;&amp;edu证书站漏洞分享",
+        "url": "https://mp.weixin.qq.com/s/Xj2sdU-sqWvKVer-QMWoYg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "无需手动构包！智能填充参数 + 自动化请求：Swagger API自动化漏洞检测工具|ApiHunter",
+        "url": "https://mp.weixin.qq.com/s/-APYvQBg6HSZi16rj8Z2bg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "工具推荐 | 自动检测Vue框架 绕过Vue.js 站点路由守卫 一键发现隐藏资产与未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/7bAdr0D8OhCnEkZA48LsvA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【高危漏洞预警】Ivanti Endpoint Manager Mobile代码注入漏洞CVE-2026-1281/CVE-2026-1340",
+        "url": "https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "内网渗透命令大全！看这篇就够了！",
+        "url": "https://mp.weixin.qq.com/s/lZFXIcLcyMSP_kKuL8KUFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇）",
+        "url": "https://mp.weixin.qq.com/s/z67l_pnGp4P7RykbuunuRQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "安徽江淮汽车：基于渗透测试的车联网通信安全与防范措施",
+        "url": "https://mp.weixin.qq.com/s/m3fPAI0UrgaLAS_kNq3dRw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇）",
+        "url": "https://mp.weixin.qq.com/s/pJhZaWxKQTBD4poWn5YKXg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "一键Clawdbot漏洞：启动恶意远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/gZuixfOZHgo7GVSMRxd3Bw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "AI社交平台Moltbook曝严重安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/pAhC-DJgcTF3usj6qdQcaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【已复现】Ivanti EPMM存在命令注入漏洞（CVE-2026-1281&amp;CVE-2026-1340）",
+        "url": "https://mp.weixin.qq.com/s/0fpcTSvaDJWnZXdChnTGcw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "注册信息安全专业人员渗透测试方向（PTE、PTS）",
+        "url": "https://mp.weixin.qq.com/s/ZNwSl_ZJHtYWgwRvpu_yrA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【安全圈】Moltbook AI 漏洞暴露邮箱地址、登录令牌与 API 密钥",
+        "url": "https://mp.weixin.qq.com/s/Si7jEg5cdxmln8DppHVPZA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "CISA紧急警告，Office、Linux内核等关键漏洞正被黑客利用",
+        "url": "https://mp.weixin.qq.com/s/DURhQdhQnrQmri5-Tmrobg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "SmarterMail 修复严重的未认证RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/53PH9dx8Aqm_dGqqxcESCA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
