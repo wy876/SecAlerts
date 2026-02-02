@@ -142,5 +142,47 @@
         "url": "https://mp.weixin.qq.com/s/iKESKQY5qQyPJWnABpvltA",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "] [【安全圈】两个 n8n 高危漏洞可使认证用户远程执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=2&sn=5b4af53f24f7e46133988e49401751da",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "] [【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=3&sn=3979835f9237351359e08771b9781191",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "] [[系统安全] 六十四.漏洞挖掘与利用 (1)WinRAR漏洞在APT攻击中的应用总结",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502511&idx=1&sn=79752daf374cf8eaf321f3b6dbd208e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "Cobra是一款源代码安全审计工具，支持检测多种开发语言源代码中的大部分显著的安全问题和漏洞。",
+        "url": "https://mp.weixin.qq.com/s/oj_iAKCotfrDxCP7G6AYoQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "天锐绿盘云文档安全管理 uploadFolder.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZyHcFo43xzaqIprG75msPQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "网安靶场实战指南（第 8 期）：DC-3 靶场封神！MySQL 提权 + 内核漏洞，学会直接拿捏企业服务器",
+        "url": "https://mp.weixin.qq.com/s/-kYXVUm3vOM5yqStp5hnTQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "英国国家网络安全中心NCSC发布“不可原谅”漏洞判定指南",
+        "url": "https://mp.weixin.qq.com/s/hlM2IqTBLYfwXuCUSbKUIA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
