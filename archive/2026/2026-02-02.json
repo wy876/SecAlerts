@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s/hlM2IqTBLYfwXuCUSbKUIA",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/RRnwzuw1_FbdLPcvzLJxjA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260202】",
+        "url": "https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
