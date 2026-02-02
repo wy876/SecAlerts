@@ -1,0 +1,146 @@
+[
+    {
+        "title": "大华智能物联综合管理平台justForTest用户登录漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/GkOcyjV9YYWipFfzHuiiuw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【红队必备】告别多工具切换！从信息收集到漏洞验证一站式",
+        "url": "https://mp.weixin.qq.com/s/j-m_9RQ_pr_suKWQW_rKFw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞复现 | Flowise AI 系统任意文件上传漏洞（CVE-2025-26319）",
+        "url": "https://mp.weixin.qq.com/s/4wXppnido-Gh1FmPBQR7hQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "还在手动翻漏洞公告？这款工具自动聚合多源情报并生成Markdown简报",
+        "url": "https://mp.weixin.qq.com/s/aVs_H3PCssHTxakLuYQHZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "Python全量漏洞扫描工具 -- Vulnerability-Scanning-tool（1月31日更新）",
+        "url": "https://mp.weixin.qq.com/s/bJPMUOD6KDi0Ta0mtmft-A",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "某国产OS出现严重安全漏洞，甩锅用户再发补丁",
+        "url": "https://mp.weixin.qq.com/s/43W8bSzBKrlO7SB67zGCdQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "紧急提醒！立即备份自己的VPS数据 大量VPS提供商面临勒索软件攻击|国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告",
+        "url": "https://mp.weixin.qq.com/s/gejBwnbKs0hP0kmqiDTTxw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具",
+        "url": "https://mp.weixin.qq.com/s/LdRVBGE9YZs7DUjQrXZuFA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "CRIL 揭露 ShadowHS：一款专为隐蔽长期访问而构建的无文件 Linux 后渗透框架",
+        "url": "https://mp.weixin.qq.com/s/i7jeKLjEDTmhgbS3KDjQdg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "CVE-2026-21509｜Microsoft Office安全功能绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/gMKE9_LdzA_Oalu5kQsyNA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "CVE-2026-24423｜SmarterMail未经身份验证的远程命令执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/Wyb0b3hP8psG4WrBPdeDAw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "Moltbook AI漏洞暴露电子邮件地址、登录令牌和API密钥",
+        "url": "https://mp.weixin.qq.com/s/d2FurWgfrJZeaj3J-jErBA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【攻防演练】某项目管理系统SQL注入1day分析",
+        "url": "https://mp.weixin.qq.com/s/XhuJp_Kn8deTBfA5TqkRow",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "《网络犯罪防治法（征求意见稿）》公开征求意见中多条规定对二三级等保系统漏扫和渗透进行了责任划分和处罚说明",
+        "url": "https://mp.weixin.qq.com/s/5PCW9BHT2QIKjfESJcSBqg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "复现n8n Ni8mare：从任意文件读取到远程代码执行的全链漏洞利用 (CVSS 10.0)",
+        "url": "https://mp.weixin.qq.com/s/kH5TeuWFL8ckFQdwKeo-QQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "飞牛重大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/ICip6oNTW9ZMfS-rzyP8Sw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "T0级漏洞",
+        "url": "https://mp.weixin.qq.com/s/TpN7OIdPOi9cXMqOEKMpzQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "【网络安全】国产飞牛系统 fnOS 出现严重安全漏洞先甩锅用户，再发补丁",
+        "url": "https://mp.weixin.qq.com/s/_zyYdWNK6_wA0HTmxkdQsw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "Godzilla插件 | ADSelfServicePlus一键后渗透插件",
+        "url": "https://mp.weixin.qq.com/s/3jHveWZliO0iVZZNqFtCYw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞预警 | SmarterMail身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/cvtT8EJ-FA-Zszy-TL59PA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/rqmhQSfv8FMfd_YyJQgh0A",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/nJH2oEWLxNF873rSdJBq0w",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "红队渗透专家的秘密武器：Burp工具安装与应用指南",
+        "url": "https://mp.weixin.qq.com/s/jWnpwJrmOtBBtpvC6ndhJQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "因被 AI 生成的虚假漏洞报告轰炸，开源网络工具 cURL 宣布本月底停止提供安全赏金",
+        "url": "https://mp.weixin.qq.com/s/iKESKQY5qQyPJWnABpvltA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    }
+]
