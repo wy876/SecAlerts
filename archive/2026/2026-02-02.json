@@ -232,5 +232,23 @@
         "url": "https://mp.weixin.qq.com/s/MrOy3xrbsVMB9p8uliGNOQ",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断",
+        "url": "https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "深度实例分析：攻防视角下的AI框架组件中的注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "Ivanti EPMM RCE CVE-2026-1340/1281完整分析",
+        "url": "https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
