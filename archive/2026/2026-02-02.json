@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "SCADA系统中存在的特权文件系统漏洞",
+        "url": "https://mp.weixin.qq.com/s/MrOy3xrbsVMB9p8uliGNOQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
