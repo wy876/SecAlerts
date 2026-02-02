@@ -196,5 +196,35 @@
         "url": "https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg",
         "source": "Doonsec",
         "date_added": "2026-02-02"
+    },
+    {
+        "title": "WordPress Modular DS 插件的严重漏洞已被积极利用以获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s/rvUAp_XRLjeVrHLuRS4HXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞验证-Nps代理工具web管理端认证绕过",
+        "url": "https://mp.weixin.qq.com/s/U8l5fvJC3BaCRLXjUBhsxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "漏洞预警暗网泄露：[exploitpack.com] 所有漏洞利用程序泄露！",
+        "url": "https://mp.weixin.qq.com/s/7O1QfXe2UhTUU_xBss4EoA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "某杀猪盘渗透",
+        "url": "https://mp.weixin.qq.com/s/QpnSa-EJH68jx9nDywWVYQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
+    },
+    {
+        "title": "解析2024:Low-latency Virtual Network function Scheduling Algorithm Based on Deep Reinforcement Learning文章",
+        "url": "https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA",
+        "source": "Doonsec",
+        "date_added": "2026-02-02"
     }
 ]
