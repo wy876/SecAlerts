@@ -370,5 +370,29 @@
         "url": "https://mp.weixin.qq.com/s/jfjYxyVhewSrDw3xeWjHMA",
         "source": "Doonsec",
         "date_added": "2026-02-03"
+    },
+    {
+        "title": "【服务端漏洞-路径遍历-第一章第二节】不止于原理：路径遍历漏洞的实战利用与敏感信息提取",
+        "url": "https://mp.weixin.qq.com/s/g1dZeV279fvjlPH7mNiX2A",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "【安全圈】海康威视修复DS-3WAP无线接入点命令注入漏洞（CVE-2026-0709）",
+        "url": "https://mp.weixin.qq.com/s/0veSVWzrXajVClmmijCdpQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "海康威视无线接入点漏洞可导致恶意命令执行",
+        "url": "https://mp.weixin.qq.com/s/knjjPkEnjqDioXeLAyekrg",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "有人把 Bash 玩得太溜了，我们爱死这个漏洞了（Ivanti EPMM 预认证 RCE CVE-2026-1281 &amp; CVE-2026-1340)",
+        "url": "https://mp.weixin.qq.com/s/QYOBPePOOWSVJEAWYT8Rhg",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
     }
 ]
