@@ -340,5 +340,35 @@
         "url": "https://mp.weixin.qq.com/s/PAVexC4X5iEFuHUB-c2jqA",
         "source": "Doonsec",
         "date_added": "2026-02-03"
+    },
+    {
+        "title": "Gakido CRLF注入漏洞允许攻击者绕过安全控制",
+        "url": "https://mp.weixin.qq.com/s/R08sa34kohr0jL4MVLJhAQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "OpenClaw高危漏洞可一键窃取主密钥，攻击者直通上帝模式",
+        "url": "https://mp.weixin.qq.com/s/-RiVPiNgpedpRQV5nnYgtg",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "关于AI项目OpenClaw存在远程代码执行漏洞（CVE-2026-25253）的风险提示",
+        "url": "https://mp.weixin.qq.com/s/PsjAV-08i25TN7RczQ-aiw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "fnOS路径穿越与命令执行漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s/B4yXdQ88zI-PUSaUyG7Brw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "Office 最新高危漏洞遭利用，多国政府机构被定向攻击",
+        "url": "https://mp.weixin.qq.com/s/jfjYxyVhewSrDw3xeWjHMA",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
     }
 ]
