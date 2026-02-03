@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s/gX7e7ILJTqaPmrMNnpJjog",
         "source": "Doonsec",
         "date_added": "2026-02-03"
+    },
+    {
+        "title": "渗透测试新姿势：这款扩展自带403绕过，JS端点+XSS+敏感目录+跨域追踪全自动检测",
+        "url": "https://mp.weixin.qq.com/s/fd_OAWg6UBNPaYhi9OQ5TQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
     }
 ]
