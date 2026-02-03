@@ -244,5 +244,47 @@
         "url": "https://mp.weixin.qq.com/s/fd_OAWg6UBNPaYhi9OQ5TQ",
         "source": "Doonsec",
         "date_added": "2026-02-03"
+    },
+    {
+        "title": "APT28的“Neusploit”行动：俄罗斯黑客利用Microsoft Office零日漏洞展开间谍活动",
+        "url": "https://mp.weixin.qq.com/s/T7DnYEwclXUKLgoR8tTV_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "SAML认证绕过：Uber的一万美元漏洞复盘学习",
+        "url": "https://mp.weixin.qq.com/s/HoU35VNA9hUt-VAFOw1xGQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "从美国CISA KEV看 “主权”合规漏洞清单的价值变迁",
+        "url": "https://mp.weixin.qq.com/s/oU-qw3fjUuJYdtqzZQ11Kw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "漏洞预警 | 飞牛-私有云fnOS文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/BN1-1lelns-ZCK1OzIlMQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "【独家复现】用友企业报表iUFO Cloud(U8Cloud)无条件任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Rha5lDQ-ek52jzpVn_kMMA",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "分享Fastjson反序列化漏洞原理+漏洞复现+实战案例+POC收集",
+        "url": "https://mp.weixin.qq.com/s/epViNNC4e37S4VbTKOU3aw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "小程序渗透测试工具分享及AI代码审计工具推荐",
+        "url": "https://mp.weixin.qq.com/s/4s7uBKOYt-6N_cakTmFEsw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
     }
 ]
