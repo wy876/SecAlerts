@@ -124,5 +124,119 @@
         "url": "https://mp.weixin.qq.com/s/bIjpwn2DdaY8HSJLQsFLwg",
         "source": "Doonsec",
         "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [SmarterMail 修复严重的未认证RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525034&idx=1&sn=0937f8c4b8169acd746e47cdce1254e7",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [【安全圈】Moltbook AI 漏洞暴露邮箱地址、登录令牌与 API 密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073971&idx=2&sn=7eb6eabc5a3c83bc7a5fe8427776717e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [AI 代理社交平台 Moltbook 曝严重漏洞；雷军：新 SU7 量产，春节到店；宇树机器人挑战极寒天自主行走｜极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098212&idx=1&sn=2587a562e54b50ed31f2b4a703b78d22",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586586&idx=2&sn=134c3dcc84aa1d42f3b82514bd96d092",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第4期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496683&idx=1&sn=cd757aad8add0b967838b6bf556ad101",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞（20260126-20260201)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496683&idx=2&sn=f1636f176936e7f3a30ce1f43b453905",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "一键触发漏洞：OpenClaw远程代码执行漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/ZyHpBENMl56NhsB8NL1x2w",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "飞牛OS  漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/rJeVEN7fLLKbwiCcdMM0vg",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "俄罗斯黑客利用近期修复的微软Office漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s/Fc0K_vxV2qh90D3HbncwGQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "俺臻叼，一次逻辑漏洞之登录绕过测试记录",
+        "url": "https://mp.weixin.qq.com/s/tG6KD0DBfNXubD3wnElDaw",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "Ilevia EVE X1 Server login.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/gX41gGKxm3xv5Y-SpoPx8g",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "拉大旗出虎皮：Exploit Pack公司泄露数据简要分析",
+        "url": "https://mp.weixin.qq.com/s/-X_RzH3vaGJ_VTrNw7sr7Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "javaeasyscanner - 富婆系列，代码审计辅助工具，致力于解放大脑，方便双手",
+        "url": "https://mp.weixin.qq.com/s/ATyP53uB-b5b9mQFkulGnQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "漏洞挖掘系列分享（第一期）：漏洞挖掘入门——定义、分类与核心流程",
+        "url": "https://mp.weixin.qq.com/s/hniB2RTXqQDSsnmBTNoeAQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "bsides vancouver 靶场复现",
+        "url": "https://mp.weixin.qq.com/s/wbrYHJTfSnbLH2Tf-V91ng",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "某通杀漏洞思路分享",
+        "url": "https://mp.weixin.qq.com/s/BTt4F5qXcPPX6eFWSQER4g",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "飞牛系统（fnOS）任意文件读取漏洞xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/T9MZC2XpFltnmbV0xsu5ww",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "网安靶场实战指南（第9期）：HTB入门！外网打点→内网横向，企业级渗透流程全复刻",
+        "url": "https://mp.weixin.qq.com/s/BZiZ3qSNT3bDvMpsKl85ng",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
+    },
+    {
+        "title": "CVE-2025-55182 Apache OFBiz SSRF与远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/gX7e7ILJTqaPmrMNnpJjog",
+        "source": "Doonsec",
+        "date_added": "2026-02-03"
     }
 ]
