@@ -514,5 +514,41 @@
         "url": "https://mp.weixin.qq.com/s/5GEQqkfgMDUg2BpPu65Cpw",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "【AI安全】OpenClaw 爆出 9.8 分顶级 RCE 漏洞！仅需一个链接",
+        "url": "https://mp.weixin.qq.com/s/Ht-keV1l2mQELb-R3k2bbA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "手搓一个“永不掉线”的渗透测试员！Clawdbot+APTP，渗透活儿干成远程遥控流水线",
+        "url": "https://mp.weixin.qq.com/s/Vrc61XpO_YtudBebMuWX0A",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【安全圈】爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 / 植入 macOS 病毒",
+        "url": "https://mp.weixin.qq.com/s/VcqJzhUXWjUyQjnK1i44wg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【安全圈】Fancy Bear 利用微软 Office 漏洞对乌克兰及欧盟发动网络攻击",
+        "url": "https://mp.weixin.qq.com/s/64BCcSAohxoCgFc7_PrVkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Chrome漏洞允许攻击者执行任意代码并导致系统崩溃",
+        "url": "https://mp.weixin.qq.com/s/wEraHfeZh7GiK-1wy_UCcg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【已复现】| 大蚂蚁即时通讯系统存在两处任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/EIkOTUrDMjjE31hj1D5LOw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
