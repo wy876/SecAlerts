@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s/IU3qzcxmbWXBj6fLKCzj5w",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "渗透测试核心技巧：反弹Shell与数据回显问题深度解析",
+        "url": "https://mp.weixin.qq.com/s/bLum8qMVx-Yt9UCULSQ_Xg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
