@@ -1,0 +1,230 @@
+[
+    {
+        "title": "用友NC importCombo XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/_a_iDUzZ5fukOib-I9T93g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "SRC高危漏洞狩猎：从“漏洞复现”到“降维打击”的实战引擎",
+        "url": "https://mp.weixin.qq.com/s/i1OIq6jzb1pRuyop9MnS6A",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "0126.我是如何通过发现公开漏洞赏金计划中的一个严重 SQL 注入漏洞而获得巨额奖金的。",
+        "url": "https://mp.weixin.qq.com/s/0r9DRCOmps_tGds6gG_thg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "第1期：漏洞挖掘入门｜定义、分类与标准化挖掘流程（附合法靶场清单）",
+        "url": "https://mp.weixin.qq.com/s/9Hx6N56g8GZFlEEL60mR6w",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "已复现！大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/N2V5skUr__EJtCZ4PWRdUg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "漏洞扫描工具 -- Vulnerability-scanning（2月3日更新）",
+        "url": "https://mp.weixin.qq.com/s/-FPQQLC55DHIMCBYgsn8hg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "APT28借助微软Office 0-day漏洞发动“Neusploit”定向攻击",
+        "url": "https://mp.weixin.qq.com/s/3cWamDknrPpMIxukHU6G5g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【内网渗透必备神器】一键搜敏感文件，直接拿捏突破口！",
+        "url": "https://mp.weixin.qq.com/s/cUunHhoAfLbrCaadXFavGQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "2025年新增漏洞5万个，公开遭到利用的不足千个",
+        "url": "https://mp.weixin.qq.com/s/k51p6S4WVs8a4B7-7fQNTg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "GUI | CVE-2026-24061 telnetd 身份验证绕过漏洞检测与利用工具",
+        "url": "https://mp.weixin.qq.com/s/xPa_GQ1piM8Gtl0uDepPqA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "0day | 飞牛系统（fnOS）远程命令执行漏洞【批量脚本】",
+        "url": "https://mp.weixin.qq.com/s/QY2CDxlsuRJd8su6Rh6uMw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "俄罗斯 APT28 黑客利用微软 Office 漏洞发起恶意软件攻击",
+        "url": "https://mp.weixin.qq.com/s/Yx2Y7DfNNKXwsfbcD0Cv1g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Docker修复Ask Gordon AI的关键漏洞，该漏洞允许通过图像元数据执行代码",
+        "url": "https://mp.weixin.qq.com/s/R3uY6J_-4Kewno7zd1uj2g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "开源AI渗透测试工具正变得令人不安地强大",
+        "url": "https://mp.weixin.qq.com/s/0lW7YrJ1n0rrB6KXa-FHIw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "APT28 黑客利用 Microsoft Office 零日漏洞部署恶意软件",
+        "url": "https://mp.weixin.qq.com/s/xK_BjSFHeGLY-oRH2-_N0A",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【SRC实战】离谱！我在云存储桶里，翻到了别人的渗透报告...",
+        "url": "https://mp.weixin.qq.com/s/AUX1d8brWmpTJ2OwGeERpg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "利用 NTLM 反射控制 Active Directory (CVE-2025-33073)",
+        "url": "https://mp.weixin.qq.com/s/RXKXxdDH_o9Jx9uZTs27rA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "CVE-2025-54100学习有感",
+        "url": "https://mp.weixin.qq.com/s/R_k0GDN0GpfL2QSXV6Fi_Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "恶意评论：严重 Orval 漏洞 (CVE-2026-25141) 注入代码",
+        "url": "https://mp.weixin.qq.com/s/GS8A4NHhfoBv-qSI3UshTQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "CI/CD安全案例：从PR评论到RCE、AWS管理员密钥泄露",
+        "url": "https://mp.weixin.qq.com/s/qZaQtmmP18dzvUB7oASFyQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "React(next.js)漏洞指纹POC集成",
+        "url": "https://mp.weixin.qq.com/s/sVo09MSfTM1NtEffcN_2_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "黑客利用 React Native CLI 的漏洞部署 Rust 恶意软件",
+        "url": "https://mp.weixin.qq.com/s/wswvRKHkzh0LLVr46Qphng",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "与俄罗斯有关联的 APT28 组织利用新披露的微软 Office 漏洞进行定向攻击",
+        "url": "https://mp.weixin.qq.com/s/vljnnrlAQeiywkRicosSiA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Burp Suite |  Web未授权访问漏洞检测插件",
+        "url": "https://mp.weixin.qq.com/s/fKf59yeFmqYFxfpMHJUnow",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "除了Kali Linux 这些渗透系统你知道吗？",
+        "url": "https://mp.weixin.qq.com/s/1ItX5-9Im7j_NxbNxnoEow",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "漏洞预警 | vm2沙箱逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s/026Zp1lM2HZds-yU11i0lw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/osHj1BKn-Rhw7htjoXrlQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/e1_jk64oB51phqyx1CvPtQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "工具 | ShiroExploit",
+        "url": "https://mp.weixin.qq.com/s/_t9kW2le-q6UAaYf6BHz2g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "fuzzDicts - Web 渗透 Fuzz 字典「一条龙」从uname->passwd",
+        "url": "https://mp.weixin.qq.com/s/eIZiukxdhiX5bKuIJ66QVA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【漏洞挖掘】JS敏感信息泄露导致的系统沦陷",
+        "url": "https://mp.weixin.qq.com/s/Qh6_fEEfG7F8Skpshp0fYA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "LFI Exploits !",
+        "url": "https://mp.weixin.qq.com/s/IicH9t7-3TZEVQrEGHM9YA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "CERT/CC 警告：二进制解析器漏洞允许 Node.js 特权级代码执行",
+        "url": "https://mp.weixin.qq.com/s/S0N2sEGQ1eTuRJKkjPprhg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Chrome浏览器渗透利器支持原生扫描！JS 端点 + 敏感目录 + 原型污染自动化检测|VulnRadar",
+        "url": "https://mp.weixin.qq.com/s/BkdRw6dCww1J2Oy4W0Rrpw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "针对Nacos漏洞猎杀的各种骚姿势",
+        "url": "https://mp.weixin.qq.com/s/caQZ0eN7KxFwMIZxwy46EQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Cache Deception + CSPT：从“无影响”到账号接管的漏洞链",
+        "url": "https://mp.weixin.qq.com/s/JlT8xj71W074Lh-pw2FF_A",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【服务端漏洞-路径遍历-第一章第二节】不止于原理：路径遍历漏洞的实战利用与敏感信息提取",
+        "url": "https://mp.weixin.qq.com/s/JhT_3j9rbgBjDKphABV-Jg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "渗透测试fuzz参数拿下网站管理员权限",
+        "url": "https://mp.weixin.qq.com/s/93X1JDvqaRg0_CSIPCbEkA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    }
+]
