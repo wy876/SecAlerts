@@ -358,5 +358,41 @@
         "url": "https://mp.weixin.qq.com/s/EMYcyxv9WCevsswQ4ojEmQ",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "OAuth 2.0 安全攻防：从 Portswigger 六大实验看认证漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/hoi3diJwRtPIY_yeCDXrSA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【漏洞通告】Google Chrome V8 引擎类型混淆漏洞(CVE-2026-1862)",
+        "url": "https://mp.weixin.qq.com/s/odJon0o3LrVXu6jnChV21Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "漏洞报告加分秘籍，直接套用！",
+        "url": "https://mp.weixin.qq.com/s/6hV_WHoVXF6VA2lcRiLruw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【已复现】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s/OohehXO0-p025as806sTSw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "一款不错的图形化渗透测试辅助工具",
+        "url": "https://mp.weixin.qq.com/s/-nBVD3D3f4B5BGy-ahQeVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "EDU漏洞挖掘杂谈分享",
+        "url": "https://mp.weixin.qq.com/s/dkk1eC6ssn50PnmwhX6eaA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
