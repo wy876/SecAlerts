@@ -418,5 +418,47 @@
         "url": "https://mp.weixin.qq.com/s/X7n9RTlq0H-SxnLJOZGxcA",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "若依常见漏洞一把梭（上）",
+        "url": "https://mp.weixin.qq.com/s/lMss5FGUxjyIyIQ4aH-4Mw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "监管通报72款APP违规：告知同意缺失、未成年人信息处理失范、人脸识别滥用等，直指企业合规深层漏洞",
+        "url": "https://mp.weixin.qq.com/s/N2LXGZaC9lSMJIYGhQYhsg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "存储桶指纹和漏洞POC集成",
+        "url": "https://mp.weixin.qq.com/s/0zfbbRmcre5RZZ2zcIRVHw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s/ej-V93i6ynOe0vFX_yCv3g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "一款不错的图形化渗透测试辅助工具",
+        "url": "https://mp.weixin.qq.com/s/SBtGzwufsLciglKa-az4LA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Android组件漏洞学习(一)",
+        "url": "https://mp.weixin.qq.com/s/-yHhsQwRv-z2y-7SQKzlYA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "共建开源生态安全！ByteSRC正式启动开源项目漏洞收录计划！",
+        "url": "https://mp.weixin.qq.com/s/OUqumNWCgifIFRYsdmS4PQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
