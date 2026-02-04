@@ -394,5 +394,29 @@
         "url": "https://mp.weixin.qq.com/s/dkk1eC6ssn50PnmwhX6eaA",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "关于防范Microsoft Office安全功能绕过高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/5sO9YbVElCjlMV2a7YStVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【啃啃鸡随便吃】某宝百事肯某鸡逻辑漏洞复现靶场",
+        "url": "https://mp.weixin.qq.com/s/WOffLl_h9e-I_qmVV5P6Uw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/O0fyS4zABq-BOrWw5H5Ptw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【漏洞通告】飞牛系统（fnOS）任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/X7n9RTlq0H-SxnLJOZGxcA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
