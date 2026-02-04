@@ -460,5 +460,59 @@
         "url": "https://mp.weixin.qq.com/s/OUqumNWCgifIFRYsdmS4PQ",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第二章第一节】从验证到越权：访问控制漏洞的“破门”之道（原理篇）",
+        "url": "https://mp.weixin.qq.com/s/tvTUaafWnH8v1kLPD-AZ7Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【已复现】大蚂蚁即时通讯系统存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/wl8vtaYPlFXE3A9RLzRFzQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "[跟着静师傅学代码审计]智慧校园(安校易)管理系统多处0day",
+        "url": "https://mp.weixin.qq.com/s/8Sq5vsMODefXgTcPdySt8g",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Apache Syncope 存在允许攻击者劫持用户会话漏洞",
+        "url": "https://mp.weixin.qq.com/s/L0sOuBUHC8BoQvVfCp2LTA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "福昕PDF编辑器漏洞允许攻击者执行任意JavaScript代码",
+        "url": "https://mp.weixin.qq.com/s/3uStWdd7GnPMfogBWF9KyA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "AI 助手OpenClaw 易遭一次点击 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s/7sTcRY_fzP51vEzuSMsTjQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Apache Syncope 漏洞可用于劫持用户会话",
+        "url": "https://mp.weixin.qq.com/s/jME4unjLCep7WxgkAHc7PA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "微软将默认禁用NTLM协议，终结30年高危身份验证漏洞",
+        "url": "https://mp.weixin.qq.com/s/SUYJ4FM25JS8vXYZMiwpdA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "黑客利用React Native CLI漏洞提前部署Rust恶意软件",
+        "url": "https://mp.weixin.qq.com/s/5GEQqkfgMDUg2BpPu65Cpw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
