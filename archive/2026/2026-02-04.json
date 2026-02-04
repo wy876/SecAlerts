@@ -226,5 +226,101 @@
         "url": "https://mp.weixin.qq.com/s/93X1JDvqaRg0_CSIPCbEkA",
         "source": "Doonsec",
         "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [【安全圈】海康威视修复DS-3WAP无线接入点命令注入漏洞（CVE-2026-0709）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073982&idx=2&sn=de21d8160a6914ed983588d94ca30082",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [从美国CISA KEV看 “主权”合规漏洞清单的价值变迁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541639&idx=2&sn=12f7cd3cef3e56241cef5126615b3b7d",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [fnOS路径穿越与命令执行漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608987&idx=1&sn=eb20b7a211d3d0a14aee4d810d146e57",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [Office 最新高危漏洞遭利用，多国政府机构被定向攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608987&idx=2&sn=e1ca0e9a1a5c81f2114d6194072f76fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第4期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501184&idx=1&sn=a511281503bade6821dbfa75a7f133cc",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "] [某通杀漏洞思路分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499009&idx=1&sn=204909ba828eadcc428e26d229ad0d2e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Burp微信小程序渗透测试利器 -- JaySenWxapkg",
+        "url": "https://mp.weixin.qq.com/s/2dq71s0gXAucKqj2QUfvNw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "紧急预警！俄罗斯APT28锁定中东欧，Office零日漏洞成攻击利器，邮件偷取+远程控制防不胜防",
+        "url": "https://mp.weixin.qq.com/s/pcoh03ivOSxEVyyCsINxgw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "无法反弹SHELL的RCE利用",
+        "url": "https://mp.weixin.qq.com/s/_olCaV7VJWGAKLpL5R48Ow",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "综合漏洞后渗透利用工具",
+        "url": "https://mp.weixin.qq.com/s/3YA6L_IlCrkzbDbrVDCMrw",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【代码审计】某校园统一认证任意用户登录",
+        "url": "https://mp.weixin.qq.com/s/PJpxW11ATKwEmFWMJj5IwA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "【代码审计】某网盘硬编码导致任意用户登录",
+        "url": "https://mp.weixin.qq.com/s/Gmu9oZaTAHLgOLIbhjx5OA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "Nacos默认key导致权限绕过登陆漏洞xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/FmmnIfSDQp80Nfpw7mu8SQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "14.9万星AI个人助手OpenClaw曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/bmoOUbydU7Bes-XH0AkopQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "CVE-2026-20820 clfs.sys堆溢出",
+        "url": "https://mp.weixin.qq.com/s/EpY0aTJjGrv-qSx9n8wbkA",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
+    },
+    {
+        "title": "《我们离“一键渗透”还有多远：AI驱动的下一代红队武器架构设计》",
+        "url": "https://mp.weixin.qq.com/s/IU3qzcxmbWXBj6fLKCzj5w",
+        "source": "Doonsec",
+        "date_added": "2026-02-04"
     }
 ]
