@@ -328,5 +328,83 @@
         "url": "https://mp.weixin.qq.com/s/PfcP5CAZYNDzgj5QS3G9kQ",
         "source": "Doonsec",
         "date_added": "2026-02-05"
+    },
+    {
+        "title": "Web 缓存漏洞扫描器 -- WCVS",
+        "url": "https://mp.weixin.qq.com/s/KxT5k5qWs4SwJC3kGF6iGg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "高危漏洞！VMware ESXi 漏洞遭勒索软件在野利用",
+        "url": "https://mp.weixin.qq.com/s/kfJ0QeU-BlBobNV4zfiN4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s/_yCmT_xZWhyTOSW3LzYVWw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "手搓一个“永不掉线”的渗透测试员！Clawdbot+APTP，渗透活儿干成远程遥控流水线",
+        "url": "https://mp.weixin.qq.com/s/aknB9IekGc77N6lTqxyb7Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "Chrome漏洞可导致攻击者执行任意代码并引发系统崩溃",
+        "url": "https://mp.weixin.qq.com/s/3209bkkay622iJv30ZFpMg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "渗透测试必备：403自定义Payload的自动化绕过工具",
+        "url": "https://mp.weixin.qq.com/s/p-Dsfoypv67MIuoHdrpxfw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "奇安信2025年网络安全漏洞态势报告：高危集中化、攻击智能化",
+        "url": "https://mp.weixin.qq.com/s/gVibQpGjpJ1OS6O_AteqZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "若依常见漏洞一把梭（下）",
+        "url": "https://mp.weixin.qq.com/s/30ZqYZJP6zf1R_BYIKkqzA",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "手搓一个“永不掉线”的渗透测试员！Clawdbot+APTP，渗透活儿干成远程遥控流水线",
+        "url": "https://mp.weixin.qq.com/s/hfozeUbU4_5CfEbST_hAFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "工信部：关于防范Microsoft Office安全功能绕过高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/zKNdrHDv1YeYg6uwefbkag",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "渗透测试实战，kali热门工具解析",
+        "url": "https://mp.weixin.qq.com/s/J4lHG-R_TL3KOilqlwQ6pA",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "【免费领】硬核渗透工具：Coablt Strike官方教程（中文版）",
+        "url": "https://mp.weixin.qq.com/s/gT3gUA_ExXWJ4UEaJ7lPLw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "飞牛私有云fnOS远程命令执行漏洞与文件读取漏洞【批量验证脚本】",
+        "url": "https://mp.weixin.qq.com/s/AHcMsvFpu0ko_oWKJ8H5rg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
     }
 ]
