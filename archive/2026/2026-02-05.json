@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s/8k-sBYU44CCtoWzVHZ4vtg",
         "source": "Doonsec",
         "date_added": "2026-02-05"
+    },
+    {
+        "title": "漏洞预警 | OpenClaw 远程代码执行漏洞（CVE-2026-25253）",
+        "url": "https://mp.weixin.qq.com/s/x7tbBKYj5lbMjegp-j9T3Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "记一次APP应组件问题引起的连锁漏洞反应！",
+        "url": "https://mp.weixin.qq.com/s/RYHlkQ3l3-CPIHQQasdDaw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
     }
 ]
