@@ -166,5 +166,131 @@
         "url": "https://mp.weixin.qq.com/s/I3LiN0ddFSvh9IBO7FHGVg",
         "source": "Doonsec",
         "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [已复现！大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508235&idx=1&sn=470133ecf4a177386fd1e0b23fdea8c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493091&idx=1&sn=c92a2154e012e66e1f5b25ac34742bc5",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [【安全圈】爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 / 植入 macOS 病毒",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073999&idx=1&sn=5508575686fa7be60539730ca202eb59",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [【安全圈】Fancy Bear 利用微软 Office 漏洞对乌克兰及欧盟发动网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073999&idx=3&sn=43e865de647357006d609f2404190a10",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [AI 助手OpenClaw 易遭一次点击 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525048&idx=1&sn=cdf70fc2422b01678c8735e83fc62b3b",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [Apache Syncope 漏洞可用于劫持用户会话",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525048&idx=2&sn=58b797888d5027994282725ccb9f23de",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [共建开源生态安全！ByteSRC正式启动开源项目漏洞收录计划！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496013&idx=1&sn=99e9040f0bcba562aa2143bd984b498a",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "] [【已复现】Microsoft Office 安全功能绕过漏洞(CVE-2026-21509)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504636&idx=1&sn=3faa5525b063245cb853d84c65a94254",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "工信部：关于防范Microsoft Office安全功能绕过高危漏洞的风险提示；网络攻击新手法：签名合法驱动被利用，59款EDR/防护软件遭终止| 牛览",
+        "url": "https://mp.weixin.qq.com/s/L5AuBW7-2Y5xNzXfTZV4Zg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "行业资讯：AI智能体挖漏洞靠谱么？或许这场比赛的结果能告诉你答案",
+        "url": "https://mp.weixin.qq.com/s/RSvICD-zUTYFD0cj_54vdA",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "APT28 利用微软 Office 漏洞（CVE-2026-21509）实施间谍类恶意软件攻击",
+        "url": "https://mp.weixin.qq.com/s/_lIlPUC7J_HU590bBYqoTw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "Chrome 漏洞可导致攻击者执行任意代码并引发系统崩溃",
+        "url": "https://mp.weixin.qq.com/s/lcz0eEe-I8IMvDehxDmesg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "Django 高危漏洞可引发拒绝服务与 SQL 注入攻击",
+        "url": "https://mp.weixin.qq.com/s/a6382uLO8Q7YnH6GGo6Fdw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "南洋理工大学 | PENTESTGPT：评估与利用大语言模型实现自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/q4psdJ_JHGQ7jfmneafUVA",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "【在野利用】SolarWinds Web Help Desk 未授权远程代码执行漏洞（CVE-2025-40536&amp;CVE-2025-40551）",
+        "url": "https://mp.weixin.qq.com/s/NhLATenw7IHFzMSFSPVgXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "Jeecg-Boot 远程命令执行漏洞xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/Bs9KTXzK4h6CCiG5bcpYdw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "综合漏洞利用工具 -- FnOS-GUI-Exploit-Tool（2月4日更细腻）",
+        "url": "https://mp.weixin.qq.com/s/eql-mJgut6GOZ7HvIIuIUA",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "【代码审计】从日志告警到通用0day的挖掘",
+        "url": "https://mp.weixin.qq.com/s/QOqBiTc_R2wl37jP9vmzHg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "【代码审计】Fastjson_net反序列化",
+        "url": "https://mp.weixin.qq.com/s/16bZOPiT9EKPTI8b-hwgDg",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "信息安全漏洞月报（2026年01月）",
+        "url": "https://mp.weixin.qq.com/s/IlZqEn0BUdPtZ-lBDYQnIQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第5期）",
+        "url": "https://mp.weixin.qq.com/s/MlJv1zywQc-TOwzpH86pYw",
+        "source": "Doonsec",
+        "date_added": "2026-02-05"
     }
 ]
