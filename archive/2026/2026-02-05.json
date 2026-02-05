@@ -406,5 +406,95 @@
         "url": "https://mp.weixin.qq.com/s/AHcMsvFpu0ko_oWKJ8H5rg",
         "source": "Doonsec",
         "date_added": "2026-02-05"
+    },
+    {
+        "title": "天地伟业Easy7 exportGisObj 文件读取漏洞",
+        "url": "https://mrxn.net/jswz/easy7-gis-exportGisObj-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "深信服运维安全管理系统 add_DNS 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-add_DNS-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "天地伟业Easy7 getCurrentUserInquestRooms_ZHGL SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-inquestRoom-getCurrentUserInquestRooms_ZHGL-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "用友U8Cloud /u8cloud/openapi/ce.paper.query SQL 注入漏洞",
+        "url": "https://mrxn.net/jswz/u8cloud-openapi-ce-paper-query-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞",
+        "url": "https://mrxn.net/news/fnos-Directory-Traversal-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA EpassInitTakenSnCheck.aspx、EpassInitTakenSnExec.aspx、EpassInitTakenSnInva.aspx、EpassValidate.aspx XXE+SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-EpassInitTakenSnCheck-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "东胜物流软件 /MvcShipping/MsBaseInfo/GetProParentModuTreeList SQL 注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-MsBaseInfo-GetProParentModuTreeList-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA JHSoft.Web.H5SiteControl/xmlhttp.aspx XXE漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-H5SiteControl-xmlhttp-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "东胜物流软件 CompanysAccountGridSource.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-Shipping-CompanysAccountGridSource-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA Jhsoft.Web.dossier/XMLHttp.aspx XXE漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-dossier-XMLHttp-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA JHSoft.Web.Departments/XmlHttp.aspx XXE+SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-Departments-XmlHttp-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "孚盟云CRM lkpClientsCust.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-PagePopWindow-lkpClientsCust-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA JHSoft.Web.CrmSystemSet/XMLHttp.aspx XXE漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-CrmSystemSet-XMLHttp-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "孚盟云CRM AjaxWriteMail.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Ajax-AjaxWriteMail-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
+    },
+    {
+        "title": "金和OA ExamineNodCommisionDefault.aspx XXE漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-ExamineNodCommisionDefault-xxe.html",
+        "source": "MRXN",
+        "date_added": "2026-02-05"
     }
 ]
