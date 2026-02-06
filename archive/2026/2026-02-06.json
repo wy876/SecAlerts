@@ -382,5 +382,35 @@
         "url": "https://mp.weixin.qq.com/s/wzZT_YT5jY8W4FkLssW7XQ",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "Samstung 第 1 部分：MagicINFO 9 Server 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/vRFmlvpWELped7WjyoLDbg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Samsung MagicINFO 9 预认证 RCE 漏洞链分析 - TOCTOU 竞争与目录遍历导致认证绕过",
+        "url": "https://mp.weixin.qq.com/s/uTLuyDiY03iBLRoj1-dZQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "0day速报：棋士AI代码审计又双叒叕发现新漏洞",
+        "url": "https://mp.weixin.qq.com/s/uRpTMUZVrnevvrB2GyrHKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【漏洞通告】n8n 表达式执行漏洞导致命令执行(CVE-2026-25049)",
+        "url": "https://mp.weixin.qq.com/s/Pdmk2xThBcEhXhFzxGqphQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "渗透利器burpsuite，官网被挂载xss",
+        "url": "https://mp.weixin.qq.com/s/5dJ0rnUDSbBVf83iJ8Wf6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
