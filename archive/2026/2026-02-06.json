@@ -550,5 +550,11 @@
         "url": "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "AMD 不予修复的远程代码执行漏洞（中间人）",
+        "url": "https://mp.weixin.qq.com/s/qBCIfgVHPco-PxLn5JGmMw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
