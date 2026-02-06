@@ -478,5 +478,65 @@
         "url": "https://mp.weixin.qq.com/s/JQ_jcWNyXtweJDsyRWXVBQ",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "【靶场复现】Ivanti EPMM Pre-RCE漏洞CVE-2026-1281/1340",
+        "url": "https://mp.weixin.qq.com/s/Wo59F-Hkh8py_3CWfF4JmA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
+        "url": "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "网络钓鱼和OAuth令牌漏洞导致Microsoft 365全面入侵",
+        "url": "https://mp.weixin.qq.com/s/cOEsDXrelY7xCIrznIxMrg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "2026年1月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s/0MHKw8W5fGeo86owr8hC9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "玄域Web/安卓/苹果App渗透靶场-新增CTF-SQL注入系列靶场-总靶场环境数突破260+",
+        "url": "https://mp.weixin.qq.com/s/ZTfeD2xkEtxUu4CEVv9h1g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "两个漏洞可用于攻陷谷歌 Looker 实例",
+        "url": "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "勒索月报 | 360披露1月勒索软件流行态势：AI助长攻击向高认知技术群体渗透",
+        "url": "https://mp.weixin.qq.com/s/XU6eP4IHmlNzEwRWDhIy-A",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "2026年1月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
+        "url": "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
+        "url": "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
