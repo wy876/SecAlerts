@@ -340,5 +340,35 @@
         "url": "https://mrxn.net/jswz/bigant-loginByToken-authbypass.html",
         "source": "MRXN",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "利用 LLM 加速漏洞挖掘：我是如何在 Scada-LTS 中发现 Stored XSS 并拿到人生第一个 CVE 的",
+        "url": "https://mp.weixin.qq.com/s/cA_rlI3qQW5THz_LFbkrPA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "我是如何利用二级上下文漏洞触发后端 API 调用中的 SSRF 和路径遍历攻击的",
+        "url": "https://mp.weixin.qq.com/s/1kcK8V1NKgZgmvvAi_Hr5Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "某即时通讯系统缓存投毒->代码注入RCE",
+        "url": "https://mp.weixin.qq.com/s/EUCyc-y6acIlkK6yEXdovg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【红队武器库】100+款漏洞利用工具合集，从Shiro主流框架到云资产全覆盖",
+        "url": "https://mp.weixin.qq.com/s/i-rU2q_ZrcHXlrOhP--IwQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【红蓝队必备】：一款红/蓝队环境自动化部署工具,支持多种场景,渗透,开发,代理环境,服务可选项等",
+        "url": "https://mp.weixin.qq.com/s/_J8PfKhQCBVsN4FOC7HNLQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
