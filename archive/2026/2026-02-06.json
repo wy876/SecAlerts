@@ -412,5 +412,71 @@
         "url": "https://mp.weixin.qq.com/s/5dJ0rnUDSbBVf83iJ8Wf6Q",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "工具推荐&amp;&amp;SQL注入漏洞检测神器",
+        "url": "https://mp.weixin.qq.com/s/VTPMSs-_rL4-qt_b5xW62A",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "gemini-mcp-tool 命令注入漏洞深度分析(CVE-2026-0755)",
+        "url": "https://mp.weixin.qq.com/s/p8FCNU22g_YqE4oxBwdZug",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【漏洞通告】n8n 表达式沙箱逃逸导致远程代码执行漏洞(CVE-2026-25049)",
+        "url": "https://mp.weixin.qq.com/s/HRfsYKM9TyDHh6kjrAFjjg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "JAVA代码审计之Thymeleaf模板注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/lzft8UrsChCa-g4uFAtQMQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "CVE-2025-48281 SQL注入",
+        "url": "https://mp.weixin.qq.com/s/JWWeDFbAIR37yk8fm86FMw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Cisco 0-Day RCE 安全电子邮件网关漏洞已被实际利用",
+        "url": "https://mp.weixin.qq.com/s/NA40gl6fj3UFuevxwg48Tg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "安全热点周报：SolarWinds 严重远程代码执行漏洞已被积极利用",
+        "url": "https://mp.weixin.qq.com/s/mT6OwOmpFsvIP4roz3SdIg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "信息安全漏洞周报【第059期】",
+        "url": "https://mp.weixin.qq.com/s/hN6B5Hnvl-wmXUekNaa4nQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆",
+        "url": "https://mp.weixin.qq.com/s/e4pM_G3TJakyGj750mmzIw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "渗透测试工程师手册，全是干货，收藏必备",
+        "url": "https://mp.weixin.qq.com/s/rYJ9FZBVYte4QT1gwEHLqw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "神农安全SRC漏洞挖掘公开课交流群",
+        "url": "https://mp.weixin.qq.com/s/JQ_jcWNyXtweJDsyRWXVBQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
