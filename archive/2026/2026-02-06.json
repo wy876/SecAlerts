@@ -310,5 +310,35 @@
         "url": "https://mrxn.net/jswz/bigant-upload_file-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "CentOS 9 新漏洞允许攻击者提升至 root 权限——PoC 发布",
+        "url": "https://mp.weixin.qq.com/s/kJ1nfNQQzoCcPZaUqRRgAA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "VMware ESXi 中的 CVE-2025-22225 漏洞现已被用于勒索软件攻击",
+        "url": "https://mp.weixin.qq.com/s/DGlUb5lXHIbWHfUYoKPR0g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "飞牛 FnOS myapp存在目录遍历、文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/GWjw-3u6XnVV8VQmTqGgWg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "洞见AI时代漏洞攻防，天融信发布《2025年网络空间安全漏洞态势分析研究报告》",
+        "url": "https://mp.weixin.qq.com/s/vSyXocSl_bCxHvlueXMcOg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 loginByToken 逻辑错误至权限绕过漏洞",
+        "url": "https://mrxn.net/jswz/bigant-loginByToken-authbypass.html",
+        "source": "MRXN",
+        "date_added": "2026-02-06"
     }
 ]
