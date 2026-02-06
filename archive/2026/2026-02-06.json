@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s/_J8PfKhQCBVsN4FOC7HNLQ",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "CVE-2025-8949漏洞复现技术分享",
+        "url": "https://mp.weixin.qq.com/s/UBUvlozD7JNRi4rUYm-a2g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "关于防范Apache Struts2开源应用框架XML外部实体注入高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/wzZT_YT5jY8W4FkLssW7XQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
