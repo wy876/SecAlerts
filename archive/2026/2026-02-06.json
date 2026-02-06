@@ -1,0 +1,224 @@
+[
+    {
+        "title": "漏洞实战：怎么利用 XSS、BAC 和 CSRF 实现平台级接管的",
+        "url": "https://mp.weixin.qq.com/s/IlyyCCU-SeusEZBxdPImQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆",
+        "url": "https://mp.weixin.qq.com/s/HDWi-CRvI7i094YVwo9PxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "AI-Vanguard v1.3：“双模型 + Skill”架构智能安全渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/BBvb5ZmFwhISHTFOsYSm2A",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Interlock利用游戏反作弊驱动0day漏洞，精准瘫痪EDR/AV系统实施双重勒索",
+        "url": "https://mp.weixin.qq.com/s/LTJvzJSvSpPW78-ZNCgmsQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Django高危漏洞可引发拒绝服务与SQL注入攻击",
+        "url": "https://mp.weixin.qq.com/s/qDwcASKl_qgcVOQme94D_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "LookOut：Google Looker 双重漏洞深度技术分析",
+        "url": "https://mp.weixin.qq.com/s/sY7-Y5nwJle4d9fJkZJF8g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "第3期：Web漏洞挖掘实战｜XSS跨站脚本漏洞原理与绕过技巧",
+        "url": "https://mp.weixin.qq.com/s/mw8sTIA2Cyp134GUpXX_1Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "内网渗透中的权限扩展（二）：利用Windows默认UAC配置提权",
+        "url": "https://mp.weixin.qq.com/s/wPHo5veIrkkmh-5d9qLjkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "0day代码审计：某知名OA SQL注入",
+        "url": "https://mp.weixin.qq.com/s/ok8NxUWwkDwrjQXPyN8SHw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "CVE-2025-11730：在ZYXEL防火墙中玩\\\"文字游戏\\\"通过DDNS配置获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/oZRPzfMwicd3glK5MYEYgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "漏洞复现 | SmarterTools SmarterMail 远程代码执行漏洞(CVE-2026-24423)",
+        "url": "https://mp.weixin.qq.com/s/0k1-7u-CxcEKNPke6AOIqA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 / 植入 macOS 病毒|黑客放出新变种病毒针对fnOS升级！官方紧急通告",
+        "url": "https://mp.weixin.qq.com/s/neIZUT73kAjzg3KLiNTUgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "热门平台 n8n 遭遇三重远程代码执行漏洞威胁",
+        "url": "https://mp.weixin.qq.com/s/D50kcwL_ytlaPDwyyv_hJA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 / 植入 macOS 病毒|黑客放出新变种病毒针对fnOS升级！官方紧急通告",
+        "url": "https://mp.weixin.qq.com/s/8V7KcHmF-kOerT6Rexrv3Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "飞牛系统（fnOS）远程代码执行链：认证绕过",
+        "url": "https://mp.weixin.qq.com/s/BJp2EPHfMQ2zjlctQyIFaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "Amaranth-Dragon 威胁组织利用 WinRAR 漏洞获取受害者系统的持久访问权限",
+        "url": "https://mp.weixin.qq.com/s/_CD849pEIAYS_nA_TaFU3w",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "n8n漏洞使数十万个企业人工智能系统面临风险",
+        "url": "https://mp.weixin.qq.com/s/47iSodfkDoXVptNC7FToIg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "小品-T0级漏洞",
+        "url": "https://mp.weixin.qq.com/s/SzJxSrcScDm6z14jozfmbA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "疑似俄罗斯背景APT28组织利用最新漏洞及云C2基础设施发起隐蔽攻击",
+        "url": "https://mp.weixin.qq.com/s/jyAQ5Igjm9OdYiuRXm_F-g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "新政策出台，数据安全、风险评估、漏洞管理市场需求或将迎来激增",
+        "url": "https://mp.weixin.qq.com/s/zEpVqAb2MCabTRvBl1LpPw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "深入剖析GCP Looker漏洞：从RCE到跨租户数据泄露",
+        "url": "https://mp.weixin.qq.com/s/DYqgzvR-gbshNVrIZpOdtw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "一款 AI 驱动的全自动红队渗透测试智能体",
+        "url": "https://mp.weixin.qq.com/s/OL0IjTsCFtLHb8VQGIAf6g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "FnOS 漏洞利用GUI工具：路径泄露、文件读取、远程执行",
+        "url": "https://mp.weixin.qq.com/s/LQ4_n6NJWFhqtvNbtDBRYg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "蛙池AI 一款无门槛渗透测试神器！",
+        "url": "https://mp.weixin.qq.com/s/ttF9q37ZpZmj2YigHkaZPg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "漏洞预警 | OpenSSL栈缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s/PIu4zAVq9zgcJe3okRZ20A",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/r9oPWhMe5SYPqStp12RsIA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/EHk3ilen37_AMTlE8O1kBg",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "2026-使用Ubuntu 24.4打造出一个多元素的黑客漏洞实验室|用于Ai助手训练或者是个人实践—完整版",
+        "url": "https://mp.weixin.qq.com/s/8OfKxOu0RxiehLi9-6aVDA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "工具推荐 | WinDump：后渗透利器，一键自动化收集内网资产与凭据",
+        "url": "https://mp.weixin.qq.com/s/15OkXDPAkgwbcwBYM9S0og",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【高危漏洞预警】SolarWinds Web Help Desk安全控制绕过漏洞CVE-2025-40536",
+        "url": "https://mp.weixin.qq.com/s/GXtI_wu7NGb4YZzarkgy7w",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【高危漏洞预警】SolarWinds Web Help Desk 反序列化漏洞CVE-2025-40551",
+        "url": "https://mp.weixin.qq.com/s/DWCRVC4v0t5TaW_O-gqyJw",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "重磅！Google Gemini 爆发“幽灵日历”漏洞",
+        "url": "https://mp.weixin.qq.com/s/hpbFV-dktRPlq88-rYsOKA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【代码审计】某财务系统代码审计Jdbc Attack bypass+反序列化漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/7PU6feW449ahZIhZUQ_u0A",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【AI安全】重磅！Google Gemini 爆发“幽灵日历”漏洞",
+        "url": "https://mp.weixin.qq.com/s/hA7awp6qrUCTveCO5uPddA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第二章第二节】别找了，高危漏洞有时就藏在最显眼的地方",
+        "url": "https://mp.weixin.qq.com/s/fZbL6kBiSQMK6Y8nC6bguQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "开源这款AI安全测试平台的人，是想让渗透测试工程师集体失业吗？",
+        "url": "https://mp.weixin.qq.com/s/VU1y5AIfHoon3A2Fd7cWfQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "天地伟业Easy7 getActiveEffectTemp SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-obj-getActiveEffectTemp-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-06"
+    }
+]
