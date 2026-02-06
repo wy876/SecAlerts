@@ -538,5 +538,17 @@
         "url": "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ",
         "source": "Doonsec",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "好用到爆了Burp的微信小程序渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/ly6G21lmdZEvHVnaVyO3bA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049",
+        "url": "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
     }
 ]
