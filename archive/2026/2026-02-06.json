@@ -220,5 +220,95 @@
         "url": "https://mrxn.net/jswz/easy7-obj-getActiveEffectTemp-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-06"
+    },
+    {
+        "title": "] [n8n出现新漏洞，可用于执行系统命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525056&idx=1&sn=15cdf06676ec490a668ee9af2a579306",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "] [Moxa 交换机中存在严重的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525056&idx=2&sn=1c1e4b6c2a7cfb3e7fcba30a93483c43",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "] [工信部：关于防范Microsoft Office安全功能绕过高危漏洞的风险提示；网络攻击新手法：签名合法驱动被利用，59款EDR/防护软件遭终止| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140430&idx=2&sn=d946d3717568d28c0fee5e3d00dcf40c",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "] [续写三连冠传奇！360勇夺2026天府杯漏洞防护赛独立战队第一名",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584868&idx=1&sn=ec2f56aa33c90ee7676e7d17e2026498",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "web渗透实战 | js.map文件泄露导致的通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s/08uls_k08ED196k-W0LK5Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "吓哭了！天才黑客觉醒！Claude 4.6挖出500个高危0day",
+        "url": "https://mp.weixin.qq.com/s/vcY1IZaZE0Lrch0C0bjMTA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "ThinkPHP漏洞综合利用工具,xa0图形化界面,xa0命令执行,xa0一键getshell,xa0批量检测,xa0日志遍历,xa0session包含,宝塔绕过",
+        "url": "https://mp.weixin.qq.com/s/BcKrQLcCxqQRY3PMwnWGAA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "安全小知识-第二十三期_Struts2的“幽灵漏洞”：S2-045/046为何至今仍有警醒意义？",
+        "url": "https://mp.weixin.qq.com/s/u6WcWv0foJcFGjTLJwwL6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【已复现】n8n 继CVE-2025-68613后再曝表达式沙箱逃逸漏洞可导致任意代码执行（CVE-2026-25049）",
+        "url": "https://mp.weixin.qq.com/s/0HChmdRHR-z3Zov8tLNubA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "叮～你有新的速递！CVE-2026-21509 RCE漏洞（速查）",
+        "url": "https://mp.weixin.qq.com/s/GFxgNj6ct8J9qHM9BWfY8g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "瑞斯康达-多业务智能网关-任意命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/5v2BKlGkO-6jPAvwtYj-ZA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "【新洞速递】CVE-2026-21858远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/vFTs4x4HMdSRH4xiRjrQOA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "快普M6 GetAccountTitleList SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/3CVrYCSOgBKaNNnJBzwmaA",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-24423 RCE漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/c30Ywg_1PNiPdZ61ex-T0g",
+        "source": "Doonsec",
+        "date_added": "2026-02-06"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 upload_file 任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/bigant-upload_file-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-06"
     }
 ]
