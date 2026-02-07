@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/OaAeOmxfBeENHTETmfKsfw",
         "source": "Doonsec",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "OSV-Scanner：一款专门于发现开源软件漏洞的扫描器",
+        "url": "https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
