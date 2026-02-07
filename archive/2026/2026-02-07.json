@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s/5Z81R1hoBFpXbd6LG_n9ug",
         "source": "Doonsec",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "CentOS 9 安全漏洞可被利用进行权限提升 - PoC已发布",
+        "url": "https://mp.weixin.qq.com/s/-3m3_nX_zP4OOhaL_7qHgA",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "黑客利用Windows屏幕保护程序漏洞部署RMM工具，获取远程访问权限",
+        "url": "https://mp.weixin.qq.com/s/zk-LYFz3SAUzX_K8ddX_jw",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
