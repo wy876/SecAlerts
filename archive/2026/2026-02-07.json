@@ -52,5 +52,77 @@
         "url": "https://mrxn.net/jswz/easy7-file-downloadWordRecord-file-read.html",
         "source": "MRXN",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [AMD 不予修复的远程代码执行漏洞（中间人）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185181&idx=1&sn=694f1b9edbb43493063bde24dad2b8bc",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [两个漏洞可用于攻陷谷歌 Looker 实例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525062&idx=1&sn=56b0657b15f93ca3c67f9c4063a221c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609245&idx=1&sn=e7111d374843bb2c5ae4344177656ea5",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609245&idx=3&sn=9c72500d0544dd0c5119aee9e839a325",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [安全热点周报：SolarWinds 严重远程代码执行漏洞已被积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504647&idx=1&sn=4af7eb7843246e7602f87927bfd67674",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [【漏洞通告】n8n 表达式沙箱逃逸导致远程代码执行漏洞(CVE-2026-25049)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525014&idx=1&sn=99f5eb409f66f96f13fef0a4d2d4fb66",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [2026年1月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497185&idx=1&sn=b8378d3048f988204e2ad9540453d7cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "] [2026年1月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485136&idx=1&sn=99db518f5db0321868f0810a424375b8",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "网安靶场实战指南（第11期）：内网横向移动新手版！3个工具搞定跨主机渗透",
+        "url": "https://mp.weixin.qq.com/s/xUQ_qmmEt81kC36NbmbiJA",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "微信小程序渗透测试神器！一键解密wxapkg+自动提取API+敏感信息检测",
+        "url": "https://mp.weixin.qq.com/s/2SXEfQ3t0b8vZUj2fmnvPA",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "多Agent智能协作+40+工具调用：基于大模型的端到端自动化漏洞挖掘与验证系统",
+        "url": "https://mp.weixin.qq.com/s/dmrX_LLfEDTV0u8cH_YqVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "漏洞复现 | 富通天下外贸ERPUploadEmailAttr存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/eutPSwiU3Tbua8ZTxGXTEQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
