@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg",
         "source": "Doonsec",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "内网渗透(十)：横向移动",
+        "url": "https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
