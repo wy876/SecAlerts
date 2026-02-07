@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s/y4Lr2nQARZyvPKtOq-kqRg",
         "source": "Doonsec",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "豆包ai 命令执行？",
+        "url": "https://mp.weixin.qq.com/s/x_O7ppK0FmF0UgNwRw3Z2Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "快普M6 GetCustomerList SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
