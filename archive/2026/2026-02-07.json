@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/GdR_Q6TO6UW_u7AgHXmfAg",
         "source": "Doonsec",
         "date_added": "2026-02-07"
+    },
+    {
+        "title": "【安全圈】紧急预警！n8n 曝严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/aznMhE1yeQaKdniWvHQ9tw",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
+    },
+    {
+        "title": "【蓝队】一个多源漏洞情报聚合工具",
+        "url": "https://mp.weixin.qq.com/s/y4Lr2nQARZyvPKtOq-kqRg",
+        "source": "Doonsec",
+        "date_added": "2026-02-07"
     }
 ]
