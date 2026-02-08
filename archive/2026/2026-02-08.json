@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s/k8nwUDd6xTuJWeN72j6STQ",
         "source": "Doonsec",
         "date_added": "2026-02-08"
+    },
+    {
+        "title": "IDEA代码审计神器！IDEA插件实现Java项目全自动代码审计",
+        "url": "https://mp.weixin.qq.com/s/tbcmTBxJY03SDflN3Rs7ew",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "n8n自动化平台再曝6个漏洞，4个可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/kddO89c4nCtvlI5dQj8MqQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
     }
 ]
