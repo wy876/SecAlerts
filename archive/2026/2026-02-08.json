@@ -112,5 +112,29 @@
         "url": "https://mp.weixin.qq.com/s/kddO89c4nCtvlI5dQj8MqQ",
         "source": "Doonsec",
         "date_added": "2026-02-08"
+    },
+    {
+        "title": "IDEA代码审计神器！IDEA插件实现Java项目全自动代码审计",
+        "url": "https://mp.weixin.qq.com/s/b_oXdUTFUVezs_cuEsedKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/vHIXdvTJz1LtC248VHCu7w",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "CSRF漏洞的降维打击：从盗取点击到完整账户接管的武器化路径-实战场景案例",
+        "url": "https://mp.weixin.qq.com/s/sz9TXsnzbyrtbuO9Tuq0GQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "思源笔记存在前台任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/AaZUEXRODLhYG58nb855fg",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
     }
 ]
