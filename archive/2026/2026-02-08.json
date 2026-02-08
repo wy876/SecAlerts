@@ -1,0 +1,74 @@
+[
+    {
+        "title": "如何检测 CVE-2026-21509 漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/zjULUgMX92bGEHXVTCGs5A",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "漏洞复现 | MetaCRM 客户关系管理系统 mobileupload.jsp 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/OwwPdHDM-_4HwIeTxxhvew",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "代码审计之前端框架篇",
+        "url": "https://mp.weixin.qq.com/s/rrPkw2Zb_1unPi8evTeqsg",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "【代码审计】某校园统一认证任意用户登录",
+        "url": "https://mp.weixin.qq.com/s/947HCNj8_c-Jpu8Zygs7gw",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kw-FGJMiXcAtTAXSoKwRQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "【林晓月的新漏洞科普】AMD AutoUpdate 远程代码执行漏洞深度分析（官方无影响忽略）",
+        "url": "https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "JWT：渗透测试姿势全解析（含实战）",
+        "url": "https://mp.weixin.qq.com/s/ieJghvUwullmaHlwXYy8sw",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "Metasploit Pro：可视化的metasploit渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/MTLmXU1i62d9f-VegrVBUw",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "【JAVA代审】某OA系统0Day审计过程",
+        "url": "https://mp.weixin.qq.com/s/6TbmsjBZX9vYV-YboVz5Ng",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "EPSS深度解析：如何利用漏洞预测评分系统优化现代漏洞管理",
+        "url": "https://mp.weixin.qq.com/s/LaGS8K94rYIx-OmWjDkm7g",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/6TgTyUT_tZHhcpMsqz2uew",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "天地伟业Easy7 queryPassword 信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/easy7-user-queryPassword-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-02-08"
+    }
+]
