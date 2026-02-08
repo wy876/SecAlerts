@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s/nsf2XrJkJJL7O4ItPMUdJg",
         "source": "Doonsec",
         "date_added": "2026-02-08"
+    },
+    {
+        "title": "【在野利用】飞牛OS 未授权命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DDm7RAVsv96GZphMnikrBQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "【已复现】锐明技术Crocus HardwareConfig存在SQLl注入",
+        "url": "https://mp.weixin.qq.com/s/k8nwUDd6xTuJWeN72j6STQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
     }
 ]
