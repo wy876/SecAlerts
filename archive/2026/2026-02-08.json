@@ -70,5 +70,23 @@
         "url": "https://mrxn.net/jswz/easy7-user-queryPassword-data-leak.html",
         "source": "MRXN",
         "date_added": "2026-02-08"
+    },
+    {
+        "title": "] [【安全圈】紧急预警！n8n 曝严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=2&sn=8e912398d2bf5ec8260e938a07b552b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "] [小米 YU7 Ultra 曝光，极速 300KM/小时；影石「Pocket」相机曝光；传英伟达 2026 可能不推新显卡",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098622&idx=1&sn=e19610df6307729a3eaca5c2ca544d18",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-08"
+    },
+    {
+        "title": "CVE-2025-13375：IBM 严重加密漏洞（CVSS 9.8）暴露 HSM",
+        "url": "https://mp.weixin.qq.com/s/nsf2XrJkJJL7O4ItPMUdJg",
+        "source": "Doonsec",
+        "date_added": "2026-02-08"
     }
 ]
