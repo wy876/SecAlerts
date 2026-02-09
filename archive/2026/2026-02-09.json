@@ -214,5 +214,65 @@
         "url": "https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "【漏洞预警】Synectix串口转换器CVSS 10.0漏洞",
+        "url": "https://mp.weixin.qq.com/s/-ZX2_v0S5h_N5Zt4zwvEbw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【漏洞预警】Synectix串口转换器CVSS 10.0漏洞",
+        "url": "https://mp.weixin.qq.com/s/86kRFc4FlJOFy7IxeVuPSQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "记一次坎坷的内网靶场渗透",
+        "url": "https://mp.weixin.qq.com/s/G44GoxaCeAu0l-Amdxxghg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.2.2-2026.2.8",
+        "url": "https://mp.weixin.qq.com/s/PAjJjxuUPvfmNP5pdjZKng",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第5期",
+        "url": "https://mp.weixin.qq.com/s/6A1IcdPpq5gCBdw1udqfEg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞（20260202-20260208)",
+        "url": "https://mp.weixin.qq.com/s/VDW_Wbtj6vaUXMHOHiin8A",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "0127.XML 中隐藏的危险：深入剖析 XXE 注入，助力现代渗透测试人员。",
+        "url": "https://mp.weixin.qq.com/s/xUh8rLlgXXwQvQJSi1qJdg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "XSASTGO 代码审计工具更新",
+        "url": "https://mp.weixin.qq.com/s/PMKLhBlmMR8ymNi5zyUl1Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "预警丨防范Apache Struts2开源应用框架XML外部实体注入高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/XeqYRO-CsF57sbgU7HrJuw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "[跟着静师傅学代码审计]月子会所ERP管理云平台0day审计",
+        "url": "https://mp.weixin.qq.com/s/1ep9tdFBozEiW4yc5BzUMw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
