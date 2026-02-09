@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
