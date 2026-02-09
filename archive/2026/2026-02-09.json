@@ -292,5 +292,17 @@
         "url": "https://mp.weixin.qq.com/s/5wGrOyFWN2WDn7q0PB7Q7g",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "Windows内核溢出漏洞——栈溢出保护(上篇)",
+        "url": "https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "CyberStrikeAI | 仪表盘上线：任务、漏洞、工具调用一目了然",
+        "url": "https://mp.weixin.qq.com/s/qL8fAPdmRlTaf7ficmnBKA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
