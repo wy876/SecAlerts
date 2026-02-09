@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s/qL8fAPdmRlTaf7ficmnBKA",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "某天第一个RCE记录",
+        "url": "https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "WordPress WC Designer Pro（CVE-2025-6440）分析",
+        "url": "https://mp.weixin.qq.com/s/oP0VlggcnOJUMlojCV1Nyg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "Administrator Protection 安全边界绕过漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "通过补丁对比分析 N-day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/-hXWVR1jqa4a022d20h-wA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "爱丁堡大学 | 探索人工智能漏洞的赏金政策与披露实践",
+        "url": "https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
