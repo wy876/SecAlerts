@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s/1ep9tdFBozEiW4yc5BzUMw",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "【安全圈】SandboxJS 四大高危漏洞（CVSS 10.0）可导致宿主系统沦陷",
+        "url": "https://mp.weixin.qq.com/s/hPCXzwlL1ASXhma5INu03g",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【首发复现】用友BIP LoginWithV8存在登录绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/SFYELOHYYrtusy7GH8V1qg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "BeyondTrust 严重漏洞可导致预认证RCE",
+        "url": "https://mp.weixin.qq.com/s/5wGrOyFWN2WDn7q0PB7Q7g",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
