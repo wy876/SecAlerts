@@ -1,0 +1,116 @@
+[
+    {
+        "title": "端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "漏洞复现 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "金和C6 CallSystemShow.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/OV2z-ShfQi0R94UxpbEaZA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【林晓月的新漏洞科普】Arista 下一代防火墙命令执行漏洞科普（CVE-2025-6978）",
+        "url": "https://mp.weixin.qq.com/s/BdpvsY_Xdi8l1tNIrx0Hhg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "OpenClaw高危漏洞可一键窃取主密钥，攻击者直通上帝模式",
+        "url": "https://mp.weixin.qq.com/s/avKOZdsjnOO7aGFi7dqvvA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "一个专为渗透测试和安全评估设计的资产管理平台，提供强大的数据聚合、关系分析和可视化能力",
+        "url": "https://mp.weixin.qq.com/s/-blUqg8AiQMXmJAySACICA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "网安每日干货分享之《文件包含漏洞01》-0209",
+        "url": "https://mp.weixin.qq.com/s/cMQloheSZdqRvTcKgs5Dmg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/lEEToVN-F63htipYEyZdqg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "“Metro4Shell”漏洞自12月以来已被广泛利用",
+        "url": "https://mp.weixin.qq.com/s/KREW5mASyvm2yvZAj_vCIA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "2025-02-08 漏洞攻击分布跟踪",
+        "url": "https://mp.weixin.qq.com/s/co-9XSxMeLWEm08V1zh-JQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "Docker AI助手漏洞：一个标签即可导致RCE与数据窃取",
+        "url": "https://mp.weixin.qq.com/s/0YScfkKjp6TfmdY-WiCktg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "漏洞预警 | Microsoft Office安全功能绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/JbeI-1PqXatlFrrynbZCAg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/SJukanNe_hkHBM6v8t2pDw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "漏洞预警 | 金和OA XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/kBvYscEbm9nAKUJjFFLcaw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "军人和记者成为首要目标：国家支持的黑客如何渗透并监听Signal通信",
+        "url": "https://mp.weixin.qq.com/s/5w7qbs-AFnrnanQtyvfCzA",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "物理防线的“赛博裂痕”：2026 年仍需警惕的安防系统七大真实 CVE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/3rON4iIj8QDG8Lks6pEmDQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "支付类逻辑漏洞挖掘思路与技巧总结|挖洞技巧",
+        "url": "https://mp.weixin.qq.com/s/f6OE6zgD9i310p1PbIXGmg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "网络安全行业，为什么总是谈“两高一弱”是最危险的安全漏洞？",
+        "url": "https://mp.weixin.qq.com/s/ALbrjaO9gOuYd3ytghQF5g",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "天地伟业Easy7 queryUserbyDesc SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-user-queryUserbyDesc-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-09"
+    }
+]
