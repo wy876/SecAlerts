@@ -184,5 +184,35 @@
         "url": "https://mp.weixin.qq.com/s/EGs8IUac267ifzbS_sMstQ",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【AI高危漏洞预警】OpenClaw PATH命令注入漏洞CVE-2026-24763",
+        "url": "https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【AI高危漏洞预警】OpenClaw路径遍历漏洞（CVE-2026-25253）",
+        "url": "https://mp.weixin.qq.com/s/TnARzC04jqnY5oP-uszjoQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "libexif 漏洞复现以及eclipse-cdt调试",
+        "url": "https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "CVE-2025-30936 SQL注入",
+        "url": "https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
