@@ -358,5 +358,11 @@
         "url": "https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw",
         "source": "Doonsec",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）",
+        "url": "https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
