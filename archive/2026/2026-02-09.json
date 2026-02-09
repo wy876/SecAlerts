@@ -112,5 +112,41 @@
         "url": "https://mrxn.net/jswz/easy7-user-queryUserbyDesc-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-09"
+    },
+    {
+        "title": "PHP mail() 命令注入到远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "【独家复现】用友BIP、NC Cloud、NC无条件任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新）",
+        "url": "https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "jeecg框架漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "某安全公司员工焦虑会因AI渗透失业！你也会吗？",
+        "url": "https://mp.weixin.qq.com/s/hb9OUwOc8W_UInWAvT05fg",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
+    },
+    {
+        "title": "大蚂蚁即时通讯系统任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g",
+        "source": "Doonsec",
+        "date_added": "2026-02-09"
     }
 ]
