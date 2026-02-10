@@ -364,5 +364,41 @@
         "url": "https://mp.weixin.qq.com/s/YWDfZEG9CYeUB55jyckzeg",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "印第安纳大学布卢明顿分校 | 基于掩码图注意力网络的漏洞情报对齐",
+        "url": "https://mp.weixin.qq.com/s/UlDHG1zVyvzuEqrK75uGhg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Linux版wx出现重大漏洞",
+        "url": "https://mp.weixin.qq.com/s/E9aNEKccVwekgGwu5bPHHA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "使用 MonkeyCode 发现并修复安全漏洞的一次实践",
+        "url": "https://mp.weixin.qq.com/s/PWShlWVDPRjBAa3Lfyr7DQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Fortinet 修复可导致未认证代码执行的严重 SQLi 漏洞",
+        "url": "https://mp.weixin.qq.com/s/RsLTmpcuGrc2kSHZvy8AZw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Linux WeChat 漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/BcUxjvWNDVcexfu_E_zq2Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Axios 曝高危漏洞，可致 Node.js 服务崩溃",
+        "url": "https://mp.weixin.qq.com/s/nmU-pXT_Vi646Dy_rbhCVw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
