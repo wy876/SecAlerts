@@ -460,5 +460,11 @@
         "url": "https://mp.weixin.qq.com/s/tnwaZQxCOUEee4JBaDp39g",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "【快讯】Linux版本的微信 1Click RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/wzHkst0lMeGzD1MAfjf-dQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
