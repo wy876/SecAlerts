@@ -310,5 +310,29 @@
         "url": "https://mp.weixin.qq.com/s/mt75EZCojazrhYjzShtcoQ",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "【附POC及复现环境】Linux版微信 1-click任意命令执行漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/wrtOHZkl-8-PqYbXCtpzpw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Kali Linux渗透测试，入门到精通，PDF高清版下载",
+        "url": "https://mp.weixin.qq.com/s/j8Wrib8RfJmQ0zb6ATZ91A",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "WeChat for Linux 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/1w6cYlFTWrdtfHgKpwmUxg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【威胁监测】微信 for Linux存在RCE执行风险",
+        "url": "https://mp.weixin.qq.com/s/VQt-hwwjCtBuQSgPCkAwJQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
