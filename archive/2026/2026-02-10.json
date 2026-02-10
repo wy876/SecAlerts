@@ -220,5 +220,35 @@
         "url": "https://mp.weixin.qq.com/s/PfoAeF-9eoXG6YE7AFU_TQ",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "【吃瓜】某信W*Cha*RCE任意文件执行",
+        "url": "https://mp.weixin.qq.com/s/P3dbjpbjhQcYWtI72qGyWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 linux最新版 1click RCE 已复现",
+        "url": "https://mp.weixin.qq.com/s/SFFDl1Zh2wVUPcA8uq2SCg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【高危漏洞预警】Gogs自托管Git服务远程命令执行漏洞CVE-2025-64111",
+        "url": "https://mp.weixin.qq.com/s/eQ9Kq31pArPxxvNF3adNFw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Airflow认证绕过漏洞CVE-2026-22922",
+        "url": "https://mp.weixin.qq.com/s/LPchipxRaeBscR872E4lSA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "ctfshow web入门 命令执行2",
+        "url": "https://mp.weixin.qq.com/s/pCxga_rADV47eKyvVYikBQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
