@@ -250,5 +250,65 @@
         "url": "https://mp.weixin.qq.com/s/pCxga_rADV47eKyvVYikBQ",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 linux最新版 1click RCE 已复现",
+        "url": "https://mp.weixin.qq.com/s/Pq3vsB8Caji37EToM-7PeA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Linux版本微信存在命令执行漏洞，信创的有吗？",
+        "url": "https://mp.weixin.qq.com/s/Xs-v_3SjPuS_h1lYmqb_HA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "类型混淆之美：Golang类型混淆到RCE",
+        "url": "https://mp.weixin.qq.com/s/VB2k1yw6jmVsfm6k9MXJWQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Weixin for Linux最新版RCE，利用条件简单，已完成复现！！！",
+        "url": "https://mp.weixin.qq.com/s/az75ibo1fQ64M_DtKdlKrw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【小年快乐】微信最新版RCE 已复现",
+        "url": "https://mp.weixin.qq.com/s/i-OBQqvo9Q83L_PkCGYUtw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "破防了！这款AI渗透神器，直接炸场卷疯安全圈！！",
+        "url": "https://mp.weixin.qq.com/s/P2Q2mcJA2MENb5XnerArCw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【小年快乐】某WeCh** linux存在RCE",
+        "url": "https://mp.weixin.qq.com/s/syhZgd-eonlWBLdG9lY28w",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【吐槽】Linux&amp;信创微信任意命令执行漏洞-用户少而漏洞多",
+        "url": "https://mp.weixin.qq.com/s/4QpTq_P_bLzFR7S6vz4e2g",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "WeChat For Linux rce",
+        "url": "https://mp.weixin.qq.com/s/tJPDDPJYLyWyKYCoEWIUgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 linux最新版 1click RCE",
+        "url": "https://mp.weixin.qq.com/s/mt75EZCojazrhYjzShtcoQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
