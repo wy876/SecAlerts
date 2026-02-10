@@ -1,0 +1,146 @@
+[
+    {
+        "title": "漏洞预警｜GitLab AI Gateway 服务器端模版注入漏洞（CVE-2026-1868）",
+        "url": "https://mp.weixin.qq.com/s/iddnJu9A0g6pUt1LrZpZdw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/ohK8x_KSg93_ebqAP6R57g",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Stirling PDF SSRF漏洞(CVE-2025-55150)",
+        "url": "https://mp.weixin.qq.com/s/bcvQsHxm0ydF06nncGxo8A",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111)",
+        "url": "https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "一次JAVA系统三个组合拳RCE代码审计案例",
+        "url": "https://mp.weixin.qq.com/s/WTOkoscpF6Frd__Enp-7qQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "内网渗透中的权限扩展（三）：在最高 UAC 级别下获取管理员与 SYSTEM 权限",
+        "url": "https://mp.weixin.qq.com/s/MtXJK8236Ka_AQnXSHfJPA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "天堂之门：发现谷歌云 Apigee 中的跨租户漏洞",
+        "url": "https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆",
+        "url": "https://mp.weixin.qq.com/s/CAtYwxXHEk9m0NpNuO4RBQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "[跟着静师傅学代码审计]宏景人力资源信息管理系统代码0day审计",
+        "url": "https://mp.weixin.qq.com/s/dBNTz_Qd12cL4ATZvSWv-w",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Fortinet FortiClientEMS 存在严重漏洞，可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/uv3EpFEPBcyc1GuKpCSvXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库",
+        "url": "https://mp.weixin.qq.com/s/KB4t2bLpurTZq9_YiVaUOA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Everything - Post Exploitation",
+        "url": "https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "殡仪馆 AshesSearch.jsp 存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "LLM 越来越多地发现零日漏洞，颠覆传统源代码审计方法",
+        "url": "https://mp.weixin.qq.com/s/me6o045-iaY08MYWvawj_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "LLM漏洞发现技术细节",
+        "url": "https://mp.weixin.qq.com/s/yoi7l5KMncILSst4f_IJ3Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【已复现】深信服运维安全管理系统 common.jsp 存在任意文件上传(CVE-2025-15503)",
+        "url": "https://mp.weixin.qq.com/s/q1lZQHz6-GvEkPNrpy3KuQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "GOGS 严重缺陷（CVSS 9.3）允许远程代码执行和绕过双因素认证",
+        "url": "https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！",
+        "url": "https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "漏洞预警 | Google Chrome类型混淆漏洞",
+        "url": "https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "漏洞预警 | 用友U8Cloud SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/jOSEg8Sbom4P-5JJ6S3acw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "Claude暴10分RCE漏洞：AI权力滥用危机再现",
+        "url": "https://mp.weixin.qq.com/s/7-X0ePw2lsxMwF6aE7S9yA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "确认！欧盟委员会遭网络攻击：祸起Ivanti产品漏洞",
+        "url": "https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "天地伟业Easy7 downloadNote 文件读取漏洞",
+        "url": "https://mrxn.net/jswz/easy7-file-downloadNote-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-02-10"
+    }
+]
