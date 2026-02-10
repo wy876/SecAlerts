@@ -142,5 +142,83 @@
         "url": "https://mrxn.net/jswz/easy7-file-downloadNote-file-read.html",
         "source": "MRXN",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.2.2-2026.2.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503707&idx=1&sn=c5920a30446db974acf080295d5c45a9",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [BeyondTrust 严重漏洞可导致预认证RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525079&idx=1&sn=bc6beaea30527b11fef87c2999455814",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [【安全圈】SandboxJS 四大高危漏洞（CVSS 10.0）可导致宿主系统沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074077&idx=3&sn=2212433e0052234e208a36638250a811",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [XSASTGO 代码审计工具更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490782&idx=1&sn=843526022d9b889fceb97ba69a1d11ff",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第5期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496701&idx=1&sn=3dbd1b15bab5141997f2c3443603193c",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞（20260202-20260208)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496701&idx=2&sn=37cf7cd1606ba0d031288880a1baca2e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "edu实战之框架漏洞",
+        "url": "https://mp.weixin.qq.com/s/ChOKqs9yNgdPhM7XkHwvPg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "外网到内网渗透测试案例（1）",
+        "url": "https://mp.weixin.qq.com/s/bCxYzIhzSqb9QN93r8MmdA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "思科会议管理软件曝高危漏洞，允许认证攻击者上传文件获取root权限",
+        "url": "https://mp.weixin.qq.com/s/I71ED2Ef481WqRAdpF3oKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "CVE-2025-6978：当防火墙也会\\\"引火烧身\\\"",
+        "url": "https://mp.weixin.qq.com/s/8j1d4fEgMLGwwRaBDGjlig",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【0 day 在野】安科瑞企业微电网能效管理平台存在敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/XmwaOEREqC362FRp4NwpoQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "票友ERP管理系统未授权访问漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/M9_AS_AwXYAzJ8MzC7BzQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【热点漏洞】——飞牛OS路径穿越、协议认证、命令执行（内附POC）",
+        "url": "https://mp.weixin.qq.com/s/PfoAeF-9eoXG6YE7AFU_TQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
