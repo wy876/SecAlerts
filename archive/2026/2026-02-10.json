@@ -352,5 +352,17 @@
         "url": "https://mp.weixin.qq.com/s/nn9JGmRuHpM1B5ddrvoUIQ",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "【已复现】微信Linux版本存在1click远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/60C-Z2ndRdgD-dBoBBnUOg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "ViperStrike：使用大语言模型驱动三模块协作架构实现端到端自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/YWDfZEG9CYeUB55jyckzeg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
