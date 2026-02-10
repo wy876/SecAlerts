@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s/VQt-hwwjCtBuQSgPCkAwJQ",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "Claude Opus 4.6 找到主流开源库中的500多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/P9YcXS4PL08twU7NP7UBBw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "GitLab网关RCE漏洞可致服务器沦陷",
+        "url": "https://mp.weixin.qq.com/s/VPLQgcQT80zGoP9YCcaZvw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 Linux 版 最新版本 1-Click 命令注入漏洞【已复现】",
+        "url": "https://mp.weixin.qq.com/s/nn9JGmRuHpM1B5ddrvoUIQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
