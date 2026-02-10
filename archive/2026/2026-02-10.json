@@ -400,5 +400,23 @@
         "url": "https://mp.weixin.qq.com/s/nmU-pXT_Vi646Dy_rbhCVw",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 Linux 版本命令执行漏洞（QVD-2026-7687）复现与验证",
+        "url": "https://mp.weixin.qq.com/s/cdVCxwRXtICcF7xiJ7BOpg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "vx Linux版本命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/-cdQ1iMzcHPDFgYvu92uFg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "CTF直播预告：无字母数字命令执行详解",
+        "url": "https://mp.weixin.qq.com/s/Kqkt8nWOW_tm4h6cGQ3_bw",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
