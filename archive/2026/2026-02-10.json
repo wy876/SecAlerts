@@ -418,5 +418,47 @@
         "url": "https://mp.weixin.qq.com/s/Kqkt8nWOW_tm4h6cGQ3_bw",
         "source": "Doonsec",
         "date_added": "2026-02-10"
+    },
+    {
+        "title": "10000美元赏金的炼成：在Antigravity中实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/HHOdT2wBgdIp1LaKP5tFQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+        "url": "https://mp.weixin.qq.com/s/Eq3wuIRXL6kb2VeoVAMLaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "红队失业倒计时？我用AI在24小时挖出对手三年都找不到的0day",
+        "url": "https://mp.weixin.qq.com/s/BdCHVWckFQWGh8gIOUSUTA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "大蚂蚁BigAnt即时通讯系统loginByToken接口存在未授权访问 附POC",
+        "url": "https://mp.weixin.qq.com/s/0mBloV6QzSZ3ljvo2lW3rQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "金刚狼2.3: 首款支持AI渗透的WebShell",
+        "url": "https://mp.weixin.qq.com/s/oJFWlAlSa1mN6MvcefkpSQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "微信 Linux 版本命令执行漏洞（QVD-2026-7687）复现与验证",
+        "url": "https://mp.weixin.qq.com/s/Mr_-_52fL927zR25NBzErA",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
+    },
+    {
+        "title": "外网到内网渗透测试案例（1）",
+        "url": "https://mp.weixin.qq.com/s/tnwaZQxCOUEee4JBaDp39g",
+        "source": "Doonsec",
+        "date_added": "2026-02-10"
     }
 ]
