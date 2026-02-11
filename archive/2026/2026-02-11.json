@@ -190,5 +190,65 @@
         "url": "https://mp.weixin.qq.com/s/xE3Zo6AzjmFo1r2a3ztEuA",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第6期）",
+        "url": "https://mp.weixin.qq.com/s/qw0loSqYDI1wkamASl2L_Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "山石安全能力中心｜微软2026年2月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/SH-dcyiFl2cZF71-BjNELA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "upload_forge--专业文件上传漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s/Z8pXB1z0oMtDFpht7V0b3Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "工控安全入门Modbus协议渗透测试与流量分析实战",
+        "url": "https://mp.weixin.qq.com/s/5PG9cgQk2KS9PQrqjgrGOA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "xss_scanner_mix：一款自动化深度XSS漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/cLDM9IAiWe5DMdQ8FKubJg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "智能驱动的安全测试：基于 burp-ai-agent 与Skill技能库的自主渗透演进之路",
+        "url": "https://mp.weixin.qq.com/s/iipv4hKsudQav5_XfJ-1XQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【红队必备】Shiro漏洞内存马注入与回显探测综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/W0ycKckn_UQqdGrbEwJj-Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "第24天-小程序渗透测试终极指南：从信息收集到源码反编译",
+        "url": "https://mp.weixin.qq.com/s/B7Du-OD9mA9r7JeMcJ3krg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "第23天-APP渗透测试超全学习笔记：从入门到实战",
+        "url": "https://mp.weixin.qq.com/s/d7YgOcTUDq68e0XFWiHVPg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "红队利器｜FnOS系统综合漏洞利用框架",
+        "url": "https://mp.weixin.qq.com/s/g0_zT5nkOKfBfSvJ6lBZZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
