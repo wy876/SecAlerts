@@ -250,5 +250,35 @@
         "url": "https://mp.weixin.qq.com/s/g0_zT5nkOKfBfSvJ6lBZZg",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "【已复现】CentOS Stream 9 ROOT 提权漏洞（TyphoonPWN 2025比赛漏洞）",
+        "url": "https://mp.weixin.qq.com/s/RcVHL5KpW3cK0Vlb_fFwmg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "渗透测试手册：60个常用SQL注入Payload清单",
+        "url": "https://mp.weixin.qq.com/s/bvbbnWWsf3Ak30Q_TXieCA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "新政策出台，安全评估、数据安全、漏洞管理市场需求或将迎来激增",
+        "url": "https://mp.weixin.qq.com/s/_wbdAiaYgofSm6ShDWmJ4g",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "CVE-2025-48118  SQL注入",
+        "url": "https://mp.weixin.qq.com/s/dSTxZq3seu0ZOuBn84S6ew",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "致3月份即将出发的探索者： A LETTER TO WEB3 EXPLORERS",
+        "url": "https://mp.weixin.qq.com/s/zjjXhkqdYTgH9U23mIaQXQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
