@@ -442,5 +442,17 @@
         "url": "https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "2026 新春杯 域渗透 WP",
+        "url": "https://mp.weixin.qq.com/s/7WcYMZWjOHODeBFuxWBa0w",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat",
+        "url": "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
