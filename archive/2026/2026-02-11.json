@@ -376,5 +376,47 @@
         "url": "https://mp.weixin.qq.com/s/B-Rg6ksPwjU0GGWZdh7mcQ",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "微信 Linux版本命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "Shannon——全自动 AI 渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/6wmutbYVWobTC8wY-zyc4g",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "微软2月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "已修复 | 微信Linux版本远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
