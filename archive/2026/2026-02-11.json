@@ -424,5 +424,23 @@
         "url": "https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "美国西北大学 | PentestAgent：将LLM代理融入自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/3oqdxLDpAQrDfUbJSbPfTg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【开源】XSAST-Python：AI代码审计工具",
+        "url": "https://mp.weixin.qq.com/s/64fBgd6f6cF0W5ZMRIPgLw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【高危漏洞预警】WeChat/Linux版本命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
