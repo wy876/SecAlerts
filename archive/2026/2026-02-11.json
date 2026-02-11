@@ -292,5 +292,89 @@
         "url": "https://mp.weixin.qq.com/s/CyEDKp_QXuUVFgP7XsiRYw",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增",
+        "url": "https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "SandboxJS四大高危漏洞可完全突破沙箱控制宿主系统",
+        "url": "https://mp.weixin.qq.com/s/JrKaokdFkQpffE0XVcT87Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "紧急修复！Windows 记事本漏洞可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+        "url": "https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【成功复现】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)",
+        "url": "https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【免费领】大神12年经验成果：渗透红队实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/DC87ny2ZWr5F_Eo_-lipnA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【风险通告】微软2月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/xhJRCZjGXCp8UshVudmfpA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "CNNVD通报微软多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/MurzX4_cyzbOZjJmoJN9Yw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【网络安全】微信Linux版高危漏洞已修复 信创安全防护仍需重点强化",
+        "url": "https://mp.weixin.qq.com/s/TPfP4TuP-X44VeyVyEjpGg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "微信Linux版高危漏洞已修复 信创安全防护仍需重点强化",
+        "url": "https://mp.weixin.qq.com/s/OkpO1YkyUBg8xHIHY5oUmQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "优秀论文 | 复旦大学陈平：云边端内核竞态漏洞大模型分析方法研究",
+        "url": "https://mp.weixin.qq.com/s/_LqIQRUivsTSaN8vNqAjpg",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "强推一个基于 Red-Teaming-Toolkit 的红队渗透工具库",
+        "url": "https://mp.weixin.qq.com/s/4FzipKXHlQ2h6MC-96B1pQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "GYscan——综合渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/B-Rg6ksPwjU0GGWZdh7mcQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
