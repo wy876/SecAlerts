@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s/zjjXhkqdYTgH9U23mIaQXQ",
         "source": "Doonsec",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "【漏洞复现】大蚂蚁即时通讯系统存在任意文件读取",
+        "url": "https://mp.weixin.qq.com/s/lEN5pyAiDELFVKpjxkI6Rw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【漏洞通告】微软2月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/CyEDKp_QXuUVFgP7XsiRYw",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
