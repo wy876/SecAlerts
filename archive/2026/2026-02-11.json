@@ -154,5 +154,41 @@
         "url": "https://mrxn.net/jswz/easy7-file-uploadCheckImg-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-11"
+    },
+    {
+        "title": "] [Fortinet 修复可导致未认证代码执行的严重 SQLi 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525085&idx=1&sn=446f5400a46600a37f24df299ba852d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "] [Claude Opus 4.6 找到主流开源库中的500多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525085&idx=2&sn=db60b15e1fca3dbe39ef14ac28b16914",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "] [Axios 曝高危漏洞，可致 Node.js 服务崩溃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609652&idx=3&sn=585c9c3a555a370d3cf0d7e0264abe4c",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "] [印第安纳大学布卢明顿分校 | 基于掩码图注意力网络的漏洞情报对齐",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495002&idx=1&sn=e1cc4d548f09e6960ee302121e72c6ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "ctfshow web入门命令执行3",
+        "url": "https://mp.weixin.qq.com/s/T5z2PECSc7kKkkXQ0IxnvQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
+    },
+    {
+        "title": "【网络安全】DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及",
+        "url": "https://mp.weixin.qq.com/s/xE3Zo6AzjmFo1r2a3ztEuA",
+        "source": "Doonsec",
+        "date_added": "2026-02-11"
     }
 ]
