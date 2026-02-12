@@ -1,0 +1,140 @@
+[
+    {
+        "title": "浅谈渗透中的 WEB 架构",
+        "url": "https://mp.weixin.qq.com/s/DebGAh-L0fbaG6I94r_lsA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "手搓漏洞：4种无工具绕过邮箱验证的实战技法",
+        "url": "https://mp.weixin.qq.com/s/u0i_8unHyha7-FZ_pEr-wg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Host头碰撞漏洞揭秘：如何撞出“不存在”的网站",
+        "url": "https://mp.weixin.qq.com/s/VPE39CO8Mtr3l9x6hvr_2Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "ctfshow web入门 命令执行4",
+        "url": "https://mp.weixin.qq.com/s/dyYofcD5V8k6AnIchSexEQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "一款不错的图形化渗透测试辅助工具",
+        "url": "https://mp.weixin.qq.com/s/qEWTicT-iyacMIh6R5-XcA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "扫过万千漏洞与站点，唯独对你一往情深！综合漏洞利用工具-dddd德帝版",
+        "url": "https://mp.weixin.qq.com/s/k3DgMIPfcvLnSo-E-gwHLQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "复现Windows记事本最新漏洞-CVE-2026-20841",
+        "url": "https://mp.weixin.qq.com/s/Ytyc_s-dP_54i4XhYkyQZA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "利用 Ivanti EPMM 系统零日漏洞的攻击激增",
+        "url": "https://mp.weixin.qq.com/s/Mo_RnPed8f6Qj1uQvhJnBw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "微软表示，黑客正在利用关键0day漏洞攻击 Windows 和 Office 用户",
+        "url": "https://mp.weixin.qq.com/s/uqeunEpeqJEWSC8xv0q85A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "一次edu的渗透测试记录",
+        "url": "https://mp.weixin.qq.com/s/-tfT17-Vg9ctZ8614pkstg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维安全管理系统 getHis 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ljKfH_SRrWnYy0riPvN9bw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "CVSS 10.0！Rancher漏洞致K3s集群面临容器逃逸风险",
+        "url": "https://mp.weixin.qq.com/s/TMdxeHaIZXSw5j_i1rZ6FQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "必备漏洞挖掘工具！聚合 XRAY/AWVS/vulmap，批量搞定漏洞挖掘与验证",
+        "url": "https://mp.weixin.qq.com/s/_SA0zX9mVEJXHJ_KITXo7g",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "伪装成漏洞检测工具样本分析",
+        "url": "https://mp.weixin.qq.com/s/ObURslSFAVSOOcz_axIZCw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "渗透测试之痕迹清理",
+        "url": "https://mp.weixin.qq.com/s/mDJNtlZIHPLxFLW-9IG5zg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "漏洞预警 | 用友时空KSOA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/P-eRD6vL0XJOgsUFGyYYpA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/MYr-IWcFuiLDATOlhXQyvQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/Dbz9GWqNLxu-6o7neIWtkg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "警惕！Ivanti RCE零日漏洞复盘：这是一场针对IT管理者的“外科手术式”打击",
+        "url": "https://mp.weixin.qq.com/s/KbpR09jITNlCMxWn0xiAbA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "深度揭秘：Bloody Wolf 是如何利用 PDF 钓鱼，在三秒内完成内网渗透的？",
+        "url": "https://mp.weixin.qq.com/s/6qCKjfhNpFFtfelqBuuSUA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "韩国加密货币交易所Bithumb因系统漏洞导致出现400亿美元转帐错误",
+        "url": "https://mp.weixin.qq.com/s/NVhjujKg9-UTNQhNIb4Z3A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "必备漏洞挖掘工具！聚合 XRAY/AWVS/vulmap，批量搞定漏洞挖掘与验证",
+        "url": "https://mp.weixin.qq.com/s/3_OconCSMcLWgesztlUHQw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
+        "url": "https://mrxn.net/jswz/easy7-file-uploadMapServerBgImage-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-12"
+    }
+]
