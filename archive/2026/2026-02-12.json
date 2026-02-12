@@ -472,5 +472,23 @@
         "url": "https://mp.weixin.qq.com/s/EP5UbEa_Opksu0aW0sGYwQ",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "苹果修复动态链接器漏洞：曾被用于针对特定个人的极其复杂攻击",
+        "url": "https://mp.weixin.qq.com/s/VyrsqNawUuBzaRahAk8MKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "ctfshow web入门命令执行",
+        "url": "https://mp.weixin.qq.com/s/l94t5KEddfws9UQNvRBfQw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "WordPress备份插件漏洞使数十万个网站面临远程代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s/hqv4btDRV28eWqXi99QIpA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
