@@ -136,5 +136,95 @@
         "url": "https://mrxn.net/jswz/easy7-file-uploadMapServerBgImage-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525101&idx=1&sn=ebdb207062b81e30e6939a2fa2e85a8e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [微软2月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525101&idx=2&sn=973a3ab33cfe6290521da6d90b4c743e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [已修复 | 微信Linux版本远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508241&idx=1&sn=a0b8ee65257340f64f3ca267fd1e090b",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074106&idx=1&sn=72e574f6313d73bd75cec9f20e036c27",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [微软2月补丁日多个产品安全漏洞风险通告：5个在野利用漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504653&idx=1&sn=00b7b70c52946fc115d6caa367bb93fd",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [微信Linux版高危漏洞已修复 信创安全防护仍需重点强化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530583&idx=1&sn=593aa8b3be42abd3c36f877d4f2bf243",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [【开源】XSAST-Python：AI代码审计工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490796&idx=1&sn=e4d4012ea559547857e52b3bd0455886",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "] [紧急修复！Windows 记事本漏洞可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458610691&idx=2&sn=80d56bc5de67e2fddbdb31d16d97a8c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "CVE-2026-20841 - Windows 记事本应用程序远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/-FQHkd95VMyCX3dpK-7BHQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "CVE-2026-26215 - manga-image-translator 中的未经身份验证的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/QCkCaQOOfVB1_DedE-C6Vw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Windows 记事本存在命令注入漏洞？",
+        "url": "https://mp.weixin.qq.com/s/mcdem5SwBw0Dn2_7QBAGVQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【已复现】Microsoft Windows 记事本命令注入漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/nEgpaIP8ooi2FUwhkGZRSw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "基于上下文感知推理的自动化代码审计",
+        "url": "https://mp.weixin.qq.com/s/ycM84jO8_xYC5Kv0QJcOuQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "IDEA代码审计辅助插件（深信服深蓝实验室天威战队强力驱动）",
+        "url": "https://mp.weixin.qq.com/s/4WKECa5VtD-0VK9aXuFvKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【SRC实战】逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
