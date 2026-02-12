@@ -280,5 +280,167 @@
         "url": "https://mp.weixin.qq.com/s/sSM0RUDIlj-PX_a6EcTsYQ",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "记一次渗透色敲网站",
+        "url": "https://mp.weixin.qq.com/s/LcSfd1Nhym_WquiHGygrpQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【复现】Microsoft Windows 记事本命令注入漏洞 CVE-2026-20841",
+        "url": "https://mp.weixin.qq.com/s/_Wb2o2WcTgPP1mySYLHUkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【高危漏洞预警】Microsoft Windows记事本远程代码执行漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/ebb6fIu67sk0EHO0athEDw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "安全专家要失业？MoCQ 手搓漏洞挖掘机",
+        "url": "https://mp.weixin.qq.com/s/I86m2ysuGDPxgB-jIzj8zw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Web-SurvivalScan：用于快速验证资产存活的轻量化渗透测试扫描工具",
+        "url": "https://mp.weixin.qq.com/s/OfBuV6jjWCyW-pDC-07nog",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【AI安全】安全专家要失业？MoCQ 让大模型手搓漏洞挖掘机",
+        "url": "https://mp.weixin.qq.com/s/HFWmAltSQhGnZU7iqC8U-Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "微软修复 Windows 与 Office 零日漏洞，黑客可一键绕过安全机制植入恶意软件",
+        "url": "https://mp.weixin.qq.com/s/Lup0QsucsRXqLByyKyKwDA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【安全圈】“本地回环”成突破口：Clawdbot 默认配置漏洞导致上千实例暴露公网",
+        "url": "https://mp.weixin.qq.com/s/XungM38kKV8Ptuf4Q5JZew",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【安全圈】Apple 紧急修复在野零日漏洞：dyld 组件被用于“高度复杂”定向攻击",
+        "url": "https://mp.weixin.qq.com/s/rtalomS6dyCWbkkYLzaVUQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【成功复现】Microsoft Windows Notepad 命令注入漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/wijomzlCZDlhwqGry19A9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "苹果新 0day 漏洞已用于“极其复杂的”攻击",
+        "url": "https://mp.weixin.qq.com/s/71IAhYgt4nQuG11sE7Iv-A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Ivanti Endpoint 管理器漏洞可导致远程攻击者泄露任意数据",
+        "url": "https://mp.weixin.qq.com/s/3eRHWfVZMqooG87KygHtaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Windows记事本漏洞可导致攻击者远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/R-YKvuSUuJ1y1bXPp8Sk9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "AI写病毒首次实战！React2Shell漏洞遭“代码代写”式攻击，91台服务器沦为矿机",
+        "url": "https://mp.weixin.qq.com/s/tWWQnUQMypFrNeSltS68GQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Microsoft Windows 记事本命令注入漏洞附POC(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/NlnpcPAZ0fcwU9bNsTHZWg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "聊聊如何让自己辛苦挖出的漏洞实现价值",
+        "url": "https://mp.weixin.qq.com/s/CI5KWn2a7VgepHd4BgOe_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【GLM-5挖洞实测】只花5块钱获得某运维审计系统12个漏洞",
+        "url": "https://mp.weixin.qq.com/s/SnfZXRgsEU3XARNQk41dzA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "漏洞预警 | CVE-2026-20841 Windows记事本 Markdown RCE",
+        "url": "https://mp.weixin.qq.com/s/eiKFGI21HsCgxDPu42vw1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "补丁分析|白嫖企业级AI进行漏洞补丁分析",
+        "url": "https://mp.weixin.qq.com/s/V0U6t5LrA5S_HPqAs0vb6A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "用于攻防中红队/渗透痕迹隐藏的工具",
+        "url": "https://mp.weixin.qq.com/s/rITG7jOP97Pae8VND5tj1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "React2Shell漏洞突袭：漏洞深度剖析与企业防御实践",
+        "url": "https://mp.weixin.qq.com/s/4nkALVPfE_qkOITiY_5Mjg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "Microsoft Windows 记事本命令注入漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/YXi8YfLoz_DgHqEE5fEcZQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "用友NC importExcelTemplate 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/bvomxPDoWhUnM06ScBBvGw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "CVE-2026-24343：Apache HertzBeat 漏洞导致资源耗尽",
+        "url": "https://mp.weixin.qq.com/s/7K782WkWwpyl-4EBxsGNsw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "smartbi token回调获取登录凭证漏洞（二）",
+        "url": "https://mp.weixin.qq.com/s/VOBGOe1lCRpNokAHsw49_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【已复现】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/tkujXpr3mFyY5_hTAgPa3A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/KT2fJcb75o_VvAMICk2Dtg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
