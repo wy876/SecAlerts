@@ -226,5 +226,23 @@
         "url": "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "【漏洞复现】腾达路由器曝敏感信息泄露漏洞，可直接获取管理密码。",
+        "url": "https://mp.weixin.qq.com/s/fqrjmoLoXHUuILRe4c7LVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "windows记事本命令注入漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/9ZUrKzSgnTQqVwTvnzja1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "苹果零日漏洞遭恶意利用，发起复杂攻击，目标直指个人用户",
+        "url": "https://mp.weixin.qq.com/s/v10XhK_vXI5za8YiY3951g",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
