@@ -442,5 +442,11 @@
         "url": "https://mp.weixin.qq.com/s/KT2fJcb75o_VvAMICk2Dtg",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "苹果修复动态链接器漏洞：曾被用于针对特定个人的极其复杂攻击",
+        "url": "https://mp.weixin.qq.com/s/ROj7UdxlSaC9kZ9VPDhojw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
