@@ -448,5 +448,29 @@
         "url": "https://mp.weixin.qq.com/s/ROj7UdxlSaC9kZ9VPDhojw",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "AI安全新范式4：当AI蜂群智能（AgentSwarm）遇上自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/a2BzlqEGy69Cjb40MbQn8Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "俄罗斯黑客利用近期修复的微软Office漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s/3Jk93qkjMfHFCDEigM-Hkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "集成 HackBar、指纹识别、Fuzz 扫描渗透测试新利器|XMCVE-WebRecon",
+        "url": "https://mp.weixin.qq.com/s/k3yph0Qqr1ey5JqcZKlF1A",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "一次完整的Kubernetes黑盒渗透测试实战记录",
+        "url": "https://mp.weixin.qq.com/s/EP5UbEa_Opksu0aW0sGYwQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
