@@ -244,5 +244,35 @@
         "url": "https://mp.weixin.qq.com/s/v10XhK_vXI5za8YiY3951g",
         "source": "Doonsec",
         "date_added": "2026-02-12"
+    },
+    {
+        "title": "【已复现】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/Ot5taw_2zs16xTR_VAkjKA",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "SSHStalker僵尸网络利用IRC C2通过旧版内核漏洞控制Linux系统",
+        "url": "https://mp.weixin.qq.com/s/UJmwmFPLRgfmqXHCm2hFZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【已验证】Windows 记事本应用程序远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/rkCl9SwCPyJ9tuI4zQA7eg",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "【漏洞检测POC】Windows记事本命令注入漏洞（CVE-2026-20841）",
+        "url": "https://mp.weixin.qq.com/s/ju2v7nRxPEKGlGl69v_yUQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
+    },
+    {
+        "title": "2026-02微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/sbUez7a_xm-3gOMniaWMqw",
+        "source": "Doonsec",
+        "date_added": "2026-02-12"
     }
 ]
