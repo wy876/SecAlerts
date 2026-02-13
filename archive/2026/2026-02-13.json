@@ -1,0 +1,116 @@
+[
+    {
+        "title": "恒丰银行AI风险官项目POC测试供应商征集",
+        "url": "https://mp.weixin.qq.com/s/Bt8kn2kNFjr3fCmfglQzRw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "「公开课」渗透测试中ICP_Query如何批量快速 ICP备案查询",
+        "url": "https://mp.weixin.qq.com/s/qkxUcuaWnhnrzlzwQCg_2Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "【CVE-2026-20841】Windows记事本RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/ynkJqDL4KBIme9L9gMrEcw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Palo Alto Networks 防火墙漏洞允许攻击者强制防火墙进入重启循环",
+        "url": "https://mp.weixin.qq.com/s/Yfr-5Q5jT2-n0mVAaZ-4yQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "红队渗透工具--AddUser-SAMR",
+        "url": "https://mp.weixin.qq.com/s/nR0sLO88s8WYrdQmZ7yyDA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "【林晓月的新漏洞科普】Roundcube的隐形像素(CVE-2026-25916)",
+        "url": "https://mp.weixin.qq.com/s/nJHyJDUAJwjiQBYTdZ8jNg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+        "url": "https://mp.weixin.qq.com/s/p4WlX_7JVqD3GvVp-ZyBLQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "苹果设备重大漏洞遭“复杂”攻击利用，苹果敦促用户尽快升级修复",
+        "url": "https://mp.weixin.qq.com/s/WtC-2dfGxJ7c3y14EizS4A",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Windows 记事本 Markdown 功能存在远程代码执行漏洞 (CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/V--wYdhmX8wPs4nZsJMGPA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 upload_file 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/AqXOCeMPsZcNJrymj6_GcA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "WordPress备份插件漏洞使80万个网站面临远程代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s/mp_x_EDGgBznxCwRSkOhfA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "CVE-2026-20841 - Windows notepad.exe 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/mmeMBO-ew3x3j04Biq4Yrg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Azure DevOps代理通信劫持：从RCE到云权限提升",
+        "url": "https://mp.weixin.qq.com/s/2AmGddhPwwmA2enJEAXkFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "春运护航、安全筑牢！全力处置加油站收费系统漏洞攻击事件，守护返乡平安路",
+        "url": "https://mp.weixin.qq.com/s/ti0SBR9Obr6ywqUrLnqA0g",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "DragonForce勒索软件技术分析",
+        "url": "https://mp.weixin.qq.com/s/_tc0IoHEttu0yuQfmMl4Ug",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "漏洞预警 | n8n表达式执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/41K84U571pdRoYTdOTrh0Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "漏洞预警 | 博硕BGM任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/MAWPCXIeqhU3YOuzlVnEFw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/O3QIEnxMEeBupkzxVXasFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "天地伟业Easy7 queryDataByTypeEx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-workbook-queryDataByTypeEx-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-13"
+    }
+]
