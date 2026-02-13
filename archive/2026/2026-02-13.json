@@ -112,5 +112,83 @@
         "url": "https://mrxn.net/jswz/easy7-workbook-queryDataByTypeEx-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [伪装成漏洞检测工具样本分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495675&idx=1&sn=248f97c07d4041fa3521a2b472a59a9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [苹果修复动态链接器漏洞：曾被用于针对特定个人的极其复杂攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185265&idx=1&sn=f0e19b84580055e1ab849a13ef7462bb",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [苹果新 0day 漏洞已用于“极其复杂的”攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525108&idx=1&sn=2b500bf8aa918225bd717208dcda3326",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [Ivanti Endpoint 管理器漏洞可导致远程攻击者泄露任意数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525108&idx=2&sn=eb3ace41d769ee7dcd8d459a227040f3",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [【已复现】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504661&idx=1&sn=08fc7397e3412a0f78a9decd0660c052",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [2026-02微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530609&idx=2&sn=e28e5652606dc4ef0e31163d78994802",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [AI写病毒首次实战！React2Shell漏洞遭“代码代写”式攻击，91台服务器沦为矿机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458610783&idx=2&sn=b22f07373e8540d85dd62682cc5b01af",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [【安全圈】“本地回环”成突破口：Clawdbot 默认配置漏洞导致上千实例暴露公网",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074123&idx=1&sn=9b1a9c993553c060ba4ff0723b80d66f",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [【安全圈】Apple 紧急修复在野零日漏洞：dyld 组件被用于“高度复杂”定向攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074123&idx=3&sn=56d3b7691413517a4c4f08c06962d8c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "] [【SRC实战】逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499059&idx=1&sn=5478013a4686e11d3ef928e9cfd28e4f",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "帆软bi反序列漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/xyZ6b4fVbcvkReo3fuIjQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "【已复现】Windows 存储权限提升漏洞(CVE-2026-21508)",
+        "url": "https://mp.weixin.qq.com/s/8j3GAnr5B0UygdJGdJ-gxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Zimbra 10.1.16 修复了 XSS、XXE 和 LDAP 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/b01z8-LUtXP8NvOTI5qqBw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
