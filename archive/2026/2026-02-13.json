@@ -286,5 +286,23 @@
         "url": "https://mp.weixin.qq.com/s/1gQe_phjDXA-S6GYQSxOrw",
         "source": "Doonsec",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "一键自动化渗透测试：AutoPen让渗透测试全流程自动化",
+        "url": "https://mp.weixin.qq.com/s/GaHZXII1Msxx3rFsRMktVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Chrome紧急发布安全更新，修复多个高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/avzLG4iOHfRN-f1IF1UpvA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "【安全圈】飞牛 fnOS 漏洞被批量利用",
+        "url": "https://mp.weixin.qq.com/s/G4IxQITuWEKoyry7fBOiXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
