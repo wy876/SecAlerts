@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s/G4IxQITuWEKoyry7fBOiXw",
         "source": "Doonsec",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "Chroma DB未授权信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/301IIMitDMSJQXSOuMBSLA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "补丁分析|白嫖企业级AI进行漏洞补丁分析",
+        "url": "https://mp.weixin.qq.com/s/q3Ev10mQGfQnT45s0WT7bg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "思科修复了攻击中利用的统一通信远程代码执行 0 day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/HnbkYCIuKzr2Mp5vx4EvBA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
