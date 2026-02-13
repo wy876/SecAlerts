@@ -256,5 +256,23 @@
         "url": "https://mp.weixin.qq.com/s/eVUwHrPyiHFKYrzMlLYgxw",
         "source": "Doonsec",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "论坛·2025全球网安概览 | 2025年网络安全漏洞态势与治理趋势",
+        "url": "https://mp.weixin.qq.com/s/2cibUV44CWW9ey87NpDaFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "代码审计 | 朗速ERP漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/pcE3nsgvt0CoehtlE-skkg",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "Webpack 前端攻防：打包机制下的敏感信息泄露与逻辑漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/0uLl7AVJ_NkamI1x33Nf_A",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
