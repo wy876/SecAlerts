@@ -202,5 +202,41 @@
         "url": "https://mp.weixin.qq.com/s/7GvfJUvjaaysCESYeuwoKQ",
         "source": "Doonsec",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/XBC2i-kz--jwfmxpTMTH1w",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "脏牛漏洞提权全解析",
+        "url": "https://mp.weixin.qq.com/s/vg__thEjzQryVFVoe2JnYQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "第28天-Web开发身份验证深度解析：从Cookie、Session到Token，以及代码审计实战",
+        "url": "https://mp.weixin.qq.com/s/fh1sfjv1ySajuDcI4ruiMw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "第27天-PHP超级全局变量安全学习笔记：从开发到代码审计",
+        "url": "https://mp.weixin.qq.com/s/sXdZTh8vGpd1nKatbzSRxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "告别低效命令行！这16款终端工具让你的渗透效率翻倍",
+        "url": "https://mp.weixin.qq.com/s/mvatEf4c1OghpYkHRuFbsw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "黑客利用React Native Metro高危漏洞入侵开发者系统",
+        "url": "https://mp.weixin.qq.com/s/JbgB4xL3UUQUo5Zwk9Uxvw",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
