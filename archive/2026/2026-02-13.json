@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s/b01z8-LUtXP8NvOTI5qqBw",
         "source": "Doonsec",
         "date_added": "2026-02-13"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：Notepad++ 代码执行漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/xNIW4tPZm12fCmO7bywABA",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
+    },
+    {
+        "title": "AIxVuln：安研人的漏洞挖掘数字人团队",
+        "url": "https://mp.weixin.qq.com/s/7GvfJUvjaaysCESYeuwoKQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-13"
     }
 ]
