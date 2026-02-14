@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s/Tqc7yQno7_CDD8pIwLwDGw",
         "source": "Doonsec",
         "date_added": "2026-02-14"
+    },
+    {
+        "title": "第30天-Web开发安全深度剖析：从模板引擎到代码审计的攻防实战",
+        "url": "https://mp.weixin.qq.com/s/yMdomnWCjJFEnIndapD6Bg",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
     }
 ]
