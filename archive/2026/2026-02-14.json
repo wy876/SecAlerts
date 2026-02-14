@@ -118,5 +118,23 @@
         "url": "https://mp.weixin.qq.com/s/Ks0GlVYw62eyyot2bhzKUA",
         "source": "Doonsec",
         "date_added": "2026-02-14"
+    },
+    {
+        "title": "代码审计 | 朗速ERP漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/ucU66FGMsAEScEdl5kbU-A",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
+    },
+    {
+        "title": "【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393）",
+        "url": "https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
+    },
+    {
+        "title": "多数据库后渗透神器！支持MySQL/Redis/MSSQL/PostgreSQL命令执行与文件读取",
+        "url": "https://mp.weixin.qq.com/s/m5Y5V43qQquLCujz_k0fWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
     }
 ]
