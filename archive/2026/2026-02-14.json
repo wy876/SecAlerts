@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s/m5Y5V43qQquLCujz_k0fWA",
         "source": "Doonsec",
         "date_added": "2026-02-14"
+    },
+    {
+        "title": "攻击者火速利用BeyondTrust高危漏洞发起攻击，数千系统面临沦陷风险",
+        "url": "https://mp.weixin.qq.com/s/GqQco2Ku7kBKFvXmUvsInA",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
+    },
+    {
+        "title": "漏洞挖掘之利用js挖掘漏洞",
+        "url": "https://mp.weixin.qq.com/s/Tqc7yQno7_CDD8pIwLwDGw",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
     }
 ]
