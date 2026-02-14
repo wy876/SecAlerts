@@ -100,5 +100,23 @@
         "url": "https://mp.weixin.qq.com/s/3OUaTuxrIlPhguPloKv4Ag",
         "source": "Doonsec",
         "date_added": "2026-02-14"
+    },
+    {
+        "title": "【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393）",
+        "url": "https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
+    },
+    {
+        "title": "【已复现】谷歌紧急修复！已发现在野利用：Chrome 浏览器 CSS 渲染组件高危 UAF 漏洞",
+        "url": "https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
+    },
+    {
+        "title": "二：创建一个高度可利用的windows教育/训练渗透测试环境|终极可持续升级版黑客Lab（Rust）",
+        "url": "https://mp.weixin.qq.com/s/Ks0GlVYw62eyyot2bhzKUA",
+        "source": "Doonsec",
+        "date_added": "2026-02-14"
     }
 ]
