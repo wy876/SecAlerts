@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s/Bl0ATG8xJeeraOCN_9hQYA",
         "source": "Doonsec",
         "date_added": "2026-02-16"
+    },
+    {
+        "title": "Chroma DB存在swagger敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
     }
 ]
