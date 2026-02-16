@@ -58,5 +58,47 @@
         "url": "https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateInfoGridSource-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-16"
+    },
+    {
+        "title": "内网渗透工具--GhostKatz",
+        "url": "https://mp.weixin.qq.com/s/C5De4eyL0xje0w1TGG_BAQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "Havoc：现代化后渗透命令与控制(C2)工具",
+        "url": "https://mp.weixin.qq.com/s/XcqcHKZr-VLKsHOiFMY2rQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "北大医疗信息技术有限公司运营管理与决策支持系统存在弱口令漏洞",
+        "url": "https://mp.weixin.qq.com/s/Sr7m00Yu6aYC-qdDNTClVw",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "NETREAPER – 一把镰刀收割 70+ 渗透神器！",
+        "url": "https://mp.weixin.qq.com/s/VvX1IMGzqEDwZS4J7ae6nQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "你的漏洞，都藏在那些异步加载的JS里。",
+        "url": "https://mp.weixin.qq.com/s/oB0ZN7rmf9zrwg-eGvC7oA",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "Havoc：现代化后渗透命令与控制(C2)工具",
+        "url": "https://mp.weixin.qq.com/s/tI7wYwJurNxz68AmhcSrNg",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "Vulnhub靶机m87_1渗透",
+        "url": "https://mp.weixin.qq.com/s/Bl0ATG8xJeeraOCN_9hQYA",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
     }
 ]
