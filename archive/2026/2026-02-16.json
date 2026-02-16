@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail",
+        "url": "https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "CVE-2026-20841（Win11-记事本RCE）复现学习(未果)",
+        "url": "https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "攻击者在黑客论坛上出售严重级别的 OpenSea 零日漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/xLyqtFXw2yf53bmkmAUaEA",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "全网最全网络安全思维导图库！从Web渗透到工控安全30+领域涵盖APT/云安全/区块链等30+分类",
+        "url": "https://mp.weixin.qq.com/s/AFrN3fq4tE0_cGsgb4-Dhw",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "支持10个CVE！Jenkins综合漏洞利用工具覆盖2015-2024全版本",
+        "url": "https://mp.weixin.qq.com/s/amkhJ9Xinx7BiyhlfYOycg",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "PentestAgent – 集成了预置攻击剧本和 HexStrike 的 AI 渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/GBE5umsg47v0JnYDFRwiYg",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "一个威胁行为者应对近期 83% 的 Ivanti 远程代码执行攻击负责",
+        "url": "https://mp.weixin.qq.com/s/55FNClTACc07z57H1_XqoA",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "渗透测试中常用提权漏洞详解！",
+        "url": "https://mp.weixin.qq.com/s/TOqZoACwIyMih8SiehzPxA",
+        "source": "Doonsec",
+        "date_added": "2026-02-16"
+    },
+    {
+        "title": "东胜物流软件 OpSailingDateInfoGridSource.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-PriceCarrier-OpSailingDateInfoGridSource-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-16"
+    }
+]
