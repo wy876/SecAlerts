@@ -16,5 +16,89 @@
         "url": "https://mp.weixin.qq.com/s/L6ICTiU-siNQDAl_O_AZig",
         "source": "Doonsec",
         "date_added": "2026-02-18"
+    },
+    {
+        "title": "upload_forge：CTF利器-文件上传漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/wGYkJawYCfh1JKsKxNL8Cg",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "在 Firefox 中，将“|”误写为“&amp;”会导致零日远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "OpenClaw日志投毒漏洞可致恶意内容注入",
+        "url": "https://mp.weixin.qq.com/s/gb5E44ld_p4a4d-pboPCrw",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "VulnCheck获2500万美元融资，强化实时漏洞利用情报平台",
+        "url": "https://mp.weixin.qq.com/s/4Sj2eXkTzV-a6bj4StrE4A",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "CVE-2025-40536&amp;CVE-2025-40551｜SolarWinds Web Help Desk未授权远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "CVE-2026-24061｜Telnetd存在远程认证绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/6NqQQ-LzrLYSfAWkwq_t2g",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "渗透利器 | 一款New自动化加解密Tools（附下载）",
+        "url": "https://mp.weixin.qq.com/s/zqAZpFSDYqUJ0qb-Tznf6w",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "【红队必备】自动化管理漏洞扫描工作流(Workflow+Finger+Dir+POC+自动生成Workflow)",
+        "url": "https://mp.weixin.qq.com/s/I_bdJi3A1-fGAwbp8jLc5Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "第三方集成崩盘：Salesforce 可预测 ID 枚举 + Zendesk 前端 admin token 泄露 265 万记录",
+        "url": "https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "渗透测试工具包 | 实战攻防工具 | 漏洞扫描、漏洞利用、后/域渗透等",
+        "url": "https://mp.weixin.qq.com/s/_FW2bDkc6wUlzdJmXmQAYQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "Windows记事本命令注入漏洞（CVE-2026-20841）【已复现】",
+        "url": "https://mp.weixin.qq.com/s/wYf8x0loC7oVhTiIMO_jfw",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "云端密码管理器中的25个漏洞允许未经授权的访问和修改",
+        "url": "https://mp.weixin.qq.com/s/vkn4ns47v4QXKgpQRav7tQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "StealC恶意软件面板中的安全漏洞使研究人员能够监视威胁行为者的行动",
+        "url": "https://mp.weixin.qq.com/s/FKoOXFT1i85Teo79rLFGOg",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
+    },
+    {
+        "title": "天工实验室祝您马年大吉，智能挖洞无漏报，0Day自带RCE！",
+        "url": "https://mp.weixin.qq.com/s/-f4kBB_5rtd39TIiUjdSlQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-18"
     }
 ]
