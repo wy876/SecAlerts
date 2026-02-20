@@ -4,5 +4,101 @@
         "url": "https://mrxn.net/jswz/dongsheng-Modules-ModuleGridSource-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-20"
+    },
+    {
+        "title": "利用MSSQL与ADCS漏洞：攻破域控?",
+        "url": "https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "漏洞监控平台｜5 分钟搭建、7×24 推送、0 元成本",
+        "url": "https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击",
+        "url": "https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "Fortinet SSO漏洞已被积极利用，用于入侵防火墙并获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s/u0scejIAE0SphPE55qv4OA",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "设备漏洞挖掘思路",
+        "url": "https://mp.weixin.qq.com/s/vGbfA8UmBz_-5VXXmxsSlw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "Firefox 0Day漏洞：单字符错误引发RCE风险，攻击者可劫持系统",
+        "url": "https://mp.weixin.qq.com/s/mXYRhR4wSpvowfin-93Buw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "【红队必备】自动化管理漏洞扫描工作流(Workflow+Finger+Dir+POC+自动生成Workflow)",
+        "url": "https://mp.weixin.qq.com/s/VIIKOfKHmQI9FrO91ymU3A",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "upload_forge：CTF利器-文件上传漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/w-doxsDfT3t_WJP2zLhsSg",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "《记一次简单的 EDUSRC 上分之旅（2）：高校系统漏洞挖掘实录》",
+        "url": "https://mp.weixin.qq.com/s/A-QjMZ5lsQVX0HJRsjAAzw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "Super Xray：一款基于 Xray 的漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/7SQViRdF-lUnGAI53HMWtQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "CVE-2026-20408 高危Wi-Fi芯片漏洞曝光，影响多款联发科及Aruba设备",
+        "url": "https://mp.weixin.qq.com/s/tGECRw03_CNxUEpRXoGUZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "微软零日漏洞风暴来袭 | 金融科技遭遇黑色周 | CVE漏洞全面激增",
+        "url": "https://mp.weixin.qq.com/s/5nqXvTcaEgcZv-WZmajYbQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "一站式资产测绘与漏洞风险洞察平台 | FOFA + AI + 智能扫描 【一键GetShell】",
+        "url": "https://mp.weixin.qq.com/s/FuB-jLximu6xWf8JuazJhw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "渗透工程师的“工具航母”",
+        "url": "https://mp.weixin.qq.com/s/8ILx1EKM5Kv66QoOnvsN6A",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：谷歌 Chromium 零日漏洞已被积极用于攻击",
+        "url": "https://mp.weixin.qq.com/s/Xlpd83UZ5snQLS3Apwdlhg",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "微软365 Copilot漏洞允许AI助手摘要敏感邮件",
+        "url": "https://mp.weixin.qq.com/s/rn9S8APXmb1iOXrqbIPasw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
     }
 ]
