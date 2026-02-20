@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg",
         "source": "Doonsec",
         "date_added": "2026-02-20"
+    },
+    {
+        "title": "Jenkins 存在严重漏洞导致建环境易受 XSS 攻击",
+        "url": "https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
+    },
+    {
+        "title": "Tomcat漏洞允许攻击者通过HTTP/0.9请求绕过安全限制",
+        "url": "https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
     }
 ]
