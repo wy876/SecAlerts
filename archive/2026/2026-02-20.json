@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s/rn9S8APXmb1iOXrqbIPasw",
         "source": "Doonsec",
         "date_added": "2026-02-20"
+    },
+    {
+        "title": "Splunk Enterprise for Windows 漏洞允许攻击者劫持 DLL 并获得系统访问权限",
+        "url": "https://mp.weixin.qq.com/s/anr6iAgJZuYV6DyG_9Mlcw",
+        "source": "Doonsec",
+        "date_added": "2026-02-20"
     }
 ]
