@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/5tvvFbzatQnziaqVv82RSg",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "漏洞复现 | Synway SMG网关管理软件 9-13pcap.php 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
