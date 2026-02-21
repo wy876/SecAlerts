@@ -82,5 +82,29 @@
         "url": "https://mp.weixin.qq.com/s/RdN93aG5v9PlOZFUTtK3dQ",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "CVE-2026-27199(Werkzeug)研究",
+        "url": "https://mp.weixin.qq.com/s/bnbugxkdj2bFTzov-T6sXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "30个中间件渗透思路技巧 收藏备用！",
+        "url": "https://mp.weixin.qq.com/s/sWJD_p96bW4H_1U32uWaUg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "成果分享 | 智能体漏洞检测 [ASE\\'25, Security\\'25/26, BlackHat EU]",
+        "url": "https://mp.weixin.qq.com/s/lm6ULPS6uS7ZaHxt8_xy6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "下一代安全评估：AI Agent全自动渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/mif4Ncf_9BtXvK2nD5Y1tg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
