@@ -124,5 +124,29 @@
         "url": "https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "红队渗透必备：自动化代理池，多协议订阅解析工具，生成Clash轮询配置",
+        "url": "https://mp.weixin.qq.com/s/eU2Dk62ArHjtkcKV_DRKVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系",
+        "url": "https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "CVE-2026-27199(Werkzeug)研究",
+        "url": "https://mp.weixin.qq.com/s/lsPV-FJ4ZtKPglIVb4dldQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "Web-Check：一款全面的web网站信息和漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/8l3lF0vjTKToWEqcUHy7Mw",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
