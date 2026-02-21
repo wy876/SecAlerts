@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s/RdI71Ix0Q1XSUi3akA6waA",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "SRC中CSRF漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
