@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s/mif4Ncf_9BtXvK2nD5Y1tg",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "记实战中的越权漏洞挖掘案例分享",
+        "url": "https://mp.weixin.qq.com/s/wq9u7AfbUuS5WeZVEmHw7Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "CVE-2026-27199(Werkzeug)研究",
+        "url": "https://mp.weixin.qq.com/s/5tvvFbzatQnziaqVv82RSg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
