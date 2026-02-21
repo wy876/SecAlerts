@@ -52,5 +52,29 @@
         "url": "https://mp.weixin.qq.com/s/ymcjWGnj1YgCp8UTY0Vm-A",
         "source": "Doonsec",
         "date_added": "2026-02-21"
+    },
+    {
+        "title": "开源自动化渗透框架 ONIST：它真的能挑战 Metasploit 吗？",
+        "url": "https://mp.weixin.qq.com/s/uvMP5VTaGxHQYBQmFfDRiQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "内网渗透工具--scepreq",
+        "url": "https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式",
+        "url": "https://mp.weixin.qq.com/s/CbvZS9VtGnr8dvuTj1-KEg",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
+    },
+    {
+        "title": "OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险",
+        "url": "https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA",
+        "source": "Doonsec",
+        "date_added": "2026-02-21"
     }
 ]
