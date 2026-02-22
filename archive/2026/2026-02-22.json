@@ -82,5 +82,47 @@
         "url": "https://mrxn.net/jswz/dongsheng-StorageController-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "FnOS GUI Exploit Tool:针对 FnOS 系统的综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "【渗透测试】Invicti Professional v26.2.0",
+        "url": "https://mp.weixin.qq.com/s/dYHAwo4nrjU5wEfAn83UVQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "BeyondTrust高危漏洞遭勒索团伙利用，留给企业的时间不多了",
+        "url": "https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "LangGraph 驱动的基于反馈进化的 AI 渗透测试多智能体系统",
+        "url": "https://mp.weixin.qq.com/s/YCKZTOQIDgITfu12p8pM_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "企业 SRC 低投入，高收益漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "[工具·书·人] 把渗透测试交给 AI 来做，这个开源项目做到了什么程度",
+        "url": "https://mp.weixin.qq.com/s/HaDcE5B3OpZvXdBx9eLl-Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
