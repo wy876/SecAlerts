@@ -124,5 +124,11 @@
         "url": "https://mp.weixin.qq.com/s/HaDcE5B3OpZvXdBx9eLl-Q",
         "source": "Doonsec",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中",
+        "url": "https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
