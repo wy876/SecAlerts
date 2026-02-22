@@ -160,5 +160,17 @@
         "url": "https://mp.weixin.qq.com/s/JG-ph4Y9oI61GapIZDMxSQ",
         "source": "Doonsec",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）",
+        "url": "https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "几个常见漏洞挖掘案例分享",
+        "url": "https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
