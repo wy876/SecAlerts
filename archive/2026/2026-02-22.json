@@ -1,0 +1,86 @@
+[
+    {
+        "title": "你的Windows还安全吗？2月6个零日漏洞正在被大规模利用",
+        "url": "https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台",
+        "url": "https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "漏洞复现 | 多客圈子论坛社区系统前台文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/lmKRaMajydqD-Gg6TQL-hw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "LangGraph 驱动的基于反馈进化的 AI 渗透测试多智能体系统",
+        "url": "https://mp.weixin.qq.com/s/eEbwSp3uPoRkWfAzv2Q4Fg",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "企业 SRC 低投入，高收益漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "【严重】CVE-2026-20408 Wifi范围内即可Getshell",
+        "url": "https://mp.weixin.qq.com/s/XgfUrJe0ZyoZKizQEH8Tkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "别瞎琢磨！Web 渗透攻防 30 条实用技巧！",
+        "url": "https://mp.weixin.qq.com/s/MY9SMxYsOo4htm0WW9sdvw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "严重警报：Chrome 零日漏洞 (CVE-2026-2441) 已被利用",
+        "url": "https://mp.weixin.qq.com/s/gTurMGl0RKa6Oj-1ER37oQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "漏洞预警：波及 VS Code 与 Cursor！4款超 1.28 亿安装的插件成黑客攻击跳板",
+        "url": "https://mp.weixin.qq.com/s/-WIFrWr0BTH10WGoDwA43A",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "CVE-2025-2294 网关允许未经认证的用户通过 SpEL 注入和执行任意代码。",
+        "url": "https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "【AI焕新】捷普漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s/dpZaAASV9L_1Uq-qUbgiIw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "白嫖一支 AI 黑客战队！3 分钟本地部署，自动挖洞 + 沙箱 PoC，0 成本干翻传统审计",
+        "url": "https://mp.weixin.qq.com/s/04JUVCLuLODDpmHkFHIyxg",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "Google 官方出品，5 秒扫穿项目依赖漏洞",
+        "url": "https://mp.weixin.qq.com/s/TlLh9DiZKw4n35fDqG6SSA",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "东胜物流软件 StorageController 多个SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-StorageController-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-22"
+    }
+]
