@@ -142,5 +142,23 @@
         "url": "https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A",
         "source": "Doonsec",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施）",
+        "url": "https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "安全研究框架全景：解构 SROF —— 一款开源渗透研究利器",
+        "url": "https://mp.weixin.qq.com/s/JG-ph4Y9oI61GapIZDMxSQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
