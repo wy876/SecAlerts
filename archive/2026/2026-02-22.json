@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww",
         "source": "Doonsec",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "[CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥",
+        "url": "https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
+    },
+    {
+        "title": "Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描",
+        "url": "https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
