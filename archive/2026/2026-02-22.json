@@ -178,5 +178,11 @@
         "url": "https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ",
         "source": "Doonsec",
         "date_added": "2026-02-22"
+    },
+    {
+        "title": "CVE-2026-27470(Zoneminder-二阶注入)研究",
+        "url": "https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg",
+        "source": "Doonsec",
+        "date_added": "2026-02-22"
     }
 ]
