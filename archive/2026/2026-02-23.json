@@ -94,5 +94,23 @@
         "url": "https://mp.weixin.qq.com/s/DB7B63qn92r63Ul-NRSLLA",
         "source": "Doonsec",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "跑？Solana 全链资产要完！ Rust Bug 实现 Validator RCE 和 Money-Printin",
+        "url": "https://mp.weixin.qq.com/s/-p_VkKcZTvdYg_Cx06sPcg",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "你的记事本安全吗？微软记事本漏洞实测自查指南",
+        "url": "https://mp.weixin.qq.com/s/yJwpDyzHLSxei5nf7J_6KQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "内网渗透工具--ADTrapper",
+        "url": "https://mp.weixin.qq.com/s/P290VioF0eD8cndCRPJisg",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
     }
 ]
