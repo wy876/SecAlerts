@@ -76,5 +76,23 @@
         "url": "https://mrxn.net/jswz/bigant-dispersedOrg-upload_file-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "跑？Solana 全链资产要完！ Rust Bug 实现 Validator RCE 和 Money-Printin",
+        "url": "https://mp.weixin.qq.com/s/5sYwSSWvRE18gVHtF4khaA",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "惊天漏洞！Cline供应链攻击-一个GitHub Issue就能劫持百万开发者的AI编程助手",
+        "url": "https://mp.weixin.qq.com/s/-9aSm_2uOF66_NFsx3gAeA",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "【AI自动渗透】霸天虎多智能体自动化渗透框架",
+        "url": "https://mp.weixin.qq.com/s/DB7B63qn92r63Ul-NRSLLA",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
     }
 ]
