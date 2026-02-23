@@ -112,5 +112,23 @@
         "url": "https://mp.weixin.qq.com/s/P290VioF0eD8cndCRPJisg",
         "source": "Doonsec",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "黑客组织大规模利用OpenClaw漏洞，窃取API密钥并部署恶意软件",
+        "url": "https://mp.weixin.qq.com/s/bQsPYiHIL1UrMv8yOxgs7g",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "Web中关于AI功能点的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/Hz_7jszd8AM8A2PgT_iImw",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "代码审计的基本概念和流程，白帽黑客必会！",
+        "url": "https://mp.weixin.qq.com/s/lhKtWnTt4CCu5u4Dmbu7VA",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
     }
 ]
