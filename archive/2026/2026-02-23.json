@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/lhKtWnTt4CCu5u4Dmbu7VA",
         "source": "Doonsec",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "Apache Tomcat 漏洞允许攻击者通过 HTTP/0.9 请求绕过安全约束机制",
+        "url": "https://mp.weixin.qq.com/s/-VstOSf7cD3YjuoCwpu8QQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "谷歌急于发布关键的Chrome更新，以修复严重的PDFium和V8漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZQUqrlHhYhBnIEnwXmiUAg",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
     }
 ]
