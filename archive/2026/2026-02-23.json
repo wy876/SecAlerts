@@ -1,0 +1,56 @@
+[
+    {
+        "title": "企业攻击面管理：从资产发现到漏洞闭环(资产测绘利器)",
+        "url": "https://mp.weixin.qq.com/s/bBCK8qlHR6UEGvQ-Nkekag",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "自动化编写SRC报告平台：安全团队编写漏洞报告神器",
+        "url": "https://mp.weixin.qq.com/s/VNy57s2uEevzdJ_q1GDTYQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "超过 41% 的热门 OpenClaw 技能被发现存在安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/SA3vV8EyIuMpJZ_q-D_Sgw",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "春节特刊 | 提示词注入：大模型安全漏洞案例剖析",
+        "url": "https://mp.weixin.qq.com/s/H3YKBZ3Ftn5PcWW2mxFe9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "漏洞复现 | Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式",
+        "url": "https://mp.weixin.qq.com/s/XQVo2dXJeERm7sNnwycBQg",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "网络安全新闻周报：PayPal 数据泄露、Chrome 零日漏洞、BeyondTrust 远程代码执行漏洞等",
+        "url": "https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "外国安全研究人员眼中的中国两大网络安全漏洞库",
+        "url": "https://mp.weixin.qq.com/s/6WIbsMskNo9RE5BXtpHpEQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "东胜物流软件 MsOpSeaeController 多个SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-MsOpSeaeController-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-23"
+    }
+]
