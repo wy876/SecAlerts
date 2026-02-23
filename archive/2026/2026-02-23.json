@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s/ZQUqrlHhYhBnIEnwXmiUAg",
         "source": "Doonsec",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "从信息收集到后台拿权全记录 SRC 视角下：渗透测试中的逻辑漏洞思路博弈",
+        "url": "https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
     }
 ]
