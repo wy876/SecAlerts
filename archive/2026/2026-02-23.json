@@ -52,5 +52,29 @@
         "url": "https://mrxn.net/jswz/dongsheng-MsOpSeaeController-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-23"
+    },
+    {
+        "title": "【全网首发】lab16域渗透wp",
+        "url": "https://mp.weixin.qq.com/s/hGrX1YEX3K7R8wUz_pRymQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "你的记事本安全吗？微软记事本漏洞实测自查指南",
+        "url": "https://mp.weixin.qq.com/s/R5iZpTP8e4X0doDivFpXtg",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "2026年需重点关注的几类高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s/_W-CsN6VD0JUYKH6EAQvdQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-23"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 DispersedOrgController 任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/bigant-dispersedOrg-upload_file-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-23"
     }
 ]
