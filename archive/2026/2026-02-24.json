@@ -238,5 +238,41 @@
         "url": "https://mp.weixin.qq.com/s/MgzEUGcZ9VgYj7nGQ6GY4A",
         "source": "Doonsec",
         "date_added": "2026-02-24"
+    },
+    {
+        "title": "jsPDF漏洞使数百万开发者面临对象注入攻击风险",
+        "url": "https://mp.weixin.qq.com/s/V77kGVk1DLXp-Fbxx1kVIw",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "OWASP 智能合约十大安全风险与漏洞（2026）",
+        "url": "https://mp.weixin.qq.com/s/MiQE8U55FrArXV5-gpMi9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 plus_get_favicon 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/CAl1ko17ZSdAoOfwIIMpgQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "【0day】东胜物流软件 IPLimitController SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/y_p9GZA1ZjgnlESditgRGw",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "AutoSec 10周年大咖确认 | 一汽大众产品安全与网络安全合规部部长：售后车辆网络安全漏洞全生命周期管理的创新实践",
+        "url": "https://mp.weixin.qq.com/s/E_ycL3Ab9dPNSdekgJzXQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "H5渗透实战：从复数金额漏洞到签名绕过",
+        "url": "https://mp.weixin.qq.com/s/yC_LLKHyI8tuXYlZ0iS14w",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
     }
 ]
