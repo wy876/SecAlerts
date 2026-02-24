@@ -154,5 +154,29 @@
         "url": "https://mp.weixin.qq.com/s/yYpUTUxb9htkHAetidvxdA",
         "source": "Doonsec",
         "date_added": "2026-02-24"
+    },
+    {
+        "title": "【人工智能】自动化逆向分析实例：Xray 漏洞扫描器授权认证机制逆向分析",
+        "url": "https://mp.weixin.qq.com/s/n0-BrivLMMrOaWRX-umBlA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "谷歌Chrome紧急安全更新修复了三个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/3e0vpcXvltDoS3jmay2pDA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA/Hunter/Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+        "url": "https://mp.weixin.qq.com/s/ZxgnZSrU2s7qIT5KJHuV4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 plus_get_favicon 任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/bigant-plus_get_favicon-upload.html",
+        "source": "MRXN",
+        "date_added": "2026-02-24"
     }
 ]
