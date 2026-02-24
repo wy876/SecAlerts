@@ -184,5 +184,35 @@
         "url": "https://mp.weixin.qq.com/s/FBS3bRU-bRw3-nKOy6EnuA",
         "source": "Doonsec",
         "date_added": "2026-02-24"
+    },
+    {
+        "title": "像素AI Agents可视化办公室-Claude安全代码审计",
+        "url": "https://mp.weixin.qq.com/s/-fFLycsut0_3RIcW0poIZA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "CVE-2026-20817 - Windows错误报告(WER) ALPC权限提升漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/dVm2IlIQOVSjLWjHVMRCvA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "现代红蓝对抗中红队针对大型目标的渗透战术分析",
+        "url": "https://mp.weixin.qq.com/s/c2zi-sf1RAUDXa9Yy6NkSg",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "新型变种木马 XWorm 7.2 攻击链深度拆解：Excel漏洞 + 图片隐写 + 进程镂空",
+        "url": "https://mp.weixin.qq.com/s/oemd5bvgrWhalgYcJhzlyA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "【AI自动渗透】霸天虎修改版，支持国内模型提供商",
+        "url": "https://mp.weixin.qq.com/s/8GMl8K72-5-MepzOljNneA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
     }
 ]
