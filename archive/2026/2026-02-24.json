@@ -106,5 +106,53 @@
         "url": "https://mrxn.net/jswz/dongsheng-IPLimit-UpdateIPAddress-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-24"
+    },
+    {
+        "title": "] [2026年需重点关注的几类高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499104&idx=1&sn=177f60dfbf265322390cd98eac4a2a81",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "基于 Agent Team代码审计的 \\\"五大避坑” 指南",
+        "url": "https://mp.weixin.qq.com/s/cxGVuS6-C9ZinQBPwMR-Eg",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "AI vs 人类黑客：谁才是2026年的渗透测试之王？",
+        "url": "https://mp.weixin.qq.com/s/Fr-J7IM2k1pQb2SNykEgmg",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "【红队工具】红队后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s/cEaMDp-y9JGTtpppkuivnQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "【已复现】东方通 TongWeb 的 EJB 服务接口存在反序列化远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/yKAupl6Eboj4CIsf_sZtpA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "GraphQL 渗透测试（面向漏洞赏金猎人）：从端点发现到高影响漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/1ivl78BDAcTYYwIYw2IPWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "H3C路由器敏感信息泄露漏洞xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/B5Fjxtvv3FTp-O-Wbo0tQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
+    },
+    {
+        "title": "渗透测试 / JS 逆向效率低？试试 AntiDebug_Breaker 已上架谷歌插件商店",
+        "url": "https://mp.weixin.qq.com/s/yYpUTUxb9htkHAetidvxdA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
     }
 ]
