@@ -178,5 +178,11 @@
         "url": "https://mrxn.net/jswz/bigant-plus_get_favicon-upload.html",
         "source": "MRXN",
         "date_added": "2026-02-24"
+    },
+    {
+        "title": "CVE-2025-2011 SQL注入",
+        "url": "https://mp.weixin.qq.com/s/FBS3bRU-bRw3-nKOy6EnuA",
+        "source": "Doonsec",
+        "date_added": "2026-02-24"
     }
 ]
