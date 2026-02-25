@@ -214,5 +214,59 @@
         "url": "https://mp.weixin.qq.com/s/ccRaoUpyADs7tEZ03wAk4Q",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "安恒正式推出中国版“Claude Code Security”!恒脑安全智能体漏洞挖掘能力跑出行业加速度",
+        "url": "https://mp.weixin.qq.com/s/A7rUKKcOf5RccwiFESaySg",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "GitHub Copilot漏洞可致代码库遭劫持，攻击者利用AI静默窃取敏感令牌",
+        "url": "https://mp.weixin.qq.com/s/jba1vz708W7K90gopsxt9A",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业",
+        "url": "https://mp.weixin.qq.com/s/KMbHwHEstoh_lSvEDN3CwA",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "漏洞挖掘中的组合拳攻击",
+        "url": "https://mp.weixin.qq.com/s/Az2eMxaNcGRfMSMALDyJSw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "什么操作魔法？安全漏洞轻松到手",
+        "url": "https://mp.weixin.qq.com/s/6Nk3utyfCDeN7K_sf9VQ4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "【内推】渗透测试工程师岗位",
+        "url": "https://mp.weixin.qq.com/s/FoTan11QecM1AVe-mSOrSA",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "一款全方位渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/ibzgKU-sBFCO-BUE4Q2Dqg",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "CVE-2026-24061：潜伏11年的致命漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/VdqN_G-hzgikTFCNN_oBsw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "【红队工具】红队内网后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s/W7TWR4mw8Sx9RCFoJSKPjg",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
