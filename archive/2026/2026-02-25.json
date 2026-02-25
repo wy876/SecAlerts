@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "【利用难度极低】CVE-2026-25253 OpenClaw漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/K1iLP1PsXk3JHAEG88KjXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "谁才是2026年的渗透测试之王？",
+        "url": "https://mp.weixin.qq.com/s/STpJR_zim_teijJuJgqI9Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
