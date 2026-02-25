@@ -142,5 +142,47 @@
         "url": "https://mrxn.net/jswz/dongsheng-MsAnnounce-GetData-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "] [红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485855&idx=1&sn=460e5fceb4ef06fdef994a6a363eea32",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第6、7期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496716&idx=1&sn=b86955a94e460fbcfc73396c793de098",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260209-20260222)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496716&idx=2&sn=ef1d15f61efedbe064a601c35cf7ac98",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "庄荣文：锚定网络强国战略目标推进“十五五”网信事业实现良好开局；OpenAI 工程师因代码漏洞损失 25 万美元加密资产 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/SaZFdVu3o06B5ItFzoyAtQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "实战漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/z0zx7p63s2SouR1mJtgZiQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "美俄0day漏洞对抗简单介绍",
+        "url": "https://mp.weixin.qq.com/s/fyOZZ3x1yxAgOsX6F_ehUw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "VMware Aria漏洞使攻击者能够执行远程代码",
+        "url": "https://mp.weixin.qq.com/s/Fi9hoShBpGhfmfZ9ZyGnqQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
