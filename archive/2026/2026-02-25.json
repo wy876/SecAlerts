@@ -268,5 +268,23 @@
         "url": "https://mp.weixin.qq.com/s/W7TWR4mw8Sx9RCFoJSKPjg",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.1.4更新(优化资源桶遍历功能，支持kkfileview预览，新增空间测绘、AI版域名收集功能等诸多功能)",
+        "url": "https://mp.weixin.qq.com/s/xrwbiMyEbRW0Pecd9OONxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "一个开源的渗透测试辅助平台--Payloader",
+        "url": "https://mp.weixin.qq.com/s/MRMx0FpLvWAJVTWDJMm4Ig",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（一）ICS过程控制漏洞概述",
+        "url": "https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
