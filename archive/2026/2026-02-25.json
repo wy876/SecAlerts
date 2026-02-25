@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台",
+        "url": "https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
