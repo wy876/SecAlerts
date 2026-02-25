@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s/hU1a0I9WIdGEgYwBHuqcWw",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "PDF.JS任意JS代码执行漏洞踩坑实践",
+        "url": "https://mp.weixin.qq.com/s/ccRaoUpyADs7tEZ03wAk4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
