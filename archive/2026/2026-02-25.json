@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s/Fi9hoShBpGhfmfZ9ZyGnqQ",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "登录框漏洞checklist（三）",
+        "url": "https://mp.weixin.qq.com/s/eUv1kOPIFXB98nOcLZHyQw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 PublicController 任意文件读取漏洞",
+        "url": "https://mrxn.net/jswz/bigant-Public-download.html",
+        "source": "MRXN",
+        "date_added": "2026-02-25"
     }
 ]
