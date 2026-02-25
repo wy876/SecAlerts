@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg",
         "source": "Doonsec",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "ACF插件漏洞使黑客能够获得5万个WordPress网站的管理权限",
+        "url": "https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
