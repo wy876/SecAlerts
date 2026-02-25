@@ -196,5 +196,17 @@
         "url": "https://mrxn.net/jswz/bigant-Public-download.html",
         "source": "MRXN",
         "date_added": "2026-02-25"
+    },
+    {
+        "title": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 PublicController 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/uC2CHQaB-aQP4RJFe2iBvg",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
+    },
+    {
+        "title": "【0day】东胜物流软件 MsAnnounceController SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/hU1a0I9WIdGEgYwBHuqcWw",
+        "source": "Doonsec",
+        "date_added": "2026-02-25"
     }
 ]
