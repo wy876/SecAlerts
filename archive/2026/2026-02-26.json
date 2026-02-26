@@ -58,5 +58,59 @@
         "url": "https://mrxn.net/jswz/dongsheng-MsChDuiController-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "] [庄荣文：锚定网络强国战略目标推进“十五五”网信事业实现良好开局；OpenAI 工程师因代码漏洞损失 25 万美元加密资产 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=2&sn=5e20c15bf2fc75a843db1dd9f042a1ec",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "] [实战漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499115&idx=1&sn=8cd8fe1c9269c51c8f8195754b889ebc",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "] [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=2&sn=f70da9ce36978a9cc8c121f73a801b65",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "APP漏洞挖掘六脉神剑：组件、存储、证书、生物、Root、动态加载",
+        "url": "https://mp.weixin.qq.com/s/HnnpZJHF-OcxAhfafIypdg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【渗透测试】Reverse Shell Generator 工具使用指南",
+        "url": "https://mp.weixin.qq.com/s/kOwfHy7zv8iY0plA0ZBGFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "通过js发现的一个信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/OV332EPC7MpooNb2PB4CJg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "从提示注入到RCE：剖析AI智能体中的参数注入攻击",
+        "url": "https://mp.weixin.qq.com/s/tbqLykoB-wsBFiYfI8u0xg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "AI 编程助手安全盲区：Claude Code 漏洞揭示的代码安全新挑战",
+        "url": "https://mp.weixin.qq.com/s/RaQStYpdJfbgjLCrYEue4A",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "漏洞复现 | 用友NC importExcelTemplate 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/0w6_upMKGDtHgtImQTcLCQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
