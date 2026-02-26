@@ -124,5 +124,23 @@
         "url": "https://mrxn.net/jswz/bigant-install-config-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "近期安全事件一览（全球重大安全事件和CVE-2026-2441）",
+        "url": "https://mp.weixin.qq.com/s/CtqxSsWmOT4D7P7hs4raDw",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "存储型XSS漏洞checklist",
+        "url": "https://mp.weixin.qq.com/s/1NCwubHtlNAgvuQaZELTVg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "SQL 注入漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/5lLbdR_qKVsqdSRCaV8tkA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
