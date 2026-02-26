@@ -172,5 +172,53 @@
         "url": "https://mp.weixin.qq.com/s/JamQgowfqX9LPdjxJS_MzA",
         "source": "Doonsec",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "CTFshow:请求伪造漏洞_CSRF",
+        "url": "https://mp.weixin.qq.com/s/Zmk-6YWl0vnQ4vTLsAPADQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "大模型隐私泄露攻击技巧分析与复现",
+        "url": "https://mp.weixin.qq.com/s/_vTWPvk0_kb8-NSFTTiXcg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南",
+        "url": "https://mp.weixin.qq.com/s/m04_h9N4NRNKJi4aPH6UQQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【已复现】RustFS 管理控制台存储型XSS致管理员账户接管漏洞（CVE-2026-27822）",
+        "url": "https://mp.weixin.qq.com/s/PYMZAZ8Tkw4XGH75iDHcTg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "Venom：全面的渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/RCzw2sJtEfQ5sjQBwIs-yg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 安装程序二次注入致远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DnVI5NBDC-ldAZuyTUzNqg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【0day】东胜物流软件 MsChDuiController 多个SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/dFFl3ObWNH6jWs7Pf6EjaA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "汇业研究 | 从传统EC到AI Commerce再到Agentic Commerce的主要法律合规变迁",
+        "url": "https://mp.weixin.qq.com/s/XIZTAAvqVUakuvVIxg83Tg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
