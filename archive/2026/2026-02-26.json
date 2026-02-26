@@ -112,5 +112,17 @@
         "url": "https://mp.weixin.qq.com/s/0w6_upMKGDtHgtImQTcLCQ",
         "source": "Doonsec",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "你以为的安全，其实漏洞百出：普通人必看的网络安全自查清单",
+        "url": "https://mp.weixin.qq.com/s/11i1r2xaS3Ei_Srkw4ey4w",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 安装程序二次注入致远程代码执行漏洞",
+        "url": "https://mrxn.net/jswz/bigant-install-config-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-26"
     }
 ]
