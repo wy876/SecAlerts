@@ -142,5 +142,35 @@
         "url": "https://mp.weixin.qq.com/s/5lLbdR_qKVsqdSRCaV8tkA",
         "source": "Doonsec",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "Java S2-002 漏洞复现分析",
+        "url": "https://mp.weixin.qq.com/s/2Q9PRKFn8UJhRh9Y7NcKXQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【漏洞通告】RustFS PostObject 策略验证缺失导致授权绕过漏洞(CVE-2026-27607)",
+        "url": "https://mp.weixin.qq.com/s/0oqc03vbWiYq2z813CmjGQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【招聘】网络安全渗透岗（工作地点：武汉）",
+        "url": "https://mp.weixin.qq.com/s/FFs2MPffbblISH3BMRew7g",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "Check Point帮Claude找了3个漏洞，真没想到引来了...",
+        "url": "https://mp.weixin.qq.com/s/b8CR4yagBnUWORg_I9e_yQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "天锐绿盾 findUserPage.do sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/JamQgowfqX9LPdjxJS_MzA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
