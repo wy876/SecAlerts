@@ -1,0 +1,62 @@
+[
+    {
+        "title": "【网安】参数污染技巧！结合越权漏洞实操演示和讲解！",
+        "url": "https://mp.weixin.qq.com/s/l40kqmc674Ej2cZ8dIn5jA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA/Hunter/Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+        "url": "https://mp.weixin.qq.com/s/hFAbH6XS0hPN9BW5srKqhA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "记一次抽丝剥茧式的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/xu4wIWh0DYT63yfEVYtUTQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "EventLog-in：利用微软Windows事件日志服务进行弱凭证横向移动（CVE-2025-29969）",
+        "url": "https://mp.weixin.qq.com/s/R6eEvS4lrouNvcOpgYFUXQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "\\'ormar\\' Python 库中发现严重 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【SRC赏金猎人必备】SRC资产扫描利器(集成四测绘引擎+549 POC)",
+        "url": "https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【SRC赏金猎人必备】一款自动化SRC资产监控与漏洞扫描框架",
+        "url": "https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "VXControl团队出品：AI渗透测试系统PentAGI项目介绍",
+        "url": "https://mp.weixin.qq.com/s/PJhgFARV8jB7Uo3pPqSBIg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "内鬼、黑客与替罪羊?L3Harris“核武级”漏洞泄露案拷问西方情报供应链安全",
+        "url": "https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "东胜物流软件 MsChDuiController 多个SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/dongsheng-MsChDuiController-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-26"
+    }
+]
