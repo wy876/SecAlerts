@@ -280,5 +280,47 @@
         "url": "https://mp.weixin.qq.com/s/HZ14MviqIIoXt3DPkEQOwA",
         "source": "Doonsec",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "存储型XSS漏洞checklist",
+        "url": "https://mp.weixin.qq.com/s/x_BegxiS3Zd4YbxZ9VuWEQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "APP漏洞挖掘六脉神剑：组件、存储、证书、生物、Root、动态加载",
+        "url": "https://mp.weixin.qq.com/s/iXbGLS3F6SKmfnFhZoK2iA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "CTFshow:请求伪造漏洞_CSRF",
+        "url": "https://mp.weixin.qq.com/s/HdDlLJTTLI2oguXE54vU6Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径",
+        "url": "https://mp.weixin.qq.com/s/-mO_XtiYQxAPOjlCPcyMiQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "黑客工具Fierce：子域名挖掘",
+        "url": "https://mp.weixin.qq.com/s/UJxJUHd55rAHmW0k00sE3A",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "合勤：注意影响十几款路由器的严重RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/rKp8tgsMGPYELUF2WjAkMg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "SolarWinds Serv-U 多个严重漏洞可用于提供服务器root权限",
+        "url": "https://mp.weixin.qq.com/s/cN2OaAyx94JtvbFvA3Nn4Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
