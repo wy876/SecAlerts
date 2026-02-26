@@ -220,5 +220,59 @@
         "url": "https://mp.weixin.qq.com/s/XIZTAAvqVUakuvVIxg83Tg",
         "source": "Doonsec",
         "date_added": "2026-02-26"
+    },
+    {
+        "title": "Kali Linux通过MCP集成Claude AI实现渗透测试自动化",
+        "url": "https://mp.weixin.qq.com/s/BozRswbnQfJz1T5rON-V7w",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "攻击者利用Apache ActiveMQ漏洞获取RDP权限并部署LockBit勒索软件",
+        "url": "https://mp.weixin.qq.com/s/6TseSqLdLcd9G2WWQIG1rQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "CVE-2021-1732 内核提权详细分析",
+        "url": "https://mp.weixin.qq.com/s/HD3DmFnEIBCsLa9h0La3tg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "黑客利用 Claude AI 漏洞窃取政府数据",
+        "url": "https://mp.weixin.qq.com/s/PO6a4KOxzr-BnxYhWwAaYA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "[技术深浅] AD域渗透攻击链全解",
+        "url": "https://mp.weixin.qq.com/s/XH-iSwjp49KHyq1wnl6Z1A",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "LLM4VFD：基于大语言模型的多源信息融合漏洞修复检测框架",
+        "url": "https://mp.weixin.qq.com/s/_G5hdG7VdobX7EWuTT6OFg",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "解读 | 2026 VulnCheck漏洞利用情报报告",
+        "url": "https://mp.weixin.qq.com/s/ouyMeqLDUevfVBzHSGSCMA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "GNU InetUtils telnetd 参数注入身份验证绕过漏洞 (CVE-2026-24061)",
+        "url": "https://mp.weixin.qq.com/s/K-WrqiLGjx2elOEfAUQsqA",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
+    },
+    {
+        "title": "记edusrc证书站随手捡漏洞",
+        "url": "https://mp.weixin.qq.com/s/a4nf4u43EeAJb5cA1ZMZPw",
+        "source": "Doonsec",
+        "date_added": "2026-02-26"
     }
 ]
