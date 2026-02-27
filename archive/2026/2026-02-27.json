@@ -136,5 +136,113 @@
         "url": "https://mrxn.net/jswz/a8erp-HuiYuanDangAn-picHY-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [合勤：注意影响十几款路由器的严重RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525116&idx=1&sn=ffcebdc0199d9d01b890547013c04998",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [SolarWinds Serv-U 多个严重漏洞可用于提供服务器root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525116&idx=2&sn=05bb28ebbcccd3533d24a8ea4ee1f19f",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [【安全圈】大疆扫地机被曝安全漏洞，6700台设备可被远程控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074198&idx=1&sn=09a467e0d06230cc6b463f9ca34e345f",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [CVE-2021-1732 内核提权详细分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611191&idx=1&sn=2059dce6296e9b4e376e9e6d2666c11e",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [Check Point帮Claude找了3个漏洞，真没想到引来了...",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541825&idx=1&sn=fceb62f0005edd783d6aa3c95a45a468",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "] [通过js发现的一个信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499120&idx=1&sn=00d11b43a4c20b715f420cdea3aff2ac",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "CVE-2026-21962 Weblogic RCE漏洞（复现）",
+        "url": "https://mp.weixin.qq.com/s/tYjkheTdMXBdD2I67Yw17Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "24小时武器化0day！俄APT28用云存储当C2，欧洲多国军政机构遭精准窃密",
+        "url": "https://mp.weixin.qq.com/s/_Ai4X5zEFyCKAgR_QM6jng",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "Shannon：全自主AI渗透工具，开源即斩获25k Star",
+        "url": "https://mp.weixin.qq.com/s/Ehu2PSAnWIURpTf-hTdMaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【已复现】Langflow CSV Agent 远程代码执行漏洞（CVE-2026-27966）",
+        "url": "https://mp.weixin.qq.com/s/eccew9jHZ_IRHZbUGRwWWQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "IngressNightmare (CVE-2025-1974) 深度解析",
+        "url": "https://mp.weixin.qq.com/s/OEUsOvmJ4JePgHft6adfPA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "APP全面渗透测试方案",
+        "url": "https://mp.weixin.qq.com/s/jspa56MqwVTzT4IW5xNi0Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "网安工具30天通（第5期）｜Metasploit（MSF）：漏洞利用&amp;拿Shell一站式框架",
+        "url": "https://mp.weixin.qq.com/s/DQi4atCfB_hOFQOh6oUHag",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "三星MagicINFO SWUpdateFileUploader 文件上传漏洞(CVE-2025-4632)",
+        "url": "https://mp.weixin.qq.com/s/mZpMa6fy-wfAbQIvJ461rw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "漏洞复现 | 汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/9sRIjKutvqDJjGWvbxuJkw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "恶意广告利用新的广告系列平台漏洞绕过谷歌广告审核",
+        "url": "https://mp.weixin.qq.com/s/g2LMt4VKMhRRTZtpTEgoQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "EDUSRC-高危漏洞-从信息收集到后台多个越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/oDPxY6WDKz_rJTGQC3BHmQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "青龙面板最新版v2.20.1 鉴权绕过致RCE",
+        "url": "https://mrxn.net/jswz/qinglong-auth-bypass-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-02-27"
     }
 ]
