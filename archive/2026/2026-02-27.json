@@ -268,5 +268,35 @@
         "url": "https://mrxn.net/jswz/bigant-dept-moveDept-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "EV Energy ev.energy 缺少关键功能的身份验证 (CVE-2026-27772)",
+        "url": "https://mp.weixin.qq.com/s/PXlNp4brg_diSIF72JkdcQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2026 SRC漏洞挖掘全攻略｜从入门到变现，网安新手必看",
+        "url": "https://mp.weixin.qq.com/s/PJpIQXyMxzLuLnStoO-Vew",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "还在手动敲Kali命令？一句话就可以让Kali自动完成渗透测试",
+        "url": "https://mp.weixin.qq.com/s/NfA0OR5HX8fT5JLTH60n9w",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "多款谷歌应用商店心理健康App曝安全漏洞 超千万用户敏感医疗信息面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/krIV4MyJUrVUa5Yp8oedQA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "0day 麒麟操作系统 KysecScene D-Bus 服务本地提权漏洞分析 附poc",
+        "url": "https://mp.weixin.qq.com/s/IBwW4YjWsF4nBk5olv1_AA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
