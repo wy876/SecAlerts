@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s/A3lpycCUHbYXqpgIqG22xg",
         "source": "Doonsec",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "【免费领】杀手级渗透工具 BurpSuite 实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/f6JcNQ_8NCp53BCHq71Rxw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【干货】漏洞挖掘技巧+深层原理分析 前端鉴权绕过（一）",
+        "url": "https://mp.weixin.qq.com/s/8Dm8npmqBHHgV0Pfwns_RQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "记一次艰难的多级域内渗透过程",
+        "url": "https://mp.weixin.qq.com/s/nXdhCQxZ9llGopnpygOT_w",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
