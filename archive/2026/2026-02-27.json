@@ -244,5 +244,29 @@
         "url": "https://mrxn.net/jswz/qinglong-auth-bypass-rce.html",
         "source": "MRXN",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "【红队必备】460+POC内外网资产探测与漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/E0fgsQN7Xl0R006rWlXLMA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "0day 青龙面板 最新版本 鉴权绕过导致 RCE 分析",
+        "url": "https://mp.weixin.qq.com/s/mbjS5himBugBI_KX8pC68g",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "八部门新规3月1日实施，网安从业者需筑牢未成年人网络防火墙；120万法国银行账户泄露：公职人员权限成最大安全漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/3Um-DgcIXfX0GIHV1OI6Xw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 moveDept SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/bigant-dept-moveDept-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-27"
     }
 ]
