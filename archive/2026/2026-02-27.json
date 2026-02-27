@@ -298,5 +298,29 @@
         "url": "https://mp.weixin.qq.com/s/IBwW4YjWsF4nBk5olv1_AA",
         "source": "Doonsec",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "信息安全漏洞周报【第062期】",
+        "url": "https://mp.weixin.qq.com/s/MebgHxcTwvcw9fp96kPeMg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【202602279】",
+        "url": "https://mp.weixin.qq.com/s/EiP0LMo7p7kSPM6CB_sHtg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2026年1月高危漏洞应急指南：7条措施+15类系统，安全人速查！",
+        "url": "https://mp.weixin.qq.com/s/PEbffbb-N3TsvbDvapEUZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/Kf8AwRy-mYBVPrayuZp6WA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
