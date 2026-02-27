@@ -430,5 +430,11 @@
         "url": "https://mp.weixin.qq.com/s/fwAFzntu5JAHFsZyffhSFQ",
         "source": "Doonsec",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "【AI安全】微软AI框架高危漏洞！Semantic Kernel 任意文件写入",
+        "url": "https://mp.weixin.qq.com/s/DjxQs37SB1arMDMn0JsRPw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
