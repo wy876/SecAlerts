@@ -1,0 +1,140 @@
+[
+    {
+        "title": "【已复现】漏洞通告 | RustFS 管理控制台存储型XSS致管理员账户接管漏洞(CVE-2026-27822)",
+        "url": "https://mp.weixin.qq.com/s/C4sd8FAAZ5JEWjz7S5f16g",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "几款热门的VSCode扩展存在安全漏洞，开发者需警惕",
+        "url": "https://mp.weixin.qq.com/s/hOqao0-ZLQh3Fxl6fI2taQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "VS Code的Live Server扩展存在漏洞，可被用于窃取本地文件（CVE-2025-65717）",
+        "url": "https://mp.weixin.qq.com/s/ZV1ahGXbqhCmIUNlImJHVQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "VS Code 高人气预览插件曝出高危XSS漏洞，可窃取本地文件",
+        "url": "https://mp.weixin.qq.com/s/p6R9kWveS0LtbP9IpdqjTQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "微软 Code Runner 插件爆高危漏洞，配置文件被篡改可导致远程代码执行（CVE-2025-65715）",
+        "url": "https://mp.weixin.qq.com/s/4gnGv8Vrb5DF_qBH2mX30w",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "Markdown Preview Enhanced 打开恶意文件可执行任意 JavaScript（CVE-2025-65716）",
+        "url": "https://mp.weixin.qq.com/s/EUsImqPGmsz9h6TzC95b3g",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "大疆扫地机被曝安全漏洞，6700台设备可被远程控制",
+        "url": "https://mp.weixin.qq.com/s/4XV0qHt1RiJBaPousddvwg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "强推一个永久的渗透测试知识库",
+        "url": "https://mp.weixin.qq.com/s/06kK8eQ1xJRCv5QDWsZYYA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "Wireshark 4.6.4发布，修复了多项安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ijgxua3JDxH0JGiTAzcM5Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【已复现】深科特LEAN MES系统的MesATEApi.asmx接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/zHFcfpLsDsglURY-k5cyhA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "ServiceNow AI平台关键漏洞可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/ALE2-VOhrbp9vMiSlNYn9w",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "一款专业的文件上传漏洞检测工具，支持263+绕过技术、代理抓包、动态扫描",
+        "url": "https://mp.weixin.qq.com/s/kcsNmlzPC_7oNSu0mVDvhw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "「AI终端」220+安全工具+AI渗透助手，Windows下零依赖的渗透测试神器！",
+        "url": "https://mp.weixin.qq.com/s/nfrPsnoXGtpg1sXzNeD9hA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "容器环境渗透测试瑞士军刀",
+        "url": "https://mp.weixin.qq.com/s/OHjVWjBegzk7e7PgYVcuBA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "网安人必看！我做了个漏洞报告生成Skill，效率大幅提升",
+        "url": "https://mp.weixin.qq.com/s/kWYv8nNmENO-o2-CHClgRQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "从越权到RCE：深度剖析SolarWinds Serv-U 最新4大致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/K-6XZbp4CbjrqL5sLNlhpg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2025年漏洞战场的真相：喧嚣之下，暗流涌动",
+        "url": "https://mp.weixin.qq.com/s/cpmA2bD3BKPgZtkd53PVaw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "攻击路径(8)：不用漏洞也能打穿内网",
+        "url": "https://mp.weixin.qq.com/s/-U5hc8-no1AO80v5pz8hcQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "新的沙箱逃逸漏洞使 n8n 实例容易受到远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/UQsPWFxKDv0bSt2dKnTXGA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "开工特惠 | ApiHunter智能参数填充+自动跑接口： API 接口漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/0qB4Augj9nYLZ2ZIBHMPzA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2026年全球漏洞披露预测与安全运营影响",
+        "url": "https://mp.weixin.qq.com/s/r2U_36RDjIVtOLU6Ttb2XA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "安科瑞企业微电网能效管理系统存在默认密码admin:Acrel001 附POC",
+        "url": "https://mp.weixin.qq.com/s/kCGM_7-sHfqAa62J_DA2pw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "九佳易管理系统 picHY.ashx SQL 注入漏洞",
+        "url": "https://mrxn.net/jswz/a8erp-HuiYuanDangAn-picHY-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-02-27"
+    }
+]
