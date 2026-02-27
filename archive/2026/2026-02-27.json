@@ -352,5 +352,77 @@
         "url": "https://mp.weixin.qq.com/s/nXdhCQxZ9llGopnpygOT_w",
         "source": "Doonsec",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2026年2月）",
+        "url": "https://mp.weixin.qq.com/s/42ZKGGysjDQ5wVRuspdz8Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "CVE-2025-64155：rootFortinet FortiSIEM",
+        "url": "https://mp.weixin.qq.com/s/bxmqZDBsD6RpDMB44V5kdw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "趋势科技：注意这些严重的 Apex One 代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/2dP76st8l2RUGzcN8dQ81g",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "Juniper Networks PTX严重漏洞可导致路由器遭完全接管",
+        "url": "https://mp.weixin.qq.com/s/ItyPOyPSK5HdMXBjkgishQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "某次通用型漏洞挖掘思路分享",
+        "url": "https://mp.weixin.qq.com/s/wyK_4e_7dc1WN00tgS87LQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "Claude Code遭入侵，RCE漏洞可窃取组织API密钥",
+        "url": "https://mp.weixin.qq.com/s/3LiyL2Zx_iOibk-q1kYgfA",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2025年1%的安全漏洞被实际利用，却造成绝大多数网络攻击",
+        "url": "https://mp.weixin.qq.com/s/DDa6COeguCxfzOyDwifRIw",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "2.155亿美元USDT规避冻结：8310条黑名单提案揭示行业合规潜在漏洞",
+        "url": "https://mp.weixin.qq.com/s/MdwHLqg2b0LZOOh0hIaqtQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "重磅打造 | 0day系列——Web框架漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/WK45CcPnhtbFhE28blfkzQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【0day】九佳易管理系统 picHY.ashx SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/_evFS7pc3dENFZIqfvduqg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【0day】青龙面板最新版v2.20.1 鉴权绕过致RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/mYYFlYXkfyruSsDbg7v9zg",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
+    },
+    {
+        "title": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 moveDept SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/e91zzOXXoD0oPlPmpeZs0w",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
