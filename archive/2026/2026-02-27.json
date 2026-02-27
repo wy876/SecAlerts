@@ -424,5 +424,11 @@
         "url": "https://mp.weixin.qq.com/s/e91zzOXXoD0oPlPmpeZs0w",
         "source": "Doonsec",
         "date_added": "2026-02-27"
+    },
+    {
+        "title": "【安全圈】Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取",
+        "url": "https://mp.weixin.qq.com/s/fwAFzntu5JAHFsZyffhSFQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-27"
     }
 ]
