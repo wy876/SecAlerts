@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/FTixLrmzIc54nfRWY58vNA",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/dC9Ei9G4z0chPxnKQIR1aA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "天锐绿盘文档安全管理平台 findForPage.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Yri1rhULGwco5iPCGb5cNg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
