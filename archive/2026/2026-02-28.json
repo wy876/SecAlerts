@@ -214,5 +214,41 @@
         "url": "https://mp.weixin.qq.com/s/Yri1rhULGwco5iPCGb5cNg",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "全网首发 | 基于CORS漏洞示例验证的大模型能力Agent Skills能力从0到1全流程开发解析科普讲解，新手小白也能轻松上手",
+        "url": "https://mp.weixin.qq.com/s/pgrujScra2J6y4X-BG1nWA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年2月23日-2月28日）",
+        "url": "https://mp.weixin.qq.com/s/EUtsKUtoEuBs3TbIdgTumA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "0134.构建虚拟道德黑客家庭实验室——第六部分：系统漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/isqOVIUQzWk5sOsActW7hw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "阿里P7安全工程师私藏的渗透实战笔记（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/6STBXb52XRzxLhHKCalmNQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "【0day】九佳易管理系统 Ajax_XT.ashx SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Y67DqZSpC02wuksXdckDFA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "CVE-2026-1731 BeyondTrust 远程支持预授权远程代码执行漏洞概念验证",
+        "url": "https://mp.weixin.qq.com/s/eNf7ZMrS37vjvjNxEIuGQw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
