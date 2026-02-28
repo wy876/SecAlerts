@@ -148,5 +148,35 @@
         "url": "https://mp.weixin.qq.com/s/U_FhbFQ9StnqNM93CPyjaQ",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "RustFS 控制台中的存储型 XSS 漏洞使 S3 管理员凭据面临风险",
+        "url": "https://mp.weixin.qq.com/s/vUyr5vL2luaPJPOIxc8cPw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "5天，100+ CVE，0误报：我们用自研AI挖掘引擎重新定义了白盒漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/bJnwgw2e7YN6gr9fbWFgDQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "【网络安全】JWT缺陷下的越权漏洞详解与实操！",
+        "url": "https://mp.weixin.qq.com/s/8x7MOh0_uYhjltHgD985xA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络",
+        "url": "https://mp.weixin.qq.com/s/5fd1nfZvb6Irqrbljj5uZg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "Rust 在预览模式中存在严重存储型 XSS | CVE-2026-27822 复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/j8psHJ40oLMyfpxIF4PvCg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
