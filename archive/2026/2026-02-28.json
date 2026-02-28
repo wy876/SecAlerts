@@ -4,5 +4,71 @@
         "url": "https://mrxn.net/jswz/a8erp-Ajax_XT-sqli.html",
         "source": "MRXN",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [重磅打造 | 0day系列——Web框架漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611434&idx=1&sn=3f8c4b616b1d9d215bf5f202f4d8322a",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [趋势科技：注意这些严重的 Apex One 代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525129&idx=1&sn=7cc5ee0c0cb45f07913db3cc42f403dd",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [Juniper Networks PTX严重漏洞可导致路由器遭完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525129&idx=2&sn=0315a8afa05e856df83c5d71fc10d9b5",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [【安全圈】Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074218&idx=1&sn=dbc3ef3759a7705b77b093a33c6f0804",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [八部门新规3月1日实施，网安从业者需筑牢未成年人网络防火墙；120万法国银行账户泄露：公职人员权限成最大安全漏洞 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140586&idx=2&sn=718013972d4d8b32c9a9906c9887cc12",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "] [多款谷歌应用商店心理健康App曝安全漏洞 超千万用户敏感医疗信息面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586872&idx=2&sn=c5762aafdfec86b06c7d6c8d9c1882e8",
+        "source": "BruceFeIix",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "ShannonAI 渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/0RpdydNSjjk0qQvDzlXNkQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "0day 青龙面板 最新版本 鉴权绕过导致 RCE 分析",
+        "url": "https://mp.weixin.qq.com/s/2npxthv9hdLO4AD9idiMQQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "2026-02-28 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/EjAedDCOV8rNCtXZvz-nUQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "0day | 青龙面板最新版本鉴权绕过导致远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/2MbfPmIuFyTWyowmDStj-Q",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "青龙面板 v2.20.1 路由重写引发的鉴权绕过与配置写入风险（复现记录）",
+        "url": "https://mp.weixin.qq.com/s/fjT9Lh0io1ceU0kB8bD0mA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
