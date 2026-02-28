@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s/Kb-0Df_n4veFXO6CbsFl_g",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "俄系雇佣APT组织Mercenary Akula针对欧洲援乌金融机构展开攻击",
+        "url": "https://mp.weixin.qq.com/s/F6ylokgrxYl_Kxpbb2vRBw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/U_FhbFQ9StnqNM93CPyjaQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
