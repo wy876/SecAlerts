@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s/j8psHJ40oLMyfpxIF4PvCg",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "【新洞速递】CVE-2026-21962 Weblogic RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/5gqqTKlyH8ra8cMRLEZORA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "漏洞速递 | 最新0day青龙面板RCE漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/cCNxCrxNN9BY_xPYD9vwLg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第7期）",
+        "url": "https://mp.weixin.qq.com/s/TgfjmR2177I5Y-ye4g7Tkg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第8期）",
+        "url": "https://mp.weixin.qq.com/s/FTixLrmzIc54nfRWY58vNA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
