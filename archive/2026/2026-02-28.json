@@ -250,5 +250,29 @@
         "url": "https://mp.weixin.qq.com/s/eNf7ZMrS37vjvjNxEIuGQw",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力",
+        "url": "https://mp.weixin.qq.com/s/mqH8TsEPbFNdBMDbFln5vA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "朝鲜APT37黑客组织利用新型恶意软件渗透物理隔离系统",
+        "url": "https://mp.weixin.qq.com/s/rpFsW8F8dHEFVgQV246GXw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "AI Agent安全之风险场景、典型漏洞及体系化防护",
+        "url": "https://mp.weixin.qq.com/s/nZoOArsN_4XCygXCbNB_tg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "特斯拉 Model 3 和 Cybertruck 存在多个漏洞，无线连接栈可遭拦截",
+        "url": "https://mp.weixin.qq.com/s/AK7rbvH9yCX_beUy03WH3g",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
