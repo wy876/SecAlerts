@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s/AK7rbvH9yCX_beUy03WH3g",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力",
+        "url": "https://mp.weixin.qq.com/s/dJJ1t7nrCt-6l36bcVcL8w",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "初探漏洞挖掘基础-信息收集",
+        "url": "https://mp.weixin.qq.com/s/e6jNnP51lOLROxhHLfFcXQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
