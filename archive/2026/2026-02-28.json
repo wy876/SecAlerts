@@ -70,5 +70,71 @@
         "url": "https://mp.weixin.qq.com/s/fjT9Lh0io1ceU0kB8bD0mA",
         "source": "Doonsec",
         "date_added": "2026-02-28"
+    },
+    {
+        "title": "天清汉马VPN安全网关系统任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/DLsDZqQSa5MhJXL8O8zCkg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "【安全预警】Unitree Go2 机器狗被曝远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ORvVs_wLFzqaWqKA0r4lvA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞",
+        "url": "https://mp.weixin.qq.com/s/bodNajH4xB3Ix7MuTy8OxQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "Nuclei 漏洞扫描图形化工具 -- Nuclei_Gui（2月25日更新）",
+        "url": "https://mp.weixin.qq.com/s/tN16xBSmKDUF2_aGgBpnJQ",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "EverShop严重安全漏洞警报：密码重置令牌直接暴露，CVSS 9.8分",
+        "url": "https://mp.weixin.qq.com/s/j7TdhAvGvSmOpRZGF42hvw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "渗透测试Payload速查平台 | XSS/SQLi/SSRF/RCE | React+TypeScript",
+        "url": "https://mp.weixin.qq.com/s/Ppk23lhqxT6_e7QWS3hfdA",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "通往内核的七条路：RCE获取服务器权限的完整狩猎指南",
+        "url": "https://mp.weixin.qq.com/s/pO9KhXPe0eGe27dH2-2bMg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "带 AI 辅助的可视化漏洞扫描工具、支持 POC Nuclei 管理与生成、FOFA/Hunter/Shodan 资产搜索",
+        "url": "https://mp.weixin.qq.com/s/6AKuG2tsWo1h4Che0_zJLw",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "九佳易管理系统picHY.aspx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/Vhy8MgsDaHrmaaBmW1VB4g",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "【AI高危漏洞预警】Claude Desktop命令注入漏洞CVE-2026-26029",
+        "url": "https://mp.weixin.qq.com/s/rk-XGq62qoLkn2zHyZe7wg",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
+    },
+    {
+        "title": "FreeBSD 漏洞允许攻击者导致整个系统崩溃",
+        "url": "https://mp.weixin.qq.com/s/Kb-0Df_n4veFXO6CbsFl_g",
+        "source": "Doonsec",
+        "date_added": "2026-02-28"
     }
 ]
