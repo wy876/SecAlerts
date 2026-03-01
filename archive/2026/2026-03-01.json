@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83",
         "source": "BruceFeIix",
         "date_added": "2026-03-01"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 updateLoginName SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/bigant-user-updateLoginName-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-01"
     }
 ]
