@@ -1,0 +1,188 @@
+[
+    {
+        "title": "红队后渗透利器:零依赖内网入口机信息搜集文件挖掘工具",
+        "url": "https://mp.weixin.qq.com/s/AuNnH7Gs8Cd3wtEBZHCGtw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【500KB红队必备利器】：(262模块)从多协议资产探测扫描到域渗透完整一条龙",
+        "url": "https://mp.weixin.qq.com/s/IPj37aGxULY8Q_dmTfU16g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "共启安全年｜瓜分微信百万奖池！漏洞赏金翻倍，先到先得",
+        "url": "https://mp.weixin.qq.com/s/IncToIZsGcTqPNaI0GnyzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "2026-03-02 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/o06VC91oSN7V0v1PwttK9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取",
+        "url": "https://mp.weixin.qq.com/s/nb6IvxWBLbefiP5azq2zFA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent",
+        "url": "https://mp.weixin.qq.com/s/Qwwl6KBFUQj2b1SLK_Lvjg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "利用WAF窃取Salesforce OAuth令牌",
+        "url": "https://mp.weixin.qq.com/s/RtMVgLW0lX4mAONSKaXo9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【Java代码审计利器】自动化Java源码与字节码安全审计工具",
+        "url": "https://mp.weixin.qq.com/s/zmx3b56YAbYC-EnxSyWpwA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞复现 | 青龙面板最新版存在任意重置密码漏洞",
+        "url": "https://mp.weixin.qq.com/s/d2ShFyFUXaI501u9QxRxRQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "云原生架构下，如何实现供应链安全漏洞的闭环管理？",
+        "url": "https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【已复现】孚盟云AjaxOthers存在SQL注入",
+        "url": "https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "恒脑安全智能体全面对标Claude Code Security，极速复现3个0day，并横向挖掘10个未知漏洞！",
+        "url": "https://mp.weixin.qq.com/s/50zwQIY4xONrVdqCOvhsMA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "高危预警 | CVE-2026-2844：时间同步管理系统现关键认证漏洞，5G、电网、国防基础设施受影响",
+        "url": "https://mp.weixin.qq.com/s/ymS6_66BYuQBtV1H9xgpiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从会话管理模式解读 .NET 身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/l_FToxsAq1duNOWgnEhp2g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从安全分析视角一文解读 .NET 越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/Q3AHCyRBj9h7-2yatCugEQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "紧急预警：OpenClaw惊现\\\"零点击\\\"超级漏洞，你的AI Agent可能已被劫持！",
+        "url": "https://mp.weixin.qq.com/s/Qq2gVMnGgdgFlwJL5xsWCw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "补天 6 群少年实力出圈，横扫 360SRC、阿里云 SRC 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/3vvFTX-82rkiRTpgMV7l1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw漏洞大揭秘：一键RCE、WebSocket劫持与供应链投毒",
+        "url": "https://mp.weixin.qq.com/s/-yrFM2ZUcZuUP48GPxfUUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "一次完整的Kubernetes黑盒渗透测试实战记录",
+        "url": "https://mp.weixin.qq.com/s/lzCS9vhcMsC5Sim-6Qn40g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【安全圈】Windows CLFS漏洞PoC公开：普通用户两次API调用即可触发不可恢复蓝屏",
+        "url": "https://mp.weixin.qq.com/s/HToM-uPCrat87GQibX1hbA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【安全圈】黑客利用Claude批量生成漏洞窃取政府数据",
+        "url": "https://mp.weixin.qq.com/s/8IrDtNQDdXYY2pSPIZ5V2g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【安全圈】OpenClaw本地网关漏洞导致AI代理成攻击入口",
+        "url": "https://mp.weixin.qq.com/s/DnWDlmrXTgKdpTDh494NZw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent",
+        "url": "https://mp.weixin.qq.com/s/UyaHYWlGMU_aiB3mG5Fdww",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "通过提示注入在LLM大语言模型中制造漏洞",
+        "url": "https://mp.weixin.qq.com/s/dRY9NZcWyWqV43jrkdfW_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【0day】大蚂蚁 (BigAnt) 即时通讯系统 updateLoginName SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/IpwnJZOQNPiv1EpcIqPFjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【0day】九佳易管理系统 PrivilegedCodeDestroy.asmx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/h3A3V_aVqqQPyDwGx01F8w",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "第59天-WEB攻防 · XSS跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s/EGS2v0XIax5NGl5CoMVGOA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Nuclei GUI Scanner ：基于 PyQt5 开发的 Nuclei 漏洞扫描图形化工具",
+        "url": "https://mp.weixin.qq.com/s/t3z-vZkhS3-KKOYsldfMhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【渗透测试必备】：Burp的自动化JS安全分析插件(75+规则)",
+        "url": "https://mp.weixin.qq.com/s/9fmN6KHBRgkfnSKjIK077g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从数据包到手机数据库：宇树机器人里两个让人直接当上“主人”的漏洞（CVE-2026-27509和CVE-2026-27510）",
+        "url": "https://mp.weixin.qq.com/s/QVIiYWnqXuR6y7do0mDVvA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "深信服运维安全管理系统 change_net 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-change_net-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-02"
+    }
+]
