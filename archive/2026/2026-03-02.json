@@ -454,5 +454,23 @@
         "url": "https://mp.weixin.qq.com/s/B2ghhxUCdgNM-tILYRNcmQ",
         "source": "Doonsec",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "CVE-2025-6507&amp;CVE-2025-6544 H2O-3反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/oeBnfoo221PuExGkak1rjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "每周网安资讯 （2.24-3.2）| UNC6201组织利用CVE-2026-22769零日漏洞部署恶意软件",
+        "url": "https://mp.weixin.qq.com/s/wsLuaHR7sh7HUrvbUGpA-g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "记某单位渗透测试思路",
+        "url": "https://mp.weixin.qq.com/s/7ZuNe0TAzq70eGhRwVasyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
