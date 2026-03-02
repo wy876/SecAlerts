@@ -184,5 +184,179 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-change_net-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "] [【安全圈】Windows CLFS漏洞PoC公开：普通用户两次API调用即可触发不可恢复蓝屏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=1&sn=ff5f13cf1f85685f93f04e01f75455c2",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "] [【安全圈】黑客利用Claude批量生成漏洞窃取政府数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=2&sn=92bf6443aa4d7fddab0bda209138d268",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "] [【安全圈】OpenClaw本地网关漏洞导致AI代理成攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=4&sn=220582e3efca7ffda799725da03f01c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "] [从会话管理模式解读 .NET 身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=1&sn=9ef7fcbc67f98a450db87dd9c4ca65d9",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "] [从安全分析视角一文解读 .NET 越权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=2&sn=070df2e12c19f963f7b7cae112249e25",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【高危漏洞预计】 telnetd组件中存在权限提升漏洞CVE-2026-28372",
+        "url": "https://mp.weixin.qq.com/s/ljWhNRHORBdccHMqR7co2A",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Tenda F453路由器高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/k5OoE9OVQk3Znz_Um2n1wA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "我如何在 3 天内发现 4 个漏洞 —— 新手成长之路",
+        "url": "https://mp.weixin.qq.com/s/iNqgNNF_M4XzEN6hJCoaaA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "青龙面板目录大小写鉴权绕过导致rce",
+        "url": "https://mp.weixin.qq.com/s/A_LKJXuBMqzRj6oiBWn0gA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【已复现】风云再起TELNETD又爆提权漏洞（CVE-2026-28372）",
+        "url": "https://mp.weixin.qq.com/s/ta_EoeAtDvZTP4Rjt7sH2w",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "springboot环境下的写文件RCE——so劫持篇",
+        "url": "https://mp.weixin.qq.com/s/NrNFwEfNbqGKd5jUSe-4eA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "代审0day-开源图库任意用户登录+getshell",
+        "url": "https://mp.weixin.qq.com/s/nu928j5rcPphh08EvTTppg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从一份配置文档到安全漏洞：400美元赏金的实战挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/BRvqUiQ1PY0iM8BRRYc2rg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "30天内挖掘100+内核漏洞：Windows驱动安全大危机？",
+        "url": "https://mp.weixin.qq.com/s/-gQWvIgxFuO4owN_HtZ9Pw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "友加畅捷管理系统敏感信息泄露漏洞xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/fsrwZLDviCkn8BbOaufEbw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "2026 年首个0DAY漏洞 (CVE-2026-2441)",
+        "url": "https://mp.weixin.qq.com/s/QmDgWyae3JRhD-K3NtQwZg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "锐明技术Crocus系统 DeviceFileReport.do 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/1I-sIcjtp8fZxHUQD9LeAQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "代码审计-foxcms前台ssrf漏洞",
+        "url": "https://mp.weixin.qq.com/s/W2Mbi2MlYVKogcS_ncKb5g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "某国际组织漏洞挖掘记录",
+        "url": "https://mp.weixin.qq.com/s/1JZjwKWe14mI-3up_emc6w",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "警惕“AI 投毒”：Claude Code 项目配置漏洞可致代码执行",
+        "url": "https://mp.weixin.qq.com/s/Q9yArU4z1ZkUVjnx8tP2lw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "CVE-2026-27728 (CVSS 10)：OneUptime 探测器中存在严重命令注入漏洞，可导致服务器完全接管",
+        "url": "https://mp.weixin.qq.com/s/Q3HFC6dc7n_u-SDDB8x8PA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "SRC漏洞挖掘思路梳理重制版",
+        "url": "https://mp.weixin.qq.com/s/J5s1GdzZp6OMLLJyG6b9iQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "工具推荐 | 已发现数十个真实漏洞！AIxVuln自动化漏洞挖掘系统，让安全研究事半功倍",
+        "url": "https://mp.weixin.qq.com/s/DK-LPFTMKHLK_IRYm_IkoA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从入门到“被黑”？Claude Code 底层 MCP 机制与环境注入漏洞全解析",
+        "url": "https://mp.weixin.qq.com/s/_V53IMQHtlcnhrOKfvJFdw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "[视频]使用Fortify25扫描代码漏洞",
+        "url": "https://mp.weixin.qq.com/s/z5qKADtyV8DqbgxT9rX0hA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞预警 | Windows记事本远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/caW-S4oLIpwZF02ou5kHGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/rDI7JSZoxop5ciY6D_mQrA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7文件读取、SQL注入和信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/B5oClf6aPE59SWCrQnaEHw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞管理平台 | 支持Excel格式的漏洞扫描报告导入、智能关联资产、漏洞可视化管理",
+        "url": "https://mp.weixin.qq.com/s/zxlcq7CdGkauUTQ3t9jZQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
