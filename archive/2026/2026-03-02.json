@@ -472,5 +472,65 @@
         "url": "https://mp.weixin.qq.com/s/7ZuNe0TAzq70eGhRwVasyw",
         "source": "Doonsec",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "渗透测试红蓝对抗AD域工具BloodHound",
+        "url": "https://mp.weixin.qq.com/s/95ibB6d_nHVwM74nQY5gew",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "汇丰银行加码生成式AI布局，漏洞修复已提速5倍",
+        "url": "https://mp.weixin.qq.com/s/IL_sctIMfjMt42QSVzDEXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "利用Windows映像备份与ADCS漏洞攻陷域控",
+        "url": "https://mp.weixin.qq.com/s/rr1FRCZTptXqGgwwvjgztw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+        "url": "https://mp.weixin.qq.com/s/AjmGwxY7eb_twDKJMUl1rg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第二章第四节】开工大吉！分享一个“朴实无华”的越权思路：从false改到true就够了",
+        "url": "https://mp.weixin.qq.com/s/ILR5FRWLngoM04Uz6vsIJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+        "url": "https://mp.weixin.qq.com/s/FlhMmYf0YNsj2FCzqHiE8g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Claude Code配置文件藏漏洞，API密钥秒泄露",
+        "url": "https://mp.weixin.qq.com/s/MWug5c7b-QLhLHE8QKeNkA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从 BeijingCrypt攻击看天珣EDR防护实践，构筑代码漏洞之外的终端安全屏障",
+        "url": "https://mp.weixin.qq.com/s/eYxaAbPXLxV6OXyDMfn0sg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第8期",
+        "url": "https://mp.weixin.qq.com/s/A54j5EN7CdiYLmAEIWNXWg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260223-20260301)",
+        "url": "https://mp.weixin.qq.com/s/CL1hzb9QJqEWodl044MGSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
