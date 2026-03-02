@@ -532,5 +532,59 @@
         "url": "https://mp.weixin.qq.com/s/CL1hzb9QJqEWodl044MGSA",
         "source": "Doonsec",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "漏洞管理指标：是时候超越指标幻象了",
+        "url": "https://mp.weixin.qq.com/s/yx2i2c0jEqJK_3up7AsJoQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器",
+        "url": "https://mp.weixin.qq.com/s/RN-_gyA1e5TSSAryfESclg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "WEB漏洞扫描器Invicti-Professional-V26.20.0（自动化爬虫扫描漏洞）更新",
+        "url": "https://mp.weixin.qq.com/s/FVS0FhG7I_CHVD5U-TW_Gg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "车联网渗透的六层攻击面：从T-Box到CAN总线，从V2X到充电桩",
+        "url": "https://mp.weixin.qq.com/s/0a_bXS4AGcPq5kyURuykRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "vm2沙箱逃逸漏洞（CVE-2026-22709）",
+        "url": "https://mp.weixin.qq.com/s/SYV3yXvzXrCnuRo1PaVp8Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "从籍籍无名到排行第一：XBOW智能漏洞挖掘的构建",
+        "url": "https://mp.weixin.qq.com/s/1ngqPGIKLEqmJfr1ptISXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "点个网页就被接管？爆火AI框架OpenClaw曝出致命漏洞，你的电脑正在裸奔！",
+        "url": "https://mp.weixin.qq.com/s/LHZPU7pujhzN_Ir-qcvCpw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "渗透+安服招聘",
+        "url": "https://mp.weixin.qq.com/s/43atQL_5ImLNF4IaX_Fuwg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "谷歌人工智能代码编辑器 Antigravity 中的远程代码执行漏洞 - 10000 美元赏金",
+        "url": "https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
