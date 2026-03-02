@@ -358,5 +358,101 @@
         "url": "https://mp.weixin.qq.com/s/zxlcq7CdGkauUTQ3t9jZQg",
         "source": "Doonsec",
         "date_added": "2026-03-02"
+    },
+    {
+        "title": "某知名院校0元购漏洞",
+        "url": "https://mp.weixin.qq.com/s/zCrAXsYMj3kU59zq5r0DhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "FlowiseAI 任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/2rK8SF6yBr7McnGvqoiDPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Trail of Bits 开源 Claude Code 安全技能包：甲方安全团队的“漏洞雷达”升级指南",
+        "url": "https://mp.weixin.qq.com/s/jSjygpzXSkCz6VQnrSdZHQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【漏洞预警】青龙面板正式版v2.20.1存在权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/PsI6zFu4PVOH7e1_lp69rA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【漏洞复现】宏脉医美行业管理系统/hmcConfig.json存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ui8fxwYrT-Ha18n2RYW00Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260302】",
+        "url": "https://mp.weixin.qq.com/s/mQWuxoE8IqMpeTzGjDVL9g",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "LLM4Pentest: LLM 赋能自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/2dt6QugmPgu3_odRpObzXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【漏洞通告】GNU Inetutils telnetd 环境变量注入提权漏洞(CVE-2026-28372)",
+        "url": "https://mp.weixin.qq.com/s/DB7Unw5ITuFiuZCUXOubdw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【已复现】青龙面板身份认证绕过漏洞(QVD-2026-10895)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/LvPOmfiFDGR_nHFShBCbEw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent",
+        "url": "https://mp.weixin.qq.com/s/uXrOP50GCsS3LOmwBVNzeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【漏洞通告】Microsoft Windows 记事本远程代码执行漏洞(CVE-2026-20841)",
+        "url": "https://mp.weixin.qq.com/s/ffCl-hv8BmUo2ipGMvWwOA",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "Go2机器狗的远程代码执行（RCE）漏洞",
+        "url": "https://mp.weixin.qq.com/s/TZPOUzorOH-_LLnLsBVIIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【已复现】风云再起TELNETD又爆提权漏洞（CVE-2026-28372）",
+        "url": "https://mp.weixin.qq.com/s/mQnMvTeWOisG8WTGhGLi8A",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "谷歌API密钥安全漏洞曝光：前端暴露密钥可直接访问Gemini并窃取隐私数据",
+        "url": "https://mp.weixin.qq.com/s/eFaRTkzSIpiWjJwaPPKg_A",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "安全锐见：Claude Code Security来了，是时候干掉渗透测试工程师了么？",
+        "url": "https://mp.weixin.qq.com/s/MUNpinlZgmybXX4JWlJCtQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
+    },
+    {
+        "title": "【0day】深信服运维安全管理系统 change_net 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/B2ghhxUCdgNM-tILYRNcmQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-02"
     }
 ]
