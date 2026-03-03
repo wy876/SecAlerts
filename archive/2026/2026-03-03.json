@@ -1,0 +1,86 @@
+[
+    {
+        "title": "JAVA代码审计书籍",
+        "url": "https://mp.weixin.qq.com/s/PLo2-Oa4ABXRdJrLh_bXLw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "从 WebSocket 劫持到间接指令注入：OpenClaw 连环漏洞背后的架构反思",
+        "url": "https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "谁在电话线上？利用 Windows 电话服务中的远程代码执行漏洞（ CVE-2026-20931）",
+        "url": "https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描",
+        "url": "https://mp.weixin.qq.com/s/q_VUL8a-ZVsULxPlMJJN3Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "可视化漏洞扫描器Nuclei_Gui、支持POC管理与生成",
+        "url": "https://mp.weixin.qq.com/s/_Q4u37bwDlpzAv---8QVoA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞预警 | Langflow远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/744SDALyf_zgy2TSRP5Wgg",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "工具 | CVE-2026-24061-GUI",
+        "url": "https://mp.weixin.qq.com/s/0rDVlOT7AltZnK0CuSViuQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "严重漏洞预警 | Microchip TimePictra 存储型 XSS 漏洞影响关键基础设施管理系统",
+        "url": "https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞报告处理平台 - 支持Nuclei/Xray/自定义txt报告导入，AI驱动的安全漏洞管理与分析系统",
+        "url": "https://mp.weixin.qq.com/s/PTUKngfyBAlPzef3B4X1mA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "为了过个上传漏洞，我换了三个环境：一个安全菜鸟的踩坑实录——Upload-Labs 5-8关排坑记",
+        "url": "https://mp.weixin.qq.com/s/cw1gfQOxe4ZSXgUGuIdIoA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【渗透测试】Tabnabbing(标签页劫持)到管理员最终拿下机器",
+        "url": "https://mp.weixin.qq.com/s/_rvTsjgjJlB-H_UIlW6bdQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "深信服运维安全管理系统 del_net 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-del_net-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-03"
+    }
+]
