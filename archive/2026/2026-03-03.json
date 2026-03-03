@@ -142,5 +142,41 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496736&idx=2&sn=65c30532982b048b97bac72925caa2cd",
         "source": "BruceFeIix",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "我如何利用 LLM 多 Agent 工作流挖掘开源项目 0-day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/iWqARz5yCFpYKdzV4xpClA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【案例分享】某SRC SSRF漏洞分享",
+        "url": "https://mp.weixin.qq.com/s/7q_bTJ-NsPsOmAPOHZ_yqQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【已复现】漏洞通告 | 青龙面板未授权命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/xi-XEP0V3i1XtXDc91gnqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "记一次某大型oa前台0day挖掘",
+        "url": "https://mp.weixin.qq.com/s/8_wsvlbEW4ss8Z4T8fQPGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "以色列情报机构通过入侵交通摄像头和深度渗透手机网络，掌握了哈梅内伊的具体行踪",
+        "url": "https://mp.weixin.qq.com/s/7oUTzE3D3iYFcMf0nw9KZw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞复现 | 深信服运维安全管理系统 change_net 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ejCUFXCarUuwa1r31yl1pw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
     }
 ]
