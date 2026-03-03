@@ -178,5 +178,131 @@
         "url": "https://mp.weixin.qq.com/s/ejCUFXCarUuwa1r31yl1pw",
         "source": "Doonsec",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "域环境渗透lab17wp",
+        "url": "https://mp.weixin.qq.com/s/0EObU5W4Z7NsiLPAmgloRw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "什么是自带漏洞驱动 (BYOVD) 攻击?",
+        "url": "https://mp.weixin.qq.com/s/PME9OXsdCaidSTxCbpE3Xg",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "渗透你心，测试你意",
+        "url": "https://mp.weixin.qq.com/s/aWTGGt0aHjF1cJ__Zkz97w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "用户名枚举漏洞并可被利用导致账户被恶意封禁算不算漏洞",
+        "url": "https://mp.weixin.qq.com/s/fftGnpspnYeUj66jbiUpUA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "针对 Windows 错误报告的 ALPC 权限提升漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/0z4Dt5KzOoen9deKwlSCyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Chrome 新漏洞允许恶意扩展程序通过 Gemini 面板提升权限",
+        "url": "https://mp.weixin.qq.com/s/ghXSVnnqe8B0QiqDXaKp2A",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "从侦察到利用：攻击者如何发现、利用和串联Web应用程序漏洞——以及防御者如何检测和阻止它们",
+        "url": "https://mp.weixin.qq.com/s/tiR1ZwrmnumeOwm6yctGkA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "FastNmap - Nmap告别命令行可视化资产发现 · 漏洞检测 · 报告生成",
+        "url": "https://mp.weixin.qq.com/s/kCh7mBZMxehhyIgBI5rU8A",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "LLM驱动的多智能体协同漏洞挖掘与PoC验证框架",
+        "url": "https://mp.weixin.qq.com/s/SbnAGTwI7V5cZOF-7dBdzA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "HSC Mailinspector 路径遍历漏洞(CVE-2024-34470) 附POC",
+        "url": "https://mp.weixin.qq.com/s/4Ceu8kxpf5lKZ1nTJNYPpw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【在野利用】青龙面板未授权命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/gBDs3NOYgiSgRrEflYJ4zw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "记一次SRC漏洞挖掘：万能验证码与任意用户密码重置之旅",
+        "url": "https://mp.weixin.qq.com/s/9ujiCdBcoIQkknRwj7KLKA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "CVE-2025-30247 | 无界安全成员发现西部数据高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZEMMRqA1-hr2UZKIh0vQyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
+        "url": "https://mp.weixin.qq.com/s/COJMTSv9xQdb_8mNWUkplQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Chrome高危零日漏洞CVE-2026-0628深度分析：恶意扩展如何借AI之势窃取你的本地文件",
+        "url": "https://mp.weixin.qq.com/s/GGfhh7mmy6kNqyychBOelA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "你的 AI 助手正在出卖你——ClawJacked（CVE-2026-25253）完整攻击链拆解",
+        "url": "https://mp.weixin.qq.com/s/dTY9aVii_3fDFNeOvKZWWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "安全速报|[0day] Cisco SD-WAN认证绕过+APT28微软Office零日，双链在野利用",
+        "url": "https://mp.weixin.qq.com/s/5DcFls-kq1wO0eRhuuNy4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "警惕身边的AI助手:盘点智能AI手机的六大安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/kzjMJUkZ7WPxnWgKLuqOTw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第8期",
+        "url": "https://mp.weixin.qq.com/s/kEFyr1DYcOJRMzLYOXvd_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "MSHTML框架0day漏洞在2026年2月补丁日更新前已被APT28黑客利用",
+        "url": "https://mp.weixin.qq.com/s/zVxO7YRqwbEh5FVEBRFrjA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "OpenClaw 最新漏洞可能导致恶意网站劫持本地 AI 代理",
+        "url": "https://mp.weixin.qq.com/s/10XksZr-a4yzjHsOqQt7Ag",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
     }
 ]
