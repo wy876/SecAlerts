@@ -346,5 +346,53 @@
         "url": "https://mp.weixin.qq.com/s/Rnz8VsGj_g4HeqsXbsXgVA",
         "source": "Doonsec",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "CVE-2026-3042分析：ITSourceCode事件管理系统高危SQL注入漏洞（附poc）",
+        "url": "https://mp.weixin.qq.com/s/yk8acwGkXsWBgKcVp-SaTw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Roo Code + DeepSeek：自动化渗透测试初探",
+        "url": "https://mp.weixin.qq.com/s/1o_JVA5Ko1S-AIrVEY-65w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【论文速读】| FuzzySQL：基于大模型驱动的模糊测试挖掘数据库管理系统特殊功能中的隐藏漏洞",
+        "url": "https://mp.weixin.qq.com/s/MDAR7vEt0u0QvT-RVj190A",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "pocsuites安全工具源码分析",
+        "url": "https://mp.weixin.qq.com/s/Rcj5yZBfA4XDwyObfBfmLQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "漏洞验证-SpringBlade框架JWT认证缺陷(CVE-2021-44910)",
+        "url": "https://mp.weixin.qq.com/s/wscOQbSSNwdp5Bc9XbI4sw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "OpenClaw高危漏洞ClawJacked深度解析：当浏览器成为内网渗透的跳板",
+        "url": "https://mp.weixin.qq.com/s/VxuN9ohg3ypwOF6B8HYHXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Netatalk CVE-2018-1160 复现及漏洞利用思路",
+        "url": "https://mp.weixin.qq.com/s/KszZ_HT1Mza5DWOqNdQqcA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "🚨全网警报！OpenClaw爆高危漏洞！",
+        "url": "https://mp.weixin.qq.com/s/A5rckYOov5_z5VNpBppL4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
     }
 ]
