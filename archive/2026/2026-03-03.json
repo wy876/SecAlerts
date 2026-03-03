@@ -304,5 +304,41 @@
         "url": "https://mp.weixin.qq.com/s/10XksZr-a4yzjHsOqQt7Ag",
         "source": "Doonsec",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "那个凌晨，我终于挖到了人生第一个漏洞",
+        "url": "https://mp.weixin.qq.com/s/99JxwoFzyn-zl7dFZNA8jA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.2.9-2026.3.1",
+        "url": "https://mp.weixin.qq.com/s/GZ9_4jqRD2mdgrLprhgk4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "springboot环境下的写文件RCE——so加载篇",
+        "url": "https://mp.weixin.qq.com/s/yF1zeXGPEnDzMosAssqAlQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【漏洞预警】0day 青龙面板 最新版本 鉴权绕过导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/9E8JddipF5-jOCzi1bVO8Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "2026元宵福利来袭：漏洞奖金翻倍，陌陌SRC邀你共庆佳节！",
+        "url": "https://mp.weixin.qq.com/s/D4EitBJ-jhJGwXvnH0HfLA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "热网无线监测系统 RealTimeOther.asmx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/ru5jPwEt5CX3ndFZKZv2ww",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
     }
 ]
