@@ -394,5 +394,47 @@
         "url": "https://mp.weixin.qq.com/s/A5rckYOov5_z5VNpBppL4w",
         "source": "Doonsec",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "【高危漏洞预警】青龙面板身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/zTGQOuixh9CgXZ76-7SmZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权",
+        "url": "https://mp.weixin.qq.com/s/BWVJsQI1sPmobRX4y3jDgw",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+        "url": "https://mp.weixin.qq.com/s/RBk_5wl1ORq2c7p-P_r2ug",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "APT28组织利用MSHTML框架0Day漏洞在微软补丁发布前实施攻击",
+        "url": "https://mp.weixin.qq.com/s/ct8GBNUKZIOnvqQaqOPbDA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "Windows错误报告服务ALPC提权漏洞，PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s/c4fNfzn2TKA4VA1b9S1IFg",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "伊朗最高领袖之死幕后：首都摄像头、通信、基站长年被深度渗透控制",
+        "url": "https://mp.weixin.qq.com/s/iSmhzUFg7No4QjCco0XglQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "【免费领】超强渗透工具：Kali Linux实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/bxeSEJzQG5zeEvvc9sQDRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-03"
     }
 ]
