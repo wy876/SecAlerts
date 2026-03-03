@@ -82,5 +82,65 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-del_net-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499499&idx=1&sn=4b38edb5c8905038e92ee734f22e4b25",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [共启安全年｜瓜分微信百万奖池！漏洞赏金翻倍，先到先得",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208167&idx=1&sn=201535bb50624721e9d426ac27509388",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [【Java代码审计利器】自动化Java源码与字节码安全审计工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486003&idx=1&sn=d7dee4687b31149a65fdccdf36e808e5",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [【已复现】青龙面板身份认证绕过漏洞(QVD-2026-10895)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504678&idx=1&sn=d7c2da91f2a4e0a7adf007ff146e80eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [Claude Code配置文件藏漏洞，API密钥秒泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611640&idx=2&sn=79acbf9f7b4c0a49f524eeb3135f9155",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [谷歌API密钥安全漏洞曝光：前端暴露密钥可直接访问Gemini并窃取隐私数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586910&idx=2&sn=89e2c670e32e5a5faa2e54249252e3d8",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489930&idx=1&sn=e67201aaa8a6b6389c47de9f12c87719",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [漏洞管理指标：是时候超越指标幻象了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486006&idx=1&sn=82248fcc2c21e88ab245e37d1d4426c7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第8期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496736&idx=1&sn=cf9703d5d05aa0ba9b2a714e119699fc",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260223-20260301)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496736&idx=2&sn=65c30532982b048b97bac72925caa2cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-03"
     }
 ]
