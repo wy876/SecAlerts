@@ -220,5 +220,113 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-del_route-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-04"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.2.9-2026.3.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503714&idx=1&sn=068b37a0d68b2f0ee42a3b6074c73775",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "] [Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525298&idx=2&sn=425ca98f5c96c967d36a88bbf4d252de",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "] [2026元宵福利来袭：漏洞奖金翻倍，陌陌SRC邀你共庆佳节！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489167&idx=1&sn=470a4f3eb8f8ecf9af7d78cc355d1af1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第8期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501248&idx=1&sn=c671e79f57af6b57eb8c08427e0d245a",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+        "url": "https://mp.weixin.qq.com/s/_DyLCcTsEO9o6OFxVRjkNw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260304】",
+        "url": "https://mp.weixin.qq.com/s/HszbwIfSyE15tQCTg-AidA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "《网络安全与数据治理》：基于大模型的深层 Web 越权漏洞检测方法u200bu200b",
+        "url": "https://mp.weixin.qq.com/s/qi0y7bfmD26egsnPvInImg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+        "url": "https://mp.weixin.qq.com/s/9RSG46cEyAQ58lIQQExKSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【漏洞预警】青龙面板 系统未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/-bvDl1qJI7Jxi7cKposPsQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "信息安全漏洞月报（2026年02月）",
+        "url": "https://mp.weixin.qq.com/s/QwiyGO9OvdF4Lnt4MYqPvA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第9期）",
+        "url": "https://mp.weixin.qq.com/s/-x7My3r39rLsSSCKN391wg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【1day】青龙面板 网站管理系统 command-run 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/FNb8MY6qrjQ8JdDWVw2Qlw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "深度分析：Android 短信数据库 SQL 注入高危漏洞 (Bug 388530367)",
+        "url": "https://mp.weixin.qq.com/s/ueEFKrQCKFJpq7QGTe94Dg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "有时候，你真的能从设计中\\\"嗅\\\"出安全问题（Juniper Junos Evolved CVE-2026-21902 无认证RCE分析）",
+        "url": "https://mp.weixin.qq.com/s/x3Uc2SlFFgfaL7cc1WWueg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "代码安全审计模型集群(GGUF)更新！0day复现平台即将上线!",
+        "url": "https://mp.weixin.qq.com/s/RJRSte8fcj8vE3dfgZg6sQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【漏洞预警】青龙面板 网站管理系统 command-run 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/xnBT55kFgUvwFbdXCDesEA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+        "url": "https://mp.weixin.qq.com/s/xXgaZg_Y-YHroMYiz2IGyg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "OpenClaw本地AI Agent零交互接管攻击链分析与思考｜ClawJacked【CVE-2026-25253】",
+        "url": "https://mp.weixin.qq.com/s/kMS6vP-lsStRJEepX-8JoQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
     }
 ]
