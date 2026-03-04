@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Langflow CSV Agent 远程代码执行漏洞分析（CVE-2026-27966）",
+        "url": "https://mp.weixin.qq.com/s/0nBZDjvVRxVp54TSiySbaw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "H5S视频平台敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/TgKtuskvHUpo9zuVVLBjcA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "伊朗最高领袖之死幕后：首都摄像头、通信、基站长年被深度渗透控制；",
+        "url": "https://mp.weixin.qq.com/s/KEkNlKu3ZfYy5W0GNbMu0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "捷报！洞悉安全斩获漏洞盒子全明星擂台赛大魔王擂台区胜利！",
+        "url": "https://mp.weixin.qq.com/s/LSWsiw10RU0WPkCaaZ_Wjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "美以“史诗怒火”联合斩首行动看伊朗安保漏洞对我借鉴与启示",
+        "url": "https://mp.weixin.qq.com/s/dhOOJUw4pyI9kMzqo7fJcw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "记一次加密小程序的支付逻辑漏洞挖取",
+        "url": "https://mp.weixin.qq.com/s/fX9YniapoIj-d0eZYGnZjQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "谷歌确认高通安卓组件中的 CVE-2026-21385 漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s/S9kfYNRwKrBNrHZj6BvRow",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "漏洞复现 | 青龙定时任务管理平台dependencies鉴权绕过导致远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/CP6IhexEASzJ4UlGhJU8hg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "JAVA电商系统前台文件上传漏洞审计流程",
+        "url": "https://mp.weixin.qq.com/s/rS9xYPGQr2M0BCnJiRhRjg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "日益严峻的安全隐患：MCP系统中的提示注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/AH8ZXywWjusa5eHObmEyag",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "WordPress 安全警报：热门会员插件存在严重权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/KX8_GgirsfPQt6SvIqBnUQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Claude Code系列2-代码审计",
+        "url": "https://mp.weixin.qq.com/s/8FGNsI4bN5TajIaLAURd9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "隐蔽与控制：利用 Eden-RAT GUI 掌握 Linux 后渗透攻击",
+        "url": "https://mp.weixin.qq.com/s/mkny-bMUXuO-__6SoijY_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "中国信通院2026【首批】软件供应链漏洞管理平台能力评估报名启动！",
+        "url": "https://mp.weixin.qq.com/s/TBl9zFDKGTZpyvbuYBlhSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "漏洞预警 | RustFS授权绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/xP_PRkltn0yuNOR85NYvXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/XkBV3_3r6ndiJ0z1NOPEdQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "漏洞预警 | 九佳易管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/PRbBNeGco1kw96fXyKqILQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "漏洞扫描分析平台 对标商业级漏洞扫描器 | 主机探测、端点梳理、资产测绘、POC验证和自动报告",
+        "url": "https://mp.weixin.qq.com/s/jmROv3lgDVpv-xF5blHN4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "五个请求，拿下数据中心管理系统：CVE-2026-28517 三漏洞链式利用分析",
+        "url": "https://mp.weixin.qq.com/s/C0fLba9werSVzBuGFSw39w",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "银河麒麟OS安全检测工具 | 资产清点、合规检查、漏洞扫描和报告生成一体化",
+        "url": "https://mp.weixin.qq.com/s/RE6ftG589_ZnUTDE3HPC9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "技术流复盘：北朝鲜黑客如何把 Zoho 云盘和 U 盘变成跨网渗透的“核武器”？",
+        "url": "https://mp.weixin.qq.com/s/cStGvXBJIfKzjX_nV0KFVA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "[0day] Chrome Blink引擎UAF+渲染器逃逸，全链RCE已在野",
+        "url": "https://mp.weixin.qq.com/s/tqDPiJvZDhlATRAEsS3cug",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "天融信-上网行为管理系统代码审计命令执行+任意文件删除+任意文件下载",
+        "url": "https://mp.weixin.qq.com/s/exSHealt1J3dmCwd90Cbuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "那个凌晨，我终于挖到了人生第一个漏洞",
+        "url": "https://mp.weixin.qq.com/s/tm8hnsKPhdcJejrqWSc7Yw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "工具推荐 | OSS存储桶的漏洞扫描工具，目前支持阿里云、腾讯云、华为云、AWS S3",
+        "url": "https://mp.weixin.qq.com/s/lDCxmZDuUWvlRRAuJOvdIg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "让 AI 像黑客一样思考，已斩获 49 个 CVE 的开源漏洞！全新一代AI代审工具漏洞发现效率提升 10 倍",
+        "url": "https://mp.weixin.qq.com/s/8AtGriLMM_0PV4yi4L9n7w",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "CVE复现 | CVE-2026-24061复现",
+        "url": "https://mp.weixin.qq.com/s/MH3AK4QFRmO7TDlFw9RK9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "记一次差点进编制的漏洞测试",
+        "url": "https://mp.weixin.qq.com/s/bxuTgsrQLUxYr7WSX1czfw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第二章第五节】挖掘小众漏洞：平行越权（横向权限提升）的利用与实例",
+        "url": "https://mp.weixin.qq.com/s/7l_SjdFgQ5nrzLVeAKc9mQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "OpenClaw本地AI Agent零交互接管攻击链分析与思考｜ClawJacked【CVE-2026-25253】",
+        "url": "https://mp.weixin.qq.com/s/ORmMMbZjLe5eUz2h35SEjQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【红队】一款专为红蓝工程师和渗透测试人员打造的现代化、跨平台安全工具箱。",
+        "url": "https://mp.weixin.qq.com/s/5KGHNpk_CSA4uaRKcOaGmA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "从渗透测试到验证闭环，Kali MCP 如何更灵活、更进一步？",
+        "url": "https://mp.weixin.qq.com/s/dvgXVblhwKoi-OLCJlRUeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "从渗透测试到验证闭环，Kali MCP 如何更灵活、更进一步？",
+        "url": "https://mp.weixin.qq.com/s/LIRryJlOl3LX03jwK-vXiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【nday】某知名品牌运维安全管理系统 del_net 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/TD_OhpH3RHOg6Wvu0j9n2Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "某知名院校0元购漏洞",
+        "url": "https://mp.weixin.qq.com/s/-9155GZHeE1x-0bgn4afiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "记一次登录框0-1渗透突破",
+        "url": "https://mp.weixin.qq.com/s/-V-zy5fCorWCvuS2K9xYWw",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "深信服运维安全管理系统 del_route 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-netConfig-del_route-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-04"
+    }
+]
