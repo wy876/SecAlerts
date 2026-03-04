@@ -454,5 +454,29 @@
         "url": "https://mp.weixin.qq.com/s/_9GMsNgc-_KdXl1-t-zRJQ",
         "source": "Doonsec",
         "date_added": "2026-03-04"
+    },
+    {
+        "title": "JavaWeb代码审计保姆级教程纯案例篇",
+        "url": "https://mp.weixin.qq.com/s/5nnt-kmHu_3uY-vqkqYkeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "告别“自嗨”与烧钱：如何为“AI渗透测试”构建可靠的实战闭环？",
+        "url": "https://mp.weixin.qq.com/s/clFF_NF32f5-Fx27oAYorA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Chrome Gemini 漏洞可被远程利用 访问受害者摄像头和麦克风",
+        "url": "https://mp.weixin.qq.com/s/qoWLKYYGDt1ODq8N73am9g",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Android 安全更新——修复 129 个漏洞及一个正在被利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/xKcq2Qq1yqEvJqn1U2DBRg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
     }
 ]
