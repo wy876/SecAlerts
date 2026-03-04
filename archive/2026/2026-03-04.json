@@ -388,5 +388,29 @@
         "url": "https://mp.weixin.qq.com/s/wKmAK3f7ZAZ-NFTOWaIpPA",
         "source": "Doonsec",
         "date_added": "2026-03-04"
+    },
+    {
+        "title": "记一次有趣的XSS漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/KG3Ge_Zcf0dOdhg8U7mYSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "OpenClaw近期生态安全事件解读：从RCE漏洞到Skill供应链投毒分析",
+        "url": "https://mp.weixin.qq.com/s/Hi3YQ_ytlbRhOu09yvRN6A",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "青龙面板存在任意账号密码重置漏洞",
+        "url": "https://mp.weixin.qq.com/s/lpDNPbUlLijmFuz_WVH5PA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【附POC及复现环境】关于 “Windows记事本命令注入漏洞” 的一些真相（CVE-2026-20841）",
+        "url": "https://mp.weixin.qq.com/s/GfZd_pqoiPhpiCriWaBkCg",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
     }
 ]
