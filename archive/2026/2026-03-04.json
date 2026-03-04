@@ -412,5 +412,47 @@
         "url": "https://mp.weixin.qq.com/s/GfZd_pqoiPhpiCriWaBkCg",
         "source": "Doonsec",
         "date_added": "2026-03-04"
+    },
+    {
+        "title": "谷歌安卓更新修复已遭利用的高通 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZtgHjwUp-LFGYi442FZa0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "CISA：VMware Aria Operations RCE漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s/erYYn-ybsG-gMtg8G85AOQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Claude发现了500个你十年都没看见的漏洞——你引以为傲的经验，还值钱吗？",
+        "url": "https://mp.weixin.qq.com/s/iIGADRYK9Qyg_SNILMBS5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【高危AI漏洞预警】LLM-Claw缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s/EXPK6rmIUkyF-KsxiRFdww",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "谷歌紧急修复Android 129个漏洞，含正遭利用的0Day",
+        "url": "https://mp.weixin.qq.com/s/Yri_0xcdQwKmwXkxdQdIbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)",
+        "url": "https://mp.weixin.qq.com/s/LHxZY6wN4-GrvGcp9EMCVQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁",
+        "url": "https://mp.weixin.qq.com/s/_9GMsNgc-_KdXl1-t-zRJQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
     }
 ]
