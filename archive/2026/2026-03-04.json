@@ -328,5 +328,41 @@
         "url": "https://mp.weixin.qq.com/s/kMS6vP-lsStRJEepX-8JoQ",
         "source": "Doonsec",
         "date_added": "2026-03-04"
+    },
+    {
+        "title": "Chrome 浏览器漏洞利用 (一)：V8 引擎与 JavaScript 内部机制入门",
+        "url": "https://mp.weixin.qq.com/s/ImNkYPfCHt_z3ltOB64FNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Chrome 浏览器漏洞利用 (二): Ignition 解释器、Sparkplug 编译器与 TurboFan JIT 优化详解",
+        "url": "https://mp.weixin.qq.com/s/-3E30rKbgWhUO0TKLYsPKA",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Chrome 浏览器漏洞利用 (三)：CVE-2018-17463 分析与利用",
+        "url": "https://mp.weixin.qq.com/s/4ZKEecCJ-svZi4PNWv-LXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "【0day】某知名品牌运维安全管理系统 del_route 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/CxFbA576h3jQVaREcjD86g",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+        "url": "https://mp.weixin.qq.com/s/C6fGvi9rK-SWD6jKjGlQnQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
+    },
+    {
+        "title": "Coruna漏洞利用工具包包含23个漏洞，已入侵数千部iPhone",
+        "url": "https://mp.weixin.qq.com/s/NTzLtMqWkaibNmy7ZCuGqQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-04"
     }
 ]
