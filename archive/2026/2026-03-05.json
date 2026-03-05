@@ -268,5 +268,29 @@
         "url": "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug",
         "source": "Doonsec",
         "date_added": "2026-03-05"
+    },
+    {
+        "title": "当人类专家下班后：一个AI红队“硅基员工”的7x24小时渗透纪实",
+        "url": "https://mp.weixin.qq.com/s/EqE39vEH1LsvwQL2V9eYkQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "Agent时代的Web项目0day代码审计思考与实践",
+        "url": "https://mp.weixin.qq.com/s/l5wftMKtuc6Wq4-HashBSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/YpKFmeH8FeulWifXxk3H7Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【0day】某知名品牌运维安全管理系统 Jwt 密钥硬编码",
+        "url": "https://mp.weixin.qq.com/s/5sxG8QzEKQI1Q7_gd40kJg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
     }
 ]
