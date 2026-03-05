@@ -352,5 +352,23 @@
         "url": "https://mp.weixin.qq.com/s/WKFyaWjfrnrm2TxSPBQmKA",
         "source": "Doonsec",
         "date_added": "2026-03-05"
+    },
+    {
+        "title": "AI 挖漏洞已经“原地起飞”？别被幻觉骗了：拆解 POC-GYM 的深度降温报告",
+        "url": "https://mp.weixin.qq.com/s/R7k1nu5r2f2UsjN81DBDtw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "iOS攻击工具包Coruna利用23个漏洞入侵数千台iPhone设备",
+        "url": "https://mp.weixin.qq.com/s/JmbKRZN3bvsESXjXmM7AgQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "MS-Agent漏洞致攻击者可劫持AI Agent获取系统完全控制权",
+        "url": "https://mp.weixin.qq.com/s/ZYMagiAcbEAXIAPRYfYMHw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
     }
 ]
