@@ -292,5 +292,65 @@
         "url": "https://mp.weixin.qq.com/s/5sxG8QzEKQI1Q7_gd40kJg",
         "source": "Doonsec",
         "date_added": "2026-03-05"
+    },
+    {
+        "title": "思科提醒注意满分 Secure FMC 漏洞可用于获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s/PFU_ObEwY_HD4-O8NV48TQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "FreeScout 严重漏洞可导致服务器遭完全接管",
+        "url": "https://mp.weixin.qq.com/s/f1mJyblER5ZpYk29EBSV-g",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【漏洞预警】天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/JCXLbJQ10qUr49I-597Fqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【漏洞预警】麒麟操作系统V11 KysecScene D-Bus 服务本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/t_VNm95DuDB-zSm60dbI1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "CVE-2024-45758&amp;CVE-2024-10553 H2O-3反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/b5ywW9TSBc29OfsBtTsegg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报 - Langflow安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/4T1iNxSM2tPEs5ade210Jw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "天锐绿盾审批系统 findTenantPage.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/381ABDm6YjMWK2XxW7ZWZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/sTPSTNgl_LDA2poxzHEF_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "恶意盗取Token接管OpenClaw AI Agent（CVE-2026-25253 ClawJacked）漏洞解析与安全加固方法",
+        "url": "https://mp.weixin.qq.com/s/AjjCWHAokr2AAfPbqURadw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【漏洞预警】天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/WKFyaWjfrnrm2TxSPBQmKA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
     }
 ]
