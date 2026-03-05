@@ -184,5 +184,65 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-login-search_login-token-leak.html",
         "source": "MRXN",
         "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185590&idx=1&sn=e1ea601b5542c6467ef6a372e9bf0db7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611838&idx=1&sn=923c97232b245b602a3f1b917c769aa5",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611838&idx=2&sn=2e5b777a8090e5207a891214ac4c89b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [谷歌安卓更新修复已遭利用的高通 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525306&idx=1&sn=59467f3b0deb077d61354be5265c743a",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [CISA：VMware Aria Operations RCE漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525306&idx=2&sn=bd95e3c5ab9c19e0a8d50c704895e37c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [【安全圈】Chrome 安全漏洞致 Gemini Live 助手遭劫持，可被用于间谍活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074287&idx=4&sn=b834869c9992c41a8c629f4ff55b149d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [美以“史诗怒火”联合斩首行动看伊朗安保漏洞对我借鉴与启示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566998&idx=2&sn=230d2b7e1c8b99d4a01bfe0bb515af38",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "] [日益严峻的安全隐患：MCP系统中的提示注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486020&idx=1&sn=31de6bd96eeb98947f15dc4f1c288dd7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：高通芯片组内存损坏漏洞正被攻击者积极利用",
+        "url": "https://mp.weixin.qq.com/s/JuZ87Rc0iB32i5bmWkWnAA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【BurpSuite插件】wx小程序渗透测试利器更新",
+        "url": "https://mp.weixin.qq.com/s/sQnmWWEbVaiJ8ewmWNBOIg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
     }
 ]
