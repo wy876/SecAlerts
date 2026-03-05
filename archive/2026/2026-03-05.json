@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s/3AhcRVg4uC42vCqY-vxDhA",
         "source": "Doonsec",
         "date_added": "2026-03-05"
+    },
+    {
+        "title": "【漏洞复现】某面板新版本鉴权绕过导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/RuArJUsXdTRtFY-TwB4PjQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "Openclaw技术解析：自动审计用友U8C代码漏洞指南",
+        "url": "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
     }
 ]
