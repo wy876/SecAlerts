@@ -1,0 +1,188 @@
+[
+    {
+        "title": "EasyCVR视频管理平台未授权添加用户漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/RLCLnQLKVys4dUK4jckCyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "漏洞复现 | Western Digital My Cloud NAS multi_uploadify.php 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/yscg3Ibj9-GEeRL1pAVuJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "[RCE] n8n未授权RCE+Chrome UAF 0day，今日双杀",
+        "url": "https://mp.weixin.qq.com/s/CO2coDczUaffYg7BFsY34w",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "记一次某大型oa前台0day挖掘",
+        "url": "https://mp.weixin.qq.com/s/4dXSD-h6TfIYhYrvpGHylA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "渗透测试Payload速查平台 | XSS/SQLi/SSRF/RCE | React+TypeScript",
+        "url": "https://mp.weixin.qq.com/s/oPrD0QpowxWsOhnBhQ4JbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "美以伊战争的第二天 - “我”成功渗透进了美军内部",
+        "url": "https://mp.weixin.qq.com/s/UpggDumAMrIe7q-pjPPySA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【近源必备】我在安卓机里装了个\\\"迷你 Metasploit\\\"，还自带免Root内网渗透工具",
+        "url": "https://mp.weixin.qq.com/s/4ovV5Yydw87sGiHD3jq44A",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "【林晓月的AI安全日记-003】你在用AI看网页，网页在往你电脑写木马｜Google Antigravity浏览器扩展RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/wOqglx_EXLQt5cscuD9LWw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+        "url": "https://mp.weixin.qq.com/s/J6wCB9KG3d-om9dwU83PDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "容器逃逸新方法：潜伏20年的Linux漏洞CVE-2025-38617剖析",
+        "url": "https://mp.weixin.qq.com/s/MLcgJuahwntKSwCjI4AXUA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "安恒已自用｜恒脑AI代码审计智能体实战：与专家同台 PK，让逻辑漏洞不再是“运气发现”",
+        "url": "https://mp.weixin.qq.com/s/bqAE_G91ZK4Pzhm5XydMMA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "深入解析AWS Security Agent：自动化渗透测试的多智能体架构",
+        "url": "https://mp.weixin.qq.com/s/5lQmy9cXGawOLmgYdqL3rg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "CVSS 10.0 FreeScout 中的未经身份验证的远程代码执行（公开概念验证）",
+        "url": "https://mp.weixin.qq.com/s/Ev5pAUCuLEVvYA_yR2yRvA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "某大型oa前台0day挖掘",
+        "url": "https://mp.weixin.qq.com/s/6HNJYi_B4rVi1q1obzeCPQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+        "url": "https://mp.weixin.qq.com/s/IbW59TaqLZJjzMRm_JcS0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "AI速递 | OpenClaw AI代理易受劫持漏洞",
+        "url": "https://mp.weixin.qq.com/s/bIEoAiSIX9QRb5wFuzy6yQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "漏洞挖掘新利器：LoveJS浏览器插件，一键抓取隐藏接口与敏感信息",
+        "url": "https://mp.weixin.qq.com/s/NmrARuQpEGupVMQvvBEu4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "一个\\\"备份文件名\\\"引发的满分漏洞：CVE-2026-28409 深度解析",
+        "url": "https://mp.weixin.qq.com/s/tQacz0EyRg7uLi-jWvB6_g",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "漏洞预警 | GNU InetUtils telnetd提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/pPrB9a5bi4TknBYREgx68g",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Cifob6KvfDMUWpgFBhMdXw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/JWwPgywQPnhuPA6ZV_ap9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散",
+        "url": "https://mp.weixin.qq.com/s/ACjsvuckOJwB-wesg5aCrA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "OSEE(Offsec Exploitation Expert)证书通关记录",
+        "url": "https://mp.weixin.qq.com/s/QM4ZHV-83WlRUzNqW9i8gg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散",
+        "url": "https://mp.weixin.qq.com/s/xJGkh9FJ-FdbgRgIwqYcEA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "渗透测试Payload速查平台",
+        "url": "https://mp.weixin.qq.com/s/nLWgF76xCiTNiWDPe305Kg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散",
+        "url": "https://mp.weixin.qq.com/s/0j6vgx4wP-dam7SmLpeyJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "青龙面板存在dependencies接口存在远程代码执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/awhu21WevqGto5P7zrkarA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "伊朗最高领袖之死幕后：首都摄像头、通信、基站长年被深度渗透控制",
+        "url": "https://mp.weixin.qq.com/s/PFPet5DCG40rdnqxJ-UyJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "AI挖Java 0day不再靠运气！这套Skill让审计覆盖率100%、幻觉率趋近0（上篇）",
+        "url": "https://mp.weixin.qq.com/s/pB5llxCLvujf84Pw1Mt2bg",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "CVE-2025-14279: MLflow DNS Rebinding 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/yDKvXk9ln92zWE_ssmlHpw",
+        "source": "Doonsec",
+        "date_added": "2026-03-05"
+    },
+    {
+        "title": "深信服运维安全管理系统 Jwt 密钥硬编码",
+        "url": "https://mrxn.net/jswz/sangfor_osm-login-search_login-token-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-03-05"
+    }
+]
