@@ -568,5 +568,35 @@
         "url": "https://mp.weixin.qq.com/s/lot2n2XJw9MpYjfz9yLKOg",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "思科修复了48个防火墙漏洞，其中两个漏洞的CVSS评级为10级",
+        "url": "https://mp.weixin.qq.com/s/txVjLO1aaM9jJQ5PXXVxPg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "WordPress会员插件漏洞允许攻击者创建管理员帐户",
+        "url": "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "AI安全再爆雷！OpenClaw 漏洞全景大揭秘",
+        "url": "https://mp.weixin.qq.com/s/-qyDgCk-yV-Mib0OV1zD0Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "由CISA紧急通报海康威视与罗克韦尔漏洞引发的思考",
+        "url": "https://mp.weixin.qq.com/s/qf_BuU4i-qqB-a_EU0blXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【AI安全】AI安全再爆雷！OpenClaw 漏洞全景大揭秘",
+        "url": "https://mp.weixin.qq.com/s/zc1WXrgRJgoUCelrwK6V5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
