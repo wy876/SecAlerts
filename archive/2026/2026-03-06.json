@@ -1,0 +1,236 @@
+[
+    {
+        "title": "用友NC doSingUp sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/uR5rdkaE6L40rZEKHwSNIA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【隐侠&amp;听风】代码审计Skill使用痛点征集交流！等你入群",
+        "url": "https://mp.weixin.qq.com/s/hvjtg4ql4sdUnuLZNWy5eQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞复现 | Salia PLCC firmware.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/cwagi7X9W5TXkZyM1f_YWg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞分析：Juniper Junos Evolved CVE-2026-21902 未授权远程代码执行漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/OgLBXsfj7hXKo1p5Q3ahUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/oxvSmUx_sX3uHSbw2skv3w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "伊朗最高领袖之死幕后：首都摄像头、通信、基站长年被深度渗透控制",
+        "url": "https://mp.weixin.qq.com/s/I3OF1BgZHzT5LkkWj1bgbw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "破解云端加密：亚马逊 AWS-LC 库中发现未经身份验证的绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/UHPFxCW9raVKce2eP51siA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "AI智能体如何自动化CVE漏洞研究",
+        "url": "https://mp.weixin.qq.com/s/01A87uDZk2Yu1nM89GJOPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【项目实战】如何用一个漏洞赚两笔钱",
+        "url": "https://mp.weixin.qq.com/s/AZU0GCqCArUGEvLcsH19tg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "紧急预警：青龙面板严重漏洞，一行命令即可接管服务器！",
+        "url": "https://mp.weixin.qq.com/s/8CEh18Eg54yqcyFs-p4p6g",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Chrome Gemini漏洞：可致攻击者远程访问用户摄像头和麦克风",
+        "url": "https://mp.weixin.qq.com/s/VdctSS2QS5pSp5iHkp8dIA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Azure DevOps权限提升漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/W_Msy1NTtUy0JDWzHRB5gw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【EXP】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/JbD43ixjfMZIywi9QnZJfg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "红队福音：GoExec实现多种Windows远程代码执行方法",
+        "url": "https://mp.weixin.qq.com/s/fFJ9TRMVTH6DIjIz9As82A",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0Day泛微云桥e-Bridge系统存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LqJ3xcnXXh1Geq9QvvEuOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+        "url": "https://mp.weixin.qq.com/s/DEarwnclXxu_0f7Knr3T4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "高危预警 | CVE-2026-26713：开源点餐系统存在未授权 SQL 注入漏洞，CVSS 评分 9.8",
+        "url": "https://mp.weixin.qq.com/s/Y3XO2y3L6rTVbjmz1E6qYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞预警 | WordPress plugin WPNakama SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/TA5bilWX2phJnMKE6akDjg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞预警 | 青龙面板身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/O2z852EaYHnIPUEKUKy5lQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/4ujLQX58e4_wDT8eL1jNjA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "[RCE] 14行JSON，接管你的Langflow工作流引擎",
+        "url": "https://mp.weixin.qq.com/s/bqKCongVONQLGTg-jHHUVA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "WatchDogKiller：WatchDog Anti-Malware 驱动漏洞 PoC",
+        "url": "https://mp.weixin.qq.com/s/cd6CCjVWuKT3kj3soDf3nA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "渗透测试红线Checklist",
+        "url": "https://mp.weixin.qq.com/s/7rzSwNuU2rQktbNztr1Jng",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "攻防演练神器 | 一键检测Struts2/Shiro/Log4j等主流漏洞",
+        "url": "https://mp.weixin.qq.com/s/O9o2hDkJ7R2y2gdQsvkcuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "一款集资产管理与漏洞扫描于一体的网络安全评估系统|网络安全扫描利器",
+        "url": "https://mp.weixin.qq.com/s/mJFJFEdM0GHYcXirUkL3KQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "用 Claude 把 GitHub 漏洞数据库变成代码审计 Skill",
+        "url": "https://mp.weixin.qq.com/s/3vdborbClBeBYo4SEFbKjg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "天地伟业Easy7 uploadMapServerBgImage接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/Ex11CFBLvrsb3cV6-R3_lw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第三章第一节】身份验证漏洞攻击指南（基础篇）：认证、授权与暴力破解逻辑",
+        "url": "https://mp.weixin.qq.com/s/4DSk7IYtsVYeYKAYgzsSQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "SRC系列——某高校食堂支付程序惊现“0元购”？SRC支付逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/qyUBVRHoamkyoph01CryGA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "青龙面板dependencies鉴权绕过导致远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DRRuGZUYJLjpvnTywpAezA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【隐侠&amp;听风】代码审计Skill使用痛点征集",
+        "url": "https://mp.weixin.qq.com/s/5HsYbbwrf4XV8EvA_MvgXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "OpenClaw惊爆\\\"ClawJacked\\\"漏洞：AI Agent已被静默接管？",
+        "url": "https://mp.weixin.qq.com/s/-PnzihRRiyQaL_kVDEB89g",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【高危漏洞预警】Cisco Catalyst SD-WAN 身份验证绕过漏洞CVE-2026-20127",
+        "url": "https://mp.weixin.qq.com/s/EshGhLL7mIGcvYg94GPo7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "第68天-Web攻防实战：文件上传漏洞（JS提取 / 源码审计 / 编辑器利用）深度学习笔记",
+        "url": "https://mp.weixin.qq.com/s/wNny08iS1zntkTbPJWXPiA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "第67天-Web攻防实战笔记：文件上传漏洞原理、绕过技巧与真实场景复盘",
+        "url": "https://mp.weixin.qq.com/s/eddbW0UqL9Nktq4dZXzEuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描",
+        "url": "https://mp.weixin.qq.com/s/3LjH2FGa3niEhv7Z5SpQyg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "渗透测试Payload速查平台",
+        "url": "https://mp.weixin.qq.com/s/J85-D31YoAvgltEiYA_m6w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "TopazTerminator：一款利用漏洞驱动杀进程的黑客工具",
+        "url": "https://mp.weixin.qq.com/s/UpQzmRy_F52MlZ4ZbK2b8Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "深信服运维安全管理系统 getLdap 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-getLdap-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-06"
+    }
+]
