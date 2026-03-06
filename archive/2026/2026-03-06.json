@@ -616,5 +616,11 @@
         "url": "https://mp.weixin.qq.com/s/gDVWpl1DS9aBbzJarP3aFg",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "东胜物流软件GetData接口存在SQL注⼊漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/Pl8HI07Re_o398osEnziUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
