@@ -598,5 +598,17 @@
         "url": "https://mp.weixin.qq.com/s/zc1WXrgRJgoUCelrwK6V5w",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Cursor 代码审计 Skill 编写指南",
+        "url": "https://mp.weixin.qq.com/s/wKFQKddG5fmeMoO4IaZZnA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
