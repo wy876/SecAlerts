@@ -232,5 +232,89 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-getLdap-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "] [思科提醒注意满分 Secure FMC 漏洞可用于获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525317&idx=1&sn=400b0183f75f78413cb8fd0ab335e576",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "] [FreeScout 严重漏洞可导致服务器遭完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525317&idx=2&sn=3114ade284237f3a92e848ed15d94829",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "] [【已复现】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504685&idx=1&sn=23883cdee93b778e1f2b2d6b719763c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "] [【安全圈】思科修复最高危 Secure FMC 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074304&idx=4&sn=c541beb5d36c901fe3af1636fafc01a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "思科SD-WAN零日漏洞已被利用，PoC漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/aybvsSzizp4U_Bnpe20aHQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第二期）",
+        "url": "https://mp.weixin.qq.com/s/CjDxq6wpSrDN6Rs4eAbelQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "CNNVD关于Cisco Catalyst SD-WAN Manager和Cisco Catalyst SD-WAN Controller 授权问题漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/6MW1rgI5IflYMbPN-fAGlA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "这种鸟漏洞不难挖啊",
+        "url": "https://mp.weixin.qq.com/s/8jMN-5L1p0tVqxK4Xe1xKA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞情报高效应用",
+        "url": "https://mp.weixin.qq.com/s/pV_7DfbHXuRnpbiFrq0obQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "如何解决渗透测试功能点测不全",
+        "url": "https://mp.weixin.qq.com/s/DlvLT_OgKWbJaikK7Ky9VQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "网安工具30天通（第9期）｜Nessus：企业级漏洞扫描神器，资产巡检必备",
+        "url": "https://mp.weixin.qq.com/s/aO1nKrg43rioipqXQfcTAA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "内网渗透中的常见命令和横向移动",
+        "url": "https://mp.weixin.qq.com/s/G1_elQwa9GISmHo8GqPAfg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "AC集中管理平台敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/OBl5SyMLksVtxwhD8Ougug",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "某公司的渗透技能考核靶场通关记录",
+        "url": "https://mp.weixin.qq.com/s/I87F09J2Uo6Th4a1eDw6nw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
