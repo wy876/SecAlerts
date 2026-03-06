@@ -478,5 +478,71 @@
         "url": "https://mp.weixin.qq.com/s/9DWE8vqFdNgS3goopdws8w",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "2025年至少90个零日漏洞遭滥用，企业软件及设备占比近一半",
+        "url": "https://mp.weixin.qq.com/s/t8x7t1jJZGVB03ZB9TrAeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "如果你能做好这三件事，0基础也能挖到src漏洞！",
+        "url": "https://mp.weixin.qq.com/s/iZxCXEsc8UjIvu61wyi9cw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "记某edusrc高危漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/LDBDK7B2ywOr4IEMDWWMuA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Tenda CH22 多个漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/WVss1QL8JgjFJtDl6vbduA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "攻击者可删除文件、植入后门：MS-Agent漏洞曝出完整利用链",
+        "url": "https://mp.weixin.qq.com/s/CNLivUOrSjwu7J18IKQuxQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "企业系统成0Day攻击新靶点，商业监控公司首超国家黑客",
+        "url": "https://mp.weixin.qq.com/s/N7TEytjucnMBH9CWp90_bQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Cisco SD-WAN 0Day漏洞已被野外利用，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s/53ciKsFfD-OJUz_aXGeE2w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "\\\"没有 EXP 就无法利用\\\"？那就公开。有种别修。",
+        "url": "https://mp.weixin.qq.com/s/XnPbAGlNpuqIOL5Ngkg4Aw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "漏洞速递 | 最新Cisco CVE-2026-20127 漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/uN6e1XbxWeCGaE2R6xJ2Dw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "代码审计工具",
+        "url": "https://mp.weixin.qq.com/s/bvu9vR_HoZxRzBqzhtZlUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "人工智能重要安全漏洞通报：Langflow安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/9xJwXvP4eJypD392aANggA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
