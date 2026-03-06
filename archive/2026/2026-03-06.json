@@ -376,5 +376,29 @@
         "url": "https://mp.weixin.qq.com/s/HxkTwFiK3Sr73Ee6jfVQhA",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "【0day】某知名品牌运维安全管理系统 getLdap 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/_2Mzr5mgAiv92KGg56y0tw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OnDLx6SFIaXxOH9U7RtfDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "AI代码审计（逻辑漏洞方向）",
+        "url": "https://mp.weixin.qq.com/s/mz4yhuzfylCk69nNRin7Vw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【漏洞复现】某面板最新版存在任意重置密码漏洞",
+        "url": "https://mp.weixin.qq.com/s/SKu01RemygxCmC9PjMoEjA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
