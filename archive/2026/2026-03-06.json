@@ -544,5 +544,29 @@
         "url": "https://mp.weixin.qq.com/s/9xJwXvP4eJypD392aANggA",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "第70天-Web攻防实战：文件下载、读取与删除漏洞 &amp; 目录遍历与穿越",
+        "url": "https://mp.weixin.qq.com/s/uou_PsB6hRXTeYl6Cx0vbA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【安全圈】Wi-Fi 爆出史上最大安全漏洞！所有路由器无一幸免：HTTPS 加密也没用",
+        "url": "https://mp.weixin.qq.com/s/GQ1bp5KTuYzagkq-NRoh6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "第69天-Web攻防学习笔记：文件包含漏洞（LFI / RFI / 伪协议 / 无文件利用）",
+        "url": "https://mp.weixin.qq.com/s/kL4TVLyC1iGWXbwyGOif9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "信息安全漏洞周报【第063期】",
+        "url": "https://mp.weixin.qq.com/s/lot2n2XJw9MpYjfz9yLKOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
