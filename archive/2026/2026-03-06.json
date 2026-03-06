@@ -430,5 +430,53 @@
         "url": "https://mp.weixin.qq.com/s/BsmqMUNKrby0Pehd0dDvHA",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "先知通用漏洞收集计划AI应用专项报名开启！",
+        "url": "https://mp.weixin.qq.com/s/YO9l3ZrJhB-U7vMTTa-Dug",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "电动汽车充电网络告警：Everon OCCP 后端系统存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/TNhcv5cZeb14ZXEja87ecg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "思科：注意已遭利用的两个 Catalyst SD-WAN 管理器 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/7l2E8uZ5yp1p0LBuCrbUnA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "【已复现】 你的文件可能被他人替换，Gogs 跨仓库 LFS 对象覆盖漏洞（CVE-2026-25921）",
+        "url": "https://mp.weixin.qq.com/s/mh0yU485ImKrPFhc1gXuGQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "某运维安全管理系统存在token泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/-SBdt9KkSwNKxi3QbELESA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "渗透测试Payload速查平台",
+        "url": "https://mp.weixin.qq.com/s/W9aHnAzuDidj8rMneiHZLA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "域渗透基础知识汇总，很实用！（附下载链接）",
+        "url": "https://mp.weixin.qq.com/s/bpQSRLfwWME4HiDgiYvQCw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "官方新漏洞-泛微云桥 e-Bridge系统 sendWxMsg 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/9DWE8vqFdNgS3goopdws8w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
