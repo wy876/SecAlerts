@@ -346,5 +346,35 @@
         "url": "https://mp.weixin.qq.com/s/5B_qeZqLKV2Ji3dYzUZb9w",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
+        "url": "https://mp.weixin.qq.com/s/ClWJWC45M8S9DK1pGFvHxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "Cloudflare 开源代理框架 Pingora 曝严重请求走私漏洞（CVE-2026-2835）",
+        "url": "https://mp.weixin.qq.com/s/tCEzegKFvdN3svBXqWRkFg",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "记一次证书站渗透",
+        "url": "https://mp.weixin.qq.com/s/MFjXrgHbJihRhxTrrE7GTQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "泛微云桥 e-Bridge系统 sendWxMsg接口 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LFFzjDuPFy6tiO92O-PzKw",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "山石安全能力中心｜青龙面板未授权RCE漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/HxkTwFiK3Sr73Ee6jfVQhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
