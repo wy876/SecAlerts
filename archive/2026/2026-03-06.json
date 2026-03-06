@@ -316,5 +316,35 @@
         "url": "https://mp.weixin.qq.com/s/I87F09J2Uo6Th4a1eDw6nw",
         "source": "Doonsec",
         "date_added": "2026-03-06"
+    },
+    {
+        "title": "仓促集成 AI 的安全隐患集中爆发：ServiceNow 曝出高危 AI 漏洞！BodySnatcher 可创建管理员后门",
+        "url": "https://mp.weixin.qq.com/s/ZKPlLs3MUiX1zVjermF38g",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "国家信息安全漏洞库发布人工智能重要安全漏洞通报；维基百科遭自传播JavaScript蠕虫攻击，XSS漏洞如何被武器化 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/rlDOBl-KWVRRqh0UKHFP6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "一把梭搞定内网渗透的轻量扫描器",
+        "url": "https://mp.weixin.qq.com/s/Zv5Uxc5liQZFBY_UD8-GFA",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "利用反向提示词注入设置蜜罐捕获AI渗透Agent",
+        "url": "https://mp.weixin.qq.com/s/YZ5RHD4XnH7IKBAQwnGH_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
+    },
+    {
+        "title": "人人拥有的 AI 审计战队，让漏洞挖掘触手可及",
+        "url": "https://mp.weixin.qq.com/s/5B_qeZqLKV2Ji3dYzUZb9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-06"
     }
 ]
