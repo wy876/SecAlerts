@@ -4,5 +4,77 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-SNMP-save_SNMP-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [Tenda CH22 多个漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611851&idx=1&sn=27ff9a6fb47fca740b0fc19cc5cd70e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [攻击者可删除文件、植入后门：MS-Agent漏洞曝出完整利用链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611851&idx=2&sn=00a933e82a28087f929bf6272751dc73",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [电动汽车充电网络告警：Everon OCCP 后端系统存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525349&idx=1&sn=352cbd47ed06c60804138658fa37fece",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [思科：注意已遭利用的两个 Catalyst SD-WAN 管理器 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525349&idx=2&sn=d24d6683fb3bc04d5b47bb36bf521194",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [2025年至少90个零日漏洞遭滥用，企业软件及设备占比近一半",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515644&idx=1&sn=5225e463062df00e90439d4927d5cfc1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [安全热点周报：Android 发布了针对高通零日漏洞攻击的补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504689&idx=1&sn=2e3461baad817de9e286567c3e15e786",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [大多数网络攻击的成功只因1%的漏洞导致",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541929&idx=1&sn=b78e4140b81848db276284ae280c34ee",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [ByteSRC入侵类漏洞限时享高系数奖励，高危额外再奖2w元！新人&伯乐礼同步上线！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496045&idx=1&sn=1e497fbd635488d89cd0a3ff4584c466",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [先知通用漏洞收集计划AI应用专项报名开启！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998641&idx=1&sn=ee4df449a324b6bfa0158f167c37fbf6",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [【安全圈】Wi-Fi 爆出史上最大安全漏洞！所有路由器无一幸免：HTTPS 加密也没用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074321&idx=1&sn=22258cb41004bbbeb3efc3c2b7c209d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [AI代码审计（逻辑漏洞方向）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489502&idx=1&sn=c0314b2a211b439d3b96e5a5645d66a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "] [漏洞情报高效应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238794&idx=1&sn=0198fce32f72d00e3a7704d0cc5c8a21",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-07"
     }
 ]
