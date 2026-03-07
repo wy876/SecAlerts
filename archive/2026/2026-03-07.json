@@ -148,5 +148,47 @@
         "url": "https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ",
         "source": "Doonsec",
         "date_added": "2026-03-07"
+    },
+    {
+        "title": "AI开始自己修漏洞：Codex Security 如何重构软件安全体系",
+        "url": "https://mp.weixin.qq.com/s/U6Cuo9O4zv2J2V_Kq8j3NQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "大多数网络攻击的成功只因1%的漏洞导致",
+        "url": "https://mp.weixin.qq.com/s/KrZvN9_VA4s5ifA8BmJkMg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "记一次对母校的漏洞挖掘经历",
+        "url": "https://mp.weixin.qq.com/s/VzwjCfbHGESk7RwUMQ44cA",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "漏洞管理平台 | 支持Excel格式的漏洞扫描报告导入、智能关联资产、漏洞可视化管理",
+        "url": "https://mp.weixin.qq.com/s/rifObUuyQp-nhtsbcmH53A",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "漏洞复现 | Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "CISA 紧急令：联邦机构限期修复 Coruna 漏洞利用链相关 iOS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/5_ErYro-nnL7gmSgB620og",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "Serein：SRC 发掘漏洞的高效工具",
+        "url": "https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
     }
 ]
