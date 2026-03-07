@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg",
         "source": "Doonsec",
         "date_added": "2026-03-07"
+    },
+    {
+        "title": "供应链漏洞挖掘：从“单点突破”到“全网沦陷”的深度狩猎指南",
+        "url": "https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "自 2023 年起，思科 SD-WAN 的一个严重漏洞已被用于零日攻击。",
+        "url": "https://mp.weixin.qq.com/s/3sUgYu0ZJuZJKXbLtUAnIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
     }
 ]
