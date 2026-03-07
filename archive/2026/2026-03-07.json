@@ -88,5 +88,65 @@
         "url": "https://mp.weixin.qq.com/s/TEjQJzz83LBjDlpW77xaAw",
         "source": "Doonsec",
         "date_added": "2026-03-07"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.1.6更新(1. 渗透测试模块新增druid利用功能; 2. 修复密码爆破模块部分协议无法直接执行命令的bug)",
+        "url": "https://mp.weixin.qq.com/s/WNsMCQdCf5mp3HO-5qT0Zg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "Coruna:一个强大iOS漏洞利用工具包的神秘之旅",
+        "url": "https://mp.weixin.qq.com/s/jik3V1LPFwnyC3hq1jO1Bg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击",
+        "url": "https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "拆解 Claude 如何利用 CVE-2026-2796 漏洞",
+        "url": "https://mp.weixin.qq.com/s/cnzkjn-TdqRBRihMHAbCxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "并发漏洞核心场景Checklist",
+        "url": "https://mp.weixin.qq.com/s/Vfu7lvGPgamG1uyZ2mnqGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "嵌入式系统的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/UxvQ-Lt3J7yn7JBfzSpJcQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "台军空军关键设施被曝存在安全漏洞 紧急斥资2680万加固",
+        "url": "https://mp.weixin.qq.com/s/Gzi1cMELQIc3S0r_61TN5Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "两次 HTTP 请求拿下网站管理员权限——CVE-2026-1492 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "记录比较有意思的几个漏洞挖掘事件",
+        "url": "https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
+    },
+    {
+        "title": "五角大楼和欧洲航天局部署的卫星接收器爆超20项安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-07"
     }
 ]
