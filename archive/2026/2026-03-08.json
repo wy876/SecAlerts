@@ -160,5 +160,29 @@
         "url": "https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA",
         "source": "Doonsec",
         "date_added": "2026-03-08"
+    },
+    {
+        "title": "思科修复两大CVSS 10分Secure FMC漏洞",
+        "url": "https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "每周PDF资源：移动APP安全性评估；Web渗透攻防实用技巧；人工智能网络安全协作手册；子域名劫持指南",
+        "url": "https://mp.weixin.qq.com/s/4USJXUMXCLLpvTrUPzTzIg",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅",
+        "url": "https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "云上的ssrf漏洞挖掘技巧",
+        "url": "https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
     }
 ]
