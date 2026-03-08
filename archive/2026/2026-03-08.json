@@ -124,5 +124,35 @@
         "url": "https://mp.weixin.qq.com/s/vK1ww4bik2wHTVaizOpDyA",
         "source": "Doonsec",
         "date_added": "2026-03-08"
+    },
+    {
+        "title": "【0day】某知名厂商运维安全管理系统 csspost/update 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "PentestAgent:预建战术手册的AI渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/5xS0oymrKvoOYr0HNFtfOw",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第三章第二节】手把手教学：如何利用登录提示缺陷，高效爆破用户名与密码",
+        "url": "https://mp.weixin.qq.com/s/qZYMzC5VZdGp48u3GjRpzA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "发布两周1000Star：AI驱动的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/Z4KGeCcJFhf6yjdl3QaS9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
     }
 ]
