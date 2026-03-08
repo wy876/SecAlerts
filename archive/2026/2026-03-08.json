@@ -184,5 +184,47 @@
         "url": "https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA",
         "source": "Doonsec",
         "date_added": "2026-03-08"
+    },
+    {
+        "title": "403/405 绕过与未授权深度利用合集|多维度漏洞挖掘实战指南",
+        "url": "https://mp.weixin.qq.com/s/LaUS29G4qWSZVkANhCd99Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "针对OpenClaw（龙虾）近期安全漏洞、风险问题的汇总",
+        "url": "https://mp.weixin.qq.com/s/VLTRXodn4aYYgpQ3wWZYGQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "damnCoffee：一款绕过杀软的后渗透免杀加载器",
+        "url": "https://mp.weixin.qq.com/s/v1RsM2eNBbNcwlP1cXG83Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "【安全圈】紧急！思科发布最高级别预警，一口气修复48个漏洞",
+        "url": "https://mp.weixin.qq.com/s/KpnFpw_pHsYKesAravYOXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "【安全圈】重磅！IBM X-Force报告：AI驱动攻击狂飙，勒索软件激增49%",
+        "url": "https://mp.weixin.qq.com/s/qJrvrD2I4vbcB0QqlO9Mog",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备",
+        "url": "https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "HackerMind：三AI架构自集成MCP的链上对话智能渗透系统工具",
+        "url": "https://mp.weixin.qq.com/s/blQZXdpEu-sj1wsClr7rLg",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
     }
 ]
