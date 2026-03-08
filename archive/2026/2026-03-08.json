@@ -70,5 +70,59 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-csspost-update-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-08"
+    },
+    {
+        "title": "] [【安全圈】WordPress 会员插件漏洞遭利用，攻击者可创建管理员账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=3&sn=701d79e4920ac96f99b26a882526964c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "甲方金融科技公司因防火墙漏洞遭受攻击导致数据泄露，防火墙供应商成被告",
+        "url": "https://mp.weixin.qq.com/s/4gpVN_YCXuEiEc-vc9zlDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "Write | RCTF2025-auth复现(含环境搭建)",
+        "url": "https://mp.weixin.qq.com/s/BthMPgMT0Ay-UmaR6SeWqA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "WooYun Legacy：88,636个真实漏洞案例构建的安全知识库Skill",
+        "url": "https://mp.weixin.qq.com/s/wz7VqzXpWU26LSPSpTREsQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "获取 TP-Link Tapo C260 摄像头的 Shell (CVE-2026-0651, CVE-2026-0652, CVE-2026-0653)",
+        "url": "https://mp.weixin.qq.com/s/b2tGmTl01mgBY5xZHffZww",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "安卓0day高达1400w RMB？",
+        "url": "https://mp.weixin.qq.com/s/NtdBds1Vnyi64stD1o2HVw",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "他来了，你的代码审计有救了",
+        "url": "https://mp.weixin.qq.com/s/4tJAo7AZv5kfzDvb9AhRsA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "一个 GET 请求拿下服务器：CVE-2026-29058 AVideo 命令注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/S3ZIVtTjXwFkScou5QyTvw",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "第73天-WEB攻防学习笔记：RCE（远程代码执行）漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/vK1ww4bik2wHTVaizOpDyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
     }
 ]
