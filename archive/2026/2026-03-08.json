@@ -1,0 +1,74 @@
+[
+    {
+        "title": "SQL注入漏洞测试优化流程（1.1）",
+        "url": "https://mp.weixin.qq.com/s/ZQmsxdECcV5Nnf1J3f74ng",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "驯服“浏览器特工”：Chrome的一个漏洞让扩展程序劫持了新的Gemini面板",
+        "url": "https://mp.weixin.qq.com/s/TBDTz1-wTYcGcJbKwKjXzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "每周漏洞情报速览｜2026.03.01–03.06",
+        "url": "https://mp.weixin.qq.com/s/Zq0b1F-rjI3XFvnDke5ldA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "Coruna 深度剖析:一次国家级 iOS 漏洞工具包的逆向之旅",
+        "url": "https://mp.weixin.qq.com/s/FIhZYEKieRRoRR27w-u58A",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "无需任何账户，一条请求接管整站：CVE-2026-2446 技术分析",
+        "url": "https://mp.weixin.qq.com/s/ZXkKaxUgvZY8nBUPojrIZg",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "漏洞复现 | JeeWMS iconController.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/pY4HEgKGFeqwYnlkXaCOmQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "GitHub 开源 AI 框架挖掘：3个月找到80+高危漏洞的秘密",
+        "url": "https://mp.weixin.qq.com/s/yULKp_rBI4qcTIq0_o7LyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/93jxgDhiX-fEq9OOoWSyNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "某大型oa前台0day挖掘",
+        "url": "https://mp.weixin.qq.com/s/qHJTUMgA89NSC2SQIqLTvA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "严重漏洞预警 | WordPress Azure AD 单点登录插件存在身份认证绕过漏洞，攻击者无需任何凭证即可冒充管理员",
+        "url": "https://mp.weixin.qq.com/s/99s0tUDgtrdtClAd8rJ8Jw",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "代码级起底 CVE-2026-0035：如何利用逻辑缺陷实现跨 App 隐私窃取",
+        "url": "https://mp.weixin.qq.com/s/krNxIj-uX0mwxkC-s8y6hQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
+    },
+    {
+        "title": "深信服运维安全管理系统 csspost/update 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-csspost-update-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-08"
+    }
+]
