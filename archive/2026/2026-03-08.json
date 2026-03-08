@@ -154,5 +154,11 @@
         "url": "https://mp.weixin.qq.com/s/Z4KGeCcJFhf6yjdl3QaS9w",
         "source": "Doonsec",
         "date_added": "2026-03-08"
+    },
+    {
+        "title": "AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持",
+        "url": "https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA",
+        "source": "Doonsec",
+        "date_added": "2026-03-08"
     }
 ]
