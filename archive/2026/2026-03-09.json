@@ -1,0 +1,146 @@
+[
+    {
+        "title": "AI代码审计的核心思路和方法深度研究",
+        "url": "https://mp.weixin.qq.com/s/FlsEX3zTgiLTDWcpvGFDJQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "写文章随便打开一个案例就发现了漏洞，真好玩儿！",
+        "url": "https://mp.weixin.qq.com/s/pilvg1Zr-03SnH1z_ji6cQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【渗透测试】Matrix-Breakout 2 Morpheus 靶机复盘",
+        "url": "https://mp.weixin.qq.com/s/DEXQRac95QeMNey9fk0AUw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "[漏洞复现]某资产管理运营系统存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/khk36ikIXfqPk1xoNva0ig",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "Intel处理器安全漏洞频发：芯片巨头的信任危机",
+        "url": "https://mp.weixin.qq.com/s/ktw8TmbEg5EoM__EKVpzxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "2026-03-09 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/LEXHnjNXizOjKDnnOuK3jA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "第75天-【深度解析】PHP反序列化漏洞：从入门到POP链构造",
+        "url": "https://mp.weixin.qq.com/s/zjFqLxqN2RBtnDNAJkdLbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "紧急！思科发布最高级别预警，一口气修复48个漏洞",
+        "url": "https://mp.weixin.qq.com/s/35TmJ_QmWp4MxzAT1oUBew",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "黑客涉嫌出售针对 Windows 远程桌面服务零日漏洞的攻击程序",
+        "url": "https://mp.weixin.qq.com/s/WuG5S6CRvMgLvgfkB-tFqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "2025年安全漏洞疯长，但仅1%被用于攻击",
+        "url": "https://mp.weixin.qq.com/s/WW2MYSUFOi5NGhNeiAgeOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "Nginx UI 严重漏洞 CVE-2026-27944暴露服务器备份信息",
+        "url": "https://mp.weixin.qq.com/s/BtT_KgcklLCNJJ6nG55bAQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "黑客公开出售针对 Windows 远程桌面服务0day漏洞（CVE-2026-21533）攻击程序",
+        "url": "https://mp.weixin.qq.com/s/A5FONjeVYF7WAlZ2hr4qXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "搜索框漏洞测试checklist",
+        "url": "https://mp.weixin.qq.com/s/k2xR0EA4NlhGw-MO0rSMnw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "OpenClaw革新：漏洞挖掘步入流水线时代",
+        "url": "https://mp.weixin.qq.com/s/hmwFwWHscRDoNdOU2H2_fA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/wD1_ttSqn28SfKCkxd5ICg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "一键入侵：ZITADEL 存在严重 CVSS 9.3 漏洞，账户面临完全接管风险",
+        "url": "https://mp.weixin.qq.com/s/xvbnJaBmljds-hXVqMjd6g",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "上篇 | AI挖Java 0day不再靠运气！这套Skill让审计覆盖率100%、幻觉率趋近0",
+        "url": "https://mp.weixin.qq.com/s/OF5itybz5MPy2AnK_gKvUQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "129 个漏洞齐发！Google 这份三月安全报告，藏着哪些不能说的秘密？",
+        "url": "https://mp.weixin.qq.com/s/bp3lKo60JvAd_ChlhN2Ypg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "满分漏洞预警：一行POST请求，2亿患者健康档案门户洞开",
+        "url": "https://mp.weixin.qq.com/s/10VcfRS1ZEwm3Fv8e29lFQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "Burp Suite平替 | 智能代理、强大插件、集成云端虚拟手机，快速定位APP漏洞",
+        "url": "https://mp.weixin.qq.com/s/2P78j-FGm-mwTmiHlNmFQQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "漏洞预警 | XWiki跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ky4eBZY151_FTuz5mPi0RQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Gp_YcYYcbOvyVhDF984lhg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/TkiePjXVMg1TF55Mv65_1A",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "深信服运维安全管理系统 upload_file 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-cssp-app-upload_file-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-09"
+    }
+]
