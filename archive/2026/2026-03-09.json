@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s/xa63JNJy_oZfPFjbP4zYXg",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "Nginx UI 认证绕过漏洞：备份下载与加密密钥泄露（CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s/3VIBo87kEX-SCRa6vZB6Zw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "从漏洞挖掘到风险治理: AI闭环下的代码安全范式变迁与从业者转型",
+        "url": "https://mp.weixin.qq.com/s/QqbmA1thll3IObX6TJNrtw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "OpenAI发布应用安全智能体：可自主发现、验证并修复漏洞",
+        "url": "https://mp.weixin.qq.com/s/bBWmGmVuBjaoJvh5JodmZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【已复现】Nginx UI 信息泄露漏洞(CVE-2026-27944)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/icgGp-tLITPKby0NNpO5Hw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "内网渗透中后门程序伪装与长期驻留技术深入研究",
+        "url": "https://mp.weixin.qq.com/s/VvT-OQyWj45WWS9xfmOqYQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
