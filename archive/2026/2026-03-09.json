@@ -142,5 +142,107 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-cssp-app-upload_file-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "] [【安全圈】紧急！思科发布最高级别预警，一口气修复48个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=1&sn=ef939eb4d183296256162bca1d577177",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "] [【安全圈】重磅！IBM X-Force报告：AI驱动攻击狂飙，勒索软件激增49%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=2&sn=41aac7caec6bd6da98ec4c7c6b1f785f",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "] [【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=4&sn=f3ae22e08096eab2957816229960f85b",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "] [如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492706&idx=1&sn=fdd3a02e537a160a014f2b3e2870d60e",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "一款老牌漏洞扫描器！AWVS-GUI已上线、免费开源！！",
+        "url": "https://mp.weixin.qq.com/s/BeWRm2XPpO62_VrtlDJe7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第三章第三节】赏金猎人技巧：别在验证码页面死磕，试试直接跳过它",
+        "url": "https://mp.weixin.qq.com/s/NOHmQ844yLJh1Pr3gxhyqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "网络安全岗位毕业9年的薪资，存款计算--(红队+安服渗透)",
+        "url": "https://mp.weixin.qq.com/s/bkht_OjUbpwo2-CEoxf6cQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/38bPVTHUXB69mMCRXasksA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
+        "url": "https://mp.weixin.qq.com/s/qnHbJBOGF3RpObvAARJBXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【已复现】Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s/DgB-JaD-TeIES6n3hiN2ew",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "某高校乐跑通用系统代码审计",
+        "url": "https://mp.weixin.qq.com/s/3QpxY_u9__HQ3Ahz4T_mww",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "利用大模型分析二进制漏洞-从漏洞补丁到获取SYSTEM权限（CVE-2026-20805）",
+        "url": "https://mp.weixin.qq.com/s/LiWUI78zDswDhtyTwLi4yQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "漏洞复现 | NUUO摄像机 handle_site_config.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/7NHj2RZ5GjhTtKmxfto-lA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "H3C-H100路由器敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/4Op1D0XMnNXMKhCrS6OzDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "多款AI开发工具面临ContextCrush漏洞攻击威胁",
+        "url": "https://mp.weixin.qq.com/s/RIvyXIAQ8Csfnx7fy4Tklw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "用友NC importPml XXE漏洞",
+        "url": "https://mp.weixin.qq.com/s/2U16TqpTD7jvTGamfEJRWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【AI安全】Unstructured.io 爆出严重漏洞：一个路径穿越导致全系统沦陷（CVE-2025–64712）",
+        "url": "https://mp.weixin.qq.com/s/iqPYKRKoXdYzcRiIWG5taw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
