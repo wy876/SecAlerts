@@ -460,5 +460,23 @@
         "url": "https://mp.weixin.qq.com/s/iyQSPOaAzcfgcXQpRS17rA",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "Nginx UI 权限绕过与备份解密漏洞？可能RCE哦 | CVE-2026-27944 复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/6tMsGOytCk10Edkeet_2DQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "从头顺到尾的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/8Q7pLAH5wF9BS0hbGeUEKQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "Nginx UI 信息泄露漏洞(CVE-2026-27944)（内附exp链接）",
+        "url": "https://mp.weixin.qq.com/s/yhRDO4t-mp3leQfGf19e6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
