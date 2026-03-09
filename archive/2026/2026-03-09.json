@@ -400,5 +400,53 @@
         "url": "https://mp.weixin.qq.com/s/U3kLC4b253v6gGWScMtE9A",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "黑客在暗网高价兜售Windows远程桌面服务0Day漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s/wSOygQ0TNN5cEoe8zhQMTg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "CNNVD | 人工智能重要安全漏洞的通报 - Langflow安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/FHshNfTyn_UxJJFOXHaDBg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "CNNVD | 关于Cisco Catalyst SD-WAN Manager和Cisco Catalyst SD-WAN Controller 授权问题漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/YT0z0l3YPtv0BulQLDAD4g",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "论文研读与思考|YURASCANNER：一种基于任务驱动的大语言模型Web漏洞扫描方法",
+        "url": "https://mp.weixin.qq.com/s/ieR5hO8v_zgFNdaNnNU8Xg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "效率封神！Claude Opus 4.6联合Mozilla，挖出Firefox 22个全新漏洞",
+        "url": "https://mp.weixin.qq.com/s/Crf-bmyNkhFvX8NlMplhZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【免费领】网安大神作业本：渗透APT攻击与防御实战全笔记",
+        "url": "https://mp.weixin.qq.com/s/dJZey-4vgCY5b4MsE4sE7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "全网最全的渗透测试学习路线，2026网络安全就业必备渗透测试技能全解析，渗透测试零基础入门到精通看这一篇就够了！",
+        "url": "https://mp.weixin.qq.com/s/66Zyqzd8MFeQnpyGyUwJUw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Nginx UI信息泄露漏洞(CVE-2026-27944)",
+        "url": "https://mp.weixin.qq.com/s/LxTrPtSDECpqH56WAxItSw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
