@@ -448,5 +448,11 @@
         "url": "https://mp.weixin.qq.com/s/LxTrPtSDECpqH56WAxItSw",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "AI Agent 的横向攻击：通过“可信代理”实现跳板渗透",
+        "url": "https://mp.weixin.qq.com/s/QEMpwB2gBHvSnlZMtI-8qA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
