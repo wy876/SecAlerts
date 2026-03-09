@@ -268,5 +268,41 @@
         "url": "https://mp.weixin.qq.com/s/2bvYbGVkLTQe8fwgzQpdBg",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "渗透新手/老鸟都爱用的 Payload 参考平台：Payloader 保姆级教程 &amp; 亮点解析",
+        "url": "https://mp.weixin.qq.com/s/f84z10QQ04YrJRNKr_VniA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "工具更新 | 漏洞管理器V2.0.6",
+        "url": "https://mp.weixin.qq.com/s/7pvyWY3zEUMtxp_U3VRYOA",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "等保报告-漏洞导出工具（切合等保报告）",
+        "url": "https://mp.weixin.qq.com/s/5qQ-hLKP-I1dL2tYWXl1pg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "AI驱动的渗透测试框架(多智能体协作与45+安全工具集成)具备自动漏洞扫描、多代理系统及合规报告",
+        "url": "https://mp.weixin.qq.com/s/GhDgqWn9kc_NrZl42cbW_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "CVE-2026-30860：腾讯开源 AI 框架 WeKnora SQL 注入绕过导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/qzEGhq5cuBNnGO6vALJqCQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "CNNVD发布最新《人工智能重要漏洞通报》；美英同步发声：AI创作能否享有版权的法律界限已明确 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/xa63JNJy_oZfPFjbP4zYXg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
