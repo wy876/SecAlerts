@@ -244,5 +244,29 @@
         "url": "https://mp.weixin.qq.com/s/iqPYKRKoXdYzcRiIWG5taw",
         "source": "Doonsec",
         "date_added": "2026-03-09"
+    },
+    {
+        "title": "【漏洞检测脚本】Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s/e4hGmEYAuU7hQZZBD9B_Fw",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "Burp Suite平替 | 智能代理、强大插件、集成云端虚拟手机，快速定位APP漏洞",
+        "url": "https://mp.weixin.qq.com/s/lPkgHa8QRaJWPoAVPnX24A",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "CISA提醒用户注意影响macOS和iOS的已被积极利用的漏洞",
+        "url": "https://mp.weixin.qq.com/s/ySg97z_KDqPI2SnCBHnV4g",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260309】",
+        "url": "https://mp.weixin.qq.com/s/2bvYbGVkLTQe8fwgzQpdBg",
+        "source": "Doonsec",
+        "date_added": "2026-03-09"
     }
 ]
