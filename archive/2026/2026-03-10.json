@@ -262,5 +262,35 @@
         "url": "https://mp.weixin.qq.com/s/pumi000j8cimqk2PCHM68A",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "漏洞挖掘拥抱AI，Openclaw开启新时代",
+        "url": "https://mp.weixin.qq.com/s/5k0U1ESVdf6bDEj87DeRYA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "国家信息安全漏洞库CNNVD通报OpenClaw82个漏洞",
+        "url": "https://mp.weixin.qq.com/s/jwa1eFBAnFUamgJ_h7juuQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.3.2-2026.3.8",
+        "url": "https://mp.weixin.qq.com/s/A9SWR1B2oqEwFxxIjjuheA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "工控系统高危预警：台达 COMMGR2 栈溢出漏洞（CVE-2026-3630）CVSS 9.8，无需认证可直接远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/rqpWDkEKSQ5aZVB7Tc7Gyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报-openclaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/r_s14u2I4Nyr8Yv5KI25tw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
