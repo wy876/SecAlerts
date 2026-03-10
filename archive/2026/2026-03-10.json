@@ -442,5 +442,17 @@
         "url": "https://mp.weixin.qq.com/s/Nrwe8dSI435zyScVgT2q4w",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "“龙虾”安全漏洞刷屏，CNNVD提示及时确认是否受到漏洞影响，尽快采取修补措施。",
+        "url": "https://mp.weixin.qq.com/s/KK9KI207l8oWIGHgPub9sg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "一款面向漏洞赏金猎人和移动渗透测试人员的综合性 Android 安全研究工具包。",
+        "url": "https://mp.weixin.qq.com/s/DQWWxgOQpT_2NSK7zoAhNg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
