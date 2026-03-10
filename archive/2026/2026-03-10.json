@@ -106,5 +106,131 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-system-concentration_management-del_patch-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [开源 IAM 平台ZITADEL中存在漏洞，可导致用户账户遭完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525357&idx=2&sn=9bdb60d59d4633a80fe9fe32bdec1c60",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [OpenAI发布应用安全智能体：可自主发现、验证并修复漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789723&idx=1&sn=864d06bec8122f6ed8a2dd34d43c29f7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [【已复现】Nginx UI 信息泄露漏洞(CVE-2026-27944)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504717&idx=1&sn=2c1b2c7b2be106e334544a2bf934f9d9",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [写文章随便打开一个案例就发现了漏洞，真好玩儿！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500375&idx=1&sn=8ae8bc84e5a28a4b75f5723c370dc021",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [效率封神！Claude Opus 4.6联合Mozilla，挖出Firefox 22个全新漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611860&idx=2&sn=42538345809533671f7986f4a6b83846",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [2025年安全漏洞疯长，但仅1%被用于攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486033&idx=1&sn=a43280d97d4e7e5c5477c5c993e4ba6e",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第9期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496753&idx=1&sn=21ce2395a69f4278957e21c2c5e3cb9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260302-20260308)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496753&idx=2&sn=bc7ec7f281f139df3b306fa2290ff35f",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "Budibase 低代码平台高危漏洞预警：一次请求即可窃取平台全部密钥",
+        "url": "https://mp.weixin.qq.com/s/iKcaG321S_Y8eXihFmG5vQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "OpenClaw（俗称“龙虾”）近期安全漏洞与风险汇总",
+        "url": "https://mp.weixin.qq.com/s/avSunEJYVI2mihiz2i97Lw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "华夏ERP敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/DRdG3tOgtk9Pm0n6bGN4sA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "Moodle jsmol.php 任意文件包含漏洞(CVE-2025-34031)",
+        "url": "https://mp.weixin.qq.com/s/HRSOqM2-y2ZopSxCo-RI6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "同样是学渗透，为什么别人进步比你快？",
+        "url": "https://mp.weixin.qq.com/s/4X2Wr1Sw_ADAXmPLsfE7Jw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "一款“AI 自动渗透系统”？HexStrike AI MCP v6.0 架构解析",
+        "url": "https://mp.weixin.qq.com/s/ISAhbcdjjzfo1FJeiaDukw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【已复现】Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/tkph3tGH0Mj7fjaJXhLkhQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "2026-03-10 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/7C8OIsYsaSXOL8PZaQutQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "渗透测试遇到sign签名的应对流程",
+        "url": "https://mp.weixin.qq.com/s/drVh3XQHrRlNL95udzEiYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "渗透测试实战：目录扫描小tips与接口文档泄露后渗透指南",
+        "url": "https://mp.weixin.qq.com/s/bfxFN2xbp0aWt7ocQvCZsw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "第88天-Web攻防大揭秘：PHP反序列化漏洞的“隐藏核武器”——Phar深度解析与框架实战",
+        "url": "https://mp.weixin.qq.com/s/WwdZsX9AdR1Ue1RXQxGJfg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "OpenAI发布应用安全智能体：可自主发现、验证并修复漏洞",
+        "url": "https://mp.weixin.qq.com/s/BdU6U_1SFpdE0LsIsUixcg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "银河麒麟OS安全检测工具 | 资产清点、合规检查、漏洞扫描和报告生成一体化",
+        "url": "https://mp.weixin.qq.com/s/c7fIhZW4S8ug2U_CxFwROA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
