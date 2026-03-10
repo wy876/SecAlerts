@@ -1,0 +1,110 @@
+[
+    {
+        "title": "CNVD漏洞周报2026年第9期",
+        "url": "https://mp.weixin.qq.com/s/vmlQF1pxim5keu2rNPAOqQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "从零到一：如何设计一款合规、可落地的渗透测试AI Agent",
+        "url": "https://mp.weixin.qq.com/s/wrW-jNXkXzzDj7__pICPSg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "大多数网络攻击的成功只因1%的漏洞导致",
+        "url": "https://mp.weixin.qq.com/s/hMECSz_atyDW5sZJYzkCBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "CL-UNK-1068组织利用网络服务器漏洞和Mimikatz攻击亚洲关键基础设施",
+        "url": "https://mp.weixin.qq.com/s/0WAUfsKL-U5SJIhf3zIruA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "漏洞复现 | Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）【附GUI解密脚本】",
+        "url": "https://mp.weixin.qq.com/s/qmDgdQ9jp7PbyRmSm6uXoQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "ZeroLogon (CVE-2020-1472)",
+        "url": "https://mp.weixin.qq.com/s/dQLVGtNVd1uxquNhYy9d4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "腾讯开源项目现严重 RCE 漏洞：两行请求拿下服务器，CVE-2026-30861 详解",
+        "url": "https://mp.weixin.qq.com/s/hbQ2JIK_enKoD_MvKm7zRw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "Gogs 存在严重 CVSS 9.3 级漏洞，可将存储库变成恶意软件传播途径",
+        "url": "https://mp.weixin.qq.com/s/ROM-Kgi2J6b1OkoiaCfzrg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第四章第一节】服务员为何会帮你偷后厨的秘密？详解“内鬼”漏洞SSRF",
+        "url": "https://mp.weixin.qq.com/s/D64YIyr5IpmqvltyK09JOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "20分钟定位 UAF 漏洞！Claude 4.6 深度审计 Firefox 源码，Mozilla 都惊呆了",
+        "url": "https://mp.weixin.qq.com/s/7DRj_aVCQV7qT9yFQE1ZPQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "别再手动修 Bug 了！OpenAI 推出 Codex Security：自动建模、沙盒验证、PoC 生成“全家桶”",
+        "url": "https://mp.weixin.qq.com/s/QKCFy3_LjQyiDmuWafGQWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "CVE-2026-29000：pac4j-jwt 认证绕过漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/nSOluqqG4GavnLBcdnRPdw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "漏洞预警 | Cisco Catalyst SD-WAN身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/ehTqpNazsPeuBfrleznsDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/qAZ8GvruVGnqbzEj_gyr9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/RMcoTEnBq5xhXN_1eZbLNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "一条命令搞定黑龙虾渗透测试，接入qq和飞书机器人—.—openclaw搭建教程",
+        "url": "https://mp.weixin.qq.com/s/gP9EV4vwTh5DqtitVTvrSw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【有视频】OpenClaw自动化渗透测试初试牛角",
+        "url": "https://mp.weixin.qq.com/s/qPLenFrF3TsPC0ANipmoyQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "深信服运维安全管理系统 del_patch 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-system-concentration_management-del_patch-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-10"
+    }
+]
