@@ -322,5 +322,29 @@
         "url": "https://mp.weixin.qq.com/s/9jKeXBOD1p2X5Wk5brVCnQ",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "AI时代渗透测试：为什么“工具升级”不等于“防御升级”",
+        "url": "https://mp.weixin.qq.com/s/8oWr-S14HDEAE4yEXZKUUQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "CNNVD通报丨OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/LGCavLF_FeSG7m7xQLRcZw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【附POC及复现环境】Nginx UI 敏感信息泄露漏洞复现(CVE-2026-27944)",
+        "url": "https://mp.weixin.qq.com/s/s0UdhJXMEd-9tQSAZMCSGQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第10期）",
+        "url": "https://mp.weixin.qq.com/s/H4Hl3-d-OIva4JhIUQI_Qg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
