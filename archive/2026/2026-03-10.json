@@ -352,5 +352,95 @@
         "url": "https://mp.weixin.qq.com/s/uWG7VdX3U7YbUE5g81Kpcw",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "OpenClaw漏洞清单，企业加固必备",
+        "url": "https://mp.weixin.qq.com/s/nEso1sRNTN2uQa2UiDoocw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "AI挖Java 0day不再靠运气！这套Skill让审计覆盖率100%、幻觉率趋近0（上篇）",
+        "url": "https://mp.weixin.qq.com/s/OJpHQ0zZdBEEc5srgkNk5A",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "目前已知OpenClaw（龙虾）相关漏洞82个⚠️",
+        "url": "https://mp.weixin.qq.com/s/H_BKROnRUZqf_xvaUCK0nA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "[技术深潜] Kali 官方集成 LLM：完全本地化自然语言渗透时代来了",
+        "url": "https://mp.weixin.qq.com/s/sQSk_dELI1wjFNMKIIp5HA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "GHCTF 2025 Escape!复现",
+        "url": "https://mp.weixin.qq.com/s/_c2v3nYAsXF-7M7EKFFWuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "C++安全编码手册：十大类39个漏洞点，一篇搞定代码审计（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/bnYLtwBDq83lTPM56uoOPQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【漏洞通告】Nginx UI 信息泄露漏洞 （CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s/Sw6hvtMN0A-0hYeMhwdLLw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/rgJCrIWLh5ysivoqE8DUow",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "OpenClaw 安全警报激增暴露了 GitHub 和 CVE 漏洞跟踪之间的差距",
+        "url": "https://mp.weixin.qq.com/s/MaJNBRSqtNUp1JoKT_m-mg",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【安全圈】微软已修复：黑客 22 万美元暗网兜售 Win10/Win11 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/5djlPU7kmaMbiKlBFmAxZw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/UYelcDU6fwyj7zOfG-0TQQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "谷歌：2025年90个零日漏洞被利用",
+        "url": "https://mp.weixin.qq.com/s/XVcT4rLDEkcKel35gIUlyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/9QRgW_uarBFC3jx4Hws5Zw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "发现超高危、高危等漏洞82个！养“虾”户要警惕了",
+        "url": "https://mp.weixin.qq.com/s/55yMpbfu7DT8-Ak31f0EkA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "CVE-2025-14297：MLflow 追踪服务器的授权绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Nrwe8dSI435zyScVgT2q4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
