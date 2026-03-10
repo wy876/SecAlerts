@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s/c7fIhZW4S8ug2U_CxFwROA",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "买“帮助台”，搭售“远程后门”？SolarWinds Web Help Desk 认证前RCE链深度分析",
+        "url": "https://mp.weixin.qq.com/s/FTVlif4n8keZdz6Qb8NVcQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "Nginx-UI 未授权备份下载漏洞(CVE-2026-27944)",
+        "url": "https://mp.weixin.qq.com/s/6pTXhp1mINZb4Q6O8fRLlA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
