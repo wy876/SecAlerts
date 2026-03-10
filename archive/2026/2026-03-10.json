@@ -292,5 +292,35 @@
         "url": "https://mp.weixin.qq.com/s/r_s14u2I4Nyr8Yv5KI25tw",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "快速、轻量级的静态应用代码审计（SAST）工具(支持*30+语言*语义搜索与漏洞检测)",
+        "url": "https://mp.weixin.qq.com/s/nPZf-49fYsHhLUDmgjnJ1w",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "【在野利用】Cisco Catalyst SD-WAN Manager 任意文件覆盖漏洞（CVE-2026-20122）",
+        "url": "https://mp.weixin.qq.com/s/vFMzIjX_e5ZMy4jPdPKgNw",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "大疆扫地机器人被曝远程控制漏洞影响全球设备",
+        "url": "https://mp.weixin.qq.com/s/POS4H8GWE7DRCZ7MKypl7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/pTqgPu0MOHL9ixHBGVm8Ow",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第二期）",
+        "url": "https://mp.weixin.qq.com/s/9jKeXBOD1p2X5Wk5brVCnQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
