@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s/6pTXhp1mINZb4Q6O8fRLlA",
         "source": "Doonsec",
         "date_added": "2026-03-10"
+    },
+    {
+        "title": "[高危预警]Nginx UI 未授权备份下载与加密密钥泄露漏洞（CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s/u-XRSHzzY4WcR4z7WE7UXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "抖省省反爬专测上线！漏洞奖金1000元起步！",
+        "url": "https://mp.weixin.qq.com/s/MdWY4c50KOAVF2Y5THGeMA",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
+    },
+    {
+        "title": "OpenClaw（俗称“龙虾”）近期安全漏洞与风险汇总",
+        "url": "https://mp.weixin.qq.com/s/pumi000j8cimqk2PCHM68A",
+        "source": "Doonsec",
+        "date_added": "2026-03-10"
     }
 ]
