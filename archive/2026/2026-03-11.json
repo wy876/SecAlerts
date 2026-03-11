@@ -280,5 +280,35 @@
         "url": "https://mp.weixin.qq.com/s/NPJ3ADW4o4i3NnmsQd8EFg",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "Java 代码审计 - RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/GACHoO3UaYFzJqaorcpApA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "浅谈AI对代码审计的影响",
+        "url": "https://mp.weixin.qq.com/s/ZIorcMZgRM3ej0cx4U9cUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "渗透测试实战｜2026年常用Fuzz方法与工具清单",
+        "url": "https://mp.weixin.qq.com/s/ylTRZTvz91G1zYxyXFvrRw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "支持多LLM的AI代码审计工具AuditLuma",
+        "url": "https://mp.weixin.qq.com/s/vD5hS3MZntYaQeXuDBPlMw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "大海捞针：Openclaw如何革新漏洞挖掘新范式",
+        "url": "https://mp.weixin.qq.com/s/nmEtpXZPU_qjyiLHTK7zBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
