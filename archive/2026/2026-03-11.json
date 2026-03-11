@@ -34,5 +34,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525086&idx=2&sn=e45679fde28a38c59eac984113ab93a8",
         "source": "BruceFeIix",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "漏洞复现 | 用友NC OAUserQryServlet 反序列化代码执行RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/SOK0BUmtvpibRGE8_aofOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
