@@ -40,5 +40,185 @@
         "url": "https://mp.weixin.qq.com/s/SOK0BUmtvpibRGE8_aofOg",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "注意注意！openclaw(小龙虾)爆出多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/xBOzuQBDVNuou37XH_sKlQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "注意！OpenClaw(小龙虾)爆 82 个漏洞！",
+        "url": "https://mp.weixin.qq.com/s/TVYPWslWf5Q9uTLmQobC7Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【漏洞通告】微软3月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/0HiOKZexH070AoOXSFAs9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "pac4j-jwt 身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/4qTtl3eaVV2jJEkgm0FvUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "漏洞通告 | 2026年3月微软产品漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/4zdEJza3YElCuFKZ5XrZhw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "蠕虫式XMRig挖矿攻击借BYOVD漏洞规避检测",
+        "url": "https://mp.weixin.qq.com/s/URKpC-6Oho9qtMy2VmCXvg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/qBUrqSEpHK5KJW1LKHgDhQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "一个字符引发的严重漏洞：CVE-2026-28292 simple-git 远程代码执行分析",
+        "url": "https://mp.weixin.qq.com/s/-PGprNnuu7ChDjjp8byHFQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "严重级别满分：谷歌 Pixel 手机底层引导程序曝出提权漏洞 CVE-2026-0124",
+        "url": "https://mp.weixin.qq.com/s/EQ5uRkR5m3VA2CSSIxk-Ow",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软 SQL Server 零日漏洞允许攻击者提升权限",
+        "url": "https://mp.weixin.qq.com/s/3g3cMbtm9MJKcaTNnyW3Uw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "CVE-2026-31900：一个过于宽松的正则表达式如何在 psf/black 的 GitHub Action 中导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/kZM97wGxzUNnoSeMHSdbuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "安全小知识-第二十七期_潜伏的威胁：深入理解二次注入漏洞的机制与应对",
+        "url": "https://mp.weixin.qq.com/s/_3PW6p68A29aBRCuodLauA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "通报来了 | OpenClaw多个安全漏洞被国家信息安全漏洞库（CNNVD）通报",
+        "url": "https://mp.weixin.qq.com/s/SbEWZifIVAAiOwtBw4HGsA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "第79天-Web安全攻防：轻松掌握越权漏洞，从入门到实战！",
+        "url": "https://mp.weixin.qq.com/s/IOKGeuhGOp3aCu5CkYSPyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "2026-03-11 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/OVPsES6LRERT18GLpSVlRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【代码审计】想了解代码审计的师傅看一看",
+        "url": "https://mp.weixin.qq.com/s/BcKNwhGHrfhKndo-KNnseQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "CVE-2026-20841 RCE漏洞（附EXP）",
+        "url": "https://mp.weixin.qq.com/s/D551xio50Mh0tLWjhKTyZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软3月补丁日多个产品安全漏洞风险通告：5个紧急漏洞、6个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s/gtMKMz2XqOaG72Wud4s_pw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "叮～你有新的速递！CVE-2026-27944 漏洞（速查）",
+        "url": "https://mp.weixin.qq.com/s/BYRdt8hWQEHP4qCNI2V3eQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "未经身份验证的接管：CVSS 9.6 级严重缩放漏洞使 Windows 用户面临远程权限提升风险",
+        "url": "https://mp.weixin.qq.com/s/1d8MvvUkwRqguQA4w4TrYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "高危漏洞&amp;系统命令执行复现",
+        "url": "https://mp.weixin.qq.com/s/HPp-uGdQ08FNzTRInfyCug",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【漏洞速递】CVE-2026-27966 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kh047ewGjxs58s-6bqOz6g",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【漏洞复现】青龙面板网站管理系统近期漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/260ggT-Au68BSZblLJtVBQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "感谢开发让不收的逻辑漏洞通过",
+        "url": "https://mp.weixin.qq.com/s/zob6KztaHPbYgLBVTQ4Qng",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "国家信息安全漏洞库通报||人工智能重要安全漏洞通报-OpenClaw多个安全漏洞!!!",
+        "url": "https://mp.weixin.qq.com/s/4DAo6yTaii4zoeJEW9gQfA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "凌晨3点，我的AI小龙虾自己找到了RCE",
+        "url": "https://mp.weixin.qq.com/s/E2Z-BCP_i-um9EiCblvmaw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "漏洞预警 | Nginx UI信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/33lLVEhzCNw5Yo4sc_69Eg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/vDdk0cokE9gu9D-k0yZULQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/T6q1Sn3QG7ixFus3tBXngA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "Craft CMS 高危漏洞：黑名单修了四年，最终还是失守",
+        "url": "https://mp.weixin.qq.com/s/gMOhWOe0NMvX-3yrXnxnlw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
