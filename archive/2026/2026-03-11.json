@@ -376,5 +376,89 @@
         "url": "https://mp.weixin.qq.com/s/8o3jBs_FjbzlUm8-BN5J0A",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "通报openclawd 近期多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/KL6utl6wzHjzM9N6ySba1Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "EasyTools渗透测试工具箱V2.1.8更新(1.优化端口扫描规则，提高扫描效率; 2.重新设计ssh、ftp界面; 3.优化各数据库数据展示)",
+        "url": "https://mp.weixin.qq.com/s/oCXycIFWGBxJf9JSgjGUGA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软2026年3月补丁日安全漏洞风险汇总",
+        "url": "https://mp.weixin.qq.com/s/AQ4tDyAUUyq5dxMlxAa6rQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "高危漏洞&amp;系统命令执行复现",
+        "url": "https://mp.weixin.qq.com/s/1FCG6fl6Cu4oav3mb6x2MA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "Langflow CSV Agent 远程代码执行漏洞（CVE-2026-27966）",
+        "url": "https://mp.weixin.qq.com/s/VggFt_ZIe_7fzi0BDFAg-w",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "SRC--并发实战漏洞案例分享",
+        "url": "https://mp.weixin.qq.com/s/d22ruVZMwD5PUx4Pg3mlCg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软Active Directory漏洞允许攻击者提升权限",
+        "url": "https://mp.weixin.qq.com/s/x9enXHPuMukXJF2_rjwvyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "「神医」专家级智能安全助手，一键检修代码漏洞",
+        "url": "https://mp.weixin.qq.com/s/Zynnwe4VMePpc3mbVPLuyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【安全圈】Windows 系统级漏洞开卖：要价超 150 万元！可获系统级权限",
+        "url": "https://mp.weixin.qq.com/s/3TCBLd6oDrvpQ6cxXgtKxQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "【风险通告】微软3月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/imtbcFK6yAlmFcY_nVgSAg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析",
+        "url": "https://mp.weixin.qq.com/s/p2VYZyhZXDKHv-k9vEuyxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "26年春季招生中 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s/_9T_k_EMZFTjQkR8O3yznw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "OpenClaw安全公告激增，暴露GitHub与CVE漏洞跟踪体系间的鸿沟",
+        "url": "https://mp.weixin.qq.com/s/3-IJtDtO05GsNTI5heo7Mw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "Kali Linux推出本地AI渗透测试方案，彻底摆脱云依赖",
+        "url": "https://mp.weixin.qq.com/s/1Aqo1Ic2rZgJXyynqXb75A",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
