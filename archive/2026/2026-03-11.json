@@ -4,5 +4,35 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-system-concentration_management-install_patch-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.3.2-2026.3.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503721&idx=1&sn=41705ec6eca57ec5d8748e66891ea39d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "] [火热招生中！系统0day安全-Web框架漏洞挖掘（第10期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611998&idx=3&sn=89a9fa2d4af7c8994d25051cf5f8de6d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "] [【安全圈】微软已修复：黑客 22 万美元暗网兜售 Win10/Win11 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074555&idx=4&sn=e459cc19b5d7c01eb6275c532cacf8b2",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "] [抖省省反爬专测上线！漏洞奖金1000元起步！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496058&idx=1&sn=798b2573f8b05d6f454854b2b2ff660f",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "] [【漏洞通告】Nginx UI 信息泄露漏洞 （CVE-2026-27944）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525086&idx=2&sn=e45679fde28a38c59eac984113ab93a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-11"
     }
 ]
