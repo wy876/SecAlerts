@@ -220,5 +220,65 @@
         "url": "https://mp.weixin.qq.com/s/gMOhWOe0NMvX-3yrXnxnlw",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "【漏洞复现】0day-大蚂蚁（bigant）即时通讯系统存在文件上传",
+        "url": "https://mp.weixin.qq.com/s/vrTMjbj3Tt4yxUB_bl1zyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "山石安全能力中心｜微软2026年3月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/uUZtlX5XMYiLSsDV9ox9wA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "动态｜国家信息安全漏洞库（CNNVD）人工智能重要安全漏洞通报：OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/1j3qyo2ZLgETOuZgHTITyQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "信息安全漏洞周报【第064期】",
+        "url": "https://mp.weixin.qq.com/s/FdcgX2CC4_5mlQiHAjPbbg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "国家信息安全漏洞库通报多个OpenClaw安全漏洞；问境AIST首发｜以AI治理AI，悬镜原创多模态AIST新品发布| 牛览",
+        "url": "https://mp.weixin.qq.com/s/5qSIzcZykP52Q30deU6cAg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "ClaudeOpus4.6发现Firefox22个安全漏洞，AI自主漏洞研究实现关键突破",
+        "url": "https://mp.weixin.qq.com/s/n1AtoiLJEzL3kCKfTFVGmg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "注意！近期OpenClaw 82个相关安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/ws8jxmAnin7fPCEaJu7MAA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "电子宠物“龙虾”（OpenClaw U0001f99e）偷拍，窃密漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/jAidtywFPDF0bC6Xo5ViZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "仅 1 小时 首个腾讯超低危漏洞确认了!!!",
+        "url": "https://mp.weixin.qq.com/s/BGx80FjRVPVzeHwk-kgdXg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "目前已知OpenClaw（龙虾）相关漏洞82个",
+        "url": "https://mp.weixin.qq.com/s/NPJ3ADW4o4i3NnmsQd8EFg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
