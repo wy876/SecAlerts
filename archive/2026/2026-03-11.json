@@ -322,5 +322,59 @@
         "url": "https://mp.weixin.qq.com/s/odxZ0LO1AOodD7bHFfVAnQ",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "天锐绿盾审批系统 findOnlineUserForPage.do 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z0f8-_s-66gbmT-YJEGGuw",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "青龙面板鉴权绕过漏洞：全流程复现与实操细节",
+        "url": "https://mp.weixin.qq.com/s/IYZLlN3tIn97uAGGzvFvFQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "258 个漏洞，你的 OpenClaw 真的安全吗？",
+        "url": "https://mp.weixin.qq.com/s/QgmiFKREMN3l8jQ1yx8h9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软3月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s/odkVa4wdd40vUZ1f0CWg6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "HPE：严重的 AOS-CX 漏洞可导致管理员密码重置",
+        "url": "https://mp.weixin.qq.com/s/Rze0qr9ENVktfpRLoMygiA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "微软.NET零日漏洞可导致拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/Nqhb2oBrFCbyqFO0rbyVlg",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "支付类漏洞挖掘技巧总结",
+        "url": "https://mp.weixin.qq.com/s/uDk9UTGiePGsLaHBEolLzA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "小程序 wx.cloud 操作文档型数据库的漏洞挖掘点",
+        "url": "https://mp.weixin.qq.com/s/bqFf9lnNOsvCzUGRVkjwrA",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/8o3jBs_FjbzlUm8-BN5J0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
