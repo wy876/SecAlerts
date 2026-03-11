@@ -460,5 +460,17 @@
         "url": "https://mp.weixin.qq.com/s/1Aqo1Ic2rZgJXyynqXb75A",
         "source": "Doonsec",
         "date_added": "2026-03-11"
+    },
+    {
+        "title": "25000 + 指纹、自动化测试 API/JS/ 漏洞+信息收集|一体化 Web 扫描利器",
+        "url": "https://mp.weixin.qq.com/s/wLxiTQBmRUNSog7F0jGO-g",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
+    },
+    {
+        "title": "天地伟业Easy7 loadAllUserBeans接口存在敏感信息泄露 附POC",
+        "url": "https://mp.weixin.qq.com/s/I89xzWUy0tBSV7iAARRVww",
+        "source": "Doonsec",
+        "date_added": "2026-03-11"
     }
 ]
