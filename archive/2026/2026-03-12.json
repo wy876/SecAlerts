@@ -406,5 +406,23 @@
         "url": "https://mp.weixin.qq.com/s/ImqS_7Dyut54-GL1i3qcpw",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "【成功复现】Cisco Catalyst SD-WAN身份验证绕过漏洞(CVE-2026-20127)",
+        "url": "https://mp.weixin.qq.com/s/kFumEDnSU92irduCfNu4QQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "细思极恐！OpenClaw 82 个漏洞梳理",
+        "url": "https://mp.weixin.qq.com/s/GwKg3M-iTxl9yfvttIttkg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【AI安全】细思极恐！OpenClaw 82 个漏洞梳理",
+        "url": "https://mp.weixin.qq.com/s/fXKLYz3-Bgc3ZJadzBDC1A",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
