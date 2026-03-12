@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s/eIgWVHKJWRg0FgT8DiGTRQ",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "一款后渗透工具支持一键自动化+无文件落地扫描",
+        "url": "https://mp.weixin.qq.com/s/tPWkn_HJq_xRqT7uS6sHfg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【已复现】Budibase 低代码平台未授权访问漏洞（CVE-2026-31816）",
+        "url": "https://mp.weixin.qq.com/s/eIQINBCcBc5I4MCOxy8APQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【联合活动】春锋猎洞全面启动，DSRC邀您共赴漏洞狩猎场！",
+        "url": "https://mp.weixin.qq.com/s/qMbo9XXX3DjnFz5QlZOSOA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "82个漏洞、1184个恶意插件：你养的“龙虾”可能早已叛变！",
+        "url": "https://mp.weixin.qq.com/s/KGl9Z2W7IFQ39lWLVSum3Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "汇业研究 | 在华外企部署及应用中国版Salesforce的主要法律问题（一）",
+        "url": "https://mp.weixin.qq.com/s/zocABKUtU5dLHlqwawP-rg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
