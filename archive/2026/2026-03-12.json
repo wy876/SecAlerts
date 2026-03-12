@@ -334,5 +334,23 @@
         "url": "https://mp.weixin.qq.com/s/zocABKUtU5dLHlqwawP-rg",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第四章第三节】SSRF进阶：从“受限访问”到“内网横移”的实战绕过技巧",
+        "url": "https://mp.weixin.qq.com/s/1qcnUPr-yOAWuy7aUOgrYQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【免费领】最牛渗透测试工具Metasploit实操教程",
+        "url": "https://mp.weixin.qq.com/s/oHjL75ty7dOcxFURew13tw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "从“人写漏洞”到“模型复制漏洞”：AI 生成代码时代的软件安全反思",
+        "url": "https://mp.weixin.qq.com/s/ppcZVw7jrKEwsSyuG8Jl6g",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
