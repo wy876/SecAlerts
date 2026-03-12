@@ -442,5 +442,23 @@
         "url": "https://mp.weixin.qq.com/s/-S1Zo1ipwd-qs3MHkqGVZw",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "【SRC实战】支付漏洞实战案例",
+        "url": "https://mp.weixin.qq.com/s/2hXHkKRwPJ1DJ7OtyStbtA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "微软2026年3月份于周二补丁日针对78个漏洞发布安全补丁",
+        "url": "https://mp.weixin.qq.com/s/gc3oLeZL8BMC-Ui8lMx4cw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Juniper Networks PTX 系列产品的关键漏洞允许完全控制路由器",
+        "url": "https://mp.weixin.qq.com/s/tRk9--ejcby-6r3GeeQCcw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
