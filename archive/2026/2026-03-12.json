@@ -382,5 +382,29 @@
         "url": "https://mp.weixin.qq.com/s/bq_tBtmwqsNT98BFWS6a8A",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "Splunk远程代码执行漏洞使系统易受攻击者任意执行shell命令的攻击",
+        "url": "https://mp.weixin.qq.com/s/oZlZNVzxLJcc4iIbfoyDpg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "微软Office严重漏洞可导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/RWhS3O4nCzmeYNVnb7TlQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Zombie ZIP 漏洞披露：让 WinRAR/7-Zip 解压报错，已伪装绕过 50 款主流杀软",
+        "url": "https://mp.weixin.qq.com/s/isnTq0bI8LQMTBUOrJPs5Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Chrome 安全更新 – 修复 29 个允许远程代码执行的漏洞",
+        "url": "https://mp.weixin.qq.com/s/ImqS_7Dyut54-GL1i3qcpw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
