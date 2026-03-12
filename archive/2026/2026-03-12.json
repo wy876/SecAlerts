@@ -1,0 +1,122 @@
+[
+    {
+        "title": "DataEase CVE-2025-49002  RCE",
+        "url": "https://mp.weixin.qq.com/s/fRiYVp2pBo1NqLyIEHLCPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "第81天-一键登录的“后门”？OAuth 认证漏洞攻防实战解析",
+        "url": "https://mp.weixin.qq.com/s/X5EYzcGNAEyod1S7FlRkNw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "CVE-2026-29793：一枚藏在 WebSocket 里的 NoSQL 注入",
+        "url": "https://mp.weixin.qq.com/s/QNMPbiLX0YCWmO10oOaIjQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【漏洞复现】高风险预警！大蚂蚁 BigAnt 即时通讯系统曝任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/ebEtmh5iEy5Ng5qHM90Wlw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "漏洞复现 | MetaCRM美特crm系统sendmail.jsp接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/8qdYcfUiMIl7vu5TFoaWmQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Azure AI 语言会话创作SDK反序列化漏洞：CVE-2026-21531分析与PoC",
+        "url": "https://mp.weixin.qq.com/s/kguemzZ2rBMUzlo-4eIVSw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Microsoft SQL Server 零日漏洞允许攻击者升级权限",
+        "url": "https://mp.weixin.qq.com/s/xJEiiRv4hkribHoEMSAaqA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "两高一弱漏洞详情/POC悬赏征集活动",
+        "url": "https://mp.weixin.qq.com/s/by4ePq9_Qky6rWBT1cB0rA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库",
+        "url": "https://mp.weixin.qq.com/s/5hr_gY8hCelWADk-9vu9dg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "一个 CSRF，让攻击者无需登录就能拿下服务器——CVE-2026-28495 分析",
+        "url": "https://mp.weixin.qq.com/s/a85eAJ23wM4Ro--69b1kRg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "CVE-2026-26117剖析：Azure Arc本地提权&amp;云身份劫持",
+        "url": "https://mp.weixin.qq.com/s/_lOm6TtFcgraha75s0Ru2Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "DeepAudit：革新代码漏洞挖掘的多智能体AI系统",
+        "url": "https://mp.weixin.qq.com/s/PHzRYO3u_yAgYm8WRneZmA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "漏洞情报(已验证) | 0Day 九佳易管理系统 UploadHanderForShangPin 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/hMb933IQlhM0-9UqlZLA9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "OpenClaw（龙虾）曝82个漏洞大汇总！",
+        "url": "https://mp.weixin.qq.com/s/EwA1CuteoZA3uBNWfe5vZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "漏洞预警 | OpenEMR未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/eFlc0BuiKsWKow9waIpbZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统密钥硬编码漏洞",
+        "url": "https://mp.weixin.qq.com/s/WainDoUDeLxLIuqJwFN4nw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "9.4分严重漏洞：电动汽车充电桩后台无需任何凭据即可被完全接管",
+        "url": "https://mp.weixin.qq.com/s/sNfHXEOe_MoMFulYqZ1A6w",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Shannon：开启全自动AI渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/X2lQka4HB3ekzn3kkjnKyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "从漏洞挖掘到风险治理: AI闭环下的代码安全范式变迁与从业者转型",
+        "url": "https://mp.weixin.qq.com/s/cZmMeDXrC8lRJtkcNZkmSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "深信服运维安全管理系统 remote_get_clip_img 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-subforeign-audit-remote_get_clip_img-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-12"
+    }
+]
