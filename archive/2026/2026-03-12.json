@@ -460,5 +460,23 @@
         "url": "https://mp.weixin.qq.com/s/tRk9--ejcby-6r3GeeQCcw",
         "source": "Doonsec",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "从零到一：如何利用OneListForAll定制专属渗透测试字典",
+        "url": "https://mp.weixin.qq.com/s/hGEiSA-FYyLjp2wmEFKpOw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "注意“龙虾”OpenClaw这82个漏洞",
+        "url": "https://mp.weixin.qq.com/s/URunXg63wKpBAxl2imM_tQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "一行 JSON，拿下系统最高权限——CVE-2026-31874 深度分析",
+        "url": "https://mp.weixin.qq.com/s/1OFsCa0H0kkKA_2zCP3amw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
