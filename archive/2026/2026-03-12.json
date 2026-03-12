@@ -118,5 +118,155 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-subforeign-audit-remote_get_clip_img-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [ClaudeOpus4.6发现Firefox22个安全漏洞，AI自主漏洞研究实现关键突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789731&idx=1&sn=20e4f6c24d62417dc43d53e241c10d0c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [微软3月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525382&idx=1&sn=a2fde96ec371ca6512bbfc25b9f18f99",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [HPE：严重的 AOS-CX 漏洞可导致管理员密码重置",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525382&idx=2&sn=06b4525563ab07cf6f52031e2bfe2464",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612011&idx=1&sn=128b33964750a5d037c8e6e5bdd61483",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [26年春季招生中 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612011&idx=4&sn=4ef13d019b611249d05604179064f5c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [仅 1 小时 首个腾讯超低危漏洞确认了!!!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500383&idx=1&sn=5a555f31730386c319e15e55b153cccb",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [国家信息安全漏洞库通报多个OpenClaw安全漏洞；问境AIST首发｜以AI治理AI，悬镜原创多模态AIST新品发布| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140699&idx=2&sn=0d2eda037d3d1cb7a6c0bf7b91b91e55",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [通报来了 | OpenClaw多个安全漏洞被国家信息安全漏洞库（CNNVD）通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541983&idx=2&sn=bd87a1eb329980db1484710200628d54",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [【安全圈】Windows 系统级漏洞开卖：要价超 150 万元！可获系统级权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074602&idx=2&sn=a2631a48700407c06cf33e85949c71f4",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [微软3月补丁日多个产品安全漏洞风险通告：5个紧急漏洞、6个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504728&idx=1&sn=05337017aead9b7f6854278892acf8c0",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [蠕虫式XMRig挖矿攻击借BYOVD漏洞规避检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587063&idx=1&sn=cb86147fd9dc9a1ad5ff055ffc99b99c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587063&idx=2&sn=548c42597bf635c81fecc50d8c4233c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [「神医」专家级智能安全助手，一键检修代码漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850621&idx=1&sn=c3ccebaef5ebc17b93ed89b7319a792d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [电子宠物“龙虾”（OpenClaw 🦞）偷拍，窃密漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499179&idx=1&sn=48d5e01246f8f8373e621116b105b6fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "] [2026-03微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531349&idx=1&sn=14642cabd26f7b318d2d7ea7af1a740c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "“Mail2Shell”：FreeScout 零点击未认证 RCE（CVE‑2026‑28289）补丁绕过分析",
+        "url": "https://mp.weixin.qq.com/s/zLrFyHMHPNPANNmreqHebQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "Android安全研究神器 | 移动渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/l9jnAPPoU7zZ_0ByEbsJAg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "华磊科技物流SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/s4-SHWAzs_Bm2MGXqWxGlg",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "当渗透测试遇上 MCP (Model Context Protocol)",
+        "url": "https://mp.weixin.qq.com/s/kNyOZrLWxg9ZY6zk4KCHPw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "258 个漏洞，你的 OpenClaw 真的安全吗？",
+        "url": "https://mp.weixin.qq.com/s/8lkjyJoRK6ZcLE363Z8IFw",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "【漏洞分析】TongWeb EJB 反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/_eDX-jwUVx8x_DDJgtTp_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/4kvxVLermJ9U3cDZRL32oQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "严重告警：OneUptime 监控平台曝出 RCE 漏洞，低权限用户可接管整个集群",
+        "url": "https://mp.weixin.qq.com/s/EXAlKw-E_B3jPcUYiCam4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "技术解析：穿刺CVE-2025-40551补丁实现RCE    美国防机构采用公司SolarWinds旧伤复发",
+        "url": "https://mp.weixin.qq.com/s/NaXWmR-uPNZ-fQE6gDj1VA",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
+    },
+    {
+        "title": "第82天-致命的疏忽：四种常见的密码找回漏洞，你中招了吗？",
+        "url": "https://mp.weixin.qq.com/s/BEWCrSxX9c-wojd04OIG5A",
+        "source": "Doonsec",
+        "date_added": "2026-03-12"
     }
 ]
