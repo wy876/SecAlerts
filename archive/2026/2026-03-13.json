@@ -232,5 +232,53 @@
         "url": "https://mp.weixin.qq.com/s/aw-GA1OE9jF39kJfaymoWw",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "九年未被发现的漏洞影响1260个企业级Linux系统",
+        "url": "https://mp.weixin.qq.com/s/-6TAQ29hzYcBND7d06TTxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "直播预告 |AI原生代码审计：是颠覆还是炒作？一场关于网安未来的深度对话",
+        "url": "https://mp.weixin.qq.com/s/OLeTSePlyyPBfXQ0ltmxCQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "一行错误函数调用引发的 OpenSSH 预认证漏洞",
+        "url": "https://mp.weixin.qq.com/s/J7mPp6fkpVjgqmLrpEBqQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "人人都能成为代码审计专家（可落地）",
+        "url": "https://mp.weixin.qq.com/s/cRMXN5rBIKblJjxwZ1vGIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "Clawdbot/Moltbot/OpenClaw 一键远程代码执行 PoC U0001f99e (CVE-2026-25253)",
+        "url": "https://mp.weixin.qq.com/s/oWACmtuekJbKqV-fj8a07Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260313】",
+        "url": "https://mp.weixin.qq.com/s/3c4bnyyQl2TiXk6lvSSpyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【工具箱梳理】nday利用篇-第一期",
+        "url": "https://mp.weixin.qq.com/s/jLqXsP_NcPHJ_7YfmIb-1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "《新一代自动化渗透测试工具与应用实践指南》调研启动",
+        "url": "https://mp.weixin.qq.com/s/wQLr-D7FpoblAhK-bSmeSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
