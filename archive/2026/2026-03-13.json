@@ -136,5 +136,101 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-system-concentration_management-uninstall_patch-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "] [258 个漏洞，你的 OpenClaw 真的安全吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789738&idx=2&sn=122e85b5b8a505c14a1dbeb853ab860e",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "] [CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260124&idx=2&sn=ebcd8f5fefaaeb0c761f800f4a9da866",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "] [【安全更新】微软3月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489488&idx=1&sn=e20d8759b908c428a906acdba24d075c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "] [【联合活动】春锋猎洞全面启动，DSRC邀您共赴漏洞狩猎场！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909111&idx=1&sn=7738525759dcbac61aea7404049a3acd",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/OF8otz5akkZYNPDgeIgVUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "没有 Token，没有 Session，也没关系：一个默认 GraphQL 端点如何让我拿到未授权 RCE",
+        "url": "https://mp.weixin.qq.com/s/UmjxWv3m-0OkCitrAZL0Rw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "OpenSSH GSSAPI漏洞允许攻击者使SSH子进程崩溃",
+        "url": "https://mp.weixin.qq.com/s/MdsIGFnd7uAQ3_TXKJkaBQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "荣耀蝉联！国舜科技入选工信部车联网产品安全漏洞专业库2026技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/uJ8ieJSyJHQTjjGD_g7OOw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【已复现】FortiClientEMS 无需认证 SQL 注入漏洞可致远程命令执行 (CVE-2026-21643)",
+        "url": "https://mp.weixin.qq.com/s/HQTxsKqmg2RyTN4t2UFb6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "快普M6 GetCallInfo SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/6fyrEs5XI5rSd3AC1q69tA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【服务继续升级】EnhancerSec第六期漏洞挖掘培训招生啦！（文中抽奖）",
+        "url": "https://mp.weixin.qq.com/s/xWBVPed0h9a1_fWRWilahA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "汇业研究 | 在华外企部署及应用中国版Salesforce的主要法律问题（二）",
+        "url": "https://mp.weixin.qq.com/s/q1Kmy1OtZFXZ6UUjYCSUmA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "Bastille 2026年度报告披露：无线漏洞激增威胁企业机密与国家安全",
+        "url": "https://mp.weixin.qq.com/s/c_Xq2Fm_7titReQ_g2s7FQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Budibase 平台未授权访问漏洞(CVE-2026-31816)",
+        "url": "https://mp.weixin.qq.com/s/ZBWyBTSKHvgieQhzbJvAMg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "CVE-2026-0866 Cisco ClamAV ZIP扫描引擎绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/o7dQtYVy25Jg9kGzqHO8ew",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "大海捞针：用 LLM 进行漏洞研究",
+        "url": "https://mp.weixin.qq.com/s/aw-GA1OE9jF39kJfaymoWw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
