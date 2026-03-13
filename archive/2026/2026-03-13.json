@@ -280,5 +280,41 @@
         "url": "https://mp.weixin.qq.com/s/wQLr-D7FpoblAhK-bSmeSQ",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "三AI协同+人工干预，这款渗透神器让黑客都慌了？",
+        "url": "https://mp.weixin.qq.com/s/WJrGQE9oj4_bd8VdZDPkYQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【漏洞复现】Weblogic 反序列化漏洞(CVE-2020-2555)",
+        "url": "https://mp.weixin.qq.com/s/Ffl5jLNWXgfl9sR0NjzfUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "手把手教你学会代码审计之命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/zf0ySQLGHtZ2rPf8NxPaMQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "速修！泛微Ecology10多个远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/YTeHwb_Ke4BaUKChnsp7bg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "信息安全漏洞周报【第065期】",
+        "url": "https://mp.weixin.qq.com/s/8DriYsL_kuG7S3MWajqXPg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/FB_iHcOZKMBCSNEo0PNk7Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
