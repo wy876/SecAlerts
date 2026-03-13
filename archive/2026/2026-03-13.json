@@ -394,5 +394,83 @@
         "url": "https://mp.weixin.qq.com/s/z-jH4J9KCt4Q3Bjbr15IAg",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "叮～你有新的速递！CVE-2026-25253 OpenClaw远程代码执行漏洞（速查）",
+        "url": "https://mp.weixin.qq.com/s/FD5S9icanZ5ynByYkmEPsA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "思科修复多个高危 IOS XR 漏洞",
+        "url": "https://mp.weixin.qq.com/s/T54C-EJg2bwgrrTmz8kIIg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "n8n 严重漏洞可导致RCE和存储凭据暴露",
+        "url": "https://mp.weixin.qq.com/s/eGIBIGvlRRzD5hqb_VYe-Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【已复现】泛微Ecology10存在未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Wbgp4Oq3muPXNKCN1Kpj2w",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-28466 OpenClaw小龙虾RCE漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/KhCZ0qkNIl7mPbWRzd_mXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "SRC漏洞挖掘经验和技巧分享（一）",
+        "url": "https://mp.weixin.qq.com/s/TvZoFPQRVgt63E2nvOE9AA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "黑掉你龙虾（OpenClaw）的竟然是另一个AI？一键RCE漏洞浅析",
+        "url": "https://mp.weixin.qq.com/s/e1S1lU1uRBrNvimioDuC-Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
+        "url": "https://mp.weixin.qq.com/s/_9tVqFxezy-OXgr1lNf8fw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "Splunk高危RCE漏洞可致服务器被完全控制",
+        "url": "https://mp.weixin.qq.com/s/Z-eBavXSE5cxRXI3yowgAQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "自动化渗透测试替代人工，效能跃升颠覆安全认知",
+        "url": "https://mp.weixin.qq.com/s/pOX32Q1wD7rtUkUI6JYgDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "荣耀邀你「三月争锋」：提交漏洞，赢荣耀500手机！",
+        "url": "https://mp.weixin.qq.com/s/2jqB1LR8abCzrTERlZ8MoQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "联发科芯片曝严重安全漏洞：45秒即可窃取手机PIN码与加密资产",
+        "url": "https://mp.weixin.qq.com/s/LiiV4KLNxekXgnht-FPrWg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第五章第一节】服务器失陷往往从一个文件开始：文件上传漏洞攻防实战",
+        "url": "https://mp.weixin.qq.com/s/lf7UZ_kOQQpuIjk4tEvZgA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
