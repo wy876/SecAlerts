@@ -472,5 +472,29 @@
         "url": "https://mp.weixin.qq.com/s/lf7UZ_kOQQpuIjk4tEvZgA",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "ROADtools：微软云环境渗透与审计的实用框架",
+        "url": "https://mp.weixin.qq.com/s/CYa6nIUZmiZIYciGeLUCYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "苹果发布紧急 iOS 15.8.7 更新以阻止“Coruna”漏洞利用工具包",
+        "url": "https://mp.weixin.qq.com/s/13lZ6yeDA0uUd26ySWyR4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "人人都能成为代码审计专家（可落地，强的可怕）",
+        "url": "https://mp.weixin.qq.com/s/B6CGKPMHn82kfB2Tamf5CQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "Chrome 零日漏洞已被恶意攻击者积极利用，用于执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/_SVBWccyLKKl17kVnluF7Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
