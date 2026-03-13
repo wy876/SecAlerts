@@ -1,0 +1,140 @@
+[
+    {
+        "title": "孚盟云 AjaxMethod.ashx存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/6yFRWk5TXZ0JbOAIwbccWw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "第83天-支付漏洞大揭秘：从“0元购”到“无限续杯”，黑客如何薅垮一个系统？",
+        "url": "https://mp.weixin.qq.com/s/-MKjTVHQjcoJuDFUsVm-5g",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "Apple为旧版iPhone/iPad发布紧急安全更新，修复被Coruna漏洞包利用的WebKit漏洞",
+        "url": "https://mp.weixin.qq.com/s/XlofPeJeD4WM3Q5BQXSZWg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "OpenClaw 漏洞：远程接管你的本地AI助手，只需浏览一个网页",
+        "url": "https://mp.weixin.qq.com/s/M-dVdYRKGEe0TXqRTbeeiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "GHSA-qrq5-wjgg-rvqw: OpenClaw 龙虾插件安装路径遍历漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/aqpzJBwi-Rk5dJK0gboyEA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "天地伟业Easy7 downloadResource 文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/69SOhlYYPxdudj58gGbYEg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "CISA警告称，最高严重级别的n8n漏洞正在被恶意利用",
+        "url": "https://mp.weixin.qq.com/s/cKjR41p66VVPmlBjzMw39Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "N8n 两个关键漏洞可导致服务器被接管",
+        "url": "https://mp.weixin.qq.com/s/BR_OYm1ANph9fjUAutnoKg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "常见AI助手的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/2CeZxhexjEPSBzeptOCFPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "漏洞复现 | 用友NC OAContactsFuzzySearchServlet 反序列化代码执行RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/uDyMORaaxvWTD3kwFYdrJQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "0元购漏洞",
+        "url": "https://mp.weixin.qq.com/s/ac0GhDOJaso-lEvGQa36aA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "严重警告：Winter CMS 后台权限提升漏洞（CVE-2026-27591）深度解析",
+        "url": "https://mp.weixin.qq.com/s/hVpeDntlUGcYpyZd6XOUDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "OpenSSH 预认证漏洞暴露 Ubuntu 和 Debian 服务器",
+        "url": "https://mp.weixin.qq.com/s/UsuKsZV80zuqEwgz7he3fg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "大多数网络攻击的成功只因1%的漏洞导致",
+        "url": "https://mp.weixin.qq.com/s/8JtTj74JdGYz3L_7oPBtlQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "龙虾OpenClaw漏洞高达82个！",
+        "url": "https://mp.weixin.qq.com/s/XV-VbZ0HfUlz0j4PGAAlSw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "一款用于在 Mac 和 Windows 上快速启动和管理各类安全工具的渗透工具箱",
+        "url": "https://mp.weixin.qq.com/s/hXB7b6qIEpV7jlEYZwz7jw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块",
+        "url": "https://mp.weixin.qq.com/s/nxDjtUut7Q5cYyEvdoghow",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "满分漏洞实录：一个缺失的配置项，如何让 Linux 服务器向所有人敞开大门",
+        "url": "https://mp.weixin.qq.com/s/y-Z3Odoa7PjE4mA_3NSWhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "漏洞预警 | Ruijie AP180 Series操作系统命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/vcu0jPkTWm_eTC-QTtPB5A",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/TS4J0EZWlDByZmrFIoEm0g",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/V5jGrxHttqsVZFYBZ2cucg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "DarkAngel：全自动漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/Y-HlMJbGIwMvLGGVcPxewA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "深信服运维安全管理系统 uninstall_patch 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-system-concentration_management-uninstall_patch-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-13"
+    }
+]
