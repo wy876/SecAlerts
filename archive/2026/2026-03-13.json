@@ -502,5 +502,17 @@
         "url": "https://mp.weixin.qq.com/s/iv71m8x0sU97mHeHETOPAg",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "新手小白入门SRC漏洞信息收集分享",
+        "url": "https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "【高危漏洞预警】泛微Ecology10未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
