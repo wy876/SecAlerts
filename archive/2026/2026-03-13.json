@@ -532,5 +532,11 @@
         "url": "https://mp.weixin.qq.com/s/FHFMiwhP2Qs1wmo3NrMUAA",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "孚盟云CRM AjaxFormDefault.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
