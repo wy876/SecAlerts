@@ -316,5 +316,41 @@
         "url": "https://mp.weixin.qq.com/s/FB_iHcOZKMBCSNEo0PNk7Q",
         "source": "Doonsec",
         "date_added": "2026-03-13"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年3月9日-3月13日",
+        "url": "https://mp.weixin.qq.com/s/skH3iBOmLiWiUpsBGvkw8g",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "CVE-2026-27944 Nginx UI 权限绕过漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/6cofZyvgwoMDvZRMT6rsOQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "CNNVD通报微软多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/lcsXhaBMMe-t6Tuqfp3xZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "OpenClaw  | CVE-2026-25253 RCE 漏洞 POC",
+        "url": "https://mp.weixin.qq.com/s/36y6JLM4wwIzE0XEQMHLng",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "[工具·书·人] 从MCP到Skill：如何为AI Agent 开发渗透测试专属技能",
+        "url": "https://mp.weixin.qq.com/s/sGZ2S2QQ5rdjYSvkExDRNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
+    },
+    {
+        "title": "跟风“养龙虾”必看！OpenClaw漏洞缠身，已有万人设备被接管、资产被盗",
+        "url": "https://mp.weixin.qq.com/s/VRyRZeHQWpZbXdxckWk3_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-13"
     }
 ]
