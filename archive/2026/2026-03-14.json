@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499171&idx=1&sn=d72424ce5bb5520ce60d44781996b5b3",
         "source": "BruceFeIix",
         "date_added": "2026-03-14"
+    },
+    {
+        "title": "安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态",
+        "url": "https://mp.weixin.qq.com/s/y5hb5ynMd8UDeWrHdRALaw",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
     }
 ]
