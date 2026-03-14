@@ -202,5 +202,23 @@
         "url": "https://mp.weixin.qq.com/s/HUUV2ROJN0ZQSkqXOQXfJQ",
         "source": "Doonsec",
         "date_added": "2026-03-14"
+    },
+    {
+        "title": "Metasploit Pro 5.0.0强化红队攻击能力，直击AD CS漏洞",
+        "url": "https://mp.weixin.qq.com/s/xEgN3HepCavuRNnWCYMoIA",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
+    },
+    {
+        "title": "苹果紧急发布iOS 15.8.7更新以防御“Coruna”漏洞利用工具包",
+        "url": "https://mp.weixin.qq.com/s/VSZeNssieCssedz6Im4eLQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
+    },
+    {
+        "title": "HGAME 2026复现",
+        "url": "https://mp.weixin.qq.com/s/f4xaKqwVt6j4rL76F2F3NA",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
     }
 ]
