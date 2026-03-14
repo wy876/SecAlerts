@@ -262,5 +262,11 @@
         "url": "https://mp.weixin.qq.com/s/8cEbgFDYgmz9Waqd65LQog",
         "source": "Doonsec",
         "date_added": "2026-03-14"
+    },
+    {
+        "title": "CVE推送服务：零成本实现漏洞情报自动化监控",
+        "url": "https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
     }
 ]
