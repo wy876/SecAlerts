@@ -250,5 +250,17 @@
         "url": "https://mp.weixin.qq.com/s/IHweiTB_-tjD45pb5OzzmA",
         "source": "Doonsec",
         "date_added": "2026-03-14"
+    },
+    {
+        "title": "【大洞速修】http协议、chrome浏览器等组件严重漏洞披露",
+        "url": "https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
+    },
+    {
+        "title": "JsRouteScan：渗透测试中的路由发现利器",
+        "url": "https://mp.weixin.qq.com/s/8cEbgFDYgmz9Waqd65LQog",
+        "source": "Doonsec",
+        "date_added": "2026-03-14"
     }
 ]
