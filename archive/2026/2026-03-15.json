@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA",
         "source": "Doonsec",
         "date_added": "2026-03-15"
+    },
+    {
+        "title": "多个小程序漏洞挖掘与利用思路分享|带你从 0 到 1 挖小程序漏洞",
+        "url": "https://mp.weixin.qq.com/s/tOY4NUdoJmafSaBvJy1iSg",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "Zyxel警告称，十几款路由器存在严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/3VjysQ6W--H1alv2tcRACQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC",
+        "url": "https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
     }
 ]
