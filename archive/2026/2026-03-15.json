@@ -172,5 +172,11 @@
         "url": "https://mp.weixin.qq.com/s/RDcmpVNkUQI2yS4tF-EaLA",
         "source": "Doonsec",
         "date_added": "2026-03-15"
+    },
+    {
+        "title": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
+        "url": "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
     }
 ]
