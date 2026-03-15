@@ -76,5 +76,101 @@
         "url": "https://mp.weixin.qq.com/s/6wR0lo_wJ3ZcABqaIxp6Pg",
         "source": "Doonsec",
         "date_added": "2026-03-15"
+    },
+    {
+        "title": "微软发布紧急补丁修复 Windows 11 中的关键 RRAS 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/noCqXs9NcfwTzczVbrYD-Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第五章第三节】从0到1：文件上传漏洞之Content-Type绕过实战解析",
+        "url": "https://mp.weixin.qq.com/s/lkvRW9wFKyUPQUlnHkI3pQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "渗透小白必看：10个实战漏洞，一学就会、一测就中",
+        "url": "https://mp.weixin.qq.com/s/JVZQKSAqnSMfuzo-B6zuwA",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "谷歌修复了两个在攻击中被利用的Chrome零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/0nu0J9f0pKhIINkOGeOQvQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "紧急警报！俄罗斯APT28滥用零日漏洞CVE-2026-21513，MSHTML成攻击突破口，LNK文件藏杀机",
+        "url": "https://mp.weixin.qq.com/s/JAE9EYRzyZzVJ5Z6WqH4Pw",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "潜伏二十年：CVE-2025-38617 Linux内核竞态漏洞的极致利用",
+        "url": "https://mp.weixin.qq.com/s/a7ZuFMiKJV-HrN1flL_cQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "沙箱不是保险箱——SandboxJS 连环沙箱逃逸漏洞深度解析（CVE-2026-26954）",
+        "url": "https://mp.weixin.qq.com/s/9OGta9F1Fczat5JejLZuKA",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "OpenClaw（龙虾）近期高危漏洞&amp;风险大盘点！",
+        "url": "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "实操干货！检测购物网站是否存在支付漏洞",
+        "url": "https://mp.weixin.qq.com/s/yxojaA5Hc6XJmd-igFRZ0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "工业网关高危漏洞预警：CVE-2026-25823 无需认证即可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/zq-gIt-WuRS4X6n67838hg",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "漏洞复现 | Optilink管理系统 gene.php 存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/C4s0bqtNWlEpArsjmvFPig",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）",
+        "url": "https://mp.weixin.qq.com/s/urt3RHl_aZmviPshOcwo4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "工业网关惊现高危漏洞，全球逾21万台设备面临凭据失窃风险 CVE-2026-25818",
+        "url": "https://mp.weixin.qq.com/s/vEwhAMbP35cj4mh5-QstLQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "微软发布 Windows 11 热修复补丁修复 RRAS 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Uxc8INFqSLTcuVcmx48Ymg",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "WordPress 插件再现高危漏洞：CVE-2026-22193 SQL 注入可致数据库被完全读取",
+        "url": "https://mp.weixin.qq.com/s/SFTs_ZXg4uKwjhkrzi5STg",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "Web3安全之我是如何和两百万美金擦肩而过的-VeilCash分析复现",
+        "url": "https://mp.weixin.qq.com/s/RDcmpVNkUQI2yS4tF-EaLA",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
     }
 ]
