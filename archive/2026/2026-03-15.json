@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ",
         "source": "Doonsec",
         "date_added": "2026-03-15"
+    },
+    {
+        "title": "代码审计 | 九佳易ERP漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+        "url": "https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
+    },
+    {
+        "title": "Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离",
+        "url": "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-15"
     }
 ]
