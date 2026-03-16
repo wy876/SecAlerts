@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/myHG1YBGZVGKuRT1HioUQQ",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "渗透测试实践指南：必知必会的工具与方法",
+        "url": "https://mp.weixin.qq.com/s/PoW6Vhm79FTWv2IRt7C_4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "将超出漏洞范围的 HTML 注入升级为高危 9.3 分 XSS 漏洞（绕过 WAF）",
+        "url": "https://mp.weixin.qq.com/s/jv6H39mFH9gglbcCxipd2Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "Claude Code、Gemini实测暴露漏洞，仍在重复十年前安全错误；中国互联网金融协会：关于OpenClaw在互联网金融行业应用安全的风险提示|牛览",
+        "url": "https://mp.weixin.qq.com/s/e1vcBZglNIj8NWqC907ZjA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
