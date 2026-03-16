@@ -256,5 +256,53 @@
         "url": "https://mp.weixin.qq.com/s/h59qNs4zbGVaHUgVcK5obA",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁",
+        "url": "https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "VulnRadar：集成多模块的Chrome浏览器安全渗透测试扩展",
+        "url": "https://mp.weixin.qq.com/s/gN_K408O-acsf8LydpDJFw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【Web安全】PHP反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元",
+        "url": "https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "oasys代码审计",
+        "url": "https://mp.weixin.qq.com/s/Mnj862x7PedXW-hsct2QTA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第10期",
+        "url": "https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/4iDiytLnzuqfqo4nhwbTWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910)",
+        "url": "https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
