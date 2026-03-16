@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/e1vcBZglNIj8NWqC907ZjA",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "快普M6 GetPositionOfStaff sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/KxpSqvBI7RsoK_p9siymXw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
