@@ -136,5 +136,47 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-ip_and_port-port_validate-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "微软将在发现严重远程代码执行漏洞后阻止 Windows 11 和 Server 2025 的自动安装",
+        "url": "https://mp.weixin.qq.com/s/iXz1z8TuckMCpkFfHIfcjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "AI赋能代码审计总结",
+        "url": "https://mp.weixin.qq.com/s/8Cx9OHPDL1qUnz8vdxglzg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "堆叠你的武器库：逻辑漏洞如何变现",
+        "url": "https://mp.weixin.qq.com/s/JowvJWR10G5B2oqlJBkrbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "我如何用 30 天追逐一个 4 万美元漏洞赏金，以及我用血的教训学到的东西",
+        "url": "https://mp.weixin.qq.com/s/JOagDCRym8AfRCuCr7CvSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "edusrc某学院联奕系统漏洞通过常规测试手段拿下9rank",
+        "url": "https://mp.weixin.qq.com/s/jnYusEAwGGQpIyOW1lFqwA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/jp_NtEeIdGF-ea0m-NrnrQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw安全防护工具(小龙虾漏洞检测)",
+        "url": "https://mp.weixin.qq.com/s/myHG1YBGZVGKuRT1HioUQQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
