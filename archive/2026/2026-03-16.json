@@ -202,5 +202,17 @@
         "url": "https://mp.weixin.qq.com/s/KxpSqvBI7RsoK_p9siymXw",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260309-20260315)",
+        "url": "https://mp.weixin.qq.com/s/1CQiy74TQhtIGTH6ssAhiA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【复现】泛微 E-cology10 远程代码执行漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s/F-PLgFH917jG3JAbjcMgyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
