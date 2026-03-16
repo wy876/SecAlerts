@@ -1,0 +1,140 @@
+[
+    {
+        "title": "没有技术含量的成为代码审计专家",
+        "url": "https://mp.weixin.qq.com/s/CPphy9NxFKV3V0yU90CMkA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "想入行渗透测试？先搞懂OSCP！2026最新考试规则+真实含金量，新手必看",
+        "url": "https://mp.weixin.qq.com/s/AhuVSZWIfQpmj4_Q_RZuNg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "LnkMeMaybe - CVE-2026-25185 深度剖析",
+        "url": "https://mp.weixin.qq.com/s/cCx2IDH5KBfpo6oM7ycz7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+        "url": "https://mp.weixin.qq.com/s/Pzijdm9pO5ZnvsAAQP6PzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "记一次某EIS办公平台0day挖掘审计过程",
+        "url": "https://mp.weixin.qq.com/s/a3fR9t4d9ypoWl3aEHAjlA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描",
+        "url": "https://mp.weixin.qq.com/s/ImPWAvO2ri-Op3fMnBAOlQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "漏洞复现 | 飞企互联OA ChangeBGServlet 存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/LI0nV1uKKV2h7rl17FoXVg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "2026-03-16 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/XecSE810kfb1YKFV423z0w",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁",
+        "url": "https://mp.weixin.qq.com/s/AbSNFCnWG-rcMGDs5_hWkg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+        "url": "https://mp.weixin.qq.com/s/lmbPX8bnKrVHf2vnduMWFA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "Tenable 揭露“LeakyLooker”漏洞，将 Google Looker Studio 变成云端后门",
+        "url": "https://mp.weixin.qq.com/s/duL-47kgsjKv6JyZaiF53g",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "记一次实战渗透测试",
+        "url": "https://mp.weixin.qq.com/s/7TNe1sfuGiSJI9XeNsHC_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "我是如何利用 AI 实现 Xray POC 自动转换的",
+        "url": "https://mp.weixin.qq.com/s/q4P9saf4szvJvRgtb3e7sg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "微软发布 Windows 11 开箱即用热补丁修复 RRAS 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/YOo4H46BlBPYH9pyBm9Kcg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "三个月助力你成功入门渗透测试",
+        "url": "https://mp.weixin.qq.com/s/W0SPAEIQHrKs8LffuPIPiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "「渗透测试工具篇」使用Coablt_Strike工具从监听到木马上线教程",
+        "url": "https://mp.weixin.qq.com/s/K4KvBm5-odswn3ZUEurveQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【服务端漏洞-访问控制缺失-第五章第四节】挖洞实录：一个Content-Type验证缺陷，让我拿到了服务器的敏感信息",
+        "url": "https://mp.weixin.qq.com/s/LFbpV6n3YVW2vG5S1oII3A",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "AWS云渗透指南二",
+        "url": "https://mp.weixin.qq.com/s/StRa-s934YggCf9hmGVCzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "漏洞预警 | 1Panel跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s/bCXVIy5Tal-17VnPMdX1Ig",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/NgRFkweMeJQceQiiCZDOig",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "API Fuzz结合AI实战获取数据库密码漏洞-实战证书站案例",
+        "url": "https://mp.weixin.qq.com/s/n5Ju61toL8N3ClCTI32Bww",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "LoveJS插件——Web漏洞挖掘的高效信息搜集利器",
+        "url": "https://mp.weixin.qq.com/s/LgmCW93MQZKzBqQyNMFGxw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "深信服运维安全管理系统 port_validate 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-ip_and_port-port_validate-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-16"
+    }
+]
