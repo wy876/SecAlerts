@@ -304,5 +304,41 @@
         "url": "https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "软件系统安全赛-Thymeleaf 3.0.15 视图名注入 + PRNG 逆向：完整 RCE 到 Root 提权",
+        "url": "https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台",
+        "url": "https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw node.invoke Rce(CVE-2026-28466)",
+        "url": "https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "某火cai票娱乐城系统存在前台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
