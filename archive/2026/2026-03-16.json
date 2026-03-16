@@ -214,5 +214,47 @@
         "url": "https://mp.weixin.qq.com/s/F-PLgFH917jG3JAbjcMgyA",
         "source": "Doonsec",
         "date_added": "2026-03-16"
+    },
+    {
+        "title": "JNDI注入攻防全解析：从低版本RCE到高版本绕过分析",
+        "url": "https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/--iIVURpHM60oJRgs8srYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "【已复现】OpenClaw WebSocket共享令牌权限提升漏洞(QVD-2026-13829)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/E1zb8_RV3oF5aEU0_Yrw4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "WatchVuln_Web高价值漏洞采集与推送",
+        "url": "https://mp.weixin.qq.com/s/36x_CgbTO9qJvEG7ZGBKbw",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "本月目前的瓜：AI龙虾爆雷、零日漏洞频发、黑产遭重创",
+        "url": "https://mp.weixin.qq.com/s/kmUUyCTw4kIBgUp4WapOtg",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "白帽黑客发现Injective中危及5亿美元资产的漏洞，仅获5万美元奖励且尚未支付",
+        "url": "https://mp.weixin.qq.com/s/foNbn5x8HOH2vb4_ERoR3A",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
+    },
+    {
+        "title": "[ 深度洞察 ] 自动驾驶时代的黑客：Shannon 如何将“漏洞扫描”升维为“全自动渗透”？",
+        "url": "https://mp.weixin.qq.com/s/h59qNs4zbGVaHUgVcK5obA",
+        "source": "Doonsec",
+        "date_added": "2026-03-16"
     }
 ]
