@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s/5sxMdxWVmgcL6cwkjVLsTg",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "WordPress sql注入(CVE-2025-1323)",
+        "url": "https://mp.weixin.qq.com/s/9o0MnwRuYxT3b3S903CS-A",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
