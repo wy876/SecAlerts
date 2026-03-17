@@ -256,5 +256,17 @@
         "url": "https://mp.weixin.qq.com/s/HE7bQMDtny2KA07N6FkE7g",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风",
+        "url": "https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "接口删了也能打！群杰印章物联网平台反序列化漏洞修复绕过思路",
+        "url": "https://mp.weixin.qq.com/s/sPkGyqAVgvU-yyIKhppQYA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
