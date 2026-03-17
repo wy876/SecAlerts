@@ -220,5 +220,17 @@
         "url": "https://mp.weixin.qq.com/s/DDb5XYatRTEik_7D-lTIoA",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "深度解析：Spring MVC代码审计实战",
+        "url": "https://mp.weixin.qq.com/s/eguNMDeMClkV9t7MMoi-Fw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708)",
+        "url": "https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
