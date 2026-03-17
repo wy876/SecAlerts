@@ -232,5 +232,11 @@
         "url": "https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
