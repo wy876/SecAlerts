@@ -148,5 +148,47 @@
         "url": "https://mp.weixin.qq.com/s/9o0MnwRuYxT3b3S903CS-A",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "渗透测试高手，解锁网安新技能",
+        "url": "https://mp.weixin.qq.com/s/_YybSgFgMC3LmLLhXJ1_Sw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "【免费领】Android App渗透实战方法大全",
+        "url": "https://mp.weixin.qq.com/s/Dc4xAQS18Va7MlhT-2mjpQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "DriverExplorer：一个面向 Windows 驱动分析与管理的实用工具",
+        "url": "https://mp.weixin.qq.com/s/aeqFZmUUHrL0u3lT3zC9vg",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "CISA：Wing FTP 已遭利用漏洞可泄露服务器路径",
+        "url": "https://mp.weixin.qq.com/s/VTwfSeLy2X8BsWlGSwAnpQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2026年3月）",
+        "url": "https://mp.weixin.qq.com/s/RIKbJTrM0hC0UTRtxuiyig",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "【附全网首发POC】CVE-2026-1994 WordPress管理员密码修改漏洞 复现及漏洞环境",
+        "url": "https://mp.weixin.qq.com/s/k2bJ3e2YN1L-vBt5rWOjOQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "一款用于在 Mac 和 Windows 上快速启动和管理各类安全工具的渗透工具箱",
+        "url": "https://mp.weixin.qq.com/s/eIVGGIiJAFyxP8_C7s7L8w",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
