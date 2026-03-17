@@ -238,5 +238,23 @@
         "url": "https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "【SRC实战】实名验证接口滥用漏洞",
+        "url": "https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "畅捷通TPlus FormReportOperateAction.aspx接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/N2sbmdfsY7_srqS187XXVA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "专注于java代码审计skills",
+        "url": "https://mp.weixin.qq.com/s/HE7bQMDtny2KA07N6FkE7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
