@@ -34,5 +34,101 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-system-node_management-save_strategy-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [更进一步：CVE-2013-3660漏洞分析报告与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612100&idx=2&sn=23496cd01b2d0342734b8a9ca8f6708a",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [谷歌修复已遭利用的两个新 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525415&idx=1&sn=55278f01895a398c324b6e1d68a3202d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [Veeam 修复位于备份服务器上的多个 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525415&idx=2&sn=259129929dcb8d74602ea462298ce874",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515679&idx=1&sn=058025b13fbc829c3ece8df7befc0b9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493123&idx=1&sn=428ca62b9d879f3ef4f433194519e90d",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [【已复现】泛微 E-cology10 多个远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489986&idx=1&sn=b71354dd4388e4c93ce505f0528dd43a",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第10期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496773&idx=1&sn=3bd33ad9d330722dba14113cb0479abf",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260309-20260315)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496773&idx=2&sn=000f421f1f4c320f7ee916a173effab2",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497339&idx=1&sn=6fdc55c3a0e5f35b58ca6e777a21d12c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "] [OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485138&idx=1&sn=6bfe45e19c28b9fc48036f9ef09fb8e6",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "【成功复现】Nginx UI信息泄露漏洞(CVE-2026-27944)",
+        "url": "https://mp.weixin.qq.com/s/ntvP6M6-LovFzbrjEWpeZg",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "OpenClaw 权限提升漏洞：基础权限竟能反客为主？你的宿主机可能已被“远程接管”",
+        "url": "https://mp.weixin.qq.com/s/JUJWTpeENGCqYY1jJDSaXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "记一次edu证书站小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/OH6S69pgoWjpiZk6AZP7mA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/fPV7gY8igWe5ZwEblKYE6A",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "小朋友的新一期代码审计来了",
+        "url": "https://mp.weixin.qq.com/s/66orkKQxmIXlI5n4ap-kRQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "WatchVuln二开版：Web化管理漏洞情报推送(集成9大漏洞库+支持10+推送渠道)",
+        "url": "https://mp.weixin.qq.com/s/KlhzzbKoClw3jGjw6wWt9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
