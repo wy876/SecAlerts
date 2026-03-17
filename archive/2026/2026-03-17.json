@@ -190,5 +190,11 @@
         "url": "https://mp.weixin.qq.com/s/eIVGGIiJAFyxP8_C7s7L8w",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "【漏洞通告】OpenClaw WebSocket共享令牌权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/3Z7LIkvVeEUlZB-Ykg9VjQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
