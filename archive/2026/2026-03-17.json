@@ -196,5 +196,29 @@
         "url": "https://mp.weixin.qq.com/s/3Z7LIkvVeEUlZB-Ykg9VjQ",
         "source": "Doonsec",
         "date_added": "2026-03-17"
+    },
+    {
+        "title": "ADPulse：开源的内网渗透和内网安全审计工具",
+        "url": "https://mp.weixin.qq.com/s/rF2w1rR1L-ZLhFsD5jFEaw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！",
+        "url": "https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "AI自动化渗透测试平台设计研究",
+        "url": "https://mp.weixin.qq.com/s/L57v_hJg86V--E6YrG9EQA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "API安全漏洞挖掘指南：40种真实世界漏洞模型",
+        "url": "https://mp.weixin.qq.com/s/DDb5XYatRTEik_7D-lTIoA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
     }
 ]
