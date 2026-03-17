@@ -1,0 +1,38 @@
+[
+    {
+        "title": "《一文讲透：漏洞管理》",
+        "url": "https://mp.weixin.qq.com/s/5j_PvWjRUEcEqDo4o53FwA",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "Linux AppArmor出现CrackArmor漏洞，未授权用户可提升至root权限",
+        "url": "https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "AI 超级外挂发布！安恒VulnPlus让漏洞研究全流程自动跑通",
+        "url": "https://mp.weixin.qq.com/s/CwGuQUZjkm28uGFyto4mfw",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限",
+        "url": "https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+        "url": "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg",
+        "source": "Doonsec",
+        "date_added": "2026-03-17"
+    },
+    {
+        "title": "深信服运维安全管理系统 save_strategy 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-system-node_management-save_strategy-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-17"
+    }
+]
