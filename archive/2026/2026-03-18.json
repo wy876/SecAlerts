@@ -94,5 +94,59 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-outServices-generate_certificate-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.3.9-2026.3.15",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503728&idx=1&sn=f96a470e1923b29265ac1e8098ca6cc7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "] [CISA：Wing FTP 已遭利用漏洞可泄露服务器路径",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525482&idx=2&sn=92844a4f59d7d7b8344f344ed41a3600",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "] [【漏洞通告】OpenClaw WebSocket共享令牌权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525166&idx=1&sn=4f3f183b0c41fa2af4a1c7ffb2c39046",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第10期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501326&idx=1&sn=3760d4aefa27f6648cff7bc58a7f06f3",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "从被拒到 RCE：四个月后如何获得一个依赖混淆漏洞的奖励",
+        "url": "https://mp.weixin.qq.com/s/vTRrpbpdpLkib13WPK6IZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "[工具教程]提到 Web 安全渗透测试，绝对是绕不开的那个 “它”",
+        "url": "https://mp.weixin.qq.com/s/o3vRSgp4EE1HvERFmY8Nog",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Langflow未授权远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/Jwvt-KVDm8cC3SDa_tL1rA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "安全小知识-第二十八期_白帽子挖漏洞的思维破壁",
+        "url": "https://mp.weixin.qq.com/s/_HIk2H3YB1o0kY_0ZD2T9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "工具分享 | Java反序列化漏洞Gadget Chain可视化图谱工具",
+        "url": "https://mp.weixin.qq.com/s/x7XTbPyq-pbLYNJR5qg9MQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
