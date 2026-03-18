@@ -190,5 +190,17 @@
         "url": "https://mp.weixin.qq.com/s/blAB6ifN1i0WD3mrubpUgw",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "老师，我想学渗透测试",
+        "url": "https://mp.weixin.qq.com/s/2q3Lt9t96I8Mra7_eZfbBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "【高危AI漏洞预警】OpenClaw Agent平台远程代码执行漏洞CVE-2026-30741",
+        "url": "https://mp.weixin.qq.com/s/nc7XTVQYs5XYyBL-hsYP9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
