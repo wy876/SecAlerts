@@ -226,5 +226,11 @@
         "url": "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管",
+        "url": "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
