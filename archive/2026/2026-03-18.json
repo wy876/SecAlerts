@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "快普M6 GetPositionOfStaff接口存在sql注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
