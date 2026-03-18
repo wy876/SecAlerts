@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Omnissa  apikeys 路径穿越漏洞(CVE-2025-25231)",
+        "url": "https://mp.weixin.qq.com/s/9Pjebqtix6HAp79clo1u_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "这类漏洞危害有点低，SRC 好像不收录！",
+        "url": "https://mp.weixin.qq.com/s/Hiqkttfy6hNisWR8voF0Yg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "任我行协同CRM系统SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+        "url": "https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "一款专为红蓝工程师和渗透测试人员打造的跨平台安全工具箱",
+        "url": "https://mp.weixin.qq.com/s/998bx4GaruVMNxhlxfUxPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "实战 IoT 漏洞挖掘—小米 C400 摄像头",
+        "url": "https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "误报率80%→10%、两周100+0day......安恒这场“AI原生代码审计”直播藏满硬核干货",
+        "url": "https://mp.weixin.qq.com/s/V2lWrxB2DFf1_ecui3Xo1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "谁动了你的“小龙虾”？AI原生代码审计如何提前嗅出OpenClaw的1-click陷阱？",
+        "url": "https://mp.weixin.qq.com/s/Hp-1LylIXouvEzTZYL3yyg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "[工具教程]提到 Web 安全渗透测试，绝对是绕不开的那个 “它”",
+        "url": "https://mp.weixin.qq.com/s/kxCm27f697wgm0dCw-TZKQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证）",
+        "url": "https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "希望厂商回复漏洞清楚点",
+        "url": "https://mp.weixin.qq.com/s/yCAHFvdmWO_GoIWF3KAcLg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "漏洞预警 | Google Chromium V8 内存越界漏洞",
+        "url": "https://mp.weixin.qq.com/s/fmmJcpO-w0cjmMOffNzeNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "【已复现】泛微E-cology10 远程代码执行漏洞(QVD-2026-14149)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/BFYck8NEH0NyTahJnS1AfA",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "深信服运维安全管理系统 generate_certificate 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-outServices-generate_certificate-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-18"
+    }
+]
