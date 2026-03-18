@@ -172,5 +172,23 @@
         "url": "https://mp.weixin.qq.com/s/0UA3jnfhu7-9R1d9G_FK0w",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "fastcms-v0.1.5代码审计",
+        "url": "https://mp.weixin.qq.com/s/xmpM_v-Ozvccw2vJyLIyEQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "预警丨防范思科Catalyst SD-WAN管理软件多个漏洞",
+        "url": "https://mp.weixin.qq.com/s/0uzwKQ7ShKY1py9C-FSdKQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "CVE-2026-30741：OpenClaw远程代码执行漏洞复现详解",
+        "url": "https://mp.weixin.qq.com/s/blAB6ifN1i0WD3mrubpUgw",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
