@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s/nc7XTVQYs5XYyBL-hsYP9w",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "Ubuntu Desktop 24.04及更高版本存在本地权限提升漏洞，可导致未授权用户获取root权限",
+        "url": "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
