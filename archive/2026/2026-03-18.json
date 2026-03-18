@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "Linux内核的“贴身保镖”：LKRG 1.0如何让零日漏洞无处遁形",
+        "url": "https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
+    },
+    {
+        "title": "武装你的浏览器-漏洞检测",
+        "url": "https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
