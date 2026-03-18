@@ -208,5 +208,11 @@
         "url": "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ",
         "source": "Doonsec",
         "date_added": "2026-03-18"
+    },
+    {
+        "title": "某CMS XSS漏洞代码审计",
+        "url": "https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A",
+        "source": "Doonsec",
+        "date_added": "2026-03-18"
     }
 ]
