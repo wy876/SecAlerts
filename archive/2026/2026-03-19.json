@@ -1,0 +1,68 @@
+[
+    {
+        "title": "小朋友的新一期代码审计来了",
+        "url": "https://mp.weixin.qq.com/s/mtrtGRsuRrKpCzAFVsQ01w",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "强推一个永久的渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s/iJ94mzPZVrB7Ka9vuTtx2w",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "Coruna：神秘而强大的iOS漏洞利用工具包分析",
+        "url": "https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块",
+        "url": "https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "漏洞复现 | 用友U8cloud NCCloudGatewayServlet接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "deepseek+burpsuite实现渗透测试大模型",
+        "url": "https://mp.weixin.qq.com/s/fsY_2nvvlMPJJB16paUaSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/hHkKZaDS307Ba70ECPkjDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【WebSocket漏洞漫谈-第一章】别再傻傻只改HTTP包了，WebSocket才是真正的富矿",
+        "url": "https://mp.weixin.qq.com/s/f9fMt-fHjroXXkzheRz7Vg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "集成 15 000+ PoC 的“万能扫描怪兽”",
+        "url": "https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "挖洞实战｜接口FUZZ+日志泄漏导致大量密码泄漏漏洞",
+        "url": "https://mp.weixin.qq.com/s/UAyR0_DookhFv7410uG07A",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "深信服运维安全管理系统 update_date 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-timeSet-update_date-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-19"
+    }
+]
