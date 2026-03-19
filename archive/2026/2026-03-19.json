@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s/mKiLs2DgG-_wVLdp-zD5ww",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "黑客渗透测试之2FA绕过钓鱼神器：Evilginx2",
+        "url": "https://mp.weixin.qq.com/s/ayC_OW1EoZEiv9mbtbA7Mw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "远程运维的“定时炸弹”：四家厂商的 IP KVM 被曝严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/YfGcNBnrT3rUtYqHYuB-mg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【Net_AISec_hunter】基于 Wails + cursor 红队自动化 .NET 白盒漏洞挖掘工具",
+        "url": "https://mp.weixin.qq.com/s/RcAaRQND2ixd6CtQl27g4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
