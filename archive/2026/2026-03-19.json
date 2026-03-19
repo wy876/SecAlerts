@@ -328,5 +328,17 @@
         "url": "https://mp.weixin.qq.com/s/F8SeeJXfSmp8RekwrOobyg",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword",
+        "url": "https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具",
+        "url": "https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
