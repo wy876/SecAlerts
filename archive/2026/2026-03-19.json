@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s/UbJd5BTiU7v43qvedQUB_Q",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "思科防火墙零日漏洞已被恶意利用，用于部署 Interlock 勒索软件",
+        "url": "https://mp.weixin.qq.com/s/KQOYuzYf6_AL5EkmBuLfFw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "Java 应用漏洞挖掘实战",
+        "url": "https://mp.weixin.qq.com/s/XPg9lHi4kJoBe2QF5Qtgdw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
