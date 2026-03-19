@@ -268,5 +268,35 @@
         "url": "https://mp.weixin.qq.com/s/RcAaRQND2ixd6CtQl27g4A",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "Apple WebKit 漏洞使恶意网页内容可在 iOS 和 macOS 上绕过安全机制",
+        "url": "https://mp.weixin.qq.com/s/BH45coP-O-dw1zl85ZHSjA",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：微软 SharePoint 漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/m2Sp7S3Zkkb1hyTo-yVMbg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【安全圈】iOS18 爆高危漏洞！不升危险，升级变卡",
+        "url": "https://mp.weixin.qq.com/s/SUK6JyTGy9WswTehEibpJw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
