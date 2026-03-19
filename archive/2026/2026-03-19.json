@@ -166,5 +166,17 @@
         "url": "https://mp.weixin.qq.com/s/XPg9lHi4kJoBe2QF5Qtgdw",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "某科技物流SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/GG8Bih_lPVBI8g2_IZcr6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "新型 iOS 漏洞利用高级 iPhone 黑客工具窃取个人数据",
+        "url": "https://mp.weixin.qq.com/s/n5Y3LZYjZ1yTiV12X-sk4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
