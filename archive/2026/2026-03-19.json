@@ -310,5 +310,17 @@
         "url": "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "Windows RCE漏洞EXP - CVE-2025-29969",
+        "url": "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "红队打点利器：太极内网渗透工具(资产梳理与密码喷洒)",
+        "url": "https://mp.weixin.qq.com/s/SeKMoJ6vvHZUSsRuI6wfNQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
