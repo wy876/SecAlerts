@@ -214,5 +214,41 @@
         "url": "https://mp.weixin.qq.com/s/EOjvlOJJmIks2alSiD8uQg",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "Solon框架模板漏洞深度剖析与修复实战",
+        "url": "https://mp.weixin.qq.com/s/ktmAv3EKBg9Z90axaWnjew",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【论文速读】|ChainFuzzer：LLM智能体中工作流级多工具漏洞的灰盒模糊测试",
+        "url": "https://mp.weixin.qq.com/s/uKuRnc81OZgU16_anq_w6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "工信部：关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/FAnDZvbbWM7ah-hAYPed8A",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "【漏洞预警】Langflow 未授权远程代码执行漏洞（CVE-2026-33017）",
+        "url": "https://mp.weixin.qq.com/s/ZWuQBrCdi5JsHDlI7H5sBg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "境外间谍利用暗网渗透窃密，国家安全部揭秘暗网真面目",
+        "url": "https://mp.weixin.qq.com/s/gZY8S_M8oa1PcupMy2Ac3g",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "预警丨防范Windows远程桌面服务（RDS）权限提升高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/mKiLs2DgG-_wVLdp-zD5ww",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
