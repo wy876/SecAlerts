@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s/SeKMoJ6vvHZUSsRuI6wfNQ",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "Glato：GitLab CI/CD 流水线的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s/F8SeeJXfSmp8RekwrOobyg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
