@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限",
+        "url": "https://mp.weixin.qq.com/s/WPmHCoDfS-cPTRrP-6gnZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "CVE-2026-2441：Chrome CSSFontFeatureValuesMap 释放后重用漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
