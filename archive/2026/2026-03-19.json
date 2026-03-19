@@ -178,5 +178,41 @@
         "url": "https://mp.weixin.qq.com/s/n5Y3LZYjZ1yTiV12X-sk4Q",
         "source": "Doonsec",
         "date_added": "2026-03-19"
+    },
+    {
+        "title": "IT 服务管理软件 BMC FootPrints 被曝未授权 RCE 漏洞链（CVE-2025-71257 至 71260）",
+        "url": "https://mp.weixin.qq.com/s/GyxdEH4tCLOGpinXe3g2BA",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "“暗剑”出鞘：谷歌等公司联合披露新型iOS零点击漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/_eOpxzoidToVBz4ffR5chQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "当 Claude 开始自己挖漏洞，我们该做什么？",
+        "url": "https://mp.weixin.qq.com/s/x90M9gM7UH5CT3C7skzqIQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "第二届腾讯云黑客松智能渗透挑战赛等你来战！",
+        "url": "https://mp.weixin.qq.com/s/vcULaLlzmBWDDCpuJGpIjg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "ComfyUI-Manager RCE（CVE-2026-22777）遭在野利用，数万台设备亟待修复",
+        "url": "https://mp.weixin.qq.com/s/Jh36L3UnvjNrypnM01lTSg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
+    },
+    {
+        "title": "2026网络安全学习笔记：从一条请求到一次渗透测试的入口",
+        "url": "https://mp.weixin.qq.com/s/EOjvlOJJmIks2alSiD8uQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-19"
     }
 ]
