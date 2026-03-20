@@ -208,5 +208,65 @@
         "url": "https://mp.weixin.qq.com/s/iOo55KslDM-YbSZs4-xmXQ",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "CVE-2026-3888：Snap 存在重要漏洞，可导致本地权限提升至 root",
+        "url": "https://mp.weixin.qq.com/s/boaZpS8pf1lawqWlSrUEKw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "Amazon Bedrock、LangSmith和SGLang的AI漏洞可致数据泄露与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/zEH372PgAIz9V_TWNJSo_A",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "别让“养虾”变“养险”：基础环境漏洞有多危险？",
+        "url": "https://mp.weixin.qq.com/s/Z-JzjkjTYRxwI0fs_73y6A",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "Jenkins 严重漏洞导致CI/CD服务器易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/tLwt4cFmsrQkoDPOnXlBrg",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "Atlassian Bamboo 高危RCE漏洞威胁 CI/CD 环境安全",
+        "url": "https://mp.weixin.qq.com/s/IFDiovAzxF0SyPVSGpyyrw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/PNM5EemF1d70AiRq1iuNYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第三期）",
+        "url": "https://mp.weixin.qq.com/s/mvpqQVlOM6OYuwk3F4zT5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "顶级iPhone黑客工具“DarkSword”曝光：六连环漏洞，多国用户数据遭窃",
+        "url": "https://mp.weixin.qq.com/s/O6TD0nHPnSQyyArWV5kaQA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【漏洞通告】Langflow 任意文件创建漏洞 CVE-2026-33309",
+        "url": "https://mp.weixin.qq.com/s/R7jIDiG9m6DbB_hrbIYmyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "威胁通缉令 · 方块6丨DragonForce（调整）",
+        "url": "https://mp.weixin.qq.com/s/prty6lNtE5r8St2X2eD-xg",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
