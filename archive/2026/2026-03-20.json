@@ -268,5 +268,17 @@
         "url": "https://mp.weixin.qq.com/s/prty6lNtE5r8St2X2eD-xg",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "PHP-SQL注入代码审计",
+        "url": "https://mp.weixin.qq.com/s/tznzdLoATF90Zae8cAoEDA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【安全圈】请装 3 月 Win11 更新：高危漏洞被修复，黑客利用能掌控你的电脑",
+        "url": "https://mp.weixin.qq.com/s/4MzCSMQlTGU_14UcDpue3w",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
