@@ -1,0 +1,86 @@
+[
+    {
+        "title": "GitHub 霸榜！斩获3.4万 Star 的“全自主AI渗透工具Shannon ”疯了",
+        "url": "https://mp.weixin.qq.com/s/1nAVx2CLSEhtvqRScGBTUg",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "监控系统反被监控?Glances曝严重凭证泄露漏洞 CVE-2026-32633",
+        "url": "https://mp.weixin.qq.com/s/AWLWH1U6RY8-iwXu_6qMIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "一款由 AI 驱动的 OSCP 纸上渗透靶场 | 通过大语言模型执行变异衍生，无限生成具有严密逻辑链的全新推演靶机",
+        "url": "https://mp.weixin.qq.com/s/K28A6FYF9807_tICrY3ZtA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【案例分享】某SRC SSRF漏洞分享",
+        "url": "https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰",
+        "url": "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "Jenkins 的严重缺陷使 CI/CD 服务器面临远程代码执行的风险",
+        "url": "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "基于苏贾战役的“无人机协同—渗透突击”战术复盘及对我军边防体系的启示（6.3万字干货）",
+        "url": "https://mp.weixin.qq.com/s/hJ8RY6Elp5YKBWRtjQgIIA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "恒丰银行AI编码助手项目POC测试供应商征集",
+        "url": "https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "“ AI 刺客”漏洞披露：小字等方式伪装实现执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【工具推荐】微信小程序反编译利器 | 微信小程序渗透",
+        "url": "https://mp.weixin.qq.com/s/sETxrCMO3zaPs7C0Db634Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "记一次某大型oa前台0day挖掘",
+        "url": "https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "漏洞预警 | TOA操作系统命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "深信服运维安全管理系统 upload_CN 远程命令执行漏洞",
+        "url": "https://mrxn.net/jswz/sangfor_osm-system-version-upload_CN-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-20"
+    }
+]
