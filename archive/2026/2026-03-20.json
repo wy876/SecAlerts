@@ -82,5 +82,59 @@
         "url": "https://mrxn.net/jswz/sangfor_osm-system-version-upload_CN-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185849&idx=1&sn=90f390064e47068e7f7b5a5c0eef796c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [Ubunntu 高危漏洞可导致攻击者获得根权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525508&idx=1&sn=2833d5727c1faf94104890b325bb6d75",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [IP KVM 中存在9个严重漏洞，可用于获得未认证root访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525508&idx=2&sn=64b8a410384155e1fa92afa41950ba05",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [【安全圈】iOS18 爆高危漏洞！不升危险，升级变卡",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074879&idx=1&sn=a99f5ab259944d0f68ee8f470256a869",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074879&idx=3&sn=f2683ea27641f32a563e177c417115b9",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "] [独家！OpenClaw之父确认漏洞，360为所有“养虾人”筑牢安全防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585474&idx=1&sn=53b14b545cacdccc7581fa98e01cf5e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/LrbuTbY9aTMhhqaXUL8RVA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "ChurchCRM SQL注入漏洞（CNVD-2026-12565、CVE-2026-24854）",
+        "url": "https://mp.weixin.qq.com/s/Hz9X_dmj59luAIlaYOmOhQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "BMC FootPrints 预认证远程代码执行漏洞链分析",
+        "url": "https://mp.weixin.qq.com/s/UQjpB35iOt8oltRLiHNlSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
