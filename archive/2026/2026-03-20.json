@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s/eEN_SMBebETV-8mDGK8AJA",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "【蓝队】一套面向企业级的漏洞全生命周期管理平台",
+        "url": "https://mp.weixin.qq.com/s/Ifz76zCGmlgnHMEZiFF4OQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "渗透“瓦尔多利亚共和国”：在一次技术评估中串联 IDOR、加密破解与 JWT 绕过",
+        "url": "https://mp.weixin.qq.com/s/K50TyWJaIVFCTIXrwFLT5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
