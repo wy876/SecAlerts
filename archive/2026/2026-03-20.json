@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "渗透测试利器：全面升级的 SQLMap WAF 绕过脚本集",
+        "url": "https://mp.weixin.qq.com/s/0GnKlBAVK4oa1iIBmWpKJw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
