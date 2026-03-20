@@ -280,5 +280,17 @@
         "url": "https://mp.weixin.qq.com/s/4MzCSMQlTGU_14UcDpue3w",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "俄罗斯APT组织利用Zimbra XSS漏洞，在“幽灵邮件行动”中攻击乌克兰政府",
+        "url": "https://mp.weixin.qq.com/s/G8ORVsB112woiwnc_2No3Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "开源大模型安全评估与MCP代码审计平台（支持TC260国标测试集）",
+        "url": "https://mp.weixin.qq.com/s/nEvJn59OEo6bMKFvxgdyBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
