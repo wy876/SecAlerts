@@ -178,5 +178,35 @@
         "url": "https://mp.weixin.qq.com/s/57V-86JPnQDLzuv8kgV0VA",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "【已复现】Langflow ≤1.8.1 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/NzrZtU3VMV3udIkbLr3_uw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "信息安全漏洞周报【第066期】",
+        "url": "https://mp.weixin.qq.com/s/H-1a8dxRSJHIvuOpatN1Tw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "活动邀请 | 2026 FORCE LINK AI 创新巡展（武汉站）",
+        "url": "https://mp.weixin.qq.com/s/54WuHiHsYfJcUjigkWbqdA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "安全热点周报：谷歌修复了两个在攻击中被利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/KLD3svu2RUUC-ACtZZUsZw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第三期）",
+        "url": "https://mp.weixin.qq.com/s/iOo55KslDM-YbSZs4-xmXQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
