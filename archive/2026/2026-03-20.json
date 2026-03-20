@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s/nEvJn59OEo6bMKFvxgdyBw",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "PHP-SQL注入代码审计",
+        "url": "https://mp.weixin.qq.com/s/tuAJc99RstRQB4yG_jjZeA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
