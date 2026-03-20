@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s/tuAJc99RstRQB4yG_jjZeA",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
