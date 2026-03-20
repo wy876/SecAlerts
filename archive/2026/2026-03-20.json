@@ -160,5 +160,23 @@
         "url": "https://mp.weixin.qq.com/s/K50TyWJaIVFCTIXrwFLT5w",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "AI浪潮下的安全突围：CISAW-LPT渗透测试认证，重塑你的核心竞争力",
+        "url": "https://mp.weixin.qq.com/s/KPnHhWdPTtd57Ktdl7TBTA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "【漏洞通告】Spring Boot 认证绕过漏洞(CVE-2026-22733)",
+        "url": "https://mp.weixin.qq.com/s/FedbrPsNBO9rpUZCPuvqjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "OpenClaw最新完整漏洞，实时可查！（附高危列表）",
+        "url": "https://mp.weixin.qq.com/s/57V-86JPnQDLzuv8kgV0VA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
