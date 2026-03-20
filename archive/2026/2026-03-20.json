@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s/UQjpB35iOt8oltRLiHNlSA",
         "source": "Doonsec",
         "date_added": "2026-03-20"
+    },
+    {
+        "title": "Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017/33309已复现",
+        "url": "https://mp.weixin.qq.com/s/82blCxBUzkpCsxmSUU1cHA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
+    },
+    {
+        "title": "OpenClaw 安全全景分析：从公开漏洞、利用链到最安全安装基线",
+        "url": "https://mp.weixin.qq.com/s/eEN_SMBebETV-8mDGK8AJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-20"
     }
 ]
