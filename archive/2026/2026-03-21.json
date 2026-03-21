@@ -1,0 +1,56 @@
+[
+    {
+        "title": "虾聊——AI Agent 自动化渗透测试实战分享",
+        "url": "https://mp.weixin.qq.com/s/Lms68YF1ddDnPEcU8fcuQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Kanboard  SQL注入 CVE-2026-33058 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/lefaZES6jJKSW6jGy4OEIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "每周漏洞情报速览｜2026.03.14–03.20",
+        "url": "https://mp.weixin.qq.com/s/RDLbaD-8EFLcOHlrxDp99Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)",
+        "url": "https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "OpenClaw九个漏洞你必须知道",
+        "url": "https://mp.weixin.qq.com/s/fs8no7C7h9Q_6ObLuxw-FQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "「渗透测试工具篇」使用Vshell工具从监听到木马上线教程",
+        "url": "https://mp.weixin.qq.com/s/C0ouhlRM9f9dj4VdyywR1Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "[漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017/33309",
+        "url": "https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    }
+]
