@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s/itirIL6eAxH9jL6y4quxkg",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "【WebSocket漏洞漫谈-第三章】上集玩转WebSocket XSS，这集直接绕过防火墙！3000元高危漏洞实战复盘",
+        "url": "https://mp.weixin.qq.com/s/Io5H5vBbGTLCrtgw9QuBxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
