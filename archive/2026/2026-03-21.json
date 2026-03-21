@@ -208,5 +208,17 @@
         "url": "https://mp.weixin.qq.com/s/L36Yk5-ZLa_bHb3I_ek_Hw",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "Burp Suite 文件上传漏洞自动化测试插件 1000+ payload",
+        "url": "https://mp.weixin.qq.com/s/UAh9CjgpmAk-k3FoC0Yrmg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "用Agent打败Agent：LLM智能体漏洞，正在进入自动化挖掘阶段（Agentfuzz）",
+        "url": "https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
