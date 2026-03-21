@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s/QRxXGqt2iQEyGOD-H-HJeA",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "NDSS 2026杰出论文奖丨复旦大学计算与智能创新学院系统软件与安全实验室研究成果首次系统揭示邮箱别名机制的身份混淆安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/UoSfDePfvoxwpyoWkDz0hQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "安全预警｜校园小程序高危SQL注入漏洞曝光，师生信息安全需警惕！（渗透测试视角）",
+        "url": "https://mp.weixin.qq.com/s/7TrXvOX2eSeGKPM6bd3LyA",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
