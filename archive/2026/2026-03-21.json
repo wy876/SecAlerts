@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "开源人工智能开发框架高危漏洞在公开披露数小时后即被利用",
+        "url": "https://mp.weixin.qq.com/s/zg6MQCDO-ylywQzTaASqnQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Omnissa Workspace ONE UEM存在敏感信息泄漏漏洞（CVE-2025-25231） 附POC",
+        "url": "https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
