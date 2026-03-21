@@ -154,5 +154,29 @@
         "url": "https://mp.weixin.qq.com/s/7TrXvOX2eSeGKPM6bd3LyA",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "AI驱动的渗透测试工具Apex，以黑盒模式攻击应用程序发现漏洞",
+        "url": "https://mp.weixin.qq.com/s/LGl3CQSBFsB8LmjXMtw7Lw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "英伟达发布“安全版龙虾”NemoClaw；DarkSword串联六漏洞攻破iOS | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/mpXMzpFWRTYbTz-wbzcqPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "pbootcms SQL注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/QwcIUu6144mQygqn5IFrSg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "几个小程序挖掘渗透记录",
+        "url": "https://mp.weixin.qq.com/s/pTcIZPVPDsAVRBwD_c7qdQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
