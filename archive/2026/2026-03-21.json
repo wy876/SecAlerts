@@ -52,5 +52,83 @@
         "url": "https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [顶级iPhone黑客工具“DarkSword”曝光：六连环漏洞，多国用户数据遭窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612340&idx=3&sn=9fed8531874e9998ddb80e6c5fc54c8e",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [Jenkins 严重漏洞导致CI/CD服务器易受RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525516&idx=1&sn=164d0ad922d6e64b64438bd5a5cc0db0",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [Atlassian Bamboo 高危RCE漏洞威胁 CI/CD 环境安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525516&idx=2&sn=f2ba1657254018cbcc2be50de9f7fe9c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [OpenClaw最新完整漏洞，实时可查！（附高危列表）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508351&idx=1&sn=3942ff47bae96d8731ad7bdba12764b7",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [【安全圈】请装 3 月 Win11 更新：高危漏洞被修复，黑客利用能掌控你的电脑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074903&idx=2&sn=e636b8da74d7d7be60e53dfb4fae8b17",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140782&idx=2&sn=281e659a14a24ac60f4b9a3d7bc88893",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [OpenClaw 安全全景分析：从公开漏洞、利用链到最安全安装基线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510435&idx=1&sn=ad86a5de0f61a7ff596dd81d50241b53",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [CNNVD | 人工智能重要漏洞通报（2026年第三期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260510&idx=2&sn=7c0fd3088d7ab1be70f0778b63c73ae1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [别让“养虾”变“养险”：基础环境漏洞有多危险？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585481&idx=1&sn=c8af1530771a87484a2c12b6056020b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "] [【漏洞通告】Langflow 任意文件创建漏洞 CVE-2026-33309",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525178&idx=1&sn=ef5675b8d508c4556d8ab410983d70fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "不要测无意义的并发漏洞",
+        "url": "https://mp.weixin.qq.com/s/578hkpnejm0E0Ppfernemw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "第100天-Java安全攻防：从SQL注入到RCE，常见漏洞一网打尽！",
+        "url": "https://mp.weixin.qq.com/s/qhm5dEgosDaKhL20o7Sj6Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "小朋友的新一期代码审计来了",
+        "url": "https://mp.weixin.qq.com/s/itirIL6eAxH9jL6y4quxkg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
