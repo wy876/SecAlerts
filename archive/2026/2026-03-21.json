@@ -220,5 +220,11 @@
         "url": "https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "滥用漏洞驱动 (BYOVD) 实现任意内核读写并绕过 PPL 保护",
+        "url": "https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
