@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s/pTcIZPVPDsAVRBwD_c7qdQ",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "Trivy 漏洞利用中的恶意脚本注入可导致凭证窃取",
+        "url": "https://mp.weixin.qq.com/s/JxyglSZxEBwxEJIfP9yDbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Augustus：专为实战设计的LLM漏洞扫描器，支持210多种攻击手法",
+        "url": "https://mp.weixin.qq.com/s/IhMZ8IPnnlteg2Ch3BRlpg",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Chrome 安全更新修复 26 个漏洞，可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/reRJ1ciUllW0yhtsmIM_mQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
+    },
+    {
+        "title": "Oracle 紧急发布安全更新，修复 Identity Manager 和 Web Services Manager 中的关键远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/3czRaDI1lNghUxt21UIBzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
