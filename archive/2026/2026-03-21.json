@@ -202,5 +202,11 @@
         "url": "https://mp.weixin.qq.com/s/3czRaDI1lNghUxt21UIBzQ",
         "source": "Doonsec",
         "date_added": "2026-03-21"
+    },
+    {
+        "title": "Java 漏洞利用全家桶工具，内置免杀webshell生成Bypass模块，助力实战攻防",
+        "url": "https://mp.weixin.qq.com/s/L36Yk5-ZLa_bHb3I_ek_Hw",
+        "source": "Doonsec",
+        "date_added": "2026-03-21"
     }
 ]
