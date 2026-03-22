@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s/cob4zzuYEw6an2rAxbXNrw",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "SiYuan SQL漏洞 | CVE-2026-29073复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/Dmxu0I_bQL24p6qRJMebQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
     }
 ]
