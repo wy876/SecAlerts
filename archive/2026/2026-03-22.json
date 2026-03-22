@@ -100,5 +100,11 @@
         "url": "https://mp.weixin.qq.com/s/s857iqU4L67OhFoWjOu47w",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL 注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-ChooseLineAndRes-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-22"
     }
 ]
