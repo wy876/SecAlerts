@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s/PM22Bx6Pnvgj3KSC4gNPJg",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "CVE-2026-24291 — Windows提权漏洞BOF",
+        "url": "https://mp.weixin.qq.com/s/-7jLFdeol5MymGZYwWhs8w",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "第102天-Java反序列化漏洞：从入门到精通，一篇带你彻底搞懂！",
+        "url": "https://mp.weixin.qq.com/s/-FS6jJn89xraKydRh4G7Kw",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "第101天-Java安全攻防：从SPEL、SSTI注入到SpringBoot框架漏洞，一篇通关！",
+        "url": "https://mp.weixin.qq.com/s/j8WQLe4JNp9WdLyz1KUjCA",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
     }
 ]
