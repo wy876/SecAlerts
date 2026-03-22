@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s/Dmxu0I_bQL24p6qRJMebQw",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "[漏洞播报]突发！OpenClaw爆致命0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s/pxx9oBQ_R_iqROjNz0FlEQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "手把手教你用OpenClaw搞渗透测试：从配置到实战挖洞，我踩过的坑都在这了",
+        "url": "https://mp.weixin.qq.com/s/WxU6OwapW545q5cKkCEYzQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
     }
 ]
