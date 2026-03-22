@@ -76,5 +76,29 @@
         "url": "https://mp.weixin.qq.com/s/2yY7RhOpUkUtDTDM0j-HBQ",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "Trivy漏洞扫描器泄露，信息窃取程序通过GitHub Actions推送",
+        "url": "https://mp.weixin.qq.com/s/det-fCBHTpc_DrLXhJGJdg",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "CrackArmor 严重漏洞使 1260 万台 Linux 服务器面临完全 root 权限被控制的风险",
+        "url": "https://mp.weixin.qq.com/s/srhONdrYItujLCFzjBNECw",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "800万次请求后，我们发现了一个让SolarWinds攻击看起来像\\\"业余作品\\\"的供应链漏洞",
+        "url": "https://mp.weixin.qq.com/s/kjUUAGVKEL4JxvUWC-kQBQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "【提权基础入门第一节】AlwaysInstallElevated：一个常被忽视的Windows提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/s857iqU4L67OhFoWjOu47w",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
     }
 ]
