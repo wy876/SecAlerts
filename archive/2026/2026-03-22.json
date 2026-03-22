@@ -40,5 +40,17 @@
         "url": "https://mp.weixin.qq.com/s/O1rE99F1bh32GXFnPCf__w",
         "source": "Doonsec",
         "date_added": "2026-03-22"
+    },
+    {
+        "title": "] [【安全圈】ScreenConnect 曝高危漏洞 设备密钥面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074942&idx=3&sn=dbb38e4711a7e692560c30e332b0060b",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "Oracle修复影响身份和Web服务平台的高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/PM22Bx6Pnvgj3KSC4gNPJg",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
     }
 ]
