@@ -1,0 +1,44 @@
+[
+    {
+        "title": "用 GitHub Security Lab 的开源 AI 框架做漏洞扫描，我们发现了什么",
+        "url": "https://mp.weixin.qq.com/s/wgYnN_0NT0_9pM95GxFD9A",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "OpenClaw远程代码执行漏洞（CVE-2026-30741）！",
+        "url": "https://mp.weixin.qq.com/s/I6l-7dUemwNhQ1lTd1cYAg",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "百易云资产管理系统SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/wBtMqU_knqPFSu3gVUVc4w",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "明源地产ERP GetErpDept.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "0day | 泛微E-cology10 存在远程代码执行漏洞（QVD-2026-14149）",
+        "url": "https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "漏洞公开20小时即遭攻击，Trivy安全扫描器一月内两度沦陷",
+        "url": "https://mp.weixin.qq.com/s/p95T1QhmbNH67bnVQ50oaw",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    },
+    {
+        "title": "2026必学：AI时代下的渗透测试新玩法",
+        "url": "https://mp.weixin.qq.com/s/O1rE99F1bh32GXFnPCf__w",
+        "source": "Doonsec",
+        "date_added": "2026-03-22"
+    }
+]
