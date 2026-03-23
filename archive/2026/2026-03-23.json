@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s/W8Suhc9lRqtkmIws2MpXsw",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "2026渗透测试认证选择指南 — CISP-PTE vs CISP-PTS vs OSCP",
+        "url": "https://mp.weixin.qq.com/s/NubfrdoeV-Y1p16oXY8_Ow",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "USRC暖春漏洞狂欢｜手慢无，挖到就是赚到！",
+        "url": "https://mp.weixin.qq.com/s/m7IdD6VaOTwkhszwy1GSwQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "【高危漏洞预警】SiYuan（思源笔记）桌面发布服务存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/PppisO4FOMGayss99h3hWQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
