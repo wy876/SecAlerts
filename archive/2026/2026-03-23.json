@@ -244,5 +244,29 @@
         "url": "https://mp.weixin.qq.com/s/PlWU_oGPLunFf3n07VLejw",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "一次基于Struts框架项目的代码审计",
+        "url": "https://mp.weixin.qq.com/s/ZrhR6oG0IBLpkupsaV9KxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "【案例分享】某社交平台并发签到漏洞：白帽子如何用一个接口刷21天签到？",
+        "url": "https://mp.weixin.qq.com/s/NQP8AB4ZMI2wlC1hxiDU1w",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "【高危漏洞预警】PyTorch反序列化漏洞 (CVE-2026-4538)",
+        "url": "https://mp.weixin.qq.com/s/qY75RbrA81mPAib1B7tKfg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "泛微E-cology10存在远程代码执行漏洞(QVD-2026-14149) 附POC",
+        "url": "https://mp.weixin.qq.com/s/-IJ-Z2s-pVbkQJHzNSM26w",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
