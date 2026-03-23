@@ -214,5 +214,23 @@
         "url": "https://mp.weixin.qq.com/s/PppisO4FOMGayss99h3hWQ",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "EDUSRC--985证书站从接口FUZZ到满分漏洞",
+        "url": "https://mp.weixin.qq.com/s/LEg8p-tNyuy_I-6ILQkEOQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "CISA警告：Craft CMS代码注入漏洞已被用于活跃的攻击中",
+        "url": "https://mp.weixin.qq.com/s/XUZN6YN-AYSxRNpVRh7bJg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "USRC暖春漏洞狂欢｜手慢无，挖到就是赚到！",
+        "url": "https://mp.weixin.qq.com/s/nz3vLp5maC1BFRhsmxOG3A",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
