@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s/nz3vLp5maC1BFRhsmxOG3A",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 /Handler/SMTLoadingMaterial.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Edy27vkih6P8vqtok5YD5w",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "一次基于Struts框架项目的代码审计",
+        "url": "https://mp.weixin.qq.com/s/PlWU_oGPLunFf3n07VLejw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
