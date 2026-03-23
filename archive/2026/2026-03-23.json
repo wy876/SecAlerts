@@ -142,5 +142,35 @@
         "url": "https://mrxn.net/jswz/lean-mes-SMTLoadingMaterial-sqli.html",
         "source": "MRXN",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "红队渗透工具 -- epgo（3月22日更新）",
+        "url": "https://mp.weixin.qq.com/s/fKvbF2KRRvWXN1f4FNKLGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "EDU某两个证书站的任意用户覆盖漏洞",
+        "url": "https://mp.weixin.qq.com/s/xi8mVaS37jJq6KWA8WUIxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/P1aaa10JCsniV2eLf6ojhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260323】",
+        "url": "https://mp.weixin.qq.com/s/dvWPswiY2FMK7LdJicRXYw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "某盟云AjaxMethod.ashx存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
