@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/GeBFDo9DDJd8upfOnn-iEw",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "【玲珑安全】第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+        "url": "https://mp.weixin.qq.com/s/pDK-92iGqKqdALxHUuqaYQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "深科特 LEAN MES系统 /Handler/SMTLoadingMaterial.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-SMTLoadingMaterial-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-23"
     }
 ]
