@@ -172,5 +172,29 @@
         "url": "https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "【漏洞通告】Langflow 未授权远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "AI辅助漏洞挖掘：四种方法的实测与挫败",
+        "url": "https://mp.weixin.qq.com/s/Wh34-IDbQzyNZ2QxzkbBhg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "【案例分享】某社交平台并发签到漏洞：白帽子如何用一个接口刷21天签到？",
+        "url": "https://mp.weixin.qq.com/s/6LRGhtyc6jYlxazYWEfBUw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "招聘安全渗透测试岗位",
+        "url": "https://mp.weixin.qq.com/s/W8Suhc9lRqtkmIws2MpXsw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
