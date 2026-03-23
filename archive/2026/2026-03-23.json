@@ -88,5 +88,47 @@
         "url": "https://mp.weixin.qq.com/s/Ykh7lyFkY4ous2Gy_4PZoA",
         "source": "Doonsec",
         "date_added": "2026-03-23"
+    },
+    {
+        "title": "] [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "CVE-2026-22812：我是如何在一个 7.1 万 Star 的 AI 编码工具上实现“零认证 RCE”的",
+        "url": "https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "绕过 Tomcat 证书吊销：CVE-2026-24734 详解（含实战 PoC）",
+        "url": "https://mp.weixin.qq.com/s/Xh1p9_R2EKNAEotgHBgZHg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "AI渗透 | 重塑渗透测试与漏洞挖掘新策略！",
+        "url": "https://mp.weixin.qq.com/s/jIsj7HbpYxkK9MYGcOhOCA",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "2026年AI安全攻防战：从Agent漏洞到深度伪造",
+        "url": "https://mp.weixin.qq.com/s/5HfawGWrG4T4oVpRI6GNAg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "实战：我如何用AI分析Coruna iOS漏洞利用工具包？",
+        "url": "https://mp.weixin.qq.com/s/f8MmkHhkHGgMANz78r7Qqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
+    },
+    {
+        "title": "来源于国外的AI时代渗透测试、红队攻击全景展示",
+        "url": "https://mp.weixin.qq.com/s/GeBFDo9DDJd8upfOnn-iEw",
+        "source": "Doonsec",
+        "date_added": "2026-03-23"
     }
 ]
