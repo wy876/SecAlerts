@@ -70,5 +70,71 @@
         "url": "https://mp.weixin.qq.com/s/YIseUePt6Svi97YxdL37eg",
         "source": "Doonsec",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "] [Oracle 紧急修复 Identity Manager 和 Web Services Manager 中的严重RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525520&idx=1&sn=8e9967e4c7c296e96e50612d5cd0a1cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "] [红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514232&idx=1&sn=7d017000c6bfc7392de13005e7b4fe2f",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第11期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496792&idx=1&sn=eecb977192773972606f6b9b93bb5ea1",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260316-20260322)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496792&idx=2&sn=ba909405a6af97022c0d588795a9acca",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "从入门到封神：AI 红队渗透 + 漏洞挖掘完整实战手册",
+        "url": "https://mp.weixin.qq.com/s/vRlhXDnBmvPw5xEcet1lBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "Chamilo存在SQL注入漏洞（CNVD-2026-13257，CVE-2025-50190）",
+        "url": "https://mp.weixin.qq.com/s/uDM_bGrC6ax5p6ZUk_kJqw",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "第106天-Shiro 王国探秘：从反序列化漏洞到攻防实战，守护你的 Java 应用！",
+        "url": "https://mp.weixin.qq.com/s/PVuNbrbr8xzAu7-UH69D7A",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "langflow 命令执行 无回显小思路",
+        "url": "https://mp.weixin.qq.com/s/Nz-VdwuUXV1AG3jWvVPglw",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "2026-03-24 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/AmAWksvws7DIaK3z_kD99w",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/HsTTkZQpAZPEiqm6e3Wbog",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "深科特 LEAN MES系统 EquipmentTree.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-EquipmentTree-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-24"
     }
 ]
