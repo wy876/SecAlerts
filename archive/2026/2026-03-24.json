@@ -142,5 +142,41 @@
         "url": "https://mrxn.net/jswz/lean-mes-UploadPortraits-fileupload-rce.html",
         "source": "MRXN",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "Tasting the Exploit: CVE-2025-59287 WSUS",
+        "url": "https://mp.weixin.qq.com/s/RvzwIAXHQcGG4Fm17up3Eg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "ComfyUI-Manager远程代码执行分析及概念验证",
+        "url": "https://mp.weixin.qq.com/s/9Fy9nPd2Dz-KnDHSD3utNw",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "GeoServer WMS GetMap XML 外部实体注入漏洞（CVE-2025-58360）",
+        "url": "https://mp.weixin.qq.com/s/sMYrklpCaRpDbZKfeNjfDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/JZ6wXU4XzcmH7HVW-PkWYQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "Dell Wyse 管理套件：从业务逻辑缺陷到未授权远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/JyE_8udveXaaPr2AOQ94lg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "免费代发招聘信息第48期：深圳驻场 中高级渗透测试 需求10人 13k-15k/月",
+        "url": "https://mp.weixin.qq.com/s/jUOgggKv-8CYHEJgb-Ts4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
     }
 ]
