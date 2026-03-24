@@ -1,0 +1,74 @@
+[
+    {
+        "title": "漏洞复现 | 用友NC ContactsQueryServiceServlet 反序列化代码执行RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/K4IAbYjSxWWYKjvcn39ajA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "泛微E-cology10存在远程代码执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/ucKOBZDxTOcgEbV9CavOvQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "手把手拆解：小程序/Web端加密鉴权绕过案例全复现",
+        "url": "https://mp.weixin.qq.com/s/h8YVtt13nsWs-1YhhR6udw",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "超强的一个渗透测试辅助平台",
+        "url": "https://mp.weixin.qq.com/s/Vtb89FFDGYU1hsvapTYZ9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "一次渗透测试纪实：利用 AI 发掘 Profile Builder Pro 插件 PHP 对象注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/80hW-zevE2Tf5-ACEl13PA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "44 天，90 个高危漏洞当 AI 黑客撕开全球软件防线",
+        "url": "https://mp.weixin.qq.com/s/D0Eq_1CPsQj588D8THW9Lg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "招聘安全渗透测试岗位",
+        "url": "https://mp.weixin.qq.com/s/SXAMFnsUIPJBc_wJX111eg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "【已复现】漏洞通告 | 泛微E-cology10 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/0K1oqzJZnmVPQJ7GGo2IcA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "React/Next.js满分漏洞遭大规模在野利用，数百万Web应用已成攻击者囊中之物",
+        "url": "https://mp.weixin.qq.com/s/x49g8RuelwDmD3ZJ8iz5jA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "263+上传漏洞检测与绕过工具",
+        "url": "https://mp.weixin.qq.com/s/bnCDfOr0AF_ARMefF8W41A",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "新型AI漏洞“Shadow Escape”曝光：零点击窃取企业核心数据",
+        "url": "https://mp.weixin.qq.com/s/ITWq_FOZzXyVzc7VwrpK3g",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "SolarWinds Serv-U 的关键漏洞可导致服务器获得 root 访问权限",
+        "url": "https://mp.weixin.qq.com/s/YIseUePt6Svi97YxdL37eg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    }
+]
