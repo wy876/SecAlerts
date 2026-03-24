@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s/PKoq_xial5QbfJEk3kSIWA",
         "source": "Doonsec",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.3.16-2026.3.22",
+        "url": "https://mp.weixin.qq.com/s/DIeVE7qcwq6bYJovhqKAhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "孚盟云 upload.ashx deletefile SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/59sCVVXzG_GA8mfNpczNBA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
     }
 ]
