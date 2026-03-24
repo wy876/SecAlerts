@@ -274,5 +274,11 @@
         "url": "https://mp.weixin.qq.com/s/1LmbFxfGmTmNnOPO363GLA",
         "source": "Doonsec",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "【SRC实战】一文玩转Minio存储桶漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
     }
 ]
