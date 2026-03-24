@@ -214,5 +214,35 @@
         "url": "https://mp.weixin.qq.com/s/yW1ud59ubiztZK-PMKDiBQ",
         "source": "Doonsec",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "焦糖布丁v4.0：OpenClaw AI安全基线与漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/wSKnqjgJGhrxyOmv8PRpyQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "手把手拆解：小程序/Web端加密鉴权绕过案例全复现",
+        "url": "https://mp.weixin.qq.com/s/gJU7m_XbvfBzGaaVDzsZLg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "如果AI能自动发现漏洞，企业还愿意花高价请安全团队吗？",
+        "url": "https://mp.weixin.qq.com/s/CB1ABeDSD_2k4UjrVxKJfQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "Langflow 远程代码执行漏洞(CVE-2026-33017) 复现",
+        "url": "https://mp.weixin.qq.com/s/bA4QfIlrLyvFjG_n8ZO0Jg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "泛微 E-cology 10 未授权远程代码执行漏洞分析与安全风险解读",
+        "url": "https://mp.weixin.qq.com/s/OqS-aKp03ywBJczQmq6BPA",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
     }
 ]
