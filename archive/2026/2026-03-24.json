@@ -196,5 +196,17 @@
         "url": "https://mp.weixin.qq.com/s/59sCVVXzG_GA8mfNpczNBA",
         "source": "Doonsec",
         "date_added": "2026-03-24"
+    },
+    {
+        "title": "【成功复现】Langflow 远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/yzJtnx1rEdOVKvFCCco4Yg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
+    },
+    {
+        "title": "QNAP QVR Pro 严重漏洞可导致系统遭远程访问",
+        "url": "https://mp.weixin.qq.com/s/P7CzIurhBXGC8oSxrwKgCg",
+        "source": "Doonsec",
+        "date_added": "2026-03-24"
     }
 ]
