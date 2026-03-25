@@ -250,5 +250,35 @@
         "url": "https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路",
+        "url": "https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！",
+        "url": "https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "[漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106)",
+        "url": "https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "【免费送！】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/4L2-OpUZg0ywKGssj6kVxQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "Butter Cookie——web多功能渗透测试浏览器插件",
+        "url": "https://mp.weixin.qq.com/s/FZy2gRQTudabTiC0HFkzCA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
