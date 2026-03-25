@@ -196,5 +196,23 @@
         "url": "https://mp.weixin.qq.com/s/oNqSBl-n112jnbEEUWrICA",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177)",
+        "url": "https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "从靶场到实战--双一流高校多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/yZ_LVi21yVVvTewMcct3sw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "OpenSSH漏洞列举及防范建议",
+        "url": "https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
