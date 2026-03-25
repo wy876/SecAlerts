@@ -1,0 +1,92 @@
+[
+    {
+        "title": "大华ICC智能物联综合管理平台存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析",
+        "url": "https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第11期",
+        "url": "https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "AI Agent 自动化渗透测试实战分享",
+        "url": "https://mp.weixin.qq.com/s/EUCPTj8joSCMfdLogJiSXg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "BeforeDawn 漏洞管理平台 | 致敬每一个在黎明前守夜的安全人员",
+        "url": "https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "CVE-2026-22733｜Spring Boot存在认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/BUbp9LpDyPUhRAdOdVuiLw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "CVE-2026-33371｜Zimbra存在XML外部实体（XXE）漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "某公司的渗透考核靶场通关记录",
+        "url": "https://mp.weixin.qq.com/s/Vi6-n9hCI04b0CU9-pX2GQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "点赞漏洞",
+        "url": "https://mp.weixin.qq.com/s/C5TWY9B9pZ-ZQN7DXgeHkQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "PolyShell 警报：Magento REST API 严重漏洞面临大规模全球利用",
+        "url": "https://mp.weixin.qq.com/s/cdvx5cZsr6LWTZ3KnghLAQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "从目录删除到RCE：GCP Looker漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "泛微Ecology10未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "CVE-2026-32051：OpenClaw授权绕过漏洞与复现",
+        "url": "https://mp.weixin.qq.com/s/B_mA0fHXlE2RScURPjVo_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "OpenClaw的风险隔离与管控应对，以及渗透测试的报备合规探讨｜总第312周",
+        "url": "https://mp.weixin.qq.com/s/lc4d0SCDTW3I78TipOSFmQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    }
+]
