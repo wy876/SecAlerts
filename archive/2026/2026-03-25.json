@@ -88,5 +88,65 @@
         "url": "https://mp.weixin.qq.com/s/lc4d0SCDTW3I78TipOSFmQ",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.3.16-2026.3.22",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503735&idx=1&sn=2f1ae3388f3a9c703a7606d6b2ca7d44",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "] [QNAP QVR Pro 严重漏洞可导致系统遭远程访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=1&sn=374ba844d9e8b8936f3ab544ef312259",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "] [AI Coding Agent最新攻击总结：7大漏洞利用手法",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508389&idx=1&sn=a3afdb49432f816d071a103ec98add35",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "] [【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "] [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE）",
+        "url": "https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "3月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "谷歌15年累计发放了8160万美元漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "渗透测试（CTF）小工具 -- LSB_steganography（3月25日更新）",
+        "url": "https://mp.weixin.qq.com/s/Qe8lEPzXqMoDaz1DAZwQ1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "深度剖析 Node.js 环境下的 SSRF 漏洞：从原理挖掘到防御体系构建",
+        "url": "https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
