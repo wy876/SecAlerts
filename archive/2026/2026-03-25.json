@@ -214,5 +214,29 @@
         "url": "https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 /Handler/FileSync.ashx 任意文件读取/上传/删除/SSRF等多个漏洞",
+        "url": "https://mp.weixin.qq.com/s/zGBOXjoCwRpb2_652tufXg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！",
+        "url": "https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "WEB渗透安全工程师精英培养计划班（全阶段课程目录）",
+        "url": "https://mp.weixin.qq.com/s/Bnvf_AoscY4Lrlbm6CC4nA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "苹果漏洞利用工具遭公开，数亿台iPhone随时可被静默入侵窃密",
+        "url": "https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
