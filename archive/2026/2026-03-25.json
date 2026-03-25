@@ -280,5 +280,11 @@
         "url": "https://mp.weixin.qq.com/s/FZy2gRQTudabTiC0HFkzCA",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
