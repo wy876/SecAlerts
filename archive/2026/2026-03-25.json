@@ -148,5 +148,23 @@
         "url": "https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "[被忽略的漏洞]sqli-labs之Less-29的另一种玩法",
+        "url": "https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "一款面向实战的渗透测试浏览器插件：信息收集｜XSS/SQL｜端点扫描｜JS 逆向｜Fuzz｜指纹识别｜Shodan",
+        "url": "https://mp.weixin.qq.com/s/6sUwlzhW5anHwSSOaDDDbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "深科特 LEAN MES系统 /Handler/FileSync.ashx 任意文件读取/上传/删除/SSRF等多个漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-FileSync-fileupload-rce-ssrf-filerad.html",
+        "source": "MRXN",
+        "date_added": "2026-03-25"
     }
 ]
