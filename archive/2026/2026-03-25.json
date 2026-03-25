@@ -166,5 +166,17 @@
         "url": "https://mrxn.net/jswz/lean-mes-FileSync-fileupload-rce-ssrf-filerad.html",
         "source": "MRXN",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "【漏洞预警】Litellm 2026.3.24 供应链投毒事件",
+        "url": "https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击",
+        "url": "https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
