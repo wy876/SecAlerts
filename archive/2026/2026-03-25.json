@@ -286,5 +286,17 @@
         "url": "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台",
+        "url": "https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC",
+        "url": "https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
