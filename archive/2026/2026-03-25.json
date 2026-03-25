@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "命令执行：突破Shell命令过滤限制",
+        "url": "https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "CVE-2026-23673 ReFS 越界读分析",
+        "url": "https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家",
+        "url": "https://mp.weixin.qq.com/s/oNqSBl-n112jnbEEUWrICA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
