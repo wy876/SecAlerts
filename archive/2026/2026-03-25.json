@@ -238,5 +238,17 @@
         "url": "https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g",
         "source": "Doonsec",
         "date_added": "2026-03-25"
+    },
+    {
+        "title": "基于Firefox的Claude Code Security实测漏洞发掘",
+        "url": "https://mp.weixin.qq.com/s/VRT-KXKSzwWupH6JdqQIUA",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
+    },
+    {
+        "title": "【漏洞预警】LiteLLM 投毒、Apifox 后门连发，敲响供应链安全警钟",
+        "url": "https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw",
+        "source": "Doonsec",
+        "date_added": "2026-03-25"
     }
 ]
