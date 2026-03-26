@@ -1,0 +1,38 @@
+[
+    {
+        "title": "九篇技术分析归零后，我决定静音45天——真心期待那句“这不是漏洞”",
+        "url": "https://mp.weixin.qq.com/s/0SHlg4d0Mw4Eb-32FIL8hw",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "漏洞复现 | Langflow 远程代码执行漏洞(CVE-2026-33017)",
+        "url": "https://mp.weixin.qq.com/s/aAlGWV4xLj6g8TXmG0k59Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "「SRC新手」burpsuit配置抓特定域名数据包&amp;抓包插件自动收集jsonpXSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/fpgO3evgo-eLogFkEb8sLg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "阿里云 AVD、长亭漏洞库、OSCS、奇安信 |多源实时漏洞监控和推送",
+        "url": "https://mp.weixin.qq.com/s/ofxXtoMWj3srU6qk_zXLZQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "深科特 LEAN MES系统 DownLoad.aspx 任意文件读取漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-DownLoad-fileread.html",
+        "source": "MRXN",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "Claude statusline 自定义配置",
+        "url": "https://mrxn.net/jswz/claude-statusline-stepup.html",
+        "source": "MRXN",
+        "date_added": "2026-03-26"
+    }
+]
