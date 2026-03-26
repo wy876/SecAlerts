@@ -70,5 +70,161 @@
         "url": "https://mrxn.net/jswz/lean-mes-MobileAppLogin-sqli.html",
         "source": "MRXN",
         "date_added": "2026-03-26"
+    },
+    {
+        "title": "一个远程桌面服务权限提升漏洞暗网22万美元",
+        "url": "https://mp.weixin.qq.com/s/JEImkQjAbJBA0fUN1BmhRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【漏洞通告】HCL Traveler存在信息泄露漏洞（CVE-2026-21783）",
+        "url": "https://mp.weixin.qq.com/s/Wr9PMMNLDTqqT_BcLkedmg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【漏洞通告】Ubiquiti UniFi Network Server存在输入验证错误漏洞(CVE-2026-22559)",
+        "url": "https://mp.weixin.qq.com/s/-Hvk95sUCu22yddrHXU-NA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【漏洞通告】sbt存在命令注入漏洞(CVE-2026-32948)",
+        "url": "https://mp.weixin.qq.com/s/H7SJG_c-RNUsM0F7RLm2EA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【漏洞通告】NVIDIA SNAP-4 Container存在拒绝服务漏洞(CVE-2025-33215)",
+        "url": "https://mp.weixin.qq.com/s/5u_lUrv6xlqSfDe1hVzQ7g",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【漏洞通告】NVIDIA SNAP-4 Container存在缓冲区溢出漏洞(CVE-2025-33216)",
+        "url": "https://mp.weixin.qq.com/s/xuN7svsI8nuy-Gz7qmX_aw",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "这个开源工具能自动检查安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/ITHExJkViE5C8fLdXn2EHA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "CSS 也能拿 Shell？解析Chrome在野 0-day 漏洞 CVE-2026-2441",
+        "url": "https://mp.weixin.qq.com/s/is0sxEc7OsQIp8_TpsGTqg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 /Handler/MobileAppLogin.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/E8rEKJRZNNmnKdBaObHGKg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 DownLoad.aspx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/Pyp_x6-3-P47tCkSCyJl_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "[漏洞复现]微力同步-Verysync任意文件读取漏洞(VEID-2026-11111)",
+        "url": "https://mp.weixin.qq.com/s/QtcyJ8ZOS5L_NAeGuKHyTQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "安卓逆向第二阶段正式完结！三阶段来了，EXP开发、Frida与AI逆向机器人、算法还原与模拟、设备指纹与游戏分析。木鱼沙箱内测",
+        "url": "https://mp.weixin.qq.com/s/Kne09IbA0z3MhQaMhTP9lA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "OpenClaw 近期安全漏洞修复汇总报告",
+        "url": "https://mp.weixin.qq.com/s/4TcTXcWzqB0owLgQ9QiwRA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "项目推荐 | 专注于PHP代码审计的Skill",
+        "url": "https://mp.weixin.qq.com/s/qlfnc0gRUBXCHGozQcsF4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "信任劫持：ClawHub漏洞让攻击者轻松刷榜，摇身一变成为热门首选技能",
+        "url": "https://mp.weixin.qq.com/s/SknGzy9tcNL3Yw4R2XbMPg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "从任意文件读取漏洞到getshell",
+        "url": "https://mp.weixin.qq.com/s/TE_JCOzqMiNlseWHEgCRtA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "单向信任不可信？Windows域信任的渗透新途径",
+        "url": "https://mp.weixin.qq.com/s/YSPfugDM5hJBgdizPP-uOg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "CVE-2026-28466：OpenClaw节点调用批准绕过的RCE精解",
+        "url": "https://mp.weixin.qq.com/s/OXt5kzGHhXpyBk1yXGSDSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "Microsoft Authenticator 未认领的 Deep Link：一次完整账号接管的故事（CVE-2026–26123）",
+        "url": "https://mp.weixin.qq.com/s/Dz6OXyUqRq3T4808LeQKQw",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "定向网安从业者投毒攻击：MDUT-Extend-Release数据库渗透测试工具被投毒",
+        "url": "https://mp.weixin.qq.com/s/ybj5selLROUj3OyjhrhT0A",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "漏洞预警 | Apifox 桌面客户端官方 CDN 脚本遭供应链投毒事件",
+        "url": "https://mp.weixin.qq.com/s/Q54zaXV2Pa2Il-EUdfHlSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "强推一个全面的渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s/fPbemF7Ggw4rHU_nBlRjuA",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "【CVE-2026-26123】微软身份认证器 DeepLink 漏洞",
+        "url": "https://mp.weixin.qq.com/s/pQy-TnSj938BhMY4qd7XQg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "从入门到封神：AI 红队渗透 + 漏洞挖掘完整实战手册",
+        "url": "https://mp.weixin.qq.com/s/FTUvEsEbw-NoMgxYjDXhsg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "某物流软件 MsAnnounceController SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/nM2v5Pm37bZN_AXlLtqJ9w",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "丈八网安技术研究：OpenClaw远程代码执行漏洞深度复现",
+        "url": "https://mp.weixin.qq.com/s/Jpd5tmZHv-nOpixIVXkNKQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
     }
 ]
