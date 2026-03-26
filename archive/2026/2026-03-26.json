@@ -64,5 +64,11 @@
         "url": "https://mp.weixin.qq.com/s/3jfefGCUKUgP8Cua5UeWDg",
         "source": "Doonsec",
         "date_added": "2026-03-26"
+    },
+    {
+        "title": "深科特 LEAN MES系统 /Handler/MobileAppLogin.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-MobileAppLogin-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-26"
     }
 ]
