@@ -34,5 +34,35 @@
         "url": "https://mrxn.net/jswz/claude-statusline-stepup.html",
         "source": "MRXN",
         "date_added": "2026-03-26"
+    },
+    {
+        "title": "] [苹果漏洞利用工具遭公开，数亿台iPhone随时可被静默入侵窃密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515729&idx=1&sn=e89ad98e20e9e813c713f2faa4fdd570",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "] [谷歌15年累计发放了8160万美元漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542231&idx=1&sn=90896406142faa119526bff118a833cf",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "] [Claude.ai曝“Claudy Day”漏洞链，聊天链接可被利用窃取敏感数据；工信部印发 2026 年信息通信业安全工作通知，强化全链条安全管控|牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140862&idx=2&sn=9764a27a0247ca0de8469ee6b4950d21",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "] [Trivy漏洞扫描器遭入侵，攻击者通过GitHub Actions分发窃密恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587371&idx=2&sn=f9da0bc552f25720f23340a014c31b66",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-26"
+    },
+    {
+        "title": "OpenClaw 漏洞频发：2026-03-25 再曝权限提升漏洞，可致远程代码执行 | 已复现",
+        "url": "https://mp.weixin.qq.com/s/3jfefGCUKUgP8Cua5UeWDg",
+        "source": "Doonsec",
+        "date_added": "2026-03-26"
     }
 ]
