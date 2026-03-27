@@ -40,5 +40,41 @@
         "url": "https://mp.weixin.qq.com/s/VrbuihpsTm-KIvZfw-0dLg",
         "source": "Doonsec",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [TP-Link：速修复这个严重的路由器认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=1&sn=c3b2f7032bfd43bff06a8e5940645966",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [Citrix：尽快修复这两个 NetScaler 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=2&sn=1cd600c5708dc44ab8e2421ef606e780",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [OpenClaw安全实战系列二：白名单也防不住？复盘CVE-2026-28363授权绕过全过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499691&idx=1&sn=9a5c0303bdfcc6f525fdcc2db947beb8",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [快来看，编辑器正在帮我挖漏洞啦！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500501&idx=1&sn=5c53d57ac297669909b6cf318e1d66cf",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [安卓逆向第二阶段正式完结！三阶段来了，EXP开发、Frida与AI逆向机器人、算法还原与模拟、设备指纹与游戏分析。木鱼沙箱内测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485085&idx=1&sn=967334ef09adfaa7d93c6b34c7a9ed6c",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "] [OpenClaw 近期安全漏洞修复汇总报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511501&idx=1&sn=dee1f9ede8c0605190a859354bb8cbdd",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-27"
     }
 ]
