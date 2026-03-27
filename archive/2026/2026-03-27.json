@@ -1,0 +1,44 @@
+[
+    {
+        "title": "【漏洞复现】Langflow CSV Agent 任意代码执行（CVE-2026-27966）",
+        "url": "https://mp.weixin.qq.com/s/j7VCXJLAjKnFex9pogUz3g",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "私有内容IDOR漏洞",
+        "url": "https://mp.weixin.qq.com/s/KCnE2dubNtqqbyduSud_DA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "漏洞复现 | 博硕BGM Upload.ashx 存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/d7F6boeSpVGMMI8HXIDsYA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "SourceInsight4.0 最新4.00.0150 2026版本 破解分析",
+        "url": "https://mp.weixin.qq.com/s/orMOHdDVMko29TMaGB9nxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "一张图片 = 拿下网站？文件上传漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/Mq5QbqtIs8HUv66Zh5ya_Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "漏洞预警 | Langflow远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Dt0y3O09kCBEiAX3tuKlpg",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/VrbuihpsTm-KIvZfw-0dLg",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    }
+]
