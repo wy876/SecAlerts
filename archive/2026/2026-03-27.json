@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/wtOi3gVf0JYSZ-GIkcjT5Q",
         "source": "Doonsec",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "记一次渗透赌博棋牌APP",
+        "url": "https://mp.weixin.qq.com/s/PpxDYVtZgAWbjNn4CZNLFw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "AI用户务必关注，Langflow未授权RCE分析（CVE-2026-33017）",
+        "url": "https://mp.weixin.qq.com/s/4QPl-M9RnQuufeTdA5FX-A",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
     }
 ]
