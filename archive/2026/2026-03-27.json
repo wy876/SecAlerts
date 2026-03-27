@@ -184,5 +184,41 @@
         "url": "https://mp.weixin.qq.com/s/fhPtLqJLKbzQMhtR-K9yYg",
         "source": "Doonsec",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "WuRen-MVP——ai渗透测试系统（可结合kali）",
+        "url": "https://mp.weixin.qq.com/s/p7KeCa4_JxUF1rl0CjPPQA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "信息安全漏洞周报【第067期】",
+        "url": "https://mp.weixin.qq.com/s/4gQuOELNxWHLo839uL37MQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "新的 Windows 错误报告漏洞允许攻击者升级以获得系统访问权限",
+        "url": "https://mp.weixin.qq.com/s/IyAA2ODg1nY1u8XQyEdtWA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "Burpsuite-MCP，使用大模型挖漏洞做赛题，最详细教学来了",
+        "url": "https://mp.weixin.qq.com/s/FYOdgoWKCIrGWMO4CZja_A",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入",
+        "url": "https://mp.weixin.qq.com/s/ujz2zjQP_hb6drRwCi6i5g",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "思科安全防火墙漏洞可导致攻击者以root权限远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/iINM32Qqy-AX0CDdTouFIw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
     }
 ]
