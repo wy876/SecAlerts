@@ -76,5 +76,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511501&idx=1&sn=dee1f9ede8c0605190a859354bb8cbdd",
         "source": "BruceFeIix",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "NVIDIA 严重漏洞可导致远程代码执行和拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/c8Pr49RGAQcT4gE8PAKImw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "CVE-2010-1870",
+        "url": "https://mp.weixin.qq.com/s/ft8s_vuxIVocovRvyjIEOw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "CVE-2026-20079 - Cisco FMC 身份验证绕过远程代码执行分析",
+        "url": "https://mp.weixin.qq.com/s/oJnKz91e1sHvQhkWDH5LxA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "CVE-2026-20817 - Windows错误报告中缺失授权检查的分析 POC",
+        "url": "https://mp.weixin.qq.com/s/py1hnY9cfJw3_smzaJ2uXw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "深科特 LEAN MES系统 PrintUpdate.ashx 任意文件读取/上传/删除漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-PrintUpdate-fileupload-rce-fileread.html",
+        "source": "MRXN",
+        "date_added": "2026-03-27"
     }
 ]
