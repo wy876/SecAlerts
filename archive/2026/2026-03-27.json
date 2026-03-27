@@ -106,5 +106,29 @@
         "url": "https://mrxn.net/jswz/lean-mes-PrintUpdate-fileupload-rce-fileread.html",
         "source": "MRXN",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "孚盟云 upload.ashx image SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/qOvzcnmIu8NPL-PEcPYJzw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "前端JS审计：渗透测试的“破局之钥”",
+        "url": "https://mp.weixin.qq.com/s/pLBc_JSIi09H9xf1RU0ovg",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "当Linux服务器扫出iis漏洞",
+        "url": "https://mp.weixin.qq.com/s/e21rnLoFSnTUmf4WloRqDQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "Stackfield 桌面应用任意文件写入导致远程代码执行漏洞分析 (CVE-2026-28373)",
+        "url": "https://mp.weixin.qq.com/s/wtOi3gVf0JYSZ-GIkcjT5Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
     }
 ]
