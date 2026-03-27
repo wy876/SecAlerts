@@ -142,5 +142,47 @@
         "url": "https://mp.weixin.qq.com/s/4QPl-M9RnQuufeTdA5FX-A",
         "source": "Doonsec",
         "date_added": "2026-03-27"
+    },
+    {
+        "title": "OpenAI重金悬赏AI滥用漏洞，50%复现即算有效",
+        "url": "https://mp.weixin.qq.com/s/Z0Szj4BBrPIeAHVh0ZucRw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "AI被人下蛊了！这6个漏洞比你想的恐怖100倍",
+        "url": "https://mp.weixin.qq.com/s/x316x2uD8v0ql8Vn2yvjug",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "OpenAI 发布AI安全漏洞奖励计划",
+        "url": "https://mp.weixin.qq.com/s/jJrwgDN6rC3q2beEG-LhpQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "20小时即被武器化！Langflow致命漏洞CVE-2026-33017",
+        "url": "https://mp.weixin.qq.com/s/WaIPXsW3f201ppHlgvsaSA",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年3月23日-3月27日）",
+        "url": "https://mp.weixin.qq.com/s/jnk0D6FlxLlVohP2gQ9oDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "【免费领】全网收录最全：Web漏洞检测及修复方案手册",
+        "url": "https://mp.weixin.qq.com/s/ESMm3b6D5ji3U3ABhFxHbQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
+    },
+    {
+        "title": "龙王 claw 自动化审计 0day 挑战直播来袭！",
+        "url": "https://mp.weixin.qq.com/s/fhPtLqJLKbzQMhtR-K9yYg",
+        "source": "Doonsec",
+        "date_added": "2026-03-27"
     }
 ]
