@@ -148,5 +148,11 @@
         "url": "https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
