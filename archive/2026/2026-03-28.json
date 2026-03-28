@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "渗透测试和红队的关键差别",
+        "url": "https://mp.weixin.qq.com/s/8EdEMIdxZckbWc7gMYGGcQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用",
+        "url": "https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
