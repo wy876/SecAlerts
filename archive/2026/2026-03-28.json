@@ -130,5 +130,17 @@
         "url": "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管",
+        "url": "https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "反思您的分层模型：CVE-2025-33073 和单跳问题",
+        "url": "https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
