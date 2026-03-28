@@ -1,0 +1,50 @@
+[
+    {
+        "title": "瑞斯康达Raisecom智能网关 list_base_config 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/PApTROH77SN3nQSEqSfkXA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "每周漏洞情报速览｜2026.03.21–03.27",
+        "url": "https://mp.weixin.qq.com/s/jT0f-oyFlRjHBTXHBEeuZA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "紧急预警！2026 年 3 月这 5 个高危漏洞正在收割你的数据",
+        "url": "https://mp.weixin.qq.com/s/YLJyJK1IxBYt4PmC4snReQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "漏洞复现 | Tosei自助洗衣机 network_test.php 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/5VrsFyU97ncLC0bXY9dDGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "2026 红队终极渗透指南：漏洞利用 + 权限维持 + EDR 绕过，全程干货 | 打点 | 撕口子 | 渗透测试 | Web安全",
+        "url": "https://mp.weixin.qq.com/s/fIijPpB5VIKTytqdVO8mCQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "OpenClaw 近期安全漏洞修复汇总",
+        "url": "https://mp.weixin.qq.com/s/MHsaEIAjpdlSDyrgGsK8Ww",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "你配置的AI白名单一文不值：CVE-2026-28363让OpenClaw授权控制全面失效",
+        "url": "https://mp.weixin.qq.com/s/uNiKLvCRAEjtL5KnLn0BsA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "2026年Q1网络安全威胁深度分析：AI驱动攻击、供应链漏洞与防御策略升级",
+        "url": "https://mp.weixin.qq.com/s/iuRyip2HuthovZU1gEhCJA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    }
+]
