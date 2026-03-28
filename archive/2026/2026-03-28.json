@@ -118,5 +118,11 @@
         "url": "https://mrxn.net/jswz/lean-mes-TestManagePlatform-sqli.html",
         "source": "MRXN",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "WordPress CMS Commander 插件SQL漏洞  | CVE-2026-3334概念复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
