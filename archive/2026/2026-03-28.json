@@ -142,5 +142,11 @@
         "url": "https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
