@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s/zJ6JpckKcMYV5fUYNaaP8g",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "内推 | 南京某金融驻场代码审计岗，速投！",
+        "url": "https://mp.weixin.qq.com/s/j-BJuWv8zGkLd8hOfi9F0g",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
+    },
+    {
+        "title": "深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-TestManagePlatform-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-03-28"
     }
 ]
