@@ -124,5 +124,11 @@
         "url": "https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w",
         "source": "Doonsec",
         "date_added": "2026-03-28"
+    },
+    {
+        "title": "灾难公式：串联EspoCRM脚本引擎实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-28"
     }
 ]
