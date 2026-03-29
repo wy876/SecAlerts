@@ -10,5 +10,101 @@
         "url": "https://mp.weixin.qq.com/s/wZa2CmQ0JmDB1kaDYmuWpA",
         "source": "Doonsec",
         "date_added": "2026-03-29"
+    },
+    {
+        "title": "【0day】深科特 LEAN MES系统 UploadHander.ashx 文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/B13sKATcVtr_Zx1o0OTM0Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "EDU攻防实战：对山东某高校的线下渗透+近源复盘②",
+        "url": "https://mp.weixin.qq.com/s/aMU_qWmaiwiw-GTBTSWW0w",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "5200万次下载，三个高危漏洞：你的AI应用正在\\\"裸奔\\\"吗？",
+        "url": "https://mp.weixin.qq.com/s/m0LjAX6cVyPs10fQ0BFxgQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "瞄准即时通讯：DVRTC 漏洞实验室指南",
+        "url": "https://mp.weixin.qq.com/s/3WcbmoScxykEVR-jj5VLsw",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "内网渗透(十一)：委派攻击",
+        "url": "https://mp.weixin.qq.com/s/2KJymRifDnYBWDNr5HPPNA",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛，Linux内核也未能幸免",
+        "url": "https://mp.weixin.qq.com/s/TTrtjFmQAgsRsLr_1wJXdg",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "BIND 9个安全漏洞允许攻击者绕过安全控制并导致服务器崩溃",
+        "url": "https://mp.weixin.qq.com/s/u70vB0h_qO4Dsbr9xlSnBg",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "AI赋能代码审计总结2-OpenClaw Skill 在Java代码审计中的应用",
+        "url": "https://mp.weixin.qq.com/s/aj5RcVF5oS7nEFpjvV6sdg",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "卡数据包的并发漏洞",
+        "url": "https://mp.weixin.qq.com/s/FsQrG1IoJ_1YvPJ-W1vkoQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "Magento PolyShell 漏洞分析：从任意文件上传到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/CMTONs0DYNaV3w-KZwfoGg",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "分享druid通用漏洞nday利用姿势",
+        "url": "https://mp.weixin.qq.com/s/KVCBM9ozbhMak8PaXSPsDw",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "CVE-2026-20963｜Microsoft SharePoint远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/5nCqMadwKlIYtBvGqC86jQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "CVE-2026-3055｜Citrix NetScaler ADC和NetScaler Gateway内存越界读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/PAYwTbzyK0bvNpCRHBMC_w",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：F5 BIG-IP 漏洞已被积极用于攻击",
+        "url": "https://mp.weixin.qq.com/s/6iA6sknfVQhvjKA9HojMJw",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+        "url": "https://mp.weixin.qq.com/s/Etpy9YrD-LJ_kyTpA3abhA",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
+    },
+    {
+        "title": "CORS 跨域漏洞攻防实战：靶场复现 + POC 编写 + 防御配置",
+        "url": "https://mp.weixin.qq.com/s/6It75fU3zzD6_a6l6bsXHg",
+        "source": "Doonsec",
+        "date_added": "2026-03-29"
     }
 ]
