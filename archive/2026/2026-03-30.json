@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s/MtOT_uhgbq65m21x3soiEg",
         "source": "Doonsec",
         "date_added": "2026-03-30"
+    },
+    {
+        "title": "【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876）",
+        "url": "https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
     }
 ]
