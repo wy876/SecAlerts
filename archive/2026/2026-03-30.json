@@ -40,5 +40,17 @@
         "url": "https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw",
         "source": "Doonsec",
         "date_added": "2026-03-30"
+    },
+    {
+        "title": "【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055",
+        "url": "https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "从472起事件解码2025威胁全景：攻击进入精准渗透时代（附报告下载）",
+        "url": "https://mp.weixin.qq.com/s/MtOT_uhgbq65m21x3soiEg",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
     }
 ]
