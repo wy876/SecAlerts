@@ -58,5 +58,35 @@
         "url": "https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA",
         "source": "Doonsec",
         "date_added": "2026-03-30"
+    },
+    {
+        "title": "记母校漏洞测试一次waf绕过经历",
+        "url": "https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "一站式渗透测试工具|自动识别微信小程序、反编译分析、提取敏感信息，搭配多引擎测绘",
+        "url": "https://mp.weixin.qq.com/s/vuIbfX_RQkfCcL0Ptn8xcw",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "工具推荐 | Payloader 渗透测试辅助平台，集成了300+ 条涵盖Web与内网的攻防载荷。",
+        "url": "https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法",
+        "url": "https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "工具推荐 |  UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描",
+        "url": "https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
     }
 ]
