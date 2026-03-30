@@ -1,0 +1,26 @@
+[
+    {
+        "title": "【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017）",
+        "url": "https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险",
+        "url": "https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "手把手CNVD从资产收集到通杀漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    },
+    {
+        "title": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持",
+        "url": "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
+    }
+]
