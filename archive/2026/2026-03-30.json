@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA",
         "source": "Doonsec",
         "date_added": "2026-03-30"
+    },
+    {
+        "title": "亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-30"
     }
 ]
