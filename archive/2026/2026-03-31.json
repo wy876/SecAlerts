@@ -40,5 +40,77 @@
         "url": "https://mp.weixin.qq.com/s/9pkBn5-z4CI5J4U42ezoHA",
         "source": "Doonsec",
         "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [CISA要求三天内修复这个严重的 F5 BIG-IP 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=1&sn=3596dc720ddc3cfdb3245a4b7597f249",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [n8n 两个严重 RCE 漏洞利用使工作流沦为后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [Telegram 9.8 分零日漏洞警示：富媒体时代，即时通讯的安全红线在哪？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165759&idx=1&sn=7f3fe29c27a207f74884508598380179",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [【安全圈】Telegram 遭遇严重 0-day 漏洞，CVSS 评分高达 9.8 分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075204&idx=2&sn=f5c0bfeaf0614eabe75d0b22d42892c3",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525189&idx=1&sn=2458d6bc7b6b65d61cd8c40e38e13933",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [34万星系统破防！360漏洞挖掘智能体揪出OpenClaw高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585581&idx=1&sn=0b75e5a0293241e114a4f9a5165ab903",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第12期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=1&sn=2db62d67bc97271b6af9bf9845928dc2",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260323-20260329)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=2&sn=bfe39e048853c801b423b3c8d8b6b845",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "] [Apache ActiveMQ漏洞导致LockBit勒索软件攻击事件分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489546&idx=1&sn=c5c6a044f6ddc321b2897d9ce70a3c9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "CNVD发布上周关注度较高的产品安全漏洞；伊朗黑客组织 Handala 宣称入侵 FBI 局长邮箱 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/-UihXBhOT0TMXRsE5bUHyw",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "全球使用最广泛的 AI Agent 编排框架爆三个高危/严重漏洞｜蓝队防御指南",
+        "url": "https://mp.weixin.qq.com/s/UuGKD7KX4edvboCe9sgqvw",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "深科特 LEAN MES系统 CreateMenus.aspx 任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-CreateMenus-fileuplaod-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-03-31"
     }
 ]
