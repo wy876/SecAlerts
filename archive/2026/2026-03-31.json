@@ -160,5 +160,41 @@
         "url": "https://mp.weixin.qq.com/s/mN88lh-hIDXWSlT2wrXTgg",
         "source": "Doonsec",
         "date_added": "2026-03-31"
+    },
+    {
+        "title": "ChatGPT漏洞允许攻击者静默窃取用户提示和其他敏感数据",
+        "url": "https://mp.weixin.qq.com/s/H7cmOrQrOSS0okqLPRL5Ow",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "WordPress插件漏洞导致超过80万个网站的敏感数据泄露",
+        "url": "https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "【安全圈】360漏洞挖掘智能体发现OpenClaw高危漏洞，或波及全球17万实例",
+        "url": "https://mp.weixin.qq.com/s/9cYnq44HEq2P8qbIp9Lqhw",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "Nicholas Carlini：当 AI 比所有人都更擅长找漏洞，安全行业还剩几个月？",
+        "url": "https://mp.weixin.qq.com/s/-IlkOX3V6Lhj_2kyjP3sUw",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）",
+        "url": "https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认",
+        "url": "https://mp.weixin.qq.com/s/FRj3m8Nqv2x5KNK5pSQadg",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
     }
 ]
