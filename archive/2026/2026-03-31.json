@@ -130,5 +130,35 @@
         "url": "https://mp.weixin.qq.com/s/PFv4b1LA_Ire3gwOkbxbgA",
         "source": "Doonsec",
         "date_added": "2026-03-31"
+    },
+    {
+        "title": "上百个C#工具用来渗透？我来给你说一说这段故事（上）",
+        "url": "https://mp.weixin.qq.com/s/7PDqppH80GLDqbAfBIi0Ig",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "【高危漏洞预警】vim存在RCE漏洞（CVE-2026-34714）",
+        "url": "https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Vim 代码执行漏洞(CVE-2026-34714)",
+        "url": "https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "OpenAI 紧急修复：ChatGPT 暗藏数据外泄漏洞",
+        "url": "https://mp.weixin.qq.com/s/GxEpuuXko9C-LTrNRN8e4g",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
+    },
+    {
+        "title": "CVE-2025-33073与“一跳”问题：重新审视你的分层模型",
+        "url": "https://mp.weixin.qq.com/s/mN88lh-hIDXWSlT2wrXTgg",
+        "source": "Doonsec",
+        "date_added": "2026-03-31"
     }
 ]
