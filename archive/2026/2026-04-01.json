@@ -1,0 +1,128 @@
+[
+    {
+        "title": "信息安全漏洞周报（2026年第13期）",
+        "url": "https://mp.weixin.qq.com/s/j4x2xrX-8rLDdXC8c9U1_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "泛微ecology 历史漏洞浅析(一)",
+        "url": "https://mp.weixin.qq.com/s/2BVjH31Zy6re8a4cB8p3JA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "皮皮宋渗透日记17｜Shiro 反序列化漏洞：原理、利用与防御全解析",
+        "url": "https://mp.weixin.qq.com/s/B95k1CWe83MZLXUcLHCKkw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "EDUSRC越权漏洞通杀30rank实战案例",
+        "url": "https://mp.weixin.qq.com/s/gdJj0cmBIp1tOfpSfA9PRA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "关键 Fortinet FortiClient EMS 漏洞遭利用，可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/lbdEwVQABntk4BBRfKGVaA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "紧急警报：NetScaler 漏洞 CVE-2026-3055 遭攻击者探测，或导致敏感数据泄露",
+        "url": "https://mp.weixin.qq.com/s/67txgBAUTT9F2JmMRKDzmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "[漏洞复现]点晴MIS管理信息系统login_out.asp存在SQL注入漏洞(VEID-2025-1205)",
+        "url": "https://mp.weixin.qq.com/s/r1unqCYMisj-c0RYcvHIsw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "漏洞复现 | 美特CRM sendfile.jsp 存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/axP2bHKajuECqkdxib-IUw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "智能网联汽车漏洞管理实践探索",
+        "url": "https://mp.weixin.qq.com/s/QfOixP4umzn0aFVLHG5nHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "漏洞预警 | vLLM远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/VquumwtaLN9X8gG0Msvl_w",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "漏洞预警 | LEAN MES系统任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/l6s6o284UMMfDQ3a1w4BVA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "漏洞环境 | PaperLab",
+        "url": "https://mp.weixin.qq.com/s/wKzZNcaFmNGzyjk3zlyAXQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "Claude Code 源码：要是能重来 | 聊聊 Source Map 泄露这件小事",
+        "url": "https://mp.weixin.qq.com/s/b-Y4JXinfXJZmsJKvBvfpg",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "预警情报:linux的Telnet 服务root 权限远程代码执行编号:CVE-2026-32746附POC",
+        "url": "https://mp.weixin.qq.com/s/nzeYkCTF6fFOqkhDN-fyRQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "利用Claude AI挖掘Vim和Emacs 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/IZ1vhbb9uArjysOHlmEYAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "从模板到提交到管理POC：VSCode 插件简化 POC 全流程",
+        "url": "https://mp.weixin.qq.com/s/euKnHxD0p2cX9fpmmQWxPw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "威胁通缉令 · 红桃4丨RDP Client RCE漏洞（新增）",
+        "url": "https://mp.weixin.qq.com/s/jDqCPbON8fWbhzJYALrQ4w",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "TA446 在针对性鱼叉式网络钓鱼活动中部署 DarkSword iOS 漏洞套件",
+        "url": "https://mp.weixin.qq.com/s/hvxxw4AzXAQo-HAZuBZZ7g",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "一句话让 AI 挖出两个编辑器零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/9wTCdNYmx7alu_YelzwMyw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "因酷教育软件 queryUserById 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/nA6_ieBzRf85s6rCULDHIQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "新思路！支付漏洞实战案例分享：低价薅高价商品",
+        "url": "https://mp.weixin.qq.com/s/cWFZTGjWa1kNJ2ZJuT96SA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    }
+]
