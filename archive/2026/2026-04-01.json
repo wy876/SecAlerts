@@ -124,5 +124,107 @@
         "url": "https://mp.weixin.qq.com/s/cWFZTGjWa1kNJ2ZJuT96SA",
         "source": "Doonsec",
         "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.3.23-2026.3.29",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503742&idx=1&sn=cc4e84af64875685998a079b34941f9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [Telegram 否认这个零点击高危 0day 漏洞的存在",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525587&idx=1&sn=402fc52dcbd813d3c5d2c26bf077fab0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [Grafana 多个严重漏洞可用于实现 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525587&idx=2&sn=a18525fe72676659d744674b7d8fdd16",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612921&idx=3&sn=645d2addefbbd1fa075e998b38bdb0dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [【已复现】Vim 代码执行漏洞(CVE-2026-34714)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504921&idx=1&sn=fd2fbb100f4d90fbd6aeca192a15d929",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [【安全圈】360漏洞挖掘智能体发现OpenClaw高危漏洞，或波及全球17万实例",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075253&idx=2&sn=1c58b6f95327d26411281829e92a8fcd",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [CNVD发布上周关注度较高的产品安全漏洞；伊朗黑客组织 Handala 宣称入侵 FBI 局长邮箱 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140924&idx=2&sn=a899a782f7de03f6f3f5e3296760e67b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [360漏洞挖掘智能体揪出OpenClaw新高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542414&idx=3&sn=3cc41f3c83cc4c87344c7bef5e5d8d91",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [VoidStealer恶意软件利用调试器漏洞窃取Chrome主密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587479&idx=1&sn=7756cf1662db5725ee22be9a7eba7df8",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [嘶吼安全动态｜全国网安标委发布关于征集个人信息保护标准应用实践案例的通知 AI工作流工具Langflow曝未授权RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587479&idx=2&sn=94638a85f8dd5ec785e150589e6d3b0e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第12期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501368&idx=1&sn=ebfcad9dc22f95a2407acca0cfcec9ba",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "MAD Bugs：Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并获得了 Root Shell 权限 (CVE-2026-4747)",
+        "url": "https://mp.weixin.qq.com/s/pv7IH5r9BT-FL48oow1tPw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "第二届腾讯云黑客松智能渗透挑战赛等你来战！",
+        "url": "https://mp.weixin.qq.com/s/Yc6zF8mdzRRYWoHVZg2JaQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "威胁通缉令 · 红桃5丨CitrixBleed 2漏洞（新增）",
+        "url": "https://mp.weixin.qq.com/s/zwkRUQjlC1rJ8KgY3chrUw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "畅捷通T+ DownLoadBlockFile 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/SEZhf7OjWFFYsairfgCD8Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34714",
+        "url": "https://mp.weixin.qq.com/s/AZk9_JfUMYkTQrgvtZ8WWg",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "深科特 LEAN MES系统 AutoComplete.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-AutoComplete-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-01"
     }
 ]
