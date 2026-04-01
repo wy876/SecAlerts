@@ -286,5 +286,11 @@
         "url": "https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ",
         "source": "Doonsec",
         "date_added": "2026-04-01"
+    },
+    {
+        "title": "Smart Slider 3 WordPress 插件任意文件读取漏洞 | CVE-2026-3098复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/Y8lidlMnLlL1uwsEUGaxzw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
     }
 ]
