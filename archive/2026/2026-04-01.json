@@ -238,5 +238,41 @@
         "url": "https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ",
         "source": "Doonsec",
         "date_added": "2026-04-01"
+    },
+    {
+        "title": "【附POC及复现环境】Vim 1-click代码执行漏洞复现 (CVE-2026-34714)",
+        "url": "https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "【在野利用】Google Chrome Dawn 释放后重用漏洞(CVE-2026-5281)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "今晚开始，查询XVI扩展漏洞情报免费了",
+        "url": "https://mp.weixin.qq.com/s/MejtNOZLPG2zJq2FtqtL1A",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "【在野漏洞预警】Chrome浏览器沙箱逃逸漏洞（CVE-2026-5281）",
+        "url": "https://mp.weixin.qq.com/s/C93W5Hlmn6YWxWDgNZj4Qw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "利用邮箱漏洞寻找突破口打穿目标内网",
+        "url": "https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-01"
     }
 ]
