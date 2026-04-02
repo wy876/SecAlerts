@@ -124,5 +124,41 @@
         "url": "https://mp.weixin.qq.com/s/7SHF5tJublgZAWFbv1I9wA",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "今晚开始，查询XVI扩展漏洞情报免费了",
+        "url": "https://mp.weixin.qq.com/s/RJRB2yeUHy3A2jfPCKjZZw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "猎影渗透测试平台 - 公开测试上线-重点说清楚：这是测试版。",
+        "url": "https://mp.weixin.qq.com/s/21QaeKdBnFe8U237e3GBag",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "【漏洞通告】Google Chrome Dawn 释放后重用漏洞（CVE-2026-5281）",
+        "url": "https://mp.weixin.qq.com/s/r1RdR60LkwR5-i6sFGk1nQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "【漏洞通告】Vim modeline 沙箱绕过命令执行漏洞(CVE-2026-34982)",
+        "url": "https://mp.weixin.qq.com/s/TmjWLJhNSmZvjLsvWOKw2Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "【漏洞通告】Google Chrome Dawn Use-After-Free漏洞(CVE-2026-5281)",
+        "url": "https://mp.weixin.qq.com/s/3GE8go841jaSCu6GuoJ8yg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "一个零基础小白，如何从啥都不会到挖到人生第一个漏洞？",
+        "url": "https://mp.weixin.qq.com/s/m5dJxRB2yxlXjJTjpgclxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
