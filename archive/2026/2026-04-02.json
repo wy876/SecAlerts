@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/hXPIZ2WYp-m2h5wy5bVxdg",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "【已复现】Vim 又一 RCE 漏洞(CVE-2026-34982)：利用存在限制条件",
+        "url": "https://mp.weixin.qq.com/s/7SHF5tJublgZAWFbv1I9wA",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
