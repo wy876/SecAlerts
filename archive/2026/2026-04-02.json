@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "赛门铁克DLP代理漏洞允许攻击者提升权限",
+        "url": "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
+        "url": "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
