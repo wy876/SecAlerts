@@ -160,5 +160,59 @@
         "url": "https://mp.weixin.qq.com/s/m5dJxRB2yxlXjJTjpgclxw",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Vertex AI 漏洞暴露谷歌云数据和非公开制品",
+        "url": "https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "libpng 官方参考库中的这两个严重漏洞已存在30年之久",
+        "url": "https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Telegram零日漏洞可零点击接管设备，官方否认存在",
+        "url": "https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统",
+        "url": "https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑",
+        "url": "https://mp.weixin.qq.com/s/DvqG__lhTNz8YWouGAwNUw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982",
+        "url": "https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714）",
+        "url": "https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
