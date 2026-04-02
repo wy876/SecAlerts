@@ -250,5 +250,11 @@
         "url": "https://mp.weixin.qq.com/s/1D3df-ILs_Z-cMTihz-ATA",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究",
+        "url": "https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
