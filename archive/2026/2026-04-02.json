@@ -64,5 +64,59 @@
         "url": "https://mrxn.net/jswz/lean-mes-ChooseImage-fileupload-rce-filedel.html",
         "source": "MRXN",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "国家计算机病毒应急处理中心通报：13 类个人信息违规行为集中曝光；CNNVD 2026年第 13 期漏洞周报：AI 与 WordPress 成重灾区| 牛览",
+        "url": "https://mp.weixin.qq.com/s/3crKhu_fmFDh3iWLuWgDew",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面",
+        "url": "https://mp.weixin.qq.com/s/bt58jVwrZHn08dSaVDPfqg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "JAVA代码审计 | 记录第一次命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/aF6CsYKNXC0m9Khs74F2jQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "对以前的地图api漏洞做点小补充",
+        "url": "https://mp.weixin.qq.com/s/E8ixVURFi7PmvOylrkjWEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Windows MS-RPC 漏洞利用开发",
+        "url": "https://mp.weixin.qq.com/s/xrCCuvr2Mngi3SqyGk9XCQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "海康威视IP网络对讲广播系统敏感信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/S40SDFLeqPlms-lQOPwj0A",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第四期）",
+        "url": "https://mp.weixin.qq.com/s/9C51UbUnNg2b4Sq-jUri-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "安全快报 | 东南亚政府机构因TrueConf视频会议软件0day漏洞存在高危安全风险",
+        "url": "https://mp.weixin.qq.com/s/l_zFxva3QXHDDmlmQhQTkg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "Ilevia EVE X1 Server login.php 身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/hXPIZ2WYp-m2h5wy5bVxdg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
     }
 ]
