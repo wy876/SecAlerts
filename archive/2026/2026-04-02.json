@@ -16,5 +16,53 @@
         "url": "https://mp.weixin.qq.com/s/336CcmNzC50-mYvAxppZGA",
         "source": "Doonsec",
         "date_added": "2026-04-02"
+    },
+    {
+        "title": "] [AI一句话挖出Vim RCE？还缺亿点点细节",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508518&idx=1&sn=f6a96ec06480962b7fd83fa0c8baf4fc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "] [【安全圈】请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075285&idx=3&sn=5b9f8a46ba792cd92b902840f2b22187",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "] [嘶吼安全动态｜国家计算机病毒应急处理中心通报71款违法违规收集使用个人信息的APP OpenAI Code爆出严重漏洞：黑客可劫持GitHub访问令牌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587498&idx=2&sn=b03bc0d15554223016a1711586de1a72",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "利用 CVE-2025-49825（Teleport 中的身份验证绕过漏洞）",
+        "url": "https://mp.weixin.qq.com/s/21Ayr2PuXvT_2O__PfuHLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "白帽收藏！截至2026 年国内可提交漏洞拿赏金平台大全",
+        "url": "https://mp.weixin.qq.com/s/k3eFVjkAgF79v9Uu1AVnwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "漏洞复现 | 灵当CRM XlsFileUpload.php 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/pM9TF2cSPiBT0T3aNqRrDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "谷歌修复2026年第四个遭主动利用的Chrome零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/_6CCau6pMus_QEeSETsK3g",
+        "source": "Doonsec",
+        "date_added": "2026-04-02"
+    },
+    {
+        "title": "深科特 LEAN MES系统 ChooseImage.aspx 任意文件上传/删除漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-ChooseImage-fileupload-rce-filedel.html",
+        "source": "MRXN",
+        "date_added": "2026-04-02"
     }
 ]
