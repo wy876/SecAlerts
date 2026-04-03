@@ -232,5 +232,29 @@
         "url": "https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w",
         "source": "Doonsec",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器",
+        "url": "https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃",
+        "url": "https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "苹果发布iOS 18.7.7更新以防御DarkSword漏洞",
+        "url": "https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "星巴克漏洞事件",
+        "url": "https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
     }
 ]
