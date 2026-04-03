@@ -52,5 +52,65 @@
         "url": "https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg",
         "source": "Doonsec",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "] [Vertex AI 漏洞暴露谷歌云数据和非公开制品",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=1&sn=c92b1cfa77120afb058a49b0490a079b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "] [libpng 官方参考库中的这两个严重漏洞已存在30年之久",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=2&sn=5b4bcf1e200cad3b1abc1fb6e2e578d6",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "] [代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587521&idx=1&sn=14494dcb432adab394c111df7172d184",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "] [今晚开始，查询XVI扩展漏洞情报免费了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495359&idx=1&sn=3b8689b390d9732455daa904ba659532",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "] [【漏洞通告】Google Chrome Dawn 释放后重用漏洞（CVE-2026-5281）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525235&idx=1&sn=563a4d108e95fcc2e7dc4594454957e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "白帽挖漏洞，看这1篇就够了，12年老司机的经验",
+        "url": "https://mp.weixin.qq.com/s/f0xTHde1OM6IysrOZDyW9Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "首发自动化渗透、代码审计、CTF、流量分析等安全相关的skills收集仓库",
+        "url": "https://mp.weixin.qq.com/s/u98qj6MNNslUJ-SU5Kaq4w",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "使用burpsuite插件如何无脑挖的第一个公益漏洞（小白挖洞）",
+        "url": "https://mp.weixin.qq.com/s/lAAppfkpz9Kzm9ivM7oVDg",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "【2026最新版】全网最全网络攻防教程（0基础到进阶、漏洞挖掘、CTF比赛、护网行动、就业等等）",
+        "url": "https://mp.weixin.qq.com/s/wNRCf72FjXkpzxX-TfYEHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-03"
     }
 ]
