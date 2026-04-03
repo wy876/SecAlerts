@@ -154,5 +154,41 @@
         "url": "https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA",
         "source": "Doonsec",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "安全热点周报：谷歌修复了第四个在 2026 年被利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "告别\\\"假闭环\\\"，看大型央企的漏洞管理真实践",
+        "url": "https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "CNNVD | 通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "安全预警丨OpenClaw 多项高危安全漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "一次渗透学员母校捡漏通杀？",
+        "url": "https://mp.weixin.qq.com/s/itoWbHHrelIkj4fVkfUQKA",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "苹果扩展iOS 18.7.7更新到更多设备以阻止暗剑漏洞",
+        "url": "https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
     }
 ]
