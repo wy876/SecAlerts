@@ -256,5 +256,11 @@
         "url": "https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA",
         "source": "Doonsec",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "CLIProxyAPI /v1internal:method 未授权访问漏洞",
+        "url": "https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html",
+        "source": "MRXN",
+        "date_added": "2026-04-03"
     }
 ]
