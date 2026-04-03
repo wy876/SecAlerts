@@ -262,5 +262,17 @@
         "url": "https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html",
         "source": "MRXN",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "[漏洞播报]紧急提醒！！！工信部呼吁立即升级，iphone的这些iOS版本存在高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/fA_UCNfK83JQ6buNmOFf4Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "AI挖洞让赏金模式停摆？——HackerOne暂停漏洞收购的分析",
+        "url": "https://mp.weixin.qq.com/s/WIoBr8LWD0Xf_zBQOW1agA",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
     }
 ]
