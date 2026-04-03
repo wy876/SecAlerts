@@ -190,5 +190,47 @@
         "url": "https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw",
         "source": "Doonsec",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "Web前端组件漏洞总结，安服水洞必备",
+        "url": "https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃",
+        "url": "https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29）",
+        "url": "https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "Memfit AI 长期记忆：让渗透 Agent 告别 “失忆”，练就实战肌肉记忆",
+        "url": "https://mp.weixin.qq.com/s/yCM2jpi_iHGZr_RuwvPP0w",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢",
+        "url": "https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢",
+        "url": "https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
     }
 ]
