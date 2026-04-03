@@ -112,5 +112,35 @@
         "url": "https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-03"
+    },
+    {
+        "title": "CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8)",
+        "url": "https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "某米C400智能摄像头的逆向分析与漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
+    },
+    {
+        "title": "资产测绘在漏洞挖掘中的应用",
+        "url": "https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-03"
     }
 ]
