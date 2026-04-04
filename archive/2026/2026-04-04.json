@@ -52,5 +52,71 @@
         "url": "https://mp.weixin.qq.com/s/AUOkcKImIOcZVI3TEPirQA",
         "source": "Doonsec",
         "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [Chrome浏览器的Dawn组件0day漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [思科 IMC 中存在严重的认证绕过漏洞，可用于获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=1&sn=123aa4e38d29ce29d7107d5e7378e00f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [Progress ShareFile 漏洞可用于发动预认证 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613033&idx=3&sn=1dc818bb4a6a1e53f68c6deb22fc2203",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [CNNVD | 通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260988&idx=2&sn=04b93b54c595b4abaaf01d91d7660ff5",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "20小时武器化：Langflow漏洞CVE-2026-33017的深度复盘与个人知识库防御实战",
+        "url": "https://mp.weixin.qq.com/s/rxI8C7pl9uU3jSpMDSjiQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "紧急预警！OpenClaw AI 代理框架曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/l15wP4FfjqmZ1-WUd06vEQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "Progress ShareFile漏洞深度剖析：一次无需认证的远程代码执行之旅",
+        "url": "https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-04"
     }
 ]
