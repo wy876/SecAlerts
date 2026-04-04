@@ -118,5 +118,17 @@
         "url": "https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ",
         "source": "Doonsec",
         "date_added": "2026-04-04"
+    },
+    {
+        "title": "【漏洞预警】CVE-2026-3502 TrueConf Client 更新代码完整性校验绕过",
+        "url": "https://mp.weixin.qq.com/s/D1m21KWpBhZUTCJJoNMP7g",
+        "source": "Doonsec",
+        "date_added": "2026-04-04"
+    },
+    {
+        "title": "关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示",
+        "url": "https://mp.weixin.qq.com/s/ak4mzGRf1HHIDomkJu7yjQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-04"
     }
 ]
