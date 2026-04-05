@@ -4,5 +4,59 @@
         "url": "https://mp.weixin.qq.com/s/tCSZp_u-zQqezbi6Sm74ZQ",
         "source": "Doonsec",
         "date_added": "2026-04-05"
+    },
+    {
+        "title": "14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "多维度漏洞挖掘突破与实践探索",
+        "url": "https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞",
+        "url": "https://mp.weixin.qq.com/s/4kk8UKGglxXTCOfHI3Rncw",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "苹果用户一定要看看！工信部紧急通报：iOS 13.0-17.2.1 Coruna多漏洞链工具包主动利用路径深度解析",
+        "url": "https://mp.weixin.qq.com/s/85UkeJBf62NeZKmG2xS0Pw",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "小朋友的新一期代码审计来了",
+        "url": "https://mp.weixin.qq.com/s/b4O4Ngq9_8IVThBgHejLwA",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "威胁通缉令 · 红桃9丨Redis Lua RCE漏洞（新增）",
+        "url": "https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "【工具推荐】高危漏洞EXP实用性工具",
+        "url": "https://mp.weixin.qq.com/s/OugrJ7T7ue53MMdsU4angQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链",
+        "url": "https://mp.weixin.qq.com/s/89LDe-rHPpKO6wQw-wvZHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
+    },
+    {
+        "title": "中科院：中美网络安全漏洞披露与共享政策研究",
+        "url": "https://mp.weixin.qq.com/s/GcID-KzaMoLTF9NhxzZDhg",
+        "source": "Doonsec",
+        "date_added": "2026-04-05"
     }
 ]
