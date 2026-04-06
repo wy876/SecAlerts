@@ -100,5 +100,65 @@
         "url": "https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ",
         "source": "Doonsec",
         "date_added": "2026-04-06"
+    },
+    {
+        "title": "渗透测试：多功能网络信息扫描工具",
+        "url": "https://mp.weixin.qq.com/s/PSgRlL-Lo87Cqqp7rMlg-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "集合多种渗透测试常用的功能和工具的安全测试工具",
+        "url": "https://mp.weixin.qq.com/s/hSfNtfmqrGw1Mce_WAeeuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "CVE-2026-24291-Windows权限提升漏洞“RegPwn”复现分析",
+        "url": "https://mp.weixin.qq.com/s/rULYChYHUKd8TZJW8nBFfQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "Dgraph 数据库存在严重漏洞，攻击者可绕过身份验证",
+        "url": "https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "Apache 流量服务器漏洞使攻击者能够触发拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/toUWdwleS-4MT-LMKnM9og",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "AI 渗透测试工具 - shannon",
+        "url": "https://mp.weixin.qq.com/s/fDQ_AZCal8jv0xlluOsMFg",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案",
+        "url": "https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "今日（2026年4月6日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "漏洞#13   CORS 泄露 Token 结合 CSRF 实现无感账号接管",
+        "url": "https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
     }
 ]
