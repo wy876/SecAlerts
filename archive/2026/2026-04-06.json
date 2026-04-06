@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s/0VQQ4y5_DtsGxUW8at5keg",
         "source": "Doonsec",
         "date_added": "2026-04-06"
+    },
+    {
+        "title": "OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "FortiClient EMS 重大零日漏洞已被在野利用",
+        "url": "https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
     }
 ]
