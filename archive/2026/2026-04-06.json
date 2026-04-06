@@ -1,0 +1,26 @@
+[
+    {
+        "title": "漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网",
+        "url": "https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "Metatron是一款基于 CLI 的 AI 渗透测试助手，完全在您的本地计算机上运行——无需云服务、无需 API 密钥、无需订阅。",
+        "url": "https://mp.weixin.qq.com/s/VuoyLrWuMYYML-swaxunnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-06"
+    },
+    {
+        "title": "孚盟云CRM AjaxTrackInfo.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-AjaxTrackInfo-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-06"
+    }
+]
