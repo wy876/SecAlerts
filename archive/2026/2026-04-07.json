@@ -10,5 +10,101 @@
         "url": "https://mp.weixin.qq.com/s/EGdt9UIXFUY0lk_kkh2AzA",
         "source": "Doonsec",
         "date_added": "2026-04-07"
+    },
+    {
+        "title": "“龙虾”再曝安全漏洞，天融信专家对话央视支招如何做好安全防护",
+        "url": "https://mp.weixin.qq.com/s/ZK8P83J6XmDUI1ar3yVL8A",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "2026-04-07 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/_G7VML5rbrw8xsBWjHj6dg",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "攻击者利用 Outlook 365 漏洞强制截获 NTLM 哈希",
+        "url": "https://mp.weixin.qq.com/s/Vd0GfbodXmvweO5I8CJp5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/2T-79_19Orn9ujAukNePRA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "Chamilo存在命令注入漏洞（CNVD-2026-14971、CVE-2025-50196）",
+        "url": "https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "CVE-2026-1207｜Django SQL注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/mrdpoDQFZFsaBLzJ3eLUUA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "CVE-2026-33032｜Nginx-UI高危漏洞，MCP端点未做身份验证，攻击者可直接远程接管！",
+        "url": "https://mp.weixin.qq.com/s/z34baGGKsZvnqRf15NEAWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "Cisco修复关键和高严重性漏洞",
+        "url": "https://mp.weixin.qq.com/s/rjJwKq3qcgxmtzW1dzVGsw",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "CVE-2026-35616：Fortinet修复被积极利用的高严重性漏洞",
+        "url": "https://mp.weixin.qq.com/s/aHbNtj0vL69vvODLitUwHA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "攻击者利用RCE漏洞，14,000台F5 BIG-IP APM实例仍暴露在线",
+        "url": "https://mp.weixin.qq.com/s/3mHXT8nMT3JmsoetyTcl5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "零基础到实战：Java 代码审计从入门到独立挖掘高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s/27zoS0yf3b5P2xcjY7ZgjQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化",
+        "url": "https://mp.weixin.qq.com/s/QtqNTuAU0IEXTmM13jFZeQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "苹果用户注意！及时更新iOS特定版本 防范漏洞攻击利用风险",
+        "url": "https://mp.weixin.qq.com/s/y9dVYQfxTVWVaeN8-jzfcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "漏洞预警 | Vim代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ONVBz36WILWupIL-pLS-ow",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "漏洞预警 | LEAN MES系统文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/qjYH83QoPZZ78b0bMBX-7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "孚盟云CRM DingHandler.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-07"
     }
 ]
