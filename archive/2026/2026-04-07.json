@@ -1,0 +1,14 @@
+[
+    {
+        "title": "RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸",
+        "url": "https://mp.weixin.qq.com/s/Jwsz4e0aRIfTV13MEjXqXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "美国和以色列入侵中国“安全城市”系统——关于技术渗透、体系反转与安全博弈的讨论",
+        "url": "https://mp.weixin.qq.com/s/EGdt9UIXFUY0lk_kkh2AzA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    }
+]
