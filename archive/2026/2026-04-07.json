@@ -106,5 +106,41 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-07"
+    },
+    {
+        "title": "] [今日（2026年4月6日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494）",
+        "url": "https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "一次报复式 0day 漏洞披露背后的 MSRC 信任危机",
+        "url": "https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "Fortinet发布紧急补丁修复FortiClient零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "对用于攻击 CrowdStrike EDR 的 0day 漏洞进行逆向工程",
+        "url": "https://mp.weixin.qq.com/s/Wedx3iYuT8vq7D5Z6RVyVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
+    },
+    {
+        "title": "CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览",
+        "url": "https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w",
+        "source": "Doonsec",
+        "date_added": "2026-04-07"
     }
 ]
