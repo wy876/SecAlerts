@@ -352,5 +352,53 @@
         "url": "https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "我利用阿里云的JVS Claw自动化完成漏洞发现、利用、验证和专业报告生成",
+        "url": "https://mp.weixin.qq.com/s/q9ORxsure0LM3CLr-zThIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【已复现】漏洞预警 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197)",
+        "url": "https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "Docker授权绕过漏洞使主机暴露于潜在攻击者之下",
+        "url": "https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "OpenSSL 多个漏洞暴露 RSA KEM 处理中的敏感数据",
+        "url": "https://mp.weixin.qq.com/s/V_g-AuLrA_ouHPjFIFhm5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363",
+        "url": "https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197",
+        "url": "https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "Anthropic的Claude Mythos在主要系统中发现了数千个0day",
+        "url": "https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
