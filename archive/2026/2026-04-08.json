@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s/n9v0k1n39j4uxHCDaWGvuQ",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "语音运行时漏洞：一个隐秘的Windows横向移动通道",
+        "url": "https://mp.weixin.qq.com/s/sIhngZZP7QqEWBWcrUDEvw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
