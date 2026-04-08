@@ -4,5 +4,107 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [Fortinet 紧急修复已遭利用的 FortiClient EMS 严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525661&idx=1&sn=052e45a26cbea5f9364bf03c39a7abc8",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515770&idx=2&sn=3177f777e9ed09388a73f2dec02e6329",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140978&idx=2&sn=e01813a4a4abee1959d908ff1d55167e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587554&idx=2&sn=3562827709797e3033981d7530e898d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [先知通用软件漏洞收集及奖励计划第十一期 正式开始！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998767&idx=2&sn=b7fcb384ccef686845acce1736d67937",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [涉及1高危，2中危！360再曝OpenClaw高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585624&idx=1&sn=e63909b79f120de22eaab3688d009340",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [BlueHammer：研究员公开未修复 Windows 零日漏洞，可提权至 SYSTEM",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489851&idx=1&sn=7fc718677485810c802f270890b5a306",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [CVE-2026-35616：Fortinet FortiClientEMS 零日漏洞已被野外利用（CVSS 9.1）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489851&idx=2&sn=f52ba86620a3a137ed8d5d797b5eab00",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第13期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496824&idx=1&sn=b6ce3ee662fd4823ea71e96e15bbf91d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260330-20260405)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496824&idx=2&sn=445ba48ab65e21063a3ae13a0b7b3df3",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "] [全流程使用AI，完成一次APK重打包。改包名、绕过 Native 校验、重建签名并去掉奖励广告的完整复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144234&idx=1&sn=8ae477d7d05e1c3b8ab0775ab9162e25",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "小白入门网安该从哪下手？吃透这“漏洞三剑客”，你的实战之路就稳了！",
+        "url": "https://mp.weixin.qq.com/s/us76OZkure7Jzstz7j0M8A",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "迅饶科技 X2Modbus网关 GetConfig 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/b90IOr4CTSQn-LpF7kj3jA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "漏洞复现 | Ilevia EVE X1 Server login.php 存在身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/XXbG0AWawSWDyj70-qmG_w",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "一篇文教会你若依漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/z9hOwdefQptZV1KvpN5LPQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "CertiK推出AI Auditor：兼顾低误报与高精准，实测锁定88.6%真实漏洞",
+        "url": "https://mp.weixin.qq.com/s/gDtYDprqKlMgJrE6kI0W1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "铸刃止戈，以智御危｜CloudRouter助力腾讯智能渗透挑战赛，探路安全智能体基础设施新范式",
+        "url": "https://mp.weixin.qq.com/s/eHKgLaYX0YebUwCB3UyWCQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
