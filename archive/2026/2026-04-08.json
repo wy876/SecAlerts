@@ -106,5 +106,197 @@
         "url": "https://mp.weixin.qq.com/s/eHKgLaYX0YebUwCB3UyWCQ",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "vscode_tasks_command_execute_poc",
+        "url": "https://mp.weixin.qq.com/s/QYRAnhIp8OT1CbLDz6r3zQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "零基础到实战：Java 代码审计从入门到独立挖掘高价值漏洞",
+        "url": "https://mp.weixin.qq.com/s/M27qr99dUFTlymu9YuTiXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "AI掌握零日漏洞：Claude Mythos Preview引领网络安全新时代",
+        "url": "https://mp.weixin.qq.com/s/G-dMuc1kdclitJX0ITQzBg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/FGORx7M58alEdrG9ecvEsQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【漏洞预警】更新iOS 18.6也逃不掉 DarkSword内核漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/Xp9irB7ROI-Ae2xJOMExdw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "Apache ActiveMQ 中的远程代码执行漏洞 (CVE-2026-34197)",
+        "url": "https://mp.weixin.qq.com/s/8ERLbrc6SZoBWB6L3d-sJQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【成功复现】Node.js inspect调试远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/yRMpcDabaiY0gbrak4nmTQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "警惕！iPhone用户危险升级！俄罗斯APT组织TA446用上DarkSword漏洞套件，点开钓鱼邮件直接被攻破",
+        "url": "https://mp.weixin.qq.com/s/r82dxrr1n2Pts2_OTPWzzQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V4.0全新升级发布~",
+        "url": "https://mp.weixin.qq.com/s/e3fJTfh5RSjBMwqeAs6Zbg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限",
+        "url": "https://mp.weixin.qq.com/s/3hj4Udc-NZFOnN9m7Kylyg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【已复现】Vite WebSocket 任意文件读取漏洞(CVE-2026-39363)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/By5CaWLXUtkAl0eIHBe0aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "天地伟业 Easy7 uploadCheckImg 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/oJm4lCZTQ3iNWLXbmfL2WQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "第1次挖SRC漏洞，我赚了500元（附XSS漏洞完整报告模板）",
+        "url": "https://mp.weixin.qq.com/s/amsItaDjsr-vaXtu8rfDOw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "某CMS最新版本前台RCE审计流程",
+        "url": "https://mp.weixin.qq.com/s/dR1rXd7vwVLhHv0cnH8AiQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第13期",
+        "url": "https://mp.weixin.qq.com/s/6lUt1jr6KnNID9af7sE16w",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "用100美元谷歌云额度，我找到了华硕驱动的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/0PbD0c7mSjh5ZKMy-WDY_w",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "与Claude共度的 10 分钟：CVE-2026-34197 的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/beBUY1nEQxyNdwngGT4u1A",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "GPUBreach 漏洞利用 GPU 内存位翻转实现完整系统接管",
+        "url": "https://mp.weixin.qq.com/s/70eled0DcsbriYlPDb6Svw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "快速行动的 Storm-1175 利用新漏洞入侵网络并投放 Medusa 勒索软件",
+        "url": "https://mp.weixin.qq.com/s/nYFJls6SdxuKJXwKqsnCOg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "攻击者利用 Flowise 严重漏洞 CVE-2025-59528 实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/k5fhjHv0L4A45qmzaukDEg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "155个OpenClaw漏洞列表！速看！",
+        "url": "https://mp.weixin.qq.com/s/spfdvWN9oAomGPwGGEhAlQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【视频】CVE-2026-32746，CVSS 评分高达 9.8",
+        "url": "https://mp.weixin.qq.com/s/vrhxZnQ72uofsffBw5wZvQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【未修复】 漏洞概念验证（PoC）",
+        "url": "https://mp.weixin.qq.com/s/CvqMKWhFzuTdhEWVqrQI9g",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "从 RCE 到全量凭证窃取：深度解析 CVE-2025-55182 攻击利用链",
+        "url": "https://mp.weixin.qq.com/s/wbodII0aHGqn_I5_V-r7sA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "CVSS 9.8 警告！带你复盘思科无认证提权与RCE漏洞利用路径",
+        "url": "https://mp.weixin.qq.com/s/AT7T02mnfCCkn7CYfgAduA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "这20个渗透测试项目，每一个都值得写进简历",
+        "url": "https://mp.weixin.qq.com/s/zLJEAI_kSlmu8MKoVQUTnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【1 day 在野】博硕BGM系统存在任意文件读取漏洞 附Payload",
+        "url": "https://mp.weixin.qq.com/s/EULyUsWNG-P67dLYlqc6VA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "漏洞警报｜FortiClientEMS产品爆发高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/Tp-itwVTgDGseLm2qrs_Bw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【已复现】Oracle Identity Manager系统存在命令执行漏洞（CVE-2026-21992）",
+        "url": "https://mp.weixin.qq.com/s/e_vw3Q0ku1asUZLJqhslNw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "BlueHammer：研究员公开未修复 Windows 零日漏洞，可提权至 SYSTEM",
+        "url": "https://mp.weixin.qq.com/s/LMW_4qYrssZnoyopNokmDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "CVE-2026-35616：Fortinet FortiClientEMS 零日漏洞已被野外利用（CVSS 9.1）",
+        "url": "https://mp.weixin.qq.com/s/m8vkxJRXioYaMWS7xdbROQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "OpenAI Codex漏洞允许攻击者窃取GitHub访问令牌",
+        "url": "https://mp.weixin.qq.com/s/n9v0k1n39j4uxHCDaWGvuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
