@@ -322,5 +322,35 @@
         "url": "https://mp.weixin.qq.com/s/dHf1AMS1VAHD255mjNIgLA",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "【支付漏洞】金额溢出导致的0元购-网络安全",
+        "url": "https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "[工具推荐]BurpSuite 多漏洞自动化探测插件xia_tan (瞎探)",
+        "url": "https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险",
+        "url": "https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）",
+        "url": "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化",
+        "url": "https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
