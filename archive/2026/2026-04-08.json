@@ -304,5 +304,23 @@
         "url": "https://mp.weixin.qq.com/s/sIhngZZP7QqEWBWcrUDEvw",
         "source": "Doonsec",
         "date_added": "2026-04-08"
+    },
+    {
+        "title": "Nacos 漏洞大起底：你的微服务可能正在\\\"裸奔\\\"！",
+        "url": "https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安”",
+        "url": "https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.3.30-2026.4.6",
+        "url": "https://mp.weixin.qq.com/s/dHf1AMS1VAHD255mjNIgLA",
+        "source": "Doonsec",
+        "date_added": "2026-04-08"
     }
 ]
