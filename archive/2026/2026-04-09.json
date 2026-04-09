@@ -172,5 +172,29 @@
         "url": "https://mp.weixin.qq.com/s/0lJTczDlxa8SpcRCeceHZg",
         "source": "Doonsec",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "Claude Mythos 模型：已发现数千零日漏洞，还能自己逃离沙箱",
+        "url": "https://mp.weixin.qq.com/s/JTqZMKwLI1a3slzKqC-Kcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【已复现】AI新发现：一个隐藏27年的OpenBSD内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/AC3t9yAVb7WTUhkijyA5Nw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【已复现】Claude Mythos最新发现的Linux内核0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/8YQq5LvZMRev-1atVQfW3w",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "关于漏洞学习的一些反思",
+        "url": "https://mp.weixin.qq.com/s/nalcvjCOaT3h_WMEwOSGfQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
