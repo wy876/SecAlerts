@@ -196,5 +196,11 @@
         "url": "https://mp.weixin.qq.com/s/nalcvjCOaT3h_WMEwOSGfQ",
         "source": "Doonsec",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "【漏洞通告】Vite Dev Server WebSocket 任意文件读取漏洞(CVE-2026-39363)",
+        "url": "https://mp.weixin.qq.com/s/K0ZLejy8jTW9PGXKbsMt0Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
