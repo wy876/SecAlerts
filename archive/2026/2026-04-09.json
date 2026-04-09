@@ -202,5 +202,59 @@
         "url": "https://mp.weixin.qq.com/s/K0ZLejy8jTW9PGXKbsMt0Q",
         "source": "Doonsec",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "Chrome浏览器存在严重漏洞，攻击者可利用这些漏洞执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/pXUt7ewNu1U1AJj3y3EC4A",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "微软0day-漏洞的之“你们这些天才自己就能搞明白”后续问题········",
+        "url": "https://mp.weixin.qq.com/s/wBvlYltxQoV-rNsho9qzlQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "飓风安全发现OpenClaw高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/sfcq1xDLLoh5pgujdjs2qg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "已存在13年的Apache ActiveMQ 严重漏洞可用于远程执行命令",
+        "url": "https://mp.weixin.qq.com/s/AXG9IXCFNtX7C7lMrS4YIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "CISA：须在周日前修复已遭利用的 Ivanti EPMM 漏洞",
+        "url": "https://mp.weixin.qq.com/s/vV0zHzicF_AGGftp8zqLow",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "我发现不上班真的会上瘾，今天躺在家挖漏洞，入手500",
+        "url": "https://mp.weixin.qq.com/s/vnrIlRMeJjwohSfozQ-SSg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "BlockSec 安全周报｜九起攻击，从合约漏洞到治理失守（3.30–4.05）",
+        "url": "https://mp.weixin.qq.com/s/jg7FxhBvWtr0XEDg2obQCg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【论文速读】|RuleForge：面向大规模 Web 漏洞检测的规则自动生成与验证",
+        "url": "https://mp.weixin.qq.com/s/uky7CJGa8fFQy_G3y8pELA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "干货 | 渗透测试以及checklist模板，附PDF免费下载！",
+        "url": "https://mp.weixin.qq.com/s/bGvbrQP211Sq-TgqUubcsA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
