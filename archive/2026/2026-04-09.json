@@ -52,5 +52,89 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-WorkFlowHandler-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [【已复现】Vite WebSocket 任意文件读取漏洞(CVE-2026-39363)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505167&idx=1&sn=d636c4a823bc2e6ebfbd1f4395306da7",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [开源平台 Flowise 中的满分 RCE 漏洞已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525680&idx=1&sn=5dbab9da81c7d42eda6c2082c7f2ac03",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [OpenAI Codex 漏洞可导致攻击者窃取 GitHub 访问令牌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525680&idx=2&sn=7f352c49de57475122f8901028f1e192",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [G.O.S.S.I.P 阅读推荐 2026-04-08 Exploit Programming",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501556&idx=1&sn=a32caba9286b7848e0516c0457b8b3a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [反爬专测延期，单个漏洞奖励最高可达7.5w！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850798&idx=1&sn=b3803f9d5ff0261779a0add6a2dfdbf3",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525264&idx=1&sn=f4a58c6f08416197403e3f78f959a97a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525264&idx=2&sn=b3d0bc48834a9994797b63a4f7500427",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [rce",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499286&idx=1&sn=e2444c7b449318e4f94e694d91e32c71",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "] [勒索月报 | 360披露3月勒索软件流行态势:Web漏洞武器化构建系统性风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585642&idx=2&sn=497ff6df3ec12d30294baa8e09008838",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/b4ylkD7TMW9IWg3Wr9a1aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【成功复现】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)",
+        "url": "https://mp.weixin.qq.com/s/R8jBUcbp2NIJ7cZm4LE-Hg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "2026 年高危漏洞 TOP10 盘点与修复实战指南",
+        "url": "https://mp.weixin.qq.com/s/XxAAwg6vI0FiaFpC1-83ng",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "Rapid7一线实录：CVE-2025-59718 FortiGate 防火墙入侵事件深度剖析",
+        "url": "https://mp.weixin.qq.com/s/78dDf-e71pr5PGMhpYwG1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "Linux和Unix打印系统曝出漏洞链，远程攻击者最终可拿root权限",
+        "url": "https://mp.weixin.qq.com/s/ySW4KbV_SpLmlTqJS3Bv2A",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
