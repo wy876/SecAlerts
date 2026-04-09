@@ -136,5 +136,41 @@
         "url": "https://mp.weixin.qq.com/s/ySW4KbV_SpLmlTqJS3Bv2A",
         "source": "Doonsec",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "Meta发布Muse Spark，多智能体架构与隐私风险引行业关注；CNNVD 2026 年第14 周漏洞周报：新增 1298 个漏洞，超危 82 个需紧急修复| 牛览",
+        "url": "https://mp.weixin.qq.com/s/3W1BpWJNOfAoBoqmqyW41A",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【漏洞通告】WWBN AVideo存在信息泄露漏洞(CVE-2026-35452)",
+        "url": "https://mp.weixin.qq.com/s/6s5_ToRJsBk7ucJEgZ8hYQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【漏洞通告】WWBN AVideo存在访问控制错误漏洞(CVE-2026-35450)",
+        "url": "https://mp.weixin.qq.com/s/C1_RMxdY7xLYg758aYfFGg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【漏洞通告】Code Extension Marketplace存在目录遍历漏洞(CVE-2026-35454)",
+        "url": "https://mp.weixin.qq.com/s/k_5PrW1KV1pCdGg9cGgIQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【漏洞通告】goshs存在目录遍历漏洞(CVE-2026-35471)",
+        "url": "https://mp.weixin.qq.com/s/EF1FgSMD2GnrxFUbTg87ZQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "没有任何漏洞，黑客是如何接管全球数百万开发环境的？——深度拆解 UNC1069 供应链猎局",
+        "url": "https://mp.weixin.qq.com/s/0lJTczDlxa8SpcRCeceHZg",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
