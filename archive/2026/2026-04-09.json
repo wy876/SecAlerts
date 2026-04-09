@@ -256,5 +256,35 @@
         "url": "https://mp.weixin.qq.com/s/bGvbrQP211Sq-TgqUubcsA",
         "source": "Doonsec",
         "date_added": "2026-04-09"
+    },
+    {
+        "title": "朝鲜黑客组织的分布式运作架构、安全漏洞与加密货币洗钱链路",
+        "url": "https://mp.weixin.qq.com/s/fbQ0WINl2pb-zkOd9UDb6g",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "发现 33 个 OpenClaw 与 Linux 内核漏洞后，我们也从 Claude Mythos 看到了安全攻防的下半场",
+        "url": "https://mp.weixin.qq.com/s/Nh8sx89AaMTlhSu4YdtqWA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "威胁通缉令 · 红桃K丨Tomcat RCE漏洞（新增）",
+        "url": "https://mp.weixin.qq.com/s/1RbtA-LfqXDATwfqKeCOaA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【已复现】OpenPrinting CUPS 多个高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/k3Ako2b9whrKbtuMuxc09g",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "【已复现】OpenAM 远程代码执行漏洞(CVE-2026-33439)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/JHouV0jJoh8vg0spDe7tTw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
     }
 ]
