@@ -1,0 +1,56 @@
+[
+    {
+        "title": "为知笔记 login 弱口令漏洞",
+        "url": "https://mp.weixin.qq.com/s/MVXF3ZVU7WFiAXhakiL-hw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "未授权访问漏洞扫描器 -- Unauthorized-vulnerability-tools（4月5日更新）",
+        "url": "https://mp.weixin.qq.com/s/KP3kOlIuJsaLjW5RNJDogw",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "被动式检测水平越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/5iuI337gGe4VkI0pdyyu7g",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "Anthropic发布Claude Mythos模型并启动“玻璃翼计划”强化漏洞防御",
+        "url": "https://mp.weixin.qq.com/s/dO64AcLjKPMlKAgPT6IJEA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "10分钟，让Claude挖出一个隐藏13年的ActiveMQ严重漏洞（CVE-2026-34197）",
+        "url": "https://mp.weixin.qq.com/s/huBv9N2DXDkmr9yta1Vr0w",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限",
+        "url": "https://mp.weixin.qq.com/s/qs0OwDbf46dyPuLRjNcNQA",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "拿捏1.8万台设备！从CVE-2023-50224看APT组织如何玩转边缘设备渗透",
+        "url": "https://mp.weixin.qq.com/s/pK3SdwSJ7XsH9gXktHZScQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "安卓高通芯片0day漏洞CVE-2026-21385",
+        "url": "https://mp.weixin.qq.com/s/D-W4UJmQxOpYX3woKJT_PQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-09"
+    },
+    {
+        "title": "孚盟云CRM WorkFlowHandler.ashx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-WorkFlowHandler-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-09"
+    }
+]
