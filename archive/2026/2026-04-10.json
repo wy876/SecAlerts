@@ -214,5 +214,47 @@
         "url": "https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ",
         "source": "Doonsec",
         "date_added": "2026-04-10"
+    },
+    {
+        "title": "【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439)",
+        "url": "https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616)",
+        "url": "https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "参赛有券，冲榜有奖：CloudRouter 十万积分助力腾讯云智能渗透挑战赛",
+        "url": "https://mp.weixin.qq.com/s/1d127rFNRR1yBQO2-zG-wA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【漏洞通告】Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
+        "url": "https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【漏洞通告】CUPS 本地令牌泄露漏洞(CVE-2026-34990)",
+        "url": "https://mp.weixin.qq.com/s/DedNUBMF2z5NGP89tBS4zw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "一文搞懂内网渗透核心：PTH 哈希传递攻击从原理到攻防",
+        "url": "https://mp.weixin.qq.com/s/2erzVvknr65tUvvATKbJeQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
     }
 ]
