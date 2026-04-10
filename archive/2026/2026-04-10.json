@@ -94,5 +94,83 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-AddInquiry-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [发现 33 个 OpenClaw 与 Linux 内核漏洞后，我们也从 Claude Mythos 看到了安全攻防的下半场",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208316&idx=1&sn=159300723ea3cb7e287573f5c1cd9653",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [已存在13年的Apache ActiveMQ 严重漏洞可用于远程执行命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525686&idx=1&sn=51e7e391e06000c6fad494187241de39",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [CISA：须在周日前修复已遭利用的 Ivanti EPMM 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525686&idx=2&sn=a7cb71292f83e55b49f1e23a7f775864",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [漏洞通告 | ActiveMQ远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508577&idx=1&sn=9b54d7cab51cf308ac60ce38eaeeba12",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [无需认证即可执行：Langflow CVE-2026-33017 未授权远程代码执行漏洞深度剖析与靶标实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499810&idx=1&sn=7375526e25605ffefa701ee5b2d5b474",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [【已复现】OpenPrinting CUPS 多个高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505186&idx=1&sn=751723948fc9f225730b57f1fb8b0fba",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [【已复现】OpenAM 远程代码执行漏洞(CVE-2026-33439)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505186&idx=2&sn=72d008e6d01b20a4f5665f9ab8d2b570",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [抖音生活服务邀你来测！单个漏洞奖励10万元！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496148&idx=1&sn=fb2fd4d520333d0575983a48395c5bc0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [未完全修复旧漏洞！Docker Engine新漏洞可致容器逃逸与主机接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613203&idx=3&sn=6eb93ad2f08d3e6ef4629b8c9e5e0660",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "] [Rapid7一线实录：CVE-2025-59718 FortiGate 防火墙入侵事件深度剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489917&idx=1&sn=44598525c50ceac6773a8d3fa9a37421",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "Citrix NetScaler 正在积极排查 CVE-2026-3055 (CVSS 9.3) 内存过度读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/F33ZNryCujq3IXzEguwGQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【1 day 在野】WordPressMailMint-CVE-2026-2025-信息泄露 附Payload",
+        "url": "https://mp.weixin.qq.com/s/tfpLEQDTNvUpr6_nClMytw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "Mythos之后：漏洞挖掘从“找问题”走向“证明漏洞”",
+        "url": "https://mp.weixin.qq.com/s/u25arhv1_QbP_UVmPmoCFg",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
     }
 ]
