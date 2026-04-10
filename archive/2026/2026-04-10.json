@@ -1,0 +1,98 @@
+[
+    {
+        "title": "WordPress Ditty SSRF漏洞(CVE-2025-8085)",
+        "url": "https://mp.weixin.qq.com/s/u2NKG4ZYQM4PUqbu1l2ggA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "整合型漏洞扫描工具 -- vulnscan（4月6日更新）",
+        "url": "https://mp.weixin.qq.com/s/jOUl7XYQ08OUfRYdbwQTgw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "紧急预警！Apache ActiveMQ 爆出高危 RCE 漏洞 (CVE-2026-34197)",
+        "url": "https://mp.weixin.qq.com/s/sdlwUKIUPIcTGcJSugt7Zg",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【红队】一个检测VUE站点未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/nJ6h_nPP-l5nXgEwBrj9fw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "深入解析：EngageLab SDK意图重定向漏洞如何击穿安卓沙箱？",
+        "url": "https://mp.weixin.qq.com/s/8wrcBarD_WU8sHRLtc6fGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "一次丝滑渗透之后台超管之旅",
+        "url": "https://mp.weixin.qq.com/s/juei2yY5pIL-FKGfUoMv_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "涉密网络管理工作崩溃实录：半米高制度堆成山，检查仍漏高危漏洞！这5个\\\"隐形坑\\\"你中了几个？",
+        "url": "https://mp.weixin.qq.com/s/pA3qKOLhfdMsLETsQdaPLA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "注意！中间件IIS是这个版本存在该漏洞",
+        "url": "https://mp.weixin.qq.com/s/I9hb-4ejEMl8c4QTSvKW8g",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "基于LLM的水平越权漏洞白盒实践",
+        "url": "https://mp.weixin.qq.com/s/evnY8mz7NGtIUopC5hNRtA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【视频】藏在收款机里的“特洛伊木马”：CVE-2026-4583 漏洞如何反向接管你的电脑？",
+        "url": "https://mp.weixin.qq.com/s/0NPDcqAVJxewvifn2bbqqw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "黑客利用Flowise关键漏洞攻击数千个AI工作流",
+        "url": "https://mp.weixin.qq.com/s/Dx7SCle0nY0HaMYgU6R7xA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "400页 生成式AI安全：防御、威胁与漏洞",
+        "url": "https://mp.weixin.qq.com/s/jtkxrdR_lMQAbsm4_cnyhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【登录背后的秘密-第五章第三节】一次真实的赏金狩猎：利用验证码生成与校验分离的漏洞拿下账户",
+        "url": "https://mp.weixin.qq.com/s/oLwkMWuYEnsLFUVcveUSLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "漏洞预警 | Vite任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/pnLQRn6XnKFQCdFn6GcX_Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/XvbK5_y0P_iOe3HHrov06g",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "孚盟云CRM AddInquiry.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-AddInquiry-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-10"
+    }
+]
