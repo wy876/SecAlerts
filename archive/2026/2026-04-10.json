@@ -172,5 +172,47 @@
         "url": "https://mp.weixin.qq.com/s/u25arhv1_QbP_UVmPmoCFg",
         "source": "Doonsec",
         "date_added": "2026-04-10"
+    },
+    {
+        "title": "谷歌不再接受AI提交的漏洞检测报告",
+        "url": "https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【工具推荐】红队渗透必备｜LeakDetector 自动化信息泄露侦察工具，一键扒出全网敏感数据",
+        "url": "https://mp.weixin.qq.com/s/Sb2OCqLcejnK_ru3fCPtdw",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V4.0全新升级发布~",
+        "url": "https://mp.weixin.qq.com/s/lMuADYpDatK7iv9JeLphvg",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周",
+        "url": "https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
+    },
+    {
+        "title": "你的WinRAR还在“裸奔”？——近三年高危漏洞大盘点",
+        "url": "https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-10"
     }
 ]
