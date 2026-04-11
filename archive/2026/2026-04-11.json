@@ -1,0 +1,14 @@
+[
+    {
+        "title": "CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘",
+        "url": "https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "孚盟云CRM OrderLook.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-OrderLook-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-11"
+    }
+]
