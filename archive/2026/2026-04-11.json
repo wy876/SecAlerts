@@ -76,5 +76,107 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529665&idx=1&sn=d77c2fe3c7b2e4e1c3c4d9bd01753c9a",
         "source": "BruceFeIix",
         "date_added": "2026-04-11"
+    },
+    {
+        "title": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/iCkibNhvriaRYSUAbqVLPA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（三）漏洞利用技术详解",
+        "url": "https://mp.weixin.qq.com/s/DQX6I-a5-DvEQIOaDdRLFA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "NSA TAO负责人Mythos的漏洞利用能力已超过",
+        "url": "https://mp.weixin.qq.com/s/u_h5oYny_jonaRStZFpP2A",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "瞻博网络默认凭据漏洞导致未授权完全访问",
+        "url": "https://mp.weixin.qq.com/s/SZG_nvVa7t_WA-00T-6P9g",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "GitLab修复多个可导致拒绝服务和代码注入攻击的漏洞",
+        "url": "https://mp.weixin.qq.com/s/xn4X0DDUW5MSILPyu94W5g",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "AI路由漏洞可被利用注入恶意代码并窃取敏感数据",
+        "url": "https://mp.weixin.qq.com/s/GfMl2I7h0Rgou8U1V2rzXw",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "Windows Defender 0Day漏洞PoC曝光；Anthropic拒美军AI武器化遭封杀 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/WHdtbiBdWmUYW5SiloIh1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "JWT认证漏洞实战解析",
+        "url": "https://mp.weixin.qq.com/s/v3W227vSupKRxkYpigLh2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "【红队】一款高度自动化的智能渗透测试系统",
+        "url": "https://mp.weixin.qq.com/s/4bbwoKpsWimwBXkbtwgftQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "Storm-1175 高频勒索攻击全链路：从 N-day 漏洞到 Medusa 部署最快仅 24 小时",
+        "url": "https://mp.weixin.qq.com/s/pgtf9R-smm085Jsi3BwbZA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "Nginx曝新漏洞，特定配置下可实现任意文件读写",
+        "url": "https://mp.weixin.qq.com/s/EaFeQ0CPPY1emzIYYDFrAw",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "2026挖漏洞小白入门指南：怎么挖、去哪挖？漏洞挖掘零基础入门到精通（超详细），看这一篇就够了！",
+        "url": "https://mp.weixin.qq.com/s/hevULpKLNHXVmy4-2t7djw",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "【招聘】渗透测试工程师！！！",
+        "url": "https://mp.weixin.qq.com/s/fLPNOeVfA0_7ZG4RjT46aA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "【成功复现】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)",
+        "url": "https://mp.weixin.qq.com/s/7FAz95xtOtj16Lqn7ZikmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "Claude 已经能挖漏洞了，那安全工程师还剩什么?",
+        "url": "https://mp.weixin.qq.com/s/foF-51x0z1DQnPgP17Sdhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "从公告到入侵不足十小时：Marimo Python Notebook 预授权 RCE 事件研判",
+        "url": "https://mp.weixin.qq.com/s/Z61tvmg8WaRkL2h3m60eUA",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
+    },
+    {
+        "title": "没木马、没0day，仅靠一个配置错误，企业SharePoint被洗劫一空",
+        "url": "https://mp.weixin.qq.com/s/EDXVcMd8ruiCL51Gm7mbbw",
+        "source": "Doonsec",
+        "date_added": "2026-04-11"
     }
 ]
