@@ -28,5 +28,29 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-FormDefault-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-12"
+    },
+    {
+        "title": "] [Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186333&idx=1&sn=0f961cc26fb5c839905fdc2e4a447893",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "] [Nginx曝新漏洞，特定配置下可实现任意文件读写",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508609&idx=1&sn=e96453088406b1327576791d35a60bde",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "] [Storm-1175 高频勒索攻击全链路：从 N-day 漏洞到 Medusa 部署最快仅 24 小时",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489949&idx=2&sn=7b943f69a1b768242793bacd88687ffc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析",
+        "url": "https://mp.weixin.qq.com/s/fRBIupvLuXLFE0bwLTwHyQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-12"
     }
 ]
