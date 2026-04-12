@@ -1,0 +1,32 @@
+[
+    {
+        "title": "攻击大模型的十大方法和漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZJ22euGbz0oaxrf4bU5dXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并利用了 Root Shell（CVE-2026-4747）",
+        "url": "https://mp.weixin.qq.com/s/2dauQtVxlZVdNAB1VxXRpA",
+        "source": "Doonsec",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "【登录背后的秘密-第六章】高价值的逻辑漏洞往往藏在这里：一次对“记住我”Token的降维打击",
+        "url": "https://mp.weixin.qq.com/s/encMZSPfULvMovdLxxBZ3A",
+        "source": "Doonsec",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "以色列现役军人如何被伊朗渗透",
+        "url": "https://mp.weixin.qq.com/s/oRtqQzmdUHdBU218BPHCYQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-12"
+    },
+    {
+        "title": "孚盟云CRM FormDefault.aspx、FormDefaultCommon.aspx 多处SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-FormDefault-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-12"
+    }
+]
