@@ -316,5 +316,11 @@
         "url": "https://mp.weixin.qq.com/s/17mVrWcnk4bafTDJx2CDeQ",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "Apache ActiveMQ存在远程代码执行漏洞(CVE-2026-34197) 附POC",
+        "url": "https://mp.weixin.qq.com/s/_g_yapCvMyC1KJm0JEhxWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
