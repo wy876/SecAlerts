@@ -172,5 +172,23 @@
         "url": "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "从漏洞到规则：安全知识自动提取的初步探索",
+        "url": "https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒",
+        "url": "https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【成功复现】Nginx溢出文件读写漏洞(CVE-2026-27654)",
+        "url": "https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
