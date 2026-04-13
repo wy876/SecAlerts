@@ -190,5 +190,35 @@
         "url": "https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在",
+        "url": "https://mp.weixin.qq.com/s/EWo9rapf7r-NAb9eVVYXnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "若依 RuoYi4.6.0 代码审计",
+        "url": "https://mp.weixin.qq.com/s/uUWuqcCs1vpdOqHBLrj17A",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654",
+        "url": "https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621)",
+        "url": "https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "记一次渗透测试中的前端调试",
+        "url": "https://mp.weixin.qq.com/s/KZ71wcVUo_UrY9zRZ6KPbw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
