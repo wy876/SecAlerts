@@ -112,5 +112,65 @@
         "url": "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "] [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "] [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "] [规模化 SAST & SCA 漏洞修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Claude Code源码泄露：一个低危漏洞，暴露了一个大问题",
+        "url": "https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "打开PDF即中招！Adobe零日漏洞4月在野猎杀",
+        "url": "https://mp.weixin.qq.com/s/IFZSDzu9bnfJ8VnR8NpWSg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "TP-Link路由器一次曝出5个漏洞，家庭和小办公网关再次站上风口",
+        "url": "https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "EarthEmbeddingExplorer：零门槛、多模态，像搜图一样探索全球卫星影像",
+        "url": "https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "文件上传漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
