@@ -220,5 +220,59 @@
         "url": "https://mp.weixin.qq.com/s/KZ71wcVUo_UrY9zRZ6KPbw",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在",
+        "url": "https://mp.weixin.qq.com/s/17LunUtJ4TM5oMNSlz7PIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Apache Tomcat 漏洞使加密拦截器绕过成为可能",
+        "url": "https://mp.weixin.qq.com/s/id7KduNRt00R00JnKT2eFg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "关键的WordPress插件漏洞让攻击者绕过认证并获得管理员访问权限",
+        "url": "https://mp.weixin.qq.com/s/X_Dgl6iGIAZLdAE0x1GL-A",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "“下一代Python笔记本”marimo曝高危漏洞：无需密码，连上WebSocket即可远程控制服务器 (CVE-2026-39987)",
+        "url": "https://mp.weixin.qq.com/s/0MPD0zYdT43IM4GCw-7CRg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Adobe 紧急修复已遭利用的 0day",
+        "url": "https://mp.weixin.qq.com/s/OH0X9hHdRP-8djW-row_0w",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Marimo 高危预认证 RCE 漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+        "url": "https://mp.weixin.qq.com/s/7PQtfrLnn01YqqNFjgzoHg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+        "url": "https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "MyBatis框架SQL注入漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
