@@ -274,5 +274,41 @@
         "url": "https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ",
         "source": "Doonsec",
         "date_added": "2026-04-13"
+    },
+    {
+        "title": "漏洞挖掘 | 一次数据库是Hive的SQL注入",
+        "url": "https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "记一次渗透赌博棋牌APP",
+        "url": "https://mp.weixin.qq.com/s/VIdVFiiLqiop9nju2AeLGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "某棋牌渗透记录",
+        "url": "https://mp.weixin.qq.com/s/v5PInT5VuKtAXfWtx56q_A",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "巧用BP渗透BC",
+        "url": "https://mp.weixin.qq.com/s/Uz_CwIUCFhDTHV3Kkhl41g",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "漏洞预警：LiteLLM未鉴权命令执行",
+        "url": "https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "玲珑安全第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+        "url": "https://mp.weixin.qq.com/s/pbSUX7gtkvSBJWzNQZwIdw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
     }
 ]
