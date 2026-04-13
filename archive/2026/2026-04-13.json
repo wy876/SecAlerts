@@ -1,0 +1,116 @@
+[
+    {
+        "title": "【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件",
+        "url": "https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Nginx文件解析漏洞",
+        "url": "https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "0day--JeecgBoot v3.9.1 多漏洞审计过程",
+        "url": "https://mp.weixin.qq.com/s/3o_hUBVkb_WqKeB_mvtFdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "2026 内网渗透全栈实战——边界无痕打点与全链路消融（原创实战版、截取课程部分内容）| 1.5万字长文解读",
+        "url": "https://mp.weixin.qq.com/s/dCWZFqQIpS6OYkhAM9qSsg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "漏洞复现 | 中成科信综合管理平台 UploadFile 存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/PLOiAq8Nh2xBzmAHfFNR5A",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【视频】React 服务器函数原型污染 (RCE)",
+        "url": "https://mp.weixin.qq.com/s/-2BwwLCz-Sp1wbBaJaHPQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "网安渗透和网安炒粉哪个更有潜力",
+        "url": "https://mp.weixin.qq.com/s/Hn9AqixDmEUR_0DXznQjeg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "java内存马之-Spring-Interceptor-手把手投喂内存马",
+        "url": "https://mp.weixin.qq.com/s/fdoYcbkkZH2jXQ2cjbatGQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Src--支付漏洞实战",
+        "url": "https://mp.weixin.qq.com/s/Q_2DOia4fxaVwEaP7Tmnfg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "与Claude共处的10分钟：深挖Apache ActiveMQ远程代码执行漏洞（CVE-2026-34197）",
+        "url": "https://mp.weixin.qq.com/s/2N-3lvaPig9eo9S73kVMeg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Adobe 修复了正被积极利用的 Acrobat Reader 漏洞 CVE-2026-34621",
+        "url": "https://mp.weixin.qq.com/s/eKJMYCThcMK-sgyhqIdQag",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "CVE-2026-39987：Marimo 远程代码执行漏洞在披露后数小时内即遭利用",
+        "url": "https://mp.weixin.qq.com/s/95nd8n2RMWT6JsxcOCozNg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "打破K8s命名空间隔离：CVE-2026-4789 Kyverno漏洞详解",
+        "url": "https://mp.weixin.qq.com/s/svM2fKlM7TXAItPEKSA27w",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Claude Mythos找出27年前大漏洞，网安饭碗保不住了",
+        "url": "https://mp.weixin.qq.com/s/OJ9uotBEXlJnPf-oXx-UOg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "实战分析——一起0day附件邮件攻击真实案例的深度技术拆解",
+        "url": "https://mp.weixin.qq.com/s/TiOSLn-Et-hyzQ4-an8Kdg",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "【登录背后的秘密-第六章第二节】什么！Stay-logged-in Cookie没加盐？还有XSS漏洞？那我就不客气了",
+        "url": "https://mp.weixin.qq.com/s/qKVZPPXZ4WIIDJw0Q0rvrw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "漏洞预警 | parsl SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/neobyUOjW4Rd0PQ6kxTPyQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/6BpCnXURo5vinZqBkXt9pw",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    },
+    {
+        "title": "Fortinet FortiClientEMS 访问控制不当漏洞CVE-2026-35616利用分析及历史漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-13"
+    }
+]
