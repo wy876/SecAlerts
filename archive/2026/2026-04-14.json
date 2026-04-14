@@ -274,5 +274,29 @@
         "url": "https://mp.weixin.qq.com/s/TCzN6LVSZ0FkuwyCzbcWNw",
         "source": "Doonsec",
         "date_added": "2026-04-14"
+    },
+    {
+        "title": "2026年3月企业必须安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s/CsjqffVcf0J1SCmQnJT5yQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：Fortinet SQL 注入漏洞正被积极利用",
+        "url": "https://mp.weixin.qq.com/s/2tQ27h8o403qrzyeaDBRHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【安全圈】金山毒霸、360 安全卫士被曝存在内核驱动高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/y0N3ebgcZeQZmMnoCBDLLg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据",
+        "url": "https://mp.weixin.qq.com/s/FtQ_p2gxVHxHQ4Ibwfot-w",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
     }
 ]
