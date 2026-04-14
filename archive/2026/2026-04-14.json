@@ -196,5 +196,83 @@
         "url": "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw",
         "source": "Doonsec",
         "date_added": "2026-04-14"
+    },
+    {
+        "title": "NCTF 2026-鸡爪流高手（游戏服务器程序逆向 下溢出漏洞）",
+        "url": "https://mp.weixin.qq.com/s/ljO0hWB4u-NMj25gcDihQA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险",
+        "url": "https://mp.weixin.qq.com/s/4QAet8nXJrFpOiJ1jZmsZQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "JWT认证漏洞实战解析",
+        "url": "https://mp.weixin.qq.com/s/AZZMN6ojyX0-hOEBGxyiCg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Apache Tomcat 紧急修复多个漏洞",
+        "url": "https://mp.weixin.qq.com/s/4hkGV7Iqj6ZD-hHXDfVZcg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Axios 严重漏洞可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/zkBXYkmDlHMNQtxkdCOwZQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Windows Defender 0day 提权漏洞 【预警】",
+        "url": "https://mp.weixin.qq.com/s/gKYb_GJj_co403nudNvkgQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "美英报告称Mythos模型无限压缩漏洞披露到武器化时间窗口",
+        "url": "https://mp.weixin.qq.com/s/bJU8T8sILzvZsc68L05mHg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "红队攻防后渗透工具自动化免杀！！！绕过360、Defender、火绒、卡巴等",
+        "url": "https://mp.weixin.qq.com/s/Z1mleFHg2sYSZD4VtgvNaA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Windows中如何根据systeminfo信息获取需要修复的漏洞列表",
+        "url": "https://mp.weixin.qq.com/s/UjP2xir1OEovJigkZWM9qw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【漏洞通告】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197)",
+        "url": "https://mp.weixin.qq.com/s/IZJi7UZiWjocSDBTdCyPZA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "跨平台固件级持久化：APT攻击向底层渗透的技术演进",
+        "url": "https://mp.weixin.qq.com/s/alHTiEL20YwYtgk-dJotLg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【漏洞通告】Marimo WebSocket 认证绕过漏洞(CVE-2026-39987)",
+        "url": "https://mp.weixin.qq.com/s/5YD-aW98Fu1VNAlUanuvwA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "直播预约｜第二届智能渗透挑战赛，龙虾黑客巅峰对决",
+        "url": "https://mp.weixin.qq.com/s/TCzN6LVSZ0FkuwyCzbcWNw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
     }
 ]
