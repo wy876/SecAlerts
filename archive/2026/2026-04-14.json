@@ -16,5 +16,95 @@
         "url": "https://mp.weixin.qq.com/s/A1QkHjxR-txLHynisXDyiw",
         "source": "Doonsec",
         "date_added": "2026-04-14"
+    },
+    {
+        "title": "一次二进制RCE漏洞审计",
+        "url": "https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "代码审计 一次SQL注入漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "当网站被黑时，应该怎么排查问题和漏洞",
+        "url": "https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+        "url": "https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【玲珑安全】第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+        "url": "https://mp.weixin.qq.com/s/70eIhMVueNAIDWPe6dkIfg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【漏洞通告】GNU InetUtils Telnetd远程身份验证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/n4OYBnt-vVGQBE2Ya2P0og",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【漏洞通告】GNU InetUtils Telnetd远程身份验证绕过漏洞（CVE-2026-24061）",
+        "url": "https://mp.weixin.qq.com/s/-I5astLCpreCcwywOpXdfA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "【高危漏洞预警】Nginx ngx_http_dav_module堆缓冲区溢出漏洞(CVE-2026-27654)",
+        "url": "https://mp.weixin.qq.com/s/xIYctO7IF1zAd2PcjLVFsQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "漏洞复现 | 畅捷通-畅捷CRM getsort 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/fPp2xRmsS--Tg3JXgCk5Cw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Google Chrome WebGL 越界读/写漏洞允许远程代码执行。",
+        "url": "https://mp.weixin.qq.com/s/TBHmht4qTippf47eFNy3Ww",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "未修复的RAGFlow漏洞：低权限用户也能远程执行命令",
+        "url": "https://mp.weixin.qq.com/s/RgY94mgqIf7PYnprJ91Wzg",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "一体化渗透测试工具hackingtool",
+        "url": "https://mp.weixin.qq.com/s/q0CDBG4-Oeucz9bLjDilJw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "LiteLLM 遭受攻击：三重威胁漏洞使 AI 网关面临全面接管风险",
+        "url": "https://mp.weixin.qq.com/s/ZMZhdhNijO4NaMVWkxpEuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+        "url": "https://mp.weixin.qq.com/s/UQxqGB17wWM3ADscgrURGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "天地伟业Easy7 queryRoomName SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomName-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-14"
     }
 ]
