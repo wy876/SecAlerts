@@ -178,5 +178,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b",
         "source": "BruceFeIix",
         "date_added": "2026-04-14"
+    },
+    {
+        "title": "[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "Axios爆SSRF漏洞，特定条件下可导致RCE",
+        "url": "https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人",
+        "url": "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw",
+        "source": "Doonsec",
+        "date_added": "2026-04-14"
     }
 ]
