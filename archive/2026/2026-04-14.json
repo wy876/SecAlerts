@@ -106,5 +106,77 @@
         "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomName-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=2&sn=20c8c942f3ee8f9b79a0f2ce1fea5a0d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [Adobe 紧急修复已遭利用的 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [Marimo 高危预认证 RCE 漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525295&idx=1&sn=57c607219c1557cadb6de52ccf6c2dc0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [从漏洞到规则：安全知识自动提取的初步探索",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [Anthropic：你们所有的零日漏洞，都归 Mythos 所有",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第14期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260406-20260412)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [漏洞预警：LiteLLM未鉴权命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
+    },
+    {
+        "title": "] [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-14"
     }
 ]
