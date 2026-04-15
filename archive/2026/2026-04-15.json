@@ -238,5 +238,167 @@
         "url": "https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q",
         "source": "Doonsec",
         "date_added": "2026-04-15"
+    },
+    {
+        "title": "博硕BGM Download.ashx接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "内网渗透学习（红日一）",
+        "url": "https://mp.weixin.qq.com/s/yveI9XlPjUPyWj-PgVfgZA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "用户名 / 昵称内容注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/SzeDpY60Ywdg1WxF7-H-bw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "论文研读与思考｜XSSky：通过局部路径持久模糊测试检测XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/pjQyfYPpu_jRHM3RqUt_cQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "IOT漏洞挖掘初体验-Tenda A15",
+        "url": "https://mp.weixin.qq.com/s/CndbsWSpVMhSDMeRZEH7FA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【安全更新】微软4月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/vqCWhkAK0GECS_SQ-xC5Gg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "轻量级的CTF/渗透测试Fuzz工具 - Ryzf",
+        "url": "https://mp.weixin.qq.com/s/LA6jIxszuFRtp01s8LyF0Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "微软Defender零日漏洞可导致权限提升攻击",
+        "url": "https://mp.weixin.qq.com/s/YTfCzsTdF4wZRnnUdQmVPA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【安全圈】Adobe 修复 PDF 阅读器零日漏洞，已被黑客利用至少四个月",
+        "url": "https://mp.weixin.qq.com/s/LCBNoUxTai6D-nRmE4IW-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【安全圈】微软 SharePoint Server 0Day漏洞遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/I4knZFuMN6uYTJqscwjHfA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "Ivanti Neurons for ITSM漏洞允许远程攻击者获取用户会话",
+        "url": "https://mp.weixin.qq.com/s/QbPE4MYPikfr0cUfVg0oZA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "微软2026年4月补丁星期二 – 修复168个漏洞，包括正在被利用的0day",
+        "url": "https://mp.weixin.qq.com/s/SXpPUvuZOvJuV9HtkL8vTg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "实测：Anthropic新模型可执行复杂渗透测试，自主攻陷基础防护系统",
+        "url": "https://mp.weixin.qq.com/s/QS3vf6aaYRkdFi_lzz9URw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "PHP Composer 多个新漏洞可导致任意命令执行",
+        "url": "https://mp.weixin.qq.com/s/YPVIc3MmgbXm2hFoehoFQA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "微软4月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s/aQdij4SsQhbE840Nf-hehw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "记某edusrc未授权泄露全站密码信息&amp;AI渗透实战测试",
+        "url": "https://mp.weixin.qq.com/s/5TEykmmjqRckg8T5t6ggwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）",
+        "url": "https://mp.weixin.qq.com/s/tE1ru0R7FK44-mHo0fF5dQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "真实安全漏洞，轻松到手",
+        "url": "https://mp.weixin.qq.com/s/zXKubSZz9k9wRA_hW22eTQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【免费领】Android系统漏洞实战权威教程",
+        "url": "https://mp.weixin.qq.com/s/VdKJ9WvKpE-x4Rz9buhpEQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【风险通告】微软4月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/oo4bwTWyk4ahcHrj2qhddw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "一个零基础小白，如何从啥都不会到挖到人生第一个漏洞？",
+        "url": "https://mp.weixin.qq.com/s/tY5lmYSa0g-HdNhSe-MsCw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【红队工具】攻防后渗透工具自动化免杀！！！",
+        "url": "https://mp.weixin.qq.com/s/ozWYdrjRoCI1L-6k7v3yDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【漏洞通告】Apache Tomcat EncryptInterceptor绕过漏洞(CVE-2026-34486)",
+        "url": "https://mp.weixin.qq.com/s/CidhE3791Nodwp9CbWNpQw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【漏洞通告】微软4月多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Q418HNHiqYF9YMZDchtyAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "🚨 警告：Juniper 网络设备存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/WQWlAz1FHnNS7xS_KnE6fQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【代码审计】Fortify浅用",
+        "url": "https://mp.weixin.qq.com/s/hp9GEmRuD61yUl7jTmzlKg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "Apache Tomcat 远程代码执行漏洞，附漏洞自查方案",
+        "url": "https://mp.weixin.qq.com/s/-42YuZv_nyDrzMx2xaf_mw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
     }
 ]
