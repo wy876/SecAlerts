@@ -1,0 +1,104 @@
+[
+    {
+        "title": "A神-小朋友的新一期代码审计来了",
+        "url": "https://mp.weixin.qq.com/s/5ag4BR4t4rQgDJFYq0DRHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "技能大赛｜渗透测试员技能竞赛报名开始",
+        "url": "https://mp.weixin.qq.com/s/5YZY-3Lpp0X64cCJ75N6sg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "Web应用漏洞自动化扫描工具 -- webjc（4月13日更新）",
+        "url": "https://mp.weixin.qq.com/s/6VJlmBRsmtQsTMzfFCGndQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "CVE-2026-33439｜OpenAM反序列化远程代码执行（POC）",
+        "url": "https://mp.weixin.qq.com/s/VKZgd1PZ7gxXktf4ttQ-GQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "CVE-2026-34197｜Apache ActiveMQ远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/2b4AmQ9jeKGxnNsL731gMA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "严重——Orthanc DICOM 服务器中的 9 个漏洞威胁医疗数据完整性",
+        "url": "https://mp.weixin.qq.com/s/smPgWehyPiWVbWG1G2ULmw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "攻击者利用CVE-2025-0520漏洞，攻击未打补丁的ShowDoc服务器",
+        "url": "https://mp.weixin.qq.com/s/mXGZpxFyPhEwP5qY-I_qbQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【视频】CVE-2025-2563： WordPress 提权",
+        "url": "https://mp.weixin.qq.com/s/usrLku0LKmxfO7nOgKKbYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "Claude Mythos预览版，具备强大0Day漏洞发现与利用能力",
+        "url": "https://mp.weixin.qq.com/s/Ngu9c1tNIfkCig65sWPLtg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "某公司的渗透技能考核靶场通关记录",
+        "url": "https://mp.weixin.qq.com/s/yu93Q2HHm2Xt7dV6KL0LMg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "漏洞预警 | OpenAM远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/1eGd5UQC0_nxZGp1wJIMkQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "漏洞预警 | LEAN MES系统任意文件上传/删除漏洞",
+        "url": "https://mp.weixin.qq.com/s/NM2vB3U30Lejhpgh3FZhYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【SRC实战】通过报错拿下高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/zsnLoIP31MUWu3WH_olA-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "Windows事件日志服务曝内核地址泄露漏洞，影响NVMe存储设备",
+        "url": "https://mp.weixin.qq.com/s/s78ZiqEKWkNvC__BdEJjGw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "明源地产ERP GetErpDept.ashx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/0in0EwZm_iJg5Rg7HK4Jng",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "F5 安全公告：NGINX ngx_http_dav_module 漏洞 CVE-2026-27654",
+        "url": "https://mp.weixin.qq.com/s/jHtxeaXbEGVLcgGvQ8v8kg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "天地伟业Easy7 queryRoomConfigs SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomConfigs-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-15"
+    }
+]
