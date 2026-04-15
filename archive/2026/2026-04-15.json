@@ -220,5 +220,23 @@
         "url": "https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA",
         "source": "Doonsec",
         "date_added": "2026-04-15"
+    },
+    {
+        "title": "大语言模型驱动的漏洞挖掘：能力机制、场景分析与演进路径",
+        "url": "https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【SRC实战】企业SRC中的两次任意用户注册漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "国内两大安全软件内核驱动高危漏洞研判",
+        "url": "https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
     }
 ]
