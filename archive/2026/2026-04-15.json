@@ -100,5 +100,125 @@
         "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-queryRoomConfigs-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [Apache Tomcat 紧急修复多个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=1&sn=1c34f092d86b657532a27c79a93f83a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [Axios 严重漏洞可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [美英报告称Mythos模型无限压缩漏洞披露到武器化时间窗口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515814&idx=2&sn=c4add54fd603fad96df85c248460e2f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [Axios爆SSRF漏洞，特定条件下可导致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [ivanti CVE-2025-0282 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=1&sn=30bf32e1f57fead35b98087dc646ed4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [【安全圈】金山毒霸、360 安全卫士被曝存在内核驱动高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=1&sn=fa2ee897d05ae80591734bbcffa07abd",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=2&sn=8b9601124f9fd4627498d6920d66e5c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [Anthropic最强模型被质疑夸大找漏洞能力；奥尔特曼住所一周内两次遇袭；需求火爆，苹果提升初代Macbook Neo产量至1000 万台｜极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103896&idx=1&sn=b5cd7865838919d54b32379edcb138a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [【漏洞通告】Marimo WebSocket 认证绕过漏洞(CVE-2026-39987)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525306&idx=1&sn=73f3462b7398a6cb2d7de0318e6aa81c",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "] [2026年3月企业必修安全漏洞清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497462&idx=1&sn=5b9db9b15e768352ad174eb07d2948ac",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "API漏洞赏金大师班2026：寻找隐藏端点",
+        "url": "https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞",
+        "url": "https://mp.weixin.qq.com/s/n8Ia5fxTfL4FxGERjJ0gtA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器",
+        "url": "https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)",
+        "url": "https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "月神 SRC 漏洞挖掘课程・第六期 全新升级",
+        "url": "https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "GraphQL RCE：通往云身份的攻击链",
+        "url": "https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "月神SRC漏洞挖掘课程・第六期全新升级",
+        "url": "https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "微软 SharePoint Server 零日漏洞已被攻击者积极利用",
+        "url": "https://mp.weixin.qq.com/s/8LFA2CjMBNquMHFSAblNgA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
+    },
+    {
+        "title": "WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE   POC遭贩卖",
+        "url": "https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA",
+        "source": "Doonsec",
+        "date_added": "2026-04-15"
     }
 ]
