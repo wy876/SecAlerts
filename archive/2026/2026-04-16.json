@@ -358,5 +358,17 @@
         "url": "https://mp.weixin.qq.com/s/Eew5YBtO7i__Cw9z265RrA",
         "source": "Doonsec",
         "date_added": "2026-04-16"
+    },
+    {
+        "title": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/gg1KMQpuHQPWRng-nPxWBA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "天地伟业Easy7 uploadFile接口存在任意文件上传漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/TyF6pnpDhE_Z7WHlF3aHRg",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
     }
 ]
