@@ -70,5 +70,89 @@
         "url": "https://mrxn.net/jswz/easy7-apps-WebService-UploadOwnerImage-rce.html",
         "source": "MRXN",
         "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613414&idx=3&sn=d5076ce31c456b0a5d868670a8138e94",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [PHP Composer 多个新漏洞可导致任意命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [微软4月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=2&sn=b5edef54c4ece70f1affe656616e58df",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [微软4月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=2&sn=7245dbf9b07c83cd708b6155bd300820",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [OpenClaw安全实战系列三：利用网关劫持实现 OpenClaw控制端1-Click RCE (CVE-2026-25253)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [【安全更新】微软4月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247490027&idx=1&sn=097da91bd350f86fda58d7d57838acc7",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [Apache Tomcat 远程代码执行漏洞，附漏洞自查方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [【安全圈】Adobe 修复 PDF 阅读器零日漏洞，已被黑客利用至少四个月",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=1&sn=6c0e8d061d29da3af35a3914330ee403",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [【安全圈】微软 SharePoint Server 0Day漏洞遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=2&sn=7f36a44c547210554fed60111cd0c94c",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [【漏洞通告】Axios SSRF漏洞 (CVE-2026-40175)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525339&idx=1&sn=aaab6e4838ba21ae6ebb1cfa6018c207",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [Apache Tomcat RCE 漏洞来袭，腾讯云安全已支持防护​",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [Agentic workforce 已然到来：思科为何要为 AI 安全装上一只 “Claw”",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486468&idx=1&sn=f905fc037523250b71260197512aed69",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "] [2026年4月补丁日深度解析：163个漏洞含零日与多个严重RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-16"
     }
 ]
