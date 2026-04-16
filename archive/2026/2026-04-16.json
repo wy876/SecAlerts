@@ -154,5 +154,113 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2",
         "source": "BruceFeIix",
         "date_added": "2026-04-16"
+    },
+    {
+        "title": "一人SRC公司：月成本237元，我靠挖漏洞养活自己的那点事",
+        "url": "https://mp.weixin.qq.com/s/A5-MPwPoBJhLLRuXZi-nvQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【渗透必备】263+ 绕过技术的文件上传漏洞检测平台",
+        "url": "https://mp.weixin.qq.com/s/SOBB01I5NplDSpIbDM5gEA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Nginx-ui漏洞已被攻击者积极利用——可实现服务器完全控制",
+        "url": "https://mp.weixin.qq.com/s/G8dP6z2VKhydJVxb9oRSSw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "针对微软Defender零日漏洞的新型PoC漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/OpJb8PcEQviqh54EuW8NpQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【安全圈】CISA 将微软 SharePoint Server 和 Office Excel 漏洞列入已知被利用漏洞目录",
+        "url": "https://mp.weixin.qq.com/s/iZG6Ld-xjuEE30o3lTuJfg",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【安全圈】微软 2026 黑客大赛支付 230 万美元：揪出 80+ 个云和 AI 漏洞",
+        "url": "https://mp.weixin.qq.com/s/642De5kQIVX0XUgIBAt0Jg",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "论文研读与思考|ChainFuzzer：LLM Agent中面向工作流级别的多工具漏洞的灰盒模糊测试",
+        "url": "https://mp.weixin.qq.com/s/rQRss4Ib4gt8aIn_jL7QYQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "继续干货输出！JWT认证漏洞实战解析（二）",
+        "url": "https://mp.weixin.qq.com/s/J0Wjj_WR1GDyxw9ydBVMDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "渗透测试练习——DarkHole_2靶场实践：涉及对.git文件的处理，sql注入及利用sudo提权",
+        "url": "https://mp.weixin.qq.com/s/cJLZ9zsFD_KYUjQ5VbtrwQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Codex 如何利用三星电视内核漏洞实现权限越狱",
+        "url": "https://mp.weixin.qq.com/s/s4UCtqMKq57MZNtiksMjSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Windows Defender居然爆出重大提权漏洞？杀软反被利用？作者发布两小时的推文后删除？",
+        "url": "https://mp.weixin.qq.com/s/ZRLkJi15du8ceOEoS8JM1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "无条件接管Nginx！Nginx-UI漏洞链发现在野利用",
+        "url": "https://mp.weixin.qq.com/s/KUPsiUFwLerRwBpgabPTaw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "榨干Intego最后一滴：Windows权限提升漏洞的简单艺术",
+        "url": "https://mp.weixin.qq.com/s/ZmzubIfkycq-K5Hs3KuqNw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【红队】一个用于扫描web端漏洞的工具",
+        "url": "https://mp.weixin.qq.com/s/LOp_Rpv4-lAl1iWNya3gBg",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "EDR漏洞挖掘实战：从模糊测试到拒绝服务攻击框架",
+        "url": "https://mp.weixin.qq.com/s/UnI0lIQZOyxJ3Qg4ngcIxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【代码审计】Tabby 环境搭建",
+        "url": "https://mp.weixin.qq.com/s/EWqCiEg3TQp609gOlTR_gQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "通过“外部文件”功能进行任意文件上传，可实现客户端远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/KWsTNIOfcggyq0JTdzgatQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "mdserver-web(夸父面板)≤0.18.4 多处未授权访问 + 信息泄露 + RCE 漏洞分析",
+        "url": "https://mrxn.net/jswz/mdserver-web-unauthentication-bypass-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-04-16"
     }
 ]
