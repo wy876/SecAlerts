@@ -262,5 +262,101 @@
         "url": "https://mrxn.net/jswz/mdserver-web-unauthentication-bypass-rce.html",
         "source": "MRXN",
         "date_added": "2026-04-16"
+    },
+    {
+        "title": "微信小程序全自动捡洞工具，一键完成解包反编译与敏感信息泄露审计，可视化漏洞报告输出",
+        "url": "https://mp.weixin.qq.com/s/Jj3nR1RbNa3vnKo9nETQaw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "默连(morelian) 简简单单的webshell管理工具(支持常规的代码执行，文件管理等，默认支持http与socks代理，支持gui与浏览器两种运行方式)",
+        "url": "https://mp.weixin.qq.com/s/5Qpaw3DFKMO-FYlZctds6g",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/bp_fOl6_xW4kezCMGHf56Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/K5sSgIKopsMF-d0jmKhO5A",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【已复现】Windows 截图工具 NTLM 信息泄露漏洞(CVE-2026-33829)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/zXjSTIViLbLxgZPOLEx0jA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "chatgpt-on-wechat存在身份验证漏洞漏洞(CVE-2026-6129)",
+        "url": "https://mp.weixin.qq.com/s/qEqK1B2-UpAiZDNbR5voDA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Axios SSRF漏洞 (CVE-2026-40175)",
+        "url": "https://mp.weixin.qq.com/s/JRZVsbGE8MJqldEIinOJWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Mesa存在越界写入漏洞(CVE-2026-40393)",
+        "url": "https://mp.weixin.qq.com/s/GX-eSvSIa6lDhjC_Nk0Iyw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "libexif存在整数溢出漏洞漏洞(CVE-2026-40386)",
+        "url": "https://mp.weixin.qq.com/s/xjweqVcLHF-Q7KXrUrFR0A",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "代码审计 一次鉴权绕过",
+        "url": "https://mp.weixin.qq.com/s/_4ye5VWloLtoTR1zFQTsXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s/5PFLN_7bQvnkUzuFcdvZTw",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【成功复现】Apache Tomcat远程代码执行漏洞(CVE-2026-34486)",
+        "url": "https://mp.weixin.qq.com/s/JWjfpTJ4FCTLTwwYsBo66g",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管",
+        "url": "https://mp.weixin.qq.com/s/8_0CzT8P-QLXeM3ISGdhYg",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "人工智能重要漏洞 | CNNVD通报新一批OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/OIrouZiHOjYq2GzSkmuxCQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/kb8Yuz98NxW135hN3qnmdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "itC 中心管理服务器 uploadFileApp.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Eew5YBtO7i__Cw9z265RrA",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
     }
 ]
