@@ -16,5 +16,59 @@
         "url": "https://mp.weixin.qq.com/s/ze4brfkTztUNdltfdxMYBw",
         "source": "Doonsec",
         "date_added": "2026-04-16"
+    },
+    {
+        "title": "AI渗透测试工具 - Shannon",
+        "url": "https://mp.weixin.qq.com/s/MsFCBrI4ybHhKPOauZoK9w",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Blade站点的渗透测试到MySQL数据库权限接管",
+        "url": "https://mp.weixin.qq.com/s/laFUE4OCAf6g_iyWHGZh1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "微软 2026 年 4 月安全更新修复了已被积极利用的 SharePoint 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/PxQfirgVtm1fIKSI72Qh4Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "CVE-2026-33032：严重的 nginx-ui 漏洞可导致未授权服务器访问",
+        "url": "https://mp.weixin.qq.com/s/buP-MBrB1T6i8_lv2ZthhQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "PHP Composer 漏洞可通过 Perforce VCS 实现远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【视频】一键式 NTLM 泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/uiYZZmOxTQXrwmnUzitK0w",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "Openclaw的应用（四）：渗透测试",
+        "url": "https://mp.weixin.qq.com/s/_w3nFrayvXD47RNFscWc1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "【安全预警】CVSS 8.8！PHP Composer 任意命令执行漏洞原理解析与修复指南",
+        "url": "https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-16"
+    },
+    {
+        "title": "天地伟业Easy7 UploadOwnerImage.jsp 文件上传漏洞",
+        "url": "https://mrxn.net/jswz/easy7-apps-WebService-UploadOwnerImage-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-04-16"
     }
 ]
