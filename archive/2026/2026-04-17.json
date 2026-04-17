@@ -40,5 +40,83 @@
         "url": "https://mrxn.net/jswz/easy7-apps-WebService-GetOtherDomainServer-SSRF.html",
         "source": "MRXN",
         "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [已遭活跃利用的 nginx-ui 漏洞可导致 Nginx 服务器遭完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525782&idx=1&sn=95b7f1a90c60099f0b4ed5ecbfc983d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [Codex 如何利用三星电视内核漏洞实现权限越狱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=2&sn=731c575f108348537ca001ef93c4a021",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [无条件接管Nginx！Nginx-UI漏洞链发现在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508630&idx=1&sn=543bb7f3dbe8c36f4b62d8fdd61c0931",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [人工智能重要漏洞 | CNNVD通报新一批OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=1&sn=87df5befc5585a9c088cf2b7b1348629",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=2&sn=25c9abf4d4d499a5bd1ae3cc94f7c24f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [【已复现】Windows 截图工具 NTLM 信息泄露漏洞(CVE-2026-33829)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=2&sn=ccbfe03aa4b3cf19ab081e04511cb4ae",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [CVE-2026-34621 Root Cause Analysis",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484521&idx=1&sn=f85a7ae0d8375841ac57664a7631a0d8",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141053&idx=2&sn=aa8ec1d92134b8a9eb61a234538bb968",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518385&idx=1&sn=d58d026a8394e3b8a17a1409246d5653",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [大疆 OSMO Pocket 4 深度体验：三年之后，大疆如何继续定义「手持云台相机」",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104021&idx=1&sn=8b223218ed8c733e8d867ed61a250b28",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [2026-04微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532137&idx=1&sn=8b3cbd5ac37ff1d3cb2a83d56e414ad1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "] [某rce漏洞挖掘等案例分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-17"
     }
 ]
