@@ -220,5 +220,53 @@
         "url": "https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw",
         "source": "Doonsec",
         "date_added": "2026-04-17"
+    },
+    {
+        "title": "覆盖10亿用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露",
+        "url": "https://mp.weixin.qq.com/s/LdFxutGiQumDDYi8iDxXLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第五期）",
+        "url": "https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "CVE复现之老洞新探CVE-2021-3156",
+        "url": "https://mp.weixin.qq.com/s/cPULYIBBV9DyVd6x_QzZ3Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "【免费领】顶级黑客工具：Kali Linux最优渗透测试思路及方法",
+        "url": "https://mp.weixin.qq.com/s/6XGueAev-neUkdt7kV6mrg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "覆盖亿级用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露",
+        "url": "https://mp.weixin.qq.com/s/D_y6vbBa5KoP65uGwkW3Lg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "[漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/eplDjyND13nyXVufHCWeBA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "【代码审计】基于Tabby的反序列化示例",
+        "url": "https://mp.weixin.qq.com/s/R7tBno-m5o2QGN6uZJ5Plg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "[漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/P4GmEK8tEwD8MAZZQGLj8w",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
     }
 ]
