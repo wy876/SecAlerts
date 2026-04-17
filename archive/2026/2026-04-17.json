@@ -268,5 +268,29 @@
         "url": "https://mp.weixin.qq.com/s/P4GmEK8tEwD8MAZZQGLj8w",
         "source": "Doonsec",
         "date_added": "2026-04-17"
+    },
+    {
+        "title": "针对Microsoft Defender零日漏洞的新概念验证利用代码发布",
+        "url": "https://mp.weixin.qq.com/s/vyvfLkl-NExwWLl78qVlxA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Chrome隐私漏洞：指纹识别与HTTP头泄露使用户面临风险",
+        "url": "https://mp.weixin.qq.com/s/r4fBT0h-jzN8SxTfndggZg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Windows截图工具漏洞允许攻击者通过网络执行欺骗操作",
+        "url": "https://mp.weixin.qq.com/s/TOFhVZjiVT9H5f3HsePOyQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Azure Windows 管理中心的一键式远程代码执行漏洞允许攻击者执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
     }
 ]
