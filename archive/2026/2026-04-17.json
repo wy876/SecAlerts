@@ -118,5 +118,107 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a",
         "source": "BruceFeIix",
         "date_added": "2026-04-17"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第五期）",
+        "url": "https://mp.weixin.qq.com/s/PLInxZLj89ZkyE9AP0WLcQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分",
+        "url": "https://mp.weixin.qq.com/s/2gA8KuLUpHsivY9SI9X5DA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年4月13日-4月17日）",
+        "url": "https://mp.weixin.qq.com/s/3eQn8-mbJiio8NXepLKxow",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "【漏洞通告】Nginx UI MCP接口绕过认证漏洞(CVE-2026-33032)",
+        "url": "https://mp.weixin.qq.com/s/7kHtjd2OqAtbTccOn_p7cg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "360发现全球高危漏洞，漏洞挖掘智能体首次披露",
+        "url": "https://mp.weixin.qq.com/s/DQTx5-O6hnzW0kJyE22fIw",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "三星电子员工利用公司系统漏洞大规模收集个人信息 被起诉",
+        "url": "https://mp.weixin.qq.com/s/CLXLNRn2xjPiuflugDhHjQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Zack-AI-Scanner 新一代基于AI大模型的Web漏洞扫描器 (文末福利)",
+        "url": "https://mp.weixin.qq.com/s/UcKuAyZow6QhEhCbpX4JDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "告别盲审，用Agent skill代码审计定位高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/eAkrurVXmoZY4IPjvlaoxQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Chrome 138完整漏洞利用链——从CVE-2026-5873到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "使用 Python 和 Jython 编写自定义 Burp 扩展程序进行自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/S5BIXfYiNR46BkgZ0YS0Zg",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "UAC-0247 漏洞利用浏览器和 WhatsApp 数据窃取攻击医院和政府机构",
+        "url": "https://mp.weixin.qq.com/s/cgFLiT2A8SpSV3dAySePdw",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "44个黑客常用的内网渗透命令符",
+        "url": "https://mp.weixin.qq.com/s/XipC-V-nCZLrY_myhlG4bQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Electron客户端渗透实战",
+        "url": "https://mp.weixin.qq.com/s/2dYtWcmSt53FTZAYhMR2LQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "C-Lodop打印服务系统存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/9z2bJp0oi-18ZjCF2M90qQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "【安全圈】开源AI中转站现高危漏洞 利用缺陷可以伪造任意金额充值",
+        "url": "https://mp.weixin.qq.com/s/AKoK82PO4L4fAkruS1PkSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "某APP的一次渗透",
+        "url": "https://mp.weixin.qq.com/s/i-4doIau2xBCp-LqSyQsTA",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
+    },
+    {
+        "title": "Apache Log4j2远程代码执行漏洞详解",
+        "url": "https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw",
+        "source": "Doonsec",
+        "date_added": "2026-04-17"
     }
 ]
