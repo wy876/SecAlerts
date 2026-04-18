@@ -4,5 +4,47 @@
         "url": "https://mp.weixin.qq.com/s/T6LDO7qFp5SMUWItnV2bbA",
         "source": "Doonsec",
         "date_added": "2026-04-18"
+    },
+    {
+        "title": "连续三年！奇安盘古斩获OpenHarmony社区漏洞挖掘双项大奖",
+        "url": "https://mp.weixin.qq.com/s/OU34zpXkm4gmpuovd-XrUw",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "订单总额验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/v7i_Gm983sMIqPjAO9I-Hw",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "MetaCRM美特crm系统toviewspecial.jsp接口存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/mJa5OMViE8FaYzcuD_rFng",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "订单总额验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/H_Du3fdmLxJH3kyohEwbCw",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "广西金融机构“AI辅助精准营销场景建设”项目交流和POC测试公告",
+        "url": "https://mp.weixin.qq.com/s/GFXpcPOBKM241zj0tPRv1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "【征稿】EXPRESS 2026：从云原生到AI原生，重塑软件系统的可解释性与可靠性",
+        "url": "https://mp.weixin.qq.com/s/E6nQ6B8sBy48TvDSiaQN7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "天地伟业Easy7 getInquestIdByRoomId SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-getInquestIdByRoomId-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-18"
     }
 ]
