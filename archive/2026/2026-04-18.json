@@ -46,5 +46,77 @@
         "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-getInquestIdByRoomId-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [能信安：病毒和恶意代码通告",
+        "url": "https://mp.weixin.qq.com/s/k0P7NuHQMEXPV1GXcbqgkA",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTE1ODczMg==&mid=2247500237&idx=1&sn=e9880580ec6b69027016c2e8025bdd27",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [思科紧急修复高危 ISE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525791&idx=1&sn=8e8b1cc8aa09816bba96ee685aa24394",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [安全热点周报：Adobe 修复已被利用数月的 Reader 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505248&idx=1&sn=5d29547754806bda2da31d2a75c24db4",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [【安全圈】开源AI中转站现高危漏洞 利用缺陷可以伪造任意金额充值",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075765&idx=3&sn=a588e1c5afd9f96b2e0c70d421d8b1fc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [Anthropic发布Claude Opus 4.7：自动化网络安全防护上线，面向长时自主任务；CNNVD发布关于微软多个安全漏洞的通报| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141063&idx=2&sn=0676a1147b4aefbc60868519f1f70e05",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [雷军15小时直播验证「一次充电」到上海；大疆 Pocket 4 上市即售罄；Opus4.7 正式上线   | 极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104072&idx=1&sn=9cf8d55af3672ba05cfeb7f55940e29a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [【漏洞通告】Nginx UI MCP接口绕过认证漏洞(CVE-2026-33032)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525356&idx=1&sn=937dcf233c3dd1df9a2d77f81c9a211b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390359&idx=1&sn=63fe73fcd9180d0b4fb8476201925c6d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [成果分享 | [USENIX Security 2026] KernelRCA：Linux内核漏洞的自动化成因分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498287&idx=1&sn=cfb1678feb5e2fa37e8e0e45db513fbd",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "] [覆盖亿级用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585736&idx=1&sn=3f8646fdec13122c42f50da17a326780",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-18"
+    },
+    {
+        "title": "一个登录框，我薅了5个高危漏洞——认证机制避坑指南（反向版）",
+        "url": "https://mp.weixin.qq.com/s/VxcGuiD0qYlRNxz6YE5V_Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-18"
     }
 ]
