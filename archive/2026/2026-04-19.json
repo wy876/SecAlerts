@@ -10,5 +10,233 @@
         "url": "https://mrxn.net/jswz/1422.html",
         "source": "MRXN",
         "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [某rce漏洞挖掘等案例分享",
+        "url": "https://mp.weixin.qq.com/s/0L240Zrl3a8S4OxGA6gczQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [NGINXDAV模块缓冲区溢出漏洞 | CVE-2026-27654原理分析&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/egGMRcqrD5pfReqQHS4cVQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [Nginx UI MCP接口绕过认证漏洞 | CVE-2026-33032复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/KI1ABkbj9wUhHF-vsvrxoQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [针对 FortiSandbox 漏洞的 PoC 攻击程序已发布，该漏洞允许攻击者执行命令",
+        "url": "https://mp.weixin.qq.com/s/Ef_u1QqqbTLK4Yf6uRmhFg",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [Windows Defender 漏洞 - RedSun EXP 详细分析",
+        "url": "https://mp.weixin.qq.com/s/1mJfEnzqA908kuTntG0sww",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [白宫拟开放Claude漏洞挖掘AI，军方禁令与民用部署冲突激化",
+        "url": "https://mp.weixin.qq.com/s/3YN32LgaECyQVeSM9eNTPA",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [苹果AirTag定位系统曝漏洞，攻击者可伪造位置误导追踪",
+        "url": "https://mp.weixin.qq.com/s/rAdxu94oMra2_FQ2WqEvQw",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞；OpenAI发布GPT-5.4-Cyber强化网安防御 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/DgB9WnuLxmbAxsu7UbVUsA",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [漏洞利用技术的“起源”",
+        "url": "https://mp.weixin.qq.com/s/xKxghgmtRL8YTi613_5HyQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [【代码审计】CodeQL初识",
+        "url": "https://mp.weixin.qq.com/s/406DYM0f4HHo_st1XK2bQQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [【征稿】EXPRESS 2026：从云原生到AI原生，重塑软件系统的可解释性与可靠性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495270&idx=1&sn=3e7673892424a6d556cd051eeb27e368",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [【安全圈】泄露的Windows Defender 0Day漏洞正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=1&sn=eea54b2e1d0364ac026a747fddb396d1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [【安全圈】Windows截图工具漏洞可导致攻击者通过网络实施欺骗攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=2&sn=fbb1043d986644c3e4bb0d107b0ecaea",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "] [【安全圈】白宫拟向联邦机构开放Anthropic的Claude Mythos漏洞挖掘AI访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=3&sn=1cbc47d7ccaa3c6d94793aacac6e9e98",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "一份文档引发的连锁漏洞、从一个文档到全校三要素泄露和RCE",
+        "url": "https://mp.weixin.qq.com/s/ui5r0PUueHitdpd3Q99e6w",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "网络安全人士必知的20个漏洞库",
+        "url": "https://mp.weixin.qq.com/s/P_8Ku5eK2mbn3LIOt77Axw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路",
+        "url": "https://mp.weixin.qq.com/s/g1Caz8sspvWYkGLYVWTaAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "微软Azure Windows Admin Center现一键式RCE漏洞，攻击者可执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/bDP4K7nxwbyxQD64sms51w",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "编程助手安全漏洞全景：42种攻击技术详解",
+        "url": "https://mp.weixin.qq.com/s/Ir6yTphzrscU0kFTBHfGEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "榨干 Intego 的最后一滴油——Windows 本地提权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/0pF7fBHrMWDQNXe3vX8KSw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "[TCH]腾讯云黑客松 第二届智能渗透挑战赛复盘",
+        "url": "https://mp.weixin.qq.com/s/H6otqBQ0lNAidCH_nnOXmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机",
+        "url": "https://mp.weixin.qq.com/s/u_LsN_S-oHdZzaoByjmwhA",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "MetaCRM美特crm系统toviewspecial.jsp接口存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/I1D9Y73nG3SxNnmWUTISbQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "某rce漏洞挖掘等案例分享",
+        "url": "https://mp.weixin.qq.com/s/0L240Zrl3a8S4OxGA6gczQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "NGINXDAV模块缓冲区溢出漏洞 | CVE-2026-27654原理分析&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/egGMRcqrD5pfReqQHS4cVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "Nginx UI MCP接口绕过认证漏洞 | CVE-2026-33032复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/KI1ABkbj9wUhHF-vsvrxoQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "针对 FortiSandbox 漏洞的 PoC 攻击程序已发布，该漏洞允许攻击者执行命令",
+        "url": "https://mp.weixin.qq.com/s/Ef_u1QqqbTLK4Yf6uRmhFg",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "Windows Defender 漏洞 - RedSun EXP 详细分析",
+        "url": "https://mp.weixin.qq.com/s/1mJfEnzqA908kuTntG0sww",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "线上十强出炉，决赛战火燃起！腾讯云黑客松智能渗透挑战赛决战在即！",
+        "url": "https://mp.weixin.qq.com/s/ldWARQ-h6Sbh99UZNdqV-A",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "白宫拟开放Claude漏洞挖掘AI，军方禁令与民用部署冲突激化",
+        "url": "https://mp.weixin.qq.com/s/3YN32LgaECyQVeSM9eNTPA",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "苹果AirTag定位系统曝漏洞，攻击者可伪造位置误导追踪",
+        "url": "https://mp.weixin.qq.com/s/rAdxu94oMra2_FQ2WqEvQw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞；OpenAI发布GPT-5.4-Cyber强化网安防御 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/DgB9WnuLxmbAxsu7UbVUsA",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "漏洞利用技术的“起源”",
+        "url": "https://mp.weixin.qq.com/s/xKxghgmtRL8YTi613_5HyQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "【代码审计】CodeQL初识",
+        "url": "https://mp.weixin.qq.com/s/406DYM0f4HHo_st1XK2bQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "网络安全 · 渗透测试 · 攻防对抗 · 红蓝对抗 · AI Agent Skillsxa0集合",
+        "url": "https://mp.weixin.qq.com/s/kysnFJ6LKYZ6ixBR1YYZYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "线上十强出炉，决赛战火燃起！腾讯云黑客松智能渗透挑战赛决战在即！",
+        "url": "https://mp.weixin.qq.com/s/txuRQPj7_cNJZrkxCei2CA",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "[TCH]腾讯云黑客松 第二届智能渗透挑战赛复盘",
+        "url": "https://mp.weixin.qq.com/s/7NHo3C8tDyO1vQsuBu5mog",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
+    },
+    {
+        "title": "Electron客户端渗透实战",
+        "url": "https://mp.weixin.qq.com/s/TgcFrNUPj7OIF2fozyx7tw",
+        "source": "Doonsec",
+        "date_added": "2026-04-19"
     }
 ]
