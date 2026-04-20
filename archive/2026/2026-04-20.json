@@ -1,0 +1,254 @@
+[
+    {
+        "title": "Vercel 被黑！",
+        "url": "https://mp.weixin.qq.com/s/LO91Y3sp2XRSevCWzgeCNQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "[工具教程]Burp效率封神！xia Liao插件一键生成测试信息，渗透测试省一半时间",
+        "url": "https://mp.weixin.qq.com/s/cBJSCf-ATdqItoc45Yu9BQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "[工具教程]Burp效率封神！xia Liao插件一键生成测试信息，渗透测试省一半时间",
+        "url": "https://mp.weixin.qq.com/s/q4TDUIG2OqaOBxuci3Mfqg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Nacos 访问控制错误漏洞(CVE-2021-29442) 附POC",
+        "url": "https://mp.weixin.qq.com/s/uNhFDirGREraOHzfwMO2OQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "TCH智能渗透赛: 你的下一个渗透 AI 为什么一定要是渗透 AI？",
+        "url": "https://mp.weixin.qq.com/s/ICPGmtMBlfuGmAqRdGhdwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "代码审计 yzmcms远程任意命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/R_ECu6dg3lVGbyD595ku5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "[工具教程]Burp效率封神！xia Liao插件一键生成测试信息，渗透测试省一半时间",
+        "url": "https://mp.weixin.qq.com/s/D6_xwhftPDlKNOrY8JL5Kw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "渗透测试 | 近期高危逻辑漏洞挖掘实战合集 (越权漏洞 / 支付漏洞 / 账号接管)",
+        "url": "https://mp.weixin.qq.com/s/I3zW_6dS5P8FZLDrBhV2Ig",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Struts2-066上传漏洞原理详解",
+        "url": "https://mp.weixin.qq.com/s/T81JkyY0hhoEA90isTKpCA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "2026 内网渗透全栈实战——内网基础侦查-被动测绘与协议指纹识别",
+        "url": "https://mp.weixin.qq.com/s/MafkxsQ2k_nUcmp5dL-ojg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "TCH智能渗透赛: 你的下一个渗透 AI 为什么一定要是渗透 AI？",
+        "url": "https://mp.weixin.qq.com/s/fDDF0kyAc-1p5HvsrC3NGw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "国内最强 AI 渗透测试 Agent —— TCH·腾讯云黑客松第二届智能渗透挑战赛 唯一 AK 战队复盘",
+        "url": "https://mp.weixin.qq.com/s/-kmRXpClZwj67qhyB5mccg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "学员审计JAVA开源系统前台RCE案例",
+        "url": "https://mp.weixin.qq.com/s/ex-yAN0z5snLgPznva9_Yg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "CVE-2026-34621｜Adobe Acrobat Reader远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/5tBoZ45oh9bL6zRA0IEICA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "CVE-2026-34486｜Apache Tomcat远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/oBwME2PZXIZZaPgBzEOcCA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "微软 Defender 遭攻击：三个零日漏洞被利用，其中两个暂未修补，可实现权限提升",
+        "url": "https://mp.weixin.qq.com/s/UGwRkXMImp7f81s2W0p8KA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Nexcorium 版 Mirai 恶意软件利用 TBK DVR 漏洞发起 DDoS 攻击",
+        "url": "https://mp.weixin.qq.com/s/MtB1jUWDEzwTOTBtZ28hoA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "内存安全攻防战：从CVE漏洞看Pixel 10如何用Rust彻底封死攻击面",
+        "url": "https://mp.weixin.qq.com/s/tF183VUaoKpSwW0maNMbHA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "漏洞预警 | Axios输入验证不当漏洞",
+        "url": "https://mp.weixin.qq.com/s/nGnS6OLS_dzmmS4yxjkHRA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/2pQYjf9_juh1BMNY7f_PpQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "HPE Aruba 私有 5G 平台漏洞导致凭证窃取攻击",
+        "url": "https://mp.weixin.qq.com/s/XzVxpCSjX3aREh1CsQt83A",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "[安全周报] 当NIST都承认追不上了——2026年漏洞管理体系的结构性崩塌已经开始",
+        "url": "https://mp.weixin.qq.com/s/SaJ-HzrTxXcWqUnFGxyfVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Vercel 居然被假 shinyhunter唬住了！？:-)",
+        "url": "https://mp.weixin.qq.com/s/9_BxezL_kNX4Dy20nCVGSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "微软 SharePoint 的一个严重漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/5gvGhdHlbY69UbGnR_aJaQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Claude 4.7：AI 辅助渗透测试的现状与边界",
+        "url": "https://mp.weixin.qq.com/s/AMFAoECdrwhcax7S5MPOug",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【代码审计】CodeQL示例一",
+        "url": "https://mp.weixin.qq.com/s/lYaV4OrfRAFEw-72YKKi3A",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险",
+        "url": "https://mp.weixin.qq.com/s/SJh5wLY6FOZyqNHAqNNVIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "未来2-3，AI漏洞发现速度碾压人类防御",
+        "url": "https://mp.weixin.qq.com/s/nbSb3v8HZ85a38o0agRACQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "BYOVD利用方法论以及AI辅助下的驱动漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/G8_l-vt7UauiQyyJTAddxQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "TCH智能渗透赛: 你的下一个渗透 AI 为什么一定要是渗透 AI？",
+        "url": "https://mp.weixin.qq.com/s/OwCNu9TNXerMEXpnZDnnRQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "2026渗透测试0基础入门：Kali Linux安装 + 10大必装工具（新手看完就能上手）",
+        "url": "https://mp.weixin.qq.com/s/Q3VLQ2WS8WrdVLK0LmO6JA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "CVE-2026-33825 解析",
+        "url": "https://mp.weixin.qq.com/s/FzpkJ6pYix3Vz7IqIMUbLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "记一次ASP站渗透测试经历",
+        "url": "https://mp.weixin.qq.com/s/vAcUKyEYYn-lFFONAk7Ziw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Chrome新\\\"bug\\\": 恶意网站可以0.5 click窃取用户之前上传的文件，漏洞赏金$1000",
+        "url": "https://mp.weixin.qq.com/s/WC9ArlS-5ieCyOuO4OUMFQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s/IJDgcVK4DBLljSykomVREA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "AI挖洞激增致使NVD不在分析CVE漏洞",
+        "url": "https://mp.weixin.qq.com/s/d6u1FUxOHllqDex2C8_Zcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【红队工具】攻防后渗透工具自动化免杀！！！",
+        "url": "https://mp.weixin.qq.com/s/VdQsIgP9SOqRjKg0Xr-tTQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "关基渗透测试检查清单文字稿",
+        "url": "https://mp.weixin.qq.com/s/x5bATeJuYr9p4mcxvyW74A",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "敏感信息泄露漏洞总结：深情哥提醒你aksk正在“裸奔”",
+        "url": "https://mp.weixin.qq.com/s/WoktZOpx_GmhDUYgeBmAOw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "从零构建 AI 渗透测试 Agent：TCH 智能渗透黑客松实战复盘",
+        "url": "https://mp.weixin.qq.com/s/lRp0ztT95JoY1GZdbm8irg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "NIST突然宣布，漏洞太多，处理不过来了",
+        "url": "https://mp.weixin.qq.com/s/5FyJK6OBGxiVvhJefrnIhg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "V2Board 信息泄露漏洞至权限绕过接管账户（CVE-2026-39912）分析复现",
+        "url": "https://mrxn.net/jswz/v2board-data-leak-authentication-bypass.html",
+        "source": "MRXN",
+        "date_added": "2026-04-20"
+    }
+]
