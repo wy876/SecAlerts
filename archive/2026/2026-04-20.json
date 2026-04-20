@@ -328,5 +328,41 @@
         "url": "https://mp.weixin.qq.com/s/dOVI6-u7_tmO8oleP5wMVw",
         "source": "Doonsec",
         "date_added": "2026-04-20"
+    },
+    {
+        "title": "vercel前端AI自动化鼻祖被黑",
+        "url": "https://mp.weixin.qq.com/s/vG-eehpeYJTzjlomqu1a7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【公告】漏洞盒子服务器升级通知",
+        "url": "https://mp.weixin.qq.com/s/2-qBN2ZgDgEI0JAcj9s2YA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【闪石星曜@ AI Java代码审计课程】如何让AI成为代码审计的超级外挂？降维打击",
+        "url": "https://mp.weixin.qq.com/s/O7w50MgYyI_NJbMj_dsvcA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "主流网页部署平台Vercel遭黑客入侵 第三方AI工具成攻击突破口",
+        "url": "https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Vercel 入侵溯源到 Context.ai 一个员工的 Roblox 外挂",
+        "url": "https://mp.weixin.qq.com/s/gKFTkjLNahOiw-JQ4DVzSQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈",
+        "url": "https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
     }
 ]
