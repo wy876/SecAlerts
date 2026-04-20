@@ -430,5 +430,23 @@
         "url": "https://mp.weixin.qq.com/s/P_uUGLFIz4O1tASFE3KbJg",
         "source": "Doonsec",
         "date_added": "2026-04-20"
+    },
+    {
+        "title": "Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令",
+        "url": "https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级",
+        "url": "https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口",
+        "url": "https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
     }
 ]
