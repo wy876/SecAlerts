@@ -250,5 +250,83 @@
         "url": "https://mrxn.net/jswz/v2board-data-leak-authentication-bypass.html",
         "source": "MRXN",
         "date_added": "2026-04-20"
+    },
+    {
+        "title": "] [AI再猛，也得先通电：美国40%数据中心延期，背后真相太现实了",
+        "url": "https://mp.weixin.qq.com/s/kfeXPlvEmnEuZicRvone1Q",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "] [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "红队常用的100种域内渗透手法，建议收藏",
+        "url": "https://mp.weixin.qq.com/s/x95kLOsFR4vhQxML2StyIQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/XjemFAr9QOnw3ShT8cnnHQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Prompt越狱搞渗透？GPT Codex 封号中招！",
+        "url": "https://mp.weixin.qq.com/s/xseY1CVymxY4NiAw75mG1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "要价200万美元？前端托管巨头Vercel承认被黑，近600名员工信息遭窃",
+        "url": "https://mp.weixin.qq.com/s/PvozItKMAA9V5-Wr5_fE4Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "【闪石星曜@ AI Java代码审计课程】如何让AI成为代码审计的超级外挂？降维打击？",
+        "url": "https://mp.weixin.qq.com/s/ewR42cjiPr5ZqdgaMDkHRg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "AI-智龙Apex 是一个双引擎驱动的自动化渗透测试系统工作流程说明",
+        "url": "https://mp.weixin.qq.com/s/5-BA6KJ32o4SfcIkqTN0tQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "线上十强出炉，决赛战火燃起！腾讯云黑客松智能渗透挑战赛决战在即！",
+        "url": "https://mp.weixin.qq.com/s/MCM_sBBv_G43UebZ7ZMMVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "一体化渗透测试工具hackingtool",
+        "url": "https://mp.weixin.qq.com/s/GIv7y9q8KUNOEPLVcFAoGQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "不只是 0day 盛宴！DEF CON 新加坡站议题公布，藏着 4 个攻防新趋势",
+        "url": "https://mp.weixin.qq.com/s/O1gDtsTNyFMkBgoNNfW-ig",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "我如何通过一次投票使区块链节点崩溃（CVE-2026-40583）",
+        "url": "https://mp.weixin.qq.com/s/dOVI6-u7_tmO8oleP5wMVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
     }
 ]
