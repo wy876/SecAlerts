@@ -364,5 +364,71 @@
         "url": "https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A",
         "source": "Doonsec",
         "date_added": "2026-04-20"
+    },
+    {
+        "title": "DeepAudit+星悦AI模型站实战代码审计",
+        "url": "https://mp.weixin.qq.com/s/YrASPZsy6o7SYVpB5LXuuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击",
+        "url": "https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "NIST放弃全面分析CVE，转向优先处理高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第15期",
+        "url": "https://mp.weixin.qq.com/s/l_VPWxlBISmDU2pk0iv-Zg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260413-20260419)",
+        "url": "https://mp.weixin.qq.com/s/4pIqUfkKTsQcA7-wPOBB-w",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "pocsuites安全工具源码分析",
+        "url": "https://mp.weixin.qq.com/s/t8Pi1hhPaNReLwW7BzzTYQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s/UeitQK0s9z0kMY7ttPQspQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "所有缺钱的人，2026年都去挖漏洞，抓住最后的机会！",
+        "url": "https://mp.weixin.qq.com/s/1GL297s0YLlks8UhZF1reA",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE",
+        "url": "https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
+    },
+    {
+        "title": "MC+DeepSeek！部署自动化日志分析及代码审计系统",
+        "url": "https://mp.weixin.qq.com/s/P_uUGLFIz4O1tASFE3KbJg",
+        "source": "Doonsec",
+        "date_added": "2026-04-20"
     }
 ]
