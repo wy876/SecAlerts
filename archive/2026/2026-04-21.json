@@ -130,5 +130,95 @@
         "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-isHashCameraAuth-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [今日（2026年4月20日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505295&idx=1&sn=496cfccc26e4f49a8027901612b77394",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [Protobuf 库中严重漏洞可导致 JavaScript 代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525802&idx=1&sn=a61b75215e7f74c70a2d3ef040e72b52",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [因漏洞数量激增，NIST 已停止对低优先级漏洞的评分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525802&idx=2&sn=cc7315bbd06c22cde1e453867a1534fc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [Vercel 确认遭第三方 OAuth 劫持入侵，内部访问令牌与部分环境变量暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613891&idx=3&sn=4f85df835c3f694eadf42864731ae502",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075867&idx=2&sn=a7ff34572d07e4ee322da8b63417ed04",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075867&idx=3&sn=c4e8c5140eefcc3084417bf23fb8614f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [Pocket 4 登上北影节红毯，它凭什么？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104339&idx=1&sn=35bff55ed033308afa434a3bdf44b7c0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [不只是 0day 盛宴！DEF CON 新加坡站议题公布，藏着 4 个攻防新趋势",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587662&idx=1&sn=5414d8727dcb434d48c8c18597b78c72",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第15期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496857&idx=1&sn=3d4b41dbe1073f02db12fcd9fda61a99",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260413-20260419)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496857&idx=2&sn=6823408c6cbd6556270d427a018a31b2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "单位做等保、密评、软测、漏洞扫描、渗透测试，找这样的销售让你省时省心省.....",
+        "url": "https://mp.weixin.qq.com/s/grSZFusVZW4oqPeB-Q9Ojw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Windows 截图工具 NTLM 哈希泄露漏洞的 PoC 漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/oJ61gWfgF_gWT7rz1ZlxSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/yFO9NKuszHzug9QmGJJTnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Windows 解除 FAT32 三十年限制，最大分区扩容至 2TB；CNVD发布上周关注度较高的产品安全漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s/fnRXy7PSlwPtiFcKxIh19A",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "一个简单的OTP漏洞如何可能导致账户被完全接管",
+        "url": "https://mp.weixin.qq.com/s/7Rq5bP2L0-SshLUoZ0O5ig",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
