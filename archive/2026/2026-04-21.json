@@ -340,5 +340,23 @@
         "url": "https://mp.weixin.qq.com/s/yvwbaffXsytaE4d8fi3Q2g",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用",
+        "url": "https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "降维打击！AWE 实现渗透测试效率革命",
+        "url": "https://mp.weixin.qq.com/s/lUhUpsFOOYLLyinJnBfm-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "一次偶然的RCE",
+        "url": "https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
