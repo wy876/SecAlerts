@@ -244,5 +244,53 @@
         "url": "https://mp.weixin.qq.com/s/IYQHW8VzC3JJCVOnXYYmeg",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "kernel heap exploit",
+        "url": "https://mp.weixin.qq.com/s/DSfFwDxQjRHEDO-3B7evdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "【论文速读】|面向大语言模型的自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/WWlpLNF-pR9RdYjjmvQK6Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "D-link的漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/XUChESDyRuFnxGVBiu0_rw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "AI会自己找漏洞，网络安全饭碗要保不住了？！",
+        "url": "https://mp.weixin.qq.com/s/Xe_pyNwjnz0e10esi3z0QA",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/Z214hxDD0LxQ8dfp_5A2PQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Vite开发服务器任意文件读取漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/e4oqf25-EklvillmpHpVnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "绕过WAF运行命令执行漏洞的方法",
+        "url": "https://mp.weixin.qq.com/s/sJyzNUNNEGER9MjJA9FmXQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "【漏洞通告】OpenClaw沙箱绕过权限提升漏洞(CVE-2026-41329)",
+        "url": "https://mp.weixin.qq.com/s/eeNtOPuwd3sVBfo2L18k8Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
