@@ -292,5 +292,53 @@
         "url": "https://mp.weixin.qq.com/s/eeNtOPuwd3sVBfo2L18k8Q",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞",
+        "url": "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "CISA 提醒防御者注意思科 Catalyst SD-WAN 管理器的安全漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s/t6lUu7fR9YgGOqjWEwIqQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Windows截图工具NTLM哈希泄露漏洞PoC利用代码发布",
+        "url": "https://mp.weixin.qq.com/s/svknIswjlxtMWle4-EcB1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "苹果正在开发修复程序以解决与缺失的捷克键盘字符相关的iPhone密码漏洞",
+        "url": "https://mp.weixin.qq.com/s/rFF93QyC4cpossGe9T2Cxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全",
+        "url": "https://mp.weixin.qq.com/s/ZrAjye39hq8Olut8hrh5rw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "因第三方AI工具受陷，Vercel 内部系统遭未授权访问",
+        "url": "https://mp.weixin.qq.com/s/0HD680654m8Grim_rh23dQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞",
+        "url": "https://mp.weixin.qq.com/s/-NZ6V1Z2VzS2QjLyuUSJfQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "AI代码审计 | 通过补丁信息分析漏洞生成Poc",
+        "url": "https://mp.weixin.qq.com/s/yvwbaffXsytaE4d8fi3Q2g",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
