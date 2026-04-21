@@ -358,5 +358,23 @@
         "url": "https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角）",
+        "url": "https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "海外漏洞赏金猎人从0到1行动地图",
+        "url": "https://mp.weixin.qq.com/s/10WYY5-OM3qg19Wgcj5jbQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "HackingTool集成85+款工具的渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/GoWMLTXbN8AbtfG2Pu_pRQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
