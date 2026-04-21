@@ -220,5 +220,29 @@
         "url": "https://mp.weixin.qq.com/s/7Rq5bP2L0-SshLUoZ0O5ig",
         "source": "Doonsec",
         "date_added": "2026-04-21"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.4.13-2026.4.19",
+        "url": "https://mp.weixin.qq.com/s/wztV-EheR6yBeeN6aSNX-A",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "MCP协议让AI调用渗透工具测试",
+        "url": "https://mp.weixin.qq.com/s/hYSozC2LKtbVjF0dpaaz8g",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "[漏洞报告]从0-1，小白也能学会的实战漏洞报告",
+        "url": "https://mp.weixin.qq.com/s/6Xf5iH2Y778t6ZcY2BKCeg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "【已复现】FortiClientEMS API 身份验证和授权绕过漏洞（CVE-2026-35616）",
+        "url": "https://mp.weixin.qq.com/s/IYQHW8VzC3JJCVOnXYYmeg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
     }
 ]
