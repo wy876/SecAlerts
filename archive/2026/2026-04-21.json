@@ -1,0 +1,134 @@
+[
+    {
+        "title": "【AI安全】OpenClaw多阶段网页诱导绕过防护的RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/L0B4UUWus_0bXlDX6NuJmg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "安全警报 | 暗网流传微信身份验证API漏洞利用工具，警惕KYC大规模绕过风险",
+        "url": "https://mp.weixin.qq.com/s/bigCHgrNAS5q_iZF3OKrnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "近期针对 Java 环境下写文件RCE回顾",
+        "url": "https://mp.weixin.qq.com/s/QCpE2q90ynpZmcJ42axwJg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "[TCH]腾讯云黑客松 第二届智能渗透挑战赛复盘",
+        "url": "https://mp.weixin.qq.com/s/q44jhW63gIfLNV8EsnqjLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口",
+        "url": "https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "快来武装你的AI，让AI帮你做代码审计、渗透、逆向",
+        "url": "https://mp.weixin.qq.com/s/G-usxt7zbujWnQZr2kD1KQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Anthropic MCP 架构曝“设计级”漏洞：影响超 20 万服务器，AI 供应链安全拉响警报",
+        "url": "https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "当AI学会自己找漏洞、写Exp：安全行业的\\\"奇点\\\"可能真的来了",
+        "url": "https://mp.weixin.qq.com/s/ox9LQJrPESIInPILsE8vmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路",
+        "url": "https://mp.weixin.qq.com/s/0TtAgeG8J2qoxf8N3nesGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Android 自动化渗透测试指令生成，可解析 AndroidManifest文件并生成 Drozer 测试指令",
+        "url": "https://mp.weixin.qq.com/s/sybrq4i5OzYco9GMMySerg",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "Flowise 中的严重漏洞可通过 MCP 适配器实现远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "EDU证书站边缘资产挖掘实战：从.map泄露到高危漏洞到手全流程",
+        "url": "https://mp.weixin.qq.com/s/yBYaxIj1vOptHpmSM6nkoQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "2026 SRC 捡漏洞刷分实战：我不会挖漏洞，但是我捡漏洞很6",
+        "url": "https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "CVE-2023-33538 已遭受持续一年的攻击，但漏洞利用仍未成功",
+        "url": "https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具",
+        "url": "https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "T0级漏洞",
+        "url": "https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "[漏洞报告]小白也能学会，某平台 CMS 系统后台漏洞的报告",
+        "url": "https://mp.weixin.qq.com/s/p5QnLgEIbWjmZYs1fCkIWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "VulnClaw：一句话就能渗透的 AI 利用 Agent",
+        "url": "https://mp.weixin.qq.com/s/s4dj_Eud3AwMn74S-hmbjA",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "【高危AI漏洞预警】FlowiseAI远程代码执行漏洞(CVE-2026-41138)",
+        "url": "https://mp.weixin.qq.com/s/80J8fPhGYKcEjVpBSjdK0g",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "NocoBase AI 驱动型无代码平台SSRF漏洞  | CVE-2026-40346原理分析&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/mQZl-a6PTBajVF52bLVFCw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "2025 “泉城杯” 济南市网络安全大赛 题目复现",
+        "url": "https://mp.weixin.qq.com/s/ZtpiJ1Oea5vJDXKm1o1CEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-21"
+    },
+    {
+        "title": "天地伟业Easy7 isHashCameraAuth SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-isHashCameraAuth-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-21"
+    }
+]
