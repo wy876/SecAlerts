@@ -1,0 +1,86 @@
+[
+    {
+        "title": "信息安全漏洞周报（2026年第16期）",
+        "url": "https://mp.weixin.qq.com/s/1Qmib_ZpABb1LfkoRDDWAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "全程云OA download 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/dUQwtjR-OFrxqeq-h67apA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "CVE-2026-33032：可实现Nginx服务器完全控制",
+        "url": "https://mp.weixin.qq.com/s/HDeCUeyOVIzmIGVRqy0USQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "Dcsync-域渗透",
+        "url": "https://mp.weixin.qq.com/s/4P4wiabsTufUMu3AMf5PbA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "JAVA代码审计第一个RCE出货记录",
+        "url": "https://mp.weixin.qq.com/s/gQhYyh2FrAEA20gAa_YBOg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "漏洞挖掘中的host头碰撞",
+        "url": "https://mp.weixin.qq.com/s/sLvWqI3bw3r_E98hXr9vNw",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "Mythos找到了漏洞，但接下来才是噩梦的开始",
+        "url": "https://mp.weixin.qq.com/s/7HmiZw7xiov_qPjVbutZFQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "【AI安全】OpenClaw多阶段网页诱导绕过防护的RCE攻击",
+        "url": "https://mp.weixin.qq.com/s/qDNzlIiC-WnA-60BFi3xMQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具",
+        "url": "https://mp.weixin.qq.com/s/hkEwGYOxDe4Z1xRULFiMmQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "业务流程绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/7bpnoHKegCSTKOcsha5avQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "SGLang AI 基础设施的严重 9.8 级远程代码执行威胁",
+        "url": "https://mp.weixin.qq.com/s/4K_3waULparo5I5xgwN_vQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "漏洞预警 | Apache Tomcat远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "天地伟业Easy7 getConfigInfoList SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-getConfigInfoList-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-22"
+    }
+]
