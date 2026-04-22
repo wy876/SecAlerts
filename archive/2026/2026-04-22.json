@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "某JAVA系统RCE漏洞审计流程",
+        "url": "https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "渗透测试 | 近期高危逻辑漏洞挖掘实战合集 (越权漏洞 / 支付漏洞 / 账号接管)",
+        "url": "https://mp.weixin.qq.com/s/h_pGDZntBoBxxrSSjw1kVA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "漏洞永远修不完，“带洞防护”成必然——奇安信发布Mythos应对白皮书",
+        "url": "https://mp.weixin.qq.com/s/BThVw5FJmJUA3gk4nqOO9Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+        "url": "https://mp.weixin.qq.com/s/izPnODoJVVJ1DclvfEYGXA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
