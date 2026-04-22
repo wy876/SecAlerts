@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "密码字典生成-渗透中最重要且最容易忽视的点",
+        "url": "https://mp.weixin.qq.com/s/VkN6dfwmMU5Ofp5Uj-Znhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "超过 1370 台 Microsoft SharePoint 服务器易受欺骗攻击，其安全漏洞已在网上曝光",
+        "url": "https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
