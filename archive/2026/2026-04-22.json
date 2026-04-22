@@ -190,5 +190,29 @@
         "url": "https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "自动化代码审计辅助智能体",
+        "url": "https://mp.weixin.qq.com/s/UpNWCEw_KkfV8WxJ2JSZmQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+        "url": "https://mp.weixin.qq.com/s/bo1kpWYRcHs-EwG_wvCnuA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "谷歌修复 Antigravity IDE 漏洞，本可导致提示词注入代码执行",
+        "url": "https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "CVE-2026-34486 ( Apache Tomcat 集群加密绕过 RCE)",
+        "url": "https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
