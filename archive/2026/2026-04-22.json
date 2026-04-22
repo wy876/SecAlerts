@@ -166,5 +166,29 @@
         "url": "https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "【NCC安全守护・第 1 期】视频监控系统漏洞专项挑战开启！",
+        "url": "https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法",
+        "url": "https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933）",
+        "url": "https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例",
+        "url": "https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
