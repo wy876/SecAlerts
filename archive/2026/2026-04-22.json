@@ -154,5 +154,17 @@
         "url": "https://mp.weixin.qq.com/s/89Apxd41BPZleoXWsxeitw",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "Conquest：基于 Nim 的模块化 C2 与后渗透框架",
+        "url": "https://mp.weixin.qq.com/s/p2UQ_sskkXc4Rl3nt2zxiw",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260422】",
+        "url": "https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
