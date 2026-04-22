@@ -256,5 +256,11 @@
         "url": "https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg",
         "source": "Doonsec",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录",
+        "url": "https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
