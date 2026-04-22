@@ -82,5 +82,77 @@
         "url": "https://mrxn.net/jswz/easy7-rest-inquestRoom-getConfigInfoList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.4.13-2026.4.19",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503769&idx=1&sn=3587638dcd77bd607e5e86fb20019a3c",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [因第三方AI工具受陷，Vercel 内部系统遭未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [Windows截图工具漏洞PoC公开，NTLM哈希可静默窃取",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614003&idx=2&sn=00f7fd3b236ff69a40d15b75a8604bc2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [今日（2026年4月21日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505328&idx=1&sn=8b25fc530e8a01fcb44c1a7800eeb89f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [【安全圈】Anthropic MCP 设计漏洞可致远程代码执行，威胁人工智能供应链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [Windows 解除 FAT32 三十年限制，最大分区扩容至 2TB；CNVD发布上周关注度较高的产品安全漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141097&idx=2&sn=2e2d05c2829b1647f8a8d2b63781a85f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第15期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501464&idx=1&sn=c4654662e249fa701fbe69a156ca7be1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "【利用已复现】一个“!”引发的“血案”（Linux Kernel NF_TABLES模块提权漏洞）",
+        "url": "https://mp.weixin.qq.com/s/MBRlWWOMBp0uUpjuBeRcpg",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了",
+        "url": "https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
+    },
+    {
+        "title": "BYOVD 进阶实战 (第一部分) — 利用存漏洞驱动 CVE-2025-8061",
+        "url": "https://mp.weixin.qq.com/s/89Apxd41BPZleoXWsxeitw",
+        "source": "Doonsec",
+        "date_added": "2026-04-22"
     }
 ]
