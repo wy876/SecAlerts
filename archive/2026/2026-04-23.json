@@ -256,5 +256,71 @@
         "url": "https://mp.weixin.qq.com/s/NCN18K9Tl-Xl5xJoMSyQjQ",
         "source": "Doonsec",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "小米安全中心关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Pack2TheRoot 的关键漏洞允许攻击者获得 Root 权限或攻破系统",
+        "url": "https://mp.weixin.qq.com/s/CE2Bwu3NQUOldJqFY4K9gA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "苹果修复了通知隐私漏洞，该漏洞曾允许FBI访问已删除的Signal消息",
+        "url": "https://mp.weixin.qq.com/s/HMBYweMEslpzOQ8EURKlcA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【公告】JSRC关于AI生成漏洞报告提交规范",
+        "url": "https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "微软紧急修复严重的 ASP.NET 漏洞",
+        "url": "https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "古法代码审计 VS AI代码审计，怎么选？",
+        "url": "https://mp.weixin.qq.com/s/qK6hKjlXvv-5yrgeEm3cxQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/Vj28G9lP8hDJh7yexsZdkQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Claude Mythos发现271个Firefox漏洞，0Day时代或将终结",
+        "url": "https://mp.weixin.qq.com/s/qu7PxNEr8iD2uDdiqcmq1w",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务",
+        "url": "https://mp.weixin.qq.com/s/cjUIX5GqnEFV4Oenl2-GnA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "小鹏汽车SRC发布《AI生成漏洞报告的处置公告》",
+        "url": "https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
