@@ -172,5 +172,23 @@
         "url": "https://mp.weixin.qq.com/s/qvn4S6jZ0IgDeZlyhZvOpA",
         "source": "Doonsec",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "静态网站中存在的 20 多个漏洞",
+        "url": "https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "记一次某大学的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/teTcVDS5iw-rwO4IgrJ3lQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
