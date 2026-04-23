@@ -364,5 +364,35 @@
         "url": "https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg",
         "source": "Doonsec",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞",
+        "url": "https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "信号失守：揭秘隐秘监控势力对全球电信网络的系统性渗透",
+        "url": "https://mp.weixin.qq.com/s/73pjIJR6Kjglclez8foZGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "全程云OA download.ashx接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "edu漏洞之若依nday漏洞复现(一)",
+        "url": "https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "小红书SRC发布《AI生成漏洞报告提交规范》",
+        "url": "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
