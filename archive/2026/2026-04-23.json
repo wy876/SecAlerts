@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Spinnaker爆出两大“王炸”级漏洞，直接拿下生产环境",
+        "url": "https://mp.weixin.qq.com/s/8Zgin-SeSqgSrDRGXtZQWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Flowise fetch-links ssrf漏洞",
+        "url": "https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "1day:可实现Nginx服务器完全控制",
+        "url": "https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+        "url": "https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "强推一个永久的攻防演练、渗透攻防知识库",
+        "url": "https://mp.weixin.qq.com/s/0M0J36j4DsJN4y6SrEi_2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "记某单位众测项目漏洞案例复盘",
+        "url": "https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "ChatGPT 安全漏洞：仅需一条提示词即可窃取数据",
+        "url": "https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "如何让AI成为代码审计的超级外挂？降维打击？【闪石星曜@Java代码审计高阶课程】新增AI代审实战玩法~",
+        "url": "https://mp.weixin.qq.com/s/DY_7nyxeW87JQIzK8GC5FQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "天地伟业Easy7 capture 命令执行漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-capture-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-04-23"
+    }
+]
