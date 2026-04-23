@@ -76,5 +76,101 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-capture-rce.html",
         "source": "MRXN",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960454&idx=1&sn=4f80bd8d5539a8888c3586bf8bc6a36e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [谷歌修复 Antigravity IDE 漏洞，本可导致提示词注入代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525833&idx=2&sn=7c86ed109ee9c483df20e68912fb1680",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515853&idx=1&sn=a118f98eb5fcb3846c4194b9f9d94d3b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [Mythos找到了漏洞，但接下来才是噩梦的开始",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486949&idx=1&sn=54485911a0c61c248acff80b6a9f7fc2",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [会议征稿 | EXPRESS 2026",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495274&idx=1&sn=e544afc1fff1200b156bc89a1367021d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [Oracle 2026年4月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505333&idx=1&sn=5d8eb18fb03812a7cd87753fe8e14929",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [【安全圈】未受保护的 Perforce 服务器暴露主要组织的敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075943&idx=1&sn=473119abec6a4c6ed316801316b3723b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [Mirai变种Nexcorium深度解析：针对视频监控设备的命令注入漏洞利用与僵尸网络演化分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518497&idx=1&sn=6c8168f317a01d94b67558c6c18cbd5a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [【漏洞通告】FortiClientEMS绕过认证漏洞(CVE-2026-35616)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525367&idx=1&sn=e73780f0f75d9788028f066f5abdcb82",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [Qualys深度剖析：AI代理安全风险——OpenClaw漏洞到域管理员的攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490145&idx=2&sn=e5169e35623b190bdee22607794a5c37",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "] [Tenable Hexa AI：用AI智能体将漏洞修复从人工速度提升到机器速度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490145&idx=3&sn=c99d6c210b23ce355fbb303a19feaa4e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "GHSA-xq3m-2v4x-88gg 的 PoC：通过代码注入在 protobuf.js 中实现严重远程代码执行 (CVSS 9.4)",
+        "url": "https://mp.weixin.qq.com/s/K8fMT3gMMrGMuEJHirY5zg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Pack2TheRoot (CVE-2026-41651)：跨发行版本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/ds0aLVLxUjtEO4yToA4tMw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "微软深度解析：如何检测渗透进企业的朝鲜IT工人",
+        "url": "https://mp.weixin.qq.com/s/aCNSnmlW3dpnNnCpO1g9BQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
+        "url": "https://mp.weixin.qq.com/s/fodvOn6B5H1xOsAEKhWcdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "安全419｜一周国际网安资讯：AI写漏洞 古典漏洞重燃",
+        "url": "https://mp.weixin.qq.com/s/qvn4S6jZ0IgDeZlyhZvOpA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
