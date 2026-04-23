@@ -190,5 +190,71 @@
         "url": "https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg",
         "source": "Doonsec",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "某211高校从一个文档到全校三要素泄露&amp;RCE",
+        "url": "https://mp.weixin.qq.com/s/XNe2xRx_yVgJtwfMgDxolg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "中通SRC关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "浅谈代码审计+漏洞批量一把梭哈思路",
+        "url": "https://mp.weixin.qq.com/s/3j9Q5oZlPOZWzYWKussXIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "ByteSRC发布《AI生成漏洞报告提交规范》",
+        "url": "https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0323-0405）",
+        "url": "https://mp.weixin.qq.com/s/bGPbTDjnYyaB7bH9r0vA2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【AI自动渗透】GitHub 3.9万Star的白盒AI渗透测试神器，Shannon来了",
+        "url": "https://mp.weixin.qq.com/s/cbxW214zZKzXm-Bb4LzWYg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "2016年至2026年十大最常被利用的漏洞列表",
+        "url": "https://mp.weixin.qq.com/s/i4KL0YoiOOP7c_s6hz4YJw",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【已复现】FortiSandbox 身份验证绕过漏洞（CVE-2026-39813）",
+        "url": "https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "高危漏洞预警：Windows TCP/IP 远程代码执行漏洞（CVE-2026-33827）",
+        "url": "https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞",
+        "url": "https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "渗透姿势小课堂开课啦......一起学习新姿势",
+        "url": "https://mp.weixin.qq.com/s/NCN18K9Tl-Xl5xJoMSyQjQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
