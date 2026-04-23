@@ -322,5 +322,47 @@
         "url": "https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q",
         "source": "Doonsec",
         "date_added": "2026-04-23"
+    },
+    {
+        "title": "理想汽车SRC关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "常见系统漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/2F0PSxubSi3kKWAkKkAMbQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【警示】FortiSandbox高危漏洞：一条命令获取root权限",
+        "url": "https://mp.weixin.qq.com/s/Mmn48idakM3oW_ey2jEtng",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【警示】AI首次参与挖出NGINX高危漏洞，安全工程师还剩什么",
+        "url": "https://mp.weixin.qq.com/s/03XwoW8lYlsO4K23ltAtZA",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "【免费工具】AI代码审计实战：0成本挖洞，三款工具对比测评",
+        "url": "https://mp.weixin.qq.com/s/01VMR8LG4Q9Q2jBG96M-vQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待",
+        "url": "https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
+    },
+    {
+        "title": "360漏洞云关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg",
+        "source": "Doonsec",
+        "date_added": "2026-04-23"
     }
 ]
