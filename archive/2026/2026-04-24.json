@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取",
+        "url": "https://mp.weixin.qq.com/s/QyLu2yTAiprgZwazDNlT_Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "国家人工智能安全漏洞库启动运行",
+        "url": "https://mp.weixin.qq.com/s/7rgi1Poke9Oc076fZ71PhA",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "CNNVD关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/X4uYqXDWxev1JFGxBXWSeA",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "雨诺调度客户端 GetFile 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/Qphhumd3O4HrcCyaixXcgw",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+        "url": "https://mp.weixin.qq.com/s/FMJCUbT79b4Xbu6pQvx_Ww",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "商品价格篡改漏洞",
+        "url": "https://mp.weixin.qq.com/s/LbOtP2MxhS_1IuYqnvwMmQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "科大讯飞SRC关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "Apache HttpClient 5.6 中存在严重的身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/CV6Kxvftd0s1RctEclZIWQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "iOS 漏洞会导致已删除通知残留，苹果现已推出修复更新",
+        "url": "https://mp.weixin.qq.com/s/BxNitlIlxzaPEhafOGcEew",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "自主云渗透多智能体系统Zealot实战揭秘",
+        "url": "https://mp.weixin.qq.com/s/FW9d02fEnzN0NqDBHbIdow",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "网络安全可视化工具集 |  FOFA 资产测绘爬取与 Nuclei 漏洞扫描",
+        "url": "https://mp.weixin.qq.com/s/gQk8l6ZAPlpFQlgNggh-mw",
+        "source": "Doonsec",
+        "date_added": "2026-04-24"
+    },
+    {
+        "title": "天地伟业Easy7 uploadLedImage 文件上传漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-uploadLedImage-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-04-24"
+    }
+]
