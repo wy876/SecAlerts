@@ -88,5 +88,65 @@
         "url": "https://mp.weixin.qq.com/s/AAjxu77yJ5UBTCUg1_-Ctg",
         "source": "Doonsec",
         "date_added": "2026-04-25"
+    },
+    {
+        "title": "CVE-2025-65857：雄迈XM530摄像头硬编码凭据漏洞，数十万监控设备直接裸奔",
+        "url": "https://mp.weixin.qq.com/s/TDrkxeG2dCq-sAGDjsBHpQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "从网线到域控：一次完整AD渗透的全流程复盘",
+        "url": "https://mp.weixin.qq.com/s/izlnlQtflW-WoY2RqRTe_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "自主渗透测试——OWASP APTS解析",
+        "url": "https://mp.weixin.qq.com/s/VptJ6OmxdmCUJlIb29eadA",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "花6个月训练了一个专业渗透AI模型，今天开放企业服务（附8大维度功能清单+格式选择指南）",
+        "url": "https://mp.weixin.qq.com/s/0tjz596X1eZhxJaGfFJfmQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "Mythos玻璃翼项目证明AI能发现漏洞，但修复工作该由谁来完成？",
+        "url": "https://mp.weixin.qq.com/s/1N5QY453xAWwUM3pvW2Yiw",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "CrowdStrike联合行业巨头成立QuiltWorks联盟，对抗AI暴增的漏洞威胁",
+        "url": "https://mp.weixin.qq.com/s/iVWv9lHobQ2qjnCXN-q-rg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【漏洞通告】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
+        "url": "https://mp.weixin.qq.com/s/iUzWMxRnKJnzKPV8jGI7Hw",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "动态｜国家人工智能安全漏洞库启动运行",
+        "url": "https://mp.weixin.qq.com/s/cBUA4XyFyW2VYe_1Wgifcg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/bDVr6URMeQc8eYmZktdjow",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/file/delete 文件删除漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-delete.html",
+        "source": "MRXN",
+        "date_added": "2026-04-25"
     }
 ]
