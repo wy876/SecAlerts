@@ -1,0 +1,92 @@
+[
+    {
+        "title": "一条命令搞定黑龙虾渗透测试，接入qq和飞书机器人—.—openclaw搭建教程",
+        "url": "https://mp.weixin.qq.com/s/bLh0NtZkmIyAPpSFXkeDwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "一天渗透测试，后台RCE+SQL注入+信息泄露，收工",
+        "url": "https://mp.weixin.qq.com/s/cOq-mjo7jXe6rtIB4y_zEQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【漏洞通告】FortiSandbox目录遍历漏洞(CVE-2026-39813)",
+        "url": "https://mp.weixin.qq.com/s/LL44EOYq8f5whsHcr-YBgg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【漏洞通告】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
+        "url": "https://mp.weixin.qq.com/s/zm0TaGzw5QpXPXdkwbLPRQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【已复现】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
+        "url": "https://mp.weixin.qq.com/s/b1FnoITsch__BTu5qswjhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【安全圈】黑客利用 Breeze Cache WordPress 插件文件上传漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s/Sj8YUCbO9jxeDaTxsypuPA",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "太初众测平台关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/hb440dIKp9Dsm2CuFzFP5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "文件上传操作漏洞场景挖掘思路",
+        "url": "https://mp.weixin.qq.com/s/AgRxUV_Q_BpxXMN50uJS3A",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
+        "url": "https://mp.weixin.qq.com/s/tpPMDxqEnFclHP5gFDLbwg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "躺平送外卖风雨兼程一天七八十，而挖漏洞半小时到手500，你会怎么选？",
+        "url": "https://mp.weixin.qq.com/s/vsWF_APpR2OcidXCh4geZg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "安全热点周报：Windows Defender 被漏洞利用，成了黑客的“帮凶”",
+        "url": "https://mp.weixin.qq.com/s/42yvn5LXHYev-R476cdzdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "国家人工智能安全漏洞库启动运行",
+        "url": "https://mp.weixin.qq.com/s/yevKttJQW6jpkg56ejl9Og",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了",
+        "url": "https://mp.weixin.qq.com/s/RxU0VGboqymFkrzuRHKd1A",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【火绒安全周报】Vercel遭黑客入侵/黑客多次入侵美最高法院",
+        "url": "https://mp.weixin.qq.com/s/tgFJ7dEiAtOCjkzoVVfHFg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "关于AI辅助挖掘漏洞报告提交规范的公告",
+        "url": "https://mp.weixin.qq.com/s/AAjxu77yJ5UBTCUg1_-Ctg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    }
+]
