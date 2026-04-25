@@ -148,5 +148,113 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-delete.html",
         "source": "MRXN",
         "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [今晚8点直播 | 路由设备漏洞分析之NETGEAR",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614096&idx=2&sn=6390be4b1ccae0fef17b8f3482706c09",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [苹果紧急修复可导致 FBI 恢复已删除 Signal 消息的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525856&idx=1&sn=b1bcd2ca134b03705eca8fb363272731",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【已复现】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505376&idx=1&sn=743a69b443b77628360e088602c8d620",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [重磅 | 国家人工智能安全漏洞库启动运行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261837&idx=1&sn=a8712f632d7a22e50a42cab23fca0811",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [CNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261837&idx=2&sn=bff15f7d81514d3c40be96796be48bf1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【安全圈】黑客利用 Breeze Cache WordPress 插件文件上传漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075982&idx=2&sn=a7bc11b6b729c07530b178c4e19f03e7",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [漏洞爆炸了NIST停止为不符合标准的漏洞做详细分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542675&idx=1&sn=00354b0f88206c6b1bf3a91ec33eb454",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [补天漏洞响应平台关于AI生成漏洞报告提交规范",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510687&idx=1&sn=0fed65ae6573e5aa936e129ee3b9638c",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【公告】DSRC关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909207&idx=1&sn=a7c7e4342c1ee9b857416f946f5004e6",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【火绒安全周报】Vercel遭黑客入侵/黑客多次入侵美最高法院",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532450&idx=2&sn=e1dd0fc476ef8e7e4ad22e356047d676",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [陌陌安全平台关于 AI 生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489533&idx=1&sn=c758a42bb50af4a60bfb89bdbb19bce4",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [关于AI辅助挖掘漏洞报告提交规范的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494815&idx=1&sn=88f0ce69c3ef080b56b197e316d7d20a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [美团SRC发布｜AI生成漏洞报告提交规范公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494883&idx=1&sn=f6eba6477129792a9c38896caff14be0",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【漏洞通告】FortiSandbox目录遍历漏洞(CVE-2026-39813)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525409&idx=2&sn=59c0589b623e6dab519fe3c291a01d44",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [【漏洞通告】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525409&idx=3&sn=7d8ac68421247c6192fa11298fc0c3eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [RedSun 零日漏洞：Microsoft Defender 权限提升漏洞深度剖析（暂无补丁）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490202&idx=1&sn=efb02065da0cfb7134c61c98c5047564",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [Bissa Scanner 曝光：AI辅助的大规模漏洞利用与凭据收割行动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490202&idx=2&sn=c31f41d5bdfc6aec48078e9dce3336c3",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "] [Oracle 2026年4月关键补丁更新：241个CVE、481个补丁、34个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490202&idx=3&sn=852d27587c230759b2823382a79a9eab",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-25"
     }
 ]
