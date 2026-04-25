@@ -262,5 +262,95 @@
         "url": "https://mp.weixin.qq.com/s/6OKOKCm8ASDjNWBdjm7tmw",
         "source": "Doonsec",
         "date_added": "2026-04-25"
+    },
+    {
+        "title": "渗透测试之js懒加载",
+        "url": "https://mp.weixin.qq.com/s/nW-53UADqfenZZf6xQqD1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "新起了一个项目：漏洞扫描（远程安全评估系统）",
+        "url": "https://mp.weixin.qq.com/s/OTIq98hhIv_qQzQODaunsg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "孚盟云 AjaxAttachment.ashx sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "巅峰加冕！绿盟科技强势斩获“黑客松-智能渗透挑战赛”第一名",
+        "url": "https://mp.weixin.qq.com/s/EsfbwBHO2IuKp2FO9jjn9A",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "黑客利用思科 Firepower 设备的 n day漏洞获取未经授权的访问权限",
+        "url": "https://mp.weixin.qq.com/s/WvmXybsgPtQa0Rz_eZ30fA",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "Claude Mythos安全神话：炒作还是名副其实？；白宫拟开放Claude漏洞挖掘AI | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/2EQYYSa6HEcGEvEtIE4c5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "CVE-2026-33824：Windows IKEv2 中的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "CVE-2026-21509 补丁差异比较：Microsoft Office OLE 安全绕过",
+        "url": "https://mp.weixin.qq.com/s/0UyGleZ4d_XmktIdAmMjmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "Oday 提权漏洞 RedSun",
+        "url": "https://mp.weixin.qq.com/s/kqJ__HdcyNIbp8dLNFpG7Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "漏洞风暴到来，安全如何应对？",
+        "url": "https://mp.weixin.qq.com/s/54o11j2hq8g2B4tM3GYAfQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "CVE-2025-70994：雅迪T5电动车弱认证漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/g7m_PFQNSeqacnrBU0Zq_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "思科Webex爆9.8分漏洞：你的会议可能被\\\"老板\\\"窃听",
+        "url": "https://mp.weixin.qq.com/s/bepB-iX8UCaQF6svtFp4Mg",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "OpenSSH 10.3升级指南：漏洞修复+新特性，CentOS/Ubuntu一键脚本",
+        "url": "https://mp.weixin.qq.com/s/6nqoI6MYk77KFFvCKTP9WQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "一个年营收 800 亿的公司，还出现XSS 漏洞到底是谁的责任？",
+        "url": "https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
+    },
+    {
+        "title": "【一周安全资讯0425】网安标委技术文件《人工智能应用伦理安全指引》1.0版公开征求意见；Vercel遭第三方OAuth劫持入侵",
+        "url": "https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA",
+        "source": "Doonsec",
+        "date_added": "2026-04-25"
     }
 ]
