@@ -34,5 +34,65 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2",
         "source": "BruceFeIix",
         "date_added": "2026-04-26"
+    },
+    {
+        "title": "如何通过漏洞组合链为工控平台CODESYS植入后门",
+        "url": "https://mp.weixin.qq.com/s/9N7PunFuq6yAsV40SKXloQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "记录几个简单的edu漏洞挖掘思路",
+        "url": "https://mp.weixin.qq.com/s/5H6akWNhxIVosCiXm_Gw9A",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "决赛排名出炉！第二届腾讯云黑客松智能渗透挑战赛收官",
+        "url": "https://mp.weixin.qq.com/s/aSM4Wku0n-fW8JzDf84h1Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "决赛排名出炉！第二届腾讯云黑客松智能渗透挑战赛收官",
+        "url": "https://mp.weixin.qq.com/s/lbbBiRCn9jXjBUcAEy8dAQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "莱特币零日漏洞遭利用发起拒绝服务攻击，导致主要矿池瘫痪",
+        "url": "https://mp.weixin.qq.com/s/h5VwXQTWWdix-25c5T9UkQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "漏洞复现 | 用友NC ServletForESBAdaptor 反序列化RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/76vg9O1K5kr0dynaOgEacA",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫",
+        "url": "https://mp.weixin.qq.com/s/97zyDxpP1L2QMq4t2N4SxA",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "每周PDF资源：OpenClaw曝重大漏洞；2026高危漏洞TOP10盘点；黑客算改安卓NFC应用窃取支付数据",
+        "url": "https://mp.weixin.qq.com/s/51IPZ96leij4ShgvItxzFA",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "[工具推荐]两款最新的shiro反序列化漏洞综合利用工具",
+        "url": "https://mp.weixin.qq.com/s/GsZn0E8bW4_PS7-Q0niQ2Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
+    },
+    {
+        "title": "孚盟云 AjaxProductTemplateList.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/OcI0Mu9VQqVIa8ucaWH_eQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-26"
     }
 ]
