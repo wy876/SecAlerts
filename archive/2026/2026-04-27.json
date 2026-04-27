@@ -40,5 +40,131 @@
         "url": "https://mp.weixin.qq.com/s/zyOHKhXdIL_xlmy8OOV2nA",
         "source": "Doonsec",
         "date_added": "2026-04-27"
+    },
+    {
+        "title": "畅捷通T+ FormReportOperateAction 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/ppbocrTnhKgJIIVN4CoQWQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "代码审计 某cms任意文件下载漏洞",
+        "url": "https://mp.weixin.qq.com/s/D2ZgOupvuJC7GTe2F9R_HQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "如何骗过 PackageKit 拿到 Root（CVE-2026-41651）",
+        "url": "https://mp.weixin.qq.com/s/dSOYqzaeNhDCVlXfgAJOow",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "决赛排名出炉！第二届腾讯云黑客松智能渗透挑战赛收官",
+        "url": "https://mp.weixin.qq.com/s/0qqRpdfNsgAUXuqqVjZ8gA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "国家人工智能安全漏洞库正式启动，AI漏洞治理开始进入“基础设施化”阶段",
+        "url": "https://mp.weixin.qq.com/s/3i8QzA17oITXTxiNjUiEAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "智互联WMS getsyspdaversionlistbyparams SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/IDVgCPTEHXgp2287_IMqYA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "CVE-2017-12615 Apache Tomcat任意文件上传漏洞说明",
+        "url": "https://mp.weixin.qq.com/s/bprUqeLSDdjBS179mBXcqg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "PDF漏洞利用工具，看起来像真的！",
+        "url": "https://mp.weixin.qq.com/s/jtHe-2ne_ku1_7W0W0MYJw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "记一次某大学的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/AYUZ6TtmGVtYWjHVk6745w",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "漏洞爆炸了，NIST停止为不符合标准的漏洞做详细分析",
+        "url": "https://mp.weixin.qq.com/s/tKLIIESGCYcDNmkaV72TYg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "CVE-2026-34621漏洞利用生成器，一个令人不安的“武器级”工具箱",
+        "url": "https://mp.weixin.qq.com/s/pnuLceAUkgadhjjZn1thAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "实战｜一次教科书级 ASP 渗透，从目录泄露到拿下服务器",
+        "url": "https://mp.weixin.qq.com/s/TUIvmz4o_OdUq4jfgVKdVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "记录自己的第一个AI渗透agent",
+        "url": "https://mp.weixin.qq.com/s/6zRgMRKod0N3LJbZDOe4gw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "黑客利用 Breeze Cache 插件漏洞（CVE-2026-3844）发起攻击，超 40 万个网站面临安全风险",
+        "url": "https://mp.weixin.qq.com/s/6ZHb7JPOdw1KaN78148Q6A",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "CrowdStrike LogScale 存在高危漏洞，可被攻击者利用非法读取服务器文件",
+        "url": "https://mp.weixin.qq.com/s/L8xeBZnj39Qty6ntKUwBBg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "NVD“撑不住”了：以后NVD的漏洞该咋运营",
+        "url": "https://mp.weixin.qq.com/s/Q_X_Xv0ffX_HJjgAZsPfkg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "第二篇｜全网常见端口大全 渗透攻击方向汇总",
+        "url": "https://mp.weixin.qq.com/s/SaBUmtWS_OuGBjHPd9WZ3g",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "DeepZero：开源的驱动程序漏洞自动化研究引擎，如何改变攻防格局？",
+        "url": "https://mp.weixin.qq.com/s/oaaVH1DJUCEbdkdxzDw1Yg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "邮件轰炸+Teams钓鱼？一文带你打透UNC6692的进阶渗透手法",
+        "url": "https://mp.weixin.qq.com/s/nRYgTsrMb4CF2L7CluLudw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "拉开渗透差距：从被忽略的细节入手，WebSocket 漏洞测试实操",
+        "url": "https://mp.weixin.qq.com/s/KBOm1W35utMcRCsvvAGQqA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/file/uploadIdsHttpFile SSRF+文件写入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-uploadIdsHttpFile-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-04-27"
     }
 ]
