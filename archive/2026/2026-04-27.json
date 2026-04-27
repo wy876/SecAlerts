@@ -334,5 +334,29 @@
         "url": "https://mp.weixin.qq.com/s/VSdnlmzHQ4k5GaYlO10C2Q",
         "source": "Doonsec",
         "date_added": "2026-04-27"
+    },
+    {
+        "title": "别只防输出！AI&amp;nbsp;Agent的中间漏洞百出",
+        "url": "https://mp.weixin.qq.com/s/q2d017-iOE3NJWjaMrIwVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "【AI安全】别只防输出！AI Agent 的中间流程漏洞百出",
+        "url": "https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "Vvveb CMS 任意文件上传导致RCE  | CVE-2026-6257原理分析&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "【高危漏洞预警】Notepad++字符串注入漏洞(CVE-2026-3008)",
+        "url": "https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
     }
 ]
