@@ -304,5 +304,35 @@
         "url": "https://mp.weixin.qq.com/s/2_8iU1NxXcNma-XJqy1KVQ",
         "source": "Doonsec",
         "date_added": "2026-04-27"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第16期",
+        "url": "https://mp.weixin.qq.com/s/xE9qsfiaRNa2a44P0vnRBg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260420-20260426)",
+        "url": "https://mp.weixin.qq.com/s/OO3VIb2Ko4MORay2pLDiUA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "潜伏12年的“幽灵”浮现！Linux 惊现高危提权漏洞，众多主流发行版集体沦陷",
+        "url": "https://mp.weixin.qq.com/s/rISt6k5t53l3ksz4wV_f4g",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "喜报 | 水滴实验室勇夺智能渗透挑战赛全国亚军",
+        "url": "https://mp.weixin.qq.com/s/yWnLaXCivEgw-HrX5CUyNA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "AI能在15分钟内武器化CVE漏洞么？答案是能",
+        "url": "https://mp.weixin.qq.com/s/VSdnlmzHQ4k5GaYlO10C2Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
     }
 ]
