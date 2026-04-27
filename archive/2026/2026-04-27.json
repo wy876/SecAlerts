@@ -166,5 +166,59 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-uploadIdsHttpFile-rce.html",
         "source": "MRXN",
         "date_added": "2026-04-27"
+    },
+    {
+        "title": "] [如何通过漏洞组合链为工控平台CODESYS植入后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186537&idx=1&sn=3ccf3691425dab440a91a09009211e4a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "] [【安全圈】装机必备的GPU-Z出事了！曝出严重安全漏洞：黑客可获取系统最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=3&sn=7b7cd810015615c15d6232964cb06d5f",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "] [今日（2026年4月26日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505416&idx=1&sn=636e54844098a4c16540cd568eab6150",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "TopoScan网络拓扑扫描利器/扫描 + 可视化一键搞定|v3.2 正式发布｜内网渗透测试的瑞士军刀",
+        "url": "https://mp.weixin.qq.com/s/Veujl8Vns2r_kLOgNkd4vQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "GraphQL 接口 Mutation别名导致的Hackerone DoS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/-Uf91JkBHe_-gq31ftMvoA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "第二届腾讯云黑客松智能渗透挑战赛！AI渗透真来了",
+        "url": "https://mp.weixin.qq.com/s/6-IZY53XKte2Pe2YT7He_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+        "url": "https://mp.weixin.qq.com/s/KqEoLc6qc6qKmbJIcrRkEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "无径之径：Cairn AI 从渗透测试到通用问题的求解",
+        "url": "https://mp.weixin.qq.com/s/SEP0KE9nyrii1UTwiNBguA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "CVE-2026-34621 回顾：136天的检测谎言",
+        "url": "https://mp.weixin.qq.com/s/vetr3EdxDiVH73EnCtWisw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
     }
 ]
