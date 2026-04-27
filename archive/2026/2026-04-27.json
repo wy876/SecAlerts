@@ -244,5 +244,65 @@
         "url": "https://mp.weixin.qq.com/s/xeAs8XNed70mK4cvT7RzDA",
         "source": "Doonsec",
         "date_added": "2026-04-27"
+    },
+    {
+        "title": "Python漏洞导致Windows系统越界写入",
+        "url": "https://mp.weixin.qq.com/s/yAFDEpfWe6EFm3lnozoVeA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "新的Windows RPC漏洞允许攻击者在所有Windows版本中提升权限",
+        "url": "https://mp.weixin.qq.com/s/3xuBkR0gVs9Zp7pgQSJ4Kw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "【安全圈】潜伏 8 年的漏洞，WPS 365 轻舟 AI 如何从源头免疫？",
+        "url": "https://mp.weixin.qq.com/s/HMx0Y-GakKYxFrQk_wi6cA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "AI 渗透进入“下半场”：为什么逻辑协同比大模型本身更重要？",
+        "url": "https://mp.weixin.qq.com/s/-MJC6jpQvMsgW6vZan-Tlw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "Venom · 致命精准的渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/E42VDIZ8e_8XqNb7RLl2NA",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "900余家企业遭自动化攻击，360专家预警：AI正在重塑漏洞利用和攻防体系",
+        "url": "https://mp.weixin.qq.com/s/1fsYSn2DidY_QPRz3CK5_g",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "OpenAI 推出GPT-5.5 生物漏洞奖励计划，最高赏金2.5万美元",
+        "url": "https://mp.weixin.qq.com/s/AyBY_zIVYv8nrwl235aZhg",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "已存在12年之久的Pack2TheRoot 漏洞可导致攻击者获得 Linux root 访问权限",
+        "url": "https://mp.weixin.qq.com/s/9h62gsbnad0W_3xvjAJddw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "OpenAI重金悬赏GPT-5.5生物漏洞，严防AI被滥用于危险科研",
+        "url": "https://mp.weixin.qq.com/s/EmFgFMIVXYfy5MFvS6PdLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
+    },
+    {
+        "title": "12年Linux漏洞Pack2TheRoot曝光，本地用户可提权至root",
+        "url": "https://mp.weixin.qq.com/s/2_8iU1NxXcNma-XJqy1KVQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-27"
     }
 ]
