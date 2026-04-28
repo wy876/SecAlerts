@@ -130,5 +130,101 @@
         "url": "https://mp.weixin.qq.com/s/6hcanSlxurPwZfquPPKrDg",
         "source": "Doonsec",
         "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186543&idx=1&sn=917b2d0aa0bedbd8008ce0902392ab95",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [LYSRC 关于AI辅助漏洞挖掘的报告提交规范",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485342&idx=1&sn=cb96cf0f429ba77e502a35a418d77023",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [务必升级！Nessus Agent Windows版曝高危提权漏洞，攻击者可获取SYSTEM权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614166&idx=3&sn=c37e0a23d3aa9ff2095335f4f0207e29",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [OpenAI 推出GPT-5.5 生物漏洞奖励计划，最高赏金2.5万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525878&idx=1&sn=d8d9ab01c77cdf9aa112172faeb09a28",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [已存在12年之久的Pack2TheRoot 漏洞可导致攻击者获得 Linux root 访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525878&idx=2&sn=79f2e56b6855b12ec6fb1acde9a488e5",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [今日（2026年4月27日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505461&idx=1&sn=0fe3a34ae11aec8b611a69da04394e50",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [百度SRC发布《AI生成漏洞报告规范》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544059&idx=1&sn=54d3b57e5ac302690f81e44294f1a6fc",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [【安全圈】潜伏 8 年的漏洞，WPS 365 轻舟 AI 如何从源头免疫？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076031&idx=1&sn=eabb23f8054d5d871eea7bf9685cea47",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490238&idx=3&sn=8186501eb56679747f4a11eb5bb77ee9",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [900余家企业遭自动化攻击，360专家预警：AI正在重塑漏洞利用和攻防体系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585815&idx=2&sn=102ee62fdf9bdf24a85130ecb3573e91",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "] [NVD“撑不住”了：以后NVD的漏洞该咋运营",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186262&idx=1&sn=c9672e3b21f32b0d63cfdb3c660dfdea",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "被低估的数据泄密出口：网页上传场景的安全漏洞与防护破局",
+        "url": "https://mp.weixin.qq.com/s/F5th9WC8nuRuo_vq9G1lxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "AI Agent 渗透测试skill实战测试（二）",
+        "url": "https://mp.weixin.qq.com/s/pl_TrH7nQijv0pEKinMbuw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "绕过杀软的渗透测试：通过数据库写入WebShell绕过杀软防护的实战经验",
+        "url": "https://mp.weixin.qq.com/s/b_kPBQZuf48bbWQSgZbVdA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "4月社区投稿活动 | 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/_HIr5MhWIcgO6FHSt5o8WA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "RedSun 本地权限提升漏洞分析：滥用 Defender 修复机制",
+        "url": "https://mp.weixin.qq.com/s/AkKjaEkdG5Va1ovA3D7HLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
     }
 ]
