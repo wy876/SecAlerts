@@ -226,5 +226,29 @@
         "url": "https://mp.weixin.qq.com/s/AkKjaEkdG5Va1ovA3D7HLw",
         "source": "Doonsec",
         "date_added": "2026-04-28"
+    },
+    {
+        "title": "紧急！蚁剑 v2.1.15 曝致命漏洞。网友：玩一辈子鹰，被鹰啄瞎了眼",
+        "url": "https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "OpenSSH 漏洞暗藏 15 年，可致完全 root 权限访问",
+        "url": "https://mp.weixin.qq.com/s/K0CEuWrxspQdL6xNw4NivA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "LLM 推理引擎 llama.cpp 零点击 RCE 漏洞：从 Null Buffer 到绕过 PIE/Full RELRO/NX 利用链(CVE-2026-34159)",
+        "url": "https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "LiteLLM SQL注入漏洞可无条件触发",
+        "url": "https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
     }
 ]
