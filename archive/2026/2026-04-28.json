@@ -1,0 +1,68 @@
+[
+    {
+        "title": "【SRC实战】|并发漏洞新手的加油站！",
+        "url": "https://mp.weixin.qq.com/s/1YAvYFJ_ywbmsjjloGs-Vw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "一次案件前台RCE审计",
+        "url": "https://mp.weixin.qq.com/s/VtS7CflCTMI9Lkk0y4_n4g",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "【投稿篇】记一次对外挂卡密系统渗透",
+        "url": "https://mp.weixin.qq.com/s/m_ZLCDE8smaXQqMXk8K3eA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "蚁剑v2.1.15曝致命漏洞！XSS可直接变RCE，点击即中招...",
+        "url": "https://mp.weixin.qq.com/s/UHsu_MTGV2-9xJObaoKG0A",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "勒索软件与Mirai的狂欢：CISA最新KEV漏洞技术复盘与防护",
+        "url": "https://mp.weixin.qq.com/s/d7xALBk9AkhG0Pl_uaAvIQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "AI驱动的渗透攻防武器库",
+        "url": "https://mp.weixin.qq.com/s/iGlCBcAFQC3oKvaWrSJp_w",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "盲SSRF实战：用这招“投石问路”，无声漏洞照样拿赏金",
+        "url": "https://mp.weixin.qq.com/s/LxcaJcZh_ujFPE2rZEVSNw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "漏洞预警 | Adobe Acrobat Reader远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/K536X2vV09_tmDLScP-mzQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/GbC8KYAXswdfqRdL9gKIyA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "渗透测试之有意思的逻辑缺陷",
+        "url": "https://mp.weixin.qq.com/s/wkdtSgxm-KWZo8gHVs9BlA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "孚盟云CRM CustomizeReportSelectMould.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-CustomizeReport-CustomizeReportSelectMould-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-04-28"
+    }
+]
