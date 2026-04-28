@@ -64,5 +64,71 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-CustomizeReport-CustomizeReportSelectMould-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-28"
+    },
+    {
+        "title": "CVE-2026–41505：一个两字母的导入如何破坏开源 LMS 的认证安全",
+        "url": "https://mp.weixin.qq.com/s/ybpDMdvecw-bC289Wc1Tig",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "我在 API Explorer 中发现了一个存储型 XSS 漏洞——以下是我的具体操作步骤",
+        "url": "https://mp.weixin.qq.com/s/gQpvJE8_--8CLXOOzTdSHw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "[漏洞播报]紧急爆雷！蚁剑 v2.1.15 高危漏洞，XSS 秒变 RCE",
+        "url": "https://mp.weixin.qq.com/s/vTNq9lFdysw-3Tj9THT2pQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "快来免费用Claude做代码审计",
+        "url": "https://mp.weixin.qq.com/s/R9XXapEYKyFmkzkJ0fDWjA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "【研究报告】\\\"蛛网\\\"行动全景研究：乌克兰纵深渗透打击俄战略空军基地的策划、战术与战略影响",
+        "url": "https://mp.weixin.qq.com/s/rRhfZcvaDTSKEsvof4WIxw",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "天地伟业Easy7 queryDataByTypeEx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Vww-RAutlBTjp4HaJakzUQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "OpenClaw安全实战系列(四)：幽灵连通性 — 揭秘CVE-2026-32038沙箱网络隔离绕过与靶标实战",
+        "url": "https://mp.weixin.qq.com/s/Qx_dOttjDfG9-OBh9-Og9w",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫",
+        "url": "https://mp.weixin.qq.com/s/nUEiHeVYhn53cJdwnNH2vQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "红队神器｜Vue 站点未授权漏洞一键挖掘，这款插件太好用了",
+        "url": "https://mp.weixin.qq.com/s/6All2qBlo79FG8KTQCTrmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "2025 “泉城杯” 济南市网络安全大赛 题目复现",
+        "url": "https://mp.weixin.qq.com/s/0k7hkyH8gNiaUK0FT9VfGg",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
+    },
+    {
+        "title": "密码重置令牌可预测漏洞",
+        "url": "https://mp.weixin.qq.com/s/6hcanSlxurPwZfquPPKrDg",
+        "source": "Doonsec",
+        "date_added": "2026-04-28"
     }
 ]
