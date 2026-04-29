@@ -4,5 +4,167 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Card-ClientNameCard-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-29"
+    },
+    {
+        "title": "某SRC不一样的Dify/Next.js命令执行记录",
+        "url": "https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "MonkeyScan实测：一款轻量、精准、高效的AI代码审计工具",
+        "url": "https://mp.weixin.qq.com/s/rOlq97U96sxmq6YFg1HlIA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "Linux 后渗透利用神器 CACM 更新v2.4",
+        "url": "https://mp.weixin.qq.com/s/YwDAReMOQwxVwuU30IOFSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "Nginx UI的未授权远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/zi0YGUvyBmaKjiRHLSJItg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "PhantomCore 利用 TrueConf 漏洞入侵俄罗斯网络",
+        "url": "https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "关键GitHub 漏洞（CVE-2026-3854）允许远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159",
+        "url": "https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "微软修复可导致权限提升的 Entra ID 漏洞",
+        "url": "https://mp.weixin.qq.com/s/wHj6IBCWz-v6MSIWToIZBw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "CVE-2026-3854：GitHub 存在安全缺陷，攻击者可利用该漏洞发起远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "[高危漏洞预警] LiteLLM 预认证SQL注入漏洞CVE-2026-42208",
+        "url": "https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "CVSS 9.8！这波无需授权的 RCE 组合拳，是如何拿下 TrueConf 服务器的？",
+        "url": "https://mp.weixin.qq.com/s/LV5S2ijsoT-MnVM3rYkptA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "漏洞预警 | Cockpit远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/_GtsUO1Zw5PrXReh3PTW3A",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "信号失守：揭秘隐秘监控势力对全球电信网络的系统性渗透",
+        "url": "https://mp.weixin.qq.com/s/yKJVrZYBAhNiJvP3_MjVcg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【有免费靶场】Java“幽灵比特位”  漏洞原理+复现",
+        "url": "https://mp.weixin.qq.com/s/hVOmXE60RFSlTKsEWw2m3g",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【有免费靶场】Java“幽灵比特位”  漏洞原理+复现",
+        "url": "https://mp.weixin.qq.com/s/NOrYKuv6TANitgwxoCUTYw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "打印服务也犯错！最新CUPS漏洞可攻陷操作系统",
+        "url": "https://mp.weixin.qq.com/s/PEbh04GR873lOvayH9x39w",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "FortiWeb 针对 Java 幽灵比特位（Ghost Bits）漏洞防护策略",
+        "url": "https://mp.weixin.qq.com/s/ET6QSQgcWUhEdsUWQHjjrA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "安全企业发布iOS漏洞攻击风险检测工具",
+        "url": "https://mp.weixin.qq.com/s/Il0b96xm7kl2sOL_V8eNYA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "无径之径：Cairn AI 从渗透测试到通用问题的求解",
+        "url": "https://mp.weixin.qq.com/s/nT7ojaMKFB1Qq2xjZx1vyw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "奇安信SRC 关于AI生成漏洞报告的处置公告",
+        "url": "https://mp.weixin.qq.com/s/Z_vob01EPshW17OWrACA2Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "Gemini CLI 严重漏洞可触发 RCE 攻击和软件供应链风险",
+        "url": "https://mp.weixin.qq.com/s/X4L3vZe6Vk4qdMV15DT3zg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "Pipecat 语音代理可遭严重 RCE 漏洞利用劫持",
+        "url": "https://mp.weixin.qq.com/s/W446pdxEzlFNJgAa4zfzqw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "直播更新 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s/hDtM54ZidCt3dUugHiyaIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【授权渗透】某药业集团授权测试技巧通杀",
+        "url": "https://mp.weixin.qq.com/s/b23KIHfmUzXHO6ahWW3Rww",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【CVE-2026-22077】OPPO钱包可信域绕过导致敏感信息泄露漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s/pKGAY4LKq_FNOldhIscm-g",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "[工具推荐]AI自动化 Web 漏洞扫描Burp插件Zack-AI-Scanner",
+        "url": "https://mp.weixin.qq.com/s/aSe-K12DmxPVCYURgrRb6g",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
     }
 ]
