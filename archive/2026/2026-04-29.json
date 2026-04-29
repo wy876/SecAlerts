@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s/6U0s1g5xg97_PmmIEJUhTw",
         "source": "Doonsec",
         "date_added": "2026-04-29"
+    },
+    {
+        "title": "Bonitasoft 认证绕过及RCE漏洞分析及复现",
+        "url": "https://mp.weixin.qq.com/s/zaDOEbZr9XwJFTFg9RN0pg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "CVE-2024-38812 深度分析：从堆风水到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/uKFJQnQ21x_42dzDrVTHAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "突发！一条命令 github.com 被黑！RCE Made By AI！",
+        "url": "https://mp.weixin.qq.com/s/pli4tkFqDG7koTd2GennMA",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
     }
 ]
