@@ -262,5 +262,59 @@
         "url": "https://mp.weixin.qq.com/s/pli4tkFqDG7koTd2GennMA",
         "source": "Doonsec",
         "date_added": "2026-04-29"
+    },
+    {
+        "title": "cPanel发布严重身份验证漏洞警告——紧急补丁已发布",
+        "url": "https://mp.weixin.qq.com/s/eBnlFVk8Q4GQNP6keHuSjQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "分享一个渗透测试必备的POC速查网站",
+        "url": "https://mp.weixin.qq.com/s/RAbn3W0NNbqbALHktf8U5Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "周三：资讯速递（OpenAI漏洞赏金、安全skills库、OpenClaw漏洞）",
+        "url": "https://mp.weixin.qq.com/s/7HTN5GYNkrQkfFuL2gaVJw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "咱网安人自己的度娘，漏洞情报查询一步直达",
+        "url": "https://mp.weixin.qq.com/s/RpN6WMjou-yH-sGyWtnCWg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "成功复现！一条 git push 即可接管 GitHub 服务器，任意拉取他人私有仓库 (CVE-2026-3854)",
+        "url": "https://mp.weixin.qq.com/s/3BgVRD3ap1MukW8C2kPS2w",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "28个Claude子Agent重构渗透测试，一键部署AI黑客军团",
+        "url": "https://mp.weixin.qq.com/s/7UvpaAmzQtg7IQ21p8wuQw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "OpenClaw三大漏洞可致策略绕过与主机劫持",
+        "url": "https://mp.weixin.qq.com/s/P4dloFveiPI3jowz1YmLRg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "攻击者可通过漏洞链在CODESYS应用中植入后门",
+        "url": "https://mp.weixin.qq.com/s/ZDPoeekcoHDUc-mltalnHg",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "【论文速读】| 面向高成本效益代码漏洞检测的策略型异构多智能体架构",
+        "url": "https://mp.weixin.qq.com/s/igdNc0iIhwoStLeSDGHyMQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
     }
 ]
