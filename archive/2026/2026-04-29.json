@@ -166,5 +166,83 @@
         "url": "https://mp.weixin.qq.com/s/aSe-K12DmxPVCYURgrRb6g",
         "source": "Doonsec",
         "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.4.20-2026.4.26",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503776&idx=1&sn=4a2477b5411eb14edcf0a637f66f21db",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [Gemini CLI 严重漏洞可触发 RCE 攻击和软件供应链风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525887&idx=1&sn=294cc8c49080c6239db19c1f8525457e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [Pipecat 语音代理可遭严重 RCE 漏洞利用劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525887&idx=2&sn=7db60b91da692db0076bc3c7f3d29cfa",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [OpenClaw安全实战系列(四)：幽灵连通性 — 揭秘CVE-2026-32038沙箱网络隔离绕过与靶标实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499862&idx=1&sn=615174d4044f15bd9f7a7d9bf6a88372",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [LiteLLM SQL注入漏洞可无条件触发",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508656&idx=1&sn=23a36f4a8c5d30c1f7e696db704e78ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [【安全圈】“幻影核心” 利用 TrueConf 漏洞入侵俄罗斯网络",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076045&idx=1&sn=d9eecb878e9564d2a2967040fcb4511b",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [【安全圈】OpenSSH 漏洞暗藏 15 年，可致完全 root 权限访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076045&idx=3&sn=ef57ae6fb805d4a4d501ec4d8c9a61f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [【CVE-2026-22077】OPPO钱包可信域绕过导致敏感信息泄露漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494834&idx=2&sn=d4ab4e215f2d8dd82e28fe9b2f2711c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [直播更新 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614238&idx=3&sn=d861c4aebd91848548289ade30df70a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第16期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501525&idx=1&sn=f9cc040dd3056d42367c7c9685d0fffe",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "] [环球时报报道：全球紧张“AI挖漏洞”，中国提供新方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585831&idx=1&sn=56f7e93bb23289cb8912ba30cbde6b3d",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！",
+        "url": "https://mp.weixin.qq.com/s/k10RyA8TGLrtO4tTa0vlGw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
+    },
+    {
+        "title": "Java“幽灵比特位”  漏洞原理+复现+工具地址(Ghost Bits(幽灵比特)详细分析手册)",
+        "url": "https://mp.weixin.qq.com/s/6U0s1g5xg97_PmmIEJUhTw",
+        "source": "Doonsec",
+        "date_added": "2026-04-29"
     }
 ]
