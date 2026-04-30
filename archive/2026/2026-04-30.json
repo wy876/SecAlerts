@@ -184,5 +184,167 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPrice-sqli.html",
         "source": "MRXN",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [CVE-2024-38812 深度分析：从堆风水到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [单个Git Push就能攻陷GitHub？CVE-2026-3854高危漏洞曝光",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614348&idx=2&sn=ce07c53a847420a458cfab9e46207714",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [仅凭一条 git push 命令，即可在 GitHub 实现RCE 并访问数百万仓库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=1&sn=3a1d88cd8e20887b0792cd899f1b843e",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [刚刚，cPanel紧急修复影响所有受支持版本的认证漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=2&sn=80fc4007516f0fcfc9072f775b3c330a",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [2283美元，AI造出可用Chrome漏洞武器：网络攻防平衡已被彻底颠覆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=1&sn=378f9848d3f349beb7a1bd6a965d6b46",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [网信部门依法查处剪映 App 等 AI 生成合成内容标识违法平台；CNVD周报：高危0day漏洞激增，Adobe、NVIDIA、Cisco成重灾区| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=2&sn=a454d1c6b28958fd4ffe80cb59bd0a57",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb",
+        "source": "BruceFeIix",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/xwFEJZ9DUEirje66YPIa5w",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第六期）",
+        "url": "https://mp.weixin.qq.com/s/K4EDSNjwUjHQlCFG1lqHRw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报-openclaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z1ixOzAzu_Lqtec95zdyUw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux提权漏洞二进制版CVE-2026-31431",
+        "url": "https://mp.weixin.qq.com/s/Jvl5MRhQTTlhdSQc9FzLpg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【漏洞预警】Linux Copy Fail 本地提权漏洞 (CVE-2026-31431)",
+        "url": "https://mp.weixin.qq.com/s/YHG0b-P8U_b_FKqc-xtUAA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Copy Fail：横扫所有Linux，成为最危险的提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/pjZ6aFXriibIP6J6wK6Swg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）",
+        "url": "https://mp.weixin.qq.com/s/u8bn0-RIKU_PGHOugPj43Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "[高危漏洞通报]COPY FAIL漏洞(CVE-2026-31431)复现及修复建议",
+        "url": "https://mp.weixin.qq.com/s/-9Ch7VDjfmzH_5lSp_YekA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "连 cat readme.txt 都不安全：iTerm2 SSH 集成协议信任漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/JVrl3-46lVbqOp-XcoTS7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux Copy Fail漏洞预警，丝滑提权不是梦",
+        "url": "https://mp.weixin.qq.com/s/SiZdlyzT-4_06zanDrzykg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431 已复现，最新提权漏洞，通杀过去 9 年所有 linux 主机",
+        "url": "https://mp.weixin.qq.com/s/26VkSyNcULuNoVF5fmBQ9A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "关于Linux内核存在本地权限提升漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s/RK-orUtf_OkVQPxqf6PRjg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/qPzFe4bkc1R8glcKmP-RDw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览",
+        "url": "https://mp.weixin.qq.com/s/U9CtqEm37ejls0O70AHx1A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【已复现】Linux内核权限提升漏洞（CVE-2026-31431）",
+        "url": "https://mp.weixin.qq.com/s/aYUPjfD9X_2rYfE6JeqoPA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "微软Windows Shell零点击漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/qYCkBHvy2qQAza2nlUlA3g",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "看懂 DCSync：域渗透中最经典的 Hash 导出技术",
+        "url": "https://mp.weixin.qq.com/s/vEMscdT1OI4eW6sj-KhPQQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE复现 | CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s/yi0zyXfGjL5P-5j4M_71mw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CopyFail本地提权漏洞影响主流Linux系统最新版（CVE-2026-31431）",
+        "url": "https://mp.weixin.qq.com/s/FaNP5vEzlnHwrS4uoG6MEQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
