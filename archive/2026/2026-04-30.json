@@ -484,5 +484,89 @@
         "url": "https://mp.weixin.qq.com/s/MfqRs5WFJbAkgo9IVAtJiA",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "恒丰银行智能客服功能优化项目POC测试供应商征集",
+        "url": "https://mp.weixin.qq.com/s/G4hJa4aZNQMlcGOrmwuXKA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux曝出“核弹级”漏洞CVE-2026-31431：攻击者可瞬间提权",
+        "url": "https://mp.weixin.qq.com/s/5Q_2Gs8PkH67gYsnMxP_dA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux曝出“史诗级”本地提权漏洞，奇安信椒图、天擎EDR支持实时检测",
+        "url": "https://mp.weixin.qq.com/s/V5fn25CICy1eN_LV1omcLA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "AI 网关 LiteLLM 曝严重 SQL 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【漏洞预警】CVE-2026-31431 Linux内核crypto:algif_aead逻辑漏洞 本地权限提升分析",
+        "url": "https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD",
+        "url": "https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/KI-n1SESpCUA4hqJQ78Oog",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示",
+        "url": "https://mp.weixin.qq.com/s/B9xcSm5BGGFA4NQZK6QoIg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux内核复制失败零日漏洞影响自2017年所有主流发行版",
+        "url": "https://mp.weixin.qq.com/s/y7lIUNoxBmNEiYbY7Xp-uw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431）",
+        "url": "https://mp.weixin.qq.com/s/czd3cPe35jX3bK_yCgzsAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【免费领】求职宝典：渗透测试工程师面试题大全（含答案）",
+        "url": "https://mp.weixin.qq.com/s/vmb0rbhKWiWA-63jD7MiOw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-33824 cvss 9.8分的IKEv2 double free漏洞简单复现",
+        "url": "https://mp.weixin.qq.com/s/4-j-tCQJCPvJElwSIGEqZw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Linux 高危漏洞爆发！普通用户可直接提权 root",
+        "url": "https://mp.weixin.qq.com/s/V_0VgmHnciZNDnlXg0BhLQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "AI渗透测试知识库 v6.7 —— 安全从业者的“攻击链百科全书”",
+        "url": "https://mp.weixin.qq.com/s/2bpIJiQezBFxPRet5hIN7A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
