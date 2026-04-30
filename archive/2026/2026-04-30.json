@@ -346,5 +346,143 @@
         "url": "https://mp.weixin.qq.com/s/FaNP5vEzlnHwrS4uoG6MEQ",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s/YxhdfUqNCmPm6mXf0pQRSg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "记某SRC高危漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【复现】Linux内核通用漏洞 Copy Fail（CVE-2026-31431）",
+        "url": "https://mp.weixin.qq.com/s/3NQcTrF_vjO_LnO-QKF_tQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【复现】cPanel &amp; WHM 身份认证绕过漏洞 （CVE-2026-41940）",
+        "url": "https://mp.weixin.qq.com/s/S-furaxYLG43WtgBuCVjEw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "安全热点周报：LiteLLM 认证路径曝 SQL注入漏洞，披露 36 小时即遭定向攻击",
+        "url": "https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431 真的只值 7.8 么",
+        "url": "https://mp.weixin.qq.com/s/7ImIAtZFMl-PWJG-wFgaAg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "cPanel 与 WHM 紧急更新修复关键认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/P9TGtLxahLOsptfPu1KRlA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "记一次常态化渗透测试：从域名到 Getshell 的思路",
+        "url": "https://mp.weixin.qq.com/s/-GcyQOnFn2o0Wcxz4NT5_A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【高危漏洞预警】 潜伏近十年，Linux 内核 Copy Fail 漏洞全网爆发",
+        "url": "https://mp.weixin.qq.com/s/UIRyI_9qDHHHaVNB9cmttw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【漏洞预警】Nginx UI 存在未授权备份下载与密钥泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/WYdE1TfsqWwZ3Wqfwf27Aw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限",
+        "url": "https://mp.weixin.qq.com/s/FvZvivKO8YoyXt79Ew0qMw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！",
+        "url": "https://mp.weixin.qq.com/s/JQFPrpOnoX9jqOx0QtdRtw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431提权复现",
+        "url": "https://mp.weixin.qq.com/s/fNi4N6zHAQfFDTMk8Lwxmg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "DarkSword漏洞工具泄露：数亿iPhone面临零点击窃密风险",
+        "url": "https://mp.weixin.qq.com/s/igdteCyUJcdNDYjY0IEEVw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ybq2miK7ARj4GllpjqfF8g",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第六期）",
+        "url": "https://mp.weixin.qq.com/s/JovkXfcqFi1dzUn9XRfNLw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "[吃瓜速递]“你的头像”好漂亮；漏洞报告P图之我要“举报”你",
+        "url": "https://mp.weixin.qq.com/s/XVyO1h1J1_My9dNjaO2CRg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431提权【C版本】",
+        "url": "https://mp.weixin.qq.com/s/3OYG-rJgU-5ps-5zhYHO9w",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "能信安：漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/8VPckV0VjEWpLu6AsaFULQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "NeuroSploit v3 AI渗透测试框架初探",
+        "url": "https://mp.weixin.qq.com/s/zq8dcpfYFORRBqXdR62uoA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "1秒root、九年无人知——Linux近年最屌提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/dlhYnOUdSTp-j-wqVMLQqA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【紧急预警】Copy Fail：CVE-2026-31431 Linux内核本地提权漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s/ndPeFonGLvlPVpacBgsFeA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破",
+        "url": "https://mp.weixin.qq.com/s/MfqRs5WFJbAkgo9IVAtJiA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
