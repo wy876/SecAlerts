@@ -610,5 +610,41 @@
         "url": "https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431",
+        "url": "https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "网络设备通用漏洞挖掘由黑到白",
+        "url": "https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【已复现】CVE-2026-31431 Linux内核本地提权漏洞（Copy Fail）",
+        "url": "https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "XMCVE-WebRecon——一款好用的渗透测试辅助插件",
+        "url": "https://mp.weixin.qq.com/s/JLlP1KwHtF1MG2bK8uVKlw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "最新通杀全线Linux发行版的CVE漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/MKa_SLZZhFmlZFpw0yvjEg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "SEH溢出+Egghunter双剑合璧！SyncBreeze漏洞EXP深度优化",
+        "url": "https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
