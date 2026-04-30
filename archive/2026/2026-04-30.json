@@ -568,5 +568,47 @@
         "url": "https://mp.weixin.qq.com/s/2bpIJiQezBFxPRet5hIN7A",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "烽火狼烟丨Linux Kernel “Copy Fail” 提权漏洞 (CVE-2026-31431) 分析与安全声明",
+        "url": "https://mp.weixin.qq.com/s/9_JXNh6oKFNSzikVepF97A",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Copyfail提权漏洞(CVE-2026-31431)临时缓解措施",
+        "url": "https://mp.weixin.qq.com/s/cFYqAUqjsbVwoNm2B4XCnw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "新型 Linux 内核提权漏洞 CVE-2026-31431，安芯神甲提供实时检测与防护能力",
+        "url": "https://mp.weixin.qq.com/s/rnzu7PL34onKAR1MS7Anow",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "【已复现】cPanel 登录流程认证绕过漏洞（CVE-2026-41940）",
+        "url": "https://mp.weixin.qq.com/s/BCDnQD0MY5vL_OG-qd0NEA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CNVD：关于Linux内核存在本地权限提升漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s/X1HE9GQHfBKJrFin8aDf8Q",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CNNVD关于Linux安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/MP8byaCpAvOtoI3nCXnLOg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CNNVD关于cPanel访问控制错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
