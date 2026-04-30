@@ -670,5 +670,11 @@
         "url": "https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431",
+        "url": "https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
