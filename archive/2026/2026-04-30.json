@@ -646,5 +646,29 @@
         "url": "https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A",
         "source": "Doonsec",
         "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+        "url": "https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
+        "url": "https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC",
+        "url": "https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
+    },
+    {
+        "title": "CVE-2026-31431（Copy Fail）漏洞FAQ（上）——漏洞的基本情况、影响范围与处置篇",
+        "url": "https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw",
+        "source": "Doonsec",
+        "date_added": "2026-04-30"
     }
 ]
