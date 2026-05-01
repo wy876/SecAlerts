@@ -1,0 +1,110 @@
+[
+    {
+        "title": "CNNVD | 关于Linux安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/0p44OC5GNHQir6NvdZZjpQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CNNVD | 关于cPanel访问控制错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/HRPMVRmwiqCBW7v9OXOFyg",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "后渗透工具 | VMkatz 从虚拟机中提取Windows凭据",
+        "url": "https://mp.weixin.qq.com/s/OQ06vNLnWheYgk3iWWK0Gw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "分享我在EDU实战挖到的XSS漏洞合集",
+        "url": "https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE",
+        "url": "https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431",
+        "url": "https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "28 个 AI 特工帮你打渗透测试，这工具要抢安全人的饭碗？",
+        "url": "https://mp.weixin.qq.com/s/y4WZpWVnGTchTwoYLRBd3g",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "cPanel/WHM 认证绕过漏洞 CVE-2026-41940 深度分析",
+        "url": "https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "五一不打烊 · 漏洞挖掘正当时",
+        "url": "https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）",
+        "url": "https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root",
+        "url": "https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+        "url": "https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题",
+        "url": "https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CVE-2026-31431 Copy Fail 通俗解析",
+        "url": "https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！",
+        "url": "https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "孚盟云CRM BusinessPriceListList.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceList-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-05-01"
+    }
+]
