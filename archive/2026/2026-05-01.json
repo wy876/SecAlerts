@@ -292,5 +292,11 @@
         "url": "https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A",
         "source": "Doonsec",
         "date_added": "2026-05-01"
+    },
+    {
+        "title": "从找漏洞到证明漏洞：多Agent架构3.0",
+        "url": "https://mp.weixin.qq.com/s/1eoPGqkoN7Yc7XdFJdHQlw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
     }
 ]
