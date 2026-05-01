@@ -298,5 +298,89 @@
         "url": "https://mp.weixin.qq.com/s/1eoPGqkoN7Yc7XdFJdHQlw",
         "source": "Doonsec",
         "date_added": "2026-05-01"
+    },
+    {
+        "title": "CopyFail漏洞分析博客",
+        "url": "https://mp.weixin.qq.com/s/OgOS7WT1hVBdeVVW-wsQPg",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "安全警报 | 紧急预警！黑客组织密集发布多款针对我国平台高危漏洞工具，涉及政务、游戏、民生等多个平台",
+        "url": "https://mp.weixin.qq.com/s/jttkuPDAOV3-MC2XkOaY2w",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "安全警报 | 预警！黑客组织发布广东政务服务网漏洞工具，个人信息面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/n8ydL_-lP8WzealSy3L2kw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "2026两轮车行业：东南亚两轮车市场广阔，高油价加速渗透",
+        "url": "https://mp.weixin.qq.com/s/CHKq5G3p-i-AxMlh-kKiBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "src低危漏洞多少钱？",
+        "url": "https://mp.weixin.qq.com/s/I-dEZ4dydun3EmHNqH5aVA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "Linux内核存在本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/f6S9x1G5KL1nP_owZlkfsA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "OpenClaw 三大高危 RCE 漏洞全解析",
+        "url": "https://mp.weixin.qq.com/s/x7L4X13VnDuORGNcf3FP8g",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "【圈子限时优惠】红队后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s/RiEoUfxXmHvtMhAMGMNRgA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "cPanel 0Day认证绕过漏洞遭野外利用，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s/r8ebtL86TC9uQG7ltZRDhA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "揭露 Lenovo Vantage 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/v4UszwVZiBzu7XEX4CcWow",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "[SRC]某企业的漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/_qJj85IaZDTTe-k0rnyzCQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "CVE-2026-41940：cPanel/WHM 认证绕过漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/1EWkomo46st3LnE5Je2zTw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "白加黑来袭，菜狗安全（代码审计）联手庆尘Src（漏洞挖掘），五一联合活动",
+        "url": "https://mp.weixin.qq.com/s/T7VT23mc7NdIy6ADinHHFQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "白加黑来袭，菜狗安全（代码审计）联手庆尘Src（漏洞挖掘），五一联合活动",
+        "url": "https://mp.weixin.qq.com/s/kt7LjWlHXAIhUY5d2l_FwA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
     }
 ]
