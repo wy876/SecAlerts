@@ -106,5 +106,191 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [Linux提权漏洞！10行代码直接root",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508662&idx=1&sn=41def071baa5eeadd5303f2ccb43cf01",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【已复现】Linux内核权限提升漏洞（CVE-2026-31431）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492097&idx=1&sn=718add4ed82d4ce779728a3ac56c09c7",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=1&sn=782f41f065f5b44a1724fe083a86f80e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【已复现】cPanel&WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=2&sn=17a49e5024765e8f6bd8b09c1f4719f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=1&sn=955f8155ca08aea02fa3e25775c3bcf4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=2&sn=e5ba8445daca48ad1bb3795002895e7c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=1&sn=fd4a2110a6d3cf0e85ffb46c50f2db71",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [CNNVD | 人工智能重要漏洞通报（2026年第六期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=2&sn=ae790fc7924edd4d34893a1bddc2c839",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141199&idx=2&sn=2665ad35bc0a3671c0a8b561063451f2",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [Copy Fail: 仅732字节，通杀所有主流 Linux 发行版，隐藏9年的 root 提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=2&sn=487c60cb3cbc5568392caaeb46a3b33d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [最新通杀全线Linux发行版的CVE漏洞解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=1&sn=f6b76bcbd3beb393983e7cb3b4c0eea4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=2&sn=2f53fc8a4a3695c13f1ea7fc09bb1b9c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [记某SRC高危漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [732 字节通杀 Linux内核 近 9 年！100% 稳定获取 root 权限。附Poc。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165769&idx=1&sn=458df7885e2f72bea989f80e27528947",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186347&idx=1&sn=a62188947f420de663dfc428891b361b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494908&idx=2&sn=fadace1e79c4554fecf7e51ec930333b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [Copy Fail：横扫所有Linux，成为最危险的提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542765&idx=2&sn=fb4be51e89b2c51a565c30835320a5eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [1秒root、九年无人知——Linux近年最屌提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490029&idx=1&sn=fc9c3feee41b708f86dab16be4154af5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [Copy Fail：732字节通杀所有Linux的史诗级LPE漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490274&idx=1&sn=b1d1c3aa8c892bdd85567321081a0bca",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [关于Linux内核存在本地权限提升漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496881&idx=1&sn=563b3c5245be0c633987b1613867773c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [Linux Kernel \"Copy Fail\" 漏洞预警，可本地稳定提权至 root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497528&idx=1&sn=bd11cb8bf23b2ae520fc1723d37cf85b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493214&idx=1&sn=0bd0bf00dcf29c2419c42c454c82f1f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [CVE-2026-31431 漏洞原理、缓解和修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436281&idx=1&sn=1c92351b2a2947a1a2d0ae9808a49a50",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585876&idx=1&sn=0148a95dc5e3b15e4a02b10fffa551de",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel Copy Fail 本地权限提升漏洞(CVE-2026-31431)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525464&idx=1&sn=8acda386bfbde5ad1c91b714adbca8f2",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "【CVE-2026-41940】核弹级漏洞 cPanel/WHM 身份验证绕过 RCE",
+        "url": "https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "金万维异速联平台未授权漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析",
+        "url": "https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "今日（2026年5月1日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/LmGpBQH7k4z7FNnlSdlSgw",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
+    },
+    {
+        "title": "紧急预警｜Sandworm APT再出手！针对白俄罗斯军方发动攻击，LNK漏洞+Tor隐蔽后门，隐蔽性拉满",
+        "url": "https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A",
+        "source": "Doonsec",
+        "date_added": "2026-05-01"
     }
 ]
