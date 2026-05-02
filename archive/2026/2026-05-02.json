@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA",
         "source": "Doonsec",
         "date_added": "2026-05-02"
+    },
+    {
+        "title": "Spring Boot 框架反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "Spring Boot 框架反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "Yakit Ghost Bits Fuzzing 漏洞插件",
+        "url": "https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
     }
 ]
