@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg",
         "source": "Doonsec",
         "date_added": "2026-05-02"
+    },
+    {
+        "title": "linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案",
+        "url": "https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "JAVA反序列化漏洞与CC链",
+        "url": "https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
     }
 ]
