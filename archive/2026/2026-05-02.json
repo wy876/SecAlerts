@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/wT5hFY9_7vIjWQHLPiMR-Q",
         "source": "Doonsec",
         "date_added": "2026-05-02"
+    },
+    {
+        "title": "Vulfocus入门——命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
     }
 ]
