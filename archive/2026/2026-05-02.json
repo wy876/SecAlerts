@@ -76,5 +76,41 @@
         "url": "https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA",
         "source": "Doonsec",
         "date_added": "2026-05-02"
+    },
+    {
+        "title": "] [今日（2026年5月1日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505530&idx=1&sn=394e32f3072d2a116e8a753bd3f6557a",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "] [Copy Fail（CVE-2026-31431）：732字节脚本提权linux",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "] [【安全圈】开源电子病历软件 OpenEMR 发现 38 个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=2&sn=69e1060f56966577b4e2d2a05cebb8cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破\\\"Copy Fail\\\"内核通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s/fAek_68jgXUHaOFh0_harA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "AI 复现Copy Fail漏洞的一些思考？学了这么多年渗透/代审，会被 AI 一波带走嘛？",
+        "url": "https://mp.weixin.qq.com/s/GuO9857kVnqYoaVMzrY3-w",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+        "url": "https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
     }
 ]
