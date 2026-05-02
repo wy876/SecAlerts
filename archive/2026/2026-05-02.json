@@ -1,0 +1,80 @@
+[
+    {
+        "title": "【圈子限时优惠】红队后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s/QbS_YPmRTSCaCegR_nOVQA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "【CVE-2026-31431】Linux提权漏洞原理详解",
+        "url": "https://mp.weixin.qq.com/s/rokSS7XTAgcr4J6VCbcICg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "深度安全研究报告：基于自动化挖掘引擎的全局漏洞态势与根因分析",
+        "url": "https://mp.weixin.qq.com/s/oZ_19i9sRNdHvATN-X2trA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "记某SRC高危漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "Phalanx 开源自主渗透测试辅助工具",
+        "url": "https://mp.weixin.qq.com/s/7w0-IFLx1iUruqUn23PkyA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "【自研工具】Zack-Vulscan 指纹驱动精准匹配Poc的Web漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s/TXhust1HL_dEtKZPltwyCQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "美军渗透马杜罗政权情报网始末及“悬赏拒付”事件",
+        "url": "https://mp.weixin.qq.com/s/br55ZClV_XFGrS1jUc4AGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "50 元封顶！渗透攻防 + SRC 漏洞星球限时开放！",
+        "url": "https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "模型不是全部：从 Mythos、Hacktron 与 oauth2-proxy 0-day 看自动化漏洞挖掘系统的真实瓶颈",
+        "url": "https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "警惕，最新LINUX漏洞",
+        "url": "https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "ProFTPD SQL注入漏洞为远程代码执行攻击打开方便之门",
+        "url": "https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "如何通过漏洞组合链为工控平台CODESYS植入后门",
+        "url": "https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    },
+    {
+        "title": "Copy Fail：一个几乎影响所有主流 Linux 发行版的提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA",
+        "source": "Doonsec",
+        "date_added": "2026-05-02"
+    }
+]
