@@ -1,0 +1,80 @@
+[
+    {
+        "title": "AI 与 Java代码审计该如何摩擦出火花？",
+        "url": "https://mp.weixin.qq.com/s/mcDV1jx5B1DEMUWmvRSKYg",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208）",
+        "url": "https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "Linux 内核史诗级本地提权漏洞 全网深度复现、原理完整分析( CVE-2026-31431)",
+        "url": "https://mp.weixin.qq.com/s/HSEs0UIFLReNbIFfPHJJcg",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "xia_tan：基于BurpSuite的自动化漏洞探测插件",
+        "url": "https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "JAVA框架与组件 FastJSON 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+        "url": "https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "Pentest-AI：一键运行全自动渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/po_xe8nrkAs-3F1BB-pNbw",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "PHP中潜伏21年的致命漏洞：MAD Bugs详解",
+        "url": "https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "人与AI协同的漏洞分析新范式——Copy Fail发现过程解析",
+        "url": "https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "黑客利用cPanel漏洞入侵亚洲政府和军方服务器",
+        "url": "https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "漏洞挖掘：众测src测试姿势总结",
+        "url": "https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞",
+        "url": "https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
+    }
+]
