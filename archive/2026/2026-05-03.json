@@ -76,5 +76,29 @@
         "url": "https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q",
         "source": "Doonsec",
         "date_added": "2026-05-03"
+    },
+    {
+        "title": "] [今日（2026年5月2日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "] [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "] [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破\"Copy Fail\"内核通杀漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-03"
+    },
+    {
+        "title": "Shiro 550 RememberMe 反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA",
+        "source": "Doonsec",
+        "date_added": "2026-05-03"
     }
 ]
