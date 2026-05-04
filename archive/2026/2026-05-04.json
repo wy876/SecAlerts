@@ -1,0 +1,128 @@
+[
+    {
+        "title": "紧急预警 | 黑客组织密集发布高危漏洞工具，某地公安平台、支付平台、短视频平台等多平台数据面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/jr_kj00PPcv8qnDZA2lU5g",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "漏洞赏金会消失吗？",
+        "url": "https://mp.weixin.qq.com/s/M5ja0hsBYRaECZiQqgNtxw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "实战复现：公交系统未授权登录 + SQL 注入漏洞利用全解",
+        "url": "https://mp.weixin.qq.com/s/oVkRDMGS7gR9ZazQQ88Nlw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "漏洞复现 | OpenCode 存在远程命令执行漏洞（CVE-2026-22812）",
+        "url": "https://mp.weixin.qq.com/s/37W5hblic-17zNxshjTDRA",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "Apache OpenNLP 曝出一组高危漏洞，包括XXE注入",
+        "url": "https://mp.weixin.qq.com/s/Zn_l-GnWSbj8jIY2dumfnw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "Metasploit 新模块：DHCP耗尽配合DNS劫持，内网渗透组合拳",
+        "url": "https://mp.weixin.qq.com/s/a5YFSn-Gy6pqgmzSg4pePQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "JWT：渗透测试姿势全解析（含实战）",
+        "url": "https://mp.weixin.qq.com/s/8Zf4v1IiHDNpjGIJfokDGQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "【网安周报】：Linux 内核爆史诗级0-Day，cPanel满分漏洞威胁百万实例（4.26 - 5.03）",
+        "url": "https://mp.weixin.qq.com/s/O5a00ufMvqUZjXekKo2P3w",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "CVE-2026-31431 \\\"Copy Fail\\\" 漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/T-iRx7D-OLzF9FVJVR7e7Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "【漏洞】RedSun复现",
+        "url": "https://mp.weixin.qq.com/s/orGyVntLp8aM1_BH-R2eug",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "从信息收集到漏洞报告：一款好用的AI Agent 渗透测试skill",
+        "url": "https://mp.weixin.qq.com/s/DuTi56EjgJxUpOeLBW1URA",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取",
+        "url": "https://mp.weixin.qq.com/s/8YGRQb2Wy7SlxP5ZLRZMRw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "关于Java中反序列化漏洞的思考",
+        "url": "https://mp.weixin.qq.com/s/YmADnb8uGuZkN-jRmbjprw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "CISA 将已被积极利用的 Linux Root 访问漏洞 CVE-2026-31431 添加到 KEV 中",
+        "url": "https://mp.weixin.qq.com/s/mEpM48WrSDJ8vsIobtLLnQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "如何检测利用CVE-2026-31431漏洞的攻击",
+        "url": "https://mp.weixin.qq.com/s/Y0pGV45K-COSrPL4DJ7CWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "java幽灵比特位(Ghost Bits)漏洞介绍&amp;&amp;相关测试工具推荐",
+        "url": "https://mp.weixin.qq.com/s/msdwMk-QFmStSpWroE1Nhg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "今日（2026年5月3日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/Gq8qu_V26Q7Q4tjD-p11IQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "静师傅的net版代码审计skill开源!!! 自动反编译dll自动审计net代码",
+        "url": "https://mp.weixin.qq.com/s/ZL5U6ZdRXZ8658U2HAHIWQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "孚盟云CRM BusinessPriceListList.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/fNJEJ-eRcfeMxf6_j1GBmg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "第三届\\\"长城杯\\\"网数智安全大赛CTF&amp;渗透WP全流程",
+        "url": "https://mp.weixin.qq.com/s/bI06vhU95LgJvmOXO1ZDAw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "HackingTool——渗透测试工具箱集成185+ 款安全工具",
+        "url": "https://mp.weixin.qq.com/s/Qd1u6mad5PrulAptNGLawg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    }
+]
