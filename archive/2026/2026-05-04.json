@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s/Qd1u6mad5PrulAptNGLawg",
         "source": "Doonsec",
         "date_added": "2026-05-04"
+    },
+    {
+        "title": "Sub2Api 网关平台存在0计费bug漏洞",
+        "url": "https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "2025长城杯vvvmmm复现",
+        "url": "https://mp.weixin.qq.com/s/I5r5mA3bFGSq-fh9WLHPQA",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "cPanelSniper：CVSS 10.0的cPanel认证绕过漏洞利用框架",
+        "url": "https://mp.weixin.qq.com/s/tJG1Y-jAKFRAVCYMYGw1oQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
     }
 ]
