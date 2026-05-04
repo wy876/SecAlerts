@@ -142,5 +142,59 @@
         "url": "https://mp.weixin.qq.com/s/tJG1Y-jAKFRAVCYMYGw1oQ",
         "source": "Doonsec",
         "date_added": "2026-05-04"
+    },
+    {
+        "title": "lodash库原型污染漏洞（CVE-2019-10744）",
+        "url": "https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "cPanel关键漏洞已被用于攻击政府和MSP网络",
+        "url": "https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "今日（2026年5月4日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "用任何模型都能挖出零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "为什么十年的漏洞检测逻辑编写经验让 Mythos 的漏洞数字显得不那么可怕",
+        "url": "https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "渗透测试基础总结，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s/29q4hSTemXZlR9iChb8hmg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及",
+        "url": "https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
+    },
+    {
+        "title": "AI中转站存在0元购漏洞",
+        "url": "https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg",
+        "source": "Doonsec",
+        "date_added": "2026-05-04"
     }
 ]
