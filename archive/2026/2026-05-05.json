@@ -46,5 +46,95 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8",
         "source": "BruceFeIix",
         "date_added": "2026-05-05"
+    },
+    {
+        "title": "DeepZero: 睡梦中自动化挖掘 Windows 内核驱动的 0day",
+        "url": "https://mp.weixin.qq.com/s/i6IBsXxA5qwbgdX6I7TkSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "安卓系统零点击漏洞可授予远程 Shell 访问权限",
+        "url": "https://mp.weixin.qq.com/s/T4iES_vBJkMRrL9BvqIh2Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "Apache HTTP 服务器严重漏洞使数百万台服务器面临远程代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成",
+        "url": "https://mp.weixin.qq.com/s/bShRDQ0voKYTrJ9FeU2dHw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "PayloadsAllTheThings：Web漏洞速查表",
+        "url": "https://mp.weixin.qq.com/s/qqbuxNFua4wF3ZJlDufewA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+        "url": "https://mp.weixin.qq.com/s/wodOGhktItXVlECCvVa9QA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "域渗透学习-信息收集篇",
+        "url": "https://mp.weixin.qq.com/s/C4UHShHXd2vX3MuiU9EJXw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "CVE复现 | CVE-2025-55182",
+        "url": "https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "今日（2026年5月5日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/eY3tml4tlhvo64SIVqCHHw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "Spring Boot 前后端分离渗透测试",
+        "url": "https://mp.weixin.qq.com/s/swUwtx2h22UMCMw7agDfvw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "受AI影响，Google下调Chrome漏洞赏金十倍",
+        "url": "https://mp.weixin.qq.com/s/eX_QIrkLqblUZOubZWiFGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "后渗透Meterpreter模块的详细使用",
+        "url": "https://mp.weixin.qq.com/s/y8EXYsLdS1uIoZ0tv3EycQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "ISC DHCP Server：利用特性链实现未认证的Root远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/2zGxkh_JpFiOCXab2vYWDA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "【最后一天圈子限时优惠】红队后渗透CobaltStrike插件更新",
+        "url": "https://mp.weixin.qq.com/s/ApxPNA3IUFoixrjiXHRUkg",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "CVE复现 | CVE-2026-21858复现(含环境)",
+        "url": "https://mp.weixin.qq.com/s/i35brZ1Xc9LXsJCjHPRudg",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
     }
 ]
