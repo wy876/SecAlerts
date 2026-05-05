@@ -1,0 +1,38 @@
+[
+    {
+        "title": "AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。",
+        "url": "https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "HackingTool：一个终端搞定185+渗透测试工具，5万+Star的全能工具箱",
+        "url": "https://mp.weixin.qq.com/s/brJ87ZDMXqPWfCZE00IHSg",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞",
+        "url": "https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用",
+        "url": "https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE",
+        "url": "https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA",
+        "source": "Doonsec",
+        "date_added": "2026-05-05"
+    }
+]
