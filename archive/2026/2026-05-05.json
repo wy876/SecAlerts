@@ -34,5 +34,17 @@
         "url": "https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA",
         "source": "Doonsec",
         "date_added": "2026-05-05"
+    },
+    {
+        "title": "] [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-05"
+    },
+    {
+        "title": "] [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-05"
     }
 ]
