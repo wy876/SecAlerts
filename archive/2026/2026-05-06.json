@@ -268,5 +268,59 @@
         "url": "https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A",
         "source": "Doonsec",
         "date_added": "2026-05-06"
+    },
+    {
+        "title": "MCP+BurpSuite 实现AI漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "渗透测试Payload速查手册",
+        "url": "https://mp.weixin.qq.com/s/cj091LxuiMmWzGosxKTNVw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "人工智能重要安全漏洞通报Ollama安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "Palo Alto 提醒注意严重的 PAN-OS RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "智能体驱动的漏洞挖掘实践",
+        "url": "https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性",
+        "url": "https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482)",
+        "url": "https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073)",
+        "url": "https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
     }
 ]
