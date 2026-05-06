@@ -214,5 +214,59 @@
         "url": "https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og",
         "source": "Doonsec",
         "date_added": "2026-05-06"
+    },
+    {
+        "title": "分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕",
+        "url": "https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "渗透大佬都在看的渗透笔记合集，超级实用，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s/58k6psp6aGviDcPXy43PfQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【立即应急】cPanel &amp; WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用",
+        "url": "https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "关键漏洞可致 30 万 Ollama 部署信息被盗",
+        "url": "https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞",
+        "url": "https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc",
+        "url": "https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
     }
 ]
