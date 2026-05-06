@@ -322,5 +322,17 @@
         "url": "https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA",
         "source": "Doonsec",
         "date_added": "2026-05-06"
+    },
+    {
+        "title": "200秒拿到Shell，6分钟打穿域控：全自动渗透已经把攻防拖进了“秒级”时代",
+        "url": "https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "高危安卓零点击漏洞可远程获取Shell访问权限",
+        "url": "https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
     }
 ]
