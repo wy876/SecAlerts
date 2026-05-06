@@ -160,5 +160,59 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-uploadFile-rce.html",
         "source": "MRXN",
         "date_added": "2026-05-06"
+    },
+    {
+        "title": "] [今日（2026年5月5日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "] [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设",
+        "url": "https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "e0e1-wx-gui 1.1版本 微信4自动化辅助渗透工具 分享解决流量转发无法回连问题",
+        "url": "https://mp.weixin.qq.com/s/0Soj0Rnxgeo0aqc_a0PZrw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中",
+        "url": "https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "用Python自动化漏洞狩猎，打造专属工具，让狩猎速度提升10倍！",
+        "url": "https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险",
+        "url": "https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
+    },
+    {
+        "title": "安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵",
+        "url": "https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og",
+        "source": "Doonsec",
+        "date_added": "2026-05-06"
     }
 ]
