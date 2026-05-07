@@ -10,5 +10,47 @@
         "url": "https://mp.weixin.qq.com/s/f3MBc2H8MeCOfYvMc9P4fg",
         "source": "Doonsec",
         "date_added": "2026-05-07"
+    },
+    {
+        "title": "别再只会说跟AI说“帮我进行代码审计”了：AI 代码审计 Prompt 工程：塑造 AI 的“代码审计人格” 实践总结",
+        "url": "https://mp.weixin.qq.com/s/hVkniM1BnlzX8kTal3sYWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "CVE-2026-41940 POC",
+        "url": "https://mp.weixin.qq.com/s/ecW5RevgLKLSLjNxEVr0sw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "LLM开源方案Ollama曝严重漏洞，30万个部署面临信息失窃风险",
+        "url": "https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令",
+        "url": "https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "【漏洞案例】页游websocket协议使用fatbeans改包一键通关",
+        "url": "https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "安卓高危0Day漏洞可远程获取Shell访问权限",
+        "url": "https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/file/deleteFile 文件删除漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-deleteFile.html",
+        "source": "MRXN",
+        "date_added": "2026-05-07"
     }
 ]
