@@ -118,5 +118,227 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=2&sn=1991f529308bac06911fe613c6256b3d",
         "source": "BruceFeIix",
         "date_added": "2026-05-07"
+    },
+    {
+        "title": "智互联WMS getsyspdaversionlistbyparams接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/tpiM6oNXjjk_mtzEaRFzJw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "《2025/2026网络安全漏洞调查（教育机构）》报告概况",
+        "url": "https://mp.weixin.qq.com/s/QGe2pCwAFWzjsnrqsYe-iw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "免费领取100多个C#渗透工具",
+        "url": "https://mp.weixin.qq.com/s/UNXzy0_6Jfo3mNhTooiF8g",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "Bl0ckdev MCP — 自动化传统的渗透/专注逆向与恶意软件的高级玩法！",
+        "url": "https://mp.weixin.qq.com/s/2ZEs1fXgempqaaoj568tEg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "CVE-2026-0073 漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/Zlaq3dtlQWGrEliano4yeQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "CVE-2026-42231 漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/80l-1CKkG3X_fQnoYGDs-w",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "22岁开发者逆天复现Claude Mythos！GitHub狂揽1.1万Star，CTF挑战成功率73%",
+        "url": "https://mp.weixin.qq.com/s/qIRUkNmJj7ZY7fRK4q27jQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "漏洞原理小零食之SQL注入",
+        "url": "https://mp.weixin.qq.com/s/ma2iR2G0e7PFoE56GnqQTw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "我在 30 行 Python 里拿到 LiteLLM 的 root：CVE-2026-30623 实战 + 加固",
+        "url": "https://mp.weixin.qq.com/s/C4LBlY5nBO3GXmG9blLyJw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "java幽灵比特位(Ghost Bits)漏洞相关测试工具推荐",
+        "url": "https://mp.weixin.qq.com/s/EOCDLZ_n7_QcvOjxkCEtAA",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "Linux提权漏洞席卷全球，奇安信椒图发布热补丁、无需重启即可拦截",
+        "url": "https://mp.weixin.qq.com/s/1HShyQamhg-gCo_8M-k6eg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "谷歌Chrome浏览器发布148版本，修复了127个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/zjD5hHNaNMQvn_Nnj5X2ag",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "cPanel漏洞引发Sorry勒索软件供应链攻击，我们看到了什么？",
+        "url": "https://mp.weixin.qq.com/s/odYzQtIw0mtcm5GNo00U-Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "Redis安全漏洞使服务器面临远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s/QZeZEgJpfixnzFgeV3OF1g",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "漏洞挖掘实战｜4月热门靶机+0day审计技巧",
+        "url": "https://mp.weixin.qq.com/s/TdOwLdeQtpXf-VSaHd6sYg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "100个内网渗透命令速查手册！很难找全！",
+        "url": "https://mp.weixin.qq.com/s/feVv8HeJz198pXrkYJhZTQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "【已复现】Apache HTTP Server 双重释放漏洞(CVE-2026-23918)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/ByBNOiOmAreFGgohkopXFw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "vm2 沙箱严重漏洞可导致在宿主机执行代码",
+        "url": "https://mp.weixin.qq.com/s/TIANdxyezsJNWFl2QPiamQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "Apache HTTP/2 严重漏洞可导致 DoS 和 RCE",
+        "url": "https://mp.weixin.qq.com/s/L3-qQ9PyEz094ffMSVN1Hw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "Palo Alto防火墙高危漏洞遭野外利用，攻击者可一键获取root权限",
+        "url": "https://mp.weixin.qq.com/s/dS-IuF5aVdZPoO2z9kzfdQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "CNNVD | 关于人工智能重要安全漏洞通报Ollama安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/nrWYL9vyxYPCKa0gXTdWlQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "今日（2026年5月7日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/36DjOg0tEEkCLj29fysyFg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "【漏洞复现】ERPNext存在模板注入（SSTI）漏洞",
+        "url": "https://mp.weixin.qq.com/s/mCHvxQPDrJ3QKd47kYxkBg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "漏洞通告 | Apache HTTP Server 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/S1Wi0IM-PEoEXopRQ223og",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "无需认证即可触发 Apache HTTP/2 双重释放漏洞，特定条件下可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/HszbiG_d5FMNuQeWAxSZ7w",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "助阵国家级AI漏洞库启动：塞讯科技发布 Langflow 高危漏洞专项研判与复现报告",
+        "url": "https://mp.weixin.qq.com/s/uaZvi2xw2PJksRlLNfrjnQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Linux Kernel 本地权限提升漏洞(CVE-2026-31431)",
+        "url": "https://mp.weixin.qq.com/s/F2XvLJne5t783Ul48xrD3g",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "26长城杯半决赛IntraBadge复现",
+        "url": "https://mp.weixin.qq.com/s/RsHUuVUl6SWaOAgrj2wPzw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "紧急预警：GitHub 高危 RCE 漏洞（CVE-2026-3854）—— 一条 git push 即可接管服务器",
+        "url": "https://mp.weixin.qq.com/s/tyzzhGW6ZMpGcfFkjImnfA",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "本地文件包含 (LFI) — 从基本漏洞利用到源代码泄露",
+        "url": "https://mp.weixin.qq.com/s/efou4Tc-6p7DsP1B_iPZZQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "LFI 到 RCE：使用 PHP 包装器将文件读取转换为代码执行",
+        "url": "https://mp.weixin.qq.com/s/Ovtfxh_RlVJUmrWdgfrZ1g",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/file/deleteFile 文件删除漏洞",
+        "url": "https://mp.weixin.qq.com/s/bQpCPb16xf-IIcKQXWXcGA",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "CVE-2026-31431 缓解措施",
+        "url": "https://mp.weixin.qq.com/s/iVVov5976CuURu1N4VE1yw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "利用存在漏洞的驱动程序 BYOVD 获取任意内核读/写权限并绕过 PPL 保护",
+        "url": "https://mp.weixin.qq.com/s/-FRSiQKaIalflj2aYpBfZQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "vm2 Node.js 库漏洞可导致沙箱逃逸和任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/-LmkIjBvXrN0L7BAcYxxzg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "5·25漏洞挖掘节｜五倍膨胀+首杀8000元，微众银行SRC邀你开“挖”",
+        "url": "https://mp.weixin.qq.com/s/t-BYFGh2hGdaSt2jNxUCjw",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "利用正当时！Palo Alto防火墙今年首爆0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/wjNOkcCQqwp-wVNZD2tRMg",
+        "source": "Doonsec",
+        "date_added": "2026-05-07"
     }
 ]
