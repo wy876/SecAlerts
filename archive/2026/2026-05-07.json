@@ -52,5 +52,71 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-deleteFile.html",
         "source": "MRXN",
         "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505584&idx=1&sn=ca44217a8c928da367571bb4e022801c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [Palo Alto PAN-OS 高危漏洞已遭在野利用：可获root权限，官方下周发补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614579&idx=2&sn=ad625ae6a74ef9508c95bad9c6cea4ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [CNCERT：关于Linux内核存在本地权限提升漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515890&idx=2&sn=01daa1c7be2168b06ef9189578893d6d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [【安全圈】安卓高危0Day漏洞可远程获取Shell访问权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076197&idx=1&sn=f04ddcae84cf9ff13b2696de01ec65eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141220&idx=2&sn=440899fbec56c3e3d84cb7f8e2790e74",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=1&sn=cf1d9580501b94ce494712fa2e09e95c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第17期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501551&idx=1&sn=18e7edf237362243bedb7a681a53cc15",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [谷歌Antigravity AI 智能体管理器曝出漏洞：可逃出沙箱，让攻击者实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第17期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=1&sn=49bed22ebc39742e20c189f53538f961",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260427-20260503)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=2&sn=1991f529308bac06911fe613c6256b3d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-07"
     }
 ]
