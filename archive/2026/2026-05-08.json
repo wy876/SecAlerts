@@ -58,5 +58,83 @@
         "url": "https://mrxn.net/jswz/easy7-rest-file-download-fileread.html",
         "source": "MRXN",
         "date_added": "2026-05-08"
+    },
+    {
+        "title": "Cisco 网络管理组件曝 DoS 漏洞，网络控制面不能只靠“重启恢复”",
+        "url": "https://mp.weixin.qq.com/s/dI588WwNe85p7eA1TvDWag",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "（已复现）9年潜伏、无需竞态、失败不崩：为什么 Dirty Frag 今年最危险的 Linux 提权链之一",
+        "url": "https://mp.weixin.qq.com/s/hmEISd1Ddb1p0dHjH_e0GA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【漏洞预警】安卓零点击RCE漏洞CVE-2026-0073：数亿设备面临无声入侵威胁",
+        "url": "https://mp.weixin.qq.com/s/RV_PwuaUnH7_UoJsKaYS4w",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【安全警报】Sentry史诗级漏洞：9.1分认证绕过，一行代码接管任意账户",
+        "url": "https://mp.weixin.qq.com/s/v1orNx-MG-ZC8nPeK8_vgA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【安全警报】4个HTTP请求搞定root：cPanel史诗级漏洞殃及150万服务器",
+        "url": "https://mp.weixin.qq.com/s/6LzoO1yfUuXARavHpBzRWw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【安全警报】732字节的\\\"核弹\\\"：Linux内核Copy Fail漏洞一键Root所有服务器",
+        "url": "https://mp.weixin.qq.com/s/OECvdYrKJgjjuZJ639K4gA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【全网告急】Linux内核又现史诗级0day提权漏洞Dirty Frag（无补丁、无CVE编号！）",
+        "url": "https://mp.weixin.qq.com/s/8cV-ktNUx3T7e39BRJ7s7g",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "AI 都能代码审计了？你说你还不会代码审计基础......",
+        "url": "https://mp.weixin.qq.com/s/4F18ifTd_LRvKKzwwU2q4g",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "Linux 又爆高危提权漏洞：Dirty Frag",
+        "url": "https://mp.weixin.qq.com/s/e5M0SF2P6O-gfQAPP9wwKg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s/sUa6V_SSch7bczZcVIxS0Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "漏洞预警 - Linux内核「Dirty Frag」0day",
+        "url": "https://mp.weixin.qq.com/s/1dy_v8AAzB3pZBxBNiJk_g",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "Dirty Frag 漏洞爆发！影响9年Linux内核的“确定性”提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/E0XCgqq6tjeK3DGhEnyomA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "26软件安全区域赛nodejs复现",
+        "url": "https://mp.weixin.qq.com/s/6l20TGclAUgFbXtqJJHM3A",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
     }
 ]
