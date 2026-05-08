@@ -460,5 +460,17 @@
         "url": "https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q",
         "source": "Doonsec",
         "date_added": "2026-05-08"
+    },
+    {
+        "title": "4 个字节，9 年技术债：CVE-2026-31431 / Copy Fail 完整拆解",
+        "url": "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞",
+        "url": "https://mp.weixin.qq.com/s/35JeIrZM3E4BR_rLbO5hvA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
     }
 ]
