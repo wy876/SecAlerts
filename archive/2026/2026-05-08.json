@@ -1,0 +1,62 @@
+[
+    {
+        "title": "墨菲安全联合公安三所、国泰海通证券发布《漏洞及投毒情报应用实践指南》",
+        "url": "https://mp.weixin.qq.com/s/uOgD11FbfefnDe16JWcVaA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "未授权任意用户密码修改漏洞",
+        "url": "https://mp.weixin.qq.com/s/YT1Nhn1Jli_6-PPnwUWniA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "快报：Linux 又爆高危提权漏洞：DirtyFrag",
+        "url": "https://mp.weixin.qq.com/s/p_O_Ea7mq7niZ8saZvqpQQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Apache HTTP Server 双重释放漏洞(CVE-2026-23918)",
+        "url": "https://mp.weixin.qq.com/s/j2xdrJKyTn3jbzoivGXzhQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "AICryptoProxy：AI 赋能 Web 加密流量逆向，5 分钟打通明文渗透链路",
+        "url": "https://mp.weixin.qq.com/s/M7tfyDFRDEZ8NZKpm17wGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "美国国防部承包商API漏洞致军事课程与军人记录泄露",
+        "url": "https://mp.weixin.qq.com/s/SdTxshrgbBpra53TCLG6sA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "安全研究与渗透测试一体化安全评估工具--HackingTool",
+        "url": "https://mp.weixin.qq.com/s/BmitaGaEihQ2Pv7AL5o3MQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "[技术深潜] git push 即沦陷：拆解 CVE-2026-3854",
+        "url": "https://mp.weixin.qq.com/s/9YOYEJfnZdbxNfoS9UUb7Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【审计】Digital Watchdog VMAX IP Plus 摄像头命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Cyg76k5MYhcYlkTbXrzHAg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/file/download 文件读取漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-file-download-fileread.html",
+        "source": "MRXN",
+        "date_added": "2026-05-08"
+    }
+]
