@@ -340,5 +340,125 @@
         "url": "https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA",
         "source": "Doonsec",
         "date_added": "2026-05-08"
+    },
+    {
+        "title": "从 Vim Modeline 到 CVE-2026-44656：编辑器里的隐蔽攻击面",
+        "url": "https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "开源网络安全(54个)Skills仓库：从渗透到审计",
+        "url": "https://mp.weixin.qq.com/s/tgfvWo_MAjmTzjvflfv6Aw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag",
+        "url": "https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "(2)漏洞复现-Tomcat-upload \\\"幽灵比特位\\\"",
+        "url": "https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "OSCP百日备考05｜渗透工具封神榜！这4个核心工具，考场救命全靠它",
+        "url": "https://mp.weixin.qq.com/s/njg5L0-IFifJkIC-7qXAgw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级",
+        "url": "https://mp.weixin.qq.com/s/I5Fgf3Jy_vlp864XImL9tA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载",
+        "url": "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径",
+        "url": "https://mp.weixin.qq.com/s/Uy5Pw0mMsXmEOkiu0uyRXg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告",
+        "url": "https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "Dirty Frag 漏洞曝光，影响所有主流 Linux 发行版",
+        "url": "https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【免费领】超强渗透工具：Kali Linux实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/qKsz7NeJTO8E8QB7j7XFRA",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "信息安全漏洞月报（2026年04月）",
+        "url": "https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第18期）",
+        "url": "https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）",
+        "url": "https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918)",
+        "url": "https://mp.weixin.qq.com/s/QtV5NWoPcwddMf5r5Vui7w",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响",
+        "url": "https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
+    },
+    {
+        "title": "新的Linux漏洞732 字节通杀Linux内核",
+        "url": "https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-08"
     }
 ]
