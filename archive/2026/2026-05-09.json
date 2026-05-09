@@ -4,5 +4,113 @@
         "url": "https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-09"
+    },
+    {
+        "title": "高危Linux内核漏洞Dirty Frag已遭利用，可稳定提权至root",
+        "url": "https://mp.weixin.qq.com/s/qbqw7TMWhH-z_laLUozvnw",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "一个人、一套AI、三个客户：2026年“AI安全一人公司”如何落地，以及渗透测试找后台的实战手册",
+        "url": "https://mp.weixin.qq.com/s/VFwgtvTv1jx5eb340jMQcw",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "漏洞复现 | Docker相关漏洞",
+        "url": "https://mp.weixin.qq.com/s/xJe410QxhZRijDBpKlBQRg",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "SRC实战 | RCE漏洞挖掘合集1",
+        "url": "https://mp.weixin.qq.com/s/wL3PL7pa5CiN3j7neSfB1g",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "CNNVD | 重要安全漏洞通报（2026年第二期）",
+        "url": "https://mp.weixin.qq.com/s/mBilZ4QDI28zGvEXHhxlug",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "130万次下载的神库爆严重漏洞！Node.js沙箱逃逸PoC已公开，你的代码还在裸奔？",
+        "url": "https://mp.weixin.qq.com/s/M7K5dxFQO5-F8FA7V3E8_Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "Chromium项目史上最大规模：Chrome 148一次性修复127个漏洞",
+        "url": "https://mp.weixin.qq.com/s/lnArkSmsmEFe-Zj47MPlSQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "业余挖漏洞月入几千？普通人想靠副业搞钱，到底得练到啥段位？",
+        "url": "https://mp.weixin.qq.com/s/PcRXhYSI8RNA9VUVV8R7zQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "富勒仓储管理系统 getDownloadFileAction 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/fQe8__x_maBLpSZoeu4dsQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "漏洞复现 | 深科特LEAN MES系统 SMTLoadingMaterial.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/oUtuT1Mb_fSL-mJSovKcMQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证",
+        "url": "https://mp.weixin.qq.com/s/6QG7eFavFLSKz6q70u_bgw",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "Ai+burpsuite插件实现自动化漏洞挖掘图文",
+        "url": "https://mp.weixin.qq.com/s/Gt8ov9ZvNiN6_HM6zhfUaw",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "26软件安全区域赛pth_attack复现",
+        "url": "https://mp.weixin.qq.com/s/rpjXeXGwPHZCjk-pPNoKVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "【转载】某银行员工维修APP渗透测试总结",
+        "url": "https://mp.weixin.qq.com/s/S42aSByrI_l498WseDFAjg",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "这款工具被称为web渗透方向的\\\"瑞士军刀\\\"（下）",
+        "url": "https://mp.weixin.qq.com/s/UxWnCk4LswSOGQTDDeM57w",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "如何使用MCP进行自动化漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/iXD6k9US4xyMI8FQ5qcgvg",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "攻防、SRC必备插件 | 前端资产采集、嗅探、指纹扫描、泄露扫描、漏洞审计与 Vue Router 分析",
+        "url": "https://mp.weixin.qq.com/s/qVYvfo0WHJ6RS3QUgX9mlQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
+    },
+    {
+        "title": "Blinko &lt; 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
+        "url": "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg",
+        "source": "Doonsec",
+        "date_added": "2026-05-09"
     }
 ]
