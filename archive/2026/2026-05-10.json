@@ -46,5 +46,83 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497553&idx=1&sn=1560b8dc68804729cbbc82e00a4c4ed9",
         "source": "BruceFeIix",
         "date_added": "2026-05-10"
+    },
+    {
+        "title": "实战逻辑漏洞（短信）利用",
+        "url": "https://mp.weixin.qq.com/s/E6YAFNJpgTYVj4k4bgYk_Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "一周回顾：cPanel漏洞被积极利用、DigiCert数据泄露、LinkedIn求职诈骗",
+        "url": "https://mp.weixin.qq.com/s/o_uR2cOuQR6dZ4DpIy4Nyw",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "【安全圈】“Dirty Frag”：一种新的 Linux 提权漏洞已在野外出现",
+        "url": "https://mp.weixin.qq.com/s/zRvsDn7rW3e17eLyJSs01w",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "Mozilla惊爆安全漏洞：Mythos工具几乎零误报",
+        "url": "https://mp.weixin.qq.com/s/3EqkdufFiifxcjUakXlbZA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "国家安全部提醒：某手机芯片厂漏洞被不法分子利用，刷机需谨慎，安全不能丢",
+        "url": "https://mp.weixin.qq.com/s/ZePv1LOuELmKR1QjQE1Qbg",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "今日（2026年5月10日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/VzNbuBSkTgFaOHk7jo5yJQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "cPanel 和 WHM 发布修复程序，修复三个新漏洞 — 立即修补",
+        "url": "https://mp.weixin.qq.com/s/IwITPnRT_AopujF4Hk8gUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "[渗透测试] 记一次Web登录通杀渗透测试",
+        "url": "https://mp.weixin.qq.com/s/sKnkggrEfy_BW8JA-EaB_g",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "某商城存在前台注入漏洞审计-学员投稿",
+        "url": "https://mp.weixin.qq.com/s/KJBl0swUDgVWMkXZlIWpOg",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "长用户名UI覆盖漏洞",
+        "url": "https://mp.weixin.qq.com/s/xieCsQaBoMu0NvvrUAl4nQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "攻防千层饼：新时代渗透测试攻防全景拆解",
+        "url": "https://mp.weixin.qq.com/s/u-_vwHYVYF3wMKbl3jIUEA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "当提示变成武器：AI Agent框架中的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/P7tEAhA8PyBpZ7fIfwiXiA",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "北约“诚信倡议”揭秘：编剧如何成为文化渗透的心理战专家？",
+        "url": "https://mp.weixin.qq.com/s/QB66OivsCKzG4oW0PpWV4A",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
     }
 ]
