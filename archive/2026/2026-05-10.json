@@ -4,5 +4,47 @@
         "url": "https://mrxn.net/jswz/easy7-rest-user-IsPermissible-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [Microsoft 365 Copilot 多个严重漏洞可导致敏感信息暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525959&idx=1&sn=c447f4cb6c61f03248a015b4f72927f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [Chromium项目史上最大规模：Chrome 148一次性修复127个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505667&idx=1&sn=a8495867e1a57d53c473e8d416c6009f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [CNNVD | 重要安全漏洞通报（2026年第二期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262395&idx=1&sn=23aa56726180c772418711b802f8d79f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [Claude Opus写了一个EXP 用了2283美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=1&sn=681fec119daead073cec40e3d69f9452",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [AI无法给安全运营中心补漏洞，反而会造成漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [【漏洞通告】FreeBSD dhclient 远程代码执行(CVE-2026-42511)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
+    },
+    {
+        "title": "] [8 个高危漏洞拉响警报：Linux/Tomcat/ActiveMQ 等 4 月必修清单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497553&idx=1&sn=1560b8dc68804729cbbc82e00a4c4ed9",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-10"
     }
 ]
