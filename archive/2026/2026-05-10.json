@@ -184,5 +184,11 @@
         "url": "https://mp.weixin.qq.com/s/RvHBZAQKvHyjxEgkTsYsHA",
         "source": "Doonsec",
         "date_added": "2026-05-10"
+    },
+    {
+        "title": "从客户端加密到签名伪造、支付一分钱买下 32 元服务|金额篡改漏洞完整挖掘实录",
+        "url": "https://mp.weixin.qq.com/s/Gom3KdLik0Kl5mrjPUaQ_g",
+        "source": "Doonsec",
+        "date_added": "2026-05-10"
     }
 ]
