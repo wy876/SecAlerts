@@ -88,5 +88,65 @@
         "url": "https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli-2.html",
         "source": "MRXN",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞",
+        "url": "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅",
+        "url": "https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "2026年，用好AI就能让你告别古法渗透，为什么你还不再试一次？",
+        "url": "https://mp.weixin.qq.com/s/9ewVHQA1Suct3PuhHn0oAg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本",
+        "url": "https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "SecLens：面向角色的大模型安全漏洞检测评估",
+        "url": "https://mp.weixin.qq.com/s/s73DOAsSfgpVJOzV_yIPXw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "【漏洞复现】0day-雨诺调度客户端多项漏洞",
+        "url": "https://mp.weixin.qq.com/s/xZcnjxLwmHadjdgNzhLkng",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "百易云 task.create.php SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/A2IdTyvZJqIfws-H2-5u0A",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "Adobe Experience Manager (AEM) Dispatcher 绕过完全指南 ($10,000+ 赏金)",
+        "url": "https://mp.weixin.qq.com/s/Yp0tQFX5R7q8aH-48JTuAA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "靶机渗透-DC3",
+        "url": "https://mp.weixin.qq.com/s/DOi-FP_jRhucdrYZB8EcmQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "恒脑AI代码审计智能体2.0发布:更准、更快、更省心——支持公有云服务与私有化部署",
+        "url": "https://mp.weixin.qq.com/s/4FUdjM5KsqE6PhXSaDukiA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
