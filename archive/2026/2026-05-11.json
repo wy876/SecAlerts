@@ -298,5 +298,11 @@
         "url": "https://mp.weixin.qq.com/s/DPHvRd98w71LPXJY4UoCwg",
         "source": "Doonsec",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "PHP unserialize() 潜伏21年致命Use-After-Free漏洞",
+        "url": "https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
