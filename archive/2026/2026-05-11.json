@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA",
         "source": "Doonsec",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "【紧急】Supsystic Contact Form 插件 CVE-2026-4257 漏洞：未经身份验证即可 RCE！",
+        "url": "https://mp.weixin.qq.com/s/AbwpUiNtK0Nv5wriDzw57A",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
