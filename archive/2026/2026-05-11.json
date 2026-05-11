@@ -280,5 +280,23 @@
         "url": "https://mp.weixin.qq.com/s/QZtJz3_AtLxdGgzB1iXaOQ",
         "source": "Doonsec",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "Blinko plugins路径遍历漏洞存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "从嵌入式基础到真实漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "OSCP百日备考06｜PowerShell 从入门到实战，Windows 靶机与域渗透的核心引擎",
+        "url": "https://mp.weixin.qq.com/s/DPHvRd98w71LPXJY4UoCwg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
