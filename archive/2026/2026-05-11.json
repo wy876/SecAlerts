@@ -262,5 +262,23 @@
         "url": "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA",
         "source": "Doonsec",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险",
+        "url": "https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪",
+        "url": "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "一次异常艰难的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/QZtJz3_AtLxdGgzB1iXaOQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
