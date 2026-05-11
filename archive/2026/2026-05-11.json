@@ -148,5 +148,119 @@
         "url": "https://mp.weixin.qq.com/s/4FUdjM5KsqE6PhXSaDukiA",
         "source": "Doonsec",
         "date_added": "2026-05-11"
+    },
+    {
+        "title": "] [今日（2026年5月10日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505710&idx=1&sn=1bbefe5abcea4225c415ab03499775ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "] [【安全圈】“Dirty Frag”：一种新的 Linux 提权漏洞已在野外出现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076309&idx=3&sn=7c377bc2b093b887d9cafa553f8db622",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "网安|渗透|电子取证实战 700+ 个 Cybersecurity Skills 精选推荐|适配常见Agent",
+        "url": "https://mp.weixin.qq.com/s/y_SNJMoDC9p-csKVBPrQNw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "今日（2026年5月11日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "咱网安人自己的度娘，漏洞情报查询一步直达",
+        "url": "https://mp.weixin.qq.com/s/onNP6j9oNurHwZZp5U7z-A",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第18期",
+        "url": "https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260504-20260510)",
+        "url": "https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "AI 渗透杀疯了！CyberStrikeAI 太牛了，新手也能“封神”！",
+        "url": "https://mp.weixin.qq.com/s/1mxWmcSQLSdUF_S46ZKOCg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析",
+        "url": "https://mp.weixin.qq.com/s/c30OU3STwWdvcLF0cbeUzA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！",
+        "url": "https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.4.27-2026.5.10",
+        "url": "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "CVE-2026-7458-UserVerificationByPickPlugins-认证绕过漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "博硕BGM 系统存在默认口令漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
+        "url": "https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "银行外网艰难打点至内网渗透实战解析（HW护网专项+真实案例贯穿版）",
+        "url": "https://mp.weixin.qq.com/s/bjQNVOJuiQiZjNrEWt16bA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞",
+        "url": "https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "常见未授权访问漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
     }
 ]
