@@ -1,0 +1,92 @@
+[
+    {
+        "title": "渗透测试进阶：内网横向移动，一篇吃透域攻防",
+        "url": "https://mp.weixin.qq.com/s/d5DtpXVuE7QJyKUuC_OyOQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "漏洞复现 | 东胜物流软件 OpSailingDateListHtmlGridSource.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/3oQPKjOsD6y4ud8bNS4NVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "数据破坏和内存中毒：Spring AI漏洞威胁LLM完整性",
+        "url": "https://mp.weixin.qq.com/s/h2rifEOygRikkl8cI6CobQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "代码审计篇——常见框架审计",
+        "url": "https://mp.weixin.qq.com/s/_SzdlFkNWhzNvsrM1swNBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "cPanel 新漏洞可造成文件读取与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/VMA1s57eeinU8kSVXuxKXw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "Cloudflare如何应对“Copy Fail”Linux内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/KpmWR1xn7c_pS8-RmfdOUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "Apache HTTP/2 爆 8.8 分高危漏洞！不仅能 DoS，竟然还能远程执行代码？",
+        "url": "https://mp.weixin.qq.com/s/ykhIBfKNzNq2mqOQUTEpIA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "正在被利用：PAN-OS 缓冲区溢出漏洞（CVE-2026-0300）全解析",
+        "url": "https://mp.weixin.qq.com/s/qQWaxz-geSHR5gVblgvYyg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "漏洞预警 | Linux kernel权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/sSKlxEEtUpGAv7mJsbxhhw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/LGirxeP97Yj2sXuMcC2W2g",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "HackingTool：5 万 + Star 的全能渗透测试终端工具箱",
+        "url": "https://mp.weixin.qq.com/s/Yb4_NZvuNOaLNPhmLgv5jw",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
+        "url": "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "微服务场景下 RCE 和 SSRF 的⼀次组合利⽤",
+        "url": "https://mp.weixin.qq.com/s/39gV9pWj-eW4TeEfre1AVA",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "【内网渗透】通过.NET反射强行激活SeBackupPrivilege，并配合VSS卷影拷贝绕过独占锁，最终拿下域控ntds.dit。",
+        "url": "https://mp.weixin.qq.com/s/chwHNdYHY5tY2bTvi4UTbg",
+        "source": "Doonsec",
+        "date_added": "2026-05-11"
+    },
+    {
+        "title": "天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/easy7-rest-user-getAuthorityByUserId-sqli-2.html",
+        "source": "MRXN",
+        "date_added": "2026-05-11"
+    }
+]
