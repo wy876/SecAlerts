@@ -298,5 +298,41 @@
         "url": "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署",
+        "url": "https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "Grav CMS 组合拳漏洞| CVE-2026-42613&amp;CVE-2026-42607复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root",
+        "url": "https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "CertiK《Skynet朝鲜加密威胁报告》：朝鲜黑客造成2025年约60%数字资产失窃，攻击模式转向“线下渗透”",
+        "url": "https://mp.weixin.qq.com/s/iVhZKVHJ1tVMLXRcL_AJtg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗",
+        "url": "https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？",
+        "url": "https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
