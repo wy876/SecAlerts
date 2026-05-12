@@ -4,5 +4,125 @@
         "url": "https://mp.weixin.qq.com/s/4lkaU8G4PchnMIAsKnru1w",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "同一个 URL，两种不同的理解——CVE-2026-42882 s3-proxy 认证绕过的三条路径",
+        "url": "https://mp.weixin.qq.com/s/5X_rZOZElBsVqgnltWWF6w",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "OpenAI 发布 Daybreak，从发现漏洞到生成补丁",
+        "url": "https://mp.weixin.qq.com/s/NoruzlDrfMAu5klw4u-CxA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "CVE-2026-43899 打了补丁，但只补了一半：DeepChat Electron RCE 与不完整修复的代价",
+        "url": "https://mp.weixin.qq.com/s/tUD-WT09FYuaxae7V3OrGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "漏洞挖掘-武器工程化-自动化渗透，AI全自动化攻击时代还是来了！",
+        "url": "https://mp.weixin.qq.com/s/v_DAPB9d0-_jHTEb2LZLAg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "CTF 国赛技术点系列（第 9 期）——Linux 权限与本地提权基础（国赛渗透必考）",
+        "url": "https://mp.weixin.qq.com/s/NupY-VvT4gWjV8JMZyCaIw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "普华PMS OfficeService.aspx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/CcP_QXQqww280C_lkJfQHQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 moveDept 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/rWPjwlgoK2RFhIKpyTReWQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "【SRC实战】|越权漏洞“默认你不会改参数”",
+        "url": "https://mp.weixin.qq.com/s/PkmZzctiOXq6PO2GKikklQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "AI遭劫持：Claude Chrome扩展程序存在严重漏洞，恶意脚本可控制您的AI",
+        "url": "https://mp.weixin.qq.com/s/D-PMrvpJ0NXO7wRXf5gkow",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "谷歌警告：人工智能正在加速网络攻击和0day漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/uXSh1VzswG0xpc_XfSBAYw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "新的“Dirty Frag”Linux漏洞可能在攻击中被利用",
+        "url": "https://mp.weixin.qq.com/s/xGOq3_-dHbu2c1OZ9Iao2g",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "谷歌首次确认：AI 生成的零日漏洞已被黑客实战利用",
+        "url": "https://mp.weixin.qq.com/s/OAxcui92lTGTlFQmtLpq5Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "恒丰银行大模型安全系统建设需求POC测试供应商征集",
+        "url": "https://mp.weixin.qq.com/s/zKolcCDj_yH4xs3pkwbYlw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "FastGPT NoSQL注入致管理员登录绕过：CVE-2026-40351深度剖析",
+        "url": "https://mp.weixin.qq.com/s/FSgkK2IehfyHyso0O9buSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "原型污染+DOM XSS完整利用链：那个多出来的“1”差点毁了我的漏洞",
+        "url": "https://mp.weixin.qq.com/s/ouZvWPhrsENMXAlrjwjstw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "漏洞预警 | Android ADB认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/KKgcaiYm3J2aScouaYKRtA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/lo1rWyvGyORUMu5t73pDAQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "工具 | ActiveMQ-EXPtools",
+        "url": "https://mp.weixin.qq.com/s/gETwnszuVVuKf5NIgWjAPA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "拿Shell只需后台权限？深度剖析 Ivanti EPMM 最新 RCE 漏洞 (CVE-2026-6973)",
+        "url": "https://mp.weixin.qq.com/s/f9IH0K1mGrR_2s6hAF1TMQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "孚盟云CRM BusinessPriceOk.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceOk-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-05-12"
     }
 ]
