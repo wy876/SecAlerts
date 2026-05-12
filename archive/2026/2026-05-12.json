@@ -124,5 +124,89 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceOk-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.4.27-2026.5.10",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503783&idx=1&sn=0cd9652d230f934aa5ea468e08a04dd8",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [cPanel 修复三个新漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525970&idx=1&sn=722d2a9f2b63e4126c12f9ca480729ea",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [斯柯达网上商店漏洞遭利用，客户信息遭短暂未授权访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525970&idx=2&sn=e66e02c461742b7371d5a521395c7643",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [【安全圈】cPanel新漏洞可能导致文件泄露与远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076342&idx=1&sn=30dee5e2a1337bda6b57e2ae8e2f3e7b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [【安全圈】Ollama 越界读取漏洞致远程进程内存泄漏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076342&idx=2&sn=8322fe758ba6d6af735a4d12979d1c0a",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [Copy Fail 深度研究：Linux 页缓存漏洞的根因、利用与检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614849&idx=1&sn=fe3114822b287b4d43b6eb503c2682ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [Ollama惊曝高危漏洞：远程即可窃取全部进程内存，Windows版后门风险更高",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614849&idx=2&sn=de29a1fa63bf7c372893b84f4aae2906",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498407&idx=1&sn=4f9e0e9ae91d1b1cbb48d7e55c43abe7",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第18期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501575&idx=1&sn=15c33f114280aeb57af657797685810f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "OSWE—我的代码审计之路",
+        "url": "https://mp.weixin.qq.com/s/T6GLouWW6gJLLtCMLx4cbw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "注释写着\\\"需要认证\\\"，代码说\\\"不\\\"——CVE-2026-42864 未授权 SSRF 导致 AWS 凭据窃取",
+        "url": "https://mp.weixin.qq.com/s/9TcFGZP7cqgvp4lfKJ_CcA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "Apache Tomcat Tribes EncryptInterceptor 故障开放绕过，未经身份验证的远程代码执行 PoC",
+        "url": "https://mp.weixin.qq.com/s/VfGLmrCmB8F0L77d5k4jIQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "漏洞太多，修不过来，厂商拒收漏洞--大模型挖洞带来的变革和规则重写",
+        "url": "https://mp.weixin.qq.com/s/senxqy0qs7eXW3lne-d3jw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "越权漏洞挖掘新思路",
+        "url": "https://mp.weixin.qq.com/s/Taru2nAeqEjnQoFtbhFcfA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
