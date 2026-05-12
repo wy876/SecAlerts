@@ -346,5 +346,11 @@
         "url": "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "cPanel 和 WHM 的新漏洞可导致代码执行和拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/C6flk23xhsVfCu_zEVs-Ng",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
