@@ -208,5 +208,47 @@
         "url": "https://mp.weixin.qq.com/s/Taru2nAeqEjnQoFtbhFcfA",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "【高危漏洞预警】PHP SOAP扩展内存错误引用漏洞(CVE-2026-6722)",
+        "url": "https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486）",
+        "url": "https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "今日（2026年5月12日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过",
+        "url": "https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "谷歌首次发现利用AI开发“零日漏洞”攻击工具",
+        "url": "https://mp.weixin.qq.com/s/WclheteS7Q_j7Pg2IJ5MYg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "通过不安全反序列化导致的远程代码执行：Wazuh XDR/SIEM（CVE-2026–25769）",
+        "url": "https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "没有凭证？没问题。我们相信你-越权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
