@@ -334,5 +334,17 @@
         "url": "https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+        "url": "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
