@@ -250,5 +250,53 @@
         "url": "https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg",
         "source": "Doonsec",
         "date_added": "2026-05-12"
+    },
+    {
+        "title": "一款功能强大的Web 漏洞扫描器(11种检测模块)",
+        "url": "https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器",
+        "url": "https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "谷歌首次发现“AI自主开发”0Day漏洞攻击工具",
+        "url": "https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+        "url": "https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "PHP SOAP扩展漏洞或致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+        "url": "https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
+    },
+    {
+        "title": "安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew",
+        "source": "Doonsec",
+        "date_added": "2026-05-12"
     }
 ]
