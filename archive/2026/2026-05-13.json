@@ -1,0 +1,50 @@
+[
+    {
+        "title": "离谱，Pwn2Own 因高质量漏洞提交过多而“拒单”",
+        "url": "https://mp.weixin.qq.com/s/xdlq0hkx_s1_XZcimz4NAg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "西门子 ROS# 存在严重漏洞，可实现任意文件访问和主机接管",
+        "url": "https://mp.weixin.qq.com/s/glIcbK_uxbaDckf3DSFltw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "OpenAI 推出 Daybreak 平台，用于人工智能驱动的漏洞检测与补丁有效性验证",
+        "url": "https://mp.weixin.qq.com/s/riqjGP7fM6h43B1j8hiDjQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "网络安全史上一个里程碑式事件——攻击者首次使用AI大模型自主发现并武器化了0Day",
+        "url": "https://mp.weixin.qq.com/s/JPF_W-0F2dIvBi8NgJ3wjg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "我认为——90天漏洞披露政策已死",
+        "url": "https://mp.weixin.qq.com/s/bb7ddbGqmDbUP4XOE54nbw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "漏洞预警 | cPanel&amp;WHM身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/MY9lKTgrp9GgA7I51AZwMA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/1Nep-sTJLyYJCXO3rL6zEw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "AI也会被黑？OWASP Top 10带你看透大模型十大漏洞",
+        "url": "https://mp.weixin.qq.com/s/7fk-Gj2n3DzDbdHrP2WGLw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    }
+]
