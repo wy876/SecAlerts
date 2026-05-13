@@ -202,5 +202,59 @@
         "url": "https://mp.weixin.qq.com/s/7aevIEJhok9Xc--Q_wA8-Q",
         "source": "Doonsec",
         "date_added": "2026-05-13"
+    },
+    {
+        "title": "CVE-2026-42232-n8n原型污染",
+        "url": "https://mp.weixin.qq.com/s/d6_TABC7VLtbymCstbBftw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "犯罪黑客已利用AI构建出可运行的零日漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s/ICFN0Usx_27YuQgfMqKrJw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "【安全更新】微软5月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/hU4wszrJganRiAb2bW5haQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "观点丨从波兰能源袭击到工控漏洞暴增——2025攻防态势如何重塑2026安全逻辑",
+        "url": "https://mp.weixin.qq.com/s/XT5xvFD4azFi5xwZiq9_oA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "漏洞预警｜天融信上网行为管理 PC 存在跨站脚本漏洞",
+        "url": "https://mp.weixin.qq.com/s/WDqcEXO2Y_Soc855EyncqA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "通过备案的网络产品安全漏洞收集平台（第1批）",
+        "url": "https://mp.weixin.qq.com/s/tM_41sRvAiTVx_nZ_qmuxA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "孚盟云CRM BusinessPriceReport.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/7AOjDNkDRfxquCJfKyh2Tw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "神秘黑客组织利用Linux服务器运维组件漏洞大量安插后门",
+        "url": "https://mp.weixin.qq.com/s/G9oSiIyDSGLYm91Su2EvSg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "整合分析 | Fortinet 双子星高危漏洞：未认证即可远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/NQubWOmtdjp6fbj3mAInhQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
     }
 ]
