@@ -124,5 +124,83 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceReport-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [今日（2026年5月12日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505729&idx=1&sn=2935cba9e61f3fa04a47c062b529d715",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [从OA进，靠AI横移，半数都是RCE：2026红队攻击彻底变了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508706&idx=1&sn=0a47dc86458f4a42dc94b1b142c304b4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515926&idx=1&sn=347bcbc856a812c74954c74e814786f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [【安全圈】谷歌确认黑客利用 AI 生成零日漏洞攻击 可提升攻击速度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076374&idx=2&sn=6ddc9b61db17560810d8e2ede885638d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614891&idx=3&sn=0de81f82941d24d10b76da58cb08c893",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "] [360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585949&idx=1&sn=3a9961caf97d6bf505fdaaf76f1c06e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "用友时空KSOA save_folder 存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/4GYmcw0HhImrm99Ka7tblA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "漏洞多到\\\"溢出\\\"！Pwn2Own 2026被迫\\\"闭门拒客\\\"",
+        "url": "https://mp.weixin.qq.com/s/OEVmd5wqkQG_6vbuWch0Pw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "OpenClaw高风险历史漏洞专项分析报告（含POC/EXP）",
+        "url": "https://mp.weixin.qq.com/s/PB6k-1EdM48BRdnHITe-dQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "【漏洞复现】Apache HTTP Server mod_http2 双重释放漏洞（CVE-2026-23918）",
+        "url": "https://mp.weixin.qq.com/s/E1wcifKl3CcQ0HDpLFt4ew",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "AI安全爆发、酒店数据泄露、Adobe与Apple紧急修补高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/kzKPhDINyxFQpvxwWSgLvQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0420-0503）",
+        "url": "https://mp.weixin.qq.com/s/CyecOf2VQmC3sJ1_UX2JnQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "山石安全能力中心｜微软2026年5月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/7aevIEJhok9Xc--Q_wA8-Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
     }
 ]
