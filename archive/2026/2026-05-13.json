@@ -256,5 +256,59 @@
         "url": "https://mp.weixin.qq.com/s/NQubWOmtdjp6fbj3mAInhQ",
         "source": "Doonsec",
         "date_added": "2026-05-13"
+    },
+    {
+        "title": "Node-RED EXEC 节点未授权命令执行漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "linux提权漏洞喜加一",
+        "url": "https://mp.weixin.qq.com/s/IaBbKIaNWLzJ6xda39Gwqw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "OSCP百日备考07｜信息收集封神篇！渗透第一步，90%的人都栽在这",
+        "url": "https://mp.weixin.qq.com/s/R_33Fj6qc3DSY5f58yCxdg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "SandboxJS 逃逸漏洞严重，可能导致主机被接管",
+        "url": "https://mp.weixin.qq.com/s/evx6EPYWV480lhWB9oR83g",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "号称全球最“危险”的AI，Anthropic Mythos实测curl仅找到一个真实漏洞",
+        "url": "https://mp.weixin.qq.com/s/LghjpqnG00xbGXwXKbrXIw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商",
+        "url": "https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "Microsoft Teams 漏洞可导致黑客实施欺骗攻击",
+        "url": "https://mp.weixin.qq.com/s/pzRVNuZP6l7TxzPZV0Ta4g",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "【安全圈】苹果修复 macOS 和 iOS 系统数十个漏洞",
+        "url": "https://mp.weixin.qq.com/s/CazQkRAVpprC7DMsGx_crw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "【安全圈】Exim 新 BDAT 漏洞致 GnuTLS 构建面临代码执行风险",
+        "url": "https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
     }
 ]
