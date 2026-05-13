@@ -46,5 +46,83 @@
         "url": "https://mp.weixin.qq.com/s/7fk-Gj2n3DzDbdHrP2WGLw",
         "source": "Doonsec",
         "date_added": "2026-05-13"
+    },
+    {
+        "title": "漫谈AI安全：当传统漏洞遇上AI——618个漏洞背后的聚类真相",
+        "url": "https://mp.weixin.qq.com/s/6GBUGydmKah9fqoj_ZyKgg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "又一次挖 SRC 漏洞，我赚了 1000 元（附逻辑漏洞完整报告模板）",
+        "url": "https://mp.weixin.qq.com/s/vH73mThC-iYNyD4k4AmRLQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "抖音专测享3倍积分！重大漏洞奖励20万元！",
+        "url": "https://mp.weixin.qq.com/s/JMLZFRm6ssIpBlTR9Uy4ng",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "渗透面试分享(含答案)-HVV特别版",
+        "url": "https://mp.weixin.qq.com/s/nsCX19QR4Exg1_cwJV_nUA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "十亿量级IoT设备面临威胁：arduino-esp32 VLA栈溢出漏洞（CVE-2026-42854）技术分析",
+        "url": "https://mp.weixin.qq.com/s/lZhiWbxa2avLPWeb9VMTjA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "GreenPlasma Windows CTFMON 任意创建节提升权限漏洞",
+        "url": "https://mp.weixin.qq.com/s/lypdJtXadPbZRdzgeINvYw",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "针对安卓零点击漏洞的PoC漏洞利用程序已发布，该漏洞可实现远程Shell访问",
+        "url": "https://mp.weixin.qq.com/s/2WMoV1V7Zp3VYtvTVL_WlQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "漏洞速递｜CVE‑2026‑41940 RCE漏洞（建议自查）",
+        "url": "https://mp.weixin.qq.com/s/u-7xBVImVEUDwUb3NXW2rQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "OpenAI推出Daybreak，用人工智能做漏洞检测与补丁验证",
+        "url": "https://mp.weixin.qq.com/s/DD-VNW_zvgaRKKE-I8hKnQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "CVE-2026-43948  null != null 为 False：一个让授权守卫静默失效的 Python 陷阱",
+        "url": "https://mp.weixin.qq.com/s/55tohPDy_de00jh6Xe5LSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "微软5月补丁日多个产品安全漏洞风险通告：14个紧急漏洞、9个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s/2ErpPdqHXNjmqfCGROj2Cg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "Burp Suite平替 | 强大插件、集成云端虚拟手机，快速定位APP漏洞",
+        "url": "https://mp.weixin.qq.com/s/NQ3pxcS6eVneDOKo4E_nOg",
+        "source": "Doonsec",
+        "date_added": "2026-05-13"
+    },
+    {
+        "title": "孚盟云CRM BusinessPriceReport.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPriceReport-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-05-13"
     }
 ]
