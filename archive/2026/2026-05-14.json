@@ -310,5 +310,77 @@
         "url": "https://mp.weixin.qq.com/s/McJxlZgyHBXqcoGbLVNu-A",
         "source": "Doonsec",
         "date_added": "2026-05-14"
+    },
+    {
+        "title": "【已复现】Linux内核Fragnesia权限提升漏洞（CVE-2026-46300）",
+        "url": "https://mp.weixin.qq.com/s/Z5bL9bRj-C1ltheUCPtLwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "18年积弊：NGINX脚本引擎堆缓冲区溢出可致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/Z-hV8A4XQ0G5OoN1ptEsNw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "谷歌首次发现基于AI的0Day漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/HzDqxxqI24YxLVY-JiQ7Pw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Android零点击漏洞PoC公开，攻击者可远程获取Shell权限",
+        "url": "https://mp.weixin.qq.com/s/rF7Ho-CHeRmBcBygTCIilA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "VSCode Copilot聊天中的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/J3MO2FSBKxD--JkK4EG5wA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【高危漏洞预警】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+        "url": "https://mp.weixin.qq.com/s/aa3dru8viVfzXNaTzVlZyA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Dirty Frag 漏洞曝光！影响所有主流 Linux 发行版",
+        "url": "https://mp.weixin.qq.com/s/yB6xDRqOxOVBojIQ0heBbQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【已复现】漏洞通告 | NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+        "url": "https://mp.weixin.qq.com/s/HEVTlkM3r7yBC80eRfJB8A",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "突发｜DeepSeek 现重大漏洞，输入特殊字符可直接泄露他人对话内容",
+        "url": "https://mp.weixin.qq.com/s/5KnUW9vvlMtaeQABAYmgJg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【漏洞通告】LiteLLM模板注入漏洞(CVE-2026-42203)",
+        "url": "https://mp.weixin.qq.com/s/EDnXoN7psPhkHMamIw3NpQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "实战-对自己学校内网的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/N6R-bB1jXtoVIyuUUVNJxA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "NGINX Rift：利用18年前的漏洞实现NGINX远程代码执行（CVE-2026-42945）",
+        "url": "https://mp.weixin.qq.com/s/XNh9mBd7nbPpyZdrwtaMdA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
     }
 ]
