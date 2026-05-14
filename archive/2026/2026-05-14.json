@@ -76,5 +76,131 @@
         "url": "https://mp.weixin.qq.com/s/vn_ve-_IwNGcC3Zmy5ps8g",
         "source": "Doonsec",
         "date_added": "2026-05-14"
+    },
+    {
+        "title": "Web安全之一文搞懂单端点条件竞争漏洞",
+        "url": "https://mp.weixin.qq.com/s/rosmbXuVUPRl4EkX3aXxZw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "CVE-2026-44442：ERPNext 授权检查缺失漏洞",
+        "url": "https://mp.weixin.qq.com/s/IdcRYetzS9u6gScivEry2g",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Dirty Frag的双漏洞组合",
+        "url": "https://mp.weixin.qq.com/s/9z4hqgJx3y6LwelzXnsaXg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Ivanti 紧急修复暴露敏感数据的严重 Xtraction 漏洞",
+        "url": "https://mp.weixin.qq.com/s/x07Y0h6hukdgQcZdnuO_dw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Exim BDAT 严重漏洞可导致内存损坏和代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/GDn4pBXhg-PvsLxKMYcEVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "速修复！Composer 漏洞可暴露 GitHub 密钥",
+        "url": "https://mp.weixin.qq.com/s/IgImXvqcmU-ItD8U346ETg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "NGINX爆新漏洞，特定配置下可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/8Q_GrV54Gt1fdBuNbLaWjg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "漏洞通告｜Linux Kernel Fragnesia 本地权限提升漏洞 CVE-2026-46300",
+        "url": "https://mp.weixin.qq.com/s/k0QCeZfPYCLkuww3z_Z0fA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/aLCyE4L7yucSkDmzidTeLQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "CVE-2026-8196-JeecgBoot-mLogin接口授权绕过漏洞报告",
+        "url": "https://mp.weixin.qq.com/s/04Nk2TcwRw3zv7djwnrW8A",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "泛微ecology 历史漏洞浅析(二)",
+        "url": "https://mp.weixin.qq.com/s/DzBEQWostGd0rGg5vluKSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "CVE复现 | CVE-2025-58360漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/BtkmHs3kCnSgnkVeAxq5ng",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【漏洞通告】泛微 E-cology10 invoke命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【漏洞通告】OpenClaw 安全漏洞（CVE-2026-41365）",
+        "url": "https://mp.weixin.qq.com/s/u49Yf_ftvomVOQfY1N13ig",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "nginx Rift（CVE-2026-42945）攻击者可触发 worker 崩溃，特定条件下可远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Linux 内核 Fragnesia 权限提升漏洞(CVE-2026-46300)",
+        "url": "https://mp.weixin.qq.com/s/G--7OVlmwJfe4d506K06sQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "TurboMail mailmain 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【已复现】Linux Kernel Fragnesia 本地权限提升漏洞(CVE-2026-46300)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+        "url": "https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Dirty Frag：无需漏洞触发条件的 Linux 本地提权，你的防御控制真的在工作吗？",
+        "url": "https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "孚盟云CRM BusiPriceOkPrint.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusiPriceOkPrint-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-05-14"
     }
 ]
