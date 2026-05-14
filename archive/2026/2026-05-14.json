@@ -202,5 +202,113 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-BusiPriceOkPrint-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [Fortinet 提醒注意 FortiSandbox 和 FortiAuthenticator 中的严重RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525995&idx=1&sn=c32aec58266325bad875fe920c376035",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [微软2026年5月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525995&idx=2&sn=44ea067953995b6d553d7f0d078f3b37",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [微软5月补丁日多个产品安全漏洞风险通告：14个紧急漏洞、9个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505730&idx=1&sn=77a45407d42fdb43830a4d78aa46f329",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [【安全更新】微软5月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492560&idx=1&sn=cf9c11c7f70d68ebdfcd3f105396ff92",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [VS命令执行与防御",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522129&idx=1&sn=770301431953ea49e2c8377e319eb4a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [抖音专测享3倍积分！重大漏洞奖励20万元！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496205&idx=1&sn=ad6ff89e324e32df8a6f3cc199676a2a",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [2026-05微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532707&idx=2&sn=3f6f45e9d9ff469876e6a5479905d35f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [秘密活动6年的神秘黑客组织Mr_Rot13正在利用cPanel高危漏洞部署后门木马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518785&idx=1&sn=8777ef11aef31d8aa6472fc48d7a53c2",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [【漏洞通告】LiteLLM 远程代码执行漏洞(CVE-2026-42203)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525589&idx=1&sn=a0baa79de2e0db34d1820583c6d9fe37",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [【安全圈】苹果修复 macOS 和 iOS 系统数十个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076415&idx=1&sn=28c320ab902f356686e31c217bcd9b65",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "] [【安全圈】Exim 新 BDAT 漏洞致 GnuTLS 构建面临代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076415&idx=3&sn=4a801e88018faba5f0fdb72a80373270",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "关于deepseek最近被“曝出”的用户信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/S63NjdDpozz7sEyR5XtOKQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "福利 | 任意有效漏洞得货拉拉SRC限定端午礼盒！",
+        "url": "https://mp.weixin.qq.com/s/hU6lMyw9jl_28hAdETz1KA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【已复现】deepseek疑似出现用户上下文内容泄露",
+        "url": "https://mp.weixin.qq.com/s/mryh7svePY16KX5vsvXZ_g",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "紧急预警！NGINX 曝 18 年老漏洞，CVSS 9.2 分，无需认证直接 RCE，全球数亿服务器受影响",
+        "url": "https://mp.weixin.qq.com/s/auEaTJMGrZgLSls7Vv6ijA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【靶场开源】NGINX 远程代码执行高危漏洞（CVE-2026-42945）",
+        "url": "https://mp.weixin.qq.com/s/eQj7H3iv-fq9gIfvQmXRmA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "CVE-2026-44381：MISP 威胁情报平台 ORDER BY 子句 SQL 注入",
+        "url": "https://mp.weixin.qq.com/s/h7YAlhZGWIZfJHWC4m0dyg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Exim 高危漏洞 CVE-2026-45185",
+        "url": "https://mp.weixin.qq.com/s/McJxlZgyHBXqcoGbLVNu-A",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
     }
 ]
