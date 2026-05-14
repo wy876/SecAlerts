@@ -1,0 +1,80 @@
+[
+    {
+        "title": "神秘的微软漏洞发现者持续公开Windows 0day",
+        "url": "https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高",
+        "url": "https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复",
+        "url": "https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门",
+        "url": "https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Pwn2Own被0day狂潮冲垮：一场暴露行业底层逻辑崩溃的安全危机",
+        "url": "https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "逻辑漏洞渗透",
+        "url": "https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【严重】FlipperCode 插件曝出 CVE-2026-6433：未经身份验证即可通过 eval() 接管系统",
+        "url": "https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Google检测到首个AI生成的Zero-Day漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "青之LIMS BatchDownloadPdf接口存在任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/jr-bJQ9S_iXJysjSuWURYA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "【高危AI漏洞预警】CVE-2026-42203｜LiteLLMxa0AIxa0Gatewayxa0服务端模板注入远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/Q4eugNKoZ7ZdDdmx1PuFZA",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Scan-X：AI驱动的LLM渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s/SH8ZsSR88G-PzM8QftBWwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "基于LLM+Kali Linux MCP下的自动化渗透实践",
+        "url": "https://mp.weixin.qq.com/s/6zJr7wVUMxshmNwsqDX2mg",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    },
+    {
+        "title": "Windows权限提升高级利用技术之任意文件读到SYSTEM权限代码执行",
+        "url": "https://mp.weixin.qq.com/s/vn_ve-_IwNGcC3Zmy5ps8g",
+        "source": "Doonsec",
+        "date_added": "2026-05-14"
+    }
+]
