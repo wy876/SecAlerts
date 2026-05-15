@@ -304,5 +304,77 @@
         "url": "https://mp.weixin.qq.com/s/CQPAqdtJWyh7RKuRF7XgTg",
         "source": "Doonsec",
         "date_added": "2026-05-15"
+    },
+    {
+        "title": "一个月内第三起！Linux内核再曝Fragnesia高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞",
+        "url": "https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Windows DNS客户端漏洞可导致远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）",
+        "url": "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)",
+        "url": "https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)",
+        "url": "https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+        "url": "https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s/mutmN1nje_x5bZAmQm8I9g",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Web Fuzzer 强化：AI自动修改数据包与智能测漏洞",
+        "url": "https://mp.weixin.qq.com/s/kqLGRhmQa8fs5HifQHqMsQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）",
+        "url": "https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "u200b验证码渗透最全总结",
+        "url": "https://mp.weixin.qq.com/s/2fkhLaZ_-4-vb80I0DVsmQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "免杀分析 | PowerShell命令执行、检测与绕过",
+        "url": "https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
     }
 ]
