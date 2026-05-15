@@ -1,0 +1,146 @@
+[
+    {
+        "title": "【2周年庆】致Nday Poc全体成员的一封信",
+        "url": "https://mp.weixin.qq.com/s/_B9aNoR0xBVRX84ODPw5Mg",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "我对一个真实的CRM系统进行了渗透测试，发现了4个关键漏洞——以下是完整的攻击链",
+        "url": "https://mp.weixin.qq.com/s/wa6xjRDidRwpCgr-hhYwQw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Fragnesia：Dirty Frag补丁引发了新的Linux内核LPE漏洞（CVE-2026-46300）",
+        "url": "https://mp.weixin.qq.com/s/XATQ38PUyqouMWTDHKg3DQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "OpenAI 推出 Daybreak，对标 Anthropic Mythos 发力 AI 网络防御；CNNVD发布关于微软多个安全漏洞的通报| 牛览",
+        "url": "https://mp.weixin.qq.com/s/Fy6ia-3Btlo046Iugn2L0Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Chrome沙箱中也能利用，Windows 内核特权提升漏洞（CVE-2026-40369）",
+        "url": "https://mp.weixin.qq.com/s/3nt_kHvQqHDO9E_2YKrgGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "从客户端加密配置到伪造签名：一次支付金额篡改漏洞的挖掘实录",
+        "url": "https://mp.weixin.qq.com/s/tGCBO7xlYvu7bUqGhND8Hw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "代码审计JAVA源码RCE漏洞记录-学员投稿",
+        "url": "https://mp.weixin.qq.com/s/WEKljGmKR1pEaZwF9k0qoQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "代码审计篇——文件操作",
+        "url": "https://mp.weixin.qq.com/s/6-vZTQjtGYZU5vXP8NV9BQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "发现蜜罐、提取 JWT、导出 Vue 路由——我的浏览器变成了渗透神器",
+        "url": "https://mp.weixin.qq.com/s/-glEdwJwjzVRMHc1u3R3sw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "2026年，用好AI就能让你告别古法渗透，为什么你还不再试一次？",
+        "url": "https://mp.weixin.qq.com/s/cGzSp41U5mWOueU3Mf0mmQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "Linux 又爆本地权限提升漏洞—Fragnesia",
+        "url": "https://mp.weixin.qq.com/s/7uAwui2L8eCCl8frmKOEXg",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "OpenAI Daybreak 实现漏洞检测和修补的自动化",
+        "url": "https://mp.weixin.qq.com/s/Qcw1L8-Bx-itLT3NKAg7UA",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "CVSS 10.0 满分恐怖！React2Shell 漏洞爆发，全球数千万网站面临 RCE 威胁",
+        "url": "https://mp.weixin.qq.com/s/k-apBkX76sl_roJ0piyu7Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "AI渗透工具 Kali &amp; HexStrike 大量RCE 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/1pEnZhxzFUjAY8bWj4Zhbw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "AI Agent渗透测试必备：结构化知识库和方法论（200+技能、600+漏洞）",
+        "url": "https://mp.weixin.qq.com/s/NE3xOJYmcR1zwadeR62FnA",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "当异常绕过handleException：最新VM2沙箱绕过 CVE-2026-45411 原理分析",
+        "url": "https://mp.weixin.qq.com/s/mCYZZlLjzmGg57_B2MgU0g",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "CVE-2026-8181-Burst Statistics-身份验证绕过漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/vgdZuggfifXPjY3XQNdHYQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "CVE-2026-42945-NGINX-ngx_http_rewrite_module-堆缓冲区溢出分析报告",
+        "url": "https://mp.weixin.qq.com/s/jO2KhtHCL8JRE4WIBYaI_Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "漏洞预警 | Copy Failh和Dirty Frag的好兄弟fragnesia来了",
+        "url": "https://mp.weixin.qq.com/s/3eRqRxiI9zVAc-irKZEThQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "NGINX 漏洞预警：18 年老洞可 RCE，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s/s4fizQHJgSEMm2p-g0UEwg",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "NGINX 模块堆缓冲区溢出漏洞，特定条件下可 RCE",
+        "url": "https://mp.weixin.qq.com/s/GugzE78-TsFkLO7_YbO_ig",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【安全圈】研究人员公布概念验证，利用 Windows BitLocker 零日漏洞可访问受保护驱动器",
+        "url": "https://mp.weixin.qq.com/s/OnXI-rDV3sgZPW2qgLvLIw",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "【安全圈】微软警告“ Dirty Frag ” Linux 内核漏洞已遭黑客利用",
+        "url": "https://mp.weixin.qq.com/s/vO4Doq0VioQlbVQ0xRjHuA",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/xIAxOnoHt1ZUk5xM_y8ZdA",
+        "source": "Doonsec",
+        "date_added": "2026-05-15"
+    }
+]
