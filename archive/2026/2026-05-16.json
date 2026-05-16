@@ -160,5 +160,11 @@
         "url": "https://mp.weixin.qq.com/s/WdL2QmyngffrLS_jfcZYnA",
         "source": "Doonsec",
         "date_added": "2026-05-16"
+    },
+    {
+        "title": "OpenWrt mosdns + OpenClash 防DNS泄露 + Fake-IP 完整解决方案",
+        "url": "https://mrxn.net/fqjq/openwrt-mosdns-openclash-fake-ip-setting.html",
+        "source": "MRXN",
+        "date_added": "2026-05-16"
     }
 ]
