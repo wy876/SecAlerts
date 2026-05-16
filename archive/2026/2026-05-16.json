@@ -178,5 +178,65 @@
         "url": "https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g",
         "source": "Doonsec",
         "date_added": "2026-05-16"
+    },
+    {
+        "title": "某厂商安全设备前台RCE",
+        "url": "https://mp.weixin.qq.com/s/WJRZRrAaYVwzzo2RaO4vQw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞",
+        "url": "https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "多智能体协作的自主渗透测试框架Abyss，像专家一样思考",
+        "url": "https://mp.weixin.qq.com/s/TnAgDNoFvytZJcragivbAQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "冰蝎 v4.1 被曝 0‑click 高危漏洞，一连接就被反制，可窃取凭据...！",
+        "url": "https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "Pwn2Own柏林2026次日战报：DEVCORE狂揽$405,000领跑，Exchange漏洞引爆全场",
+        "url": "https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "年度渗透测试报告：AI的漏洞比传统软件严重得多",
+        "url": "https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "在看 | 周报：中行福建省分行因多项违规被罚；谷歌确认黑客利用AI生成零日漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "【0day】Windows 提权漏洞喜加一",
+        "url": "https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机",
+        "url": "https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "今日（2026年5月16日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
     }
 ]
