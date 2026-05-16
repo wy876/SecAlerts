@@ -1,0 +1,98 @@
+[
+    {
+        "title": "SRC 每日漏洞复现学习系列（第 2 篇）垂直越权漏洞+漏洞报告模板",
+        "url": "https://mp.weixin.qq.com/s/qfELG3imPQpmkD8Cy6waMw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "18年潜伏Nginx RCE漏洞曝光 CVE-2026-42945",
+        "url": "https://mp.weixin.qq.com/s/7XsBXsQAp7lHba8ycOgprQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "Next.js曝出高危SSRF漏洞 CVE-2026-44578",
+        "url": "https://mp.weixin.qq.com/s/mw1m6iKZY1AL1rN31D1QXw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "关键Exchange Server 0day漏洞在野外攻击中被积极利用",
+        "url": "https://mp.weixin.qq.com/s/9pUyo4DPM4zPlpSml9Hx-w",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "并发举报竞争条件漏洞",
+        "url": "https://mp.weixin.qq.com/s/CHHYlBXin8QlXJ0rwN_vGQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "红队神器｜Vue 站点未授权漏洞一键挖掘 -v2.0",
+        "url": "https://mp.weixin.qq.com/s/8gGSgPpLkQ1xtlXvINSzDw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "Hermes的应用（七）：分析DirtyFrag(CVE-2026-43284)高危漏洞Poc",
+        "url": "https://mp.weixin.qq.com/s/bdy4PrPmqG6DTBfPcaCUAw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "天塌了，全球互联网基础设施，nginx爆RCE，利用方式竟如此简单",
+        "url": "https://mp.weixin.qq.com/s/Coxl5fLG-dGr9Qimlkc6MQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "【内网渗透】rootkit后门Reptile2.0权限维持",
+        "url": "https://mp.weixin.qq.com/s/9LjTCP9K3Y802Xh7BmmNfw",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "内网渗透踩坑！图片上传失败？竟是小米路由防火墙搞鬼",
+        "url": "https://mp.weixin.qq.com/s/hkmgu_gZ3JKJIkV-guIc2w",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "Mythos在漏洞发现方面表现出色，但是……",
+        "url": "https://mp.weixin.qq.com/s/UOqMD9_OByRHj504ghIzxg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "微软2026年5月份于周二补丁日针对78个漏洞发布安全补丁",
+        "url": "https://mp.weixin.qq.com/s/mxYkNueI3x4KtDdxPWhvZQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "【2周年庆】致Nday Poc全体成员的一封信(第二天)抽奖规则变动",
+        "url": "https://mp.weixin.qq.com/s/W9P1dFmFXHc9B4xTC9cqpg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "AI 驱动的渗透测试 CLI 工具 — 说人话，打漏洞",
+        "url": "https://mp.weixin.qq.com/s/M58-s1GDTAjSJT1cSI8jeg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "天锐绿盾审批系统findOnlineUserForPage.do接口存在信息泄露漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/PdUpr8J3aW_kqYsQmRqj_w",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "恐怖如斯！Mythos搞定18个V8漏洞，AI漏洞利用比人类还稳?",
+        "url": "https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    }
+]
