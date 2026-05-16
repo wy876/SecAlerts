@@ -94,5 +94,71 @@
         "url": "https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg",
         "source": "Doonsec",
         "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505839&idx=1&sn=6b738b4bdf330f23c5c9e2c7369a138c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [思科：注意已遭利用的满分 SD-WAN 新 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=1&sn=a356c936f290fca11bdc81d87da6081f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [已存在18年的 Nginx 漏洞可导致 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [OpenAI 推出 Daybreak，对标 Anthropic Mythos 发力 AI 网络防御；CNNVD发布关于微软多个安全漏洞的通报| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141364&idx=2&sn=d335881f17dd59da610237880440da71",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497563&idx=1&sn=7d07cd3ae00c707873cecb78adc26675",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=1&sn=1b0f5add038e08a736263f502e4cd35b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=2&sn=cf15a9fe232a95f5f9af354e449ed6f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=3&sn=71147ace39e5cb83bb48d2dc74302c28",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [Web Fuzzer 强化：AI自动修改数据包与智能测漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529794&idx=1&sn=c3679fba273e0aec1c10f18624c02e12",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "] [【安全圈】OpenAI 确认在 TanStack 供应链攻击中出现安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "新手挖漏洞神器：50 个高危端口完整版清单",
+        "url": "https://mp.weixin.qq.com/s/WdL2QmyngffrLS_jfcZYnA",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
     }
 ]
