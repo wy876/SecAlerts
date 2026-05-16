@@ -166,5 +166,17 @@
         "url": "https://mrxn.net/fqjq/openwrt-mosdns-openclash-fake-ip-setting.html",
         "source": "MRXN",
         "date_added": "2026-05-16"
+    },
+    {
+        "title": "VMware Fusion漏洞可致攻击者获取root权限",
+        "url": "https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
+    },
+    {
+        "title": "OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击",
+        "url": "https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g",
+        "source": "Doonsec",
+        "date_added": "2026-05-16"
     }
 ]
