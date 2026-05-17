@@ -52,5 +52,41 @@
         "url": "https://mp.weixin.qq.com/s/5GlfjT4usi_mj5HUA6q2ng",
         "source": "Doonsec",
         "date_added": "2026-05-17"
+    },
+    {
+        "title": "] [今日（2026年5月16日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505856&idx=1&sn=eb8d3df614c46d54e0a827b6befd0823",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "] [【安全圈】Linux内核漏洞\"ssh-keysign-pwn\"允许攻击者窃取SSH密钥与影子密码文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "] [【安全圈】微软Exchange Server高危漏洞正遭攻击者积极利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=3&sn=8adfa54adbe431abba673a75db6ad228",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "一次一口吃掉大象：PHP中与JPEG相关的内存安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "CVE-2019-0227漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/mPNPN2JnOtGjhw-n0DI9KA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "今日（2026年5月17日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s/DEp-k51JvZ5EccMCqLSoLw",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
     }
 ]
