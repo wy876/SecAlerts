@@ -118,5 +118,11 @@
         "url": "https://mp.weixin.qq.com/s/5NlCon9G6u3Y-S7QuRiInA",
         "source": "Doonsec",
         "date_added": "2026-05-17"
+    },
+    {
+        "title": "AI 挖洞新思路、深度解析两大间接提示词注入漏洞攻防思路，注入也能获得上万美金",
+        "url": "https://mp.weixin.qq.com/s/zfKNvJWRTCgGFWkuEZoLig",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
     }
 ]
