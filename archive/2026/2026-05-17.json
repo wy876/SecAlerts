@@ -88,5 +88,35 @@
         "url": "https://mp.weixin.qq.com/s/DEp-k51JvZ5EccMCqLSoLw",
         "source": "Doonsec",
         "date_added": "2026-05-17"
+    },
+    {
+        "title": "【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s/BUzZBnN07Iqe_zyiDwsvtQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s/wxXwtTn6epofgw0Cl-D-gA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "首个公开的针对苹果M5的macOS内核漏洞利用程序，使用Mythos Preview在五天内完成",
+        "url": "https://mp.weixin.qq.com/s/-JLMLlpVoEyUnV2jQ_s1Fw",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "CVE-2015-1328 Overlayfs内核本地提权复现",
+        "url": "https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "自动化渗透测试利器NucleiFuzzer",
+        "url": "https://mp.weixin.qq.com/s/5NlCon9G6u3Y-S7QuRiInA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
     }
 ]
