@@ -1,0 +1,56 @@
+[
+    {
+        "title": "用AI提升macOS漏洞研究：一个开源工具与工作流程",
+        "url": "https://mp.weixin.qq.com/s/ftd74RoeATO1GGBv4B0CMA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "CVE-2025-48804｜BitUnlocker 把 BitLocker 的脸打了",
+        "url": "https://mp.weixin.qq.com/s/keJR9JUMn5_BEmn8Kcn81Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "网安必知的50个高危端口，新手挖漏洞必备！",
+        "url": "https://mp.weixin.qq.com/s/arJUKGIVMXWvJxfEPfdUgw",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "[视频]重磅炸弹，6年前的提权漏洞通杀Windows所有版本",
+        "url": "https://mp.weixin.qq.com/s/qUtLLeLkrzsr3gLnMpq4QQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "开箱即用！Chrome渗透神器「功能全拉满」",
+        "url": "https://mp.weixin.qq.com/s/vWzN2Fd7FYY0kpPydt8Nsw",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "漏洞复现 | 朗速ERP ModuleAjaxApi.ashx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/M-xCURHnR13DR-jajwYI9Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "AI辅助挖洞翻车现场：Mythos改密码锁机，还邀功\\\"我拿到RCE了",
+        "url": "https://mp.weixin.qq.com/s/2_EOgvrcvSiOzHnhr-Flsg",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "OpenClaw 四漏洞链：24.5万个 AI Agent 服务器暴露在攻击之下",
+        "url": "https://mp.weixin.qq.com/s/SOxkTjyetuo5El0WZZ1FKA",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    },
+    {
+        "title": "ssh-keysign-pwn：Linux 内核五月第四起本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/5GlfjT4usi_mj5HUA6q2ng",
+        "source": "Doonsec",
+        "date_added": "2026-05-17"
+    }
+]
