@@ -304,5 +304,11 @@
         "url": "https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg",
         "source": "Doonsec",
         "date_added": "2026-05-18"
+    },
+    {
+        "title": "漏洞预警 CVSS 8.1 【严重】Exchange Server OWA 在野 0day：一封邮件即可劫持会话",
+        "url": "https://mp.weixin.qq.com/s/fTSIdjqJmf_yBB1r991PNA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
     }
 ]
