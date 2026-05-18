@@ -58,5 +58,83 @@
         "url": "https://mrxn.net/jswz/yonyou-nc-IMsgCenterWebService-resetInvacationInfoByUsercode-sqli.html",
         "source": "MRXN",
         "date_added": "2026-05-18"
+    },
+    {
+        "title": "] [今日（2026年5月17日）热点网络安全漏洞动态",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505871&idx=1&sn=7c7eb03516ce8b20b1dc9ebe22d6282a",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "] [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=3&sn=c636faff278cae3d93f0d1ff35483775",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "Mythos漏洞发现能力强，但验证能力弱",
+        "url": "https://mp.weixin.qq.com/s/wYEPDBgnE5_OjbN_-cW5Zg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "【高危漏洞预警】Next.js SSRF漏洞（CVE-2026-44578）",
+        "url": "https://mp.weixin.qq.com/s/9K_-87almBWCRYZrT1JBsg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "本该在2020年被修复的Windows提权漏洞，现在竟然还存在",
+        "url": "https://mp.weixin.qq.com/s/LduTKXqxtx-CTKh8xnZXNQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "AI 黑客时代真的来了：漏洞开始不是人找的，而是模型找的",
+        "url": "https://mp.weixin.qq.com/s/G7XdRy8UaiOizL03dd871A",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "CVE-2023-32007漏洞复现及利用",
+        "url": "https://mp.weixin.qq.com/s/Tchc9qprT1ILWbYALF49tg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "集成数千漏洞攻击模块--全流程渗透测试框架MSF",
+        "url": "https://mp.weixin.qq.com/s/Qu1MigaPZ-HMRQEXP-RqKA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "别再硬磕补丁了！这才是漏洞治理的正确方式",
+        "url": "https://mp.weixin.qq.com/s/8cJk1YUVhOBMEfccBAjV8A",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "代码审计JAVA源码RCE漏洞记录",
+        "url": "https://mp.weixin.qq.com/s/EDwuXkFectYtZhDOoyKBlQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "WordPress插件存在严重漏洞，使网站易受身份验证绕过攻击",
+        "url": "https://mp.weixin.qq.com/s/zYE9gGRUwXx8UMx1lUCeMQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "SRC实战 | 某公寓SRC漏洞挖掘记录",
+        "url": "https://mp.weixin.qq.com/s/zXB-QnfKeHc3smC0LrmUwA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "MAD Bugs：在 PHP 中寻找并利用一个尘封21年的漏洞",
+        "url": "https://mp.weixin.qq.com/s/cPFGoqPSYXPXiBGY1M42xQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
     }
 ]
