@@ -250,5 +250,41 @@
         "url": "https://mp.weixin.qq.com/s/gPJ4_-PZRaclSM8YA89TVg",
         "source": "Doonsec",
         "date_added": "2026-05-18"
+    },
+    {
+        "title": "【文末抽奖】21天跑通海外SRC漏洞挖掘闭环！海外漏洞赏金猎人共学营等你来战～",
+        "url": "https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "东胜物流软件CrmProxyMailListGridSource.aspx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/mpjz1CQ5daPOfSgFkSzJUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "Linus点名AI漏洞报告！Linux安全列表已被挤爆",
+        "url": "https://mp.weixin.qq.com/s/hADw9UEwBED_oGvooDT3mw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "CVE-2026-34621：Adobe Acrobat 2026 原型污染和 JS 注入链 — 研究 PoC",
+        "url": "https://mp.weixin.qq.com/s/u6d6fAUs_qncuAnW97-qug",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "上邦 电子文档安全管理系统 skins 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/fssaYRWZnW5kJrw0kvJnvQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "为什么信任你的漏洞扫描器是个坏主意",
+        "url": "https://mp.weixin.qq.com/s/YchTiKWTdScwT3TFTQLRIw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
     }
 ]
