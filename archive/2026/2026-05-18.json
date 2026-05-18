@@ -136,5 +136,119 @@
         "url": "https://mp.weixin.qq.com/s/cPFGoqPSYXPXiBGY1M42xQ",
         "source": "Doonsec",
         "date_added": "2026-05-18"
+    },
+    {
+        "title": "Windows“MiniPlasma”新零日漏洞让攻击者获得系统访问权限——概念验证已发布",
+        "url": "https://mp.weixin.qq.com/s/tRfaJzYeOKfIXdOXTbQsTQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：微软 Exchange 服务器漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/grRRPmFUY6TLDIWEHeJdaA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "奇安信Qcodexa0Agents重磅升级，正式解锁操作系统级漏洞挖掘能力",
+        "url": "https://mp.weixin.qq.com/s/v1WWoUTBqfePcajNAUqQeg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel ptrace 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/x97x810gB4_vgAjnpQkKkg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "精品产品  | 捷普WEB应用漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s/Qpo3OshWc19dGjQoDgib_A",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "精品产品 | 捷普漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s/OnStDyH9PmjXabAKkE9mig",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "AI 渗透测试背后的 Cairn",
+        "url": "https://mp.weixin.qq.com/s/Z-R8KRdPbzA9kGERSLBUXQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "AI安全案例分析：Prompts Become Shells —— 从提示词注入到AI Agent远程代码执行（RCE）",
+        "url": "https://mp.weixin.qq.com/s/bCtX2GiVm_sPVVnoc-hpfQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第19期",
+        "url": "https://mp.weixin.qq.com/s/xCOHPjPHnf3Dvy6V3gUDCg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260511-20260517)",
+        "url": "https://mp.weixin.qq.com/s/Po35jvbH6lGfLRzwzcuH2w",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "【AI代码审计工具】ai自动代码审计平台",
+        "url": "https://mp.weixin.qq.com/s/puVQIimyvKQsTrJA3eJCeg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "【已复现】Windows Cloud Files Mini Filter Driver 权限提升漏洞(CVE-2020-17103)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/tKvLyt_jnkC1Eds8diBvPw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "【已复现】Windows 内核权限提升漏洞(CVE-2026-40369)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/hIkmAKL1EhJ62p_x7QWGhA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、就业）",
+        "url": "https://mp.weixin.qq.com/s/lj-5p-64VItwUYb6P-0xzg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "复现Copyxa0Fail漏洞（CVE-2026-31431）没环境？云攻防靶场一键开启，深度还原容器逃逸攻击链",
+        "url": "https://mp.weixin.qq.com/s/dplQJv-CChbWDGMBrJd60g",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.5.11-2026.5.17",
+        "url": "https://mp.weixin.qq.com/s/x4FBu3eGX-b6n6D4x7fVmw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "[漏洞分析] Shiro RememberMe 反序列化深度分析",
+        "url": "https://mp.weixin.qq.com/s/cHkq06N8kdFjOHulTNvh6A",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "[代码审计] php 命令执行",
+        "url": "https://mp.weixin.qq.com/s/4fZ-_28D-qarIqxinuoRvA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "[代码审计] php 反序列化",
+        "url": "https://mp.weixin.qq.com/s/gPJ4_-PZRaclSM8YA89TVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
     }
 ]
