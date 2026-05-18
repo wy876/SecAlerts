@@ -1,0 +1,62 @@
+[
+    {
+        "title": "工具 | 超强的一个渗透测试辅助平台",
+        "url": "https://mp.weixin.qq.com/s/AY9jotVaRTG49A5hVr-urw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "紧急！微软Exchange Server新高危XSS漏洞（CVE-2026-42897）已被利用执行攻击",
+        "url": "https://mp.weixin.qq.com/s/Dy2PPFHmGsb5YsR4o2ogzw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "SRC 每日漏洞复现学习系列（第 3 篇）文件上传漏洞  + 漏洞报告模板",
+        "url": "https://mp.weixin.qq.com/s/ECIj46YdjbbLRRB0zd8HBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "Oracle EBS 漏洞余波仍在扩大，大量企业至今仍遭勒索威胁",
+        "url": "https://mp.weixin.qq.com/s/vYNvls7XXg09gTlLytekfg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "2026年度（第一期）CNNVD漏洞奖励评选结果",
+        "url": "https://mp.weixin.qq.com/s/YTL31y_1azZK7fuTV4W5nw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "2026年国家信息安全漏洞库核心技术支撑单位公告",
+        "url": "https://mp.weixin.qq.com/s/DJ8OR2rRfSzpJ8_8lTr_yQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "漏洞复现 | 东胜物流软件 CrmProxyMailListGridSource.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/5mJt3XyxKpWGhTje2Irvow",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "Win 内核 LPE 漏洞 PoC 公开，从 Chrome 沙箱也能提权",
+        "url": "https://mp.weixin.qq.com/s/tk2Bz1VBEsflw-I9-lrT2g",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "一款只能文件上传漏洞检测工具|支持多种文件上传绕过技术",
+        "url": "https://mp.weixin.qq.com/s/lswrUUyJSS10SznRTasCGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "用友 NC 系统 IMsgCenterWebService SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/yonyou-nc-IMsgCenterWebService-resetInvacationInfoByUsercode-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-05-18"
+    }
+]
