@@ -286,5 +286,23 @@
         "url": "https://mp.weixin.qq.com/s/YchTiKWTdScwT3TFTQLRIw",
         "source": "Doonsec",
         "date_added": "2026-05-18"
+    },
+    {
+        "title": "改变战局！Cloudflare亲测Mythos，AI漏洞审计进入生产",
+        "url": "https://mp.weixin.qq.com/s/zcKAch-50vHOZre84ggafw",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "学员挖掘母校实战案例+4月湘安漏洞库平台优秀实战案例",
+        "url": "https://mp.weixin.qq.com/s/nwhYMH1xYopMdWIh_qezmA",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
+    },
+    {
+        "title": "小红薯可能存在xss漏洞？",
+        "url": "https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg",
+        "source": "Doonsec",
+        "date_added": "2026-05-18"
     }
 ]
