@@ -238,5 +238,83 @@
         "url": "https://mp.weixin.qq.com/s/4otTvtAaqfQg68V0aaa-_A",
         "source": "Doonsec",
         "date_added": "2026-05-19"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第七期）",
+        "url": "https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "CNNVD | 最新OpenClaw多个安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "GitHub 5.6万星，HackingTool V2.0：一站式渗透工具箱，185+神器一键配齐",
+        "url": "https://mp.weixin.qq.com/s/uBHnnQ1iPYLoCh2XF6C0Sw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7",
+        "url": "https://mp.weixin.qq.com/s/vHLjBK2608i_L1wzS_U59Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第七期）",
+        "url": "https://mp.weixin.qq.com/s/r0SFHbEEZ_H9uLpr_FgutQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/-7uDx2VafYdGH78FtcHRRg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第20期）",
+        "url": "https://mp.weixin.qq.com/s/zCdlbywODuqMWspBGBJoVQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "Windows“MiniPlasma”零日漏洞可使攻击者获得SYSTEM权限——概念验证代码已发布",
+        "url": "https://mp.weixin.qq.com/s/GmINFY9tJ8IVVluqDqunpg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "WordPress插件严重漏洞使网站面临身份验证绕过攻击风险",
+        "url": "https://mp.weixin.qq.com/s/7aiu0QKC8mg1wo89Vjjx9A",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "CVE-2020-17103 显然未修复或补丁已被撤销，无论如何，这是 cldflt.sys 中 LPE 的 PoC",
+        "url": "https://mp.weixin.qq.com/s/o95KZlzNTYn_6rQ9G5Yt4Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "针对 Nginx CVE-2026-42945 的 PoC",
+        "url": "https://mp.weixin.qq.com/s/y_SnusnFpjiA9CzVkggI0Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "API接口渗透测试工具 ApiHunter",
+        "url": "https://mp.weixin.qq.com/s/71noaDtLm-YkAMbUsGHZrQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "实力上榜！众安天下跻身工信部首批网络产品安全漏洞收集备案平台",
+        "url": "https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
     }
 ]
