@@ -46,5 +46,125 @@
         "url": "https://mp.weixin.qq.com/s/wBAoAh1X5znJrfcT9cHxpg",
         "source": "Doonsec",
         "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.5.11-2026.5.17",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503790&idx=1&sn=86a9d3e59a69769a7f866e5e2fcacfc5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [复现Copy Fail漏洞（CVE-2026-31431）没环境？云攻防靶场一键开启，深度还原容器逃逸攻击链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499913&idx=1&sn=986f30c79aee4d990ca1feacd729705c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [紧急！微软Exchange Server新高危XSS漏洞（CVE-2026-42897）已被利用执行攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518833&idx=1&sn=2a77ea8001191d2debe33540842c66e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [微软3年前补丁形同虚设，MiniPlasma漏洞可一秒提权至SYSTEM",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615215&idx=2&sn=b23cac49b2b1df3cf65ff41e031c4987",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [Mythos漏洞发现能力强，但验证能力弱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542893&idx=1&sn=206275bade8718a268a7ae6c53d78c69",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel ptrace 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525672&idx=1&sn=c337c05c9659b626d9c452f9d72c3e1b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第19期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496945&idx=1&sn=9cc7d733d3a25ee42b4046331ef2bb81",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260511-20260517)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496945&idx=2&sn=1abf49fbb97682b3d478368ae12be45a",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "XXE到Chrome RCE：一次完整的不出网利用实践",
+        "url": "https://mp.weixin.qq.com/s/fwDm_XiM1_3kmfP-Z1jKLQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "微软AI安全新突破：MDASH多模型智能体扫描系统，以AI速度重塑漏洞防御格局",
+        "url": "https://mp.weixin.qq.com/s/3UB4UrAb8rtEAkXxAKRZ5g",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "AI金矿分化加剧：高额股权 vs 技能贬值，安全从业者面临新挑战；CNVD漏洞周报2026年第19期| 牛览",
+        "url": "https://mp.weixin.qq.com/s/H_lFDwkGF2K1v317VRUGnA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "AI渗透系列一",
+        "url": "https://mp.weixin.qq.com/s/QopXvWdr0g2_MCu-XPJHsA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "理解 Windows 内核漏洞利用中的整数溢出",
+        "url": "https://mp.weixin.qq.com/s/Sww5vEo2DJ2pNGvC6LsSjQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "SRC每日漏洞复现学习系列（第4篇）目录遍历 / 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "【src实战】| 业务逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点",
+        "url": "https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "MiniPlasma：可在完全修补的 Windows 系统提权【PoC已公开】",
+        "url": "https://mp.weixin.qq.com/s/oKLDfvFTgK1ML4Sbq4eLCg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "小程序渗透测试工具 -- WMPFDebugger",
+        "url": "https://mp.weixin.qq.com/s/SvQZYtXt3XoKBU7XLYrtiQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "2026-05-19 最新CVE漏洞情报和技术资讯头条",
+        "url": "https://mp.weixin.qq.com/s/no7Y6bEN9XcFjRg0ps3xFw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第19期",
+        "url": "https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
     }
 ]
