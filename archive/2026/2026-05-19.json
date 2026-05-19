@@ -334,5 +334,11 @@
         "url": "https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ",
         "source": "Doonsec",
         "date_added": "2026-05-19"
+    },
+    {
+        "title": "【内网渗透】从域内凭据泄露到内网沦陷：Ra 靶场渗透全记录",
+        "url": "https://mp.weixin.qq.com/s/AAeS38KyCFGx-INS02Egyw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
     }
 ]
