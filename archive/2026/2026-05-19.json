@@ -166,5 +166,77 @@
         "url": "https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA",
         "source": "Doonsec",
         "date_added": "2026-05-19"
+    },
+    {
+        "title": "【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南",
+        "url": "https://mp.weixin.qq.com/s/pVBvm545PMvDAmHTI8DhCA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "【漏洞通告】Windows Cloud Files Mini Filter Driver 本地权限提升漏洞(CVE-2020-17103)",
+        "url": "https://mp.weixin.qq.com/s/YmHeEd6It-lED_aMwArdBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "威胁日简报 - AN-OS 远程代码执行漏洞（CVE-2026-0300）已在野利用",
+        "url": "https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "Nginx 致命漏洞 CVE-2026-42945 复现",
+        "url": "https://mp.weixin.qq.com/s/KLDxXBL1unCcM7qqFbrtVw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "vm2沙箱逃逸满分漏洞？AI有点东西",
+        "url": "https://mp.weixin.qq.com/s/3dYNnSzYJrMiR7kcZznK4g",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "“百密一疏”：轻量TCP/IP协议栈 lwIP（Lightweight IP）SMTP客户端堆溢出致RCE",
+        "url": "https://mp.weixin.qq.com/s/wOkzIx_N9sk8uHEul01z8A",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "【已复现】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/VyE4DgTqcT4j-m6Vcs_fFg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "【已复现】PostgreSQL pgcrypto 堆缓冲区溢出漏洞(CVE-2026-2005)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/G5XOCRU31tojEa7xs2jLuw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "奇安信Qcodexa0Agents重磅升级，正式解锁操作系统级漏洞挖掘能力",
+        "url": "https://mp.weixin.qq.com/s/Ana0k_NNjTzTY_j_l188mA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "火山引擎安全专测上线！漏洞多倍积分、情报特殊奖励奉上",
+        "url": "https://mp.weixin.qq.com/s/972ZlHq34AWm4DqnTjNySA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "DudeSuite 漏洞播报 全网漏洞早知道【20260519】",
+        "url": "https://mp.weixin.qq.com/s/rQKZQmWL2-HTwtVfTxLjDQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "关于小程序逻辑漏洞挖掘测试",
+        "url": "https://mp.weixin.qq.com/s/4otTvtAaqfQg68V0aaa-_A",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
     }
 ]
