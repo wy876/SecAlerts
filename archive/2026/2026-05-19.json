@@ -1,0 +1,50 @@
+[
+    {
+        "title": "内卷的风还是吹到了漏洞利用：ExploitGym 全自动漏洞利用Agent评估",
+        "url": "https://mp.weixin.qq.com/s/jg8kSb4afAnmS3-I1AKrnA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "白昼信安内部漏洞知识库开放注册",
+        "url": "https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "Linux ssh-keysign-pwn漏洞在K8s中的影响",
+        "url": "https://mp.weixin.qq.com/s/pmv8kGL1J7dZbugcEacq7A",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "CVE-2026-42945，Nginx高危漏洞 | 可致RCE或服务崩溃",
+        "url": "https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "在野利用确认！带你吃透Ivanti EPMM最新RCE漏洞（CVE-2026-6973）的底层逻辑",
+        "url": "https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "首款由AI研发的零日漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s/ynYiD7N1VJt9yx9Q5waUnw",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "漏洞预警 | Apache HTTP Server双重释放漏洞",
+        "url": "https://mp.weixin.qq.com/s/DXH2BE4TwIN1WKywjEVoBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "漏洞预警 | 天地伟业Easy7 SSRF和文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/wBAoAh1X5znJrfcT9cHxpg",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    }
+]
