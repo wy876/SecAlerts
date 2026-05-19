@@ -316,5 +316,23 @@
         "url": "https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ",
         "source": "Doonsec",
         "date_added": "2026-05-19"
+    },
+    {
+        "title": "Android Pixel 10 零点击漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具",
+        "url": "https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
+    },
+    {
+        "title": "【提权漏洞】MiniPlasma-SYSTEM",
+        "url": "https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-19"
     }
 ]
