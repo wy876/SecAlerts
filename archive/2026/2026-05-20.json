@@ -10,5 +10,77 @@
         "url": "https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA",
         "source": "Doonsec",
         "date_added": "2026-05-20"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/pTdl96d4YTMa1ZSjaPPjnQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "渗透测试人员针对毒性漏洞组合的方法",
+        "url": "https://mp.weixin.qq.com/s/o-LPSYdTDLjADaAAVOGSXg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "漏洞挖掘 | 520也不能忘记挖洞分享啊混蛋",
+        "url": "https://mp.weixin.qq.com/s/Q6_a5pTQZ5b2H3470r-0yw",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "攻防渗透 | 关于运算符优先级的SQL注入记录",
+        "url": "https://mp.weixin.qq.com/s/xGeW2lMD-5hsr6WCA4Ueww",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "SRC每日漏洞复现学习系列（第5篇）业务逻辑绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【AI安全】5月攻防全景：从模型漏洞到全栈基建防护",
+        "url": "https://mp.weixin.qq.com/s/zPLuxI--B0ddmYm0Ml8PlQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "数字类型解析绕过IDOR校验漏洞",
+        "url": "https://mp.weixin.qq.com/s/9YcQUd1Pnlv8_YNdquxnpg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告",
+        "url": "https://mp.weixin.qq.com/s/wVtexuoSbtp2CNoMoGWOew",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【SRC实战】|两个小程序之间的越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "VS命令执行与防御",
+        "url": "https://mp.weixin.qq.com/s/H8HpOlnpiDGDmi1LZ2D2XQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "gRPC渗透测试入门指南：从协议差异到模糊测试实战",
+        "url": "https://mp.weixin.qq.com/s/ASkqp1LXyDUIAV1x-nhBfA",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析",
+        "url": "https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
     }
 ]
