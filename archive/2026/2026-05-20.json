@@ -226,5 +226,17 @@
         "url": "https://mp.weixin.qq.com/s/qJ6ifu-mjkMjSPpqUCLJEg",
         "source": "Doonsec",
         "date_added": "2026-05-20"
+    },
+    {
+        "title": "友数聚科技CPAS审计管理系统V4 doDownLoadPicFile接口存在文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/avofNuALVcCs7oRoiY_Bgg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "一个简单的web复现工具",
+        "url": "https://mp.weixin.qq.com/s/-9Kh_zrePiI8FieRLW2v0g",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
     }
 ]
