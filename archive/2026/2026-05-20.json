@@ -214,5 +214,17 @@
         "url": "https://mp.weixin.qq.com/s/DsbWaOhcq46zcc2KVlFCtg",
         "source": "Doonsec",
         "date_added": "2026-05-20"
+    },
+    {
+        "title": "攻防渗透 | 难得的thinkphp5 rce记录",
+        "url": "https://mp.weixin.qq.com/s/JH8A6DaH_09assgP6H2NBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "微软发布针对 Windows BitLocker 安全绕过零日漏洞的缓解措施",
+        "url": "https://mp.weixin.qq.com/s/qJ6ifu-mjkMjSPpqUCLJEg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
     }
 ]
