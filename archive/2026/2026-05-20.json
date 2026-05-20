@@ -82,5 +82,89 @@
         "url": "https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA",
         "source": "Doonsec",
         "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [Android Pixel 10 零点击漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186756&idx=1&sn=df5398f285f6d4714f9fde8c4fad8d8b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [凌晨三点收到一千条漏洞告警，AI 替我看完了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141692&idx=1&sn=98cdfb983eb21c11dc54f4a4ba586cf4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [【已复现】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505907&idx=1&sn=fa84a90f4eb664f50485b423f8db03cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [【已复现】PostgreSQL pgcrypto 堆缓冲区溢出漏洞(CVE-2026-2005)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505907&idx=2&sn=205c4c3a6ab07259e746d3f430f9c72e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [奇安信Qcode Agents重磅升级，正式解锁操作系统级漏洞挖掘能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526048&idx=1&sn=0cc70737a4725595d2a468599e295579",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518838&idx=1&sn=a33e7f05cd5a946c51b0ff0fe8caa3eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [火山引擎安全专测上线！漏洞多倍积分、情报特殊奖励奉上",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496216&idx=1&sn=aca419e15554c51a85d2afcf3163a0b6",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [微软AI安全新突破：MDASH多模型智能体扫描系统，以AI速度重塑漏洞防御格局",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141382&idx=1&sn=47da5ef47e9e139e5ce6f6c83270df6c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [AI金矿分化加剧：高额股权 vs 技能贬值，安全从业者面临新挑战；CNVD漏洞周报2026年第19期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141382&idx=2&sn=0f2196553effffefe1816429bd1a7aed",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第19期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501599&idx=1&sn=6e909b7b963fad1d8cb6d2787d68eb08",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [【src实战】| 业务逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499455&idx=1&sn=87c2a66ec757c4c28ee6dd3411bca40b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "] [首款由AI研发的零日漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486726&idx=1&sn=bcc2154395b67dddb7a99e7f3510e625",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【已复现】Linux Kernel PinTheft 本地权限提升漏洞(QVD-2026-27616)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/15jTRMNNSNdndbJc9gpsKA",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "用友 NC 系统 IMsgCenterWebService SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MaYVSLqK_-I_AGqKcn68ag",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
     }
 ]
