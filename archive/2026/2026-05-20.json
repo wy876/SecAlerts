@@ -166,5 +166,53 @@
         "url": "https://mp.weixin.qq.com/s/MaYVSLqK_-I_AGqKcn68ag",
         "source": "Doonsec",
         "date_added": "2026-05-20"
+    },
+    {
+        "title": "🔥全球首例！AI黑客自主开发零日漏洞攻击💥",
+        "url": "https://mp.weixin.qq.com/s/nDSb2gNhFOS6IEg4mCTnmw",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "关注丨通过备案的网络产品安全漏洞收集平台（第1批）",
+        "url": "https://mp.weixin.qq.com/s/xrX1vL9Tp3l1fxd1CoO_RQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【漏洞通告】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)",
+        "url": "https://mp.weixin.qq.com/s/yFVNnq-XYQUnX5imZWdiwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【漏洞通告】n8n多个节点远程代码执行漏洞(CVE-2026-44789/CVE-2026-44790/CVE-2026-44791)",
+        "url": "https://mp.weixin.qq.com/s/-6lxWZNaolzOMwBZrfmyaA",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)",
+        "url": "https://mp.weixin.qq.com/s/7MAAQ-I97Donlo72j85t9g",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "DirtyDecrypt Linux内核漏洞PoC利用代码公开",
+        "url": "https://mp.weixin.qq.com/s/VMFea4ZUq2g2QF3EIvITAg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "安全419｜一周国际网安资讯：APT与0Day齐袭 AI代理漏洞显现",
+        "url": "https://mp.weixin.qq.com/s/Xr6uVt8HMc4ShYDHnfn4qg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel RDS零拷贝双重释放本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/DsbWaOhcq46zcc2KVlFCtg",
+        "source": "Doonsec",
+        "date_added": "2026-05-20"
     }
 ]
