@@ -196,5 +196,47 @@
         "url": "https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA",
         "source": "Doonsec",
         "date_added": "2026-05-21"
+    },
+    {
+        "title": "Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC",
+        "url": "https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "2026年，用好AI就能让你告别古法渗透，为什么你还不再试一次？",
+        "url": "https://mp.weixin.qq.com/s/_Pj6PL3Z_SzZ1iJAXHsOvA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【重磅深度】2026威瑞森DBIR安全报告解析：漏洞利用首超凭证窃取，影子AI成为最大内部威胁！",
+        "url": "https://mp.weixin.qq.com/s/HvTph9ylwEIFCFcVbgNxuw",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "AICryptoProxy：AI 驱动的 JS 逆向分析渗透测试自动化代理框架",
+        "url": "https://mp.weixin.qq.com/s/l6YxR4KQkCS-_0BojVJWRA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "什么？？还有人不会AI漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "Cisco 安全工作负载中的关键漏洞威胁企业 API 安全",
+        "url": "https://mp.weixin.qq.com/s/ix43LSr6BnMQNN5pqX4OfQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "奇安信蝉联国家信息安全漏洞库CNNVD最高等级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
     }
 ]
