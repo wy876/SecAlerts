@@ -238,5 +238,11 @@
         "url": "https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA",
         "source": "Doonsec",
         "date_added": "2026-05-21"
+    },
+    {
+        "title": "1day CVE-2026-5118 Divi 表单构建器 &lt;= 5.1.2 | 通过角色注入进行未经身份验证的权限提升",
+        "url": "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
     }
 ]
