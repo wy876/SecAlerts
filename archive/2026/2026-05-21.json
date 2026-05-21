@@ -166,5 +166,29 @@
         "url": "https://mp.weixin.qq.com/s/6WJJ2qrgam-DHOxBEQd4cA",
         "source": "Doonsec",
         "date_added": "2026-05-21"
+    },
+    {
+        "title": "Next.js 服务器端请求伪造漏洞 | CVE-2026-44578复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/s9hDc0HgZFDW_hxQSmUVSA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel PinTheft 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/yN0FKhITnBCTwZj0dbRsyA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "初中学历、早年辍学，凭什么能霸榜 SRC，靠挖漏洞开上 BBA？",
+        "url": "https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "黑客利用 CVE-2026-26980 攻陷 Ghost CMS，大量站点沦为 ClickFix 攻击帮凶",
+        "url": "https://mp.weixin.qq.com/s/9lTmEDWuciP536ZOn_lSAA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
     }
 ]
