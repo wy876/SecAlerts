@@ -94,5 +94,77 @@
         "url": "https://mp.weixin.qq.com/s/PQc3ALOv1l3U6oAiNVy3sw",
         "source": "Doonsec",
         "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel PinTheft 本地权限提升漏洞(QVD-2026-27616)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505918&idx=1&sn=2d857360ee78feeb5301de3fecce7f0e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [第三方MiniFilter中常见的一种TOCTOU漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615353&idx=1&sn=772e8df0c2ce473468d1a0880f4548e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [【漏洞通告】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525731&idx=1&sn=2c7d1aac21ffcef30868bb9e53450933",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [【漏洞通告】n8n多个节点远程代码执行漏洞(CVE-2026-44789/CVE-2026-44790/CVE-2026-44791)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525731&idx=2&sn=cd67147630c31a649d9985873792a2eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [【漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525731&idx=3&sn=a9e7a28b0943020656cea0634dd29feb",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "] [权威认可！360获评国家信息安全漏洞库核心级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586000&idx=2&sn=e15e6705eee9705417548f9e2dce70a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "[前沿技术] 智能合约常见漏洞审计",
+        "url": "https://mp.weixin.qq.com/s/UyawPASH1AlJZfqabG7Huw",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "思科：速修复满分 Secure Workload 未授权 API 访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/Jg4C4E4krDlg0bI1VTLMLA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "AI 不是让漏洞变多，而是让漏洞更难藏",
+        "url": "https://mp.weixin.qq.com/s/DJ41Rq86j3Lpyd62ddr1HA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具",
+        "url": "https://mp.weixin.qq.com/s/qFXVV3_oZ51SPghQZ9hHVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "疑似 Nginx 新 0day RCE，无补丁，无上下文",
+        "url": "https://mp.weixin.qq.com/s/KREBr3NjeQ_OQZu_pyhQBw",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "PHP-文件操作类代码审计",
+        "url": "https://mp.weixin.qq.com/s/6WJJ2qrgam-DHOxBEQd4cA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
     }
 ]
