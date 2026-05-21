@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g",
         "source": "Doonsec",
         "date_added": "2026-05-21"
+    },
+    {
+        "title": "SmartBi后台远程代码执行漏洞简单分析",
+        "url": "https://mp.weixin.qq.com/s/WAmdll1HwytOICUo5iILWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "顶级大厂也成“草台班子”？谷歌误将未修复漏洞公之于众，数百万浏览器面临劫持风险",
+        "url": "https://mp.weixin.qq.com/s/70EqPfIriYX_z36CvaplOQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "Android Pixel 10 零点击漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/0aU9fIxjJLzIBESNPv5z8Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
     }
 ]
