@@ -1,0 +1,98 @@
+[
+    {
+        "title": "SRC每日漏洞复现学习系列（第6篇）信息泄露漏洞+ 漏洞报告模板",
+        "url": "https://mp.weixin.qq.com/s/MD-uP0L73S0wGu6OvhgE9w",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "AI 武器化里程碑：Google 首次确认攻击者用 AI 生成零日漏洞利用代码",
+        "url": "https://mp.weixin.qq.com/s/IztGmUlkHgnEjufgPSigwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "用友NC DocServlet 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/RdInbMdvVCWVRwi-2qbaSg",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "攻防渗透 | 大模型key还有啥玩法呢",
+        "url": "https://mp.weixin.qq.com/s/G3mgCgrHlsQbZSeEWaAt0g",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【漏洞通告]Linux Kernel ptrace 权限提升漏洞(QVD-2026-26977)】",
+        "url": "https://mp.weixin.qq.com/s/GFKDb7xiTr2qk29Y5bmWBw",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)】",
+        "url": "https://mp.weixin.qq.com/s/uIosTtJUGi62K6djAkrbXA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【Open5GS 缓冲区错误漏洞(CVE-2026-8746)】",
+        "url": "https://mp.weixin.qq.com/s/kBzkyyZr3KBDc387_7aMAQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【MyBB Timeline Plugin 跨站脚本漏洞(CVE-2021-47934)】",
+        "url": "https://mp.weixin.qq.com/s/l6LQ6Qxt0KEGR6AI3GrATg",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "【Next.js 服务器端请求伪造漏洞(CVE-2026-44578)】",
+        "url": "https://mp.weixin.qq.com/s/_glf1D-Kd7fiI_02lych0w",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "Burp 加密流量一把梭！JaySenScan 插件：加解密 + 高危漏扫 + 工具联动，渗透测试效率翻倍",
+        "url": "https://mp.weixin.qq.com/s/vhKH47upsTizsDoi0EKacA",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "平均每个漏洞约1万美元：DARPA 又发奖金",
+        "url": "https://mp.weixin.qq.com/s/rSFhf-j9vEcZrUuMPqPfuQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "vm2 沙箱库惊曝\\\"12连杀\\\"：三个满分漏洞掀起腥风血雨",
+        "url": "https://mp.weixin.qq.com/s/8xlCzSJIuZipUfZkLM2tRg",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "挖洞实战：顺着“改地址”摸到服务端原型污染，这漏洞藏得太深了",
+        "url": "https://mp.weixin.qq.com/s/W70QP-2aV0rSh9dO_qrj8Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "又双叒叕  CVE-2026-46333 Linux 内核潜伏6年漏洞：低权限用户一键窃取 SSH 密钥与 Shadow 密码",
+        "url": "https://mp.weixin.qq.com/s/r-3Mf7R3nKxg-PqXAfmnDg",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "无条件前台RCE ？影响最新版本 Nginx 漏洞！",
+        "url": "https://mp.weixin.qq.com/s/btnA8llcm9oHLJ52WxLG1w",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    },
+    {
+        "title": "Nginx 最新 1.31.0 版本 又有 0day? 是真正的核弹？",
+        "url": "https://mp.weixin.qq.com/s/PQc3ALOv1l3U6oAiNVy3sw",
+        "source": "Doonsec",
+        "date_added": "2026-05-21"
+    }
+]
