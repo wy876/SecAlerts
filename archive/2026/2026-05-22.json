@@ -1,0 +1,44 @@
+[
+    {
+        "title": "] [思科：速修复满分 Secure Workload 未授权 API 访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526078&idx=1&sn=2b669f642fd4b13d42c79cc8a544e482",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [AI重塑网络攻击：漏洞利用成最流行手段，利用门槛被大幅拉低",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515978&idx=1&sn=33f216e51504edd839dc8b5e44ae380b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [360漏洞云携安全龙虾亮相HPW白帽世界大会",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505129&idx=1&sn=b886267049920b17ef845f225e9e6f37",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518848&idx=1&sn=90b15138b9f9cc9e7698039e29fbcdce",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [【已复现】FreeBSD setcred(2) 栈缓冲区溢出漏洞(CVE-2026-45250)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505952&idx=1&sn=c7636af71cd3a1470ad313b5274a038d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [漏洞预警 | Linux内核RDS零拷贝与io_uring组合本地提权漏洞（PinTheft）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488075&idx=1&sn=ac894fe8c8f2cb13199b50fa048474fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel PinTheft 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525764&idx=1&sn=694c58e134be2843b714a5e85ae2c533",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-22"
+    }
+]
