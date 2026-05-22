@@ -70,5 +70,17 @@
         "url": "https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw",
         "source": "Doonsec",
         "date_added": "2026-05-22"
+    },
+    {
+        "title": "Cisco修复CVSS 10.0严重漏洞，影响Secure Workload",
+        "url": "https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-22"
+    },
+    {
+        "title": "前后端分离渗透实战：当API成为盲区，你还在扫目录？",
+        "url": "https://mp.weixin.qq.com/s/Wc107OOrtBj3WFf3vSe6uQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-22"
     }
 ]
