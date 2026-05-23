@@ -58,5 +58,47 @@
         "url": "https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w",
         "source": "Doonsec",
         "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [微软提醒注意两个已遭利用的 Defender 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526088&idx=1&sn=b80d042e47259040384c71978889be86",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [已存在9年的 Linux Kernel 漏洞可导致执行 root 命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526088&idx=2&sn=054aa51bb5ff7800aed3baf374ec14bf",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [NGINX 新漏洞可导致远程攻击者触发恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526088&idx=3&sn=353fe1e4d9d79dec6b4cce44a35da5fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [【已复现】cPanel&WHM 任意文件读取漏洞(CVE-2026-29205)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505961&idx=1&sn=6b09d0e85e05b52460244fe8e84eec07",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [vm2 沙箱曝5大高危漏洞：最高 CVSS 10.0，波及所有3.11.3及以下版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615448&idx=3&sn=818c2d9d2813d32261998d80b1c601c2",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [漏洞预警 | Linux Kernel Fragnesia 本地权限提升漏洞（CVE-2026-46300）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488081&idx=1&sn=03f4c2ef9d46f04b018e91232c3356ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "] [GTIG AI 威胁追踪报告：攻击者利用AI开展漏洞利用、作战赋能与初始入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486740&idx=1&sn=9532faa2125265606c27c96db56f8aa1",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-23"
     }
 ]
