@@ -166,5 +166,11 @@
         "url": "https://mp.weixin.qq.com/s/uKDQlIGHUbrxsppPyd2bqQ",
         "source": "Doonsec",
         "date_added": "2026-05-23"
+    },
+    {
+        "title": "CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔",
+        "url": "https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
     }
 ]
