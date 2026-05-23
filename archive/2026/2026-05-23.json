@@ -1,0 +1,62 @@
+[
+    {
+        "title": "【实战】针对在某次医疗项目中关于C/S架构系统的渗透测试小TIPS 附工具",
+        "url": "https://mp.weixin.qq.com/s/p08Rn6eYLB9SWWUE8gMYKg",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "[SRC]漏洞显现",
+        "url": "https://mp.weixin.qq.com/s/WbVDivZkzkQUdncwApaozg",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "StubZero：谷歌云生产环境中的RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/8EmKtZsBbKTpkeE4OWZmyw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "深信服实习，渗透测试，二面面经(网络安全)",
+        "url": "https://mp.weixin.qq.com/s/VCG_bqZraE7R16FSVNNm4g",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "SRC 每日漏洞复现学习系列（第 8 篇）：反射型 XSS 漏洞详解与报告模板",
+        "url": "https://mp.weixin.qq.com/s/ZQwt43XOwi5RVr9VUa_oFA",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "安全圈的狼来了：那些\\\"高危\\\"漏洞为何最终用不上",
+        "url": "https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "cPanel&amp;WHM高危任意文件读取漏洞（CVE‑2026‑29205）",
+        "url": "https://mp.weixin.qq.com/s/HslC1JtRrrHdsPuu48achw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "一周安全回顾：AI推动漏洞攻防失衡，国际大厂频遭供应链投毒",
+        "url": "https://mp.weixin.qq.com/s/Te8I6NOLjSfa7p1rPc15wA",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "【漏洞通告】FreeBSD setcred(2) 栈缓冲区溢出漏洞(CVE-2026-45250)",
+        "url": "https://mp.weixin.qq.com/s/6wzPutc6oLROtttQJBsSvA",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施",
+        "url": "https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    }
+]
