@@ -106,5 +106,35 @@
         "url": "https://mp.weixin.qq.com/s/FHFKu8GYjxpVcmy2SQeJbw",
         "source": "Doonsec",
         "date_added": "2026-05-23"
+    },
+    {
+        "title": "【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s/8HV7g9Os5K8mSy96YrYufg",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "Chrome安全漏洞或使攻击者能够远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/z4wthxePisDjY6eYFtHmZg",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "Microsoft Defender零日漏洞已在野外遭积极利用",
+        "url": "https://mp.weixin.qq.com/s/mzawD-_crDMa0Awmk-i8eQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "Claude Mythos Preview首月发现超万个0Day漏洞",
+        "url": "https://mp.weixin.qq.com/s/2vlzln_L0sEBs-sH66rzSw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "GitHub 4000个私有仓库被窃取；Claude Code深度链接解析漏洞可被武器化 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
     }
 ]
