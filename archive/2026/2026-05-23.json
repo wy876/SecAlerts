@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw",
         "source": "Doonsec",
         "date_added": "2026-05-23"
+    },
+    {
+        "title": "若依及其二开系统的渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s/aq2lp-xKk5SoS0YRj3jWIA",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "PLC逻辑代码漏洞的严重性及隐蔽性分析",
+        "url": "https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
     }
 ]
