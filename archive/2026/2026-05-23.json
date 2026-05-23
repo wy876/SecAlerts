@@ -148,5 +148,23 @@
         "url": "https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w",
         "source": "Doonsec",
         "date_added": "2026-05-23"
+    },
+    {
+        "title": "BYOVD攻击面从漏洞驱动到合法证书的范式转移",
+        "url": "https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "异步投毒、fork触发的赏金杀招：服务端原型污染RCE拆解",
+        "url": "https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
+    },
+    {
+        "title": "AutoPentestAI：MoE 架构 + 100+ 工具，AI 自动执行完整渗透测试",
+        "url": "https://mp.weixin.qq.com/s/uKDQlIGHUbrxsppPyd2bqQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-23"
     }
 ]
