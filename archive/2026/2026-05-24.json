@@ -28,5 +28,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=3&sn=957360c8847377bd11e2714149619033",
         "source": "BruceFeIix",
         "date_added": "2026-05-24"
+    },
+    {
+        "title": "Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！",
+        "url": "https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    },
+    {
+        "title": "StubZero：在 Google Cloud 生产环境中造成 148,337 美元的远程代码执行损失",
+        "url": "https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
     }
 ]
