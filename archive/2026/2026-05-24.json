@@ -70,5 +70,17 @@
         "url": "https://mp.weixin.qq.com/s/MWs3rY8bZMk9GEqPMtoEHg",
         "source": "Doonsec",
         "date_added": "2026-05-24"
+    },
+    {
+        "title": "CVSS 9.8 【严重】CVE-2026-6279 wordpress Avada Builder 未授权RCE漏洞：call_user_func 无过滤直接沦陷",
+        "url": "https://mp.weixin.qq.com/s/tfUh6yci2Nuvj_fxUESK5Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    },
+    {
+        "title": "OneScan_Expand 1.1.4 更新：Java 21、SQLite 持久化与数据看板重构",
+        "url": "https://mp.weixin.qq.com/s/0GlPMBMGt7tshTQ4h7JvKA",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
     }
 ]
