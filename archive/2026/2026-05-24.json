@@ -1,0 +1,26 @@
+[
+    {
+        "title": "我算了三遍才敢信：Anthropic让AI当黑客，首月1万漏洞修比找更难",
+        "url": "https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    },
+    {
+        "title": "邮箱密码重置流程的IDOR漏洞",
+        "url": "https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    },
+    {
+        "title": "CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击",
+        "url": "https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    },
+    {
+        "title": "Google意外公开未修复Chromium漏洞PoC：你的浏览器可能正在被黑客\\\"征兵\\\"",
+        "url": "https://mp.weixin.qq.com/s/H26-1SAykG70kUoHHtW1Iw",
+        "source": "Doonsec",
+        "date_added": "2026-05-24"
+    }
+]
