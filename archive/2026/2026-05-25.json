@@ -124,5 +124,89 @@
         "url": "https://mp.weixin.qq.com/s/b3jAOox4jV1G9NQ2TgiGEQ",
         "source": "Doonsec",
         "date_added": "2026-05-25"
+    },
+    {
+        "title": "] [漏洞通胀时代：产品安全的三层破局架构思考",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487461&idx=1&sn=620bf4cb3700f0d16b095e695d405297",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "NGINX 爆出堆溢出高危漏洞，可致 RCE！我们开源了一款自查工具",
+        "url": "https://mp.weixin.qq.com/s/eJ5WgkGQNN0FyOy1SzB1Bg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "发现超10000个高危和严重漏洞：Anthropic“玻璃之翼”项目揭示AI网络安全新挑战",
+        "url": "https://mp.weixin.qq.com/s/Jov7e07RwiZBFWBuAYZiPA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "网安必知的50个高危端口，新手挖漏洞必备！",
+        "url": "https://mp.weixin.qq.com/s/oQdbevdGyUGtD8BbHaHcnA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "一款专为红蓝工程师和渗透测试人员打造的跨平台安全工具箱",
+        "url": "https://mp.weixin.qq.com/s/H1JazXTyLKPcZuGIcdm3OA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "组件漏洞学习特辑一 | Bash Shellshock（CVE-2014-6271）漏洞复现全解",
+        "url": "https://mp.weixin.qq.com/s/aFZ-8EA1crEWGlU3RbeAqA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "AI带来的影响初现：互联网漏洞赏金大幅下降",
+        "url": "https://mp.weixin.qq.com/s/1w9d6GAhWw71VLoGsIxt1g",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "某健康教育平台 ASP.NET前台RCE代码审计",
+        "url": "https://mp.weixin.qq.com/s/tlgsNLVwzYkvhSu7nM1LfQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "代码审计：保障软件安全与质量的核心手段",
+        "url": "https://mp.weixin.qq.com/s/BPus_Fkm-DZRYASuGbu29A",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "CrewAI-Studio 未授权 RCE：从 JSON 导入到 eval 的任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/IbZczLPZUCW2yCWqIsGkNg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "什么是 CVE 公共漏洞和暴露？",
+        "url": "https://mp.weixin.qq.com/s/M3U2Gw04lzVjaH1pDi1Zmw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "花了几天，研究了下自动化渗透",
+        "url": "https://mp.weixin.qq.com/s/MKZO7gW22MBjrkFjqbuK_A",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "JWT渗透姿势",
+        "url": "https://mp.weixin.qq.com/s/UxrCRRFcwLOUE3sXsgidtg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "【组合拳】某币币期权多语言交易所前台任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/f0zo1uc14oy3OtefuAq73g",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
     }
 ]
