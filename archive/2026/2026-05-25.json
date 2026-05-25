@@ -10,5 +10,119 @@
         "url": "https://mp.weixin.qq.com/s/0sR9rFg9YThUWiuHEEIBwg",
         "source": "Doonsec",
         "date_added": "2026-05-25"
+    },
+    {
+        "title": "发现超10000个高危和严重漏洞：Anthropic“玻璃之翼”项目揭示AI网络安全新挑战",
+        "url": "https://mp.weixin.qq.com/s/HOKlBmtIUWfZhZNw_yUQCw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "我是如何找到攻击链并获得 CVE-2026-42558 的？",
+        "url": "https://mp.weixin.qq.com/s/GYgXnxporQqrmqmmWUqHJQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "并发逻辑漏洞靶场案例",
+        "url": "https://mp.weixin.qq.com/s/sQiHk__-XZoZ06PcyKPBAA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "dddd改版：更聪明的资产发现&amp;漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/-5o6a5aRPaoPVgoGHrMZ6g",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "Mythos挖出上万漏洞，AI正在把网络安全“核爆”提前",
+        "url": "https://mp.weixin.qq.com/s/jnQuP2MjYgPa9ZNphKu-Ag",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "AI渗透的拐点已至？我是如何通过AI纯黑盒挖到通用产品的9.8分RCE 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/--YqoyfqPOxN6HI3Mkt4yA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "厦门四信通信 水利信息化平台 index.do 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/C2S4iw7AjvibVhJFHR0-BA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "[代码审计] php SSRF",
+        "url": "https://mp.weixin.qq.com/s/-1uJNEYNIClUoBRlSYnbwQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486）",
+        "url": "https://mp.weixin.qq.com/s/IItltbbMPC9tEu01fw6Wfg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "LangChain AI代码审计Agent 初用心得",
+        "url": "https://mp.weixin.qq.com/s/bXPJHX3iScORlbkBz5n80A",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "0166.从失败到获得 32,000 美元：我的漏洞赏金之旅",
+        "url": "https://mp.weixin.qq.com/s/Bi3Ye6Fd1RqC5gK9xUxyVQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "腾讯云智能渗透挑战赛中AI First的学习与思考",
+        "url": "https://mp.weixin.qq.com/s/QP92wjd1yU7OfoemwwTmmw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "【通知】华住SRC暂停漏洞测试公告",
+        "url": "https://mp.weixin.qq.com/s/6UVjSi2W_Vj-JDUbqfKLOg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "key泄露利用：高危漏洞一条龙漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/mVAPxYLBauokKWrYUe-o5g",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "LiteSpeed cPanel 插件漏洞 CVE-2026-48172 遭利用，可获取 root 权限执行脚本",
+        "url": "https://mp.weixin.qq.com/s/yFpua0TG3FhLkcVMWc9YHg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "渗透神器！BurpAPIFinder 自动扒接口 + 查敏感信息，效率拉满",
+        "url": "https://mp.weixin.qq.com/s/aroFBUTFo5lk_5p9LUvsUA",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "赏金实战｜从修改地址到远程代码执行，服务端原型链污染的威力有多可怕？",
+        "url": "https://mp.weixin.qq.com/s/7g8KLLciQqZujzGCczy_Nw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "AI渗透测试新范式：DeepSeek用XML报错盲注绕过WAF，2小时1.4元抽干19个数据库",
+        "url": "https://mp.weixin.qq.com/s/MAmNL7kdwvcfVkBRcTvDJg",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "StubZero：Google Cloud生产环境RCE漏洞，奖金148,337美元",
+        "url": "https://mp.weixin.qq.com/s/b3jAOox4jV1G9NQ2TgiGEQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
     }
 ]
