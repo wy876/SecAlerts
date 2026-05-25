@@ -208,5 +208,23 @@
         "url": "https://mp.weixin.qq.com/s/f0zo1uc14oy3OtefuAq73g",
         "source": "Doonsec",
         "date_added": "2026-05-25"
+    },
+    {
+        "title": "Google 42个月未修复的Chromium漏洞被公开 可劫持浏览器变\\\"僵尸节点\\\"",
+        "url": "https://mp.weixin.qq.com/s/wGRVggdfNW1XsC8tpIhYNw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第20期",
+        "url": "https://mp.weixin.qq.com/s/KRiMF2UI7p4_Iw-1zIpKYw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260518-20260524)",
+        "url": "https://mp.weixin.qq.com/s/o25SNu3ZMUfrNhmt4kv-gw",
+        "source": "Doonsec",
+        "date_added": "2026-05-25"
     }
 ]
