@@ -1,0 +1,260 @@
+[
+    {
+        "title": "] [警惕Underminr新型网络规避技术：CDN共享边缘的隐形漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186831&idx=1&sn=7a0ed378ca1323a830b4cfb7f28b7ae5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [趋势科技提醒注意已遭利用的 Apex One 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=1&sn=d07e28ac6d092fa30327a6c688e850a5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [【安全圈】已修复：微软 Win11 内核曝 7.8 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076871&idx=3&sn=8b7e1ab3adc698e9b50411d949be259c",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [AI安全案例分析：Prompts Become Shells —— 从提示词注入到AI Agent远程代码执行（RCE）（文末附邀请码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495083&idx=1&sn=f13abeb4a11eb21249dc9e6e46d7e6e7",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第20期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=1&sn=ac3699b4b31bce4c5b16877fd623757d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260518-20260524)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=2&sn=e60e7fcef20b977ae462ccddd14972dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [【漏洞通告】Drupal Core SQL注入漏洞(CVE-2026-9082)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [【漏洞通告】cPanel-WHM 任意文件读取漏洞(CVE-2026-29205)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=2&sn=d883b4663246394babb72bb364b34d39",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "] [AI带来的影响初现：互联网漏洞赏金大幅下降",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542986&idx=1&sn=b97ba56003ced175f3894af25166c243",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求",
+        "url": "https://mp.weixin.qq.com/s/e4607O2y1ZwcmAaBYJScHg",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求",
+        "url": "https://mp.weixin.qq.com/s/g0Ma3QYcTfuRBxLwo4ychw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "Redis 漏洞图形化利用工具",
+        "url": "https://mp.weixin.qq.com/s/i7YqLR4-8q3EhdSiqqTfPA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "Apache NuttX曝内存损坏漏洞（CVE-2025-48769）",
+        "url": "https://mp.weixin.qq.com/s/mYOck5OaLUw29JudWY4FHA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "GNU Wget2曝高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/Gt792Ha2HjmcYj6ZEOxglw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "2025年十大野外利用的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/UH-SWSyibPtbu1UxhJUAhA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "MongoBleed漏洞影响持续扩大，中美成受攻击最严重国家",
+        "url": "https://mp.weixin.qq.com/s/yZTL3I_-r9Fhtso-XK_Qig",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "全球超万台Fortinet防火墙仍受5年前MFA绕过漏洞威胁",
+        "url": "https://mp.weixin.qq.com/s/j8uaJfcblrQuFZBYUJY1mg",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "About一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具",
+        "url": "https://mp.weixin.qq.com/s/7xkYSY-GcbPv2l1QS4mtBQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "深度分析MangoBleed(CVE-2025-14847)附利用工具",
+        "url": "https://mp.weixin.qq.com/s/Tl9xu9lWIEPEeQ3KrigFHw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙”",
+        "url": "https://mp.weixin.qq.com/s/aveuqep0zo9hawdBAQHvVQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "一次JAVA代码审计经典的鉴权绕过审计",
+        "url": "https://mp.weixin.qq.com/s/5W_905j2ABdXcyPCXZNd-A",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "常态化漏洞挖掘演习活动",
+        "url": "https://mp.weixin.qq.com/s/DEnxyJQsc9ymJDq4MA5X3w",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "实战机会难得，在校师生均可参战——常态化漏洞挖掘演习（2026.1.4-2026.5.30）",
+        "url": "https://mp.weixin.qq.com/s/zpnghPzPonNtBvLa9oNC_Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库",
+        "url": "https://mp.weixin.qq.com/s/vj-RjyoEQw6TEO7yKUxZVw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "CVE-2020-3331复现与分析",
+        "url": "https://mp.weixin.qq.com/s/00kVbAmAV6NRg05nHpb19A",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "漏洞挖掘｜多个海外SRC产商2FA绕过实战",
+        "url": "https://mp.weixin.qq.com/s/v45H9Cad1darbQzMb4RU8Q",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播",
+        "url": "https://mp.weixin.qq.com/s/VXIGFjbMs9YcIrPJLforXw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "全球首例！AI智能体自主发现满级评分RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/rZZpG01efrqpD00WwutVJA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "漏洞挖掘｜多个海外SRC产商2FA绕过实战",
+        "url": "https://mp.weixin.qq.com/s/cCPRWXx2UcrcQhrScZ2ZUw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞",
+        "url": "https://mp.weixin.qq.com/s/jZro7jverYgKLtOE6ocOZQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "漏洞与补丁管理｜安全运维的基础防线",
+        "url": "https://mp.weixin.qq.com/s/3edLG7d6FTvicqfZPR4R7w",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/z8bYfdG3XZQwZgJOhkPerw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用",
+        "url": "https://mp.weixin.qq.com/s/jsRwecy0R7tPPMCMcPLXMA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "【渗透测试】Burp Suite Professional 2025.12.2",
+        "url": "https://mp.weixin.qq.com/s/dNUWr3ttJvEGAEU4ORfZVg",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "Fastadmin框架任意文件读取漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/O5LRog33jhcuj-OY1uLbzw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "天地伟业Easy7漏洞-浅析",
+        "url": "https://mp.weixin.qq.com/s/lghOmAXOPZJtWEFhWtWSNQ",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "威胁分子操纵大语言模型实现漏洞利用自动化",
+        "url": "https://mp.weixin.qq.com/s/PbaKQWNFdhKeXnsfWcWSMA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档",
+        "url": "https://mp.weixin.qq.com/s/sURiFV-Fmua1b-7WqQ-mWA",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "基于汽车领域 TARA 的有效漏洞优先级排序",
+        "url": "https://mp.weixin.qq.com/s/1swWIukYF1Hdbo-CSst7Tw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "Hikvision综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/8JS9bteh6oEQrSFvt0uR0g",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "高级Shellcode加载器——高级红队渗透测试与安全研究工具",
+        "url": "https://mp.weixin.qq.com/s/gH2XWXqD5VC_l5wscRxYMg",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "IBM API Connect高危漏洞可使攻击者绕过身份验证",
+        "url": "https://mp.weixin.qq.com/s/Gm1UiD2N6DqGS0TTtfRomg",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    },
+    {
+        "title": "Apache StreamPipes曝高危漏洞：攻击者可夺取管理员控制权限",
+        "url": "https://mp.weixin.qq.com/s/d0vSDbnRrU938VURdLc5lw",
+        "source": "Doonsec",
+        "date_added": "2026-05-26"
+    }
+]
