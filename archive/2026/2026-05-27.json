@@ -1,0 +1,50 @@
+[
+    {
+        "title": "] [AI 助手类应用通用安全漏洞：间接提示注入可窃取企业敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [【已复现】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞(CVE-2026-9256)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=1&sn=c4ae2804d3056bb81d6bd96100f12d9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [【已复现】LiteLLM 权限提升漏洞(CVE-2026-47101)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=2&sn=f28e0c902b82e300d95f799ba1a7bebe",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.5.18-2026.5.24",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503797&idx=1&sn=e8e58bddc7e1e53b3b290ce7f6c161f4",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [Mythos 宇宙漫游指南：当 AI 开始帮你修漏洞，你才发现代码有多烂",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518891&idx=1&sn=30210c8d46e7f04405496429c99ff321",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第20期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501694&idx=1&sn=35afc2518a89d16100bc36091ceb392f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    },
+    {
+        "title": "] [7-Zip 多个新漏洞可导致任意代码执行和系统受陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-27"
+    }
+]
