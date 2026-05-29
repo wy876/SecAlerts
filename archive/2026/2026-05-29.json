@@ -1,0 +1,38 @@
+[
+    {
+        "title": "] [【已复现】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506035&idx=1&sn=444122b3c72f3107dc00512bcab53a62",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    },
+    {
+        "title": "] [2026年上半年全球常规被利用漏洞全景分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516011&idx=2&sn=98612c24ec1be4d53ba785c37d1332f3",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    },
+    {
+        "title": "] [【安全圈】Gitea 漏洞无需身份验证即可暴露私有容器镜像",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076993&idx=3&sn=36b9169ea87d92b89d36eae6b3f2528e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    },
+    {
+        "title": "] [别只盯漏洞！开源软件已是关键基础设施，企业必须重新审视风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141476&idx=1&sn=c286b17576292779c7e4f92d0757d743",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    },
+    {
+        "title": "] [AI安全不止一条路：海外热议360漏洞挖掘智能体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586067&idx=1&sn=524608965c10b006f474e2f5d48e8d46",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    },
+    {
+        "title": "] [立即更新！Notepad++ 高危漏洞曝光，可直接执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615842&idx=2&sn=ddbb5a83b03f8d6a6589d2251d0218f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-29"
+    }
+]
