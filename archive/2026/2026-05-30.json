@@ -1,0 +1,44 @@
+[
+    {
+        "title": "] [【已复现】Linux Kernel CIFSwitch 本地权限提升漏洞(QVD-2026-29453)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506048&idx=1&sn=33a96fd147d2fe736053b1799d65b73f",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [不用漏扫也能查漏洞！罩妖镜+玄猫，三大场景解决用户真痛点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543027&idx=2&sn=3e5df934d89825439620b89cc5ba6a8b",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [Anthropic 发布 Opus 4.8，动态工作流强化复杂任务安全管控；CNNVD 发布最新漏洞周报：WordPress 漏洞居首，AI 安全风险凸显| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141487&idx=2&sn=aab3f1735e81caacc42ec8cd678d002d",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [【安全圈】黑客利用 FortiClient EMS 漏洞推送信息窃取恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077025&idx=3&sn=65c045cad2521dcbcb76ffeb9fd9520e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [【PoC 已公开】Linux Kernel CIFSwitch 提权漏洞，本地用户可直取 root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497614&idx=1&sn=17725f77d54ae7fbd07e62e47c7e2d65",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [【漏洞通告】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=1&sn=920a12a67e69e462696d3314cb9a660e",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel CIFSwitch 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=2&sn=e75184eb190a0a8ca4c8038630721fae",
+        "source": "BruceFeIix",
+        "date_added": "2026-05-30"
+    }
+]
