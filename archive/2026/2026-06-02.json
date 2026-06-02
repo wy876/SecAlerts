@@ -1,0 +1,56 @@
+[
+    {
+        "title": "] [【在野利用】Windows Netlogon 零点击远程代码执行漏洞(CVE-2026-41089)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [PAN-OS GlobalProtect 认证绕过漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=1&sn=64865321252297906000fede942608f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [Comet Backup 服务器严重漏洞可导致客户数据被远程泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=2&sn=58f20be37a8c71d4f0e7d16aa1e8f1b5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [【安全圈】紧急！紧急！2026年首个“核弹级”漏洞爆发！你的网站正在裸奔，请立即更新！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=2&sn=d3c366be59991023edf3faa2bbc3cdb3",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [【安全圈】警告！Palo Alto VPN重大漏洞正在被疯狂利用！你的企业内网可能已经“裸奔”！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [Liquidjs 曝 RCE 漏洞，730万月下载用户面临系统接管风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [从nginx堆溢出RCE到root提权漏洞分析与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第21期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260525-20260531)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-02"
+    }
+]
