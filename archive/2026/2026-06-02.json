@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91",
         "source": "BruceFeIix",
         "date_added": "2026-06-02"
+    },
+    {
+        "title": "孚盟云CRM Price_detail.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-Price_detail-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "【威胁情报】供应链安全警报：Red Hat Cloud Services 官方 npm 包遭 CI/CD 注入攻击",
+        "url": "https://mrxn.net/news/redhat-npm-backdoor-31.html",
+        "source": "MRXN",
+        "date_added": "2026-06-02"
+    },
+    {
+        "title": "【威胁情报】智普输入法Windows安装包疑似遭供应链投毒，数字签名异常",
+        "url": "https://mrxn.net/news/autoglm-autotyper-supply-chain-poisoning.html",
+        "source": "MRXN",
+        "date_added": "2026-06-02"
     }
 ]
