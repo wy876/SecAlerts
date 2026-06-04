@@ -4,5 +4,59 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Ajax-AjaxProductList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [TP-Link：速修复这个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=1&sn=d0ae405e9794aaabe6f66ce780e5f88c",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [XCharge C6电动汽车充电桩存在多个严重漏洞，可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [4天内两波入侵：PAN-OS GlobalProtect认证绕过漏洞（CVE-2026-0257）利用攻击剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518995&idx=1&sn=018d3db3d1595052798589b766ad7d70",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [高危 HTTP/2 炸弹漏洞突袭！5大主流服务器全中招，家用宽带就能打崩站点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616117&idx=2&sn=f55100b6a7b4ad1a3ec77d31a47927dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [【已复现】Redis Lua 脚本远程代码执行漏洞(CVE-2026-23631)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [【安全圈】惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077214&idx=2&sn=fa5625366eefc6914680bb5245603722",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [AI时代，攻防先行——2026北京网络安全大会（BCS）开幕 ；CNNVD 发布 2026 第八期 AI 漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141521&idx=2&sn=e2b4b2aae8d3a993eb7af1bf0986335a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [Anthropic“玻璃翼计划”的50多家合作伙伴已发现约1万个关键/高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543080&idx=1&sn=98de9948cffe3e8c1cfaa0f2caffa048",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
+    },
+    {
+        "title": "] [漏洞预警 | Apache ActiveMQ Jolokia 远程代码执行漏洞（CVE-2026-42588）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-04"
     }
 ]
