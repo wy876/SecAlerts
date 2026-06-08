@@ -16,5 +16,35 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6",
         "source": "BruceFeIix",
         "date_added": "2026-06-08"
+    },
+    {
+        "title": "登录框漏洞checklist（二）",
+        "url": "https://mp.weixin.qq.com/s/pQ_H9-Qbyl4eYosYgt8ygw",
+        "source": "Doonsec",
+        "date_added": "2026-06-08"
+    },
+    {
+        "title": "登录框漏洞checklist（一）",
+        "url": "https://mp.weixin.qq.com/s/gB0xw_DrfNOI9jf-CgIx7A",
+        "source": "Doonsec",
+        "date_added": "2026-06-08"
+    },
+    {
+        "title": "我用 Claude Code 造了一个代码审计 Skill，它在 20 万行项目中找到了 63 个漏洞",
+        "url": "https://mp.weixin.qq.com/s/yTPehTfk1ufv3RXq6gh1mA",
+        "source": "Doonsec",
+        "date_added": "2026-06-08"
+    },
+    {
+        "title": "一次内网渗透拿下多台设备",
+        "url": "https://mp.weixin.qq.com/s/Jbq4o6Nu3VwwJZ9W-TyaVQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-08"
+    },
+    {
+        "title": "好靶场存在逻辑漏洞-导致评论区消失且用户无法评论",
+        "url": "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA",
+        "source": "Doonsec",
+        "date_added": "2026-06-08"
     }
 ]
