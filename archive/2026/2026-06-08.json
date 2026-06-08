@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA",
         "source": "Doonsec",
         "date_added": "2026-06-08"
+    },
+    {
+        "title": "CVE-2026-8054 高危前台无需认证 SQL 注入漏洞（Pre-auth SQL Injection）分析复现",
+        "url": "https://mrxn.net/jswz/dotcms-api-auditPublishing-pre-auth-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-06-08"
     }
 ]
