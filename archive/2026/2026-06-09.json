@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s/0x0JVrzHPLQgusWrZACx4w",
         "source": "Doonsec",
         "date_added": "2026-06-09"
+    },
+    {
+        "title": "孚盟云CRM ProviderList.aspx SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/fumacrm-Dingding-Provider-ProviderList-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-06-09"
     }
 ]
