@@ -100,5 +100,47 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Provider-ProviderList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [CISA：SolarWinds Serv-U 高危漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [CNNVD | 重要安全漏洞通报（2026年第三期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [【安全圈】关键 Everest Forms Pro 漏洞被利用，可接管 WordPress 网站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [Agentic AI赋能的 ARM Metis 系统，推动软件安全漏洞检测技术升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第22期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260601-20260607)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-09"
     }
 ]
