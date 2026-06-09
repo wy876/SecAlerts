@@ -1,0 +1,98 @@
+[
+    {
+        "title": "0128.CVE-2025-68613 — n8n 工作流自动化平台中的已认证远程代码执行 (RCE) 漏洞",
+        "url": "https://mp.weixin.qq.com/s/jeGUP4XOg6ROx_tnGz9Ikg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "吃瓜！麒麟版w*ch*t RCE？？",
+        "url": "https://mp.weixin.qq.com/s/ClS6y2n8CKaR4C0HkUMo9w",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【已复现】微信linux最新版RCE",
+        "url": "https://mp.weixin.qq.com/s/e1g_KQBU5iOFgRbyg1C94w",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【实战首秀】AI 驱动的渗透测试：从“零基础”到“全控制”的实操报告",
+        "url": "https://mp.weixin.qq.com/s/1utF4bvI9NAsg_N9JstUxQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "smartbixa0token回调获取登录凭证漏洞",
+        "url": "https://mp.weixin.qq.com/s/CFVx_yQjr4x4oWzR_DLdmQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【已复现】微信 Linux 版 1-Click 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/HcHuxvYb1sZjFNJNAfyLtA",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "某安全厂商DLL侧载漏洞",
+        "url": "https://mp.weixin.qq.com/s/637OW107MRrxMXAJ43RLNg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【靶场限免】【WeCh*t同款】文件上传导致的RCE",
+        "url": "https://mp.weixin.qq.com/s/e-6rnzIMkEGA5wB8VmW_vw",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "微信 linux最新版 1click RCE 已复现",
+        "url": "https://mp.weixin.qq.com/s/frG_iQeMOZsBeqalAwlN8A",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "Wechat for Linux 最新RCE漏洞成功复现",
+        "url": "https://mp.weixin.qq.com/s/aJbx0LDLyVkg6K3Hyhllsg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "Web渗透测试必备书籍TOP 10",
+        "url": "https://mp.weixin.qq.com/s/-h1uxIFTtuuT6dZxunXdmg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "OAuth常见漏洞总结",
+        "url": "https://mp.weixin.qq.com/s/f9k9wCW4OErapjDdTMstOg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【SRC实战】SSRF漏洞挖掘实战",
+        "url": "https://mp.weixin.qq.com/s/8w-sh6WbCYVyeePnLq_Mng",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "2025开源渗透工具TOP10：实战派必备，附命令模板+避坑指南",
+        "url": "https://mp.weixin.qq.com/s/2yk3ZNTEcNyB__nvK_Qyxg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "【神器合集】漏洞挖掘效率狂飙！15款BurpSuite必装插件+工具链，告别无效扫扫扫！",
+        "url": "https://mp.weixin.qq.com/s/RbAP7-w9hbVcWGgGLzqCRg",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    },
+    {
+        "title": "短信验证码高危漏洞案例，不容错过！",
+        "url": "https://mp.weixin.qq.com/s/0x0JVrzHPLQgusWrZACx4w",
+        "source": "Doonsec",
+        "date_added": "2026-06-09"
+    }
+]
