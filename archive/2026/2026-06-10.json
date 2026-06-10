@@ -4,5 +4,83 @@
         "url": "https://mrxn.net/jswz/fumacrm-Dingding-Product-ProductDetail-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [Qilin勒索软件利用Check Point VPN 0day漏洞（CVE-2026-50751）武器化攻击：跨厂商VPN已成突破口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519053&idx=1&sn=7ff9f3cb3a7f056e23b11ec73b99c628",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.6.02-2024.6.07",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503835&idx=1&sn=25ee46b4e8794894bdecda4830fc2865",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [【AI复盘】AI Agent发现FFmpeg 21个0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487578&idx=1&sn=0bade105cbef9238dc73108a076b85e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [【在野利用】Google Chrome V8 越界读写漏洞(CVE-2026-11645)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506174&idx=1&sn=651a9f3d7f013ffce2a192909c3c6cc6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [一个字符引起的 Linux Kernel 漏洞可导致本地 root 访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=1&sn=942ddc523d8dc55a98e7c1dd469ec6c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [谷歌紧急修复今年以来的第5个 Chrome 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=2&sn=68e8292c0af96d6449b41e76e900ebba",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [【安全圈】Google 修复 2026 年第 5 个已遭利用的 Chrome 零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=2&sn=4bb85f6cd2431ba75617f1d8cbfcf05d",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [【安全圈】Gogs 修复导致远程代码执行的严重零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [5月必修漏洞清单：Dirty Frag、ChromaToast等8大高危，务必速查",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497729&idx=1&sn=fc16ade24a0b3a04dab1b977331f0497",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [【漏洞通告】Google Chrome V8 越界读写漏洞(CVE-2026-11645)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525890&idx=1&sn=d975402cc61c1dc6621effdc2840e123",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第22期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501738&idx=1&sn=987bb1e15f4c1586d4d6554df8f3b9ee",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [从POC到EXP：从0基础到v8 CVE-2021-38003复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=1&sn=11eb9317495fc02fe2d1a4d60fb692db",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
+    },
+    {
+        "title": "] [单字符Linux内核漏洞：普通用户直取宿主root，攻击代码已疯传",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=3&sn=b4e838270729d81162080e1f5192743e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-10"
     }
 ]
