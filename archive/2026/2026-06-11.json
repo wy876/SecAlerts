@@ -4,5 +4,59 @@
         "url": "https://mrxn.net/jswz/bigant-admin-dept-user_expire_post-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [微软六月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526255&idx=1&sn=b5c19c4120582e72f64c7e7a6e4c4ae4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [Veeam 新漏洞导致Backup 服务器易受 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526255&idx=2&sn=e65c7331cf40704380d18555dad266f7",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [微软6月补丁日多个产品安全漏洞风险通告：35个紧急漏洞、11个重要漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506194&idx=1&sn=c32f37ae2f3ba862b46c3a5db2c72946",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [【安全圈】Instagram 再曝严重安全漏洞：扎克伯格、姆巴佩等身份信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077328&idx=2&sn=7249ec24c28a5c743bdaa486b737ba93",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [CNNVD | 关于Google Chrome安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263429&idx=2&sn=25d527a40d4c123d239cdf2876d16b92",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [应用AI对ActiveMQ补丁深度审计后，又挖出两个新高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497730&idx=1&sn=e2ebde5c4e706cd621031db1a3b7d792",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [2026-06微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534485&idx=1&sn=2eb977e6e73afacbf1fc0dfad6ff8d1a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [独家！360漏洞挖掘智能体发现Flowise平台13个0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586157&idx=1&sn=0e8eaaa3381969e2c8c8bd7c5de06e31",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "] [横跨近半年的高通8Gen5漏洞利用时间线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485242&idx=1&sn=f04c9172f016a16174e7b9f6cca6c4b1",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-11"
     }
 ]
