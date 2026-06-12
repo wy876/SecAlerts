@@ -4,5 +4,53 @@
         "url": "https://mrxn.net/jswz/bigant-addin-Upload-uploadMultipleFile-rce.html",
         "source": "MRXN",
         "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [Mythos可数小时内把漏洞变成武器：Anthropic还是未开放使用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790051&idx=1&sn=52cfd439a009d5ae32e098a4bd6706b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [补丁空窗期告急：Anthropic公司称N日漏洞利用已进入“小时级”时代",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [FortiSandbox 严重漏洞可导致未授权命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [【安全圈】AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [【安全圈】Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [Ivanti Sentry漏洞已遭大规模在野利用，暴露网关极可能已失陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [致命组合拳：Ivanti Sentry 两个10分漏洞允许未认证拿下企业移动网关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
+    },
+    {
+        "title": "] [Mythos 对阵 360 智能体：全球 AI 漏洞挖掘分化成两大技术路线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=1&sn=6cfa7756ee3d6bacf47feae9aac9b93b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-12"
     }
 ]
