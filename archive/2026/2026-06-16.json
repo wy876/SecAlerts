@@ -4,5 +4,41 @@
         "url": "https://mrxn.net/jswz/bigant-admin-user-clearUserDevice-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第23期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=1&sn=8020ac3e84ac35d4e81f23db98d031e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260608-20260614)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=2&sn=00137171d6c664cded0154995a3b132c",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第23期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501776&idx=1&sn=9e18d5ef546f2d407a9023adc6dce79b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [战报：从海量告警到精准漏洞 雳鉴SAST AI落地实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501857&idx=1&sn=3821c8f3284a6f293249c764f1382423",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [phpBB 论坛软件修复已存在10年的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526272&idx=1&sn=f79160dd0916a71743130bac5538397f",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
+    },
+    {
+        "title": "] [攻防演练前，这679个漏洞建议先查一遍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586255&idx=1&sn=4c4868f5bc1567c1f98e57f13e69cea5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-16"
     }
 ]
