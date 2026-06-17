@@ -202,5 +202,137 @@
         "url": "https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html",
         "source": "MRXN",
         "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [Apache 近期热点漏洞分析报告（一文带你了解Apache近期所有高危漏洞）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486091&idx=1&sn=d08735fda7dc1abf2d9ebf90889af3b5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [6/17直播预约 | 手把手教你搭建IoT漏洞挖掘智能体",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616639&idx=4&sn=426f18975dd6414f064b195391cbdccb",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [思科修复已遭利用的 SD-WAN vManage 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526306&idx=1&sn=276b8774c724ae48ddfa09529366c4cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [【已复现】Splunk Enterprise 未授权文件操作漏洞(CVE-2026-20253)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506286&idx=1&sn=21b031051ce202a9df71b97127810281",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [AI网关LiteLLM遭漏洞链攻击，默认账户致全面接管风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519104&idx=1&sn=52df3a70d32c3b6abe3418a28ad8b110",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [【安全圈】开源论坛软件 phpBB 曝身份认证绕过漏洞，官方发布 3.3.17 版本更新修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077442&idx=2&sn=965601119a78e94e14f6075057cb5093",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [漏洞管理的分水岭 | 全球第一个国家级漏洞优先级强制指令BOD26-04",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543275&idx=2&sn=55d6aeb72fa7438b6e7cb5c54bca76b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [从“权重封锁”到“Harness突围”：Mythos/Fable 5事件与国产漏洞挖掘智能体的自主实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495213&idx=1&sn=4a0140b546ecff9e02b2dd640a9a8dc8",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [AI裁员潮引发连锁风险，科技行业或步入“火药桶”阶段；CNVD 第 23 期漏洞周报：高危漏洞占比过半 多款主流产品现严重漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141700&idx=2&sn=59d1b6ec6c1f2072d85cb8927dd2aa6e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [AI会扼杀漏洞赏金产业吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499564&idx=1&sn=c93da6721292878bb3562a47bc5ad788",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "] [三项荣誉！360漏洞挖掘智能体登顶华为终端安全贡献榜",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586269&idx=1&sn=69bbe8ecf24060ed8b241b827f1ed95f",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "2026上半年你需要关注的高危漏洞合集！",
+        "url": "https://mp.weixin.qq.com/s/X69jKHzCpTmMykqPkbnE0g",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "安全审计 Agent 不能只要“报漏洞”，而要证明漏洞",
+        "url": "https://mp.weixin.qq.com/s/gLNs9uh7SR1DR70_qEsc4A",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "一个CRLF注入漏洞，竟能够进行密码重置邮件的操作？",
+        "url": "https://mp.weixin.qq.com/s/JXvEPZoY0YUHeJDMIwiKOA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "EDU SRC漏洞挖掘通杀案例",
+        "url": "https://mp.weixin.qq.com/s/H6dno901WFOiBtu3A3kzHw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "OpenBSD 修复已存在27年的 PPP 协议栈认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/IpBDoYRxzuvmcayvmt_maw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "豆包任务模式=无限肉鸡？豆包提示词RCE",
+        "url": "https://mp.weixin.qq.com/s/IICgVSFIHB0ULc0sOK5Upw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "两场AI+代码审计公开直播课【闪石星曜】",
+        "url": "https://mp.weixin.qq.com/s/4fQLdMpMhtxcGDraR7E8sg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "折扣逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZLTNBASyG3jKt3hLG5iThA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "大华ICC智能物联管理平台 file_download 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/JFeDjEOQ1LSlHlL4B7N7Vw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Cisco SD-WAN 管理器又曝已遭利用漏洞：真正危险的，是管理平面被盯上了",
+        "url": "https://mp.weixin.qq.com/s/JOGwAezjHmAB0hyI7kYPsw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "东胜物流软件 YJCX.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/01hMsKyTr85ScbP-AQXiTw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
     }
 ]
