@@ -460,5 +460,11 @@
         "url": "https://mp.weixin.qq.com/s/PSwbuuwm-Z1HJ3DTVoqLPA",
         "source": "Doonsec",
         "date_added": "2026-06-17"
+    },
+    {
+        "title": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&amp;研究",
+        "url": "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
     }
 ]
