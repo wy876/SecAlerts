@@ -334,5 +334,95 @@
         "url": "https://mp.weixin.qq.com/s/01hMsKyTr85ScbP-AQXiTw",
         "source": "Doonsec",
         "date_added": "2026-06-17"
+    },
+    {
+        "title": "Yakit与Claude全链路AI渗透",
+        "url": "https://mp.weixin.qq.com/s/ey4Q7YhMNcPKKt3EEMYndw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "百亿Token消耗｜AI渗透的实践与思考",
+        "url": "https://mp.weixin.qq.com/s/RwL7vmWhb8r090n0FV182g",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 发布警报，称 Oracle PeopleSoft 漏洞已被勒索软件组织利用",
+        "url": "https://mp.weixin.qq.com/s/FWZmcFiKSRmFRrqNfWatlg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "攻击者正利用FortiSandbox三大漏洞发起攻击，未认证即可获取root权限",
+        "url": "https://mp.weixin.qq.com/s/Y7x2um1kBIPiLAPD75Y_Cw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Kernel 新漏洞曝光！多款主流 Linux 发行版存在 Root 本地提权风险",
+        "url": "https://mp.weixin.qq.com/s/rd9AN4jERTTy7Gok01YGZQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "直播预约｜2026 火山引擎 Force 数据智能论坛 全新升级+核心能力抢先看",
+        "url": "https://mp.weixin.qq.com/s/zYfBVcxPBsiTW0kW3i1p-Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "NVIDIA NeMo曝安全漏洞，系统面临命令注入攻击风险",
+        "url": "https://mp.weixin.qq.com/s/wgnYYjGmHUnkJcV7IEafvA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Google紧急发布Chrome安全更新，修复可致任意代码执行的关键漏洞",
+        "url": "https://mp.weixin.qq.com/s/kxS_P0elGBsZtXYGnf4qKQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（1.0版）",
+        "url": "https://mp.weixin.qq.com/s/dz8Flgs4YnTj78ZFC3PgWQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "渗透 · 实战挑战赛|官方WP",
+        "url": "https://mp.weixin.qq.com/s/tvfueMVwT8NZG9szcI2SgA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【实战派推荐】提升渗透效率的2款工具",
+        "url": "https://mp.weixin.qq.com/s/H52VrT4dIzM7rU-SFE3qPA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "一键即破防：M365 Copilot \\\"SearchLeak\\\" 漏洞链全解析（CVE-2026-42824）",
+        "url": "https://mp.weixin.qq.com/s/lfF4dYWFoKIjl9ayOWBxVA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
+        "url": "https://mp.weixin.qq.com/s/1F_VKdktObwmbE8hlinRrA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
+        "url": "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "CNNVD | 新一批OpenClaw多个安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/l2bYHN6IOwbh9PqP_q7Afg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
     }
 ]
