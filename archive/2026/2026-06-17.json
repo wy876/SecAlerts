@@ -1,0 +1,206 @@
+[
+    {
+        "title": "AI渗透测试 -- JWT签名算法置空攻击：一个\\\"none\\\"绕过所有验证",
+        "url": "https://mp.weixin.qq.com/s/WZuior1jlA-5CgADcNSxxQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "MongoDB服务器漏洞浪潮冲击文档数据库",
+        "url": "https://mp.weixin.qq.com/s/iX69qfSFg_bfhMawoEigvw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "红队自动化企业敏感信息泄露搜集快速修复漏洞点",
+        "url": "https://mp.weixin.qq.com/s/bE-oEjyn7ClTTNVPeol5bw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "9.8分！Oracle被黑客打穿，这波免密RCE实战复盘你必须看",
+        "url": "https://mp.weixin.qq.com/s/DoVlmVsTTbEaHV6R66o86w",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "从8小时到30分钟：这个AI渗透Agent把SRC刷榜效率提升了16倍",
+        "url": "https://mp.weixin.qq.com/s/6r25jHX24T4_O4piH4dndg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "一图读懂《2025年漏洞趋势分析报告》",
+        "url": "https://mp.weixin.qq.com/s/fZAvg0yrYkK4_-4RjepM9w",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "漏洞预警 | Samba远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OcaZ66Ej9Te8hc6GpDGLdw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/hvqG9qGXuHmpyM9Hc6uI3A",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "LiteLLM漏洞链：低权限用户即可接管AI网关服务器",
+        "url": "https://mp.weixin.qq.com/s/GDj-DDcJ-rGcECRBI_9CPQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "微软365 Copilot致命漏洞：点击一次链接即可窃取企业数据",
+        "url": "https://mp.weixin.qq.com/s/5H7HMBSY-ZM5DKyjOq-ljA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "最新版Shiro反序列化漏洞综合利用工具 ShiroAttack2 v5.1.1 | 功能依旧强大！",
+        "url": "https://mp.weixin.qq.com/s/wq-qDuh26GjuvkTai8PJdg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Binary Jiu-Jitsu：一个用道带系统学二进制漏洞利用的神奇网站",
+        "url": "https://mp.weixin.qq.com/s/bG3ew5OVTzWmbj8LY9S5UA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "红队后渗透管理平台，深度集成 LLM 智能 Agent，175 款内置工具自动化侦察提权，支持多模型、流量伪装与团队协同",
+        "url": "https://mp.weixin.qq.com/s/vBboM5075sgX9B89fmYKMw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【高危漏洞预警】Oracle PeopleSoft 零日漏洞CVE-2026-35273",
+        "url": "https://mp.weixin.qq.com/s/UBDrk6z-pRWVwmMN7hCuBQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "某2026最新去水印小程序文件上传漏洞组合拳",
+        "url": "https://mp.weixin.qq.com/s/ie-qH_iMvOmkWYFAEVQdSw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "ThrottleStop.sys 驱动漏洞（CVE-2025-7771）：BYOVD 技术实现 Windows Ring 0 权限提升",
+        "url": "https://mp.weixin.qq.com/s/lS-ugJSUlHDxQ5-vv2EXaw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "LiteSpeed cPanel 插件零日漏洞已被恶意利用",
+        "url": "https://mp.weixin.qq.com/s/ysOd9B5hIOZZU4xMoZ0Cpw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Cisco SD-WAN vManage 漏洞遭零日攻击利用",
+        "url": "https://mp.weixin.qq.com/s/whSHR1tk7HAiRhYDLK7zbg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "三项荣誉！360漏洞挖掘智能体登顶华为终端安全贡献榜",
+        "url": "https://mp.weixin.qq.com/s/bmQ0Q8-WFGZOQEmzHXhBEg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "别再混淆了！MySQL 恶意服务器读文件与 JDBC 反序列化漏洞全解析",
+        "url": "https://mp.weixin.qq.com/s/YZqOV6X5l-RJw28T564VpA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "LiteLLM漏洞链可致AI网关遭接管，泄露所有密钥与数据",
+        "url": "https://mp.weixin.qq.com/s/5P5budjZGK-CwFf3xXZ9Mg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "思科SD-WAN vManage漏洞遭0Day攻击，可提权至root",
+        "url": "https://mp.weixin.qq.com/s/QgsEnMqTLCsBy8RhX4Z84Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "6/17直播预约 | 手把手教你搭建IoT漏洞挖掘智能体",
+        "url": "https://mp.weixin.qq.com/s/ZeYgY-t6ofjYWvb9meP90Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "AI赋能挖掘&amp;&amp;某edusrc小程序任意用户登录漏洞",
+        "url": "https://mp.weixin.qq.com/s/7hzVtugy9T03RtVG8Qdazw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "Apache Tomcat 集群通信组件反序列化漏洞（CVE-2026-34486）复现与分析",
+        "url": "https://mp.weixin.qq.com/s/ZNDsVVtmzPIEPlVCJVz8hQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "DDDD-DL 1.0.3 来了新增大量 POC+未授权可探测协议+智能备份扫描",
+        "url": "https://mp.weixin.qq.com/s/gFApPeA_4rYnqqktlQ2wvg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【复现】哪吒监控Nezha未授权路径穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s/V9MtyGWIEkclSwAYea5jFA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "DDDD-DL 1.0.3 来了新增大量 POC+未授权可探测协议+智能备份扫描",
+        "url": "https://mp.weixin.qq.com/s/TFMjuSr2XQq_P1hQkWZbZg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【安全圈】开源论坛软件 phpBB 曝身份认证绕过漏洞，官方发布 3.3.17 版本更新修复",
+        "url": "https://mp.weixin.qq.com/s/P5fxyAGIWFAGqNnIDdGylw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第七节开放预约",
+        "url": "https://mp.weixin.qq.com/s/n5Vg3nl8u9lJysEzU8d_vw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "MeshCentral漏洞挖掘手记：从XSS到远程控制，AI助攻的全过程",
+        "url": "https://mp.weixin.qq.com/s/zPCL1H4-35gJiQKLtP9Tqw",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "思科修复已遭利用的 SD-WAN vManage 漏洞",
+        "url": "https://mp.weixin.qq.com/s/5zfDixz-pKEI1aWkryjN5g",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Splunk Enterprise未授权文件操作漏洞(CVE-2026-20253)",
+        "url": "https://mp.weixin.qq.com/s/pRAB6rOUwQah18zWvpeQHg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-06-17"
+    }
+]
