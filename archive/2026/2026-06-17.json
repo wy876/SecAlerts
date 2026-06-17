@@ -424,5 +424,41 @@
         "url": "https://mp.weixin.qq.com/s/l2bYHN6IOwbh9PqP_q7Afg",
         "source": "Doonsec",
         "date_added": "2026-06-17"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel net_sched act_pedit本地提权漏洞(CVE-2026-46331)",
+        "url": "https://mp.weixin.qq.com/s/RUMEdzHbmk5uAOIkBqQ0LQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "我用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/JYUMtjUJlhjnOHhjA0URAQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "【已复现】Linux Kernel net/sched act_pedit 本地权限提升漏洞(CVE-2026-46331)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/sOwonojWvAkFVxdpa9UZsA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/r_n49od3-Ts09Fcn0m6Geg",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "我用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/olHCQtG-TdKbjESZyf9rOA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
+    },
+    {
+        "title": "我用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/PSwbuuwm-Z1HJ3DTVoqLPA",
+        "source": "Doonsec",
+        "date_added": "2026-06-17"
     }
 ]
