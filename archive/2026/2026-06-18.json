@@ -166,5 +166,23 @@
         "url": "https://mp.weixin.qq.com/s/ht5k_JpCyHE7DWZsXmXYwg",
         "source": "Doonsec",
         "date_added": "2026-06-18"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第九期）",
+        "url": "https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第九期）",
+        "url": "https://mp.weixin.qq.com/s/tj099pgcLF3C9rKU7bqOqQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "存在漏洞的 PackageKit 使攻击者能够获得 root 权限",
+        "url": "https://mp.weixin.qq.com/s/8DRJdSmNRz_1Rn-VxF8jqQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
     }
 ]
