@@ -4,5 +4,167 @@
         "url": "https://mrxn.net/jswz/bigant-admin-Upload-upload-rce.html",
         "source": "MRXN",
         "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.6.08-2026.6.14",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503842&idx=1&sn=dafc4e8c43a6f3bdfac78e41531a6a39",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516111&idx=2&sn=84279cb2acb155ff13913e2e95b07dd3",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [OpenBSD 修复已存在27年的 PPP 协议栈认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526319&idx=2&sn=dd48e102a2751f99b4ea33b644ef79a5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [【安全圈】紧急预警！哪吒监控面板曝 9.1 分高危漏洞，仅需 2 次请求即可免密接管！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077453&idx=1&sn=dcf088b926d0cc3dd13df3ed9b648787",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [【安全圈】Google Vertex AI SDK 漏洞允许攻击者通过存储桶抢占劫持模型上传",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077453&idx=3&sn=8609933c2ae9419836b855460349c8ce",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [直播预约｜2026 火山引擎 Force 数据智能论坛 全新升级+核心能力抢先看",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520428&idx=2&sn=ba831c615e816966bbfde36d7fe936a2",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [2026攻防演练必修高危漏洞集合（1.0版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495460&idx=1&sn=046839cdcab38da2de665b0a4e4cd972",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [2026上半年你需要关注的高危漏洞合集！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506323&idx=1&sn=0b3116c8fb5209e97f3a493c18175675",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525926&idx=1&sn=e45c9ee8a56851cca66b2a7e8cb55a92",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "] [折扣逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499570&idx=1&sn=845974de723dbcd86e8358ada0bbc851",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "【高危漏洞预警】Linux Kernel net/sched act_pedit本地权限提升漏洞CVE-2026-46331",
+        "url": "https://mp.weixin.qq.com/s/Cag8qF35yy-xVpshAfeW6A",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "FIFA世界杯流媒体后台被曝高危漏洞：公开注册账号即可访问核心直播配置",
+        "url": "https://mp.weixin.qq.com/s/C-g4nMzVf2INSkT6BpJJhA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "某大模型 rce 瓜",
+        "url": "https://mp.weixin.qq.com/s/MrJiLWZVvHsNWK7KrXHOTA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "AI赋能黑盒渗透测试实践",
+        "url": "https://mp.weixin.qq.com/s/VLT_BBuFf5gj_00ecpjl_Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "智跃人力资源管理系统 zyconfig.txt 敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/nJbwF30J-YMO10SOGBgZFw",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "Jinja2 SSTI 漏洞扫描器 -- ssti-scanner",
+        "url": "https://mp.weixin.qq.com/s/1YfCjSq_uRz2eMBiQHq4Aw",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "AI渗透测试 -- 从 SSRF 读取密钥到权限提升的完整链路",
+        "url": "https://mp.weixin.qq.com/s/5TtBJ9tCB06fSeIgFmBvNA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "别光查漏洞，换个思路，用 PHP 扩展留后门",
+        "url": "https://mp.weixin.qq.com/s/Hex9ZslEKqdJJ8OBX0IwbQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Linux Kernel net/sched act_pedit 本地权限提升漏洞(CVE-2026-46331)",
+        "url": "https://mp.weixin.qq.com/s/Qfro7jebi3jp4hdO3mm74A",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "Zyxel 修复 GS1900 交换机中的栈缓冲区溢出漏洞（CVE-2026-7273）",
+        "url": "https://mp.weixin.qq.com/s/uQ28M_q4MzfmqSF9J0XcAA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "Anthropic海外管制关不上AI造漏洞“魔盒”，人人都需要“零日雷达”",
+        "url": "https://mp.weixin.qq.com/s/2Ok5UY11i2mLv1PA9xaE4g",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "微软确认存在 RoguePlanet Defender 零日漏洞，称修复补丁正在开发中",
+        "url": "https://mp.weixin.qq.com/s/EtfYkJP6a_I7PIou7JBz5g",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "DragonForce 潜伏在微软 Teams 内部，长达两个月无人察觉",
+        "url": "https://mp.weixin.qq.com/s/cI8hITdDNsIsXC8Zx4H-9g",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "【漏洞解析】CVE-2026-0257：PAN-OS 身份认证绕过，附最新 IoC 与排查指南",
+        "url": "https://mp.weixin.qq.com/s/YgGx-09myu2b4vQnuG_WSA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "一个恶意网页如何攻陷 Burp Suite？5000 美元高危漏洞深度分析",
+        "url": "https://mp.weixin.qq.com/s/DDHJQeoLmRxc84VGcznyoA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "SSRF漏洞点",
+        "url": "https://mp.weixin.qq.com/s/caITBmrfVxpWE3G_GjfNpA",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
+    },
+    {
+        "title": "【内网渗透】红日三靶场",
+        "url": "https://mp.weixin.qq.com/s/ht5k_JpCyHE7DWZsXmXYwg",
+        "source": "Doonsec",
+        "date_added": "2026-06-18"
     }
 ]
