@@ -100,5 +100,71 @@
         "url": "https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q",
         "source": "Doonsec",
         "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187085&idx=1&sn=dfebfb0d691ba51a7ecdf6f8cb8e5d79",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [原创漏洞 | NGINX堆缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508753&idx=1&sn=b5ee55949e117ad9e73d583f957368c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790099&idx=1&sn=17ef8b65a5934d609189271357051b6a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [发新一个寄快递“漏洞”！运费直接省50%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486107&idx=1&sn=aa97bfadad24a0e9a4cbda697cef52e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [无需交互即可提权至SYSTEM！微软承认Defender曝“RoguePlanet”高危零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616781&idx=2&sn=cdffb0e31362c473f09b0712e981f34c",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [CISA 要求联邦机构在本周五前修复Joomla 插件满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=1&sn=42e983016d623f7d964bffc4b9b3466e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [Fortra 访问管理器漏洞可导致远程命令注入攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077470&idx=2&sn=e1fb1a4e832121ae7a088023cf1bf5f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [从“零日漏洞”到国家级封禁：Fable 5与Mythos 5下架背后的AI安全权力博弈",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141720&idx=1&sn=eb04f766392c97e2ef29ef5c95fabd70",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497782&idx=1&sn=26de363234b141e682c1fc30321013a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel net/sched act_pedit 权限提升漏洞(CVE-2026-46331)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525944&idx=1&sn=0068a85063edf376b9e29d4bdf0baf00",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-19"
     }
 ]
