@@ -1,0 +1,104 @@
+[
+    {
+        "title": "从源代码到漏洞清单，全程零人工干预-未来已来",
+        "url": "https://mp.weixin.qq.com/s/z1yssac_jL8kNwx3uSzSCw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "中危变高危，赏金翻3倍：我用AI改写漏洞报告的话术模板全公开",
+        "url": "https://mp.weixin.qq.com/s/EX0iX63qfAkdEzvyQ-ta7g",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "红队内网渗透利器，告别原版特征暴露（支持免杀）内网扫描爆破后渗透一站式落地",
+        "url": "https://mp.weixin.qq.com/s/gyBWw8vcr6HyHLWa2CWKGw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "天地伟业Easy7 queryDataByTypeEx接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具",
+        "url": "https://mp.weixin.qq.com/s/X9xlliFeMxd90MnrNmZvrg",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "伯克利上线「AI漏洞发现排行榜」，这家中国实验室冲到第一？",
+        "url": "https://mp.weixin.qq.com/s/yhVN8zvrlS75Jeypo6m4ow",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "【成功复现】Gitea未授权信息泄露漏洞(CVE-2026-27771)",
+        "url": "https://mp.weixin.qq.com/s/I6ZE9r1ClwI2_CQvVYE5mA",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "CipherBridge ——面向APP/Web 加解密逆向分析、渗透测试神器",
+        "url": "https://mp.weixin.qq.com/s/SZ22dKTCwK25OZFZ64vDxw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "逻辑漏洞之登录模块18种利用方法",
+        "url": "https://mp.weixin.qq.com/s/0ScVykFvzJnw9Y9WkjQXcQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "【AI渗透工具】——AI驱动的MCP网络安全自动化平台（HexStrike AI ）",
+        "url": "https://mp.weixin.qq.com/s/gsAV2nSq5QSpPh1yPyYylQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令",
+        "url": "https://mp.weixin.qq.com/s/H8kFhVqIZi_zq-XyVi4rbw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露",
+        "url": "https://mp.weixin.qq.com/s/1NCfwykzgi0z8KRbFDNM4A",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "2026年漏洞预测：AI推动CVE数量激增至6.6万",
+        "url": "https://mp.weixin.qq.com/s/Hgfm7oDEFsFjLfU-XDdLBg",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "高危Chrome漏洞可导致攻击者执行任意代码，无需点击即可中招",
+        "url": "https://mp.weixin.qq.com/s/fIKUI1cihccTAAZabrv-Pw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "【论文速读】| 守护代码理解：检测代码语言模型中的自然后门漏洞",
+        "url": "https://mp.weixin.qq.com/s/H-Z2RAieW4DN7Pt183bkig",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "安全热点周报：Oracle 缓解了 PeopleSoft 零日漏洞在数据窃取攻击中的利用",
+        "url": "https://mp.weixin.qq.com/s/CibPYDSRuZfV1GQRo4kClw",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    },
+    {
+        "title": "【漏洞预警】大华智慧园区综合管理平台未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-19"
+    }
+]
