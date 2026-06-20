@@ -4,5 +4,143 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7",
         "source": "BruceFeIix",
         "date_added": "2026-06-20"
+    },
+    {
+        "title": "BurpSuite MCP 结合AI客户端，实现自动化网站渗透，让 AI 替你挖洞",
+        "url": "https://mp.weixin.qq.com/s/GdNEEkuj0FxAeJu-hL9BMA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "WordPress关键插件漏洞或致100万个网站遭文件删除攻击",
+        "url": "https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复",
+        "url": "https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "SSL/TLS 密码套件漏洞分析以及修复方法",
+        "url": "https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "AI 安全 skills —— 自动化渗透 AI 应用系统",
+        "url": "https://mp.weixin.qq.com/s/qx3nlvUerv_mR-LZEjlEcA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "渗透测试实战中url跳转漏洞",
+        "url": "https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相",
+        "url": "https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪",
+        "url": "https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "CVE-2026-42530 NGINX 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "【代码审计】URLDNS链",
+        "url": "https://mp.weixin.qq.com/s/rItnutpXV9OVK_FOQmwozQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "CVE-2026-31635 | Linux内核RxGK\\\"DirtyCBC\\\"本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测",
+        "url": "https://mp.weixin.qq.com/s/E8IAGlM4NCZgIOKTruIQBg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331)",
+        "url": "https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测",
+        "url": "https://mp.weixin.qq.com/s/dzax7Fxzzi44_NSsOZ0U4w",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套",
+        "url": "https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "[安全工具]JsonExp — Fastjson/Jackson 反序列化漏洞自动化检测利器",
+        "url": "https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践",
+        "url": "https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "SkyLine v4 —— AI 驱动的自主渗透测试系统",
+        "url": "https://mp.weixin.qq.com/s/9Im7dLAeSkfXrHdiHg3mEA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "hackerone之5000刀的高危burp漏洞",
+        "url": "https://mp.weixin.qq.com/s/IcSxIInZjTP0pYCm8CWrqw",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "CVE复现 | CVE-2026-42588漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/A6kIw7wyw7pDzCedBwSHNA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "Splunk AI Toolkit漏洞可导致任意操作系统命令执行攻击",
+        "url": "https://mp.weixin.qq.com/s/ano7NXK9lidWQBXr5K1npg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "Apache HTTP/2炸弹漏洞PoC公开，可远程耗尽服务器内存",
+        "url": "https://mp.weixin.qq.com/s/k69TSuXmztYYJ1COvkBu-A",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
     }
 ]
