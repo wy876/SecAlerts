@@ -142,5 +142,59 @@
         "url": "https://mp.weixin.qq.com/s/k69TSuXmztYYJ1COvkBu-A",
         "source": "Doonsec",
         "date_added": "2026-06-20"
+    },
+    {
+        "title": "世界杯运营系统严重漏洞 黑客可全面接管世界杯转播",
+        "url": "https://mp.weixin.qq.com/s/yJBm6c2Juu9tK9Rapro8xw",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "信息安全漏洞周报【第079期】",
+        "url": "https://mp.weixin.qq.com/s/sInx4poFY9pet1C_6gB-hw",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "Nginx 又被爆出严重漏洞！",
+        "url": "https://mp.weixin.qq.com/s/GNYDcnCqqdO7b4kqNa2v4Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "CVE-2026-41940 cPanel/WHM 认证绕过漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/C4TMWcOt5mGUlTdJgkZ9KQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "记录某系统实战内网K8S渗透",
+        "url": "https://mp.weixin.qq.com/s/w7s0ykJHvDb7byrTZQ-bHg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "【$1,600】Shopify帮助中心AI助手XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/3n1C0DY4YE60MQVIzH2tbg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "【代码审计】JNDI注入+Servlet内存马",
+        "url": "https://mp.weixin.qq.com/s/kKScRd0gyXwhy8RFX8LXLQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "Fscan 魔改版 — 内网渗透扫描工具",
+        "url": "https://mp.weixin.qq.com/s/iskZI0PtFPqR8Rxhy7z-lg",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
+    },
+    {
+        "title": "【智能工具】渗透神器Kali搭载Claude Code实践",
+        "url": "https://mp.weixin.qq.com/s/u1k5I2klrkdldPxI9FlCVA",
+        "source": "Doonsec",
+        "date_added": "2026-06-20"
     }
 ]
