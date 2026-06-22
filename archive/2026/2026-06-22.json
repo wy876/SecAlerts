@@ -136,5 +136,29 @@
         "url": "https://mp.weixin.qq.com/s/p6ofAy0btEooWr8G17HTSA",
         "source": "Doonsec",
         "date_added": "2026-06-22"
+    },
+    {
+        "title": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
+        "url": "https://mp.weixin.qq.com/s/hsFCML3EoECqFgnhSighNw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "【高危漏洞预警】FreeBSD KTLS本地权限提升漏洞(CVE-2026-45257)",
+        "url": "https://mp.weixin.qq.com/s/Ao7jqzuTB3iUZG-ZHTfBbQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "豆包的xss漏洞复现(蹭热点版)",
+        "url": "https://mp.weixin.qq.com/s/hKnSpfWIod-hnG4DQFm4lg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "NGINX Open Source 中存在两个可导致RCE的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/negrW-wvlejIt_LpjfKtkA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
     }
 ]
