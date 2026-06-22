@@ -94,5 +94,47 @@
         "url": "https://mp.weixin.qq.com/s/0QQblyiZW8bTqP7tJP1YYw",
         "source": "Doonsec",
         "date_added": "2026-06-22"
+    },
+    {
+        "title": "] [usbliter8：苹果 A12/A13 BootROM 硬件漏洞的完整利用路径",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187115&idx=1&sn=7f5c9068ae5957b1cd79e9ece8c47195",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "edu某大学的小程序和学生信息系统漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/6o6W_hlnMN9QmOs1-NcvHw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "本周漏洞速递｜11个高危漏洞预警+漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/cqn_J1oFpsJD6NzG6Id2QA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "phpMyFAQ 权限漏洞提醒：后台账号不是“可信内网”，权限变更也要审计",
+        "url": "https://mp.weixin.qq.com/s/keT_CAUl4KZw22uhBWviGA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "漏洞复现 | 东胜物流管理软件 UserInfo.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/_oSYWilp7b4_fn1C5bN8YA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "AI渗透测试 -- 一道“弱口令爆破”题的解题记录：别忽略 Cookie 里的提示",
+        "url": "https://mp.weixin.qq.com/s/4GhfLFEzXzW31KFTNjHstw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "TongWeb反序列化漏洞场景的图形化检测与利用工具",
+        "url": "https://mp.weixin.qq.com/s/p6ofAy0btEooWr8G17HTSA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
     }
 ]
