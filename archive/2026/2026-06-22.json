@@ -1,0 +1,98 @@
+[
+    {
+        "title": "FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动",
+        "url": "https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "代码执行+模型被盗！盘点谷歌云Vertex AI存储桶抢注Bug的底层前沿姿势",
+        "url": "https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "给 AI 渗透助手装上\\\"安全带\\\"——不锁油门，只锁刹车 | AI Agent 在渗透测试场景下既能放手测试，又不会脱库、删库、留后门",
+        "url": "https://mp.weixin.qq.com/s/WKCtc0FtPeEd6eOF1Cvmzg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "[安全周报] $1000 挖出 21 个 0day + 11.6 亿次撞库破 8.6 万台防火墙——2026 年漏洞的\\\"发现\\\"和\\\"利用\\\"，同周进入量产",
+        "url": "https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "别一条条看了！我把Burp流量全喂给AI，自动标出越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/18n9iv7uMZ40-WkW63-SnA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "usbliter8：苹果 A12/A13 BootROM 硬件漏洞的完整利用路径",
+        "url": "https://mp.weixin.qq.com/s/FgJfXm5qaBIkTtycQ2qBUw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "某2026最新去水印小程序文件上传漏洞组合拳",
+        "url": "https://mp.weixin.qq.com/s/NvJ2CrtzY178xBil_FEyZA",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "CVE-2026-48907｜Joomla JCE编辑器扩展未授权远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/k8XNVtK4eAqIGCMe_FtkLg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "CVE-2026-20253｜Splunk Enterprise PostgreSQL Sidecar未授权远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/MqklPO57H1Ff302leFQWSg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "每周PDF资源：Yakit与Claude全链路AI渗透；潜伏三年的云秘钥收割机",
+        "url": "https://mp.weixin.qq.com/s/UHbj8Erl-4dzmKjKoVATXQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "[渗透测试] 一次从XSS到任意文件读取",
+        "url": "https://mp.weixin.qq.com/s/pelAJT8k9pZIzqwdOTZYFw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "CVE-2026-54665：Apache NiFi 中的预认证主机头注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/VmOFXqZWZWC8fHdI7gRsVw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "某APP的一次渗透",
+        "url": "https://mp.weixin.qq.com/s/HbWgYqxDhHAZRrFaA1WpJw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "[漏洞]CVE-2025-2304：Camaleon CMS 大规模赋值漏洞导致权限提升",
+        "url": "https://mp.weixin.qq.com/s/ZFYqdHDc0lfVX7UiTy2kFg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/TtZZ1Syu4yNeVb41FITaKg",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    },
+    {
+        "title": "一个 2375 端口，30 秒拿下整台宿主机——Docker 渗透实战全流程",
+        "url": "https://mp.weixin.qq.com/s/0QQblyiZW8bTqP7tJP1YYw",
+        "source": "Doonsec",
+        "date_added": "2026-06-22"
+    }
+]
