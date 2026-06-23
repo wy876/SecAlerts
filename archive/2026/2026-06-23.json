@@ -1,0 +1,92 @@
+[
+    {
+        "title": "AI驱动Active Directory渗透测试",
+        "url": "https://mp.weixin.qq.com/s/sli-gJ6KjXm0LJTEuH_nFg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "SameSite Cookie绕过 + Web缓存欺骗：一次价值2000美元的漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/voxwOeVo9jTr0iFktBiYgg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "AnyDesk 预授权零点击远程代码执行【视频】",
+        "url": "https://mp.weixin.qq.com/s/8mmWv42TrdMvX3WaDGo1wA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "edu某大学的小程序和学生信息系统漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/zxXqrsEwwSWOXeONVgaC9w",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "安全预警！Fortinet连爆三大9.1分漏洞，黑客竟用AI写Exp？",
+        "url": "https://mp.weixin.qq.com/s/_qURHgV3v7L1E4H6D10NBQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "赏金猎人手记：CORS不是漏洞，缝歪了才是",
+        "url": "https://mp.weixin.qq.com/s/tmEoOcngfWr3NfxzAtAvKA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "漏洞预警 | Google Chrome越界读写漏洞",
+        "url": "https://mp.weixin.qq.com/s/JTyNHL3837hd-bvW9Ccuyg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "漏洞预警 | 孚盟云SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/nlzZCOD1U5oqeBn0orw6eA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "OpenCode CNVD 多 Agent 插件 | 用于授权场景下的 CNVD 漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/WeopQ-C4xbJpXNLFr4Au-w",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "【漏洞速递】Nginx Proxy Manager远程代码执行漏洞（CVE-2026-40519）",
+        "url": "https://mp.weixin.qq.com/s/O1-5j_SbUpLEH3iN79pSzg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "CVE-2026-42824：Copilot SearchLeak 漏洞，AI 化身数据窃密内鬼｜Damian 攻防实验室实测",
+        "url": "https://mp.weixin.qq.com/s/2t1Oe78DmA-7jYED-wdORg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "AIScan多Agent分布式协同扫描，兼顾常规漏洞扫描与AI智能分析，自动复盘校验结果，全方位覆盖红队安全评估场景",
+        "url": "https://mp.weixin.qq.com/s/o4DAgKKx0jbaUuvhflOYgg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "LiteLLM存在远程命令执行漏洞CVE-2026-42271 附POC",
+        "url": "https://mp.weixin.qq.com/s/hvYkolfT2yWRd9a77HdV6g",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Cloudflare 如何搭建 AI 漏洞发现流水线",
+        "url": "https://mp.weixin.qq.com/s/9Brj5DXFKOcOfWmFajbwdg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "行之:我的大模型黑盒RCE挖掘之路",
+        "url": "https://mp.weixin.qq.com/s/whv4LzJTiJt-i2zHzdG8Eg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    }
+]
