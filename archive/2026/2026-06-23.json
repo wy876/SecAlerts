@@ -88,5 +88,83 @@
         "url": "https://mp.weixin.qq.com/s/whv4LzJTiJt-i2zHzdG8Eg",
         "source": "Doonsec",
         "date_added": "2026-06-23"
+    },
+    {
+        "title": "] [NGINX Open Source 中存在两个可导致RCE的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526334&idx=1&sn=e353058df9e3673f97b4cec3ed0de092",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "] [【已复现】FreeBSD KTLS 本地权限提升漏洞(CVE-2026-45257)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506369&idx=1&sn=f3e34e1a2ecddc21e1dc2066270eb1cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "] [$7,000高危漏洞披露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499586&idx=1&sn=6e282e57f4d714c86ea88b9c2d337840",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第24期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497044&idx=1&sn=119e670ee5cdceeda5e2f9cd8c1660b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260615-20260621)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497044&idx=2&sn=9e47bc978f20d00c66818029c9f39bde",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "CTF比赛入门第九期：Linux文件包含与路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/CIGuvMCrJYU4qN_lAHU2UQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "【已复现】漏洞通告 | FreeBSD KTLS 本地权限提升漏洞(CVE-2026-45257)",
+        "url": "https://mp.weixin.qq.com/s/Eg2fox1RnCcTs8MwCJj3OQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "高危预警！Exchange零日漏洞 CVE-2026-42897，深入解析其漏洞原理、入侵路径、应急处置指南，企业务必自查",
+        "url": "https://mp.weixin.qq.com/s/zrSAKXqB1RThAVQLwOm34A",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
+        "url": "https://mp.weixin.qq.com/s/U8RQR5jxvXw4eFupcliKvA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第24期",
+        "url": "https://mp.weixin.qq.com/s/Q2YsA-jY99BLaZ-4f9pYqw",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Firefox 的 CVE-2026-8971 漏洞",
+        "url": "https://mp.weixin.qq.com/s/-RRX7QoggR3Jw1lCZk3XWA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "QNAP修补QuMagie漏洞，防止私人媒体文件泄露",
+        "url": "https://mp.weixin.qq.com/s/QhoCqvWt4Ylg2bQsCkR_5g",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "usbliter8：针对苹果 A12、A13 芯片设备推出无法修复的 BootROM 漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/Nr8aUB2yPVxu4ymnHwAqLg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
     }
 ]
