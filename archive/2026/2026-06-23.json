@@ -166,5 +166,77 @@
         "url": "https://mp.weixin.qq.com/s/Nr8aUB2yPVxu4ymnHwAqLg",
         "source": "Doonsec",
         "date_added": "2026-06-23"
+    },
+    {
+        "title": "AI 安全三大核心赛道：赋能攻防、内生漏洞、自主系统失控风险详解",
+        "url": "https://mp.weixin.qq.com/s/J92xTltFF_-WjjE_kDy9jg",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "H5渗透实战：从复数金额漏洞到签名绕过",
+        "url": "https://mp.weixin.qq.com/s/wXvrIb9uJhHC7NRmucG9Cw",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "对某根域的一次渗透测试",
+        "url": "https://mp.weixin.qq.com/s/SiskzGbPfbOzhH3zmILmNA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "渗透攻击超强汇总！（非常详细）",
+        "url": "https://mp.weixin.qq.com/s/4DYqjvP20NtqKK5KuddltQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Groundsource：来自公开的全球洪水事件数据集",
+        "url": "https://mp.weixin.qq.com/s/z79RMurKCSyQAIC0ouPKkA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约",
+        "url": "https://mp.weixin.qq.com/s/powo7Rvy0JX8IQevZ3O1dQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Joomla! 多个扩展存在未授权RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现",
+        "url": "https://mp.weixin.qq.com/s/WmcKqoAe_SHdKu5cL7h6rQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金",
+        "url": "https://mp.weixin.qq.com/s/24CpFv66uSmVpZU-Kht9Nw",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "14个开源项目、11个零权限RCE——这个AI审计系统开放公开挑战了",
+        "url": "https://mp.weixin.qq.com/s/KwAlhq-n4QE8RvF8i1n7gA",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "14 个开源项目、11 个零权限 RCE——这个 AI 审计系统开放公开挑战了",
+        "url": "https://mp.weixin.qq.com/s/NAcZiXCM5XaktsoMzwaYpw",
+        "source": "Doonsec",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "LiteLLM v1.84.0 安全漏洞完整分析报告",
+        "url": "https://mrxn.net/jswz/1475.html",
+        "source": "MRXN",
+        "date_added": "2026-06-23"
     }
 ]
