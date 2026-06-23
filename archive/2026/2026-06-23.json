@@ -238,5 +238,23 @@
         "url": "https://mrxn.net/jswz/1475.html",
         "source": "MRXN",
         "date_added": "2026-06-23"
+    },
+    {
+        "title": "FOFA Leak Search：基于 Tauri 2 的跨平台 FOFA 搜索工具",
+        "url": "https://mrxn.net/jswz/fofa_leak_search.html",
+        "source": "MRXN",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "Nuclei Template Creator：AI 驱动的 Nuclei 模板创建skills",
+        "url": "https://mrxn.net/jswz/nuclei-template-creator.html",
+        "source": "MRXN",
+        "date_added": "2026-06-23"
+    },
+    {
+        "title": "LiteLLM v1.84.0 安全漏洞完整分析报告",
+        "url": "https://mrxn.net/jswz/LiteLLM_v1840_security_analysis.html",
+        "source": "MRXN",
+        "date_added": "2026-06-23"
     }
 ]
