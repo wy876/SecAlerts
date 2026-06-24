@@ -82,5 +82,53 @@
         "url": "https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg",
         "source": "Doonsec",
         "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [新型网络钓鱼攻击利用 Outlook 和 Microsoft 365 群组功能攻击用户",
+        "url": "https://mp.weixin.qq.com/s/nnVcDapOcMD32s6AN-3wKg",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=1&sn=207133ea8154315db4af728cf84cf2e5",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=2&sn=347d85dad46151e681d50e79e8824f61",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [潜伏29年！Squidbleed 漏洞曝光，明文账号 Cookie 直接泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616819&idx=3&sn=5ef5283583b302e88636f5228fd3b47b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.6.15-2026.6.21",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503850&idx=1&sn=c9fd18a3b1fda1ae9a6865401506f92d",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [【安全圈】苹果手机出了个\"绝症漏洞\"：修不了、防不住，影响上亿部设备！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077535&idx=2&sn=ff2c18d1d3b61c782dd25fb2418b897c",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第24期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501801&idx=1&sn=acf5f19f6f595e722444ab2c2bec59a4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "] [5000刀的高危burp漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499590&idx=1&sn=66ec7d040f86ce65103b1c0a5d39a1af",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-24"
     }
 ]
