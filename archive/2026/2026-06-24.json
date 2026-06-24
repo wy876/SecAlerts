@@ -1,0 +1,86 @@
+[
+    {
+        "title": "AI渗透测试 -- SQL联合查询注入实战",
+        "url": "https://mp.weixin.qq.com/s/hJXjfJ3I6zOqdx28W0hwAA",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "Shannon：Keygraph 开源 AI 渗透测试框架，从源码分析到真实漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/KDPO1p04xSVJGchnSC-qAQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "用 AI 挖掘 IDA Pro 任意代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "Webmin 2.641 修复三个漏洞，其中包括一个严重的身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "三星 KNOX 内核释放后重用漏洞，数百万 Galaxy 系列手机面临风险",
+        "url": "https://mp.weixin.qq.com/s/fnrsm_ZiyNdY5RO_mSafIQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "DifyTap：四大漏洞致使超百万个 AI 应用面临安全威胁",
+        "url": "https://mp.weixin.qq.com/s/R5dOY9rgc_iDddVB1vtBHA",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "漏洞产生的五个原因",
+        "url": "https://mp.weixin.qq.com/s/wT1VgZOaLcQ0dEtwtCNytw",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "漏洞预警 | Linux kernel权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z-T84ceSUzTF9BoA697AZw",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Rk9z5dbGcsGAv1wiCpH_VA",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 / CVE-2026-48908）",
+        "url": "https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "【$5,000】Burp Suite Professional 中的RCE漏洞-PoC及视频演示",
+        "url": "https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "Claude Mythos Preview发现潜藏29年的“Squidbleed”漏洞",
+        "url": "https://mp.weixin.qq.com/s/CnDm2DWTOSZi22ez7el_qw",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "FFmpeg 严重漏洞允许攻击者利用媒体文件进行攻击",
+        "url": "https://mp.weixin.qq.com/s/NyKqP_h4lq9qkqW8gVJN0w",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "国际足联后台曝出高危漏洞，黑客可随意篡改世界杯直播",
+        "url": "https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    }
+]
