@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499590&idx=1&sn=66ec7d040f86ce65103b1c0a5d39a1af",
         "source": "BruceFeIix",
         "date_added": "2026-06-24"
+    },
+    {
+        "title": "CTF比赛入门第十期：文件上传漏洞全解",
+        "url": "https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "libssh2 CVE-2026-55200 PoC 和本地 RCE",
+        "url": "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
     }
 ]
