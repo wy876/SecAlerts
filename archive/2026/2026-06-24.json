@@ -148,5 +148,29 @@
         "url": "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A",
         "source": "Doonsec",
         "date_added": "2026-06-24"
+    },
+    {
+        "title": "关于规范 AI 辅助漏洞报告提交标准的公告",
+        "url": "https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "Anthropic 的 Mythos 模型在美国政府系统中发现漏洞",
+        "url": "https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "邮件服务器预警：Exchange 多个 SSRF 漏洞利用细节已公开",
+        "url": "https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
+    },
+    {
+        "title": "用友U8 CRM getsrvtemplate.php SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w",
+        "source": "Doonsec",
+        "date_added": "2026-06-24"
     }
 ]
