@@ -82,5 +82,71 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525956&idx=1&sn=c39c853322d0a417d4b054ed9c794974",
         "source": "BruceFeIix",
         "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [Jeecgboot SSTI老洞新招",
+        "url": "https://mp.weixin.qq.com/s/jBKXOUbDKQuQsoKVsGEW3Q",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [重磅预警｜Operation Escaneo：AI驱动跨境批量入侵，拉美政企金融大规模数据泄露",
+        "url": "https://mp.weixin.qq.com/s/gs0Maun6y1W0DLm3Xl3KDA",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [LastPass 这次不是密码库被攻破：真正该警惕的是 SaaS OAuth 供应链",
+        "url": "https://mp.weixin.qq.com/s/ND6kuxpbOAMXSLvzA_cwHQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [连夜冲上热搜第一！小米电视误发地震预警紧急致歉",
+        "url": "https://mp.weixin.qq.com/s/mIwLkeyKXlapEztI3zZHFg",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [PentestEval：基于模块化与阶段级设计的 LLM 渗透测试评测基准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495539&idx=1&sn=9060afe53252721fda9cb46a0613b55e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [当防火墙成为后门：FortiBleed如何用\"合法登录\"攻陷8.6万台企业边界",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519220&idx=1&sn=ea4698059a50bc49756135a03c3215f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [通过改变请求方法实现权限绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499596&idx=1&sn=a04c4bbc88d90bac16deacf00c5c99dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "Jeecgboot SSTI老洞新招",
+        "url": "https://mp.weixin.qq.com/s/jBKXOUbDKQuQsoKVsGEW3Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "重磅预警｜Operation Escaneo：AI驱动跨境批量入侵，拉美政企金融大规模数据泄露",
+        "url": "https://mp.weixin.qq.com/s/gs0Maun6y1W0DLm3Xl3KDA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "LastPass 这次不是密码库被攻破：真正该警惕的是 SaaS OAuth 供应链",
+        "url": "https://mp.weixin.qq.com/s/ND6kuxpbOAMXSLvzA_cwHQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "连夜冲上热搜第一！小米电视误发地震预警紧急致歉",
+        "url": "https://mp.weixin.qq.com/s/mIwLkeyKXlapEztI3zZHFg",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
     }
 ]
