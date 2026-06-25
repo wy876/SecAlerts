@@ -148,5 +148,47 @@
         "url": "https://mp.weixin.qq.com/s/mIwLkeyKXlapEztI3zZHFg",
         "source": "Doonsec",
         "date_added": "2026-06-25"
+    },
+    {
+        "title": "客户端漏洞挖掘skills",
+        "url": "https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "OpenClaw技能市场使人工智能代理面临供应链恶意软件和金融欺诈的风险",
+        "url": "https://mp.weixin.qq.com/s/oTLr6_s5kWBfoN16dVi6Dw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "Chrome 149 安全更新——修复可导致代码执行攻击的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "Jenkins综合漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约",
+        "url": "https://mp.weixin.qq.com/s/xPmomLLSLWiU0KFSk1YJ4A",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "xss利用冷门事件绕过阿里云waf",
+        "url": "https://mp.weixin.qq.com/s/Rk5UNtjDruDVGV5q_3GiMA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现",
+        "url": "https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
     }
 ]
