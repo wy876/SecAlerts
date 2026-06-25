@@ -417,13 +417,13 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             .count-badge {{ margin-left: auto; padding: 4px 12px; border-radius: 999px; background: var(--blue-soft); color: #0b5cad; font-family: 'Poppins',sans-serif; font-size: .78em; font-weight: 700; }}
             .today .count-badge {{ background: var(--blue); color: #fff; }}
             ul {{ list-style: none; display: grid; grid-template-columns: repeat(auto-fit,minmax(320px,1fr)); gap: 12px; margin: 0; padding: 0 18px 20px; }}
-            li {{ display: grid; grid-template-columns: auto minmax(0,1fr); grid-template-areas: 'idx title' 'idx source'; column-gap: 12px; row-gap: 10px; min-height: 132px; padding: 16px; border: 1px solid var(--line); border-radius: 20px; background: linear-gradient(180deg,#fff,#fbfdff); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }}
+            li {{ display: grid; grid-template-columns: auto minmax(0,1fr); grid-template-areas: 'idx title' 'idx source'; column-gap: 14px; row-gap: 12px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 20px; background: linear-gradient(180deg,#fff,#fbfdff); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }}
             li:hover {{ transform: translateY(-3px); border-color: #badcff; box-shadow: 0 16px 34px rgba(25,42,70,.10); }}
             li .idx {{ grid-area: idx; display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 14px; background: #eef4fb; color: #8a98aa; font-family: 'Poppins',sans-serif; font-size: .82em; font-weight: 700; }}
             li .article-main {{ grid-area: title; min-width: 0; }}
-            li a {{ color: #17263a; text-decoration: none; font-weight: 700; font-size: 1.02em; }}
+            li a {{ color: #0f1d2f; text-decoration: none; font-weight: 700; font-size: 1.12em; line-height: 1.55; letter-spacing: -.01em; }}
             li a:hover {{ color: var(--blue); text-decoration: underline; }}
-            li a:visited {{ color: #687789; }}
+            li a:visited {{ color: #4a5b70; }}
             .kw {{ display: inline-block; padding: 0 6px; margin: 0 1px; border-radius: 7px; font-size: .82em; font-weight: 700; vertical-align: middle; letter-spacing: .3px; }}
             .kw-cve {{ background: #fee2e2; color: #b91c1c; }} .kw-crit {{ background: #fef3c7; color: #a16207; }}
             .source-tag {{ grid-area: source; justify-self: start; display: inline-flex; align-items: center; max-width: 100%; padding: 4px 11px; border-radius: 999px; color: #fff; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .76em; font-weight: 700; line-height: 1.2; white-space: nowrap; }}
