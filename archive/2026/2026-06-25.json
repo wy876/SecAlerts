@@ -52,5 +52,35 @@
         "url": "https://mp.weixin.qq.com/s/tibalUMBJVtQ5i5nbT7dJg",
         "source": "Doonsec",
         "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [Libssh2 严重漏洞可导致攻击者执行远程代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526367&idx=1&sn=75309fe9323e5ed5c44c05f759fa40d9",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [“冬虫夏草”供应链漏洞影响数千家组织机构的代码仓库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526367&idx=2&sn=873a39cf55d45ffab906c2a6ab004056",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘（覆盖10+厂商、30+高危CVE）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616937&idx=1&sn=dca56c624bc3cea8fc248b38a91b560f",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [OpenAI升级Daybreak：网络安全重心从漏洞发现转向自动化修复：CNVD 发布上周热门漏洞：命令注入等多款软硬件漏洞需及时修复| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141764&idx=2&sn=20b4d55e40749b12b09f2c6998db979e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "] [【漏洞通告】Joomla JCE Editor 与 SP Page Builder 文件上传漏洞(CVE-2026-48907/CVE-2026-48908)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525956&idx=1&sn=c39c853322d0a417d4b054ed9c794974",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-25"
     }
 ]
