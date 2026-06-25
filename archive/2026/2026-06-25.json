@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Libssh2 严重漏洞可导致攻击者执行远程代码",
+        "url": "https://mp.weixin.qq.com/s/G9LnlaMKR93T9XGNU81hNQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "“冬虫夏草”供应链漏洞影响数千家组织机构的代码仓库",
+        "url": "https://mp.weixin.qq.com/s/PfoHqQUojOONl1M4FMe0zw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "美参议院提案评估由民企代美军实施网络渗透的可行性",
+        "url": "https://mp.weixin.qq.com/s/IKTzKf5_YvcXGUKev1Anug",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "CVE-2026-8461（PixelSmash） - 分析及复现",
+        "url": "https://mp.weixin.qq.com/s/Xqd0CHRhVqbhKYXBZwu-Sw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第25期）",
+        "url": "https://mp.weixin.qq.com/s/ElFbb2djZzUy6npR595KfA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "逻辑漏洞之注册模块",
+        "url": "https://mp.weixin.qq.com/s/LYqeuFLZr3VoeDQmHGL_PA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "LeoAI：AI 接管后渗透",
+        "url": "https://mp.weixin.qq.com/s/U3pkId8Tw_MXgq68nZDSbw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "从命令注入到凭据泄露，手把手教你复现命令行工具高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/PX8h51A5vT8nglsayj0_tw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "第15篇 全栈AI · AI 渗透测试蜂群",
+        "url": "https://mp.weixin.qq.com/s/tibalUMBJVtQ5i5nbT7dJg",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    }
+]
