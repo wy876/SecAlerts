@@ -244,5 +244,35 @@
         "url": "https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ",
         "source": "Doonsec",
         "date_added": "2026-06-25"
+    },
+    {
+        "title": "最新版Jeecgboot后台利用 | 从0写Reina之Jeecgboot-v3.9.2-后台RCE",
+        "url": "https://mp.weixin.qq.com/s/z62WmJj_6fDE0TWd_CkCig",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "思科CUCM高危漏洞PoC公开后24小时内即遭利用",
+        "url": "https://mp.weixin.qq.com/s/7x4RkvAQ7KWFkbnc9dq1Dg",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "一款完全离线的自主渗透测试智能体AIRecon",
+        "url": "https://mp.weixin.qq.com/s/CbBKTS-n1vOs751p9FHnDg",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "API配置泄露—浅析api端口配置漏洞及危害",
+        "url": "https://mp.weixin.qq.com/s/RBu_DWh-K3vU5ZBz8GN7kA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "做个 “脚本小子”—— 代码审计入门轻松篇",
+        "url": "https://mp.weixin.qq.com/s/Wmvf0K0HStPIIW30qskjrw",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
     }
 ]
