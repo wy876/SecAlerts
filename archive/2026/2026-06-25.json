@@ -232,5 +232,17 @@
         "url": "https://mp.weixin.qq.com/s/d4OV7oOmDfoZhZQPDZ8TJQ",
         "source": "Doonsec",
         "date_added": "2026-06-25"
+    },
+    {
+        "title": "记一次狗运逻辑漏洞接管前台账号",
+        "url": "https://mp.weixin.qq.com/s/G0gY7NxkyEydZmpWVQhlQA",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
+    },
+    {
+        "title": "【高危漏洞预警】Gogs git rebase参数注入远程代码执行漏洞CVE-2026-52813",
+        "url": "https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-25"
     }
 ]
