@@ -15,6 +15,31 @@ from collections import defaultdict
 ARCHIVE_DIR = 'archive'
 RECENT_DAYS = 7 # 首页显示最近N天的文章
 
+# --- 漏洞文章关键词（统一配置，全部用 re.I 忽略大小写，cve / Cve / CVE 均可命中）---
+KEYWORD_PATTERN = re.compile(
+    r'('
+    # 漏洞编号
+    r'CVE-\d+|CNVD-[\w-]+|CNNVD-[\w-]+|CNVD|CNNVD|XVE-[\w-]+|QVD-[\w-]+|GHSA-[\w-]+|'
+    # 通用
+    r'复现|漏洞|预警|通告|风险通告|安全公告|在野|0click|0day|1day|nday|POC|EXP|payload|'
+    # 远程/命令执行
+    r'RCE|远程代码执行|任意代码执行|代码执行|命令执行|命令注入|'
+    # 注入类
+    r'SQL注入|SQLi|注入|XSS|跨站|CSRF|SSRF|XXE|模板注入|SSTI|'
+    # 反序列化 / 内存马
+    r'反序列化|内存马|JNDI|fastjson|log4j|shiro|'
+    # 权限类
+    r'未授权|越权|提权|权限绕过|授权绕过|认证绕过|鉴权绕过|逻辑漏洞|'
+    # 文件类
+    r'任意文件读取|任意文件写入|任意文件上传|任意文件下载|文件上传|文件包含|文件读取|目录穿越|路径穿越|目录遍历|'
+    # 利用产物
+    r'getshell|webshell|哥斯拉|冰蝎|后门|供应链|沙箱逃逸|横向移动|'
+    # 其他
+    r'信息泄露|敏感信息|硬编码|弱口令|代码审计|渗透'
+    r')',
+    re.I
+)
+
 # --- 健壮的网络请求函数 (无变化) ---
 def robust_get(url, headers, timeout=30, retries=3, delay=5, stream=False):
     for i in range(retries + 1):
@@ -71,10 +96,9 @@ def save_daily_articles(articles, target_date):
 # --- 信息源获取函数 (无变化) ---
 def get_articles_from_picker_content(content, source_name):
     articles = []
-    keyword_pattern = r'(复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行|代码审计)'
     link_pattern = r'\[(.*?)\]\((https://mp\.weixin\.qq\.com/.*?)\)'
     for line in content.splitlines():
-        if re.search(keyword_pattern, line, re.I):
+        if KEYWORD_PATTERN.search(line):
             match = re.search(link_pattern, line)
             if match:
                 title, url = match.group(1).strip(), match.group(2).strip().rstrip(')')
@@ -107,13 +131,12 @@ def get_doonsec_articles():
     response = robust_get(rss_url, headers)
     if not response: return []
     articles = []
-    keyword_pattern = r'(复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行|代码审计|渗透)'
     try:
         response.encoding = response.apparent_encoding
         root = ET.fromstring(response.text)
         for item in root.findall('./channel/item'):
             title, link = (item.findtext('title') or '').strip(), (item.findtext('link') or '').strip()
-            if re.search(keyword_pattern, title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
+            if KEYWORD_PATTERN.search(title) and link.startswith('https://mp.weixin.qq.com/'):
                 articles.append({'title': title, 'url': link.rstrip(')'), 'source': 'Doonsec'})
         print(f"[+] 成功从 Doonsec RSS 解析到 {len(articles)} 篇文章链接。")
         return articles
@@ -137,8 +160,7 @@ def get_mrxn_articles():
 
     articles = []
     # MRXN 的文章标题质量较高，可以直接使用，无需关键词过滤，以收录更全面的内容
-    # 如果需要过滤，可以取消下面这行注释
-    # keyword_pattern = r'(复现|漏洞|CVE-\d+|CNVD-\d+|POC|EXP|RCE|代码执行|命令执行|代码审计|渗透)'
+    # 如果需要过滤，把下面 if 判断里的 True 换成 KEYWORD_PATTERN.search(title)
     try:
         response.encoding = response.apparent_encoding
         root = ET.fromstring(response.text)
@@ -147,8 +169,8 @@ def get_mrxn_articles():
             link = (item.findtext('link') or '').strip()
 
             # MRXN 的链接多样，不需要过滤微信链接，只要标题和链接存在即可
-            if title and link:
-                # if re.search(keyword_pattern, title, re.I): # 如果需要过滤，取消此行注释
+            # 如需按关键词过滤，把下面的 True 换成 KEYWORD_PATTERN.search(title)
+            if title and link and True:
                 articles.append({'title': title, 'url': link, 'source': 'MRXN'})
 
         print(f"[+] 成功从 MRXN RSS 解析到 {len(articles)} 篇文章链接。")
@@ -167,6 +189,100 @@ def get_issue_articles():
         for url in urls:
             articles.append({'title': f"来自Issue的链接-{url[:50]}...", 'url': url.rstrip(')'), 'source': 'GitHub Issue'})
     return articles
+
+# --- HTML 渲染辅助函数 ---
+import html as _html
+
+# 漏洞编号：CVE/CNVD/CNNVD/XVE/QVD/GHSA 等
+_CVE_RE = re.compile(r'(CVE-\d{4}-\d+|CNVD-[\w-]+|CNNVD-[\w-]+|XVE-[\w-]+|QVD-[\w-]+|GHSA-[\w-]+)', re.I)
+# 高危关键词
+_CRIT_RE = re.compile(
+    r'(远程代码执行|任意代码执行|代码执行|命令执行|命令注入|RCE|0day|0click|1day|nday|POC|EXP|'
+    r'反序列化|内存马|SQL注入|SQLi|SSRF|XXE|SSTI|XSS|CSRF|'
+    r'未授权|越权|提权|权限绕过|授权绕过|认证绕过|鉴权绕过|'
+    r'任意文件读取|任意文件写入|任意文件上传|任意文件下载|文件上传|文件包含|目录穿越|路径穿越|目录遍历|'
+    r'getshell|webshell|后门|供应链|沙箱逃逸|弱口令|信息泄露|代码审计|复现)',
+    re.I
+)
+
+def highlight_title(title):
+    """对标题做 HTML 转义，并高亮漏洞编号与高危关键词。"""
+    safe = _html.escape(title or '无标题')
+    safe = _CVE_RE.sub(lambda m: f'<span class="kw kw-cve">{m.group(0)}</span>', safe)
+    safe = _CRIT_RE.sub(lambda m: f'<span class="kw kw-crit">{m.group(0)}</span>', safe)
+    return safe
+
+def source_class(source):
+    """把来源名转换成 CSS class，未知来源用默认色。"""
+    key = re.sub(r'[^a-z0-9]', '', (source or '').lower())
+    known = {'doonsec', 'chainreactors', 'brucefeiix', 'mrxn', 'githubissue'}
+    return f"src-{key}" if key in known else "src-default"
+
+# 客户端实时搜索脚本（作为 format 的插入值，内部花括号无需转义）
+SEARCH_SCRIPT = """
+    <script>
+    (function () {
+        const input = document.getElementById('searchInput');
+        const info = document.getElementById('searchInfo');
+        const noResult = document.getElementById('noResult');
+        const groups = Array.from(document.querySelectorAll('.articles-container details'));
+        // 预存每条文章的纯文本（标题 + 来源），加速匹配
+        const items = [];
+        groups.forEach(function (d) {
+            d.querySelectorAll('li').forEach(function (li) {
+                const a = li.querySelector('a');
+                const tag = li.querySelector('.source-tag');
+                items.push({
+                    li: li,
+                    group: d,
+                    text: ((a ? a.textContent : '') + ' ' + (tag ? tag.textContent : '')).toLowerCase()
+                });
+            });
+        });
+        const defaultOpen = groups.map(function (d) { return d.open; });
+
+        function debounce(fn, ms) {
+            let t;
+            return function () { clearTimeout(t); t = setTimeout(fn, ms); };
+        }
+
+        function reset() {
+            items.forEach(function (it) { it.li.style.display = ''; });
+            groups.forEach(function (d, i) { d.style.display = ''; d.open = defaultOpen[i]; });
+            info.textContent = '';
+            noResult.style.display = 'none';
+        }
+
+        function run() {
+            const q = input.value.trim().toLowerCase();
+            if (!q) { reset(); return; }
+            const keywords = q.split(/\\s+/).filter(Boolean);
+            const counts = new Map();
+            let total = 0;
+            items.forEach(function (it) {
+                const hit = keywords.every(function (k) { return it.text.indexOf(k) !== -1; });
+                it.li.style.display = hit ? '' : 'none';
+                if (hit) {
+                    total++;
+                    counts.set(it.group, (counts.get(it.group) || 0) + 1);
+                }
+            });
+            groups.forEach(function (d) {
+                const c = counts.get(d) || 0;
+                d.style.display = c ? '' : 'none';
+                d.open = c > 0;
+            });
+            info.textContent = '找到 ' + total + ' 篇';
+            noResult.style.display = total ? 'none' : 'block';
+        }
+
+        input.addEventListener('input', debounce(run, 120));
+        input.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape') { input.value = ''; reset(); }
+        });
+    })();
+    </script>
+"""
 
 # --- HTML主页生成函数 (★★★ 已修改CSS为紧凑布局 ★★★) ---
 def generate_html_page(articles, output_path, page_title, nav_link_html):
@@ -266,6 +382,59 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
                 transform: translateY(-2px);
             }}
 
+            /* --- 搜索框 --- */
+            .search-box {{
+                position: sticky;
+                top: 0;
+                z-index: 20;
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 12px 0;
+                margin-bottom: 18px;
+                background: #ffffff;
+            }}
+            #searchInput {{
+                flex: 1 1 auto;
+                width: 100%;
+                padding: 12px 20px;
+                border: 2px solid #e9ecef;
+                border-radius: 25px;
+                font-family: inherit;
+                font-size: 1em;
+                color: #333;
+                outline: none;
+                box-sizing: border-box;
+                transition: border-color 0.25s ease, box-shadow 0.25s ease;
+            }}
+            #searchInput:focus {{
+                border-color: #007bff;
+                box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.12);
+            }}
+            #searchInput::placeholder {{
+                color: #adb5bd;
+            }}
+            .search-info {{
+                flex: 0 0 auto;
+                font-size: 0.85em;
+                font-weight: bold;
+                color: #1971c2;
+                white-space: nowrap;
+            }}
+            .search-no-result {{
+                text-align: center;
+                padding: 40px 0;
+                color: #adb5bd;
+                font-size: 1.05em;
+            }}
+            /* 搜索命中的关键词高亮 */
+            mark.search-hit {{
+                background: #ffe066;
+                color: #5c3c00;
+                padding: 0 2px;
+                border-radius: 3px;
+            }}
+
             /* --- 可折叠的文章分组 (卡片式) --- */
             details {{
                 border: none;
@@ -312,8 +481,28 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
                 transform: rotate(90deg);
             }}
             
+            summary h2 {{
+                display: inline;
+                margin: 0;
+                font-size: 1em;
+            }}
+            /* 当日文章数量徽标 */
+            .count-badge {{
+                margin-left: auto;
+                padding: 2px 12px;
+                border-radius: 20px;
+                background: #e7f5ff;
+                color: #1971c2;
+                font-size: 0.78em;
+                font-weight: bold;
+                font-family: 'Poppins', sans-serif;
+            }}
             .today h2 {{
                 color: #007bff;
+            }}
+            .today .count-badge {{
+                background: #007bff;
+                color: #fff;
             }}
             details[open] > summary {{
                 border-bottom: 1px solid #dee2e6;
@@ -328,7 +517,10 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             }}
 
             li {{
-                padding: 12px 15px;
+                display: flex;
+                align-items: center;
+                gap: 14px;
+                padding: 12px 16px;
                 margin-bottom: 8px;
                 border-left: 4px solid #007bff;
                 background-color: #fdfdff;
@@ -341,19 +533,76 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
                 background-color: #f8f9fa;
             }}
 
+            /* 序号圆点 */
+            li .idx {{
+                flex: 0 0 auto;
+                width: 26px;
+                height: 26px;
+                line-height: 26px;
+                text-align: center;
+                font-size: 0.8em;
+                font-weight: bold;
+                color: #adb5bd;
+                background: #f1f3f5;
+                border-radius: 50%;
+            }}
+
+            li .article-main {{
+                flex: 1 1 auto;
+                min-width: 0; /* 允许标题在 flex 内换行/省略 */
+            }}
+
             li a {{
                 text-decoration: none;
-                color: #0056b3;
+                color: #1a2b4a;
                 font-weight: bold;
-                font-size: 1em; /* 字体大小与正文一致 */
+                font-size: 1em;
+                transition: color 0.2s ease;
             }}
             li a:hover {{
+                color: #007bff;
                 text-decoration: underline;
             }}
-            
-            li .meta {{
-                margin-top: 5px;
-                display: block;
+            li a:visited {{
+                color: #6c757d;
+            }}
+
+            /* 标题中的高危关键词高亮 */
+            .kw {{
+                display: inline-block;
+                padding: 0 6px;
+                margin: 0 1px;
+                border-radius: 4px;
+                font-size: 0.82em;
+                font-weight: 700;
+                vertical-align: middle;
+                letter-spacing: 0.3px;
+            }}
+            .kw-cve  {{ background: #ffe3e3; color: #c92a2a; }}  /* CVE / 编号 */
+            .kw-crit {{ background: #fff3bf; color: #b8860b; }}  /* RCE/0day/命令执行 等 */
+
+            /* 来源标签 */
+            .source-tag {{
+                flex: 0 0 auto;
+                display: inline-block;
+                padding: 3px 12px;
+                border-radius: 20px;
+                font-size: 0.78em;
+                font-weight: bold;
+                font-family: 'Poppins', 'Noto Serif SC', sans-serif;
+                white-space: nowrap;
+                color: #fff;
+            }}
+            .src-doonsec      {{ background: #4dabf7; }}
+            .src-chainreactors{{ background: #845ef7; }}
+            .src-brucefeiix   {{ background: #20c997; }}
+            .src-mrxn         {{ background: #ff922b; }}
+            .src-github-issue {{ background: #495057; }}
+            .src-default      {{ background: #adb5bd; }}
+
+            @media (max-width: 600px) {{
+                li {{ flex-wrap: wrap; }}
+                .source-tag {{ margin-left: 40px; }}
             }}
 
             /* --- 页脚 --- */
@@ -375,14 +624,25 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             
             <div class="nav">{nav_link_html}</div>
 
+            <div class="search-box">
+                <input type="search" id="searchInput" autocomplete="off" spellcheck="false"
+                       placeholder="🔍 搜索漏洞关键字，例如 CVE-2026、RCE、Weblogic、未授权（空格分隔多关键字）">
+                <span class="search-info" id="searchInfo"></span>
+            </div>
+
             <div class="articles-container">
                 {articles_html}
+            </div>
+
+            <div class="search-no-result" id="noResult" style="display:none;">
+                没有找到匹配的文章，换个关键字试试 ~
             </div>
 
             <div class="footer">
                 <p>由 GitHub Actions 自动构建</p>
             </div>
         </div>
+        {search_script}
     </body>
     </html>
     """
@@ -392,22 +652,33 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
         open_attribute = ' open' if i == 0 else ''
         summary_class = ' class="today"' if date == today_str else ''
         
-        articles_html_parts.append(f'<details{open_attribute}>')
-        articles_html_parts.append(f'<summary{summary_class}><h2>{date}</h2></summary>')
-        
-        articles_html_parts.append('<ul>')
         day_articles = sorted(grouped_articles[date], key=lambda x: x.get('source', ''))
-        for article in day_articles:
-            link_target = article.get('url', '#')
-            articles_html_parts.append(f"""
-            <li><a href="{link_target}" target="_blank">{article.get('title', '无标题')}</a><div class="meta">来源: {article.get('source', '未知')}</div></li>
-            """)
+
+        articles_html_parts.append(f'<details{open_attribute}>')
+        articles_html_parts.append(
+            f'<summary{summary_class}><h2>{date}</h2>'
+            f'<span class="count-badge">{len(day_articles)} 篇</span></summary>'
+        )
+
+        articles_html_parts.append('<ul>')
+        for idx, article in enumerate(day_articles, 1):
+            link_target = _html.escape(article.get('url', '#'), quote=True)
+            title_html = highlight_title(article.get('title', '无标题'))
+            source = article.get('source', '未知')
+            src_cls = source_class(source)
+            articles_html_parts.append(
+                f'<li>'
+                f'<span class="idx">{idx}</span>'
+                f'<span class="article-main"><a href="{link_target}" target="_blank" rel="noopener">{title_html}</a></span>'
+                f'<span class="source-tag {src_cls}">{_html.escape(source)}</span>'
+                f'</li>'
+            )
         articles_html_parts.append('</ul>')
         articles_html_parts.append('</details>')
 
     articles_html_content = "\n".join(articles_html_parts)
     update_time_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    final_html = html_template.format(page_title=page_title, update_time=update_time_str, nav_link_html=nav_link_html, articles_html=articles_html_content)
+    final_html = html_template.format(page_title=page_title, update_time=update_time_str, nav_link_html=nav_link_html, articles_html=articles_html_content, search_script=SEARCH_SCRIPT)
     
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(final_html)
