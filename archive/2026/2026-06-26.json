@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Cisco CUCM SSRF 漏洞 PoC 公开后遭利用，可通过文件写入提权至 Root",
+        "url": "https://mp.weixin.qq.com/s/DddGHEw39sExURlFcOx9Sw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Cisco SD-WAN 0day 被利用数月：边界控制面，不能只等补丁",
+        "url": "https://mp.weixin.qq.com/s/4rLmpDaTPnegQYVkVhshOw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "curl 修了 18 个漏洞：一个“低危”mTLS 问题，为什么也值得排查",
+        "url": "https://mp.weixin.qq.com/s/rRYWzM8Q1hioHG-i7bH80A",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/QIFeJC7ddZRRnk0Gq0Pknw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "未授权到 SQL 子查询：深入分析 Tainacan REST API SQL 注入漏洞（CVE-2026-42740）",
+        "url": "https://mp.weixin.qq.com/s/CExnledO1G9sA0_jx44CtQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "CTF比赛入门第十二期：Linux基础与赛场提权入门",
+        "url": "https://mp.weixin.qq.com/s/DHJWVSD1TZlBIb31S65YFw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Chrome中的AsmJS漏洞：当WebAssembly信任的代码变得不可信",
+        "url": "https://mp.weixin.qq.com/s/bXLaDshzI1ZbQtMyv9Up-w",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "AI漏洞挖掘:Mythos 48小时挖3000零日",
+        "url": "https://mp.weixin.qq.com/s/x_Sedif_iwHRKUfCY_BWuA",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "2026浏览器插件推荐 - 漏洞挖掘篇",
+        "url": "https://mp.weixin.qq.com/s/bhpHb834XYnWoz-rdVLjfg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Apache Kvrocks 修复五个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/lY6aZKizxPASgfKwfGsy7A",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Microsoft Exchange Server 服务器端请求伪造漏洞(CVE-2026-45504)漏洞",
+        "url": "https://mp.weixin.qq.com/s/6u4dLHHFCS7lh6XwYTCsvg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "一款基于 Windows 桌面端渗透测试工具箱",
+        "url": "https://mp.weixin.qq.com/s/kjJ4dN8DkCSVzEPS0TVOcg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "curl 发布史上规模最大的 CVE 公告，修复一个存续长达 25 年的漏洞",
+        "url": "https://mp.weixin.qq.com/s/YEHgKpzekLwPqmYMQ55q5Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "解析 Mistic：勒索软件入侵活动中出现的新型隐形后门",
+        "url": "https://mp.weixin.qq.com/s/NrWdMeJBCCB241b_h312fg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "【CVE-2026-20245】Cisco SD-WAN 零日利用分析",
+        "url": "https://mp.weixin.qq.com/s/kN6Jov5sk_NcJitOLa9UeQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "上个厕所的功夫，漏洞修了？",
+        "url": "https://mp.weixin.qq.com/s/V64-jpebcR-PATm3S39NqQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "CVE-2026-45504：微软Exchange SSRF任意文件读取漏洞，PoC已公开",
+        "url": "https://mp.weixin.qq.com/s/KeOsi8UpI_82OZFB4s7l1Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "JWT漏洞利用完整指南",
+        "url": "https://mp.weixin.qq.com/s/tPN9-s1a2a9BDyMOeDx_pA",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "【已复现】Gogs 组织名称路径遍历导致 Git hooks 远程代码执行漏洞（CVE-2026-52813）",
+        "url": "https://mp.weixin.qq.com/s/wsj07rjK8uKBDrRusCnJjQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "AD 渗透中的委派攻击：从 Kerberos 到 RBCD 的完整理解",
+        "url": "https://mp.weixin.qq.com/s/HzdG1aLV92R9-GlEdVBqDw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    }
+]
