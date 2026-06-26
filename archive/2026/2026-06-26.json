@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg",
         "source": "Doonsec",
         "date_added": "2026-06-26"
+    },
+    {
+        "title": "GitHub遭遇大规模攻击，恶意软件被注入1万个受感染的代码仓库",
+        "url": "https://mp.weixin.qq.com/s/LjJTQFdONuix2jP3OFyxpw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
     }
 ]
