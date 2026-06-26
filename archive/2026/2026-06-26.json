@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA",
         "source": "Doonsec",
         "date_added": "2026-06-26"
+    },
+    {
+        "title": "GeoLocate CVE-2025-52465 - GeoServer漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
     }
 ]
