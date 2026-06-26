@@ -220,5 +220,59 @@
         "url": "https://mp.weixin.qq.com/s/pRiS_gUtCD3tLPYnuVdxwQ",
         "source": "Doonsec",
         "date_added": "2026-06-26"
+    },
+    {
+        "title": "中国87亿条、国外240亿条信息泄露，业内人士称：泄露数十亿记录正成常态",
+        "url": "https://mp.weixin.qq.com/s/K45uvStrmMg1kunDNdBt3A",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "月薪60-70K！吉利/滴滴等大厂：智驾、IoT 渗透、大模型安全急招",
+        "url": "https://mp.weixin.qq.com/s/JgizBKGVQ31SDVFO5Olszw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "1100万用户中招？Chrome热门广告拦截插件被曝暗藏“远程控制后门”",
+        "url": "https://mp.weixin.qq.com/s/PffSzJ24j1Kh39I_LpHmdw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年6月22日-2026年6月26日）",
+        "url": "https://mp.weixin.qq.com/s/Dg1QcxfykVhPNo5p3j8Mig",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "【漏洞通告】Gogs 目录遍历漏洞(CVE-2026-52813)",
+        "url": "https://mp.weixin.qq.com/s/yucaI3MZc8_WgobS1qT-cQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "渗透测试高手，解锁网安新技能",
+        "url": "https://mp.weixin.qq.com/s/An-Imx6VoeaEGZo_y4acGg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA/Hunter/Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+        "url": "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "手把手教你用 kali 进行渗透测试，含信息收集、漏洞利用、权限提升等",
+        "url": "https://mp.weixin.qq.com/s/t8uwBasBjx1E2W9VJsPMzQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "Android跨用户隔离批量漏洞挖掘与利用实践",
+        "url": "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
     }
 ]
