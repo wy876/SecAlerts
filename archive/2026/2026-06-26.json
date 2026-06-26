@@ -298,5 +298,29 @@
         "url": "https://mrxn.net/hacktools/fofa_leak_search.html",
         "source": "MRXN",
         "date_added": "2026-06-26"
+    },
+    {
+        "title": "挖洞思路｜CORS配置漏洞背后的信任陷阱，赏金猎人如何靠逻辑链破防？",
+        "url": "https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "恶意软件升级为后门平台，借助Tor网络长期潜伏",
+        "url": "https://mp.weixin.qq.com/s/pvkkZDla0z_j-KP8EkTPyg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "朝鲜APT新型macOS后门的大模型检测对抗手法",
+        "url": "https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
+    },
+    {
+        "title": "AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录",
+        "url": "https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg",
+        "source": "Doonsec",
+        "date_added": "2026-06-26"
     }
 ]
