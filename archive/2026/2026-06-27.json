@@ -46,5 +46,35 @@
         "url": "https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g",
         "source": "Doonsec",
         "date_added": "2026-06-27"
+    },
+    {
+        "title": "最新Linux的本地提权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/Q-Vxgm4rlcbUMSQcuMV9lw",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20260627）",
+        "url": "https://mp.weixin.qq.com/s/sRCmkjBZiFEPFfZOS6VfOw",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链",
+        "url": "https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "漏洞复现 | 天问物业ERP系统 docfileDownLoad.aspx 文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "web-automator-Skill 基于BU的提示词注入自动化方案",
+        "url": "https://mp.weixin.qq.com/s/gMLkP9U_Dk88z9jBreqErw",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
     }
 ]
