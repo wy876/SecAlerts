@@ -1,0 +1,50 @@
+[
+    {
+        "title": "消息模板注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "一周安全事件回顾：从数据到银行、工厂，供应链风险开始跨域传导",
+        "url": "https://mp.weixin.qq.com/s/786As2-6AC30MYrP8ADjNQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "研究员学习Hyper-V时意外挖出微软隐藏BUG：CVE-2024-21305",
+        "url": "https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "无线渗透测试：PMKID攻击详解",
+        "url": "https://mp.weixin.qq.com/s/nPCX01M-bw2HyoIaorJYcA",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "我用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZRo8c5NRLpNte0b1JaLtQg",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "不会找漏洞 试试Nuclei这款神器",
+        "url": "https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "任意文件读取&amp;下载漏洞的全面解析及利用",
+        "url": "https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "保密手机功能受限反酿安全漏洞：美特勤局人员被迫用私人手机执行保护任务",
+        "url": "https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g",
+        "source": "Doonsec",
+        "date_added": "2026-06-27"
+    }
+]
