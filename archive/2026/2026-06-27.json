@@ -76,5 +76,95 @@
         "url": "https://mp.weixin.qq.com/s/gMLkP9U_Dk88z9jBreqErw",
         "source": "Doonsec",
         "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [攻击者正在从键盘前消失：腾讯云捕获多个由Agent驱动的AI攻击案例",
+        "url": "https://mp.weixin.qq.com/s/J8PUh2o-CxssiXxIEs1OPg",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [朝鲜APT新型macOS后门的大模型检测对抗手法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187436&idx=1&sn=965d3a46f1a73fa992fbd3818c9c5665",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [Microsoft Exchange Server 服务器端请求伪造漏洞(CVE-2026-45504)漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486133&idx=1&sn=ef5d18c0757439c59d128b6f0a72dc8e",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [安全热点周报：Cisco Unified CM 漏洞补丁发布数周后遭攻击者利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506445&idx=1&sn=e0591c581c111418a650ca1f9294b5f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [月薪60-70K！吉利/滴滴等大厂：智驾、IoT 渗透、大模型安全急招",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617011&idx=3&sn=0432e13f6296abb21e76b00394af23fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [1100万用户中招？Chrome热门广告拦截插件被曝暗藏“远程控制后门”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617011&idx=4&sn=ca458bb825d4a2dd4a8239e32922ad54",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [【安全圈】思科零日漏洞被潜伏两月",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077560&idx=2&sn=974f33634010c57a66f4e6023b1e159f",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [【安全圈】供应链攻击：你的数据被谁偷了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077560&idx=3&sn=46a7e4a9a0054c72126810dc91492fca",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [cURL 严重漏洞已存在25年，影响300亿台设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526397&idx=1&sn=6fcea84bb393afc9f0c716a1a05472c6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [CISA：Lantronix EDS5000 严重漏洞正遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526397&idx=2&sn=81d412b7caec3eb3575207cb16e7211b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [【火绒安全周报】国家安全部发布重要预警/柯达确认数据泄露事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534807&idx=2&sn=add5c166605059ad6ddaf0a2ccd6a3ee",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [[译苑雅集Vol. 12]高强度使用 Mythos 两个月后，Cloudflare 打造了一套不依赖单一模型的企业级漏洞发现工程系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485070&idx=1&sn=d4483a9d95a91235a17c255b383cdcbc",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [用AI挖了隐藏N年的组合拳漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499608&idx=1&sn=dbc0176bdee0182256a678e443f2aa2f",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "] [【漏洞通告】Gogs 目录遍历漏洞(CVE-2026-52813)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525993&idx=1&sn=e0f64139cc1145ddb87559c952471a0a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-27"
+    },
+    {
+        "title": "【威胁情报】BreachForums CDN 数据集（905GB）公开传播",
+        "url": "https://mrxn.net/news/breachforums-databases-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-06-27"
     }
 ]
