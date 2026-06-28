@@ -166,5 +166,29 @@
         "url": "https://mp.weixin.qq.com/s/tQiJt8S-HhO0AIWPLAv2nQ",
         "source": "Doonsec",
         "date_added": "2026-06-28"
+    },
+    {
+        "title": "【我是如何在一个电商平台上发现一个高危IDOR漏洞的】",
+        "url": "https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "下一代 Kubernetes 渗透测试平台  | CDK 容器渗透手法、AI 驱动自动化攻击链xa0和xa0SOCKS5 代理隧道 内网 K8s 集群一键安全评估",
+        "url": "https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "五月学员优秀edu漏洞挖掘案例分享",
+        "url": "https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "第19篇 全栈AI · Shannon-AI渗透测试中文增",
+        "url": "https://mp.weixin.qq.com/s/yLP9eYJBfTOKVtCth4CxxA",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
     }
 ]
