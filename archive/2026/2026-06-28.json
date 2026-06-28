@@ -52,5 +52,65 @@
         "url": "https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ",
         "source": "Doonsec",
         "date_added": "2026-06-28"
+    },
+    {
+        "title": "] [探索CVE-2026-31431的热补丁修复方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "] [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "] [最新Linux的本地提权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
+        "url": "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "【AI渗透工具】——首个专为攻击性安全打造的开源 AI 智能体",
+        "url": "https://mp.weixin.qq.com/s/w5UAduSQIdRdNp8ZHH9bVQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "自动化漏洞扫描器 -- hack_scanner",
+        "url": "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》",
+        "url": "https://mp.weixin.qq.com/s/g0ob85FYZXsaegUmsCqtRA",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！",
+        "url": "https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
     }
 ]
