@@ -1,0 +1,56 @@
+[
+    {
+        "title": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞",
+        "url": "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "小米：车联网-站在研发视角挖漏洞",
+        "url": "https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险",
+        "url": "https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳",
+        "url": "https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "探索CVE-2026-31431的热补丁修复方案",
+        "url": "https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "K8sPenTool：一款面向Kubernetes集群的综合渗透测试评估平台",
+        "url": "https://mp.weixin.qq.com/s/iEhLsvzuTH4MdTEiqn0Q3g",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "入门网安必备！6款主流开源漏洞扫描神器",
+        "url": "https://mp.weixin.qq.com/s/1-dTkVPBiySZGYrlcUhUaw",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "用 AI 自动完成渗透测试流程，从发现漏洞到利用漏洞一步到位",
+        "url": "https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    }
+]
