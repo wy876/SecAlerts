@@ -112,5 +112,17 @@
         "url": "https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A",
         "source": "Doonsec",
         "date_added": "2026-06-28"
+    },
+    {
+        "title": "记一次src特殊存储型xss的挖掘",
+        "url": "https://mp.weixin.qq.com/s/hrrDa28AwcK73xoQp542NQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "域渗透全流程学习笔记，红队必备技能一网打尽！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s/a3D3vnu_Ombr7cN8zQe8oQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
     }
 ]
