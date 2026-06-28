@@ -124,5 +124,35 @@
         "url": "https://mp.weixin.qq.com/s/a3D3vnu_Ombr7cN8zQe8oQ",
         "source": "Doonsec",
         "date_added": "2026-06-28"
+    },
+    {
+        "title": "【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析",
+        "url": "https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)",
+        "url": "https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "OAuth 2.0 身份验证漏洞--portswigger打靶",
+        "url": "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
+    },
+    {
+        "title": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹",
+        "url": "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg",
+        "source": "Doonsec",
+        "date_added": "2026-06-28"
     }
 ]
