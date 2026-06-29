@@ -1,0 +1,68 @@
+[
+    {
+        "title": "CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷",
+        "url": "https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
+        "url": "https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
+        "url": "https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "CVE-2026-48907 Scanner",
+        "url": "https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【CVE-2026-43503】DirtyClone 本地用户通过克隆数据包获得 Root 权限",
+        "url": "https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部",
+        "url": "https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "CVSS 10.0！Joomla内容编辑器JCE漏洞正被积极利用，GitHub公开扫描工具",
+        "url": "https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "周鸿祎急了：AI挖漏洞时代来了，中国必须有自己的Mythos",
+        "url": "https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "面试官：如何全面防御SQL注入？答出这8点直接录用",
+        "url": "https://mp.weixin.qq.com/s/s-pN9jztRvTmDK76Yvp4iw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "敏感信息挖掘工具 - DigDeep",
+        "url": "https://mp.weixin.qq.com/s/HmoxAsUqIzVNQN6ygAHYRQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在SQL注入漏洞 附POC",
+        "url": "https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    }
+]
