@@ -1,5 +1,17 @@
 [
     {
+        "title": "DirtyClone：六周内第四起 Linux 内核漏洞，可提权至 Root 权限",
+        "url": "https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "破解盲SSRF死局、进阶之路：利用重定向循环突破无回显限制，内网信息可直接提取",
+        "url": "https://mp.weixin.qq.com/s/gF2xPY_lNQ3R3DGYanCWiQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
         "title": "CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷",
         "url": "https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A",
         "source": "Doonsec",
@@ -63,6 +75,162 @@
         "title": "蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在SQL注入漏洞 附POC",
         "url": "https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q",
         "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "安全工具丨一款AI安全审计工具。可实现目标准备、审计、漏洞利用构建和执行验证等",
+        "url": "https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "一站式 dnslog 漏洞检测平台",
+        "url": "https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【我是如何在一个电商平台上发现一个高危IDOR漏洞的】",
+        "url": "https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "下一代 Kubernetes 渗透测试平台  | CDK 容器渗透手法、AI 驱动自动化攻击链xa0和xa0SOCKS5 代理隧道 内网 K8s 集群一键安全评估",
+        "url": "https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "五月学员优秀edu漏洞挖掘案例分享",
+        "url": "https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "第19篇 全栈AI · Shannon-AI渗透测试中文增",
+        "url": "https://mp.weixin.qq.com/s/yLP9eYJBfTOKVtCth4CxxA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "挖洞效率翻倍！32个浏览器渗透插件来了",
+        "url": "https://mp.weixin.qq.com/s/tQiJt8S-HhO0AIWPLAv2nQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【域渗透】主机权限提升",
+        "url": "https://mp.weixin.qq.com/s/sulIBhuZfaNPxAVhhB-5uQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析",
+        "url": "https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)",
+        "url": "https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "OAuth 2.0 身份验证漏洞--portswigger打靶",
+        "url": "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹",
+        "url": "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "记一次src特殊存储型xss的挖掘",
+        "url": "https://mp.weixin.qq.com/s/hrrDa28AwcK73xoQp542NQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "域渗透全流程学习笔记，红队必备技能一网打尽！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s/a3D3vnu_Ombr7cN8zQe8oQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
+        "url": "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【AI渗透工具】——首个专为攻击性安全打造的开源 AI 智能体",
+        "url": "https://mp.weixin.qq.com/s/w5UAduSQIdRdNp8ZHH9bVQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "自动化漏洞扫描器 -- hack_scanner",
+        "url": "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》",
+        "url": "https://mp.weixin.qq.com/s/g0ob85FYZXsaegUmsCqtRA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！",
+        "url": "https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞",
+        "url": "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "小米：车联网-站在研发视角挖漏洞",
+        "url": "https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险",
+        "url": "https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【威胁情报】BreachForums CDN 数据集（905GB）公开传播",
+        "url": "https://mrxn.net/news/breachforums-databases-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "FOFA Leak Search：基于 Tauri 2 的跨平台 FOFA 搜索工具",
+        "url": "https://mrxn.net/hacktools/fofa_leak_search.html",
+        "source": "MRXN",
         "date_added": "2026-06-29"
     }
 ]

@@ -115,6 +115,9 @@
             .source-tag { grid-area: source; justify-self: start; display: inline-flex; align-items: center; max-width: 100%; padding: 4px 11px; border-radius: 999px; color: #fff; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .76em; font-weight: 700; line-height: 1.2; white-space: nowrap; }
             .src-doonsec { background: #4dabf7; } .src-chainreactors { background: #845ef7; } .src-brucefeiix { background: #20c997; } .src-mrxn { background: #ff922b; } .src-githubissue { background: #495057; } .src-default { background: #adb5bd; }
             .footer { margin-top: 22px; padding: 18px 0 0; color: #8795a7; text-align: center; font-size: .9em; }
+            .visitor-count { margin-top: 10px; color: #6a7a8e; font-size: .88em; }
+            .visitor-count span { display: inline; }
+            .visitor-sep { margin: 0 10px; color: #ccd7e4; }
             @media (max-width: 1100px) { .dashboard { grid-template-columns: 1fr; } .sidebar { position: static; max-height: none; } .date-nav { grid-template-columns: repeat(auto-fit,minmax(150px,1fr)); } }
             @media (max-width: 820px) { .page-shell { width: min(100% - 20px,1480px); padding-top: 12px; } .hero { grid-template-columns: 1fr; padding: 22px; } .hero-actions { align-items: flex-start; } .stat-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .search-box { top: 8px; flex-wrap: wrap; } .search-info { padding-left: 4px; } ul { grid-template-columns: 1fr; padding: 0 12px 14px; } }
             @media (max-width: 520px) { .stat-grid { grid-template-columns: 1fr; } h1 { font-size: 2.25rem; } summary { padding: 16px; } li { grid-template-columns: 1fr; grid-template-areas: 'idx' 'title' 'source'; } }
@@ -127,26 +130,23 @@
                     <div class="eyebrow">Security Intelligence Feed</div>
                     <h1>每日安全漏洞文章聚合 (最近7天)</h1>
                     <p class="hero-subtitle">按时间线聚合最新安全漏洞文章，左侧快速切换日期与来源，右侧以卡片流浏览正文链接。</p>
-                    <p class="meta">最后更新时间: 2026-06-25 15:23:54</p>
+                    <p class="meta">最后更新时间: 2026-06-29 10:01:52</p>
                 </div>
                 <div class="hero-actions"><div class="nav"><a href="archive.html">查看完整归档 &rarr;</a></div></div>
             </section>
-            <section class="stat-grid" aria-label="页面统计"><article class="stat-card"><div class="stat-label">文章总数</div><div class="stat-value">220</div><div class="stat-note">当前页面收录文章</div></article>
-<article class="stat-card"><div class="stat-label">覆盖天数</div><div class="stat-value">8</div><div class="stat-note">按 date_added 聚合</div></article>
-<article class="stat-card"><div class="stat-label">高危命中</div><div class="stat-value">81</div><div class="stat-note">标题包含 RCE/未授权/注入等</div></article>
-<article class="stat-card"><div class="stat-label">主要来源</div><div class="stat-value">Doonsec</div><div class="stat-note">163 篇</div></article></section>
+            <section class="stat-grid" aria-label="页面统计"><article class="stat-card"><div class="stat-label">文章总数</div><div class="stat-value">163</div><div class="stat-note">当前页面收录文章</div></article>
+<article class="stat-card"><div class="stat-label">覆盖天数</div><div class="stat-value">5</div><div class="stat-note">按 date_added 聚合</div></article>
+<article class="stat-card"><div class="stat-label">高危命中</div><div class="stat-value">60</div><div class="stat-note">标题包含 RCE/未授权/注入等</div></article>
+<article class="stat-card"><div class="stat-label">主要来源</div><div class="stat-value">Doonsec</div><div class="stat-note">131 篇</div></article></section>
             <section class="dashboard">
                 <aside class="sidebar" aria-label="页面导航">
-                    <div class="side-section"><h2 class="side-title">日期导航</h2><nav class="date-nav"><a class="date-link is-today" href="#day-2026-06-25"><span>2026-06-25</span><span class="date-count">25</span></a>
+                    <div class="side-section"><h2 class="side-title">日期导航</h2><nav class="date-nav"><a class="date-link is-today" href="#day-2026-06-29"><span>2026-06-29</span><span class="date-count">39</span></a>
+<a class="date-link" href="#day-2026-06-25"><span>2026-06-25</span><span class="date-count">25</span></a>
 <a class="date-link" href="#day-2026-06-24"><span>2026-06-24</span><span class="date-count">29</span></a>
 <a class="date-link" href="#day-2026-06-23"><span>2026-06-23</span><span class="date-count">43</span></a>
-<a class="date-link" href="#day-2026-06-22"><span>2026-06-22</span><span class="date-count">27</span></a>
-<a class="date-link" href="#day-2026-06-21"><span>2026-06-21</span><span class="date-count">3</span></a>
-<a class="date-link" href="#day-2026-06-20"><span>2026-06-20</span><span class="date-count">33</span></a>
-<a class="date-link" href="#day-2026-06-19"><span>2026-06-19</span><span class="date-count">28</span></a>
-<a class="date-link" href="#day-2026-06-18"><span>2026-06-18</span><span class="date-count">32</span></a></nav></div>
-                    <div class="side-section"><h2 class="side-title">来源分布</h2><div class="source-list"><div class="source-row"><span class="name"><span class="source-dot src-dot-doonsec"></span>Doonsec</span><span class="count">163</span></div>
-<div class="source-row"><span class="name"><span class="source-dot src-dot-brucefeiix"></span>BruceFeIix</span><span class="count">51</span></div>
+<a class="date-link" href="#day-2026-06-22"><span>2026-06-22</span><span class="date-count">27</span></a></nav></div>
+                    <div class="side-section"><h2 class="side-title">来源分布</h2><div class="source-list"><div class="source-row"><span class="name"><span class="source-dot src-dot-doonsec"></span>Doonsec</span><span class="count">131</span></div>
+<div class="source-row"><span class="name"><span class="source-dot src-dot-brucefeiix"></span>BruceFeIix</span><span class="count">26</span></div>
 <div class="source-row"><span class="name"><span class="source-dot src-dot-mrxn"></span>MRXN</span><span class="count">6</span></div></div></div>
                 </aside>
                 <section class="content-panel">
@@ -154,8 +154,52 @@
                         <input type="search" id="searchInput" autocomplete="off" spellcheck="false" placeholder="🔍 搜索 CVE、RCE、Weblogic、未授权；支持空格分隔多关键字">
                         <span class="search-info" id="searchInfo"></span>
                     </div>
-                    <div class="articles-container"><details id="day-2026-06-25" open>
-<summary class="today"><h2>2026-06-25</h2><span class="count-badge">25 篇</span></summary>
+                    <div class="articles-container"><details id="day-2026-06-29" open>
+<summary class="today"><h2>2026-06-29</h2><span class="count-badge">39 篇</span></summary>
+<ul>
+<li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA" target="_blank" rel="noopener">DirtyClone：六周内第四起 Linux 内核漏洞，可<span class="kw kw-crit">提权</span>至 Root 权限</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/gF2xPY_lNQ3R3DGYanCWiQ" target="_blank" rel="noopener">破解盲<span class="kw kw-crit">SSRF</span>死局、进阶之路：利用重定向循环突破无回显限制，内网信息可直接提取</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">3</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A" target="_blank" rel="noopener">CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">4</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw" target="_blank" rel="noopener">c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator <span class="kw kw-crit">代码执行</span> <span class="kw kw-crit">PoC</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">5</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ" target="_blank" rel="noopener">【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE <span class="kw kw-crit">PoC</span> 详解</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">6</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg" target="_blank" rel="noopener"><span class="kw kw-cve">CVE-2026-48907</span> Scanner</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">7</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA" target="_blank" rel="noopener">【<span class="kw kw-cve">CVE-2026-43503</span>】DirtyClone 本地用户通过克隆数据包获得 Root 权限</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">8</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg" target="_blank" rel="noopener">微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">9</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg" target="_blank" rel="noopener">CVSS 10.0！Joomla内容编辑器JCE漏洞正被积极利用，GitHub公开扫描工具</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">10</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg" target="_blank" rel="noopener">周鸿祎急了：AI挖漏洞时代来了，中国必须有自己的Mythos</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">11</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/s-pN9jztRvTmDK76Yvp4iw" target="_blank" rel="noopener">面试官：如何全面防御<span class="kw kw-crit">SQL注入</span>？答出这8点直接录用</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">12</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/HmoxAsUqIzVNQN6ygAHYRQ" target="_blank" rel="noopener">敏感信息挖掘工具 - DigDeep</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">13</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q" target="_blank" rel="noopener">蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在<span class="kw kw-crit">SQL注入</span>漏洞 附<span class="kw kw-crit">POC</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">14</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w" target="_blank" rel="noopener">安全工具丨一款AI安全审计工具。可实现目标准备、审计、漏洞利用构建和执行验证等</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">15</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA" target="_blank" rel="noopener">一站式 dnslog 漏洞检测平台</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">16</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ" target="_blank" rel="noopener">【我是如何在一个电商平台上发现一个高危IDOR漏洞的】</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">17</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg" target="_blank" rel="noopener">下一代 Kubernetes 渗透测试平台  | CDK 容器渗透手法、AI 驱动自动化攻击链xa0和xa0SOCKS5 代理隧道 内网 K8s 集群一键安全评估</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">18</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg" target="_blank" rel="noopener">五月学员优秀edu漏洞挖掘案例分享</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">19</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/yLP9eYJBfTOKVtCth4CxxA" target="_blank" rel="noopener">第19篇 全栈AI · Shannon-AI渗透测试中文增</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">20</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/tQiJt8S-HhO0AIWPLAv2nQ" target="_blank" rel="noopener">挖洞效率翻倍！32个浏览器渗透插件来了</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">21</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/sulIBhuZfaNPxAVhhB-5uQ" target="_blank" rel="noopener">【域渗透】主机权限提升</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">22</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg" target="_blank" rel="noopener">【安全圈】三星 Galaxy 手机被曝高危安全漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">23</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ" target="_blank" rel="noopener">【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">24</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ" target="_blank" rel="noopener">某34国语言综合GP交易所存在前台<span class="kw kw-crit">SQL注入</span>漏洞 (Java)</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">25</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw" target="_blank" rel="noopener">OAuth 2.0 身份验证漏洞--portswigger打靶</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">26</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg" target="_blank" rel="noopener">DirtyClone漏洞可致本地用户静默<span class="kw kw-crit">提权</span>至root，绕过监控不留痕迹</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">27</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/hrrDa28AwcK73xoQp542NQ" target="_blank" rel="noopener">记一次src特殊存储型<span class="kw kw-crit">xss</span>的挖掘</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">28</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/a3D3vnu_Ombr7cN8zQe8oQ" target="_blank" rel="noopener">域渗透全流程学习笔记，红队必备技能一网打尽！（附PDF）</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">29</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w" target="_blank" rel="noopener">打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">30</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA" target="_blank" rel="noopener">JCE 编辑＜ 2.9.99.5 — 未认证<span class="kw kw-crit">远程代码执行</span>（<span class="kw kw-cve">CVE-2026-48907</span>）扫描器</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">31</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/w5UAduSQIdRdNp8ZHH9bVQ" target="_blank" rel="noopener">【AI渗透工具】——首个专为攻击性安全打造的开源 AI 智能体</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">32</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q" target="_blank" rel="noopener">自动化漏洞扫描器 -- hack_scanner</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">33</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/g0ob85FYZXsaegUmsCqtRA" target="_blank" rel="noopener">【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">34</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A" target="_blank" rel="noopener">AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">35</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg" target="_blank" rel="noopener">漏洞<span class="kw kw-crit">复现</span> | 天融信上网行为管理系统 pc.php 接口存在<span class="kw kw-crit">xss</span>漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">36</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A" target="_blank" rel="noopener">小米：车联网-站在研发视角挖漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">37</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A" target="_blank" rel="noopener">Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
+<li><span class="idx">38</span><span class="article-main"><a href="https://mrxn.net/news/breachforums-databases-leak.html" target="_blank" rel="noopener">【威胁情报】BreachForums CDN 数据集（905GB）公开传播</a></span><span class="source-tag src-mrxn">MRXN</span></li>
+<li><span class="idx">39</span><span class="article-main"><a href="https://mrxn.net/hacktools/fofa_leak_search.html" target="_blank" rel="noopener">FOFA Leak Search：基于 Tauri 2 的跨平台 FOFA 搜索工具</a></span><span class="source-tag src-mrxn">MRXN</span></li>
+</ul>
+</details>
+<details id="day-2026-06-25">
+<summary><h2>2026-06-25</h2><span class="count-badge">25 篇</span></summary>
 <ul>
 <li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&amp;mid=2247526367&amp;idx=1&amp;sn=75309fe9323e5ed5c44c05f759fa40d9" target="_blank" rel="noopener">] [Libssh2 严重漏洞可导致攻击者执行远程代码</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
 <li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&amp;mid=2247526367&amp;idx=2&amp;sn=873a39cf55d45ffab906c2a6ab004056" target="_blank" rel="noopener">] [“冬虫夏草”<span class="kw kw-crit">供应链</span>漏洞影响数千家组织机构的代码仓库</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
@@ -297,127 +341,18 @@
 <li><span class="idx">26</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/hKnSpfWIod-hnG4DQFm4lg" target="_blank" rel="noopener">豆包的<span class="kw kw-crit">xss</span>漏洞<span class="kw kw-crit">复现</span>(蹭热点版)</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
 <li><span class="idx">27</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/negrW-wvlejIt_LpjfKtkA" target="_blank" rel="noopener">NGINX Open Sou<span class="kw kw-crit">rce</span> 中存在两个可导致<span class="kw kw-crit">RCE</span>的严重漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
 </ul>
-</details>
-<details id="day-2026-06-21">
-<summary><h2>2026-06-21</h2><span class="count-badge">3 篇</span></summary>
-<ul>
-<li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/n6k8bCXu7KRuKNw1gpoC-w" target="_blank" rel="noopener">] [5000余部短剧遭非法盗播！专业化侵权团伙3个月敛财80万，检察机关全链条打击护航文创产业</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=1&amp;sn=219d3d357722602c80071a048c05a2b7" target="_blank" rel="noopener">] [面向<span class="kw kw-crit">复现</span>的逆向工程实践：Hermes 在设备刷写、<span class="kw kw-crit">提权</span>与 Frida 魔改中的自动化能力验证</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">3</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&amp;mid=2652077497&amp;idx=1&amp;sn=78843c56369db38734d325ad4542c041" target="_blank" rel="noopener">] [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-</ul>
-</details>
-<details id="day-2026-06-20">
-<summary><h2>2026-06-20</h2><span class="count-badge">33 篇</span></summary>
-<ul>
-<li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&amp;mid=2247534616&amp;idx=3&amp;sn=95b13e491c2ed2995691a24359d8b1f7" target="_blank" rel="noopener">] [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/GdNEEkuj0FxAeJu-hL9BMA" target="_blank" rel="noopener">BurpSuite MCP 结合AI客户端，实现自动化网站渗透，让 AI 替你挖洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">3</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg" target="_blank" rel="noopener">WordPress关键插件漏洞或致100万个网站遭文件删除攻击</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">4</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA" target="_blank" rel="noopener">Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">5</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA" target="_blank" rel="noopener">新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">6</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA" target="_blank" rel="noopener">SSL/TLS 密码套件漏洞分析以及修复方法</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">7</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/qx3nlvUerv_mR-LZEjlEcA" target="_blank" rel="noopener">AI 安全 skills —— 自动化渗透 AI 应用系统</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">8</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA" target="_blank" rel="noopener">渗透测试实战中url跳转漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">9</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw" target="_blank" rel="noopener">一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">10</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA" target="_blank" rel="noopener">漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">11</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg" target="_blank" rel="noopener"><span class="kw kw-cve">CVE-2026-42530</span> NGINX <span class="kw kw-crit">远程代码执行</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">12</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/rItnutpXV9OVK_FOQmwozQ" target="_blank" rel="noopener">【<span class="kw kw-crit">代码审计</span>】URLDNS链</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">13</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ" target="_blank" rel="noopener"><span class="kw kw-cve">CVE-2026-31635</span> | Linux内核RxGK\&quot;DirtyCBC\&quot;本地权限提升漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">14</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/E8IAGlM4NCZgIOKTruIQBg" target="_blank" rel="noopener">AI 原生<span class="kw kw-crit">代码审计</span>的历史性拐点:点星的能力边界与横向对比实测</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">15</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww" target="_blank" rel="noopener">【成功<span class="kw kw-crit">复现</span>】Linux内核act_pedit本地权限提升漏洞(<span class="kw kw-cve">CVE-2026-46331</span>)</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">16</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/dzax7Fxzzi44_NSsOZ0U4w" target="_blank" rel="noopener">AI 原生<span class="kw kw-crit">代码审计</span>的历史性拐点:点星的能力边界与横向对比实测</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">17</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g" target="_blank" rel="noopener">行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">18</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg" target="_blank" rel="noopener">[安全工具]Json<span class="kw kw-crit">Exp</span> — Fastjson/Jackson <span class="kw kw-crit">反序列化</span>漏洞自动化检测利器</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">19</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w" target="_blank" rel="noopener">PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">20</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/9Im7dLAeSkfXrHdiHg3mEA" target="_blank" rel="noopener">SkyLine v4 —— AI 驱动的自主渗透测试系统</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">21</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/IcSxIInZjTP0pYCm8CWrqw" target="_blank" rel="noopener">hackerone之5000刀的高危burp漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">22</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/A6kIw7wyw7pDzCedBwSHNA" target="_blank" rel="noopener">CVE<span class="kw kw-crit">复现</span> | <span class="kw kw-cve">CVE-2026-42588</span>漏洞<span class="kw kw-crit">复现</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">23</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/ano7NXK9lidWQBXr5K1npg" target="_blank" rel="noopener">Splunk AI Toolkit漏洞可导致任意操作系统<span class="kw kw-crit">命令执行</span>攻击</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">24</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/k69TSuXmztYYJ1COvkBu-A" target="_blank" rel="noopener">Apache HTTP/2炸弹漏洞<span class="kw kw-crit">PoC</span>公开，可远程耗尽服务器内存</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">25</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/yJBm6c2Juu9tK9Rapro8xw" target="_blank" rel="noopener">世界杯运营系统严重漏洞 黑客可全面接管世界杯转播</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">26</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/sInx4poFY9pet1C_6gB-hw" target="_blank" rel="noopener">信息安全漏洞周报【第079期】</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">27</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/GNYDcnCqqdO7b4kqNa2v4Q" target="_blank" rel="noopener">Nginx 又被爆出严重漏洞！</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">28</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/C4TMWcOt5mGUlTdJgkZ9KQ" target="_blank" rel="noopener"><span class="kw kw-cve">CVE-2026-41940</span> cPanel/WHM <span class="kw kw-crit">认证绕过</span>漏洞<span class="kw kw-crit">复现</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">29</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/w7s0ykJHvDb7byrTZQ-bHg" target="_blank" rel="noopener">记录某系统实战内网K8S渗透</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">30</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/3n1C0DY4YE60MQVIzH2tbg" target="_blank" rel="noopener">【$1,600】Shopify帮助中心AI助手<span class="kw kw-crit">XSS</span>漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">31</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/kKScRd0gyXwhy8RFX8LXLQ" target="_blank" rel="noopener">【<span class="kw kw-crit">代码审计</span>】JNDI注入+Servlet<span class="kw kw-crit">内存马</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">32</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/iskZI0PtFPqR8Rxhy7z-lg" target="_blank" rel="noopener">Fscan 魔改版 — 内网渗透扫描工具</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">33</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/u1k5I2klrkdldPxI9FlCVA" target="_blank" rel="noopener">【智能工具】渗透神器Kali搭载Claude Code实践</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-</ul>
-</details>
-<details id="day-2026-06-19">
-<summary><h2>2026-06-19</h2><span class="count-badge">28 篇</span></summary>
-<ul>
-<li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&amp;mid=2451187085&amp;idx=1&amp;sn=dfebfb0d691ba51a7ecdf6f8cb8e5d79" target="_blank" rel="noopener">] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&amp;mid=2247508753&amp;idx=1&amp;sn=b5ee55949e117ad9e73d583f957368c4" target="_blank" rel="noopener">] [原创漏洞 | NGINX堆缓冲区溢出漏洞</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">3</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&amp;mid=2649790099&amp;idx=1&amp;sn=17ef8b65a5934d609189271357051b6a" target="_blank" rel="noopener">] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">4</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&amp;mid=2247486107&amp;idx=1&amp;sn=aa97bfadad24a0e9a4cbda697cef52e2" target="_blank" rel="noopener">] [发新一个寄快递“漏洞”！运费直接省50%</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">5</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=2&amp;sn=cdffb0e31362c473f09b0712e981f34c" target="_blank" rel="noopener">] [无需交互即可<span class="kw kw-crit">提权</span>至SYSTEM！微软承认Defender曝“RoguePlanet”高危零日漏洞</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">6</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&amp;mid=2247526330&amp;idx=1&amp;sn=42e983016d623f7d964bffc4b9b3466e" target="_blank" rel="noopener">] [CISA 要求联邦机构在本周五前修复Joomla 插件满分漏洞</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">7</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&amp;mid=2247526330&amp;idx=2&amp;sn=634ff7aee7d1db205f90e279a8c74f64" target="_blank" rel="noopener">] [Fortra 访问管理器漏洞可导致远程<span class="kw kw-crit">命令注入</span>攻击</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">8</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&amp;mid=2652077470&amp;idx=2&amp;sn=e1fb1a4e832121ae7a088023cf1bf5f8" target="_blank" rel="noopener">] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">9</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&amp;mid=2651141720&amp;idx=1&amp;sn=eb04f766392c97e2ef29ef5c95fabd70" target="_blank" rel="noopener">] [从“零日漏洞”到国家级封禁：Fable 5与Mythos 5下架背后的AI安全权力博弈</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">10</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&amp;mid=2247497782&amp;idx=1&amp;sn=26de363234b141e682c1fc30321013a1" target="_blank" rel="noopener">] [从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">11</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&amp;mid=2247525944&amp;idx=1&amp;sn=0068a85063edf376b9e29d4bdf0baf00" target="_blank" rel="noopener">] [【漏洞通告】Linux Kernel net/sched act_pedit 权限提升漏洞(<span class="kw kw-cve">CVE-2026-46331</span>)</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">12</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/z1yssac_jL8kNwx3uSzSCw" target="_blank" rel="noopener">从源代码到漏洞清单，全程零人工干预-未来已来</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">13</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/EX0iX63qfAkdEzvyQ-ta7g" target="_blank" rel="noopener">中危变高危，赏金翻3倍：我用AI改写漏洞报告的话术模板全公开</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">14</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/gyBWw8vcr6HyHLWa2CWKGw" target="_blank" rel="noopener">红队内网渗透利器，告别原版特征暴露（支持免杀）内网扫描爆破后渗透一站式落地</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">15</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g" target="_blank" rel="noopener">天地伟业Easy7 queryDataByTypeEx接口存在<span class="kw kw-crit">SQL注入</span>漏洞 附<span class="kw kw-crit">POC</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">16</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/X9xlliFeMxd90MnrNmZvrg" target="_blank" rel="noopener">SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">17</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/yhVN8zvrlS75Jeypo6m4ow" target="_blank" rel="noopener">伯克利上线「AI漏洞发现排行榜」，这家中国实验室冲到第一？</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">18</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/I6ZE9r1ClwI2_CQvVYE5mA" target="_blank" rel="noopener">【成功<span class="kw kw-crit">复现</span>】Gitea<span class="kw kw-crit">未授权</span><span class="kw kw-crit">信息泄露</span>漏洞(<span class="kw kw-cve">CVE-2026-27771</span>)</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">19</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/SZ22dKTCwK25OZFZ64vDxw" target="_blank" rel="noopener">CipherBridge ——面向APP/Web 加解密逆向分析、渗透测试神器</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">20</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/0ScVykFvzJnw9Y9WkjQXcQ" target="_blank" rel="noopener">逻辑漏洞之登录模块18种利用方法</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">21</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/gsAV2nSq5QSpPh1yPyYylQ" target="_blank" rel="noopener">【AI渗透工具】——AI驱动的MCP网络安全自动化平台（HexStrike AI ）</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">22</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/H8kFhVqIZi_zq-XyVi4rbw" target="_blank" rel="noopener">Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">23</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/1NCfwykzgi0z8KRbFDNM4A" target="_blank" rel="noopener">【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">24</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Hgfm7oDEFsFjLfU-XDdLBg" target="_blank" rel="noopener">2026年漏洞预测：AI推动CVE数量激增至6.6万</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">25</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/fIKUI1cihccTAAZabrv-Pw" target="_blank" rel="noopener">高危Chrome漏洞可导致攻击者执行任意代码，无需点击即可中招</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">26</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/H-Z2RAieW4DN7Pt183bkig" target="_blank" rel="noopener">【论文速读】| 守护代码理解：检测代码语言模型中的自然<span class="kw kw-crit">后门</span>漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">27</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/CibPYDSRuZfV1GQRo4kClw" target="_blank" rel="noopener">安全热点周报：Oracle 缓解了 PeopleSoft 零日漏洞在数据窃取攻击中的利用</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">28</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q" target="_blank" rel="noopener">【漏洞预警】大华智慧园区综合管理平台<span class="kw kw-crit">未授权</span>访问漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-</ul>
-</details>
-<details id="day-2026-06-18">
-<summary><h2>2026-06-18</h2><span class="count-badge">32 篇</span></summary>
-<ul>
-<li><span class="idx">1</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&amp;mid=2652503842&amp;idx=1&amp;sn=dafc4e8c43a6f3bdfac78e41531a6a39" target="_blank" rel="noopener">] [雷神众测漏洞周报2026.6.08-2026.6.14</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">2</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247516111&amp;idx=2&amp;sn=84279cb2acb155ff13913e2e95b07dd3" target="_blank" rel="noopener">] [世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">3</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&amp;mid=2247526319&amp;idx=2&amp;sn=dd48e102a2751f99b4ea33b644ef79a5" target="_blank" rel="noopener">] [OpenBSD 修复已存在27年的 PPP 协议栈<span class="kw kw-crit">认证绕过</span>漏洞</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">4</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&amp;mid=2652077453&amp;idx=1&amp;sn=dcf088b926d0cc3dd13df3ed9b648787" target="_blank" rel="noopener">] [【安全圈】紧急预警！哪吒监控面板曝 9.1 分高危漏洞，仅需 2 次请求即可免密接管！</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">5</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&amp;mid=2652077453&amp;idx=3&amp;sn=8609933c2ae9419836b855460349c8ce" target="_blank" rel="noopener">] [【安全圈】Google Vertex AI SDK 漏洞允许攻击者通过存储桶抢占劫持模型上传</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">6</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520428&amp;idx=2&amp;sn=ba831c615e816966bbfde36d7fe936a2" target="_blank" rel="noopener">] [直播预约｜2026 火山引擎 Fo<span class="kw kw-crit">rce</span> 数据智能论坛 全新升级+核心能力抢先看</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">7</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&amp;mid=2247495460&amp;idx=1&amp;sn=046839cdcab38da2de665b0a4e4cd972" target="_blank" rel="noopener">] [2026攻防演练必修高危漏洞集合（1.0版）</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">8</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&amp;mid=2247506323&amp;idx=1&amp;sn=0b3116c8fb5209e97f3a493c18175675" target="_blank" rel="noopener">] [2026上半年你需要关注的高危漏洞合集！</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">9</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&amp;mid=2247525926&amp;idx=1&amp;sn=e45c9ee8a56851cca66b2a7e8cb55a92" target="_blank" rel="noopener">] [【漏洞通告】Splunk Enterprise 预认证<span class="kw kw-crit">远程代码执行</span>漏洞(<span class="kw kw-cve">CVE-2026-20253</span>)</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">10</span><span class="article-main"><a href="https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&amp;mid=2247499570&amp;idx=1&amp;sn=845974de723dbcd86e8358ada0bbc851" target="_blank" rel="noopener">] [折扣逻辑漏洞</a></span><span class="source-tag src-brucefeiix">BruceFeIix</span></li>
-<li><span class="idx">11</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Cag8qF35yy-xVpshAfeW6A" target="_blank" rel="noopener">【高危漏洞预警】Linux Kernel net/sched act_pedit本地权限提升漏洞<span class="kw kw-cve">CVE-2026-46331</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">12</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/C-g4nMzVf2INSkT6BpJJhA" target="_blank" rel="noopener">FIFA世界杯流媒体后台被曝高危漏洞：公开注册账号即可访问核心直播配置</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">13</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/MrJiLWZVvHsNWK7KrXHOTA" target="_blank" rel="noopener">某大模型 <span class="kw kw-crit">rce</span> 瓜</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">14</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/VLT_BBuFf5gj_00ecpjl_Q" target="_blank" rel="noopener">AI赋能黑盒渗透测试实践</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">15</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/nJbwF30J-YMO10SOGBgZFw" target="_blank" rel="noopener">智跃人力资源管理系统 zyconfig.txt 敏感<span class="kw kw-crit">信息泄露</span>漏洞</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">16</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/1YfCjSq_uRz2eMBiQHq4Aw" target="_blank" rel="noopener">Jinja2 <span class="kw kw-crit">SSTI</span> 漏洞扫描器 -- <span class="kw kw-crit">ssti</span>-scanner</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">17</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/5TtBJ9tCB06fSeIgFmBvNA" target="_blank" rel="noopener">AI渗透测试 -- 从 <span class="kw kw-crit">SSRF</span> 读取密钥到权限提升的完整链路</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">18</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Hex9ZslEKqdJJ8OBX0IwbQ" target="_blank" rel="noopener">别光查漏洞，换个思路，用 PHP 扩展留<span class="kw kw-crit">后门</span></a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">19</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/Qfro7jebi3jp4hdO3mm74A" target="_blank" rel="noopener">【已<span class="kw kw-crit">复现</span>】漏洞通告 | Linux Kernel net/sched act_pedit 本地权限提升漏洞(<span class="kw kw-cve">CVE-2026-46331</span>)</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">20</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/uQ28M_q4MzfmqSF9J0XcAA" target="_blank" rel="noopener">Zyxel 修复 GS1900 交换机中的栈缓冲区溢出漏洞（<span class="kw kw-cve">CVE-2026-7273</span>）</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">21</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/2Ok5UY11i2mLv1PA9xaE4g" target="_blank" rel="noopener">Anthropic海外管制关不上AI造漏洞“魔盒”，人人都需要“零日雷达”</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">22</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/EtfYkJP6a_I7PIou7JBz5g" target="_blank" rel="noopener">微软确认存在 RoguePlanet Defender 零日漏洞，称修复补丁正在开发中</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">23</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/cI8hITdDNsIsXC8Zx4H-9g" target="_blank" rel="noopener">DragonFo<span class="kw kw-crit">rce</span> 潜伏在微软 Teams 内部，长达两个月无人察觉</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">24</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/YgGx-09myu2b4vQnuG_WSA" target="_blank" rel="noopener">【漏洞解析】<span class="kw kw-cve">CVE-2026-0257</span>：PAN-OS 身份<span class="kw kw-crit">认证绕过</span>，附最新 IoC 与排查指南</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">25</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/DDHJQeoLmRxc84VGcznyoA" target="_blank" rel="noopener">一个恶意网页如何攻陷 Burp Suite？5000 美元高危漏洞深度分析</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">26</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/caITBmrfVxpWE3G_GjfNpA" target="_blank" rel="noopener"><span class="kw kw-crit">SSRF</span>漏洞点</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">27</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/ht5k_JpCyHE7DWZsXmXYwg" target="_blank" rel="noopener">【内网渗透】红日三靶场</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">28</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg" target="_blank" rel="noopener">CNNVD | 人工智能重要漏洞通报（2026年第九期）</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">29</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/tj099pgcLF3C9rKU7bqOqQ" target="_blank" rel="noopener">人工智能重要漏洞通报（2026年第九期）</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">30</span><span class="article-main"><a href="https://mp.weixin.qq.com/s/8DRJdSmNRz_1Rn-VxF8jqQ" target="_blank" rel="noopener">存在漏洞的 PackageKit 使攻击者能够获得 root 权限</a></span><span class="source-tag src-doonsec">Doonsec</span></li>
-<li><span class="idx">31</span><span class="article-main"><a href="https://mrxn.net/jswz/bigant-admin-Upload-upload-rce.html" target="_blank" rel="noopener">大蚂蚁 (BigAnt) 即时通讯系统 admin/Upload/upload <span class="kw kw-crit">文件上传</span>漏洞</a></span><span class="source-tag src-mrxn">MRXN</span></li>
-<li><span class="idx">32</span><span class="article-main"><a href="https://mrxn.net/news/github-accesskey_tools-poisoning-end.html" target="_blank" rel="noopener">GitHub accesskey_tools 工具投毒事件结束</a></span><span class="source-tag src-mrxn">MRXN</span></li>
-</ul>
 </details></div>
                     <div class="search-no-result" id="noResult" style="display:none;">没有找到匹配的文章，换个关键字试试 ~</div>
                 </section>
             </section>
-            <div class="footer"><p>由 GitHub Actions 自动构建</p></div>
+            <div class="footer">
+                <p>由 GitHub Actions 自动构建</p>
+                <p class="visitor-count">
+                    <span id="busuanzi_container_site_pv" style="display:inline;">📄 总访问 <span id="busuanzi_value_site_pv"></span> 次</span>
+                    <span class="visitor-sep">|</span>
+                    <span id="busuanzi_container_site_uv" style="display:inline;">👤 独立访客 <span id="busuanzi_value_site_uv"></span> 人</span>
+                </p>
+            </div>
         </main>
         
     <script>
@@ -482,6 +417,8 @@
         });
     })();
     </script>
+
+        <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
     </body>
     </html>

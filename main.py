@@ -429,6 +429,9 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             .source-tag {{ grid-area: source; justify-self: start; display: inline-flex; align-items: center; max-width: 100%; padding: 4px 11px; border-radius: 999px; color: #fff; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .76em; font-weight: 700; line-height: 1.2; white-space: nowrap; }}
             .src-doonsec {{ background: #4dabf7; }} .src-chainreactors {{ background: #845ef7; }} .src-brucefeiix {{ background: #20c997; }} .src-mrxn {{ background: #ff922b; }} .src-githubissue {{ background: #495057; }} .src-default {{ background: #adb5bd; }}
             .footer {{ margin-top: 22px; padding: 18px 0 0; color: #8795a7; text-align: center; font-size: .9em; }}
+            .visitor-count {{ margin-top: 10px; color: #6a7a8e; font-size: .88em; }}
+            .visitor-count span {{ display: inline; }}
+            .visitor-sep {{ margin: 0 10px; color: #ccd7e4; }}
             @media (max-width: 1100px) {{ .dashboard {{ grid-template-columns: 1fr; }} .sidebar {{ position: static; max-height: none; }} .date-nav {{ grid-template-columns: repeat(auto-fit,minmax(150px,1fr)); }} }}
             @media (max-width: 820px) {{ .page-shell {{ width: min(100% - 20px,1480px); padding-top: 12px; }} .hero {{ grid-template-columns: 1fr; padding: 22px; }} .hero-actions {{ align-items: flex-start; }} .stat-grid {{ grid-template-columns: repeat(2,minmax(0,1fr)); }} .search-box {{ top: 8px; flex-wrap: wrap; }} .search-info {{ padding-left: 4px; }} ul {{ grid-template-columns: 1fr; padding: 0 12px 14px; }} }}
             @media (max-width: 520px) {{ .stat-grid {{ grid-template-columns: 1fr; }} h1 {{ font-size: 2.25rem; }} summary {{ padding: 16px; }} li {{ grid-template-columns: 1fr; grid-template-areas: 'idx' 'title' 'source'; }} }}
@@ -460,9 +463,17 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
                     <div class="search-no-result" id="noResult" style="display:none;">没有找到匹配的文章，换个关键字试试 ~</div>
                 </section>
             </section>
-            <div class="footer"><p>由 GitHub Actions 自动构建</p></div>
+            <div class="footer">
+                <p>由 GitHub Actions 自动构建</p>
+                <p class="visitor-count">
+                    <span id="busuanzi_container_site_pv" style="display:inline;">📄 总访问 <span id="busuanzi_value_site_pv"></span> 次</span>
+                    <span class="visitor-sep">|</span>
+                    <span id="busuanzi_container_site_uv" style="display:inline;">👤 独立访客 <span id="busuanzi_value_site_uv"></span> 人</span>
+                </p>
+            </div>
         </main>
         {search_script}
+        {analytics_script}
     </body>
     </html>
     """
@@ -527,6 +538,7 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
 
     articles_html_content = "\n".join(articles_html_parts)
     update_time_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    analytics_script = '<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>\n'
     final_html = html_template.format(
         page_title=page_title,
         update_time=update_time_str,
@@ -535,7 +547,8 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
         date_nav_html=date_nav_html,
         source_html=source_html,
         articles_html=articles_html_content,
-        search_script=SEARCH_SCRIPT
+        search_script=SEARCH_SCRIPT,
+        analytics_script=analytics_script,
     )
 
     with open(output_path, "w", encoding="utf-8") as f:
