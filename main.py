@@ -429,6 +429,7 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             .source-tag {{ grid-area: source; justify-self: start; display: inline-flex; align-items: center; max-width: 100%; padding: 4px 11px; border-radius: 999px; color: #fff; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .76em; font-weight: 700; line-height: 1.2; white-space: nowrap; }}
             .src-doonsec {{ background: #4dabf7; }} .src-chainreactors {{ background: #845ef7; }} .src-brucefeiix {{ background: #20c997; }} .src-mrxn {{ background: #ff922b; }} .src-githubissue {{ background: #495057; }} .src-default {{ background: #adb5bd; }}
             .footer {{ margin-top: 22px; padding: 18px 0 0; color: #8795a7; text-align: center; font-size: .9em; }}
+            .disclaimer {{ max-width: 700px; margin: 0 auto 10px; padding: 8px 14px; border-radius: 10px; background: rgba(255,243,205,.6); color: #856404; font-size: .85em; line-height: 1.5; }}
             .visitor-count {{ margin-top: 10px; color: #6a7a8e; font-size: .88em; }}
             .visitor-count span {{ display: inline; }}
             .visitor-sep {{ margin: 0 10px; color: #ccd7e4; }}
@@ -464,6 +465,7 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
                 </section>
             </section>
             <div class="footer">
+                <p class="disclaimer">⚠️ 免责声明：本站内容均来自互联网公开渠道，仅供安全技术学习参考，不构成任何建议。如有侵权，请联系删除。</p>
                 <p>由 GitHub Actions 自动构建</p>
                 <p class="visitor-count">
                     <span id="busuanzi_container_site_pv" style="display:inline;">📄 总访问 <span id="busuanzi_value_site_pv"></span> 次</span>
