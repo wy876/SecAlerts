@@ -310,5 +310,95 @@
         "url": "https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A",
         "source": "Doonsec",
         "date_added": "2026-06-29"
+    },
+    {
+        "title": "【高危漏洞预警】Linux内核高危本地提权漏洞CVE-2026-43503（DirtyClone）",
+        "url": "https://mp.weixin.qq.com/s/Z9n0BzA77wIVB7eC3ink1g",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Firefox一个月用Mythos发现500个漏洞？真相来了",
+        "url": "https://mp.weixin.qq.com/s/hBWz_UfaA76F5efiF0MRQA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
+        "url": "https://mp.weixin.qq.com/s/_awDBmo5hdsBrmpsCZkWaQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
+        "url": "https://mp.weixin.qq.com/s/fyubodc5SwWNAtvElTdovA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "CVE-2026-40409 UDFS的整数截断漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "后门函数技术在二进制对抗中的应用",
+        "url": "https://mp.weixin.qq.com/s/YVBUPZEQGB-_I4COIrWYxw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Github上有大哥公开多个0day PoC",
+        "url": "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "互联网侧信息泄露-挖掘思路分享",
+        "url": "https://mp.weixin.qq.com/s/hW4JJNJcK9JUprOAY4UXEg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限",
+        "url": "https://mp.weixin.qq.com/s/voZerzkRD8Kp8JZQJKWR1g",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
+        "url": "https://mp.weixin.qq.com/s/czp0n7Dx3n5STdj2tZQz9g",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "美国国务院发布第二届“硅和平”峰会成果，推动AI供应链联盟扩容",
+        "url": "https://mp.weixin.qq.com/s/xSJntRBKVJGurV3KrFgluQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s/gJc5C53ba4idS9bI5ifGlQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "从0到1渗透测试自动化挖到某SRC漏洞的个人心得",
+        "url": "https://mp.weixin.qq.com/s/vv7hNhkH0WiK-qB6a8Maxg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "美国恢复Claude Mythos 5部分权限，仅向关键基础设施开放；OpenAI发布GPT-5.6Sol：漏洞分析能力接近MythosPreview | 牛览",
+        "url": "https://mp.weixin.qq.com/s/Ku2uT0qeYawan026Yz3ukg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
     }
 ]
