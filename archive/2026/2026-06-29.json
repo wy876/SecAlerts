@@ -232,5 +232,83 @@
         "url": "https://mrxn.net/hacktools/fofa_leak_search.html",
         "source": "MRXN",
         "date_added": "2026-06-29"
+    },
+    {
+        "title": "] [【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=1&sn=2e19796b96a8daf5fd98c9b38425cca3",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "] [【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=3&sn=400d5763c8746914d79931cdb7e87349",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "] [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)",
+        "url": "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "内网漏洞--NetNTLMv2泄露",
+        "url": "https://mp.weixin.qq.com/s/yzx7066f-PtaLy-2jdzOmw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "探秘鸿蒙6：你的APP真的安全吗？一次深度渗透测试实录",
+        "url": "https://mp.weixin.qq.com/s/qB69TAdV9NhDqfGCUaYsHA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Dirty Frag蛰伏十年，非交互提权路径打通无TTY场景",
+        "url": "https://mp.weixin.qq.com/s/-Ssq-5jGcYoFK-fsR7BguQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "【已复现】Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/0GEooIwnalbuKWgpv9eIqw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "Amp Code：通过提示注入实现任意命令执行",
+        "url": "https://mp.weixin.qq.com/s/pCb0O2NUgWEUDx2r0x3h6Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "紧急预警｜新型Mistic内存后门泛滥！Woodgnat黑产团伙一条龙供货，企业沦陷后直接倒卖给Qilin勒索病毒",
+        "url": "https://mp.weixin.qq.com/s/ur2vEakY1vTWNPcDT3jzIQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "用AI检测“越权漏洞”，更快更灵！",
+        "url": "https://mp.weixin.qq.com/s/8p6cbgnf4EtlobdCG9WKcw",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "旧漏洞，新规则：不用捷径拿下 CVE-2023-36802",
+        "url": "https://mp.weixin.qq.com/s/LoWuMtZzwi9BwO93BIW_kg",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "蓝凌EIS智慧协同平台 Getmobiles 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
     }
 ]
