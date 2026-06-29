@@ -400,5 +400,17 @@
         "url": "https://mp.weixin.qq.com/s/Ku2uT0qeYawan026Yz3ukg",
         "source": "Doonsec",
         "date_added": "2026-06-29"
+    },
+    {
+        "title": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用",
+        "url": "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
+    },
+    {
+        "title": "实战 | 过滤了一堆注入关键词，我用一道排除法把库名拖了出来",
+        "url": "https://mp.weixin.qq.com/s/6R3kaUfuCyZXmxlBT6urXA",
+        "source": "Doonsec",
+        "date_added": "2026-06-29"
     }
 ]
