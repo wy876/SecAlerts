@@ -226,5 +226,71 @@
         "url": "https://mp.weixin.qq.com/s/rxNHcc9vEJiJczCTSGZ21g",
         "source": "Doonsec",
         "date_added": "2026-06-30"
+    },
+    {
+        "title": "苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞",
+        "url": "https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s/IdViLpiWmrSNgSSabjGI6A",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【渗透】AI 总有让人一惊的操作",
+        "url": "https://mp.weixin.qq.com/s/9KmWw6o_xfYL2dtj-1I0xg",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/65_6imz9pRd2RpzMx50zSg",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "全栈安全工程师实录：自产→自测→自修→自验，高危漏洞闭环全流程",
+        "url": "https://mp.weixin.qq.com/s/haW9Lh9mMHRD-y9n_rAiUg",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【无问AI网安模型】二进制漏洞分析挖掘能力实战测评",
+        "url": "https://mp.weixin.qq.com/s/Dj74mPIXJkatyg-w9Kxiyw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "第一个edusrc高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/as_MxPI48uLJUHrU-_mq6Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "AutoCVE：7 天测试期挖出 30 个真实 CVE，国产 AI 漏洞挖掘平台拿出了硬战绩",
+        "url": "https://mp.weixin.qq.com/s/IqKKdvEZmZz_iQ9RX-Bo5g",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "预警丨防范Remcos恶意软件新变种",
+        "url": "https://mp.weixin.qq.com/s/OQVq88S7omq12ZhdKyEjIw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "关于发布首批软件供应链安全管理能力评估结果的公告",
+        "url": "https://mp.weixin.qq.com/s/-wFMTUM7wYQiuMWID-uwXw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）",
+        "url": "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
     }
 ]
