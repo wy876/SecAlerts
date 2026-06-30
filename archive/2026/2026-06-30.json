@@ -292,5 +292,41 @@
         "url": "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A",
         "source": "Doonsec",
         "date_added": "2026-06-30"
+    },
+    {
+        "title": "AI赋能挖掘&amp;&amp;某小程序任意用户登录漏洞",
+        "url": "https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "传Claude Code内置隐藏后门，专门检测中国用户",
+        "url": "https://mp.weixin.qq.com/s/bT-jN4uTjianx_qNsywhtw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "ClawHub Skills暴露AI Agents远程控制后门与数据窃取风险",
+        "url": "https://mp.weixin.qq.com/s/mahA44c1FxyUKdkXtoamAg",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查",
+        "url": "https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用",
+        "url": "https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
     }
 ]
