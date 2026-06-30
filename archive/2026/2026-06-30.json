@@ -202,5 +202,29 @@
         "url": "https://mp.weixin.qq.com/s/ESnN73pNv9zxhGsv6hAIFw",
         "source": "Doonsec",
         "date_added": "2026-06-30"
+    },
+    {
+        "title": "提权验证一键搞定：全面集成的内核漏洞测试工具 RootHawkX",
+        "url": "https://mp.weixin.qq.com/s/9YbLciU3MBURETqAd5Uc3Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "微步 XGPT 发现 Apple 内核漏洞并获致谢",
+        "url": "https://mp.weixin.qq.com/s/-pUahaI_I_0nG3XeYVFWTQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "渗透测试|从账号枚举到未授权访问，再到白盒RCE的一次渗透测试实录",
+        "url": "https://mp.weixin.qq.com/s/nxKVyCI5hAuNkq2601sC-Q",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/rxNHcc9vEJiJczCTSGZ21g",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
     }
 ]
