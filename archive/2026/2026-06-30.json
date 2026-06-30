@@ -328,5 +328,23 @@
         "url": "https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg",
         "source": "Doonsec",
         "date_added": "2026-06-30"
+    },
+    {
+        "title": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE",
+        "url": "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营",
+        "url": "https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关",
+        "url": "https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
     }
 ]
