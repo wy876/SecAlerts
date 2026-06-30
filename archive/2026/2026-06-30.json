@@ -100,5 +100,107 @@
         "url": "https://mp.weixin.qq.com/s/trKsvjYuHl8e9ACUCMlb8Q",
         "source": "Doonsec",
         "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526443&idx=2&sn=c847b004b20a9d1f991dad8dcd81c7b4",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526443&idx=3&sn=920c195bb40bbe944e31328e511161f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506467&idx=1&sn=4289470a02c8bae44210c05cf1acff0b",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [教育部发布预警：保护个人信息，严防志愿被篡改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264132&idx=3&sn=576e95ddda2999a74eb08353d2428c1d",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [【安全圈】Amazon Q 漏洞使恶意代码仓库可窃取云凭据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=2&sn=40ec8125a630cd3027a7e95340a34fbc",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [SSH客户端库曝高危0day：libssh2 PoC公开，或影响大量基础设施组件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=3&sn=0e7fd8aa645c5a5735b64692d3b16f01",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [美国恢复Claude Mythos 5部分权限，仅向关键基础设施开放；OpenAI发布GPT-5.6Sol：漏洞分析能力接近MythosPreview | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141792&idx=2&sn=d6e10386465435365422e034e897cd47",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495497&idx=1&sn=33725ee0f54802215be2a6e133622545",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel Dirty Clone 权限提升漏洞(CVE-2026-43503)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526016&idx=1&sn=a6ec5b9eef9fc1828b48803fed9d4c82",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [一个有意思的xss",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499614&idx=1&sn=1533a4b8a773f5019d9f22fb87cb1f73",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第25期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=1&sn=3c4c3448f4b0231181a184a26520c420",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260622-20260628)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=2&sn=7e1c78eda535041347201571da7f530a",
+        "source": "BruceFeIix",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "渗透测试的新攻击面-MCP、A2A Agent Card 和 LLM 开放接口暴露面",
+        "url": "https://mp.weixin.qq.com/s/6Z4prV6kW7wrg_30DuCbSA",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "炸场！GitHub公开海量未报送0day PoC，多款常用软件高危",
+        "url": "https://mp.weixin.qq.com/s/8tGezd4UbB89lPQywQeqGA",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "国安部预警：AR 手游采集 300 亿实景数据，民用地理数据存在军事化泄密风险 ；CNVD2026 第 25 期漏洞周报：零日漏洞占比超八成 | 牛览",
+        "url": "https://mp.weixin.qq.com/s/dXlT4uDqLoDnl4G-Qgb5xQ",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "认证为空的致命接口 AOFAX企钉前台上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/6dku919P2H5xjt-HGKentA",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
+    },
+    {
+        "title": "【CVE-2026-55200】libssh2 RCE 漏洞（PoC 已公布）",
+        "url": "https://mp.weixin.qq.com/s/ESnN73pNv9zxhGsv6hAIFw",
+        "source": "Doonsec",
+        "date_added": "2026-06-30"
     }
 ]
