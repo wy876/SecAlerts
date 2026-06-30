@@ -9,13 +9,9 @@
 - [ Doonsec](https://doonsec.com/) RSS订阅源
 - [mrxn Rss](https://mrxn.net/rss.php) mrxn订阅源
 - 从GitHub Issues中提取的公众号链接
-## 内容筛选规则
-系统会自动识别包含以下关键词的文章： 复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行
+
 
 ## 原版工具
 https://github.com/4ESTSEC/wxvl
 
-## 展示页面  
-https://wy876.github.io/SecAlerts/
 
-<img width="1129" height="854" alt="image" src="https://github.com/user-attachments/assets/6e338194-0329-4c1a-93df-be5eb628cd8c" />
