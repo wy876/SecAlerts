@@ -160,5 +160,119 @@
         "url": "https://mp.weixin.qq.com/s/3cxu4NTZm_Gl_jJ9xXxxxA",
         "source": "Doonsec",
         "date_added": "2026-07-01"
+    },
+    {
+        "title": "不需要0day，不需要逆向: 一条被忽视的CLI攻击链",
+        "url": "https://mp.weixin.qq.com/s/VVl2Wpq1dlnRy4XC_C1oSA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "K8sPenTool | Kubernetes渗透测试一站式GUI工具",
+        "url": "https://mp.weixin.qq.com/s/VNR3IEuwlsc8m5U7BVjzQw",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "某LLM问答系统安全测试报告：提示词注入与越狱攻击分析",
+        "url": "https://mp.weixin.qq.com/s/PZ5Z9bzJOs8jc2ABSvy8SA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "【免费领】超强渗透工具：Kali Linux实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/bpugQ9bSU_7bHos_qUgbWQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "浙大恩特前台RCE漏洞审计",
+        "url": "https://mp.weixin.qq.com/s/JRi9d06oTopuaKKTNhko-w",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "敏感信息自动化挖掘检测工具-DigDeep",
+        "url": "https://mp.weixin.qq.com/s/tsQUxgD8FTsPaXlJRybHAQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "塔塔电子数据泄露，苹果和特斯拉机密供应链信息遭暴露",
+        "url": "https://mp.weixin.qq.com/s/29E86rGKwEcn0qMPC956Bw",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "老把戏，新靶心：Bash 正威胁 AI 编程代理供应链安全",
+        "url": "https://mp.weixin.qq.com/s/F1yK6vedUY2q7rX3HvFhEw",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "USRC夏日探宝营｜元气拉满，解锁专属漏洞嘉奖！",
+        "url": "https://mp.weixin.qq.com/s/kXs8eSlA98ciO_ilx8RlAA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "基于 Claude Code 构建可控，持续漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/683mJo7AvkQ46B0nQChP5g",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "RedAmon：串联侦察、漏洞利用与后渗透的 AI 安全工具",
+        "url": "https://mp.weixin.qq.com/s/QTl4ILYulvQgU75Yj6HZvA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "Splunk Enterprise 高危漏洞 CVE-2026-20253（CVSS 9.8）",
+        "url": "https://mp.weixin.qq.com/s/IWOvPWO4ACgiAuxe5lNkeg",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "网信新规xa07月落地：网络安全标识、AI 拟人化互动服务迎来专项监管；AI编程代理现结构性缺陷，GuardFall可借Bash技巧实施供应链攻击|牛览",
+        "url": "https://mp.weixin.qq.com/s/CRX-Al0O-ZJ-ACmOpBfgEQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "【优质工具】渗透神器Kali 2026最新版本更新",
+        "url": "https://mp.weixin.qq.com/s/VAMIYKijAMCz7JFG566zyQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "ISSTA 2026 论文解读丨大语言模型离替代人类挖漏洞还有多远？——评 SAGE：基于大语言模型的漏洞检测信号放大引导嵌入方法",
+        "url": "https://mp.weixin.qq.com/s/qp_3G_0bZfKDKFlHVxNlBg",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "匿名登顶中国第一，拆招“扫地僧”Agent记忆中心漏洞挖掘法",
+        "url": "https://mp.weixin.qq.com/s/qDcboGAeu048q1I0jUOz-Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "GitHub安全公告数据库处理量创新高，漏洞报告数量远超审核能力",
+        "url": "https://mp.weixin.qq.com/s/M19GRiAPFTXVYsOYlkddSg",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "NTLM反射漏洞可劫持Windows Server SYSTEM权限",
+        "url": "https://mp.weixin.qq.com/s/w2PyU1PXs-QhMnT7TCDZzA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "重磅预警｜内网“双重黑客”共存攻击曝光！只清除一波等于白防守",
+        "url": "https://mp.weixin.qq.com/s/DiXVFamC591JsjHJ3xuOgQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
     }
 ]
