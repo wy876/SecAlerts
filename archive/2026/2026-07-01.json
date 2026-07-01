@@ -106,5 +106,59 @@
         "url": "https://mp.weixin.qq.com/s/yu9pbU8R7JK0LxZkN2Jfmw",
         "source": "Doonsec",
         "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [微步 XGPT 发现 Apple 内核漏洞并获致谢",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508756&idx=1&sn=4e23ef9150204cd3bd3f5ab93b9d7a6b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617129&idx=3&sn=18432103dc762bac8fda66d695a25548",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.6.22-2026.6.28",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503857&idx=1&sn=48b004c760c0a580f12401aa74a176ea",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [国安部预警：AR 手游采集 300 亿实景数据，民用地理数据存在军事化泄密风险 ；CNVD2026 第 25 期漏洞周报：零日漏洞占比超八成 | 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141803&idx=2&sn=ad81bc7b8d7fa2cae7211de28c273221",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [【安全圈】AI插件藏后门？小心！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077607&idx=1&sn=42bc7d095c1bdd8d16e3206656dbce7a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494966&idx=2&sn=76ba8dea5a546da773d9216f579fe321",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第25期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501817&idx=1&sn=8871b7ed57b9d9ae9943bdef4185521f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "当“信任”成为AI漏洞：你的代码还安全吗？",
+        "url": "https://mp.weixin.qq.com/s/Nc6eyiNSGo48A9T4uTDi9A",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第26期）",
+        "url": "https://mp.weixin.qq.com/s/3cxu4NTZm_Gl_jJ9xXxxxA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
     }
 ]
