@@ -292,5 +292,23 @@
         "url": "https://mp.weixin.qq.com/s/MdTPfyqdtTZghFdmpDzCug",
         "source": "Doonsec",
         "date_added": "2026-07-01"
+    },
+    {
+        "title": "企业级开源安全利器，整合漏洞管理、基线检查，威胁狩猎、情报联动，适配政企服务器安全运维",
+        "url": "https://mp.weixin.qq.com/s/R6XGBKMw0L8E0Cuu0cPiQg",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "【成功复现】Linux内核Socket Buffer本地提权漏洞(CVE-2026-43503)",
+        "url": "https://mp.weixin.qq.com/s/EUvgPLzwwHiJ09wCs0Eb0w",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "AI 凭空编出的假域名，正在成为软件供应链的新陷阱",
+        "url": "https://mp.weixin.qq.com/s/O8veWxtkrFRgOsoe9TcmqQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
     }
 ]
