@@ -274,5 +274,23 @@
         "url": "https://mp.weixin.qq.com/s/DiXVFamC591JsjHJ3xuOgQ",
         "source": "Doonsec",
         "date_added": "2026-07-01"
+    },
+    {
+        "title": "[工具]VulnClawAI自动化渗透测试",
+        "url": "https://mp.weixin.qq.com/s/K66_bvKjtIsgkFoxMDKiVA",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "学习一手价值7000块钱的漏洞姿势",
+        "url": "https://mp.weixin.qq.com/s/63ss2-c4Jd0rpMfrHMmdIg",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
+    },
+    {
+        "title": "基于 Claude Code 构建可控，自我进化的漏洞挖掘系统：架构与实现",
+        "url": "https://mp.weixin.qq.com/s/MdTPfyqdtTZghFdmpDzCug",
+        "source": "Doonsec",
+        "date_added": "2026-07-01"
     }
 ]
