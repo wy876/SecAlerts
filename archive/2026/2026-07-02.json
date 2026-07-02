@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s/8fSuhduX9GEDbWvlDdtwzA",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "【AI复盘】Copilot三阶段提示注入漏洞链",
+        "url": "https://mp.weixin.qq.com/s/zTvQ43QiGbaCuATj5xLrSg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "安全工具丨AI驱动的CVE漏洞全自动挖掘平台，一键挖掘CVE漏洞、代码审计、漏洞验证、出报告，全流程自动化！",
+        "url": "https://mp.weixin.qq.com/s/AurYdQ7b9l7xOsFv5mS4ag",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
