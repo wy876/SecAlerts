@@ -172,5 +172,53 @@
         "url": "https://mp.weixin.qq.com/s/0Kt_FKwk9Ud2BIfwCoLR6Q",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客",
+        "url": "https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "挖了漏洞却被秒拒？80%新手都在瞎忙活，一文讲透挖洞平台规则",
+        "url": "https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Anthropic Buffa Rust库0Day漏洞可引发拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/kAasLoB6qnrhLmwd2BmCbg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境",
+        "url": "https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "关于 O+ Connect PC 端漏洞暂停收录的公告",
+        "url": "https://mp.weixin.qq.com/s/X6rtcoH7fKOntR_XMblwcg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "iPhone 18 Pro 630GB机密遭暗网公售！苹果供应链防线崩了",
+        "url": "https://mp.weixin.qq.com/s/CO6oK9akmOe6IvdglSnMXg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "面试必问：SQL注入与XSS的完整攻防链路（附真题解析）",
+        "url": "https://mp.weixin.qq.com/s/7BrwlusOd_RynI6zS8Qgnw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "本周漏洞速递｜13个高危漏洞预警+漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
