@@ -244,5 +244,11 @@
         "url": "https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "【高危漏洞预警】Gitea act_runner 容器逃逸漏洞CVE-2026-58053",
+        "url": "https://mp.weixin.qq.com/s/4-b7E_Uk6xodqrpMRd7sFA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
