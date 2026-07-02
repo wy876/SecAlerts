@@ -10,5 +10,17 @@
         "url": "https://mp.weixin.qq.com/s/bsrVm_Tv81rlkN9wiBCIeg",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "AI赋能挖掘&amp;&amp;某edusrc小程序任意用户登录漏洞",
+        "url": "https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Helm模板YAML注入：从CI/CD到集群沦陷",
+        "url": "https://mp.weixin.qq.com/s/xOr1nowiSEfwfixC2wkSyw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
