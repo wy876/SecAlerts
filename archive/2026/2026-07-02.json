@@ -22,5 +22,155 @@
         "url": "https://mp.weixin.qq.com/s/xOr1nowiSEfwfixC2wkSyw",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [AI 凭空编出的假域名，正在成为软件供应链的新陷阱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187510&idx=1&sn=63d375c93053e54d31662d366ec203dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [塔塔电子数据泄露，苹果和特斯拉机密供应链信息遭暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526473&idx=1&sn=40ae1df01b82f1747285dd3b6f1b6b68",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [老把戏，新靶心：Bash 正威胁 AI 编程代理供应链安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526473&idx=2&sn=d47b4b317bccc8a49fa48c91f3176606",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [RedAmon：串联侦察、漏洞利用与后渗透的 AI 安全工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790145&idx=1&sn=5d7762af4c15ab9b0f7d4ee3a075e73b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [网信新规 7月落地：网络安全标识、AI 拟人化互动服务迎来专项监管；AI编程代理现结构性缺陷，GuardFall可借Bash技巧实施供应链攻击|牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141814&idx=2&sn=c5a61271a1f2a911d50576c2c43b45a5",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [先知通用软件漏洞收集及奖励计划第十二期 正式开始！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998993&idx=1&sn=57d8e63ea2653f4b5a8ab9176f320ca0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "] [第一个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499629&idx=1&sn=ce31d190bddea6d193475e463b76fb08",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "我与edu的爱恨情仇之正方系统逻辑漏洞导致高危敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s/kMgX9WKE-dqw85WCK4wQvg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/yZD9RGtDhQdwghU7Jwx5Yw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "【深度研判】巴基斯坦三军情报局利用跨境家庭关系在拉贾斯坦邦边境建立新间谍网络，中巴经济走廊及西部边境安全面临类似跨境招募与渗透",
+        "url": "https://mp.weixin.qq.com/s/K0vGewtXr8BmoRtG1qqTcQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "自动化漏洞修复详解：验证体系、PoC证据与可信补丁评估",
+        "url": "https://mp.weixin.qq.com/s/2yd3bxHbM56uuMCw1vGVNw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "CVE-2026-6307：V8 JS 到 Wasm 的类型混淆 → Chrome 146 上的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/qQ824pHMgSUKcqMbldUKxQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "NTLM反射漏洞拿Windows Server SYSTEM权限，CVE-2025-33073剖析",
+        "url": "https://mp.weixin.qq.com/s/_fVJJ8ExSnv6_MO3eq1tyQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "libseccomp 修复数个漏洞，可导致绕过seccomp限制",
+        "url": "https://mp.weixin.qq.com/s/J5V7q5ZUsjfCVe9ziwVg9Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "漏洞赏金喜报：“大雪深埋”拿下中危，450到手",
+        "url": "https://mp.weixin.qq.com/s/_Si0oPJ0lyKRSUXPmzZRNw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Cursor IDE 远程代码执行漏洞允许零点击注入提示符",
+        "url": "https://mp.weixin.qq.com/s/5J9fcHkgeZAJxZxSINyLjw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "CISA警告：SimpleHelp身份验证绕过漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/GY0fozsQSlZWgkmOah88hw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "DDDD_Viewer - dddd漏洞扫描工具可视化辅助工具",
+        "url": "https://mp.weixin.qq.com/s/aR8cT7sIsD91lAqtJzeMUw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "CitrixBleed 到无限远：Citrix NetScaler 又爆内存越界读取（CVE-2026-8451）",
+        "url": "https://mp.weixin.qq.com/s/qEs9AgNBNUI1rIELX9Vj-w",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "JetBrains 发布补丁，修复影响 1500 万开发者的 CVSS 满分（10）身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/28Wpu4N7TWmhP5MKgveoGQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "7天挖出30个真实CVE！国产开源AI漏洞挖掘平台打出硬核实战战绩",
+        "url": "https://mp.weixin.qq.com/s/vsF_9d6RGuyhEs9arqOICw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Citrix(思杰)发布 NetScaler 六款漏洞补丁，漏洞可实现文件读取与拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/4gTnTHIgU8f4MuaLDNev2g",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Adobe 发布补丁修复 ColdFusion 与 Campaign Classic 中 7 个 CVSS 满分 10.0 级高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/213u7JnGhDS6QeGNzqsMTw",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "Cursor 高危漏洞可通过提示注入突破沙箱并执行系统命令",
+        "url": "https://mp.weixin.qq.com/s/cL3djMD7CyQc2_YQ8_HTLg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "GuardFall 漏洞波及 11 款主流开源 AI 智能体中的 10 款",
+        "url": "https://mp.weixin.qq.com/s/0Kt_FKwk9Ud2BIfwCoLR6Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
