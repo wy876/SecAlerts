@@ -220,5 +220,29 @@
         "url": "https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "OSCP百日备考17｜Linux权限提升（下）：sudo滥用、Cron劫持、通配符注入到root的终极手册",
+        "url": "https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "未授权漏洞检测工具 - Unauth-Vuln-Scanner",
+        "url": "https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "企业ai代码审计构建函数图谱的重要性&amp;其他",
+        "url": "https://mp.weixin.qq.com/s/ajMpxJKA13yNU8ZUBXfLng",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "2026年度基础软硬件产品漏洞生态联盟大会成功召开",
+        "url": "https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
