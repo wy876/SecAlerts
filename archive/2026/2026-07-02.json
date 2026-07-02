@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s/4-b7E_Uk6xodqrpMRd7sFA",
         "source": "Doonsec",
         "date_added": "2026-07-02"
+    },
+    {
+        "title": "KubePivot-容器渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/SHI-YX9bbAvZKuRczQboKg",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "工具推荐 | OSS存储桶遍历漏洞自动化利用工具",
+        "url": "https://mp.weixin.qq.com/s/abXzjO6CVpwnUdX51RpMaA",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
+    },
+    {
+        "title": "SRC-Hunter SKILL AI挖洞技能库，适配SRC众测与漏洞赏金，复刻数千条HackerOne高危漏洞实战案",
+        "url": "https://mp.weixin.qq.com/s/LwQRoFuBViY0eHiFGxsOOQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-02"
     }
 ]
