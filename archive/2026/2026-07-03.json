@@ -154,5 +154,95 @@
         "url": "https://mp.weixin.qq.com/s/W7sQ_voFoeyplCmnchXsUg",
         "source": "Doonsec",
         "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [libseccomp 修复数个漏洞，可导致绕过seccomp限制",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508758&idx=1&sn=4ec1a3cca91613fa4e71c40032b2297f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [Citrix 修复可导致文件读取和拒绝服务的多个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526489&idx=1&sn=70f1d92bbf820f6f31eaeaed6636eb22",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [Cursor IDE 严重漏洞可用于零点击提示词注入攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526489&idx=2&sn=f1c623643e04146a17dfc7725875808f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [【AI复盘】Copilot三阶段提示注入漏洞链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487741&idx=1&sn=dec4a1ed5fdc36e63a6f40dee0774a7c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [【已复现】Gitea act_runner 容器逃逸漏洞(CVE-2026-58053)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506500&idx=1&sn=0eaa84cc141e483ba8ddda80a0a270ee",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [【安全圈】Chrome 382漏洞速更！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077635&idx=2&sn=ff1b58c3db45fe363feb913cafcb6c3b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [关于 O+ Connect PC 端漏洞暂停收录的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494971&idx=1&sn=0f700a376cd6d1ba91081a43a8c0cdd4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [白盒审计出的一个RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499637&idx=1&sn=35bbc3d75068d847fddc117055773678",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "] [ClamAV曝高危漏洞：远程投毒即可“打崩”杀毒引擎，Cisco紧急发布修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617262&idx=3&sn=4b442adefc6b975648d669dffbdd4c31",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "星球更新：一条 pre-auth 0day 链，从 XSS 到终端 RCE",
+        "url": "https://mp.weixin.qq.com/s/R3D8BFUVxH6ph3ZW__ZZwg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "众测一路追到供应链",
+        "url": "https://mp.weixin.qq.com/s/cVfsg5I5VtiY7T6-Rq-3Pg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/QyOBMUaiDf1TPAvoqtTMyA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "古巴情报机构创始人逝世，其建立的G2国家安全情报机构以渗透与忠诚度建设著称，我反间谍工作可从中汲取历史经验与组织建设教训",
+        "url": "https://mp.weixin.qq.com/s/E4bzQtmREE0zfCgT67_UTA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Win32k回调绕道：滥用合法的内核到用户回调分发进行代码执行",
+        "url": "https://mp.weixin.qq.com/s/XtR710ZEj7TYzuEyr3y91w",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "容器隔离的底层防线正在失效？NDSS 2026论文拆解云原生最隐蔽的同步漏洞",
+        "url": "https://mp.weixin.qq.com/s/eQNzdFwf_TAahjeCWBzbfQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
     }
 ]
