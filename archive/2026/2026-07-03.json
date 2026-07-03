@@ -244,5 +244,41 @@
         "url": "https://mp.weixin.qq.com/s/eQNzdFwf_TAahjeCWBzbfQ",
         "source": "Doonsec",
         "date_added": "2026-07-03"
+    },
+    {
+        "title": "【已复现】Adobe ColdFusion 路径穿越漏洞(CVE-2026-48282)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/ajj-jgIxb9QIViikNIK9Hw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "安全热点周报：SimpleHelp 高危漏洞遭恶意利用，新型窃取木马借机投放",
+        "url": "https://mp.weixin.qq.com/s/ikzBT0BpPap4weQnDKCsKg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "实力认证！海云安成功入选「供应链安全社区」首批百家成员单位",
+        "url": "https://mp.weixin.qq.com/s/hDhkdJg-aJXL6_PGvZHWGw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "【全网首发】Weax与Sorry勒索病毒席卷全国中小企业，深度还原全链路攻击，疑似黑客利用AI挖掘管家婆0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/kA9sgBnLcko08dWljqAcgg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年6月29日-2026年7月3日）",
+        "url": "https://mp.weixin.qq.com/s/g9NUfMN9f2yOB2GWU-ZvvQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "开源AI渗透测试工具Z3r0部署与使用",
+        "url": "https://mp.weixin.qq.com/s/48cIca39y2lJD7Lt2yAdkA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
     }
 ]
