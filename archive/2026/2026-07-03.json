@@ -280,5 +280,47 @@
         "url": "https://mp.weixin.qq.com/s/48cIca39y2lJD7Lt2yAdkA",
         "source": "Doonsec",
         "date_added": "2026-07-03"
+    },
+    {
+        "title": "一次丝滑的小程序授权渗透：从 Swagger 到任意用户登录",
+        "url": "https://mp.weixin.qq.com/s/I7JN7vPpZJyGVYXOpu7fpw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "【安全圈】Cisco 确认 Unified CM 漏洞已在野外被利用",
+        "url": "https://mp.weixin.qq.com/s/wmLqYbhU8pGvjRGTDeK9mg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用",
+        "url": "https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "开源CVE挖掘利器：AI自动审计并生成CVE报告，7天覆盖14个项目挖出30个漏洞",
+        "url": "https://mp.weixin.qq.com/s/V1o2q8CDlZcqOJc8BxC4rA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用",
+        "url": "https://mp.weixin.qq.com/s/oeahD6nzVswsVH83dFE3Sw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "微软 Exchange SSRF 漏洞详情及公开 PoC 漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/Lewk8FZcrFv4umdbw1W_kw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用",
+        "url": "https://mp.weixin.qq.com/s/qGavRNRhfKZiqwhRGFvdJg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
     }
 ]
