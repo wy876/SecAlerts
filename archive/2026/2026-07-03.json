@@ -10,5 +10,149 @@
         "url": "https://mp.weixin.qq.com/s/O3UIFV1CSORMGWKFW6pxEw",
         "source": "Doonsec",
         "date_added": "2026-07-03"
+    },
+    {
+        "title": "重磅预警！140+AI开源包集体投毒，朝鲜APT组织BlueNoroff利用npm供应链窃取钱包密钥、企业全量凭证",
+        "url": "https://mp.weixin.qq.com/s/_spAvvhiz7mNUuNA5MVK6g",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Chrome V8 沙箱逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s/6vjFIzy6jTw66xoRmcispg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Adobe ColdFusion 多个漏洞细节已公开，可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/0mQcoUGa_IL4s6D_eJMVww",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "ChocoPoC 瞄准安全研究员：假的 PoC 仓库，真的是供应链攻击",
+        "url": "https://mp.weixin.qq.com/s/QYTY5O_RQtUKJffd14kklg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "SharePoint RCE 被列入 KEV：协作平台，不该成为补丁盲区",
+        "url": "https://mp.weixin.qq.com/s/s-T_NPMeG6eeQoJmcIVDxg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Cisco Unified CM 漏洞确认被利用：企业电话系统，也是关键控制面",
+        "url": "https://mp.weixin.qq.com/s/gtkkp3txJGE_SVYd4k3UAA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "DVWA每日实操系列｜第3期命令注入漏洞 Command Injection｜四层手把手通关 + 服务器权限接管 + 可直接交SRC高危报告",
+        "url": "https://mp.weixin.qq.com/s/_3o4g33ybFundhWIPMs35A",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "聚焦 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开",
+        "url": "https://mp.weixin.qq.com/s/tHzQFLmLLxtKtoLxAvOGqA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "StoneFly 存储集中器漏洞可导致未经身份验证的 root 访问",
+        "url": "https://mp.weixin.qq.com/s/98G_M8Gx5XVON6jkPmim0A",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "针对某老OA打了补丁之后再次前台RCE的审计流程",
+        "url": "https://mp.weixin.qq.com/s/5iUwY0PIKMm6GMcVCu8J5g",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "红队实战：本地AI如何发现其他工具都漏掉的漏洞",
+        "url": "https://mp.weixin.qq.com/s/yB3Z_IjRBVu9AK8dSwhvEQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "别再死磕漏洞了：你和顶尖黑客之间，可能只差了这一行API",
+        "url": "https://mp.weixin.qq.com/s/B_UzIVT-x2jPn5S7ok5_BA",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Citrix NetScaler再曝高危漏洞：SAML解析缺陷可泄露服务器内存",
+        "url": "https://mp.weixin.qq.com/s/YB9TwhsRxgkdYfbkh7k6mQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "recon-skills - 156个渗透测试开源技能库",
+        "url": "https://mp.weixin.qq.com/s/LFvvC-VqgyduDgnRMZmLLw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "2026漏洞赏金终极侦察清单【纯净版】",
+        "url": "https://mp.weixin.qq.com/s/1uKl2lsWRe4zHS4_dvTuuQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "新的 ChocoPoC RAT 通过虚假 PoC 漏洞利用存储库瞄准漏洞研究人员",
+        "url": "https://mp.weixin.qq.com/s/GUOaO_xcVYwsPPnPW4txXQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "攻防演练必备单品竟然是它：演练前审代码，演练中验漏洞",
+        "url": "https://mp.weixin.qq.com/s/CBaMgBhHbSyT2t4na0k5uw",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "AD 委派攻击之基于资源的约束委派RBCD（：一次域内提权链路拆解",
+        "url": "https://mp.weixin.qq.com/s/Wv08GnypqFb3Cmxu4vZ7cg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "Adobe修复了ColdFusion和Campaign Classic中的多个最高严重性漏洞",
+        "url": "https://mp.weixin.qq.com/s/0PwoBTaZiTRMOoVpsIPK_w",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "ArgoCD未认证RCE漏洞剖析",
+        "url": "https://mp.weixin.qq.com/s/TyLl7teQDW7MqJVYth-EKg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "目录遍历漏洞绕过指南：穿越防火墙，直通赏金",
+        "url": "https://mp.weixin.qq.com/s/hpnsi8q4ccelIoPZSu5CcQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "漏洞预警 | Gogs路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/MaVeIBC4qbfbapW24punUQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "漏洞预警 | 大蚂蚁即时通讯系统文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/GVZYA0egDSz3Y_q4mgrSew",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
+    },
+    {
+        "title": "供应链安全风险评估指南",
+        "url": "https://mp.weixin.qq.com/s/W7sQ_voFoeyplCmnchXsUg",
+        "source": "Doonsec",
+        "date_added": "2026-07-03"
     }
 ]
