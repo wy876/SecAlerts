@@ -280,5 +280,47 @@
         "url": "https://mp.weixin.qq.com/s/WTt1AnX2nWnzTTBJ6tYhoQ",
         "source": "Doonsec",
         "date_added": "2026-07-06"
+    },
+    {
+        "title": "[工具推荐]AI 驱动的后渗透综合管理平台-LeoAI",
+        "url": "https://mp.weixin.qq.com/s/fmeG3DxAckqqIro_oetGng",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260629-20260705)",
+        "url": "https://mp.weixin.qq.com/s/h9hRAy7ldqZIhcQPZAdnnQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "美国国家标准与技术研究院更新系统规划指南，强化安全、隐私与供应链风险一体化管理",
+        "url": "https://mp.weixin.qq.com/s/FoKCshkh7IjFgo-fL-dHtg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "工具 | 一款基于 Windows 桌面端渗透测试工具箱",
+        "url": "https://mp.weixin.qq.com/s/8D4paeL9NjfMzUBXbCJo6w",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "Strix - 开源 AI 渗透测试工具（多智能体协同，自动生成报告）",
+        "url": "https://mp.weixin.qq.com/s/GruPMNdBLmCcIdqDqwIFkw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "第27篇 全栈AI · AI挖到了Linux高通提权",
+        "url": "https://mp.weixin.qq.com/s/YEDyV6M4kJML0UqKub6nBg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "DVWA每日实操系列｜第4期CSRF跨站请求伪造｜四层零基础通关 + 篡改任意用户密码 + 可直接上交SRC",
+        "url": "https://mp.weixin.qq.com/s/_MUzl_4JheD73Nsgfkl-yg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
     }
 ]
