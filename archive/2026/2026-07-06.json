@@ -322,5 +322,41 @@
         "url": "https://mp.weixin.qq.com/s/_MUzl_4JheD73Nsgfkl-yg",
         "source": "Doonsec",
         "date_added": "2026-07-06"
+    },
+    {
+        "title": "codeql实战：codeql检测sql注入",
+        "url": "https://mp.weixin.qq.com/s/zv62Qs8gZHGFZ8C6OBRMeQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "ARL-Next（灯塔资产侦察）自动化资产侦察与漏洞监控平台现代化重构版本",
+        "url": "https://mp.weixin.qq.com/s/bWlXwbZGNzjLy6ZpsEkyhQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "一周挖掘30个高危漏洞！全流程自动化CVE挖掘、AutoCVE多Agent源码审计实战系统",
+        "url": "https://mp.weixin.qq.com/s/jSfcG19TipPHDU5B0f8W8w",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "黑客现在利用Oracle电子商务系统的关键漏洞发起攻击",
+        "url": "https://mp.weixin.qq.com/s/VAWEpZSqyvw6MMkspE1uTQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "一次丝滑的小程序授权渗透：从 Swagger 到任意用户登录",
+        "url": "https://mp.weixin.qq.com/s/WSLH_SOeIGUsc3YCwRUJGA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "一文讲透新人如何上手AI漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/-ZpFN3bAn0bh6JuGcPhGRw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
     }
 ]
