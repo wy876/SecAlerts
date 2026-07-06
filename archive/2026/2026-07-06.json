@@ -16,5 +16,269 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec",
         "source": "BruceFeIix",
         "date_added": "2026-07-06"
+    },
+    {
+        "title": "【工具更新】EasyShell v2.3 版本更新，1. 新增win进程注入、2. 优化页面布局、3. 修复kcp协议偶尔离线的bug",
+        "url": "https://mp.weixin.qq.com/s/_en_gHzSt27fwLrw4G5Bew",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "供应链安全学习指南(等保与AI供应链专项)",
+        "url": "https://mp.weixin.qq.com/s/sfMl9HUFc56etOJ2-AYf-A",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "从规则匹配到大模型推理：DeepX重塑API逻辑漏洞测试",
+        "url": "https://mp.weixin.qq.com/s/qsv6yEj5h53-UG7A-HuL0Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "冰蝎webshell神器--免杀360、火绒、defender、卡巴斯基等",
+        "url": "https://mp.weixin.qq.com/s/grjZ3Uz1jQqM8PBmGKEtgA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "AI Agent 技能供应链的“隐身衣”与动态防御新范式",
+        "url": "https://mp.weixin.qq.com/s/IcUVR8HOLH14ttjLTQOl1g",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "面了7个渗透测试，发现6个都是半桶水，这5道面试题还没搞懂的先别去面试了！",
+        "url": "https://mp.weixin.qq.com/s/FSIg3sOYlhiyL8_Ha00BhA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "FatFs漏洞使攻击者可利用特制USB/SD卡镜像执行代码",
+        "url": "https://mp.weixin.qq.com/s/WOAnzLINbAj9n92bj7GG7A",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root",
+        "url": "https://mp.weixin.qq.com/s/pe93aMfUEkVVs0j6cqeSfg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/gp-W7XE9TD8rKLzHAlhaEw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "伯克利AI漏洞计划",
+        "url": "https://mp.weixin.qq.com/s/50BX-Y2TAq3D-d9bkRlguw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "630GB 机密文件外泄：为什么苹果的供应链成了最薄弱一环",
+        "url": "https://mp.weixin.qq.com/s/w-ey6N85qEm0D00rwJdbgg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第26期",
+        "url": "https://mp.weixin.qq.com/s/nbpafQwu4CqMuu-zx-xYyA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "新的“糟糕的”Linux内核漏洞让非特权用户获得Root，打击Android",
+        "url": "https://mp.weixin.qq.com/s/w33PbWyml_N-08tOmC8asg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "信息安全漏洞月报（2026年06月）",
+        "url": "https://mp.weixin.qq.com/s/N9ED93sg-sFkZcdKoeKeFw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "T3MP3ST安全框架将AI编程Agent变0day漏洞猎人",
+        "url": "https://mp.weixin.qq.com/s/cz30pdIVzLEuGetqypQAnA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "iPhone将实时预警诈骗风险：iOS27推出反社交工程攻击新功能",
+        "url": "https://mp.weixin.qq.com/s/qR-eWUD2C_7nKo59QM56Ew",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "ldap利用工具公开——JNDIexp",
+        "url": "https://mp.weixin.qq.com/s/_dE3ZS5cBho8Gjfms2i2zA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "MCP新规范所带来的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/JsKUFbdw5NRNaNlFRzom4A",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "Radware AI Xploit Shield：AI 驱动的定制化防护，为漏洞修复争取时间",
+        "url": "https://mp.weixin.qq.com/s/dqrkCBm-M3bIANfyX8JCSg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "FortiBleed 刷屏：边界设备被攻破，往往不是因为一个新 0day",
+        "url": "https://mp.weixin.qq.com/s/aKEy2LkClzLdZ8mcbBavkw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "AirDrop 和 Quick Share 被曝漏洞：最顺手的近场分享，也需要安全边界",
+        "url": "https://mp.weixin.qq.com/s/CO6qqlPYprQJddWFbRn48A",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "AI自主渗透测试机器人设计与实战运用",
+        "url": "https://mp.weixin.qq.com/s/A1hxzfNwJ-_CAryxkg2-gQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/RAr6_K_DgcfMjh_z8T5vaA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "重磅APT预警｜Nexus TAG182组织大肆投放MarkiRAT间谍木马，定向窃取涉密、涉外企业核心资料",
+        "url": "https://mp.weixin.qq.com/s/oiNXGP0fWE8nhXQ5_LFjbw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "中国信息安全测评中心主任彭涛：筑牢数智时代软件供应链安全根基",
+        "url": "https://mp.weixin.qq.com/s/Bupn0bRlR0_FamfpCOHhsw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "炸裂！这款Burp Suite插件让XSS漏洞无所遁形",
+        "url": "https://mp.weixin.qq.com/s/4Rul6jT95jASfzc-2ENdfA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "Apache ActiveMQ Classic 重大 RCE 研究：CVE-2026-34197 及其补丁绕过 CVE-2026-42588 全解析",
+        "url": "https://mp.weixin.qq.com/s/B7GziAOqjRSz5CfRWZxJrw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "Synacktiv 公开披露了一个 Kerberos 反射绕过漏洞（CVE-2026-26128），并提供了 PoC 漏洞利用代码",
+        "url": "https://mp.weixin.qq.com/s/yoENe4EgdO7qEdA-Cz-2sQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "CRA 9 月 11 日强制执行！还想瞒漏洞？SRP 全民举报通道专治企业 “摆烂躺平”导语",
+        "url": "https://mp.weixin.qq.com/s/u5Qre21owKzxSRrCyOkmnA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "后门与入侵：新场景与实战变体",
+        "url": "https://mp.weixin.qq.com/s/iKWB-tIC6rZjzr4CEFnqiQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "容器&amp;K8s攻防全链路：从镜像投毒到集群提权沦陷",
+        "url": "https://mp.weixin.qq.com/s/z0IH_PSNiawp3O8y4bYtpA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "在Langflow开源软件中发现的严重安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/S4TMmQLkB7x-WAoTA7W-2w",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "新型 Linux 内核漏洞 “Bad Epoll” 曝光，普通无权限用户可提权获取最高管理员权限，安卓系统同样受影响",
+        "url": "https://mp.weixin.qq.com/s/KtkTfnQqxf2lzo52M1fjZw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "零木马、不利用漏洞：我是如何看待这波由AI独立挖掘的Chromium API勒索攻击的？",
+        "url": "https://mp.weixin.qq.com/s/Fw2SEOBWYuzlc2ZnWi9Nlw",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "[安全周报] 你 clone 的那个 PoC，运行即中招——ChocoPoC 把安全研究员本人变成了猎物",
+        "url": "https://mp.weixin.qq.com/s/3cC6MXiaBcJi-6uouqQ59w",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "开源 AI 渗透测试框架 Strix 深度评测",
+        "url": "https://mp.weixin.qq.com/s/dOgXYJgRyeNRLC5DU8m_ng",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "六月渗透常用浏览器插件",
+        "url": "https://mp.weixin.qq.com/s/F1gV0rbE9U0kaLzQ6il3tQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "【思路学习】EasyShell实现进程注入",
+        "url": "https://mp.weixin.qq.com/s/hkjaV_wxOJKLNxH9HE-ngA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "数据投毒与后门攻击",
+        "url": "https://mp.weixin.qq.com/s/SAs-buWjVwilPM5Bmppw0Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "【安全圈】6 月高危漏洞数量暴涨",
+        "url": "https://mp.weixin.qq.com/s/XJ2izMj4ItbpGxH7iq35Xg",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "【安全圈】Linux本地权限提升漏洞「Bad Epoll」曝光：CVSS 7.8",
+        "url": "https://mp.weixin.qq.com/s/ed0yvbZ_rpY6bHidv-AJDQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "从 V8 OOB 到 RCE：我让 Claude Opus 写了一条 Chrome 漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/H9rSTDY4Z_-40HTDy0CeIA",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "AI渗透的第零步：CCswitch、CodeX、Claude code安装及大模型APIkey配置",
+        "url": "https://mp.weixin.qq.com/s/rnYQNFVxGqcqCNOgm-pHXQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
+    },
+    {
+        "title": "从0到1渗透测试自动化心得",
+        "url": "https://mp.weixin.qq.com/s/WTt1AnX2nWnzTTBJ6tYhoQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-06"
     }
 ]
