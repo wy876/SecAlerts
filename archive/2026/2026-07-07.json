@@ -334,5 +334,41 @@
         "url": "https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA",
         "source": "Doonsec",
         "date_added": "2026-07-07"
+    },
+    {
+        "title": "工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化",
+        "url": "https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "我的PDF分析助手成了内网跳板：WorkBuddy插件SSRF漏洞复盘，顺便送10套企业版给兄弟们",
+        "url": "https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "hermes 渗透骗子网站",
+        "url": "https://mp.weixin.qq.com/s/kfSGWYy4iKxmhYw-KGDzvA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI会扼杀漏洞赏金产业吗？",
+        "url": "https://mp.weixin.qq.com/s/laspFRAYA4OmgojN86YGkQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "T3MP3ST——ai安全元工具（agent自动化找漏洞）",
+        "url": "https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【AI安全】AI安全左移爆雷！ML-SBOM把模型供应链拉进流水线",
+        "url": "https://mp.weixin.qq.com/s/gfcA-9EeYfBxZV--H4KSnA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
     }
 ]
