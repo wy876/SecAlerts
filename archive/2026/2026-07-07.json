@@ -238,5 +238,47 @@
         "url": "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ",
         "source": "Doonsec",
         "date_added": "2026-07-07"
+    },
+    {
+        "title": "后渗透管理工具 LeoAI",
+        "url": "https://mp.weixin.qq.com/s/OKCFIH1pqYixUgFi8g5dqQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "微软Edge漏洞可致攻击者远程执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "SilverFox黑客利用Go语言RAT+内核Rootkit发起多阶段渗透攻击",
+        "url": "https://mp.weixin.qq.com/s/BCtolZMOGDAFZq0hw5q_Bw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "苹果史上最严重供应链泄露事件始末：630GB机密文件是如何被“顺手摘走”的？",
+        "url": "https://mp.weixin.qq.com/s/cTnwco6fRuSrofMXYPKx7g",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI 在渗透测试中的能力排行：从夯到拉",
+        "url": "https://mp.weixin.qq.com/s/ElMtHjf6HwXF13qL_0eL7g",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)",
+        "url": "https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "漏洞赏金猎人终极侦察清单",
+        "url": "https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
     }
 ]
