@@ -280,5 +280,59 @@
         "url": "https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw",
         "source": "Doonsec",
         "date_added": "2026-07-07"
+    },
+    {
+        "title": "【已复现】Linux FUSE page cache 本地权限提升漏洞(CVE-2026-31694)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce",
+        "url": "https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "搞懂了 AI 渗透测试，你的网站拿什么防？盾甲 WAF Pro 来了！",
+        "url": "https://mp.weixin.qq.com/s/98tQ8R2aUXRYQYAf7gjAuA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查",
+        "url": "https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【已复现】Linux FUSE page cache 越界写本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "BugHunter-AI：智能自动化渗透测试助手",
+        "url": "https://mp.weixin.qq.com/s/LQ_Cig0jY3kRu1FEwhJvUg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "TongWeb 反序列化的图形化检测与利用工具",
+        "url": "https://mp.weixin.qq.com/s/n2BbeRCuYyhprgIesOeyug",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "工具 | ARL灯塔 二开重构版本 自动化资产发现和漏洞监控平台",
+        "url": "https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
     }
 ]
