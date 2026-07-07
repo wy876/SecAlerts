@@ -370,5 +370,17 @@
         "url": "https://mp.weixin.qq.com/s/gfcA-9EeYfBxZV--H4KSnA",
         "source": "Doonsec",
         "date_added": "2026-07-07"
+    },
+    {
+        "title": "新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限",
+        "url": "https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "国家安全部供应链投毒警示",
+        "url": "https://mp.weixin.qq.com/s/16GU5GorSskFU06RTgtsaQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
     }
 ]
