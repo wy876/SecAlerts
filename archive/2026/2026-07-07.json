@@ -1,0 +1,158 @@
+[
+    {
+        "title": "最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+",
+        "url": "https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "《RCE 拾遗》 | 一篇不起眼的技术汇编",
+        "url": "https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "ColdFusion 高危漏洞被利用：老牌 Web 平台，不能再靠“低调运行”避险",
+        "url": "https://mp.weixin.qq.com/s/nXuCJoG7ulb4_KSsmlyiiA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "一个潜伏16年的KVM漏洞，如何让虚拟机「越狱」",
+        "url": "https://mp.weixin.qq.com/s/Y5GARwtAlpPViAqYjO40iQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "GuardFall：开源AI智能体的Shell注入通病",
+        "url": "https://mp.weixin.qq.com/s/lb537xY5JQlCBmOTMLOs-w",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "[AI赋能]某校的信息泄露",
+        "url": "https://mp.weixin.qq.com/s/nwPn-lF1vBGX-rzRa6h6Rw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI安全现状：AI 漏洞风险是传统软件 2.7 倍，修复差距高达 25 倍",
+        "url": "https://mp.weixin.qq.com/s/a3_WGgw7J6ZxJV9cX0mLng",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "苹果印度代工厂被黑|630GB泄密，暴露了供应链安全的三道致命缺口",
+        "url": "https://mp.weixin.qq.com/s/JQxNv6puZPtvl8rIRzcksw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "欧盟CRA重磅红线：漏洞必须官网公开！华为、小米已经做了，大量出海企业还在裸奔",
+        "url": "https://mp.weixin.qq.com/s/6Wt6ayDj7c6tl5aNwsYPfQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI红队演练详解：如何测试LLM漏洞（2026）",
+        "url": "https://mp.weixin.qq.com/s/y1jB-TZMiXTBX671ctGvyQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "DVWA每日实操系列｜第5期 文件包含漏洞 四层手把手通关+SRC高危报告",
+        "url": "https://mp.weixin.qq.com/s/53sL-Vl4fYGvDVqGz3PMgA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【CVE-2026-53359】PoC 已公布",
+        "url": "https://mp.weixin.qq.com/s/DXjVKhqUVim9CKuKOSqTKw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "CVE-2026-40138 与 CVE-2026-40139：BeyondTrust 未经身份验证漏洞（CVSS 评分 9.2）",
+        "url": "https://mp.weixin.qq.com/s/81Hus3Fc1dsnedVfk5J6AA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI自动化提示词注入测试-基于大模型安全手册与MCP的行业大模型安全测试实战",
+        "url": "https://mp.weixin.qq.com/s/C1_S2Qn4I6SNMWUOw97PYg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【AI专题】AI帮我找到了第一个SQL注入",
+        "url": "https://mp.weixin.qq.com/s/d763YRtkMMDVJGvZdh-BnQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "Adobe ColdFusion漏洞CVE-2026-48282现已被利用",
+        "url": "https://mp.weixin.qq.com/s/aoD4L-k8Y4wD3Jbdi09Deg",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "存在长达 16 年的 Linux KVM 漏洞，英特尔、AMD x86 平台虚拟机可突破隔离逃逸至宿主机",
+        "url": "https://mp.weixin.qq.com/s/bwIbT1vwu1gCPKpMFHinVA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "Opera GX 浏览器存在漏洞，恶意网站可自动安装扩展模组，窃取用户访问页面中的数据",
+        "url": "https://mp.weixin.qq.com/s/qTyHEGr8hPKmZX68QnoWgA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "FatFs 存在七处漏洞，物联网与嵌入式设备面临安全风险",
+        "url": "https://mp.weixin.qq.com/s/2J4RL71EPGPWjsg9axZpyA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "漏洞 CVE-2026-20896 披露仅 13 天，威胁攻击者已针对 Gitea 容器漏洞开展探测攻击",
+        "url": "https://mp.weixin.qq.com/s/KRlzRzRNwGVcIS_AtFp4dQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【CVE-2026-43456】潜伏19年的Linux内核0day漏洞，最终收获超 8 万美元奖励",
+        "url": "https://mp.weixin.qq.com/s/4KtTArwoVlOhghworYH_bw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "DirtyClone：Linux内核 DirtyFrag 漏洞家族新变种分析与利用（CVE-2026-43503）",
+        "url": "https://mp.weixin.qq.com/s/gqsNt22hFQsdHNBnzRrweQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "CitrixBleed Infinity：NetScaler预认证内存越读漏洞（CVE-2026-8451）",
+        "url": "https://mp.weixin.qq.com/s/Gm0N0gwbGo2OcIueayTmEQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI 驱动的漏洞自动发现与修复框架",
+        "url": "https://mp.weixin.qq.com/s/7TmQSYt6AEuxBRGvnryipw",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "CSRF赏金速递：那个还在用GET请求修改邮箱的站点，就是你的提款机",
+        "url": "https://mp.weixin.qq.com/s/yc0omsHHMfp2-Z971IZ9kA",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "【热点安全风险】7月7日 |SharePoint Server CVE-2026-45659进入KEV，低权限用户可触发远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/-7Ng2y9wDbAhaGoXmjOB_g",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
+    }
+]
