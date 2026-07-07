@@ -154,5 +154,89 @@
         "url": "https://mp.weixin.qq.com/s/-7Ng2y9wDbAhaGoXmjOB_g",
         "source": "Doonsec",
         "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.6.29-2026.7.5",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503864&idx=1&sn=5a6a9cf7033ad7a586c59b69e009da52",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [Bad Epoll：Linux 内核新漏洞，导致低权限用户获得 root 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=1&sn=5d8dd588bd5df97068ed04c486fd6458",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [FBI FLASH 报告：TeamPCP 攻陷开发工具，发动大规模供应链攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=2&sn=50f4976701325e79599b23d3f3ac6513",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [【已复现】Citrix NetScaler 内存越界读取漏洞(CVE-2026-8451)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506533&idx=1&sn=8ae63928c0dadc6f23fbbaa4966afefd",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [中国信息安全测评中心主任彭涛：筑牢数智时代软件供应链安全根基",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264296&idx=1&sn=814a34251eb9f71c08b1906c6b6563ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [AI安全现状：AI 漏洞风险是传统软件 2.7 倍，修复差距高达 25 倍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141847&idx=1&sn=192957ac8faff837b087c64ed0882d9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [网信办再征求《互联网信息服务管理办法》修订意见；2026 上半年近 90 家新晋独角兽出炉，多家供应链、AI 安全厂商跻身千亿估值行列| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141847&idx=2&sn=0e08487b7ccc6d1c4c6ef876be035fe9",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [OpenAI Daybreak平台推出自动化漏洞检测与修复功能",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486814&idx=1&sn=cde7be827720cb6d8b5c885358f84ef3",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第26期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=1&sn=1710ca9cc571ec4dfcc6e0025086e739",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260629-20260705)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=2&sn=7af90f016bbe05799c5a175dfb16bc17",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=2&sn=5fefff506b6f81b7815f92895ee5ca9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [系统0day安全——主流企业防火墙漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=3&sn=07f37875dfcfcb09667c640cc9554ea6",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第26期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501840&idx=1&sn=f9658306fa118df2760e04539184aa22",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-07"
+    },
+    {
+        "title": "AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？",
+        "url": "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-07"
     }
 ]
