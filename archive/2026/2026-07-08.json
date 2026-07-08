@@ -136,5 +136,65 @@
         "url": "https://mp.weixin.qq.com/s/d3BshNOv91ti17G80jWb2g",
         "source": "Doonsec",
         "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [国家安全部供应链投毒警示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487773&idx=1&sn=1b265c53b4d359de029a344d11dc93df",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [已存在16年的 Linux KVM 漏洞可导致从客户虚拟机逃逸至宿主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=1&sn=cadb21f6556d420bb88549f455cfa643",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [BeyondTrust 修复多个严重的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=2&sn=4f737299033d13d7cabebbe6acee6b34",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [T3MP3ST 安全框架：集成 35 款工具，将 AI 代码智能体转化为零日漏洞挖掘器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790196&idx=1&sn=3f00c235b885725bac7aae84b3f9860e",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [【安全圈】Claude Cowork沙箱逃逸，虚拟机形同虚设",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077739&idx=2&sn=6138c74dbf436afd5f84f72449f26ffa",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [【安全圈】FatFs 中的漏洞使 IoT 和嵌入式设备面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077739&idx=3&sn=cf0cb509a64fb70946bc756edcf48216",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141868&idx=2&sn=8dd0815ebc49a17b1feecb02dd6321cf",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "] [潜伏16年！KVM 跨架构逃逸漏洞曝光，AWS、GCP 全线告急",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617378&idx=3&sn=79c21f6f53344bd046ddfeac65446951",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-08"
     }
 ]
