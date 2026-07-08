@@ -1,0 +1,20 @@
+[
+    {
+        "title": "【热点安全风险】7月8日 |BeyondTrust RS/PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测",
+        "url": "https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞",
+        "url": "https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    },
+    {
+        "title": "高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞)",
+        "url": "https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-08"
+    }
+]
