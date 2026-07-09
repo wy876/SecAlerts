@@ -268,5 +268,23 @@
         "url": "https://mp.weixin.qq.com/s/3luiQRuR4RK5FOZBGnlRnA",
         "source": "Doonsec",
         "date_added": "2026-07-09"
+    },
+    {
+        "title": "零日漏洞引爆电信运营商千万级数据泄露事件",
+        "url": "https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【$7,000】HackerOne 平台最新高危漏洞披露",
+        "url": "https://mp.weixin.qq.com/s/mT2eOMJYfkcpviZmNbK4sA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "一句话套走你的快递：某电商AI助手提示注入漏洞全复盘，我把别人的订单看了个遍",
+        "url": "https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
     }
 ]
