@@ -166,5 +166,107 @@
         "url": "https://mp.weixin.qq.com/s/oM26QWwsbWrzaxsj8Yl7XA",
         "source": "Doonsec",
         "date_added": "2026-07-09"
+    },
+    {
+        "title": "AI 编程助手中发现了一个名为“GhostApproval”的新漏洞",
+        "url": "https://mp.weixin.qq.com/s/kU75b2VwHaGfvSmizljhvw",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【安全圈】Google Dialogflow CX 漏洞可让攻击者劫持 AI 对话",
+        "url": "https://mp.weixin.qq.com/s/H7El9UmBDr_QPgalT95Ukg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险",
+        "url": "https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "首个一键式Android 17漏洞利用链可使攻击者完全控制手机",
+        "url": "https://mp.weixin.qq.com/s/f42pOrBBl7Ft8zmjw-OkZw",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "SharePoint远程代码执行漏洞PoC及技术细节公开",
+        "url": "https://mp.weixin.qq.com/s/0W37yYHwlsnqdeK3OD85KA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战",
+        "url": "https://mp.weixin.qq.com/s/RH2n5i8uP_lh0JmPjKnD8A",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "专题·原创 | 国家工业信息安全发展研究中心总工程师张格：人工智能时代软件供应链安全风险分析与治理对策",
+        "url": "https://mp.weixin.qq.com/s/ne6SXUvwj6IoEFwZC93Dxg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)",
+        "url": "https://mp.weixin.qq.com/s/JpLL8uahfDwGhaTDinUS7g",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)",
+        "url": "https://mp.weixin.qq.com/s/MpebdOCePYUPgo-QBzhalA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "奇安信发布AI加特林，推动渗透测试从“手工化”迈入“智能化”时代",
+        "url": "https://mp.weixin.qq.com/s/OEqy7pILhyWEEyP47OFcCg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【AI安全】Llm-Vuln-Checker开源！金丝雀悄悄揪出LLM安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/pFH1fmJfTxweGR91iY3NPQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/CIKNm78KOXbfkO_aXCcgIg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "启明星辰发布天镜AI-PTS，破解漏洞验证自动化难题",
+        "url": "https://mp.weixin.qq.com/s/Y_XDIUcv-_zYUg9udkNqkQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "Fscan 魔改版 — 内网渗透扫描工具",
+        "url": "https://mp.weixin.qq.com/s/0Wufob4R-u_v9OHFsLEq8g",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "内网渗透体系建设（建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/oOIZYns0j07WSnNMC3F46A",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【漏洞通告】Linux Kernel rtmutex 本地权限提升漏洞(CVE-2026-43499)",
+        "url": "https://mp.weixin.qq.com/s/0dUn1ZJEpeaOb9uKXR5uxA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "630GB机密挂上暗网：苹果二十年供应链铁幕一夜崩塌",
+        "url": "https://mp.weixin.qq.com/s/3luiQRuR4RK5FOZBGnlRnA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
     }
 ]
