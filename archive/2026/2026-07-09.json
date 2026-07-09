@@ -286,5 +286,29 @@
         "url": "https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw",
         "source": "Doonsec",
         "date_added": "2026-07-09"
+    },
+    {
+        "title": "ClaudeCode Ai渗透",
+        "url": "https://mp.weixin.qq.com/s/hyNvI5RUFKG5AeM90hTjNA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "不用逐行扒源码！集成URI路径未授权抓取， JS 解析、主动 Fuzz、指纹风控等，渗透前期资产探测一站式完成",
+        "url": "https://mp.weixin.qq.com/s/XE1P4vncbcdgZ6T0EFi6zQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "工具推荐 | 重构 ARL 经典版：打造全自动资产侦察与漏洞监控平台，AI 二开友好",
+        "url": "https://mp.weixin.qq.com/s/6OlwhUOOPQQjJcWvv_sUuQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告",
+        "url": "https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
     }
 ]
