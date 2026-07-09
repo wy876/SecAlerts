@@ -1,0 +1,74 @@
+[
+    {
+        "title": "PHP 代码审计进入 AI 时代：40+ Agent 协作挖洞，21 类漏洞全自动覆盖",
+        "url": "https://mp.weixin.qq.com/s/gcdNGcYMQjblLr_J2SnQyA",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "GreenLeaf 靶场渗透",
+        "url": "https://mp.weixin.qq.com/s/nAjLwBc10erFLzMyR3PO-A",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "【已复现】隐藏15年的 Linux Kernel 提权漏洞 GhostLock（CVE-2026-43499）",
+        "url": "https://mp.weixin.qq.com/s/T60wZJnLEZQdEEC16bcT5A",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "CNVD 本周漏洞态势研判：零日漏洞占比超八成，政企漏洞事件环比大幅上涨；Microsoft加速采用自研MAI模型，降低对OpenAI依赖| 牛览",
+        "url": "https://mp.weixin.qq.com/s/yudRSd2hjmEd9TxIoLHKmg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到\\\"零信任\\\"信任崩塌的完整攻击链",
+        "url": "https://mp.weixin.qq.com/s/oSNqXiN9cS8V_2xTAPVX-g",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "AI 渗透初探：从零开始的实战赋能记录",
+        "url": "https://mp.weixin.qq.com/s/_pUhWLx7zHepgNvWghaXfQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "EDUSRC--记一次信息泄露进入某学院学工系统的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/hRXsVJyIsjIlFL902kyJ2w",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/bAnlw-h1kFtNhYcB3xVohg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "预警丨防范AI编程工具Claude Code安全后门隐患",
+        "url": "https://mp.weixin.qq.com/s/b6wyDKWwl6OnK1GSu7BUDw",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "重磅预警｜AI批量生成恶意代码！Armored Likho双路线APT来袭，电力、政务系统沦为重点猎物",
+        "url": "https://mp.weixin.qq.com/s/viA04EI6pOSSixSOSGXoDQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "安全从业者开始放弃自动化渗透测试？",
+        "url": "https://mp.weixin.qq.com/s/hfkiqyPtEofndldvk3PH5w",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    },
+    {
+        "title": "大模型 2025–2026 新CVE 漏洞全景/技术详情",
+        "url": "https://mp.weixin.qq.com/s/rxFYZyc7tNO2TYz4jQsYPg",
+        "source": "Doonsec",
+        "date_added": "2026-07-09"
+    }
+]
