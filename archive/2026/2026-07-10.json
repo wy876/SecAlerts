@@ -64,5 +64,71 @@
         "url": "https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw",
         "source": "Doonsec",
         "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [安卓17 IonStack全链路0day漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187608&idx=1&sn=d0397197cbc8664d3cdba598ba15c196",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=1&sn=19edacadf8bc184c678b7e5c5ce9ac6b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [优倍快：注意这个CVSS满分的 UniFi OS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=2&sn=3757390c1aa4853a8fbc99be4bb1c55b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [本周漏洞速递｜13个高危漏洞预警+漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486213&idx=1&sn=5ebbcaa6debb1eb23b13260f2489eb62",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [630GB机密挂上暗网：苹果二十年供应链铁幕一夜崩塌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790201&idx=1&sn=1f1b91e06b9ef03a243dbee709b9a5c1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [安全审计反中招！Claude/GPT-5.5 AI代理遭供应链注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [专题·原创 | 国家工业信息安全发展研究中心总工程师张格：人工智能时代软件供应链安全风险分析与治理对策",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264470&idx=1&sn=2ee8bb85031c546b6a1b7b80fcc38378",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=1&sn=b6c55cfbcccaf3a13fe0dddbfabab1cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=2&sn=2a1b3160d6537cece6ed63bf95562c47",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
+    },
+    {
+        "title": "] [【风险提示】天融信关于防范AI编程工具Claude Code安全后门隐患的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496951&idx=1&sn=20eb03bc0168453f0541829356828612",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-10"
     }
 ]
