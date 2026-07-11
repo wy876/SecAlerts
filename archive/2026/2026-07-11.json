@@ -1,0 +1,170 @@
+[
+    {
+        "title": "电子壳里的漏洞：Electron应用如何成为攻击者的后门温床",
+        "url": "https://mp.weixin.qq.com/s/paLvBHmYGsZIjH9vy8jgOw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20260711）",
+        "url": "https://mp.weixin.qq.com/s/eKyPp0RltqTwA8-HYbCUOw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "炸裂！这款 BurpSuite 插件让 Web 漏洞探测效率提升十倍",
+        "url": "https://mp.weixin.qq.com/s/nbUUN3_k5H4rJKUA3GhGfw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "DVWA每日实操系列｜第8期 弱会话ID漏洞 Weak Session IDs",
+        "url": "https://mp.weixin.qq.com/s/3t4mKqcMLO7dz-Bf8ccggw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "工信部通报 Claude Code 后门，阿里全员禁用",
+        "url": "https://mp.weixin.qq.com/s/E2mv9h1RnDu6PCMiXO2Fsg",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "教育行业SRC供应商漏洞变化 (2026-07-11)",
+        "url": "https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "微软SharePoint Server再次被曝出存在可被远程利用的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "ThinkCMF漏洞全解析：从版本识别到Getshell的实战指南",
+        "url": "https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "潜伏逾十年的U-Boot启动漏洞曝光：数十亿设备面临隐蔽固件攻击",
+        "url": "https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "fast-mcp-telegram 存在严重漏洞，攻击者无需令牌即可访问 Telegram 会话",
+        "url": "https://mp.weixin.qq.com/s/4zi8UhOhBHv4BVXTOsCvQQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "老牌 Shiro550 漏洞为何常年高危？ShiroAttack2 新版工具一键爆破密钥、注入内存马，CLI 批量脚本化渗透",
+        "url": "https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "CVE-2026-40860-ApacheCamel-JMS反序列化RCE 漏洞分析报告",
+        "url": "https://mp.weixin.qq.com/s/08VVWB-4RMKmK7M1XZebtg",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "CVE-2026-54390-JTL-Shop-Smarty-SSTI-远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/0ZgpXVvB5hxs43lQ849jPQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！",
+        "url": "https://mp.weixin.qq.com/s/LepGxY4j_gtwHcT_rm7PSw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "工信部通报Claude Code后门隐患，阿里巴巴7月10日起全员禁用",
+        "url": "https://mp.weixin.qq.com/s/6gn91dOOyUBQlSTUrfYiDA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "Apple Model I/O再爆USD越界写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/WzVM5cuPnmFm4WZItCRmJw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "魔改二开哥斯拉webshell工具--助力红蓝对抗",
+        "url": "https://mp.weixin.qq.com/s/eJ3X2Qzc-LO-kNOJsG6NJQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "安全热点周报：Adobe ColdFusion 曝高危漏洞，披露后两小时内即遭利用",
+        "url": "https://mp.weixin.qq.com/s/Qklt1LQMR0hRZtOPnbaPkw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "【高危漏洞预警】Firefox JIT引擎误编译漏洞CVE-2026-10702",
+        "url": "https://mp.weixin.qq.com/s/C9_7F9TnPyiw7oy0gL-JvA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战",
+        "url": "https://mp.weixin.qq.com/s/b4RRU5wSTl8m-7Z9V9e1SQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "攻防演练前，这679个漏洞建议先查一遍",
+        "url": "https://mp.weixin.qq.com/s/LJ2Y62SXF3abgOM-D15b0Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年7月6日-2026年7月10日）",
+        "url": "https://mp.weixin.qq.com/s/E6CQRxqgImefJn_flh0pYQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "phpmyadminxa0未授权 getshell",
+        "url": "https://mp.weixin.qq.com/s/cXPVzV1W0nmKsnSsFAthgQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "关于暂停接收同程旅行旗下子公司业务漏洞公告",
+        "url": "https://mp.weixin.qq.com/s/wrzXpega5E34Y1AmqiOL6w",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "AiScan-N Ai全自动化渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/5zi8VJP-soq97hTRAaW10g",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "供应链暴露面狩猎实战：从子域挖掘到源码捕获，一条龙讲透",
+        "url": "https://mp.weixin.qq.com/s/7Xl33anz5qcQForK-AHgiQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "7月10日高危CVE漏洞速报",
+        "url": "https://mp.weixin.qq.com/s/0dn-AT5dbbDT8d_3ZHMU2Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "红队内网渗透实战：CVE-2020-0796 SMBGhost 利用（附 EXP 工具）",
+        "url": "https://mp.weixin.qq.com/s/PW_0zEt8AfcEsIKuNVWPhw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    }
+]
