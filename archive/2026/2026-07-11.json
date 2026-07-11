@@ -322,5 +322,47 @@
         "url": "https://mp.weixin.qq.com/s/g9_8rhePmO3qd1SAIcWmSg",
         "source": "Doonsec",
         "date_added": "2026-07-11"
+    },
+    {
+        "title": "Linux内核FUSE漏洞",
+        "url": "https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "WordPress插件漏洞遭大规模武器化",
+        "url": "https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)",
+        "url": "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "大模型从提示词注入到 XSS弹cookie",
+        "url": "https://mp.weixin.qq.com/s/DucTfxMtBmSqF0n_gnGxZA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "Windows新型进程注入技术曝光，四大主流EDR均被绕过",
+        "url": "https://mp.weixin.qq.com/s/WrmbRdjCKimcwwhpkaQjGA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "Linux内核FUSE漏洞可致攻击者获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "ChatGPT漏洞可被利用访问系统文件；新型攻击可远程劫持AI编程Agent执行恶意代码 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
     }
 ]
