@@ -364,5 +364,23 @@
         "url": "https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA",
         "source": "Doonsec",
         "date_added": "2026-07-11"
+    },
+    {
+        "title": "CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年）",
+        "url": "https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "CTFHub：第八十二章——JSON Web Token——敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s/A83OltF-p_six1ErfhQV1g",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
     }
 ]
