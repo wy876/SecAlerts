@@ -400,5 +400,17 @@
         "url": "https://mp.weixin.qq.com/s/lfz-YKOoI8UQ-lnTZjRnBw",
         "source": "Doonsec",
         "date_added": "2026-07-11"
+    },
+    {
+        "title": "赏金技巧精讲：当CSRF Token只在Cookie里重复时，如何优雅绕过",
+        "url": "https://mp.weixin.qq.com/s/IMfuLC2nRcCgLCDttL9rWQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
     }
 ]
