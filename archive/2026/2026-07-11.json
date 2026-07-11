@@ -166,5 +166,149 @@
         "url": "https://mp.weixin.qq.com/s/PW_0zEt8AfcEsIKuNVWPhw",
         "source": "Doonsec",
         "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [信息安全漏洞周报【第082期】",
+        "url": "https://mp.weixin.qq.com/s/Y8g8lMiVDaeHtP9DRpVgjQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [微软修复可获得系统权限的 RoguePlanet Defender 漏洞",
+        "url": "https://mp.weixin.qq.com/s/5UpsjWQCLqXIZ5OJct5y-g",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [PAN-OS 高危缓冲溢出漏洞可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/JWa9J2xcEmj8JGIZQgAVZA",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [0185.绕过人工智能聊天隐私：BOLA 漏洞如何泄露 Spicychat 上的私人信息（赏金 700 美元）",
+        "url": "https://mp.weixin.qq.com/s/DhzyWnex0HDdLtpCMflViQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [CNNVD | 人工智能重要漏洞通报（2026年第十期）",
+        "url": "https://mp.weixin.qq.com/s/Cilus-EjTwI8jpKowSas8g",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [2026攻防演练必修高危漏洞集合（1.0版）",
+        "url": "https://mp.weixin.qq.com/s/uirqC0lz2lQDIYiLHAjz8Q",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s/N55sR2zR2NMDjgDNCwAWIQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [关于暂停接收同程旅行旗下子公司业务漏洞公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485439&idx=1&sn=7519d22f53a5544d65e90a280e73a7a9",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [安全热点周报：Adobe ColdFusion 曝高危漏洞，披露后两小时内即遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506579&idx=1&sn=91e99060ffe9719d45562a11733bdd78",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [微软修复可获得系统权限的 RoguePlanet Defender 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=1&sn=d941c2cb5c34c57f75d892d6de97004a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [PAN-OS 高危缓冲溢出漏洞可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=2&sn=10c96c869a77aaf19ae7c16ff0c786cf",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617440&idx=2&sn=fb5883e5f022860ddd1a9a5f886fc64b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [【安全圈】Windows Defender又爆提权漏洞，赶紧打补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=1&sn=7618468fc5072e3fefd2e8f69fe0eefa",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "] [【安全圈】假7-Zip安装包暗藏后门，你的电脑正被\"出租\"",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=2&sn=b5b54e177a56d9aded1ea3397b19d1f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "幽狼V3.9 新增PHP WebShell",
+        "url": "https://mp.weixin.qq.com/s/hmgI5fjDe_9JDDrjvBVo9w",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "AI 驱动的自动化渗透测试——技术现状、工程实践与演进方向",
+        "url": "https://mp.weixin.qq.com/s/NpWAKjJH69rZFEseRAk04Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "第31篇 全栈AI Web流量分析、冰蝎解密、Java内存马排查与Fastjson漏洞利用全流程",
+        "url": "https://mp.weixin.qq.com/s/CS9Cb1NtgKcYAWEyFKex8w",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "信息安全漏洞周报【第082期】",
+        "url": "https://mp.weixin.qq.com/s/Y8g8lMiVDaeHtP9DRpVgjQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "微软修复可获得系统权限的 RoguePlanet Defender 漏洞",
+        "url": "https://mp.weixin.qq.com/s/5UpsjWQCLqXIZ5OJct5y-g",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "PAN-OS 高危缓冲溢出漏洞可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/JWa9J2xcEmj8JGIZQgAVZA",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "0185.绕过人工智能聊天隐私：BOLA 漏洞如何泄露 Spicychat 上的私人信息（赏金 700 美元）",
+        "url": "https://mp.weixin.qq.com/s/DhzyWnex0HDdLtpCMflViQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第十期）",
+        "url": "https://mp.weixin.qq.com/s/Cilus-EjTwI8jpKowSas8g",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（1.0版）",
+        "url": "https://mp.weixin.qq.com/s/uirqC0lz2lQDIYiLHAjz8Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
+    },
+    {
+        "title": "2026攻防演练必修高危漏洞集合（2.0版）",
+        "url": "https://mp.weixin.qq.com/s/N55sR2zR2NMDjgDNCwAWIQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-11"
     }
 ]
