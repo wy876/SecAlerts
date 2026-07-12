@@ -4,5 +4,23 @@
         "url": "https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "勒索预警 | 某电子科技企业遭勒索威胁，核心数据面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/S-ao_eJQRkdf40Me2lTpVQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
+    },
+    {
+        "title": "教育行业SRC供应商漏洞变化 (2026-07-12)",
+        "url": "https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
+    },
+    {
+        "title": "紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷",
+        "url": "https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
