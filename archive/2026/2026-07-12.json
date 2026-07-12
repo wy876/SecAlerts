@@ -52,5 +52,23 @@
         "url": "https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "hvv 2026 -  服务器上找不到 WebShell，攻击者却还没走：Black Hat 新挖出 7 类 Spring 内存马",
+        "url": "https://mp.weixin.qq.com/s/bvlic2gZPzWGYpmsDvN4WA",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
+    },
+    {
+        "title": "孚盟云 ExportExData.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
+    },
+    {
+        "title": "每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警",
+        "url": "https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
