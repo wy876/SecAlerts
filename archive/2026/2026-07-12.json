@@ -46,5 +46,11 @@
         "url": "https://mp.weixin.qq.com/s/ffJ7HXQctFTrnq7PB3676A",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "Windows新型进程注入技术曝光，四大主流EDR均被绕过",
+        "url": "https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
