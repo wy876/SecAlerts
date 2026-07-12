@@ -88,5 +88,11 @@
         "url": "https://mp.weixin.qq.com/s/Uov2DJa_3K3WrJKWGQxqCw",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号",
+        "url": "https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
