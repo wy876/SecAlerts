@@ -94,5 +94,11 @@
         "url": "https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ",
         "source": "Doonsec",
         "date_added": "2026-07-12"
+    },
+    {
+        "title": "Mysql-JDBC反序列化利用与简单分析",
+        "url": "https://mp.weixin.qq.com/s/KLOacUxCdWdms_RmA-I9IQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-12"
     }
 ]
