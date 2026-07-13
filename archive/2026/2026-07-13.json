@@ -124,5 +124,107 @@
         "url": "https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ",
         "source": "Doonsec",
         "date_added": "2026-07-13"
+    },
+    {
+        "title": "【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注",
+        "url": "https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "直播预告 | 绿盟智能渗透测试系统2.0即将首发——绿盟科技AI安全创新成果发布会",
+        "url": "https://mp.weixin.qq.com/s/VlLGWXUIxSkmJuJQDpWwLw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "Apache su EXEC 日志目录可写导致的 SUID 提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "观点 | 谨防境外AI“后门”风险",
+        "url": "https://mp.weixin.qq.com/s/0tshxEvimBwaWUS1gx4dCg",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "FlowiseAI 任意文件写入漏洞 CVE-2025–26319",
+        "url": "https://mp.weixin.qq.com/s/n4rsvHShD2e7a8n_zD78vQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程",
+        "url": "https://mp.weixin.qq.com/s/Zk0WrX1Kaucq8a_PSlrnFQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "80万用户中招：ModHeader插件供应链攻击案例（附自查修复方案）",
+        "url": "https://mp.weixin.qq.com/s/fHC71Gh4J0hvhnzwt4NTQQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！",
+        "url": "https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "【高危AI漏洞预警】CVE-2026-56271 Flowise硬编码JWT密钥认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "从参数到路径段：kennysql SQL 注入插件",
+        "url": "https://mp.weixin.qq.com/s/TJCV37En1eoZ7xAqU9sidA",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "白昼信安内部漏洞知识库注册邀请码",
+        "url": "https://mp.weixin.qq.com/s/h_ek2fHAQ_nkmmWvNsdRkQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
+        "url": "https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
+        "url": "https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2026年7月）",
+        "url": "https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "大模型安全攻防：提示注入、越狱与防御体系构建",
+        "url": "https://mp.weixin.qq.com/s/-sLIPrF6H_xgTCoRUyFbbA",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "CNNVD | 最新OpenClaw多个安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "Zimbra：速修复这个严重的 Web Client XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
     }
 ]
