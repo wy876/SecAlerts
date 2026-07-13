@@ -226,5 +226,35 @@
         "url": "https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g",
         "source": "Doonsec",
         "date_added": "2026-07-13"
+    },
+    {
+        "title": "紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "AntiDebug Mcp、AI逆向绕过前端，Hook 加密接口，抓取 Vue 路由漏洞，接入 MCP 让 AI 自动化挖掘前端漏洞",
+        "url": "https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃",
+        "url": "https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "Ghostcommit：Agent正在成为供应链攻击的新入口",
+        "url": "https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
+    },
+    {
+        "title": "AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击",
+        "url": "https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw",
+        "source": "Doonsec",
+        "date_added": "2026-07-13"
     }
 ]
