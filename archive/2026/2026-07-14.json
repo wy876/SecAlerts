@@ -160,5 +160,95 @@
         "url": "https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "黑名单不是防火墙 六边形靶场 RCE 中篇：disable_functions、分隔符、空格绕过",
+        "url": "https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "雨季不再来！源码交付，从“孤岛突围”到“智慧防汛”，搞定河湖防汛排涝、河道管网智能监测、实时预警",
+        "url": "https://mp.weixin.qq.com/s/BRg96Nvp_9fCVa6zafJWYw",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "WinFsp 竞争条件漏洞允许攻击者获得 Windows 系统级访问权限",
+        "url": "https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "微软将三条 Salesforce 攻击路径与 ShinyHunters 一年的活动联系起来",
+        "url": "https://mp.weixin.qq.com/s/CfNbH_ZV7nOgeUhW6C1PBg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "数据安全预警 | 暗网出现国内某警校数据泄露",
+        "url": "https://mp.weixin.qq.com/s/aly-EWgU3J0LtY4xJWNaeg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "一个请求头引出的 API 未授权",
+        "url": "https://mp.weixin.qq.com/s/JHM1v1EZaYpiUG6ISC2-YA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "AI Agent 与原生速度融合的高保真漏洞扫描器 —— Vigolium",
+        "url": "https://mp.weixin.qq.com/s/zc59bWR3OiatN7uIuWyjDw",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "专题·原创 | 人工智能时代软件供应链安全风险与标准化建设",
+        "url": "https://mp.weixin.qq.com/s/8otu2PvVMvaJrrSHI2OlQQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "评论 | 堵住“仅退款”规则漏洞",
+        "url": "https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "ServiceNow 严重漏洞导致远程攻击者执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "【免费领】求职宝典：渗透测试工程师面试题大全（含答案）",
+        "url": "https://mp.weixin.qq.com/s/OWpvXR6qefZi72hMZovQpA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)",
+        "url": "https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "【漏洞通告】Apache Airflow Git provider SSH 主机密钥校验绕过漏洞(CVE-2026-58065)",
+        "url": "https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "本周漏洞速递｜9个高危漏洞预警+漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM",
+        "url": "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
