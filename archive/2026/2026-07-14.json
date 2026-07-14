@@ -250,5 +250,23 @@
         "url": "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "美海军最新研究：将二进制文件变成AI逆向的提示注入武器",
+        "url": "https://mp.weixin.qq.com/s/TADcdfp9qUeaNHQEpU-0qQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)",
+        "url": "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "美总统特朗普签署公告豁免关键化学品制造商两年期EPA排放标准，保障国防与半导体供应链安全",
+        "url": "https://mp.weixin.qq.com/s/1LDt_qBw-PmuTjePhn_pMw",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
