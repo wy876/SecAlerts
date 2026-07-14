@@ -28,5 +28,47 @@
         "url": "https://mp.weixin.qq.com/s/R57bIS0NrV04PdOMC8jEJg",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "重磅预警！去中心化黑客集群Scattered Spider来袭：不靠0day，一通电话就能拿下企业全网",
+        "url": "https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "关于首期注册人工智能安全专业人员（CISP-AISS）培训班成功举办的通告",
+        "url": "https://mp.weixin.qq.com/s/Hoj-5Oo5VTGASIFcfwsf5A",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "教育行业SRC供应商漏洞变化 (2026-07-14)",
+        "url": "https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "Turla 黑客利用 SharePoint 漏洞访问了数千个法国用户账户",
+        "url": "https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "[AI]Claude + Skills 自动漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/Suse7SDHzmHToDp59O8RvA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "勒索预警 | 某知名自动驾驶科技公司遭勒索组织威胁，核心数据面临风险",
+        "url": "https://mp.weixin.qq.com/s/i3D7OwPDbBGi1r92UfNZqg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "0day | 企业信息发送平台 getLicenceDetail 存在任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
