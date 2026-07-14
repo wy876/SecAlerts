@@ -274,5 +274,17 @@
         "url": "https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "Web3智能合约安全漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/ylUhqNEMjPDfS4lul9peig",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/6ORZfXD31yoXd1F89Wljgg",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
