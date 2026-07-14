@@ -70,5 +70,89 @@
         "url": "https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA",
         "source": "Doonsec",
         "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [美国议员提出《AI事件报告法案》  ，强制AI安全事件上报",
+        "url": "https://mp.weixin.qq.com/s/bKEAM7_XsSUDpVSSzRQV_g",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187670&idx=1&sn=e4cbd372c8518ba70dcb92c1e0d31e56",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [Zimbra：速修复这个严重的 Web Client XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [最新高危漏洞与零日威胁（底层与AI层面）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486221&idx=1&sn=a21d8e52aca4ed0fe45e5f3eb149e821",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [观点 | 谨防境外AI“后门”风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264610&idx=5&sn=e60e0136e7dd1d293d2f1c85b2f5983b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [悬赏令：寻找数字世界的守夜人 | DayDayPOC 0day漏洞悬赏计划正式启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488305&idx=1&sn=67ce6e9247931c0962ac6703689663fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第27期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=1&sn=2d293d88cb0b49d8ea0a7615081e96d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260706-20260712)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=2&sn=ac9146bfb4881155b3fb28465f9109c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "聊一聊CORS跨域漏洞的危害",
+        "url": "https://mp.weixin.qq.com/s/s6hhOyoq3xKgy22nJLMAsQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览",
+        "url": "https://mp.weixin.qq.com/s/9qd6fLdPA22kSEAiyltVIA",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "CVE-2026-42989：Windows 10 1607 权限提升漏洞 + POC",
+        "url": "https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "Src捡钱12，AI一键自动挖掘小程序漏洞",
+        "url": "https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "中国信通院通过CCRC首批软件供应链安全管理能力评估",
+        "url": "https://mp.weixin.qq.com/s/IYtEb18EvuaR07NKh2wq9g",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
+    },
+    {
+        "title": "第33篇 全栈AI · 从Skill注入到系统级失控",
+        "url": "https://mp.weixin.qq.com/s/OSF_qJRZefzTNgXZ87m_9w",
+        "source": "Doonsec",
+        "date_added": "2026-07-14"
     }
 ]
