@@ -10,5 +10,107 @@
         "url": "https://mp.weixin.qq.com/s/Kndq5ayLaknllpu48PedcA",
         "source": "Doonsec",
         "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [安全简讯（2026.07.15）",
+        "url": "https://mp.weixin.qq.com/s/qnX5Jpld_1igRCEA8Qokng",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [2026年9月起Microsoft Entra ID将通行密钥设为默认认证，逐步淘汰短信语音MFA；美国国防部暂停网络安全成熟度认证第二阶段强制审核| 牛览",
+        "url": "https://mp.weixin.qq.com/s/O9lOOxMRce4BlfbkBNOqMw",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [SS7 漏洞与广告技术，如何盯上美军中东人员",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187692&idx=1&sn=3bbdbc69fac5f16ca1fc30e077e770c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [SonicWall：立即修复已遭0day攻击利用的 SMA1000 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526630&idx=1&sn=3f9411edee6fd9805cd5ac7a7991a3c2",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [微软7月补丁星期二修复史上数量最多的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526630&idx=2&sn=0dd3f439ec51453fe46eef04eb0970fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [【AI复盘】浏览器扩展供应链投毒事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487819&idx=1&sn=0c6765ea8315c846c474203c681e07de",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [伊朗利用电信漏洞实时监视美军位置，疑似用于作战打击行动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516266&idx=1&sn=4311301b6135b944202304ed3ecd2e55",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [“金鹰计划”启动：美国政府依托前沿AI构建漏洞发现与修复协同体系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516266&idx=2&sn=ac47a71404723b44c902e23269251553",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [一句假验证码，一条真命令：ClickFix 如何取代钓鱼邮件成为今年最暴利的渗透手段",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519497&idx=1&sn=b44b552e5cf0d52bead00e382aaaf56e",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [微软史诗级补丁日：622个漏洞、两个在野0Day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617607&idx=2&sn=7521a846e88151a555ba4193940755c8",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [“首发，前沿大模型突破渗透测试新范式”——绿盟智能渗透测试系统2.0正式发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264678&idx=1&sn=82934d320435d77274f98e5263b731a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [微软7月补丁日多个产品安全漏洞风险通告：2个在野利用、43个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506617&idx=1&sn=c75e95b55101fd5c8ab87eee2f9bbde4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [微软补丁日安全通告|7月份",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526062&idx=1&sn=7e2b706ae953a771a05d02133c0a8cd6",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [2026-07微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535346&idx=2&sn=85d009b76b2a3781a0547b62387c2759",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [300余项隐患清零！360\"破阵子\"渗透测试智能体为国家重点行业做安全体检",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586594&idx=1&sn=58babab8123ebda61c036094d78d4d71",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "] [XCon2026议题||一触即溃：AI赋能的LLM推理引擎模糊测试及基础设施漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587754&idx=1&sn=d648e4127937ada23eafb8c38e3332f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-16"
+    },
+    {
+        "title": "渗透测试从业者的新工具 潜影 TraceHarvest",
+        "url": "https://mp.weixin.qq.com/s/wRyYs_Mtn22GfKHEQtzexg",
+        "source": "Doonsec",
+        "date_added": "2026-07-16"
     }
 ]
