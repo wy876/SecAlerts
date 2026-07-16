@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw",
         "source": "Doonsec",
         "date_added": "2026-07-16"
+    },
+    {
+        "title": "用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞",
+        "url": "https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-07-16"
     }
 ]
