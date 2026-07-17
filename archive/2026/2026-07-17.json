@@ -46,5 +46,71 @@
         "url": "https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw",
         "source": "Doonsec",
         "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [用缓冲区溢出漏洞把矿卡变成 A100",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257342&idx=1&sn=dfb0ede540af1cb3a4b311414e6537a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [Zoom：注意这个严重的账户接管漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=1&sn=7a16b14bc318e77d8eaa96cd6c7f7025",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [CISA：立即修复这些已遭利用的 SharePoint 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=2&sn=fe817375b8e1b3316d7d8bc37bfe109f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [微步情报局发现并协助修复Eclipse Jetty 12 路径穿越漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508760&idx=1&sn=dc6529b7677375b6b25b63a962ed7fed",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516274&idx=2&sn=985eaf02edb693d50f852d4633c29f2c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [观点 | 谨防境外AI“后门”风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504448&idx=1&sn=8731755d180d00ac5b44b071d68db117",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [【安全圈】SonicWall爆出两个零日漏洞，黑客已在利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=2&sn=afe6269498d72500b766add22dac0d26",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617641&idx=2&sn=c9db90ecf64e7fc1a85189aaaeff52d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [【开源报告】美国全球供应链数据掌控与供应链安全控制分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156607&idx=1&sn=3f4a7d8d36ee97dbcb592294fe5763b9",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [【安全公告】深信服安全公告一则",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526068&idx=1&sn=da1eefaf936e0c0e9060b553119104c3",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
+    },
+    {
+        "title": "] [AI智能体安全｜问境AIST如何实现智能体评估-验证-预警一站式闭环治理！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647800023&idx=1&sn=03fcdcc08ebda783ebf854a80049c8e0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-17"
     }
 ]
