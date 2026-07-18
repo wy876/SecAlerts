@@ -106,5 +106,35 @@
         "url": "https://mp.weixin.qq.com/s/UKxjfVTBysClubWx5qdMgg",
         "source": "Doonsec",
         "date_added": "2026-07-18"
+    },
+    {
+        "title": "2026年攻防比赛中漏洞类型总结（AI改变漏洞挖掘方式）",
+        "url": "https://mp.weixin.qq.com/s/NMJr4ODJRhelRJ5jWd07Gw",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
+    },
+    {
+        "title": "【已复现】WordPress REST API 批处理路由混淆与 SQL 注入远程代码执行漏洞（CVE-2026-63030）",
+        "url": "https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
+    },
+    {
+        "title": "WordPress 出现关键 RCE 漏洞 wp2shell",
+        "url": "https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
+    },
+    {
+        "title": "小米科技：智能网联汽车下的渗透与安全能力建设",
+        "url": "https://mp.weixin.qq.com/s/J0taCvpy330Hy_QHMGnYWQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
+    },
+    {
+        "title": "上海创时汽车：面向车辆域控制器的渗透测试方法研究",
+        "url": "https://mp.weixin.qq.com/s/BTDvic6GH-KPcliTzDJ90g",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
     }
 ]
