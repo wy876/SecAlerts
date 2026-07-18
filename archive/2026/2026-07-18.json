@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s/sxTXiq6GWi5SZxR-eNDfDA",
         "source": "Doonsec",
         "date_added": "2026-07-18"
+    },
+    {
+        "title": "7-Zip高危漏洞CVE-2026-14266",
+        "url": "https://mp.weixin.qq.com/s/zvBoxczYivm6LbiIiiR_MA",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
+    },
+    {
+        "title": "OpenSSL“HollowByte”漏洞：11字节触发DoS攻击",
+        "url": "https://mp.weixin.qq.com/s/DGxLH0pUpEIidOdEh5jqLQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-18"
     }
 ]
