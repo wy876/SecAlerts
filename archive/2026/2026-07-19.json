@@ -16,5 +16,17 @@
         "url": "https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA",
         "source": "Doonsec",
         "date_added": "2026-07-19"
+    },
+    {
+        "title": "] [【安全圈】WordPress致命漏洞：无需密码即可远程控制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-19"
+    },
+    {
+        "title": "] [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-19"
     }
 ]
