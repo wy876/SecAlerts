@@ -1,0 +1,26 @@
+[
+    {
+        "title": "] [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-20"
+    },
+    {
+        "title": "] [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-20"
+    },
+    {
+        "title": "] [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-20"
+    },
+    {
+        "title": "] [模型供应链安全与水印",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-20"
+    }
+]
