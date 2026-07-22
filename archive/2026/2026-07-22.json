@@ -34,5 +34,113 @@
         "url": "https://mp.weixin.qq.com/s/k7paNwesuC2Es-XUhO32ew",
         "source": "Doonsec",
         "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [已捕获攻击，Fastjson 远程代码执行漏洞二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508767&idx=1&sn=a30a94ada407131159de8052f9145269",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [关于 Fastjson 1.2.83 RCE 漏洞，看这一篇就够了，包含漏洞细节与影响面分析！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500626&idx=1&sn=dca535f3a68a0add8cba6b4b75cf8cdc",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [【已支持检测&常见问题汇总】Fastjson 1.2.83 远程代码执行漏洞二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493266&idx=1&sn=2d09079d7c72f570bd9569981bfa06f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [【已复现】Fastjson 1.2.83 远程代码执行漏洞(QVD-2026-43021)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506836&idx=1&sn=3d27e287c7014529ffc69619bcafa121",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [已存在15年之久的 NGINX 漏洞可导致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526682&idx=1&sn=7610fee3a9f96ecb3c9e96f04db49188",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [【已复现】Fastjson 1.2.83 远程代码执行漏洞(QVD-2026-43021)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526682&idx=2&sn=ec15c9ace9d49725ba668dd6da12949f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [7-Zip 新漏洞可导致构造的 XZ 文档文件在解压过程中执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526682&idx=3&sn=ecc7543242c5bf90b3396d150d52ce48",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [专题·原创 | 油气行业人工智能供应链安全治理体系初探",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264876&idx=1&sn=a6f1153244b7897a85055ae86504018a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [成果分享 | [ACM CCS 2026] PHPBench：自动化合成高质量Web漏洞基准数据集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499497&idx=1&sn=ae659465485d3c3071c926abe34c6969",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [【风险提示】天融信关于 Fastjson 1.2.83 默认配置下远程代码执行漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497072&idx=1&sn=8fca263a9a6d7154f01c872f45eeda83",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [漏洞预警丨WordPress Core 未授权远程代码执行漏洞（CVE-2026-60137）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488318&idx=1&sn=1cb8e928879c0fcccd787994b39edbdf",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [使用Memfit复现最新的Fastjson远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530009&idx=1&sn=101c81bd3b9b13aa9cff78872e481180",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第28期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501894&idx=1&sn=03478f7d71c61599ba07c61c9bda51f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [腾讯云安全已支持防护最新Fastjson远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497827&idx=1&sn=3ec8c27389f00958493443b3d15cdfa4",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "] [【漏洞通告】Fastjson 1.2.x无需gadget远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492688&idx=1&sn=9a2d77050851934abb5d9cd375b6c2be",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "[AI]Codex破限工具codex-keysmith，可对GPT5.6 Sol使用，渗透测试必备",
+        "url": "https://mp.weixin.qq.com/s/5OTWucdNZg-fT4zkb5NLVg",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "全网首发|授权渗透测试中围观大佬现场出0day的飘逸身姿",
+        "url": "https://mp.weixin.qq.com/s/DVAMYRjIBuVf_4MJc_oYYw",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/hyQ-Zr-AY10q5XGG9znmSQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
     }
 ]
