@@ -142,5 +142,41 @@
         "url": "https://mp.weixin.qq.com/s/hyQ-Zr-AY10q5XGG9znmSQ",
         "source": "Doonsec",
         "date_added": "2026-07-22"
+    },
+    {
+        "title": "【漏洞通告】NGINX map 指令正则匹配漏洞(CVE-2026-42533)",
+        "url": "https://mp.weixin.qq.com/s/XJVHhJtU27GCPFLTIQCeWA",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "OpenAI 自曝：AI 在测试中“黑”了 Hugging Face，还用了零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/FGICc-myx0z_p1nLUpQN9g",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "危险速查！！！Fastjson 远程代码执行漏洞，这些版本全部受影响！",
+        "url": "https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "HollowByte：11字节 payload 耗尽 OpenSSL 服务器内存",
+        "url": "https://mp.weixin.qq.com/s/7UZpHD2ODjF-HBUyARQB-w",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
+    },
+    {
+        "title": "SQL注入漏洞详解，不信你还听不懂",
+        "url": "https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-22"
     }
 ]
