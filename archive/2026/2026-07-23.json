@@ -4,5 +4,35 @@
         "url": "https://mp.weixin.qq.com/s/kvSvM8r9TuuVGdiYNi1W8Q",
         "source": "Doonsec",
         "date_added": "2026-07-23"
+    },
+    {
+        "title": "600,000个网站面临风险:Ninja Forms存储型XSS漏洞CVE-2026-65048,CVSS评分高达9.3",
+        "url": "https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "抱歉，团队彻底解散了！（7.23 渗透安全HackTwo）",
+        "url": "https://mp.weixin.qq.com/s/cJNZCFyB-CMRe32rEC7_Zw",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "漏洞复现 | KodExplorer 存在弱口令漏洞",
+        "url": "https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "OpenAI智能体化身黑客攻破沙箱，亚信安全如何破解Agent越权危机？",
+        "url": "https://mp.weixin.qq.com/s/VEs6cipcN6fP733PxMssdg",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "漏洞挖掘信息收集技巧",
+        "url": "https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
     }
 ]
