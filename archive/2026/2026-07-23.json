@@ -34,5 +34,65 @@
         "url": "https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q",
         "source": "Doonsec",
         "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [网络安全（黑客）自学指南",
+        "url": "https://mp.weixin.qq.com/s/f_EXPIA-jO-DHTOF8X3btw",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [HollowByte：11字节 payload 耗尽 OpenSSL 服务器内存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=2&sn=19d182f7c28b8e4d3213f8e146b549e6",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [NGINX 新漏洞，特定配置下可实现远程代码执行（CVE-2026-42533）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [Oracle 2026年7月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506847&idx=1&sn=23a4dd4b28b5470da2ae125c347f5a5c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [Goby POC 接入 LLM：让漏洞验证从硬匹配走向智能辅助判断",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545924&idx=1&sn=d396e79ad63b5182bf60d63a3e8c70ff",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [供应链威胁持续发酵：Shai-Hulud出新变种绕过npm防护窃密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535654&idx=1&sn=da95fa04e15e5f9d1dd91cd79491745f",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [2026年了，核弹还是fastjson，fastjson1.2.83 RCE是怎么回事？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484341&idx=1&sn=522af3f09633a3a50db2604e6a6c1435",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "] [漏洞预警丨fastjson @JSONType 远程类加载远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-23"
+    },
+    {
+        "title": "安全快报 | 俄罗斯情报部门利用北约国家和乌克兰联防摄像头漏洞监视军事行动",
+        "url": "https://mp.weixin.qq.com/s/9V01iepOzB3hGFiqHbEKJw",
+        "source": "Doonsec",
+        "date_added": "2026-07-23"
     }
 ]
