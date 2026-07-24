@@ -64,5 +64,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309",
         "source": "BruceFeIix",
         "date_added": "2026-07-24"
+    },
+    {
+        "title": "零基础如何靠挖漏洞拿下5位数赏金？这份网络安全进阶路线图请收好！",
+        "url": "https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg",
+        "source": "Doonsec",
+        "date_added": "2026-07-24"
+    },
+    {
+        "title": "Redis身份认证后远程代码执行漏洞通告【已复现】",
+        "url": "https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w",
+        "source": "Doonsec",
+        "date_added": "2026-07-24"
     }
 ]
