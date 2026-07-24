@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w",
         "source": "Doonsec",
         "date_added": "2026-07-24"
+    },
+    {
+        "title": "Certighost（CVE-2026-54121）",
+        "url": "https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w",
+        "source": "Doonsec",
+        "date_added": "2026-07-24"
     }
 ]
