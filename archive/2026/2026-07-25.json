@@ -10,5 +10,53 @@
         "url": "https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA",
         "source": "Doonsec",
         "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [Exim 目录遍历漏洞可导致提权攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=1&sn=e450a187189ae76bc556333fbc37648d",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [Claude Cowork 漏洞可导致虚拟机逃逸，访问Mac 文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=2&sn=0a25dcdaee8bc34e615e2810c85393ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [AI代理90分钟挖出19个Redis零日？Kimi K3再曝RCE利用链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=2&sn=a5bd468f11bd6ba992a4c51df69aec0a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=3&sn=d9d9ba528a275b385fef04c094d6c3b9",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [G.O.S.S.I.P 特别推荐 2026-07-24 “千里码”安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501882&idx=1&sn=288ad43b9c6ea1554a94c7dd61473d7e",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [CNVD发布上周漏洞周报：上周新增漏洞 2613 个数量大幅反弹；Google将CodeMender推向企业，AI实现漏洞验证与自动修复| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142060&idx=2&sn=af18310d2c276b39f3d8578227ed9fa1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [【安全圈】数百万辆车可被远程熄火！这个漏洞比你想的更恐怖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077973&idx=3&sn=80897a1548847b963e2ede10cd064e0c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
+    },
+    {
+        "title": "] [Wordpress7.0 wp2shell 未授权RCE（CVE-2026-63030 / CVE-2026-60137）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-25"
     }
 ]
