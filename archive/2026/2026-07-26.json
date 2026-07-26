@@ -1,0 +1,14 @@
+[
+    {
+        "title": "【成功复现】Linux Kernel XFS Reflink本地权限提升漏洞(CVE-2026-64600)",
+        "url": "https://mp.weixin.qq.com/s/rig5KozDcNQgz-A_sH1K8w",
+        "source": "Doonsec",
+        "date_added": "2026-07-26"
+    },
+    {
+        "title": "漏洞复现 | Langflow validate_code 远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw",
+        "source": "Doonsec",
+        "date_added": "2026-07-26"
+    }
+]
