@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw",
         "source": "Doonsec",
         "date_added": "2026-07-26"
+    },
+    {
+        "title": "吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例",
+        "url": "https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A",
+        "source": "Doonsec",
+        "date_added": "2026-07-26"
     }
 ]
