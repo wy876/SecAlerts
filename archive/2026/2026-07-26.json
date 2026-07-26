@@ -28,5 +28,17 @@
         "url": "https://mp.weixin.qq.com/s/Oqw4Yq6aSgH0kuQ3kTsXmw",
         "source": "Doonsec",
         "date_added": "2026-07-26"
+    },
+    {
+        "title": "每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向",
+        "url": "https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew",
+        "source": "Doonsec",
+        "date_added": "2026-07-26"
+    },
+    {
+        "title": "ClickHouse 数据库渗透测试指南",
+        "url": "https://mp.weixin.qq.com/s/JG3luvhVInqn4z7ZJ_rf7w",
+        "source": "Doonsec",
+        "date_added": "2026-07-26"
     }
 ]
