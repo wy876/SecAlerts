@@ -46,5 +46,29 @@
         "url": "https://mrxn.net/jswz/yonyou-u8c-extsystem-dst-sqli.html",
         "source": "MRXN",
         "date_added": "2026-07-27"
+    },
+    {
+        "title": "Fastjson2劲爆RCE！！！官方临时缓解建议。",
+        "url": "https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "NodeBB 修复由AI发现的8个漏洞，可暴露管理员访问权限和私密聊天记录",
+        "url": "https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入",
+        "url": "https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
+    },
+    {
+        "title": "某SRC连环druid下的全回显SSRF",
+        "url": "https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw",
+        "source": "Doonsec",
+        "date_added": "2026-07-27"
     }
 ]
