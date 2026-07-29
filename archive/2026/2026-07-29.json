@@ -22,5 +22,107 @@
         "url": "https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w",
         "source": "Doonsec",
         "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [原创漏洞 | macOS/iOS Libnotify 栈溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [无法快速修补漏洞的技术供应商，或将被禁止进入政府市场",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [测试 XSS 弹窗被重置？绕过它只花了 3 毛钱！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [突发！libssh2曝四枚高危漏洞，恶意SSH服务器可操控客户端内存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [内容更新！系统0day安全——主流企业防火墙漏洞挖掘（第11期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [论坛·原创 | 我国支柱产业开源供应链安全风险与治理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [Microsoft 发布 MAI-Cyber-1-Flash 安全大模型，安全 AI 成本直降五成；CNVD漏洞周报2026年第29期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [【安全圈】Fastjson2紧急修复远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [hvv 2026 - 最近Redis的RCE 怎么看",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第29期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "黑客的漏洞监控平台，随时可能失效",
+        "url": "https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "GPT-5.6自主“破狱”！AI不仅学会了挖掘0-day漏洞，还洗劫了Hugging Face……",
+        "url": "https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "AI代理全面渗透，企业安全治理是否到位",
+        "url": "https://mp.weixin.qq.com/s/BTHh3Gn8IuU6S-sNaxcQ_w",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "7月社区投稿活动 | 漏洞挖掘/AI渗透",
+        "url": "https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
     }
 ]
