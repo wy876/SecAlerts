@@ -124,5 +124,23 @@
         "url": "https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA",
         "source": "Doonsec",
         "date_added": "2026-07-29"
+    },
+    {
+        "title": "从一次 TeamCity 认证绕过，看 CI/CD 系统最危险的信任边界",
+        "url": "https://mp.weixin.qq.com/s/Oe4c_NYcFvyRuP0uXOWRqA",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "本周回顾：失控AI代理、Check Point漏洞利用、Slopsquatting、ClickFix诱饵及其他事件",
+        "url": "https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
+    },
+    {
+        "title": "倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛",
+        "url": "https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg",
+        "source": "Doonsec",
+        "date_added": "2026-07-29"
     }
 ]
