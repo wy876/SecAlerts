@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142106&idx=2&sn=72b55dec1e901b9b60341ded7dbed0c5",
         "source": "BruceFeIix",
         "date_added": "2026-07-30"
+    },
+    {
+        "title": "黑客是如何入侵网站？为什么企业网站需要做渗透测试？",
+        "url": "https://mp.weixin.qq.com/s/oxi3TxpoMBgNanXOdxPpmA",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "一张图片拿下 Rails 服务器，CVSS 9.5 命令执行零门槛",
+        "url": "https://mp.weixin.qq.com/s/birSjBq7p5wjoxnPCUfFow",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
     }
 ]
