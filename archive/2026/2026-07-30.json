@@ -46,5 +46,59 @@
         "url": "https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html",
         "source": "MRXN",
         "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.7.20-2026.7.26",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503889&idx=1&sn=4a1cc75b84e95e0eca72681aedaadb01",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [原创漏洞 | Apple macOS SMB 内核内存损坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508789&idx=1&sn=1b37679a0aa07a0b0486336a9bf731a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790293&idx=1&sn=3dafe8f68a7666a50c6edd26cfbe7932",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486291&idx=1&sn=a02060010a5e026011668cfa2072d079",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [【安全圈】Check Point 紧急修复！认证绕过漏洞 PoC 已公开，CVSS 9.3",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=1&sn=79d6a8b9aa80aaae459d916c7b6cb35a",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [【安全圈】Gitea 紧急修复！CVSS 9.8 RCE 漏洞 PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [速更！iOS 26.6 修复内核代码执行、Root提权等高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "] [国标委下达 29 项强制国标计划，《智能体应用安全基本要求》在列；Claude共享聊天记录可被Google搜索到，敏感信息暴露| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142106&idx=2&sn=72b55dec1e901b9b60341ded7dbed0c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-30"
     }
 ]
