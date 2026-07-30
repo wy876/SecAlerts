@@ -4,5 +4,47 @@
         "url": "https://mp.weixin.qq.com/s/jSrhvl1NmPENlUMlsQSH6Q",
         "source": "Doonsec",
         "date_added": "2026-07-30"
+    },
+    {
+        "title": "时空智友ERP workflow.sqlResult SQL注入",
+        "url": "https://mp.weixin.qq.com/s/h058_bRpJtPeNynzT_7Mbw",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "如何用 20 年前的漏洞在几分钟内黑掉数千个数据中心",
+        "url": "https://mp.weixin.qq.com/s/QBN7A8B8BohcTbVbjtHV-g",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "除了大模型，AI渗透测试还差啥？",
+        "url": "https://mp.weixin.qq.com/s/6Hs5k-sHOS5Qp4QaGAWEHw",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "软件供应链安全管理制度",
+        "url": "https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg",
+        "source": "Doonsec",
+        "date_added": "2026-07-30"
+    },
+    {
+        "title": "金和OA C6 PlanGiveOut.aspx SQL注入漏洞+越权访问IDOR漏洞+XSS漏洞",
+        "url": "https://mrxn.net/jswz/jhsoft-PlanGiveOut-planid-httpOID-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-07-30"
     }
 ]
