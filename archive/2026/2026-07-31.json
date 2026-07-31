@@ -4,5 +4,59 @@
         "url": "https://mp.weixin.qq.com/s/7TmbnVnWMy7-pjlJOiWTKA",
         "source": "Doonsec",
         "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [原创漏洞 | Apple iOS/macOS Kernel NECP 内核内存损坏漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508794&idx=1&sn=a1930c22e9e7e12cedb3628319463abd",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [【AI复盘】苹果供应链塔塔电子遭勒索事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487869&idx=1&sn=107591875b0534cc865fd6ab552fd7ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [【安全圈】Cisco 防火墙惊现后门，黑客登录只需一个密码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078077&idx=2&sn=f9c9a8e55b7db560ec392c85530a0c15",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [安卓最新Root提权漏洞分析与利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485374&idx=1&sn=70e3f7da734cb81e92aedc72e7e58988",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [【公告】关于 AI 生成漏洞报告提交违规行为通告及成长守卫分规则更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851083&idx=1&sn=9b6f68096f5b1959fbf0fe5c816ad560",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [【深度研判】加拿大籍华裔北约实习生因间谍罪在比利时被捕，五大眼联盟对华裔渗透叙事与海外我人安全风险升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568897&idx=2&sn=20f029d78604f5ddc4892c5fef5f3aad",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [倒计时2天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516623&idx=1&sn=6ab58c2fc410ac8bd46f28a5f26d093d",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "] [除了大模型，AI渗透测试还差啥？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187189&idx=1&sn=8e892d79206acfd212cfb456c3c72313",
+        "source": "BruceFeIix",
+        "date_added": "2026-07-31"
+    },
+    {
+        "title": "OpenAI 测试模型突破沙箱逃逸：AI 治理规则无法约束智能体真实攻击路径；CNNVD 周报：漏洞总量大幅回升，Oracle 漏洞占比超四成| 牛览",
+        "url": "https://mp.weixin.qq.com/s/a0lEf4ToqanL2CkPhZ1WDg",
+        "source": "Doonsec",
+        "date_added": "2026-07-31"
     }
 ]
