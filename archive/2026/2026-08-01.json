@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s/_Egpcp_BCUxh4-Qba7a17Q",
         "source": "Doonsec",
         "date_added": "2026-08-01"
+    },
+    {
+        "title": "谷歌利用AI Agent发现并修复1072个Chrome安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/Lguy_F9oFuRPzlLUKMOrWA",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "史上首次完全自主AI Agent网络攻击；Kimi K3 Agent发现多个Redis零日漏洞 | FreeBuf周报",
+        "url": "https://mp.weixin.qq.com/s/2ipv6IV_JVxFbJImY8D0og",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
     }
 ]
