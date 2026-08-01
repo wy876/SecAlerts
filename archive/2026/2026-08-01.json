@@ -106,5 +106,17 @@
         "url": "https://mp.weixin.qq.com/s/2ipv6IV_JVxFbJImY8D0og",
         "source": "Doonsec",
         "date_added": "2026-08-01"
+    },
+    {
+        "title": "紧急预警>>Linux 内核 UAF 竞态预警，5.7–7.1.4 全员受影响",
+        "url": "https://mp.weixin.qq.com/s/V9ImpXO1CpaA67HWKVYnxQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "提示词注入靶场PromptTrace gauntlet 关卡1-10 解题记录思路分享",
+        "url": "https://mp.weixin.qq.com/s/f0kIh4toR5PiZ1eLV3BaaQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
     }
 ]
