@@ -82,5 +82,17 @@
         "url": "https://mp.weixin.qq.com/s/pt9Et-YbwxLL66YvkVOsLw",
         "source": "Doonsec",
         "date_added": "2026-08-01"
+    },
+    {
+        "title": "安天智能体完成Fastjson2.x SeeAlso链RCE漏洞PoC验证",
+        "url": "https://mp.weixin.qq.com/s/0W1AAi1mQlsl7ubWqS7T5w",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "当AI开始自主攻击，你还在手动做渗透测试？",
+        "url": "https://mp.weixin.qq.com/s/_Egpcp_BCUxh4-Qba7a17Q",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
     }
 ]
