@@ -4,5 +4,83 @@
         "url": "https://mp.weixin.qq.com/s/0ETr-wlcu-do83e5B-r2Jw",
         "source": "Doonsec",
         "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [JetBrains：注意这个严重的 TeamCity RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526780&idx=2&sn=9caf8a3656313521d7bfc27e0ebb7451",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [倒计时1天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516627&idx=1&sn=a62923ed0e58ef99e6368c3a8dfca486",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [从现有证据来看，AI漏洞挖掘被过度炒作",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543636&idx=1&sn=09e466f9fef9c91b2f6136a0f60756f8",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [攻破微软 Edge 浏览器的 Pwn2Own 全链路逻辑漏洞技术分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618071&idx=1&sn=73c6a5d862ebf6afddeef4b6ff3ac5e2",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [大厂招人啦！60-70K～招智驾安全、IoT 渗透、大模型安全工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618071&idx=2&sn=4371f00aa226d5c0bd360a6711524814",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [PHP紧急修复3大高危漏洞！SQL注入、内存破坏、服务宕机风险并存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618071&idx=3&sn=5564f1056881f84d2f145f89fe05892c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [【安全圈】Unturned开源22天就爆RCE漏洞！创意工坊模组成攻击入口",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078098&idx=4&sn=f87818de9e6d4077d074cfa79ad14bac",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [【已复现】KindaRails2Shell——Ruby on Rails 远程代码执行漏洞(CVE-2026-66066)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506937&idx=1&sn=f57c0b203511bf655e0f73453828c875",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [安全热点周报：Cisco FMC 零日漏洞已被积极利用，静态凭证可能泄露敏感数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506937&idx=2&sn=ad8e60fa30dcceebfbea231d5aadcda8",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [用于发现安全漏洞的 7 款最佳 AI 红队测试工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486867&idx=1&sn=6c231219ce00d3c8f591b7f9c095dc5f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [Pwn2Own 击穿微软 Edge 全链路漏洞分析｜deepsec 攻防实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247498204&idx=1&sn=0eb64ee8ba811819d343e36aff57769b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "] [AI 正在攻破网络防御吗？从自动化勒索、测试环境逃逸到软件供应链外溢的一次盘点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508749&idx=1&sn=9c04964562ca68ee6ff9c102c21e4f3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-01"
+    },
+    {
+        "title": "黑客视角下的“银狐病毒”漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/pt9Et-YbwxLL66YvkVOsLw",
+        "source": "Doonsec",
+        "date_added": "2026-08-01"
     }
 ]
