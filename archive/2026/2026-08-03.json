@@ -4,5 +4,23 @@
         "url": "https://mp.weixin.qq.com/s/sHIPgjGaU4DxUFAh1pU73g",
         "source": "Doonsec",
         "date_added": "2026-08-03"
+    },
+    {
+        "title": "] [【安全圈】Chrome近3个版本修复1442个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078127&idx=2&sn=6ae0e3468281094b71a924e772335be6",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-03"
+    },
+    {
+        "title": "] [【安全圈】朝鲜黑客组织\"蓝宝石雪\"操控npm包供应链：Axios等四款库沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078127&idx=3&sn=d19e98b1f7dd0926263b1ea3ef9675e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-03"
+    },
+    {
+        "title": "API-Pentest — 基于 JS 分析 + AI Agent 的 API 渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/irUtMlXK6_wqNxTjBklxxA",
+        "source": "Doonsec",
+        "date_added": "2026-08-03"
     }
 ]
