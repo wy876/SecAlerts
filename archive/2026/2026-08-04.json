@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s/RrO8-TMOG4sATI5X2xZAyQ",
         "source": "Doonsec",
         "date_added": "2026-08-04"
+    },
+    {
+        "title": "Apache NiFi 连爆四漏洞，权限失控与内存炸弹问题亟待修复",
+        "url": "https://mp.weixin.qq.com/s/zbQk3U7q_UquNiiKogsI2Q",
+        "source": "Doonsec",
+        "date_added": "2026-08-04"
     }
 ]
