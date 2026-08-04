@@ -22,5 +22,95 @@
         "url": "https://mp.weixin.qq.com/s/UAYU4SzTe_HBu99LA4X3cw",
         "source": "Doonsec",
         "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.7.27-2026.8.2",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503896&idx=1&sn=0bca57a0325ae780a651fb39a4e3517a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [SolarWinds 严重漏洞可导致绕过 Web Help Desk SAML 登录认证机制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526788&idx=1&sn=31b126ba90fa61c7de56aff42e8761fd",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [Rails 修复严重的 Active Storage 漏洞，可导致 RCE 后果",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526788&idx=2&sn=7f4b4916527a0b69b3f51b0b28b6c5ed",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [一次外部注入工具的动态调试实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618175&idx=1&sn=8dfdec8d72565486ce162b91909f4ce4",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [9.10 北京｜AI Agent 驱动 Android 逆向与 Root 漏洞实战训练营",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618175&idx=2&sn=6e07d97e55af6343f2567a424a9b98fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [硬件钱包重大漏洞！Coldcard固件缺陷，近9000万BTC资产失窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618175&idx=3&sn=0fea3852280411019ea5dfeb331b8a52",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [某运营商泄露超1.6万用户敏感信息被罚2.5亿元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516361&idx=1&sn=359498e8aafa2568381a04e9f6baa817",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [【安全圈】DNA证据遭篡改？赛默飞修复高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078137&idx=2&sn=17a2d4ad4d423e7a8453c8dad79df73f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能 | 极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111503&idx=1&sn=a6baf2d1376ac797b120f99dbebaf687",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [【漏洞预警】Linux Kernel OVSwrap 权限提升漏洞，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497869&idx=1&sn=eb12a910ec9c91de2c73398e22aaac56",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第30期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497156&idx=1&sn=1eb1b912c9b26a5d43b35b4f48dc31ce",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260727-20260802)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497156&idx=2&sn=e41a59b8f6316b5a0190cf2a683c882e",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "] [伊朗裔工程师在美被判向伊朗出口无人机技术，我高科技出口管制与供应链安全面临类似执法压力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568951&idx=2&sn=705b41c8d08b7607fff9d5cf8acdeb37",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "红队视角下的AI安全：一次银行聊天机器人渗透测试引发的深思",
+        "url": "https://mp.weixin.qq.com/s/e239LUgfy4QBnMNKGane_g",
+        "source": "Doonsec",
+        "date_added": "2026-08-04"
+    },
+    {
+        "title": "IBM 2026数据泄露报告：92%的AI安全事件源于缺失访问控制；CNVD发布漏洞周报2026年第30期| 牛览",
+        "url": "https://mp.weixin.qq.com/s/RrO8-TMOG4sATI5X2xZAyQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-04"
     }
 ]
