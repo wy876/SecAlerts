@@ -1,0 +1,56 @@
+[
+    {
+        "title": "赛普EAP企业适配管理平台 AppData.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/mzdFpgDEYH1XriH-C0Xtcw",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "当你下载的“开源模型”本身就是一个后门：一次微调投毒实验全记录",
+        "url": "https://mp.weixin.qq.com/s/I7Vrre6EqSlJbiMXDUc_3g",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "微信小程序全自动化渗透工具 -- WMP-pentest-automation",
+        "url": "https://mp.weixin.qq.com/s/ySAn3ymFWbDQ1bSKei-_pw",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "当漏洞发现进入“机器速度”，CISO该改什么？",
+        "url": "https://mp.weixin.qq.com/s/u3tTS7PBrRbwCe3kBKrpRA",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "招聘 | 渗透测试工程师",
+        "url": "https://mp.weixin.qq.com/s/vIiUoXueYcbuAPDNhyL4fg",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "中国版Claude Mythos！直击企业5大顾虑，解析“零团队”落地恒脑AI代码审计路径",
+        "url": "https://mp.weixin.qq.com/s/bOB7m-aDyjraxfI3FdcOUA",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "CVE-2026-64633 漏洞:Veeam ONE 未授权远程代码执行,CVSS 评分达到满分 10.0",
+        "url": "https://mp.weixin.qq.com/s/fGYMPITkt2_RpXlQW0QZWw",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "存在22年的 BMC 漏洞使数千个数据中心面临攻击",
+        "url": "https://mp.weixin.qq.com/s/_VrAlxmN-zEhUdtnr3jeZA",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "SharePoint漏洞被用于攻击瑞士联邦信息技术机构",
+        "url": "https://mp.weixin.qq.com/s/8lgWXOihsVT3HSa6pHgMzg",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    }
+]
