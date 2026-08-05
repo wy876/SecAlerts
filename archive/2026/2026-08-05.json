@@ -52,5 +52,95 @@
         "url": "https://mp.weixin.qq.com/s/8lgWXOihsVT3HSa6pHgMzg",
         "source": "Doonsec",
         "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [返利机器人真的能领到隐藏优惠券吗？详细拆解88vip专属高返助手的省钱返现原理！",
+        "url": "https://mp.weixin.qq.com/s/IUgeXpt71BF3AMCziz_ZPg",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [【AI复盘】AI Agent符号链接劫持漏洞事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487889&idx=1&sn=9167e250ea2a4c5d75aaabf1beb98c30",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [TP-Link 修复高危 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526802&idx=1&sn=eefdd011c62ed054dd09f9d2b64cc8a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [【安全圈】打了补丁也不安全：N-able漏洞已被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078150&idx=3&sn=53ec1170b05595683f3b4f2ef20e35e3",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [【已复现】CVE-2026-68771 ComfyUI RCE：Moby.AI 0day漏洞 先知 · 先验 · 即检",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495383&idx=1&sn=99b7861a651cf69a68fc33e9f414c949",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [红队视角下的AI安全：一次银行聊天机器人渗透测试引发的深思",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142150&idx=1&sn=5c97439f41b80951287c691288276a72",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [IBM 2026数据泄露报告：92%的AI安全事件源于缺失访问控制；CNVD发布漏洞周报2026年第30期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142150&idx=2&sn=38105f74c8153d63ca038f5db456c756",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel Open vSwitch 本地权限提升漏洞(CVE-2026-64531)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506974&idx=1&sn=21b913f487a7fc67f9f8400534e93bd3",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [【已复现】MariaDB 认证远程代码执行漏洞(QVD-2026-48306)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506974&idx=2&sn=5dc83af260f18813a37b7d4a29ae32db",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [Apache NiFi 连爆四漏洞，权限失控与内存炸弹问题亟待修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618256&idx=2&sn=b4a421fcc927a4107b85cd2591609adc",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [文件上传即可检索｜实时多模态向量链路落地实践分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521103&idx=2&sn=e4de10f386f34f1620fadc40729e8ec4",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第30期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501964&idx=1&sn=2d46f791db4937623ea31e13f89ccfaa",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "关于规范AI辅助漏洞报告提交及违规处置的公告",
+        "url": "https://mp.weixin.qq.com/s/HzzEouhFhf9i_zlvc82Odg",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "《新一代自动化渗透测试工具与应用指南》重磅发布",
+        "url": "https://mp.weixin.qq.com/s/KgBWblGk2Hm5sM8ED3uQqA",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
+    },
+    {
+        "title": "TencentOS 科维斯AI首秀：SCTPhantom——潜伏18年的Linux内核提权与容器逃逸漏洞",
+        "url": "https://mp.weixin.qq.com/s/v4kFYfoO4aFhE-pSpnr7qg",
+        "source": "Doonsec",
+        "date_added": "2026-08-05"
     }
 ]
