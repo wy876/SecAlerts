@@ -70,5 +70,41 @@
         "url": "https://mp.weixin.qq.com/s/o5h51no5x3Fv1f9IpKf1_Q",
         "source": "Doonsec",
         "date_added": "2026-08-06"
+    },
+    {
+        "title": "【家族介绍】DragonForce，一个将勒索做成企业的家族",
+        "url": "https://mp.weixin.qq.com/s/56aFr15O4ArqGajRmX3wkw",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
+    },
+    {
+        "title": "Linux 内核藏了 18 年的漏洞，这次 AI 比所有人先找到",
+        "url": "https://mp.weixin.qq.com/s/Al6fToGaFI_S_KVhsmretw",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
+    },
+    {
+        "title": "拿赏金必看！超详细漏洞众测与企业SRC平台合集，别再问去哪挖洞了！",
+        "url": "https://mp.weixin.qq.com/s/vbl_dIE10YFmV6qy7ljF5g",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
+    },
+    {
+        "title": "【漏洞通告】NVIDIA Dynamo 越界写入漏洞(CVE-2026-24254)",
+        "url": "https://mp.weixin.qq.com/s/lUWWqo64VfE4Nix1zNXRsw",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
+    },
+    {
+        "title": "某路由器存在后门",
+        "url": "https://mp.weixin.qq.com/s/JFL--GsOBrezOMyuFVun8g",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
+    },
+    {
+        "title": "EDU低危漏洞也可以通杀",
+        "url": "https://mp.weixin.qq.com/s/mgkcM_csmIcAG7U62vJ0mQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-06"
     }
 ]
