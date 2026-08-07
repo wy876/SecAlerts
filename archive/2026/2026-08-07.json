@@ -40,5 +40,59 @@
         "url": "https://mp.weixin.qq.com/s/hFBsaaRM9xjNmqQzc3W5BA",
         "source": "Doonsec",
         "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [Linux 内核存在内存损坏漏洞，可使本地用户提权至 root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526830&idx=1&sn=44638325ecb2486a572ad5c691767ffd",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [Django 紧急提醒修复这四个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526830&idx=2&sn=31c5fbcfaf1c1a6c8aa6adf63782a51d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [当 AI 助手开始替攻击者\"打工\"：微软 365 Copilot 连环提示注入漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519706&idx=1&sn=2b99e60929c3f340e2faf2174d18951d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [【安全圈】JetBrains爆严重漏洞，正在被黑客利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078176&idx=3&sn=3cd33ddc855043588e9d8d1a0536658f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [CNNVD | 人工智能重要漏洞通报（2026年第十一期）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265420&idx=1&sn=970fcc06554336e8302a1c417f27f32d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [CNNVD | 最新OpenClaw多个安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265420&idx=2&sn=1d0449a1167acbad8c1876a86efe809a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [13年“幽灵”漏洞浮出水面：Linux内核OVS组件曝本地提权零日，普通用户可秒变Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618398&idx=3&sn=2570bf825d99e4963e297b6d5c88e2bb",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "] [7月必修漏洞清单：8个高危含Redis补丁绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497881&idx=1&sn=53aef74dafccf767eb850d3ddd166e10",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则",
+        "url": "https://mp.weixin.qq.com/s/HV_7cwhPtviwPQasAb2JlQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-07"
     }
 ]
