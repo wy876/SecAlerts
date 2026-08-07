@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s/HV_7cwhPtviwPQasAb2JlQ",
         "source": "Doonsec",
         "date_added": "2026-08-07"
+    },
+    {
+        "title": "高危端口暴露致学生敏感信息存泄露风险",
+        "url": "https://mp.weixin.qq.com/s/g2VHXdQIdhsSMz7-wkkO5w",
+        "source": "Doonsec",
+        "date_added": "2026-08-07"
+    },
+    {
+        "title": "ChanCms search SQL注入",
+        "url": "https://mp.weixin.qq.com/s/YZGp74kIysvCYRWzvOogaw",
+        "source": "Doonsec",
+        "date_added": "2026-08-07"
     }
 ]
