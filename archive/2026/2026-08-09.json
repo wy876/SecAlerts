@@ -16,5 +16,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa",
         "source": "BruceFeIix",
         "date_added": "2026-08-09"
+    },
+    {
+        "title": "用友GRP-U8Cloud产品jmreport组件模块Freemarker模板SSTI致RCE漏洞分析",
+        "url": "https://mrxn.net/jswz/yonyou-grp-u8c-jmreport-Freemarker-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-08-09"
     }
 ]
