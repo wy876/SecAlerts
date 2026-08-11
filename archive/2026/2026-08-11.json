@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s/kNAaNfINgY20aVpuno9-CA",
         "source": "Doonsec",
         "date_added": "2026-08-11"
+    },
+    {
+        "title": "最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具）",
+        "url": "https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w",
+        "source": "Doonsec",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "【安全圈】慎用API中转站！开发者遭投毒，敏感信息被窃",
+        "url": "https://mp.weixin.qq.com/s/D4kef7Rk0eMLXuZIHKL5aQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构",
+        "url": "https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-11"
     }
 ]
