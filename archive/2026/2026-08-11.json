@@ -16,5 +16,59 @@
         "url": "https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg",
         "source": "Doonsec",
         "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [XSS2Shell：WordPress Core 漏洞利用预认证登录XSS实现 PHP RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [你的代码里，藏着黑客埋的\"毒\"：1300个 npm 包遭供应链投毒",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790347&idx=1&sn=5960492d4880ee788feed0583b6c90eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [【已复现】JetBrains TeamCity 远程代码执行漏洞(CVE-2026-63077)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [从“测漏洞”走向“管业务”：企业安全建设、资产测绘与零信任接入｜总第317周",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492511&idx=1&sn=1bdecc94bbd6bb2a0781509e819180f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [“漏洞清零” 从数量合规到结果合规",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543655&idx=2&sn=29b9e8f3b3d428dd37fe8276ec51cf41",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [【安全圈】200万人身份告急！比利时电子身份证曝致命漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078224&idx=2&sn=cdb595c396ed85c7d7cbec78a2e74951",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [“中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586720&idx=1&sn=457cc957fec98fdf1b310cd955da0783",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第31期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=1&sn=240955573c2f01ac589a40ab5594978a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260803-20260809)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=2&sn=20743fdb244c980dc4318b626b4c8440",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-11"
     }
 ]
