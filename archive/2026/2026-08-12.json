@@ -76,5 +76,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536435&idx=1&sn=e20bc599f5c418d902bc27722eea9af1",
         "source": "BruceFeIix",
         "date_added": "2026-08-12"
+    },
+    {
+        "title": "【漏洞通告】Hugging Face Accelerate存在目录遍历漏洞(CVE-2026-69112)",
+        "url": "https://mp.weixin.qq.com/s/wFdqflfq67hVylV0jYcVAg",
+        "source": "Doonsec",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "SRC只给30块的邮箱XSS，暴露了Webmail安全渲染的老难题",
+        "url": "https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-12"
     }
 ]
