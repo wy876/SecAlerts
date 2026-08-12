@@ -16,5 +16,65 @@
         "url": "https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA",
         "source": "Doonsec",
         "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.8.3-2026.8.9",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503903&idx=1&sn=1b9bd70ba166bdd46721e13658e84010",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [ClamAV曝出7个高危漏洞，远程可触发杀毒引擎拒绝服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618507&idx=2&sn=238e162f45daadcdd87812141a952284",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [【已复现】Docker cp 容器到主机任意文件写入漏洞(CVE-2026-17106)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=2&sn=d63e9983c803ce4c3e5462036277f481",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [【安全圈】慎用API中转站！开发者遭投毒，敏感信息被窃",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=1&sn=86c978b87e0e428915ece821e6d9e754",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=3&sn=f1a447a6e44f91a7769a0b4821676fc5",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [不容忽视的浏览器安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543663&idx=1&sn=5a8cbab044f06bbd3c5a2ded31807539",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [绕过IDE直连云端：PLC编程软件AI助手漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514371&idx=1&sn=d1dbddfd7f231df8354bf52925161a55",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [Coldcard 1.11 亿美元被盗事件：私钥破解漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505655&idx=1&sn=a5f18b42903c14b84d67001b665b5d0c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第31期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501987&idx=1&sn=16975e5395e03b9d128963b0671533a7",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
+    },
+    {
+        "title": "] [月下载量超20亿次！TeamPcp高阶蠕虫再袭npm供应链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536435&idx=1&sn=e20bc599f5c418d902bc27722eea9af1",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-12"
     }
 ]
