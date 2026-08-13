@@ -4,5 +4,65 @@
         "url": "https://mp.weixin.qq.com/s/GbL6smydBOLXf7IriE7Vug",
         "source": "Doonsec",
         "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [Lazarus 组织利用 Windows AFD.sys零日漏洞投放 FudModule 内核 Rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618567&idx=3&sn=8dc784b6eb4841a0deb858b515724e91",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [微软8月补丁日多个产品安全漏洞风险通告：1个在野利用、44个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507057&idx=1&sn=a81bd63b6d1244e069a1ba3d78ca2541",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [【安全圈】微软8月补丁修复398个漏洞，含一个被积极利用的零日",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078250&idx=1&sn=c18ade501dbd6bc5f8350697f568826b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [【安全圈】Cisco防火墙零日漏洞遭野利用，可远程触发拒绝服务",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078250&idx=2&sn=34426cd070c154e05ba5124be77afa1b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [【安全圈】Zoom严重漏洞曝光，参会者可零点击劫持他人电脑",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078250&idx=3&sn=9d7391717461158a504a5999d9912672",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [微软补丁日安全通告|8月份",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526084&idx=1&sn=539eb640053f4d3f1280a0381e25dd92",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [122次安全测试出现19次越界行为，AI Agent自主采用欺骗和攻击手段；CNVD漏洞周报2026年第31期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142345&idx=2&sn=00126cd71e7a7c8e1866a30f454997ad",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [2026-08微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536457&idx=2&sn=a5ac381439f14afca3adabf187281438",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [DayDayPOC 0day漏洞悬赏计划活动时间延期公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488351&idx=1&sn=980afea9fb9c8603216716225b041e7b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
+    },
+    {
+        "title": "] [360图龙锋破解OpenAI自检盲区，最新发现Codex 6个高价值安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586730&idx=1&sn=1be19089145a9bea27019d9b50de329a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-13"
     }
 ]
