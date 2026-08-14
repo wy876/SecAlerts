@@ -1,0 +1,74 @@
+[
+    {
+        "title": "] [Adobe 修复三个 CVSS 满分漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526866&idx=1&sn=adb5f2d68c7b6168285eee413c364a6a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [Cisco防火墙零日漏洞遭野外利用，可无认证触发DoS瘫痪",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618624&idx=3&sn=ad1379f0308b86ff67b12d02c68a237c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [关于“Sorry”勒索病毒的预警报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504669&idx=1&sn=fce3a0eee21902682cf0f362d418d4ff",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [Linux服务器注意了：勒索病毒已经盯上你，国家正式预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790362&idx=1&sn=342609394ce6934e4263513a0c80ce68",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [【安全圈】Lazarus利用Windows零日漏洞，假招聘真窃密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078262&idx=2&sn=dd24d6b1bffa2629060c81672365d629",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [【安全圈】SharePoint漏洞PoC刚发布，就被黑客盯上利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078262&idx=3&sn=0eb5e034c6ee86ec40d35df86526f829",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [同一个严重漏洞，别人拿3万你只拿1万：GitHub赏金腰斩背后的\"信任市场\"真相",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142352&idx=1&sn=d21e412ca69fede5b4eedf47c4f0ca5b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [【安全更新】微软8月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493564&idx=1&sn=c5b1fb86e789a4e1a13bf7951a830c72",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [【已复现】Microsoft SharePoint JWT 令牌身份认证绕过漏洞(CVE-2026-55040)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507089&idx=1&sn=738a25f378623a67d8bc4f5dfa6ef085",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [奇安信集团2026年08月补丁库更新通告-第一次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507089&idx=2&sn=3ff58b57cd637facc495fd9057d71695",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "] [通关Hackaprompt靶场第十关（提示词注入最难关之一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514386&idx=1&sn=9be54177eb8306b843776a4b765328fb",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-14"
+    },
+    {
+        "title": "为什么是盛邦安全？香港给出的答案 ——盛邦安全漏洞扫描产品落地香港特区政务场景",
+        "url": "https://mp.weixin.qq.com/s/yUikEW8JF_wNR1uOiQPz3w",
+        "source": "Doonsec",
+        "date_added": "2026-08-14"
+    }
+]
