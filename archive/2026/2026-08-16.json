@@ -4,5 +4,29 @@
         "url": "https://mp.weixin.qq.com/s/-dd_jQ4BbwwG0UmfnCen2A",
         "source": "Doonsec",
         "date_added": "2026-08-16"
+    },
+    {
+        "title": "] [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-16"
+    },
+    {
+        "title": "] [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-16"
+    },
+    {
+        "title": "] [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-16"
+    },
+    {
+        "title": "] [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-16"
     }
 ]
