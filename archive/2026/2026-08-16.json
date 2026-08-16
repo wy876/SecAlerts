@@ -28,5 +28,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96",
         "source": "BruceFeIix",
         "date_added": "2026-08-16"
+    },
+    {
+        "title": "普华PowerPMS /Plan/BatchHandleFeedBackRecord 鉴权绕过漏洞",
+        "url": "https://mrxn.net/jswz/powerpms-Plan-BatchHandleFeedBackRecord-auth-bypass.html",
+        "source": "MRXN",
+        "date_added": "2026-08-16"
     }
 ]
