@@ -4,5 +4,35 @@
         "url": "https://mrxn.net/jswz/powerpms-PowerPlat-FormXml-snapshot-rce-sqli-jwt-auth-bypass.html",
         "source": "MRXN",
         "date_added": "2026-08-17"
+    },
+    {
+        "title": "] [【AI复盘】AI Agent元编排框架满分漏洞事件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487939&idx=1&sn=94c1315f339d0dd63a2bc71a942bc063",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-17"
+    },
+    {
+        "title": "] [【安全圈】爱快路由系统突发漏洞，速升级！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=1&sn=93f4cd1f23b28017127dc43fa06566bf",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-17"
+    },
+    {
+        "title": "] [【安全圈】FFmpeg紧急修复CVE-2026-8461：CVSS 8.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=3&sn=8fe4e8da66f8fa710c3474139cd865d6",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-17"
+    },
+    {
+        "title": "AI让漏洞暴增72%，NIST求助AI管理漏洞库",
+        "url": "https://mp.weixin.qq.com/s/YT1YTulsAZ4LN-bEufoUBA",
+        "source": "Doonsec",
+        "date_added": "2026-08-17"
+    },
+    {
+        "title": "漏洞复现 | 聚恒中台 data.aspx 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/F7YuUpgICQ1I3AIYTVGRhg",
+        "source": "Doonsec",
+        "date_added": "2026-08-17"
     }
 ]
