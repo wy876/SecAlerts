@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s/sceYwiKoT2t1XNC6S5N0Mg",
         "source": "Doonsec",
         "date_added": "2026-08-18"
+    },
+    {
+        "title": "SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露",
+        "url": "https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-18"
     }
 ]
