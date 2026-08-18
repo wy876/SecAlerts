@@ -130,5 +130,11 @@
         "url": "https://mp.weixin.qq.com/s/yBx555I8fIPJkgpzxMuMWw",
         "source": "Doonsec",
         "date_added": "2026-08-18"
+    },
+    {
+        "title": "【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁",
+        "url": "https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg",
+        "source": "Doonsec",
+        "date_added": "2026-08-18"
     }
 ]
