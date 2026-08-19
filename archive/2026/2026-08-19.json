@@ -136,5 +136,11 @@
         "url": "https://mp.weixin.qq.com/s/HMFAhBF3P-xcJBpEutcVMw",
         "source": "Doonsec",
         "date_added": "2026-08-19"
+    },
+    {
+        "title": "Cursor 0-day 漏洞预警：打开文件夹即中招，开发者该如何紧急防护？",
+        "url": "https://mp.weixin.qq.com/s/mm9jwOIAHRdu73zzBZ5vvw",
+        "source": "Doonsec",
+        "date_added": "2026-08-19"
     }
 ]
