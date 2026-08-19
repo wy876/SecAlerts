@@ -4,5 +4,77 @@
         "url": "https://mrxn.net/news/chrome-extension-Enhanced-Image-Viewer-steal-chatgpt-data.html",
         "source": "MRXN",
         "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.8.10-2026.8.16",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503913&idx=1&sn=ec84b81685e12bd1601a9ecaa0cd8dbd",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [满分10.0的漏洞，补丁发布3天就被打穿",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [GitLab GraphQL 严重漏洞可使未认证攻击者删除公开项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=1&sn=80604cef5784651f30751cec579a2172",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [CISA：Ray 严重漏洞可触发基于浏览器的 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [【安全圈】Cisco 防火墙零日漏洞遭野利用，企业边界防御要重新审视",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=1&sn=8661fbfdba0a2e5dd3f3f0bbd96ead7b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [【安全圈】AI 工具热潮下，数据泄露与供应链风险正在悄悄升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [【安全圈】GitLab 关键 GraphQL 漏洞可能允许未认证攻击者删除公共项目",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=3&sn=04c4e92193066da60476ed0f40b2d749",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [导致个人信息泄露的常见原因有哪些?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504715&idx=1&sn=4834b97e53f81b145aea0add428e7295",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [麦当劳为用户建立515页画像：忠诚度App如何变成“商业监控”系统；CNVD发布漏洞周报2026年第32期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [【通知】关于中通SRC暂停接收漏洞测试的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "] [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-19"
     }
 ]
