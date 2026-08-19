@@ -94,5 +94,17 @@
         "url": "https://mp.weixin.qq.com/s/3VSiAcVZS87Q5rY4lns8gA",
         "source": "Doonsec",
         "date_added": "2026-08-19"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第十二期）",
+        "url": "https://mp.weixin.qq.com/s/TdQovX34rdzHOv4UbJF1gQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-19"
+    },
+    {
+        "title": "一个公共软件漏洞，批量击穿几十家大厂",
+        "url": "https://mp.weixin.qq.com/s/T5RqQ6lQ54lG6KVnfVClHw",
+        "source": "Doonsec",
+        "date_added": "2026-08-19"
     }
 ]
