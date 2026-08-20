@@ -1,0 +1,86 @@
+[
+    {
+        "title": "] [斯洛伐克交通摄像头后门事件：3000万欧元买来的279个监控节点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188155&idx=1&sn=631a2526078a7c7d6c3f84c0237aa235",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [微软 Copilot Personal 存在多个漏洞，一次点击即可提取联网app数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=1&sn=821be304e4284650201a625c79ab5fca",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [攻击者利用 MLflow 漏洞窃取云凭据和机密信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=2&sn=7ad6ae2c6597942ccfbe3c8431060d95",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [【已复现】CVE-2026-23479 未完全修复变种——Redis 远程代码执行漏洞(QVD-2026-55651)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [【安全圈】PTC工业软件曝高危漏洞可窃工业设计与凭证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=1&sn=6b3ceb26bf870d1243e0d94832a74579",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [【安全圈】CISA紧急通报四项高危在野利用漏洞要求严查",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=3&sn=d22a51f0f51c4bf79eeb278f77bb5830",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [潜伏40年、影响全球九成DNS系统的漏洞，被一个开源模型找到了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543704&idx=1&sn=a3d0aff7adff887d3958c2bde712b1e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [Redis RCE 漏洞预警：CVE-2026-23479 修复不完整再现新漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "] [XCon2026议题||从发现到复现：AI 驱动的 Web 漏洞挖掘验证工程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587798&idx=1&sn=f0a8f2f643c8c75a764a60ad04c37238",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "吊打所有传统扫描器！这款开源工具让漏洞挖掘效率提升1000%",
+        "url": "https://mp.weixin.qq.com/s/8qgRMizqCfzhcs1K5V_oQA",
+        "source": "Doonsec",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "8月20日高危CVE漏洞速报",
+        "url": "https://mp.weixin.qq.com/s/DAiN8DCWXcmVQJslL171Hg",
+        "source": "Doonsec",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "Web漏洞扫描工具 -- Webscanner",
+        "url": "https://mp.weixin.qq.com/s/cEWF0XVx5NW4qTzkIFoy2g",
+        "source": "Doonsec",
+        "date_added": "2026-08-20"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第32期",
+        "url": "https://mp.weixin.qq.com/s/-StXHrFyKVizNKs1MITHYg",
+        "source": "Doonsec",
+        "date_added": "2026-08-20"
+    }
+]
