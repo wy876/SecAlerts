@@ -1,0 +1,68 @@
+[
+    {
+        "title": "] [保镖成了内鬼：微软Defender再曝零日漏洞，普通账户一键提权SYSTEM，补丁还没用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790398&idx=1&sn=09a5b3324cc9783656c9f5b7a4cf0e8c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [首个政府预警！AI驱动攻击已对水务、能源等行业构成真实威胁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516468&idx=1&sn=9965d010744a2b88eee0297016cac828",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [没有 0day，也能瘫痪一座电厂",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165799&idx=1&sn=946395dfdb6f9b9c1eefb1a9a532671f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [Zimbra SNMP 未认证 RCE 漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [Rust 三个热门crate遭投毒，被用于供应链攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=2&sn=788a548f95d9b2c816994f379dbef5d5",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [【安全圈】微软Entra_ID曝满分漏洞：无需凭据远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [【安全圈】Rust生态遭供应链投毒：编译即触发执行恶意后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=2&sn=584bb5bc43fa1c97b2c06330516c2e27",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [【安全圈】GitLab曝严重代码注入：公开项目面临任意篡改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=3&sn=7ff2787dd6ecc28cbc0d963d8d2b7940",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [安全热点周报：黑客利用 macOS 屏幕共享漏洞部署门罗币挖矿程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507178&idx=1&sn=11d97e33c51432a1d87745724fb2c4e8",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [你采购的不是软件，而是一个会\"进化\"的供应链风险：AI供应商选型实操指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142415&idx=1&sn=45526c5a275bc733ada708275701bd9a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    },
+    {
+        "title": "] [安全预警：360签名漏洞驱动被恶意利用 可致终端安全防护失效",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=1&sn=3a18cfe3988300974634b7172c086e5f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-22"
+    }
+]
