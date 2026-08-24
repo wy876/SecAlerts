@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s/CHTaA2r1NspwCrJ9HoS50Q",
         "source": "Doonsec",
         "date_added": "2026-08-24"
+    },
+    {
+        "title": "漏洞复现 | 金和C6协同管理平台 AjaxForBudgetDecompose.aspx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
     }
 ]
