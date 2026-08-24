@@ -4,5 +4,41 @@
         "url": "https://mp.weixin.qq.com/s/DqF_MytTbd3AlPO4b6_ocQ",
         "source": "Doonsec",
         "date_added": "2026-08-24"
+    },
+    {
+        "title": "] [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "] [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "] [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "AI驱动的网络安全作战平台：CyberStrikeAI让你的渗透测试效率提升百倍",
+        "url": "https://mp.weixin.qq.com/s/3Ig2uCxY95ICkKGFdgV_LQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "一周4500万次攻击，全球wp2shell漏洞遭大规模利用",
+        "url": "https://mp.weixin.qq.com/s/zh0szU9aOLkehqMBfvMBgg",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "一个专门为网络安全人员/渗透测试工程师/红蓝对抗团队整理的Skills 集合",
+        "url": "https://mp.weixin.qq.com/s/CHTaA2r1NspwCrJ9HoS50Q",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
     }
 ]
