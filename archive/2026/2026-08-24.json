@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s/p4HMLQ62Hu24MXsBHtmqCQ",
         "source": "Doonsec",
         "date_added": "2026-08-24"
+    },
+    {
+        "title": "【古法渗透】aes rsa 自加密",
+        "url": "https://mp.weixin.qq.com/s/Ustpw4OxritqdlOrHNe2bw",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "一款开源的私有化企业级代码审计Bot平台，基于OpenCodeReview+CodeGraph+Gitlab",
+        "url": "https://mp.weixin.qq.com/s/seWojMWx8f068Xy_VVjm6A",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
     }
 ]
