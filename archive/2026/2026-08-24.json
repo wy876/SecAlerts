@@ -46,5 +46,17 @@
         "url": "https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg",
         "source": "Doonsec",
         "date_added": "2026-08-24"
+    },
+    {
+        "title": "【深度研判】俄罗斯军方黑客（Sandworm）伪装招聘人员以乌克兰IT从业人员为目标，其社会工程招聘手法对我IT人才与供应链安全风险研判",
+        "url": "https://mp.weixin.qq.com/s/9CKOJyF05reBPSHpciOXjA",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
+    },
+    {
+        "title": "3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效\\\"",
+        "url": "https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw",
+        "source": "Doonsec",
+        "date_added": "2026-08-24"
     }
 ]
