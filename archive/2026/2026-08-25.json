@@ -52,5 +52,17 @@
         "url": "https://mp.weixin.qq.com/s/VAqE3rnRNnz8s0a1Zth6ig",
         "source": "Doonsec",
         "date_added": "2026-08-25"
+    },
+    {
+        "title": "【漏洞威胁】DeepSeek Harness（DSH）未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg",
+        "source": "Doonsec",
+        "date_added": "2026-08-25"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第33期",
+        "url": "https://mp.weixin.qq.com/s/VqMmpkrVZvO5EKth5z-cxw",
+        "source": "Doonsec",
+        "date_added": "2026-08-25"
     }
 ]
