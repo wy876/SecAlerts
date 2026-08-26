@@ -112,5 +112,11 @@
         "url": "https://mp.weixin.qq.com/s/P6c3h12gRKqNXal5Ry1U8Q",
         "source": "Doonsec",
         "date_added": "2026-08-26"
+    },
+    {
+        "title": "森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)",
+        "url": "https://mrxn.net/jswz/1491.html",
+        "source": "MRXN",
+        "date_added": "2026-08-26"
     }
 ]
