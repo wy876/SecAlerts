@@ -1,0 +1,68 @@
+[
+    {
+        "title": "] [雷神众测漏洞周报2026.8.17-2026.8.23",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503925&idx=1&sn=4d8c107fb18d83a82fd279cd59ef407b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [TP-Link 修复 Archer 中的多个命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [Keycloak 密码重置严重漏洞可导致未认证攻击者接管任意账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=2&sn=5ba43e487a9719c396ffa3f427f63626",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [Keycloak曝出致命高危漏洞！无认证可接管任意账号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618913&idx=2&sn=4a4d9731c79fc341ccfbd6d65b10f7c1",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [【安全圈】Oracle爆出满分在野漏洞：黑客免密篡改核心数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=1&sn=666c8067ea126a85aa67e27f53d07f2d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [【安全圈】WordPress插件曝认证绕过：黑客免密直取管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=2&sn=f59c49dd5437dac84c6537020ffc63dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265892&idx=1&sn=beaf9ca7e924d3401945ad9969288278",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790408&idx=1&sn=9fa107ab9348504a36a1b426e55d1a40",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [【已复现】Keycloak 账户接管漏洞(CVE-2026-18963)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507190&idx=1&sn=8b9fe8e62247221fdb783948f5170562",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586769&idx=1&sn=0f567809a7e466240fcbd55ccd89b615",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第33期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502042&idx=1&sn=793ae1079a99485b21cc477123ff395a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-26"
+    }
+]
