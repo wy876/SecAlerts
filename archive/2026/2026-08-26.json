@@ -64,5 +64,17 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502042&idx=1&sn=793ae1079a99485b21cc477123ff395a",
         "source": "BruceFeIix",
         "date_added": "2026-08-26"
+    },
+    {
+        "title": "【漏洞预警】Redis 又双叒爆高危 TLS Pending-List UAF 漏洞，已公开完整EXP，速修！（已复现）",
+        "url": "https://mp.weixin.qq.com/s/HrOvkBMJHANWmIjqyegTwQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-26"
+    },
+    {
+        "title": "白帽子的新战友：一个会自己找漏洞的 AI 智能体",
+        "url": "https://mp.weixin.qq.com/s/GfuUqAgDt3H8fa7f8v6_Xg",
+        "source": "Doonsec",
+        "date_added": "2026-08-26"
     }
 ]
