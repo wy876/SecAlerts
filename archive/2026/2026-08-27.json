@@ -94,5 +94,95 @@
         "url": "https://mp.weixin.qq.com/s/O1vSjOz3EjS3-0fx95HifA",
         "source": "Doonsec",
         "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [内置自定义字节码的顶级被动式后门SLEEPWALKER",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188293&idx=1&sn=da56a7b3e7abecf469f0b69f44213d25",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [奇安信获评NVDB多个安全漏洞专业库年度技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526966&idx=1&sn=e8f3f0306e7baab6940a04ee921e4636",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [91个Spring漏洞影响开源生态系统中超20.9万个软件组件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526966&idx=2&sn=688ddee627883a67ce0e617a2e134a7b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【已复现】JDBC URL 可控导致RCE——IBM Db2 JDBC/SQLJ 代码执行漏洞（CVE-2026-9762）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493328&idx=1&sn=abff7a2585997a7bb92ac435c2dffc2f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [邪修！如何在几千万条流量里抓webshell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187770&idx=1&sn=8d44b0b30647cc378bd5670ba57c4f08",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【安全圈】CISA紧急预警：Gitea高危RCE在野遭挖矿木马利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078451&idx=2&sn=5752ef241e59c0340bade7fb184523c2",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【安全圈】新型 SLEEPWALKER 后门曝光：无活动线程静默潜伏，仅需“单数据包”即可唤醒执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078451&idx=3&sn=3fdc398f8ae9cf094ffc1965afe5410f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【已复现】Redis TLS 待处理链表远程代码执行漏洞(QVD-2026-58458)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507214&idx=1&sn=b7e486a2572673582ca80909624b5183",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【已复现】Microsoft SharePoint BDC 子系统远程代码执行漏洞(CVE-2026-63520)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507214&idx=2&sn=2db29a284a8291cf3c577bea6719a1d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [34分钟失陷：Langflow CVE-2026-9198 野外利用实录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520008&idx=1&sn=0d6eb1521de256b16f73fcbc62d833e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [工信部通报 26 款 APP 及 SDK，存在违规收集个人信息问题；CNVD周报：单周收录693个漏洞，0day占比高达92%| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142461&idx=2&sn=ce7a9d73f4f94d9fdbf35a7199cd8def",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521453&idx=1&sn=a43b95ca00458d532f29d70e80f0d118",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [【已复现】JDBC URL 可控导致RCE——IBM Db2 JDBC/SQLJ 代码执行漏洞（CVE-2026-9762）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490110&idx=1&sn=59dde9cce58f5a962b6a57678853607d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618948&idx=1&sn=548b24b927eb278a51ff44ea8c176b54",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
+    },
+    {
+        "title": "] [周下载4500万！Next.js曝出双高危RCE漏洞，Windows环境风险极高",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618948&idx=3&sn=d3f507f258cc563b6f696f850a7d8640",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-27"
     }
 ]
