@@ -22,5 +22,107 @@
         "url": "https://mp.weixin.qq.com/s/HmQiOiX-LmuZ9eW64Bx1Tg",
         "source": "Doonsec",
         "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [不是\"核弹\"。Log4j issue 4255 的FAQ",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508851&idx=1&sn=6d4abc77773fd4c209c7f88dcf8dbe6e",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [Log4j2 Issue #4255 深度解析：技术真相与风险评估",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507249&idx=1&sn=abb209214149c740debd33859fd3e96d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [npm 供应链双重威胁：AI 远控植入 + ClickFix 钓鱼存储",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520041&idx=1&sn=d6c2f6dff18ee2a3a81507b59e9f60b6",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "] [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "Redstone 使用指南（二）丨渗透测试模块",
+        "url": "https://mp.weixin.qq.com/s/9aK9ki7fgmwcz0Gq20RJxg",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "如何打造一款以实战环境为目标的漏洞研究专",
+        "url": "https://mp.weixin.qq.com/s/LAm_4LEIRWMFJn2pR1dzrQ",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/mYyTkLv21_d1XfFe7jqmTg",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "常规操作下，安全漏洞无所遁形",
+        "url": "https://mp.weixin.qq.com/s/EF3kM-xigIdm7F_VxcQ75Q",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "【漏洞通告】Nacos 管理接口权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/yZ-wtOU99e5tqpSTNUNjig",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "兰德公司评估美国人工智能能源供应链的脆弱环节",
+        "url": "https://mp.weixin.qq.com/s/0OlAWVXw3U2wSKx-aEYPDg",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "能信安：安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/fsunndt3L9ANweVxQp1-1Q",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
+    },
+    {
+        "title": "国家安全部：境外间谍瞄准网联无人机巡检平台，多类安全漏洞亟待补齐；OpenAI等百余家机构，呼吁联合抵御失控AI带来的网络威胁| 牛览",
+        "url": "https://mp.weixin.qq.com/s/Is8X1mg1NfQAdLSDoiJvQA",
+        "source": "Doonsec",
+        "date_added": "2026-08-28"
     }
 ]
