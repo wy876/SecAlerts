@@ -1,0 +1,104 @@
+[
+    {
+        "title": "] [不再只伪装IT岗：朝鲜远程工作者渗透销售医疗机构等岗位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188319&idx=1&sn=5732d230422338a8c985c89ec3fe749f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [尽快修复！ Nacos权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508857&idx=1&sn=efd36a593443f2b95f3c81a6c1d75a30",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [PaperCut提醒注意已遭利用的 NG 和 MF 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526988&idx=1&sn=c14d3de892f45e836a8d2e5bea7aa045",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [TeamViewer 多个漏洞可导致RCE攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526988&idx=2&sn=d9963aa394ca4b8b36a63f40fabffe3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [【已复现】Nacos 管理接口权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493348&idx=1&sn=ae0eb736ac5b93b210441f45ad157735",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [【安全圈】PaperCut曝0day漏洞遭在野攻击全版本沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078481&idx=2&sn=e8c569ddfa369b2fef92fa2bbaa2419f",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [【安全圈】OpenAI曝智能体失控利用0day打穿平台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078481&idx=3&sn=f8beee27dca643a51feff49f5c4e8f8c",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [【已复现】Nacos 权限绕过漏洞(QVD-2026-59388)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507264&idx=1&sn=3658b007d3d1b06af4409856271cfc8b",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [Claude Code自动模式曝出重大漏洞，可被提示注入劫持执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619028&idx=2&sn=87a487c4c11fadf2466724ed460efd12",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [自动化渗透测试正在转向实战化验证体系升级",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142493&idx=1&sn=374e5c5abe85f6f8f73b438abe289a3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [国家安全部：境外间谍瞄准网联无人机巡检平台，多类安全漏洞亟待补齐；OpenAI等百余家机构，呼吁联合抵御失控AI带来的网络威胁| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142493&idx=2&sn=436e19f50e871d6a249e1056ed2f7c00",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [用户态异步执行注入-APC与Fiber",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497076&idx=1&sn=39c0b07c33f133059e11fbf78fb380b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [【火绒安全周报】国安机关提醒：警惕巡检无人机被渗透攻击/曝GTA6黑客已赚约33万元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536886&idx=2&sn=102285f36bf251c6163d99627102d1df",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [Nacos 最新权限绕过漏洞——分析与复现报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490117&idx=1&sn=de179eca788884721f1dbbf2f060fccd",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [复现与修复指南：Linux内核本地提权漏洞OVSwrap（CVE-2026-64531）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514454&idx=1&sn=e4f7d8f8545d414742d06d79a0b87c87",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "] [覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586805&idx=1&sn=100520e51a2f849ecbc36a5f435f18a4",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "颠覆认知！这款二次开发的WebShell工具竟能通杀所有主流安全检测设备",
+        "url": "https://mp.weixin.qq.com/s/tGztplnheREA6uO1miRM5A",
+        "source": "Doonsec",
+        "date_added": "2026-08-29"
+    }
+]
