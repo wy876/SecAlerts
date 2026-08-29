@@ -100,5 +100,17 @@
         "url": "https://mp.weixin.qq.com/s/tGztplnheREA6uO1miRM5A",
         "source": "Doonsec",
         "date_added": "2026-08-29"
+    },
+    {
+        "title": "分享一套很棒的渗透测试笔记合集，建议收藏！",
+        "url": "https://mp.weixin.qq.com/s/vjGKu807u2V7dqhocMT7Ig",
+        "source": "Doonsec",
+        "date_added": "2026-08-29"
+    },
+    {
+        "title": "森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)",
+        "url": "https://mrxn.net/jswz/sntsmart-file-upload-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-08-29"
     }
 ]
