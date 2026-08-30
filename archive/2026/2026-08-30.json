@@ -4,5 +4,47 @@
         "url": "https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA",
         "source": "Doonsec",
         "date_added": "2026-08-30"
+    },
+    {
+        "title": "] [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "] [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=2&sn=ecfcde083da2ce793130fc1236640841",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "] [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "] [HTB Nimbus渗透测试靶机 Writeup",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=1&sn=c049e90e9e21461f5ce9db0847b5772d",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20260830）",
+        "url": "https://mp.weixin.qq.com/s/Y6e6uIGUAJeSitnjWL-sfA",
+        "source": "Doonsec",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "NASA严重安全漏洞，可导致黑客向飞船发送任意指令",
+        "url": "https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg",
+        "source": "Doonsec",
+        "date_added": "2026-08-30"
+    },
+    {
+        "title": "【威胁情报】阿里巴巴旗下支付宝8.2亿条用户数据公开泄露",
+        "url": "https://mrxn.net/news/alibaba-820Million-alipay-users-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-08-30"
     }
 ]
