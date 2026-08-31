@@ -88,5 +88,17 @@
         "url": "https://mp.weixin.qq.com/s/WEiDDAsjK2XViH_StBuzqA",
         "source": "Doonsec",
         "date_added": "2026-08-31"
+    },
+    {
+        "title": "渗透测试是一场有向搜索：从Cairn到XuanMu的Agent架构启发",
+        "url": "https://mp.weixin.qq.com/s/xKwWjPTIBO-HBWuGe6V68g",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "JimuReport积木报表/jmreport/auto/export接口未授权导出与表达式注入RCE漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-0-autoexport-unauth-export-aviator-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-08-31"
     }
 ]
