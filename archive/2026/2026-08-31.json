@@ -28,5 +28,65 @@
         "url": "https://mp.weixin.qq.com/s/seFA7amuHcHy4nBU8BF-qg",
         "source": "Doonsec",
         "date_added": "2026-08-31"
+    },
+    {
+        "title": "] [【安全圈】cPanel致命漏洞！秒拿服务器root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=1&sn=3d59bba62ea3d7dd826441a0ecd67732",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "] [【安全圈】UniFi全线沦陷！22个漏洞3个满分无需认证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=2&sn=a13ec178b9b59357321f9f8714630c77",
+        "source": "BruceFeIix",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "AI创作“狂飙”，如何解决安全“后顾之忧”？这场沙龙为文化内容创作注入“合规动能”",
+        "url": "https://mp.weixin.qq.com/s/4WPxDlDbqPKOgiKuUr-I7g",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "95.02%漏洞成功率 | 绿盟科技NSFOCUS AI斩获CyberGym全球第一",
+        "url": "https://mp.weixin.qq.com/s/KBwto0VeECB2FdgibnvRfg",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-22679泛微RCE漏洞（附EXP）",
+        "url": "https://mp.weixin.qq.com/s/btQjna0Ho_EOxjFjRwcRSw",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "关注 | 东南亚电诈黑产手段升级向全球渗透",
+        "url": "https://mp.weixin.qq.com/s/j280eV345vWy2H6wdh5aeg",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "记一次有趣的逻辑漏洞挖洞经历",
+        "url": "https://mp.weixin.qq.com/s/2WTRR76u-OTCRCTQT5uI6g",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "Nacos 管理接口权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Xddr4j9TxMnV2wVKsxCOeg",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "JeecgBoot 积木报表 | 最新漏洞已成功复现",
+        "url": "https://mp.weixin.qq.com/s/qxYWo5NbOOiJHpPd99gARg",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
+    },
+    {
+        "title": "第十六届网络安全漏洞分析与风险评估大会--信息安全企业家论坛邀您参会",
+        "url": "https://mp.weixin.qq.com/s/WEiDDAsjK2XViH_StBuzqA",
+        "source": "Doonsec",
+        "date_added": "2026-08-31"
     }
 ]
