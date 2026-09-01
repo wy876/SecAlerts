@@ -1,0 +1,32 @@
+[
+    {
+        "title": "威胁扩张：朝鲜伪装求职者已渗透医疗、销售营销等非 IT 行业",
+        "url": "https://mp.weixin.qq.com/s/UySW6GwRIea8GHWSJxMGUg",
+        "source": "Doonsec",
+        "date_added": "2026-09-01"
+    },
+    {
+        "title": "漏洞预警 | 亿赛通电子文档安全管理系统SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/f4xMViM1KN0zxh--s5k4iQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-01"
+    },
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 queryFieldBySql 接口SQL注入绕过漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-queryfieldbysql-firewall-bypass-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-01"
+    },
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 /jmreport/excelQueryByTemplate接口未认证报表枚举信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-excelquerybytemplate-enum-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-09-01"
+    },
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 download/image 接口签名伪造未认证SSRF漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-download-image-ssrf.html",
+        "source": "MRXN",
+        "date_added": "2026-09-01"
+    }
+]
