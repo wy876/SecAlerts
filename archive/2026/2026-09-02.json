@@ -136,5 +136,17 @@
         "url": "https://mp.weixin.qq.com/s/pnUGEgjLrCCuJ5UnqIn3Zg",
         "source": "Doonsec",
         "date_added": "2026-09-02"
+    },
+    {
+        "title": "SonicWall 提醒注意已遭利用的 SMA1000 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/Fsyy1rsCWJqNBf2zKWmkvA",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "Langflow 严重漏洞被用于窃取 OpenAI 和 AWS 密钥",
+        "url": "https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
     }
 ]
