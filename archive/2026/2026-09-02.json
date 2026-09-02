@@ -10,5 +10,41 @@
         "url": "https://mrxn.net/jswz/jimureport-v2-5-1-python-plugin-sign-bypass.html",
         "source": "MRXN",
         "date_added": "2026-09-02"
+    },
+    {
+        "title": "利用自动化渗透测试实现常态自动化网络安全验证",
+        "url": "https://mp.weixin.qq.com/s/W9iN5_4bGuajqzgPApL6pw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "从 Halo 通知模板 SSTI 到 H2 Alias RCE：一次完整的踩坑记录",
+        "url": "https://mp.weixin.qq.com/s/NFfmCp0_uMpccxUc-9DSLw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "【安全速报】9月2日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/QeXmCZb0xcLFA6mrDXFh9A",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+        "url": "https://mp.weixin.qq.com/s/VVrsdNncvV93OSGgNYJ6Sw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/AqB7dmY-ePSDJfg0kH3Rgw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 upload与数据源组合的H2 zip协议链RCE漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-h2-zip-chain-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-02"
     }
 ]
