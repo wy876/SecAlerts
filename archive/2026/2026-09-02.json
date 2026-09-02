@@ -46,5 +46,95 @@
         "url": "https://mrxn.net/jswz/jimureport-v2-5-1-h2-zip-chain-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [Composer 漏洞可导致恶意依赖暴露 SSH 密钥和敏感文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527008&idx=1&sn=0950887e9ff27c87182a5f98f8812f82",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [npm 热门包遭凭据窃取供应链蠕虫攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527008&idx=2&sn=15704bd374bcb0fdcff2dd82f78ea6e7",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.8.24-2026.8.30",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503934&idx=1&sn=653f59d8f877022699727252afdfbfae",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [CNNVD | 关于WebPros cPanel安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266095&idx=2&sn=631cd148481cee29f91e4c06098809a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [【安全圈】Langflow与Rails曝高危漏洞黑客疯狂刺探凭证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078572&idx=1&sn=1dd76fbf109a9faa6973891c20bda588",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [【安全圈】PaperCut零日漏洞遭链式利用黑客洗劫企业数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078572&idx=3&sn=e1fed16292b0ab76de4cafc0b4f66723",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第34期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502074&idx=1&sn=d1cf330acfd03f6240f28a912939572c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [AI安全案例分析 | NVIDIA NemoClaw聊天模板投毒漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495479&idx=1&sn=00279f79fa4af36b6e32049ff54ec96d",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "] [CNVD发布2026年第34期漏洞周报；OpenAI官方确认ChatGPT发生故障，ChatGPT Work及Plus服务受影响| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142535&idx=2&sn=d6dc4b3777fa583939bc0c271b9a195f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染",
+        "url": "https://mp.weixin.qq.com/s/iUK_0wdVIu_TanleUUZEGg",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "半日漏洞登场：AI 时代的 0-day",
+        "url": "https://mp.weixin.qq.com/s/rhAgrwZHUOrXMDwfrQwJpQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "【漏洞通告】Windows HTTP.sys 特权提升漏洞(CVE-2026-62735)",
+        "url": "https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "【漏洞通告】Proxmox VE身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/AngwtKu2qZ04-tLfMnlZGQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "就在明天15点！CRA合规专题直播：如何打通从漏洞通报到产品安全的最后一公里？",
+        "url": "https://mp.weixin.qq.com/s/nOiGJp5cjdor0kikm-eKZw",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "【漏洞复现】JeecgBoot 积木报表远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/pnUGEgjLrCCuJ5UnqIn3Zg",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
     }
 ]
