@@ -1,0 +1,14 @@
+[
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 testConnection接口H2的INIT参数unicode大小写绕过RCE漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-testconnection-h2-init-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "JimuReport积木报表最新版v2.5.1 auto/export/python/plugin 接口硬编码签名密钥绕过未认证导出漏洞",
+        "url": "https://mrxn.net/jswz/jimureport-v2-5-1-python-plugin-sign-bypass.html",
+        "source": "MRXN",
+        "date_added": "2026-09-02"
+    }
+]
