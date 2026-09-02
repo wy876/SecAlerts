@@ -148,5 +148,17 @@
         "url": "https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA",
         "source": "Doonsec",
         "date_added": "2026-09-02"
+    },
+    {
+        "title": "【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）",
+        "url": "https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
+    },
+    {
+        "title": "AI-PENTEST — AI 驱动的多Agent自动化渗透测试平台 Web渗透+C2双作业线，45+无缝工具，Docker一键部署",
+        "url": "https://mp.weixin.qq.com/s/K9I4EtvxSKHJxl63kSDo6A",
+        "source": "Doonsec",
+        "date_added": "2026-09-02"
     }
 ]
