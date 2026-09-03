@@ -10,5 +10,83 @@
         "url": "https://mrxn.net/jswz/Genersoft-Login-ConNetHelp-conditiondefine-ConNetHelp-sqli.html",
         "source": "MRXN",
         "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [软件供应链攻击之王TeamPCP落网记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188408&idx=1&sn=d492a25528a4bfa8111f644cb566f7ab",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [已复现 | 畅捷通T+ POSSyncService SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516526&idx=1&sn=1947b36d4933a51e958157ee2b2aeddb",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=3&sn=26cef62fe07f9ed9fcaf516b3016d24f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [【已复现】Windows HTTP.sys 整数溢出漏洞(CVE-2026-62735)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507393&idx=1&sn=59fae66c61e0a769810098e32c3de6e6",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [【安全圈】PVE曝严重认证绕过漏洞免密即可夺取Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=1&sn=c3152f6b53652d610529496929c997df",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [【安全圈】安全专家用Claude将工控漏洞利用跨设备移植",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=3&sn=b27684913ac539add1c5dbc2ff39eb66",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [【安全圈】SonicWall曝零日漏洞遭利用黑客可直接接管网关",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=4&sn=9135a63b7adb577ed7c1f6efbe9b143c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [LLM漏洞挖掘的自动化管线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497095&idx=1&sn=8aac85715301ed47109796d8d713e9fd",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496345&idx=1&sn=b8ee32c02f3741e7d77cf306489477e9",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [[译苑雅集 Vol. 19] 把界面交给 AI，Salesforce 反而更难被替代？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485197&idx=1&sn=17776eea48e067f5c3ce68b4fd591f34",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [利用自动化渗透测试实现常态自动化网络安全验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142551&idx=1&sn=84f49fbb986d032c82c3433428e0f4a5",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
+    },
+    {
+        "title": "] [【通知】关于中通SRC恢复接收漏洞测试的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-03"
     }
 ]
