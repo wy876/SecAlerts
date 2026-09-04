@@ -40,5 +40,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569454&idx=2&sn=00eb3059491519730285facf77fc76ed",
         "source": "BruceFeIix",
         "date_added": "2026-09-04"
+    },
+    {
+        "title": "ShowDoc  ≤ v3.9.2 registerByVerify 未授权PHP代码注入致远程代码执行漏洞",
+        "url": "https://mrxn.net/jswz/ShowDoc-registerByVerify-username-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-04"
     }
 ]
