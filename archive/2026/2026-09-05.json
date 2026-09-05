@@ -1,0 +1,56 @@
+[
+    {
+        "title": "] [已复现 | ShowDoc registerByVerify 未授权PHP代码注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [可远程代码执行！Chrome V8引擎0day漏洞已被真实利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2026-85046)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507407&idx=1&sn=c415219ad5472fa169305a57edd7a56c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [【已复现】ShowDoc 未授权PHP代码注入漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [Plex：立即修复这些漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=1&sn=cf76fa68fbc879adb577199aac435169",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [慧与修复严重的 ArubaOS-CX RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [CISA连夜拉黑7个在野漏洞：黑客正顺着LiteLLM偷你的大模型密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790451&idx=1&sn=8dfae39e2b70514d7beb78ba0e053345",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [适配欧盟《网络韧性法案》，微软更新硬件兼容性计划；CNNVD发布信息安全漏洞周报35 期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142595&idx=2&sn=deba2cae887965ccfcbbbb94644e570c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    },
+    {
+        "title": "] [腾讯云推出AI自主渗透测试产品「无境」，43分钟拿下管理员权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497939&idx=1&sn=dee907cdd09f89eed59388bf4b579068",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-05"
+    }
+]
