@@ -52,5 +52,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497939&idx=1&sn=dee907cdd09f89eed59388bf4b579068",
         "source": "BruceFeIix",
         "date_added": "2026-09-05"
+    },
+    {
+        "title": "mihomo系客户端内置Sub-Store v2.11.4-2.37.1 38324端口未鉴权ScriptOperator RCE漏洞",
+        "url": "https://mrxn.net/jswz/sub-store-38324-unauth-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-05"
     }
 ]
