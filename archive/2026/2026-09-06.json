@@ -4,5 +4,41 @@
         "url": "https://mp.weixin.qq.com/s/VZ3Xq-OffepJFVAw-GH_tg",
         "source": "Doonsec",
         "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [服务器正常运转，后门却已经编译进了负载均衡软件源码里",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188451&idx=1&sn=1b534c02706e0587e875dee31c05f707",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
+    },
+    {
+        "title": "] [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-06"
     }
 ]
