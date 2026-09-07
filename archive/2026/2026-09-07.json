@@ -4,5 +4,17 @@
         "url": "https://mp.weixin.qq.com/s/kvzFHISM36g-opZ0B-ZFdg",
         "source": "Doonsec",
         "date_added": "2026-09-07"
+    },
+    {
+        "title": "学计算机，网络安全，漏洞挖掘，电脑配置到底有没有要求",
+        "url": "https://mp.weixin.qq.com/s/D-Ys21MXo0VahWBHkSvK6Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-07"
+    },
+    {
+        "title": "CRMEB系统最新版v6.0.0 update_mark接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-07"
     }
 ]
