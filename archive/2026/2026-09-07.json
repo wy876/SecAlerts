@@ -16,5 +16,29 @@
         "url": "https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html",
         "source": "MRXN",
         "date_added": "2026-09-07"
+    },
+    {
+        "title": "] [后门攻击的深度分析与检测工程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497111&idx=1&sn=f8c7939459dd3f9984eb5529a33e422a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-07"
+    },
+    {
+        "title": "深信服运维安全管理系统 get_all_application_release 敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s/peVdns4WP25CCLs-4-q0oQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-07"
+    },
+    {
+        "title": "【安全速报】9月7日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-07"
+    },
+    {
+        "title": "脸爱云 getMKh.ashx 存在未授权访问漏洞",
+        "url": "https://mrxn.net/jswz/getMKh-unauth-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-09-07"
     }
 ]
