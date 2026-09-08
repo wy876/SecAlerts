@@ -1,0 +1,20 @@
+[
+    {
+        "title": "第九期漏洞挖掘培训，1元先试水，3档任你选，带你从0挖到高危",
+        "url": "https://mp.weixin.qq.com/s/udxrRBzhCWnudDZW4FCO9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "【已复现】漏洞通告 | RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)",
+        "url": "https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "CRMEB系统最新版v6.0.0 backup_read接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-08"
+    }
+]
