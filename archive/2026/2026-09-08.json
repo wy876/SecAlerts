@@ -94,5 +94,23 @@
         "url": "https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-08"
+    },
+    {
+        "title": "观点 | 系统构建动态协同的个人信息泄露治理机制",
+        "url": "https://mp.weixin.qq.com/s/GYULjKnzRwH4H9DVLcZZ9A",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "行业资讯｜ Chrome等高危漏洞被积极利用  &amp;网络安全项目中标情况汇总（9月8日）",
+        "url": "https://mp.weixin.qq.com/s/g_HDhBcEJt9zWRayt1DW0g",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "U8cloud所有版本CodeSyncServlet接口存在任意文件下载漏洞",
+        "url": "https://mrxn.net/jswz/u8c-CodeSyncServlet-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-09-08"
     }
 ]
