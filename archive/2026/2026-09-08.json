@@ -16,5 +16,83 @@
         "url": "https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html",
         "source": "MRXN",
         "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [【在野利用】RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507476&idx=1&sn=f1433d6bb553cda49e0f0b79eeab6f47",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [AI安全案例分析 | Amazon Kiro 提示注入漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [【安全圈】N-able曝CVSS满分RCE高危漏洞，五周连发四次补丁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [【安全圈】MikroTik公网SSH曝未授权漏洞，路由器遭批量劫持",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=2&sn=5969fb87d47921e8aa0ac90771260a80",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [【安全圈】Magento曝在途利用0day，黑客无视鉴权后门电商",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=3&sn=359e068f8ca623d04b703c03766b3c5a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [两天挖出100+高危漏洞？Google Mandiant多智能体框架AVDH全拆解：这才是AI审计该有的样子",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142611&idx=1&sn=a065ca30d6f5a9c1799f79574cb51e61",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [默安AI红队智能体：实现7*24小时全自主红队渗透能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502034&idx=1&sn=6536fee182d9590dbf74b41aa8ed2eb4",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第35期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=1&sn=20d3e6ed26158f64f9d55a8e354f209f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260831-20260906)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=2&sn=eede01bbc9dac6a1a8a7e5ae48dc5261",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s/8bn9C83ULYnwGmt5E13ong",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "天锐绿盘文档安全管理平台userExitList存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/9eDO8xuhyTrEENhtxc-d2Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "AiPyxa0再获xa0OpenVPNxa0官方致谢：发现并协助修复多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/ftHuHkq-DChpCzpPuW0ywg",
+        "source": "Doonsec",
+        "date_added": "2026-09-08"
+    },
+    {
+        "title": "友加畅捷管理系统 UploadFormImg.ashx文件上传漏洞（CVE-2026-86272）",
+        "url": "https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-08"
     }
 ]
