@@ -382,5 +382,47 @@
         "url": "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA",
         "source": "Doonsec",
         "date_added": "2026-09-10"
+    },
+    {
+        "title": "AI供应链安全工程",
+        "url": "https://mp.weixin.qq.com/s/6qJlcARd3Y_-yrBaUn9MxQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "大华智慧园区综合管理平台queryById接口存在敏感信息泄露 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/Nsip3mfrydYirZEZ5kFs2g",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "管防火墙的系统，被三个团伙排队打穿：Cisco FMC CVE-2026-20079 全链拆解",
+        "url": "https://mp.weixin.qq.com/s/uX9rXrbtnCmwdr_hFeRA6g",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "实测白帽的一站式AI渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/D7tJf-dZcIGs0d4acEKK4w",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "每日一学：若依（Ruoyi）框架，你必须知道的四个通用漏洞",
+        "url": "https://mp.weixin.qq.com/s/azoyt805nHgrJXyV0qKY7g",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "改了一个目录参数，我上传的图片替换了别人网站首页：2026年OSS直传签名越权实录",
+        "url": "https://mp.weixin.qq.com/s/pKKhOeunwErfQnTWdz23VA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "微软9月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s/KPKf29SDlxIG3qRwruu8kg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
     }
 ]
