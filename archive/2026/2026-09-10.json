@@ -148,5 +148,239 @@
         "url": "https://mp.weixin.qq.com/s/nF799bNlt7S4j_Hy3AzfvA",
         "source": "Doonsec",
         "date_added": "2026-09-10"
+    },
+    {
+        "title": "某省护网一次特殊的SQL注入-论当盲注不能堆叠注入而且布尔不生效如何跑数据",
+        "url": "https://mp.weixin.qq.com/s/ciTilSNPR4usSYHn1_oTZQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/y8H8XC-Ioujeglphw3oNJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "当AI Agent开始自主渗透，你的安全防线还扛得住吗？",
+        "url": "https://mp.weixin.qq.com/s/ygZhEDOQQZ-f7P97DlWzrA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "疑似HW攻击队白加白样本分析：伪装DOCX诱饵背后的CS后门",
+        "url": "https://mp.weixin.qq.com/s/-TC7C52sMRY-GC0OvOD0eQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "重磅APT预警！黎巴嫩Dark Caracal（黑山猫）卷土重来：GoCaracal木马登场，以太坊智能合约充当“不死C2备份”",
+        "url": "https://mp.weixin.qq.com/s/VSYBmGkoGsyW_sCU4sMJIA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "第75篇 AI全栈 · 静态分析工具Joern原理分析及0Day漏洞挖掘_",
+        "url": "https://mp.weixin.qq.com/s/N6QOcUIrJ-skWzL4G_XZVg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "普通用户注册即可投毒！某高校虚拟仿真平台爆出存储 XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/pksvtje37mzLwReiLHbwzw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "Android 九月更新一次补 180 个漏洞：国内设备先确认补丁层级",
+        "url": "https://mp.weixin.qq.com/s/-CI0PEEqKBIvtNDxaMFxBg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "SAP 内核出现满分远程代码执行漏洞：别让 ERP 补丁停在维护窗口里",
+        "url": "https://mp.weixin.qq.com/s/LL15wwwUJsWstDSL4YFgkw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "记一次代码审计之ruoyi（一）认证授权与信任边界(1)",
+        "url": "https://mp.weixin.qq.com/s/DwTZSGTrKiobteFaAvrMBg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "Coruna iOS 漏洞利用套件 C2 网页面板",
+        "url": "https://mp.weixin.qq.com/s/l0aWXO4eDe34TR-KJcyugQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "微信曝零点击高危漏洞：响铃无需接听即遭账号接管",
+        "url": "https://mp.weixin.qq.com/s/uexFjnRW7T8zDkOk7_JF5Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "PoisonedRefresh：一款无文件Linux Rootkit，向F5 BIG-IP APM服务器内存注入PHP Web Shell",
+        "url": "https://mp.weixin.qq.com/s/LxDPkv27hAZil0WuzGfbyA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "四个间谍集团在一周内使用了同一套Chrome和Windows漏洞利用工具包",
+        "url": "https://mp.weixin.qq.com/s/Lk8waN4j9PpRfioLsUHG0Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "漏洞扫描智能体 -- vuln-scan-agent",
+        "url": "https://mp.weixin.qq.com/s/fgdiF9PUxAeSMPYSVfABbw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【CVE-2026-82533】DeepSeek Harness高危漏洞让Agent一键突破沙箱限制",
+        "url": "https://mp.weixin.qq.com/s/DVRp4OrAiQPYxQTBPSCF-Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "2500人已加入！强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库！",
+        "url": "https://mp.weixin.qq.com/s/TSOXkeOCcHYlDY1At8bbxg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "漏洞复现 | 山东启恒信息科技有限公司数智化平台 CommonHandler 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/73DyuQaAbc5Ei57E3CqqoQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "DeepSeek V4.1 Flash 内测曝光：5 美分挖出 handlebars.js 0day RCE，Pro 版都做不到",
+        "url": "https://mp.weixin.qq.com/s/mDNYKQ2XrYoEOGdHI2xLag",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "CVE-2026-10520 一条 form 表单换 root shell",
+        "url": "https://mp.weixin.qq.com/s/G2_XCyMIjd1_kO2f2oxOOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "(7.8分) CVE-2026-81963：Windows 更新组件本地提权，已在野外被利用",
+        "url": "https://mp.weixin.qq.com/s/9ZsQF9mCx4mitNrK5oTLIg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "当AI成为“内鬼”——AI智能体编程带来的信息泄露危机",
+        "url": "https://mp.weixin.qq.com/s/mfsqkHbcvJp17mVRMRKHjg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【成功复现】KafkaUI代码执行漏洞(CVE-2026-5562)",
+        "url": "https://mp.weixin.qq.com/s/kThk-yBlYsype1Tjc8kdlw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "微信出现严重漏洞，可在无交互的情况下导致微信账户被黑客控制，影响安卓和 IOS 设备！",
+        "url": "https://mp.weixin.qq.com/s/h7PoQ1vYfnYCXS7cF6E5xQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "紧急预警！AI黑客盯上工控核心，西门子PLC无伤加固指南",
+        "url": "https://mp.weixin.qq.com/s/UvR9DBo2HuqYAg2_7Fxs6Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "Mercusys 热销 4G 路由：从拆机焊 UART 拿 root，到预认证 httpd 栈溢出（CVE-2026-12495）",
+        "url": "https://mp.weixin.qq.com/s/SoYXFlCxQ2LtV85rVWfP5g",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "SAP Kernel曝两枚严重漏洞，最高CVSS 10.0",
+        "url": "https://mp.weixin.qq.com/s/0PF1F4Vtqc1GFj2yO4moxQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "AI红队后渗透平台 - OKTOS",
+        "url": "https://mp.weixin.qq.com/s/OTzJ7lhE-XzesU98ab3rsA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【安全速报】9月9日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/HFLTo9ty2yWPujoQqQZPSQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0810-0823）",
+        "url": "https://mp.weixin.qq.com/s/XRup8swaJft-PWCzM5dwuA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.8.31-2026.9.6",
+        "url": "https://mp.weixin.qq.com/s/um7ftEJAQrlIam1pZ6Bvfw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "韩国医美平台\\\"江南姐姐\\\"22万用户信息泄露",
+        "url": "https://mp.weixin.qq.com/s/faq4xD5wUpL4fApBpzSuTg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【安全圈】微信曝零点击高危漏洞：响铃无需接听即遭账号接管",
+        "url": "https://mp.weixin.qq.com/s/MvVW40JEMG8hAAB3na1KRQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【安全圈】微软9月修复974个漏洞：2个在野0day且含蠕虫风险",
+        "url": "https://mp.weixin.qq.com/s/-ibfrmodL5o3scrZjkouoA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【安全圈】英特尔发布24.70.0驱动：修补无线内核提权与断连Bug",
+        "url": "https://mp.weixin.qq.com/s/8ECh31cV2XWQenFq2LdcEw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "ChatGPT漏洞：允许植入的提示信息将受害者的Gmail数据发送到另一个帐户",
+        "url": "https://mp.weixin.qq.com/s/zMZjuqWQDeo-tNikswA-Vg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "当AI Agent开始自主渗透，你的安全防线还扛得住吗？",
+        "url": "https://mp.weixin.qq.com/s/8YAS_V_n-oV8xWjyfktpiA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "山石安全能力中心｜微软2026年9月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/vXBX2pqIg8dFgK2pcf8EDA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "Jenkins Performance 插件反序列化 RCE（CVE-2026-84670）：一个\\\"假白名单\\\"，七年潜伏，一删了之",
+        "url": "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
     }
 ]
