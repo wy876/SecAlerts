@@ -16,5 +16,137 @@
         "url": "https://mp.weixin.qq.com/s/TEcXSfV1OE8V8jTaJnejTg",
         "source": "Doonsec",
         "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [【vivo 助力】 XCon2026：从3.7万静态信号到可执行PoC，共探AI时代的漏洞研究新范式",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492398&idx=1&sn=82df99975a267abf1245b0b18121f834",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.8.31-2026.9.6",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503943&idx=1&sn=3bfc0e21784c37e22ee2890c0b12147c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [微软9月补丁星期二值得关注的漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527069&idx=1&sn=69bc83e52667b561185aa958c9a2bce3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [SAP 提醒注意满分 “OVERPASS” 内核漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527069&idx=2&sn=38d5fe63d1405b5a8feb85fe1103a558",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [微软9月补丁日多个产品安全漏洞风险通告：2个在野利用、28个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507507&idx=1&sn=be74c21bfe84fa67670136c6d3db05ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [微软 9 月补丁日：974 个漏洞创历史新高，但真正值得 CISO 失眠的只有一件事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543862&idx=1&sn=6f4941138dc45bca40c5117828a2f20a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [【安全圈】微信曝零点击高危漏洞：响铃无需接听即遭账号接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078793&idx=1&sn=f80af8438a745cdfbd5130695d5253ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [【安全圈】微软9月修复974个漏洞：2个在野0day且含蠕虫风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078793&idx=2&sn=be3e3ee2eb33f6ed04d9beeb4b8c7858",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [【安全圈】英特尔发布24.70.0驱动：修补无线内核提权与断连Bug",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078793&idx=3&sn=9d1f9578fc5a4c382d6ff5a6e7d9209f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [SharePoint 双漏洞再曝风险！8 月必修漏洞清单请查收",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497944&idx=1&sn=4671de1456bd8fde91a4a84e7e08fee0",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [微软补丁日安全通告|9月份",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526112&idx=1&sn=53055e40919a1533ab081899b8887bcf",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "] [2026-09微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537284&idx=2&sn=b6bd57ec48fb5fd9011970b07a6faaea",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【漏洞通告】Apache-Impala存在代码注入漏洞(CVE-2026-65181)",
+        "url": "https://mp.weixin.qq.com/s/nvgl_PFA6qhgfpkjePCIkQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【漏洞通告】FireBox存在权限提升漏洞(CVE-2026-76801)",
+        "url": "https://mp.weixin.qq.com/s/mHtAoHdXTuLERDLZYTHjEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【漏洞通告】Next-Cart迁移插件认证绕过漏洞(CVE-2026-76009)",
+        "url": "https://mp.weixin.qq.com/s/10jOf3NSJEmJVg40kvcKEg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【漏洞通告】cjose JWE全零密钥漏洞(CVE-2026-53939)",
+        "url": "https://mp.weixin.qq.com/s/Z3Z1R7hV47S_hZYnKmZkoQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【安全更新】微软9月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/yYFG4CjwEZWAgnKLogUxVw",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "紧急安全预警｜ArangoDB曝两枚严重漏洞，未认证攻击者可通过漏洞链实现Root级RCE",
+        "url": "https://mp.weixin.qq.com/s/R4xjjcw1JpbAfMgnLWPmXg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "Exchange 预授权 RCE ：CVE-2026-62911 深度剖析与企业级防御实战",
+        "url": "https://mp.weixin.qq.com/s/550zpQDw2SNlXXYQWq3RLA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【已复现】从 Zerocopy 到 Root：Linux RDS 本地提权漏洞 ZcopyReaper（CVE-2026-43502）",
+        "url": "https://mp.weixin.qq.com/s/rcVNsnvcN3nQsScciPusWg",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "【玲珑安全】第九期漏洞挖掘培训，1元先试水，3档任你选，带你从0挖到高危",
+        "url": "https://mp.weixin.qq.com/s/aWzoMnsjkG485VVaDd2v3A",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
+    },
+    {
+        "title": "美国以防范网络安全“后门”为由宣布国家紧急状态并限制采购外国产电力系统设备，相关供应链安全审查及涉我设备排除风险需关注",
+        "url": "https://mp.weixin.qq.com/s/nF799bNlt7S4j_Hy3AzfvA",
+        "source": "Doonsec",
+        "date_added": "2026-09-10"
     }
 ]
