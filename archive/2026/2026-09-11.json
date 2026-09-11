@@ -1,0 +1,134 @@
+[
+    {
+        "title": "28 分钟 vs 40 小时：渗透智能体到底改变了什么",
+        "url": "https://mp.weixin.qq.com/s/fX49q-BZq6lP1jUIfanJsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "从合规到落地：AI软件供应链安全典型行业实践",
+        "url": "https://mp.weixin.qq.com/s/4XvgJ9psORjQbK8Jc0GZFQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "iPhone18 Pro 新增 Apple Reference Image，以像素签名对抗 AI 图像伪造；CNNVD发布信息安全漏洞周报第849期| 牛览",
+        "url": "https://mp.weixin.qq.com/s/3iRgmnNM5CkoYSe8RXfmGw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "「PyRIT实测：微软AI红队框架，多轮越狱攻击自动编排，LLM安全漏洞一次摸底」",
+        "url": "https://mp.weixin.qq.com/s/KejUNiJxdQgKsVp94ALqiw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "CVE-2026-39262 分析 | rag-web-ui RAG 越权问题",
+        "url": "https://mp.weixin.qq.com/s/Z11WnoCXoENGATvZlv6Eeg",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "表单提交下的越权删除漏洞",
+        "url": "https://mp.weixin.qq.com/s/teOVmSF8KncbQsih3mhDeg",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "紧急安全预警｜GitLab曝CVSS 10.0严重漏洞(CVE-2026-85706)，未认证攻击者可读取任意文件",
+        "url": "https://mp.weixin.qq.com/s/y-BrlE8I-Tx8OIN0FqDzog",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "能信安：8月安全漏洞态势汇总",
+        "url": "https://mp.weixin.qq.com/s/0AuN4K7QcXniRvdFHlH_2w",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "WordPress 给插件更新加上自动拦截：供应链安全不能只靠人工发现",
+        "url": "https://mp.weixin.qq.com/s/guOo0tYtFAmgNW1jJkKyBw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "记一次代码审计之ruoyi（二）接口鉴权与部署加固",
+        "url": "https://mp.weixin.qq.com/s/cxxOOOIzrerwZJxEDOz5zg",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "OnePlus会话劫持漏洞导致Android数据泄露",
+        "url": "https://mp.weixin.qq.com/s/Pqb8nzX84X5R6OrZvCnqqA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "亿赛通电子文档安全管理系统SecureUsbConnection存在反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/tcaAt4Jg_f3ff9Jx6TSZfQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "CISA 将 Cisco、Chromium V8、Fortinet 和 Citrix NetScaler 漏洞添加到其已知被利用漏洞目录中",
+        "url": "https://mp.weixin.qq.com/s/2BJIlsWq8idNksSwsY86DQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "安全工具丨大模型驱动的自动化渗透测试系统：智能体自主规划「探测→资产枚举→漏洞检测→AI分析与报告」的完整测试流程",
+        "url": "https://mp.weixin.qq.com/s/9o9W4F3aJhO9vvRVTBBLTQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "宏景人力资源管理系统 XFireServlet SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/i-MZHG_Tr3gvI0pmseDukA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "DeepSeek开源工具爆严重漏洞，AI编程代理可自破沙箱",
+        "url": "https://mp.weixin.qq.com/s/ISKAINAr_SMsnDsfG9ldfQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "Android 17 一键提权到 system_server",
+        "url": "https://mp.weixin.qq.com/s/pow3GczXHDTJEdeinuY6zQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "cPanel EmailTrack 再现致命 SQL 注入——一次低权限提权如何撬动共享托管信任",
+        "url": "https://mp.weixin.qq.com/s/ejhxyH4UNEF-aMTxiaBYbg",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "把 NOT 打在权限上：JumpServer AccessKey 越权泄露代码分析",
+        "url": "https://mp.weixin.qq.com/s/0z3URWxrpyFwVsma9Ps_fQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "靠 Android 逆向挖漏洞赚了几十万的工具分享",
+        "url": "https://mp.weixin.qq.com/s/s4hgv3k6dc09klsKUPAYtw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "Java安全—内存马介绍",
+        "url": "https://mp.weixin.qq.com/s/5qnUImJF0iiJyyVTVAVVlQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "价值图谱 | WEB漏洞扫描产品核心能力介绍",
+        "url": "https://mp.weixin.qq.com/s/MCFCFY41Y7URuzOhlJAvxQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    }
+]
