@@ -130,5 +130,143 @@
         "url": "https://mp.weixin.qq.com/s/MCFCFY41Y7URuzOhlJAvxQ",
         "source": "Doonsec",
         "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [PAN-OS 缓冲溢出漏洞可导致以root 身份执行任意代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527085&idx=1&sn=c3cc7ceb0784271a331d96ddf2c12ced",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [cPanel 新漏洞可导致单个托管账户接管整个服务器，影响所有版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527085&idx=2&sn=401518b5ad719760f10f3a256a2c352a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [微信移动端接管账号漏洞，一场无公开exp和时间的赛跑，在护网期间，究竟能翻出多大的浪花",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165803&idx=1&sn=84a39b8c3a1713fdde9ccd9ebd3c93a8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [【安全圈】JumpServer曝高危越权漏洞：普通用户发请求可窃管理员AK",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078814&idx=2&sn=377865fd1deaae1b0ff7ae47552a4242",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [AI供应链安全工程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497127&idx=1&sn=b446db6d7e32caba5ef38a79ae4d6f8e",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [180分钟到8分钟，Flocks实现自动化漏洞排查",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188010&idx=1&sn=38693f4ea44ef183d677b831aa06436f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [【在野利用】Google Chrome V8 越界写入漏洞(CVE-2026-87491)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507534&idx=1&sn=1afaf71f958bac541e8fa7a000f514b9",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [CRA报告义务9月11日起适用：出海企业能在24小时内说清漏洞影响吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488702&idx=1&sn=07a3e203780bfdb05bd0b247a74776b8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [【安全更新】微软9月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493642&idx=1&sn=8c4d96b64dbfc41b8d4da5187cac3093",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "] [美国以防范网络安全“后门”为由宣布国家紧急状态并限制采购外国产电力系统设备，相关供应链安全审查及涉我设备排除风险需关注",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569582&idx=2&sn=a563730463f78b2c63c748a9400ca698",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "【已复现】漏洞通告 | JumpServer Access Key 越权泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/Fb8EEGUbipH2Y66hBdKn8A",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "Check Point 提醒注意两个严重的未认证 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "速修复这些 Apache Aremis 漏洞",
+        "url": "https://mp.weixin.qq.com/s/LIu2Lci38T6ThERDeN03SQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "2026 CCS | “第二届基础软硬件智能化漏洞治理生态创新技术交流活动”议程公布",
+        "url": "https://mp.weixin.qq.com/s/QLq_fhOx_lSuvWTwfSPW3w",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "Anthropic 点名中国黑客+7家AI巨头：长沙学生用Claude搞出十几个0day，阿里被指薅了1.5亿次",
+        "url": "https://mp.weixin.qq.com/s/6A4JfadSG5PXlmxseKptuA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "关于暂停接收中通子公司中危、低危漏洞报告的通知",
+        "url": "https://mp.weixin.qq.com/s/Sau0nL0QW6tbIifF0OAujA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "黑客借助ClickFix投放新型SloppyRAT，支撑勒索软件横向移动",
+        "url": "https://mp.weixin.qq.com/s/7OZXhNzlSR1eoAJa0qDD2A",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "【已复现】GitLab CVE-2026-85706 未授权任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/6IZewtwtr5bXtIhbWSuuCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "无泄漏也能打：INSTAR 摄像头固件到无 ASLR 泄漏 RCE",
+        "url": "https://mp.weixin.qq.com/s/50SzqdU4bqWqsXU0HSWCYQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "PHP代码审计-动态调试配置（附环境）",
+        "url": "https://mp.weixin.qq.com/s/eLXJhbrOscodksn-K4OirA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "揭秘：企业WiFi的11个隐形漏洞，你的网络中了几个？",
+        "url": "https://mp.weixin.qq.com/s/EPUMtgc4LhWqTLC07X1JEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "紧急安全预警｜AWS SSM Agent曝CVSS 9.9严重SSRF漏洞(CVE-2026-89049)，可窃取EC2临时IAM凭据",
+        "url": "https://mp.weixin.qq.com/s/ExUaUWGcsmV65hut614kvA",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
+    },
+    {
+        "title": "当AI Agent开始自主渗透，你的安全防线还扛得住吗？",
+        "url": "https://mp.weixin.qq.com/s/iMbNDZyIpCfL2DUh_Oe_Lw",
+        "source": "Doonsec",
+        "date_added": "2026-09-11"
     }
 ]
