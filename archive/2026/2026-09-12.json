@@ -250,5 +250,17 @@
         "url": "https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA",
         "source": "Doonsec",
         "date_added": "2026-09-12"
+    },
+    {
+        "title": "【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？",
+        "url": "https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "TSRC某大佬总结的价值1800元的10万条POC",
+        "url": "https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
     }
 ]
