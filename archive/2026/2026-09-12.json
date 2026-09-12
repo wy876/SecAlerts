@@ -64,5 +64,161 @@
         "url": "https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA",
         "source": "Doonsec",
         "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [原创漏洞 | ClamAV PESpin 解包器堆缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508918&idx=1&sn=589b7b986d6beceb35820b87d1a3f495",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [Check Point 提醒注意两个严重的未认证 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527106&idx=1&sn=bbf5299ba4eef963c2c55d28c8620961",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [速修复这些 Apache Aremis 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527106&idx=2&sn=9d140b41a14476190cdda52639690414",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [从一份公开情报到潜伏863天的内核提权漏洞，中间只隔了72小时",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208768&idx=1&sn=3f90d912a06c0398b1590cd5202a111e",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619808&idx=2&sn=3e745a23a056daacc5bac958dd4734ce",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [【已复现】GitLab 路径遍历漏洞（CVE-2026-85706）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493379&idx=1&sn=38e19e19fa7201f09eee02ec06296d11",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [价值图谱 | WEB漏洞扫描产品核心能力介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543870&idx=1&sn=2f21c4d793e02c092548fcba3702c3b8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [【安全圈】思科防火墙FMC曝满分漏洞：免密直取Root遭勒索攻陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078830&idx=2&sn=552967b4aa41758e08d40d2c71bd56ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [【安全圈】JFrog制品库曝组合漏洞：免密换取Admin凭据篡改依赖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078830&idx=3&sn=ae55fabe5ad167e850024e3d3f9b890b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [从合规到落地：AI软件供应链安全典型行业实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142691&idx=1&sn=d9c45ac466cedbd91be6ce4d91f220ac",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [iPhone18 Pro 新增 Apple Reference Image，以像素签名对抗 AI 图像伪造；CNNVD发布信息安全漏洞周报第849期| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142691&idx=2&sn=aeeaac378f66a572f39517606ba2bec1",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [关于暂停接收中通子公司中危、低危漏洞报告的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486677&idx=1&sn=1245e25c8cc9f363263985557f32fe39",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [专题·原创 | 人工智能赋能的安全漏洞研究与防治",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266562&idx=1&sn=f0d3ebab8dd40ea4638481f8d9894152",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [CNNVD | 关于Palo Alto Networks PAN-OS缓冲区错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266562&idx=2&sn=4be5b4728efa49b3e4d3ca4f630ccc53",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266562&idx=3&sn=bcbc82dee4aebab15d8090f0d07b9d5b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [Liquid Network 缓存键碰撞漏洞解析：近 4,000 枚 L-BTC 被凭空铸造",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506034&idx=1&sn=909ce8f39f4c131100fa6ead7ded1086",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "] [安全热点周报：Chrome V8 零日漏洞已被利用，可在沙箱内执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507573&idx=1&sn=b55e03dabef3b8904766eeabb3450f58",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "一次事业单位的web渗透实战",
+        "url": "https://mp.weixin.qq.com/s/I6W_lAhfmo4xiR_yF4e2gg",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "DeepSeek Harness渗透测试版",
+        "url": "https://mp.weixin.qq.com/s/KmlvcBkP1CQ1w-7r7Lj6rQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "信息泄露严重，审慎使用大模型服务",
+        "url": "https://mp.weixin.qq.com/s/XVH2Xe1Txsm9DK0ZXSLutQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "Linux 系统中的 AD ResetNightmare (CVE-2026-27912) 和 KerberLoss (CVE-2026-25177) 漏洞",
+        "url": "https://mp.weixin.qq.com/s/SIVLLARuRbrXC1dOFVfssQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "Next js 远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/As_iBJBGrvbl0vAstjUpIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "俄罗斯黑客利用 Zimbra 零日漏洞窃取电子邮件无需点击链接",
+        "url": "https://mp.weixin.qq.com/s/SA8fH7tDZ3YJEVaRXhsE3A",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "《文学系渗透大师傅》",
+        "url": "https://mp.weixin.qq.com/s/apWC_6IpEfY-OzsO-UjDdg",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "每日一学：XSS注入常被忽略的隐藏入口——Cookie",
+        "url": "https://mp.weixin.qq.com/s/bCtgKBmJf95VjKAos8tqLg",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "第77篇 AI全栈 · 由CSRF引起的对常用鉴权方式总结",
+        "url": "https://mp.weixin.qq.com/s/-TP8A7FxagPdYFWeyMNKTQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
     }
 ]
