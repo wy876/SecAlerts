@@ -220,5 +220,35 @@
         "url": "https://mp.weixin.qq.com/s/-TP8A7FxagPdYFWeyMNKTQ",
         "source": "Doonsec",
         "date_added": "2026-09-12"
+    },
+    {
+        "title": "通过../../ 提权为管理员",
+        "url": "https://mp.weixin.qq.com/s/yw1jHVLyNLRE7wasNkyztw",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root",
+        "url": "https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "厦门四信通信科技 userLogin.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器",
+        "url": "https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫",
+        "url": "https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
     }
 ]
