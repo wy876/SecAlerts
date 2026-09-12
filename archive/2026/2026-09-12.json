@@ -46,5 +46,23 @@
         "url": "https://mp.weixin.qq.com/s/ufx42QP9mtVjnM_DLqeS0A",
         "source": "Doonsec",
         "date_added": "2026-09-12"
+    },
+    {
+        "title": "【附exp】GitLab CVE-2026-85706 未授权路径遍历",
+        "url": "https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "用友时空KSOA resubject 存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
+    },
+    {
+        "title": "用友NC Cloud accept.jsp接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA",
+        "source": "Doonsec",
+        "date_added": "2026-09-12"
     }
 ]
