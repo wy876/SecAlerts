@@ -4,5 +4,35 @@
         "url": "https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w",
         "source": "Doonsec",
         "date_added": "2026-09-13"
+    },
+    {
+        "title": "19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）",
+        "url": "https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕",
+        "url": "https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5",
+        "url": "https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "DeepSeek V4.1 Flash 上线48小时被\\\"去安全化\\\"，开源模型供应链再敲警钟",
+        "url": "https://mp.weixin.qq.com/s/cmxYBTQtH7N7Et-vEFE7Fg",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "XSS绕过CloudFront WAF：跨站脚本攻击新思路",
+        "url": "https://mp.weixin.qq.com/s/hITPQvHUXrqFs3sJZxZMzg",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
     }
 ]
