@@ -76,5 +76,23 @@
         "url": "https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw",
         "source": "Doonsec",
         "date_added": "2026-09-13"
+    },
+    {
+        "title": "(9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播",
+        "url": "https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "AI 渗透实战之DSH的国产红队框架",
+        "url": "https://mp.weixin.qq.com/s/PGYExE8wU_LbhQAd4En_lg",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
+    },
+    {
+        "title": "深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw",
+        "source": "Doonsec",
+        "date_added": "2026-09-13"
     }
 ]
