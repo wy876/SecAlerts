@@ -124,5 +124,59 @@
         "url": "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ",
         "source": "Doonsec",
         "date_added": "2026-09-14"
+    },
+    {
+        "title": "] [【安全圈】微软9月补丁日！973个漏洞3个已在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=3&sn=215aae05d6856f35530102d5d20892aa",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "(9.9分) CVE-2026-90605：Totolink路由器formFilter缓冲区溢出",
+        "url": "https://mp.weixin.qq.com/s/RMXhuL_YettDO47vo6xhKg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "Github 35K+ Star reverse-skill：免手动选技能skill，一键调度逆向渗透全工具链",
+        "url": "https://mp.weixin.qq.com/s/vDWZS52Qpt0_A1L9nScP8w",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "渗透测试框架之王：Metasploit模块化艺术与高阶Payload生成",
+        "url": "https://mp.weixin.qq.com/s/z76DAj31lMaq-nuPEVk0kw",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "关于LYSRC暂停接收漏洞公告",
+        "url": "https://mp.weixin.qq.com/s/u2zemJyjxXBKOHwdcagcIA",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "VulnHunter 正式开源！AI 漏洞挖掘平台，重塑代码审计工作流",
+        "url": "https://mp.weixin.qq.com/s/oDP5XJ4KXyqjiOMM12XV4w",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "已复现 | 搜狗输入法 1-click RCE",
+        "url": "https://mp.weixin.qq.com/s/m-alNYyQLozh3Nqc8uRrwA",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "OpenAI 智能体被指策划 RubyGems 攻击，并在 RubyDoc 服务器上实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/EkS1EuHcwOU1piHT1IUnpg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "关于设置待审核漏洞队列的公告",
+        "url": "https://mp.weixin.qq.com/s/n1sK_tZMZCWglWOHv0Qjqg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
     }
 ]
