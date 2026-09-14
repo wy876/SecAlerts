@@ -1,0 +1,128 @@
+[
+    {
+        "title": "装了Foxit（福昕阅读器）的机器要看一眼： CVE-2026-57239 提权链解析",
+        "url": "https://mp.weixin.qq.com/s/nwlpIXUto_amyDeI1AF1QA",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "AI 化身钓鱼者：提示词注入如何让可信助手变成定向恶意工具（上篇）",
+        "url": "https://mp.weixin.qq.com/s/yqMWF0zjWHw8vDa0hUZSSg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "伊朗关联组织借虚假招聘和编程测试投放跨平台远控木马，我科技企业海外招聘及开发者终端面临渗透风险",
+        "url": "https://mp.weixin.qq.com/s/nNcE3ecLK_r8Z-tKk7ULZg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "「AI安全红队技能库Claude-Red实测：78个SKILL.md覆盖提示词注入+越狱+RAG投毒，GitHub 4146星」",
+        "url": "https://mp.weixin.qq.com/s/tY2BA7FO_V4HavWo10M-pg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "从零搭一套 AI安全工作流：Trae + Yakit联动渗透测试保姆级教学（附带实战护网案例截图）",
+        "url": "https://mp.weixin.qq.com/s/2J5zfnQ65YWI6JDdnwYJYw",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/_ZCbCPY8iHMJWn8-ddgcog",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "重磅APT预警｜不再只用云端大模型！Kimsuky部署离线本地LLM，全链路AI赋能间谍窃密",
+        "url": "https://mp.weixin.qq.com/s/7xYDnAMQlckPHTXVGDoqaw",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "渗透测试从业者的 CTF 大模型CypherMind：6.4GB 离线跑通夺旗赛",
+        "url": "https://mp.weixin.qq.com/s/Dm_bvyKxeemIBUvo_mS_QQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器",
+        "url": "https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "SRC漏洞挖掘器 -- SRCTOOLS",
+        "url": "https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "从越狱继续思考：LLM 危险内容生成 ≠ 真实漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "AI逆向SKILL技能路由包，一键搞定脱壳分析、渗透测试与CTF竞赛全场景、适配Frida/IDA/Ghidra",
+        "url": "https://mp.weixin.qq.com/s/sxJOaV6in078sciYas7AsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "天地伟业Easy7 loadAllUserBeans 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/ynTDBD7VZzOxwzofkihrCg",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "CVE-2026-88062（CVSS 9.5）：OmniRoute远程代码执行漏洞PoC已公开",
+        "url": "https://mp.weixin.qq.com/s/Zf77r2kyZ1xEUkYT4efb4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "JeecgBoot 积木报表 v2.5.1 未授权 RCE &amp; Aviator 沙箱逃逸",
+        "url": "https://mp.weixin.qq.com/s/tCGV0NhDzFW1JJHbRDNYKA",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "CVE-2026-74997｜Roundcube Webmail插件可实现服务器远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/hlm2wLHm2rjV1nkSE9XDEw",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "CVE-2026-67276 | RouterOS SSH公钥认证绕过漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/bUnia_c25Pz72w1AkqRaZA",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "Java安全—内存马(Filter 型内存马)",
+        "url": "https://mp.weixin.qq.com/s/dApMTzJR0IgycJjuyVlQ9A",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "2026年还能让Google掏出百万奖金的漏洞",
+        "url": "https://mp.weixin.qq.com/s/4SxZ1gTgvcCe-cR5HQEvjQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    },
+    {
+        "title": "Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE",
+        "url": "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-14"
+    }
+]
