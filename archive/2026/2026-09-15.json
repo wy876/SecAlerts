@@ -118,5 +118,83 @@
         "url": "https://mp.weixin.qq.com/s/rGr1WhpTcPK2WoFngUcVHw",
         "source": "Doonsec",
         "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [《人工智能安全治理框架3.0》发布",
+        "url": "https://mp.weixin.qq.com/s/BOsQlidCGPN0_Q8fcDYuzg",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [首个AI智能体驱动的大规模漏洞利用：数天攻陷近400家企业",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516580&idx=1&sn=bd9b75622a8f018f62dec496c54cd44b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [已复现 | 搜狗输入法 1-click RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508935&idx=1&sn=6da728bb79fea0b00db8b7293ab54b85",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [CVSS 10分！戴尔对象存储严重漏洞，攻击者可接管系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619945&idx=3&sn=3286bebc47e66fd2eb9d1c3563e5b404",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [GitLab：速修复这个满分路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527116&idx=1&sn=a5bb9e6f5885a23ace296375f350354b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [Okta 修复三个影响 Auth0 和访问网关的高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527116&idx=2&sn=a993e3dbf2a2bdf917c51afa34037ecf",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [关于设置待审核漏洞队列的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490220&idx=1&sn=134f462e7fd5061db69579973f451579",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [【安全圈】CISA紧急通报：GitLab满分漏洞遭在野狂扫，限期3天整改",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078901&idx=1&sn=7757b77baf60096325b70cc9e320d520",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [关于LYSRC暂停接收漏洞公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485449&idx=1&sn=4e7c27be9c1927d38c415ef698cf0fff",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第36期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497332&idx=1&sn=9897e3d0177cf755581807707d5ce3b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260907-20260913)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497332&idx=2&sn=aa502ae57a5adebe56511b3d5527a453",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "] [伊朗关联组织借虚假招聘和编程测试投放跨平台远控木马，我科技企业海外招聘及开发者终端面临渗透风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569648&idx=2&sn=cd174d345371e73e174be0131e486acc",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准",
+        "url": "https://mp.weixin.qq.com/s/CkhLyM5FtUgtUAmc0_sJ0Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
     }
 ]
