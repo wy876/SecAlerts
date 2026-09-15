@@ -1,0 +1,122 @@
+[
+    {
+        "title": "网安入门必学：基础不牢，漏洞白学",
+        "url": "https://mp.weixin.qq.com/s/hQphKssKvTZ0q3G2mrny8A",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "【2026hvv】搜狗一键RCE漏洞之三个\\\"各自不算致命\\\"的缺陷如何变成 Critical，文章详谈~【附验证exp】",
+        "url": "https://mp.weixin.qq.com/s/2TyIwuivZQ6wJ7Mm-E3RYw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "普通用户能拿到管理员密钥：JumpServer 过滤漏洞已公开 PoC",
+        "url": "https://mp.weixin.qq.com/s/S0Soo6bIHFOxiMFRHNHM8g",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "网安标委发布《人工智能安全治理框架3.0》，风险分类与技术应对措施同步更新；CNVD发布2026年第36期漏洞周报| 牛览",
+        "url": "https://mp.weixin.qq.com/s/AEHea_NgsPtQh6yL7dkjLA",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "AI编程安全：业务逻辑漏洞，至今过不了的坎",
+        "url": "https://mp.weixin.qq.com/s/KfQKypZlvpd_mvP94k05Qw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第36期",
+        "url": "https://mp.weixin.qq.com/s/x-1QzlFO8ffKL5DpOJTvPg",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "WooCommerce批发潜客捕获插件漏洞遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/HZXA47-_Gt9AdU8A8eCYrQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "DeepSeek-DSH红队模式 - 覆盖渗透测试、红队评估、代码审计、免杀对抗等",
+        "url": "https://mp.weixin.qq.com/s/cW8FI4ZHZLdiIIYAPB9j7w",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "高危预警｜CVE-2026-51990 搜狗输入法RCE漏洞！可植入灰兔后门，已被APT野利用",
+        "url": "https://mp.weixin.qq.com/s/TAfELBir0dA7gtKG5Znbcg",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "ALiYun云渗透指南二",
+        "url": "https://mp.weixin.qq.com/s/UPypd9ggkFtumcH1oTyMoA",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "云天 · 安全通告（2026年9月15日）",
+        "url": "https://mp.weixin.qq.com/s/qDZZaDcnLDhtH1U7xDU9tg",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "搜狗输入法曝一键 RCE 漏洞（CVE-2026-51990），已被在野利用投放后门",
+        "url": "https://mp.weixin.qq.com/s/rC8uFUAeDcYnhXA2a7SClg",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "iOS 27 发布当日即遭破解：AirLift 配对越狱 PoC 深度技术分析",
+        "url": "https://mp.weixin.qq.com/s/rGODvKFJ_ID2-pTL2rgauw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "GitLab CVE-2026-85706路径遍历漏洞：无认证任意文件读取",
+        "url": "https://mp.weixin.qq.com/s/2vBN21nh0KK6tF7tpx8z8w",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "dddd-Next 自动化资产测绘 + 漏洞扫描工具，覆盖指纹识别、弱口令、nuclei POC、Shiro 专项检测和 HTML 报告",
+        "url": "https://mp.weixin.qq.com/s/ZUINewc4p6R1U2h9mGMRcg",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "【热点安全风险】9月15日 | ConnectWise ScreenConnect 提权漏洞遭在野利用，攻击者可接管企业终端运维通道（CVE-2026-84869）",
+        "url": "https://mp.weixin.qq.com/s/aTapxCJ62HhbipP0qrcmmQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "ARTEX:自动化渗透测试-多版本更新",
+        "url": "https://mp.weixin.qq.com/s/lGiyiP_cTNSlm7ZqKNAALw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "Avast 防病毒软件零日漏洞利用概念验证允许攻击者导出 SAM 数据库并获得 SYSTEM Shell",
+        "url": "https://mp.weixin.qq.com/s/gmVrqqnkAXo4cL4U9eQcIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "安全工具丨一个轻量 C2 框架覆盖「生成载荷 → 会话管理 → 任务执行」的完整链路。红队演练、渗透测试开箱即用。",
+        "url": "https://mp.weixin.qq.com/s/bNJoqHvPYkVwB4hCba8bUA",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    },
+    {
+        "title": "使用ASC + 自建 MCP 做APK漏洞面定位流水线",
+        "url": "https://mp.weixin.qq.com/s/rGr1WhpTcPK2WoFngUcVHw",
+        "source": "Doonsec",
+        "date_added": "2026-09-15"
+    }
+]
