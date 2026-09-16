@@ -52,5 +52,143 @@
         "url": "https://mp.weixin.qq.com/s/qPdkwy1Y9a_M3ZQ9cICt4A",
         "source": "Doonsec",
         "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [iOS27正式版推送！国行全部可用新功能整理，有些惊喜有些遗憾",
+        "url": "https://mp.weixin.qq.com/s/W9Goflh8eA9RG2CYxsSIFg",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [高危漏洞潜伏2年！Telegram导出文件暗藏窃密后门，旧文档至今危险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620413&idx=3&sn=48a06d747ea585125c655237ecec878c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492424&idx=1&sn=ddf6fff159e06459eeb6f3daf07d5d3d",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [【已复现】搜狗输入法 Windows 版远程代码执行漏洞(CVE-2026-51990)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507611&idx=1&sn=e76659ca3884261ca6e4af22710cb167",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [微步收购主流AI渗透工具CyberStrikeAI",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188078&idx=1&sn=d57338f080a0c7d41b16094080ab906e",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第36期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502165&idx=1&sn=f76897a4faed11bffee8aada736cb34b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [Debian 13.7 修复 92 项安全公告涉及问题，更新 106 个软件包",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543905&idx=1&sn=074bf9ce52a52f1aa52fa2cf51d0bccc",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [网安标委发布《人工智能安全治理框架3.0》，风险分类与技术应对措施同步更新；CNVD发布2026年第36期漏洞周报| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142730&idx=2&sn=1b5184c30967d3d8dc83d1996adfe06b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "] [2025年度CNVD优秀单位（个人）名单",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497365&idx=1&sn=157360bcf4c8fc6439fadc347b915683",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "【漏洞通告】Oracle WebLogic Server未授权远程接管漏洞（CVE-2026-70756)",
+        "url": "https://mp.weixin.qq.com/s/UAywPSxyEDaHD9XkWZ93QQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "火绒企业版2.0功能升级｜跨平台漏洞检测上线 查杀支持断点续杀",
+        "url": "https://mp.weixin.qq.com/s/7NUR-THvCuqWIiNtFBt6yA",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.9.7-2026.9.13",
+        "url": "https://mp.weixin.qq.com/s/PzQm7pYMyOaTKL6Fzh9vnQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "一句话“骗”过AI  警惕“提示词注入”攻击风险!",
+        "url": "https://mp.weixin.qq.com/s/EWiRTZBt-u7KWNr00Ge9tw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "Fortinet FortiWeb 8.0–8.0.1  未授权 RCE 利用链地下售卖事件",
+        "url": "https://mp.weixin.qq.com/s/Dys5lUgDo39zIv4wEOaOSQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "【风险通告】微软9月安全更新补丁和多个高危漏洞风险提示（CVE-2026-85880）",
+        "url": "https://mp.weixin.qq.com/s/bEvCh5YQzsMil0TUXSXPzA",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "记一次信息泄露到未授权的挖掘",
+        "url": "https://mp.weixin.qq.com/s/dqFx6-i215H0ON_Q4OaiCg",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/CxggiQE97GFPOAuZjpoEnQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "别乱点！你电脑里的搜狗输入法曾曝“点一下链接就中招”漏洞",
+        "url": "https://mp.weixin.qq.com/s/LUipytQlqiq5bZRGdOBDcg",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "五个 V8 漏洞里唯一的 Medium：Chrome 在野0Day CVE-2026-87491",
+        "url": "https://mp.weixin.qq.com/s/2lkqxLJghdDjWTFWbVcyZQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "基础软硬件智能化漏洞治理生态创新技术交流活动成功举办",
+        "url": "https://mp.weixin.qq.com/s/5WjpSTcOTXPGhvibS_nfHw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "【长亭AI安全·网安周进行时】9奖齐发！漏洞治理见真章，AI成果树标杆",
+        "url": "https://mp.weixin.qq.com/s/tb6lbASyfaf5tqv8q8gWFw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "【成功复现】InvoicePlane路径遍历漏洞(CVE-2026-23491)",
+        "url": "https://mp.weixin.qq.com/s/TkLi9e8bq0-IDbrSU4WCZw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "某微信小程序漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/vw9rN0G2_32n6gs2qO36kw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
     }
 ]
