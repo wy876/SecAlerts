@@ -1,0 +1,56 @@
+[
+    {
+        "title": "点开一个sgbiz链接就植入后门：搜狗输入法漏洞已被真实利用",
+        "url": "https://mp.weixin.qq.com/s/nUkpVh3YJ7ejdG0SIAb5bA",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "防火墙不是安全终点：PAN-OS未认证漏洞可拿到PA设备root权限",
+        "url": "https://mp.weixin.qq.com/s/d7RYPvYUGfUiydZJPOoslw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "SPIP spip.php 存在远程命令执行漏洞复现poc CVE-2026-77806",
+        "url": "https://mp.weixin.qq.com/s/KdYT3GHcEEutVY-sXkTa8w",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "Marimo 漏洞把云凭据交到攻击者手里：从笔记本到堡垒机只需几秒",
+        "url": "https://mp.weixin.qq.com/s/aYNGJ8fhElqgF8NDuVDVdg",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "梭哈之自动化渗透脚本",
+        "url": "https://mp.weixin.qq.com/s/iZ38tGeF_ajOc5_KmvQtHg",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地",
+        "url": "https://mp.weixin.qq.com/s/eN7zn6kvuNzWR_tDz0SwVg",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "收到欧盟CERT漏洞通知邮件怎么办？制造商必读的CRA合规应对指南",
+        "url": "https://mp.weixin.qq.com/s/rV5a1d74Y2545LxjTW5bEw",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "云原生未授权系列之K8s Dashboard未授权:点几下鼠标接管集群",
+        "url": "https://mp.weixin.qq.com/s/6GLnj0J2v2RZn99OE98hRA",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    },
+    {
+        "title": "宇树暴跌！从4400亿到1900亿，制度漏洞还是估值泡沫？",
+        "url": "https://mp.weixin.qq.com/s/qPdkwy1Y9a_M3ZQ9cICt4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-16"
+    }
+]
