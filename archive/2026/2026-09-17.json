@@ -322,5 +322,11 @@
         "url": "https://mp.weixin.qq.com/s/qJSfJtcJAjg7dqfUvOGXTQ",
         "source": "Doonsec",
         "date_added": "2026-09-17"
+    },
+    {
+        "title": "索贝融媒体 TestController接口reUploadBase64 SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/sobey-mcheditor-testcontroller-reuploadbase64-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-17"
     }
 ]
