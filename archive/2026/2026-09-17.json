@@ -214,5 +214,113 @@
         "url": "https://mrxn.net/jswz/sobey-mcheditor-energy-callback-arbitrary-file-write-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [已复现 | Langflow post-auth RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508945&idx=1&sn=ede35abd23d0c1aa811bc57d2ae2e9a6",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [cPanel：LiteSpeed Web Server 企业版严重漏洞可导致提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527155&idx=2&sn=731309593b43d749b4d952223f7fc491",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790481&idx=1&sn=31afea38178e241350d0fe91e6424485",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.9.7-2026.9.13",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503972&idx=1&sn=0a80c34da9499b4cb8cf5fc4d8463f59",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [【长亭AI安全·网安周进行时】9奖齐发！漏洞治理见真章，AI成果树标杆",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390745&idx=1&sn=02b45b9edf89fc3991d74fd99820cb83",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113706&idx=1&sn=acb9b3e79b156d392b91f6397be3a7df",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [火绒企业版2.0功能升级｜跨平台漏洞检测上线 查杀支持断点续杀",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537497&idx=1&sn=91fb6e1fb4627ad1f361e29c02c5afad",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [【安全圈】WooCommerce 批发插件曝 9.8 高危漏洞：未授权上传即成 PHP Web Shell",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078970&idx=1&sn=79e2e22a1ea642c180b12f34e2d63115",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "] [【安全圈】WSO2 API Manager 爆 JWT 签名绕过漏洞：伪造管理员 Token 直接拿下控制台",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078970&idx=2&sn=1a1c65218e30a1fe49375dd00d68006d",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "Log4j框架：1.x-2.x全版本你必须知道的12个通用漏洞（附2个Log4Shell实战案例）",
+        "url": "https://mp.weixin.qq.com/s/Gx7k_MoSkSecliz0Ws0knw",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "从AI安全运营到智能渗透测试，绿盟科技在2026网安周给出“以AI对抗AI”的答案",
+        "url": "https://mp.weixin.qq.com/s/4OTmVSlKhFCnogAHn891Og",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "【漏洞通告】Cisco ISE远程代码执行漏洞（CVE-2026-20211)",
+        "url": "https://mp.weixin.qq.com/s/hx0EZWCymHFhQX0EGeh-bA",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "Check Point 紧急修复严重漏洞，可使远程未认证攻击者获得 root 权限",
+        "url": "https://mp.weixin.qq.com/s/i4c36SjHK9nDHoUExsVwuw",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "夜鹰转向：APT-Q-95组织被曝攻击俄罗斯企业，Exchange后门GhostContainer再度现身",
+        "url": "https://mp.weixin.qq.com/s/sSXNeHWvJd0yO9T-3d_t1g",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "安全快报 | 威胁组织Red Heron利用远程代码漏洞攻击多国政府和关基单位",
+        "url": "https://mp.weixin.qq.com/s/jF1r7_xCk-cDwvNcmF_VLg",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "微软打印服务漏洞重现江湖",
+        "url": "https://mp.weixin.qq.com/s/3LkqpEEXSr8egHV5571wQg",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "【附exp】GitLab CVE-2026-85706 未授权路径遍历",
+        "url": "https://mp.weixin.qq.com/s/_9thMwvmLN5U4-hubOogyw",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
+    },
+    {
+        "title": "OA系统长期未修补漏洞致重要数据被窃！国家安全部最新提醒",
+        "url": "https://mp.weixin.qq.com/s/qJSfJtcJAjg7dqfUvOGXTQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-17"
     }
 ]
