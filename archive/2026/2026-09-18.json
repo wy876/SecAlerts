@@ -184,5 +184,41 @@
         "url": "https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw",
         "source": "Doonsec",
         "date_added": "2026-09-18"
+    },
+    {
+        "title": "] [可试看 | 当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620497&idx=3&sn=f6fdd9e6c8bc6c1fd4b8013cb7eea23f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "] [Check Point 紧急修复严重漏洞，可使远程未认证攻击者获得 root 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527165&idx=1&sn=065c0d69dff53c546fce09eee69ae140",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "] [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586940&idx=1&sn=f12393e9a73c08bbc753b5e7eb087a16",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "] [万斯关联金主网络据报接触巴西总统热门候选人，以稀土供应链换取反我定位与竞选支持，拉美关键矿产“去我化”政治交易浮出水面",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569703&idx=2&sn=ccfc224d89be787c293a559a6c459303",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "] [夜鹰转向：APT-Q-95组织被曝攻击俄罗斯企业，Exchange后门GhostContainer再度现身",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520480&idx=1&sn=7d25d6e963d57e3fc70f5e37bd6c173c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "正方数字化校园门户存在SQL注入",
+        "url": "https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
     }
 ]
