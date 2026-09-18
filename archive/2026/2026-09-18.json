@@ -10,5 +10,179 @@
         "url": "https://mrxn.net/jswz/crmeb-v13-remote-register-unauth-fund-injection.html",
         "source": "MRXN",
         "date_added": "2026-09-18"
+    },
+    {
+        "title": "Unbound DNS解析器曝9.1漏洞：不是所有发行版都补了",
+        "url": "https://mp.weixin.qq.com/s/tpiQrxBHyYqLyXIXE5jkcQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "小白SRC如何快速自动挖出第一个SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/clOVoHiHPC6M7FiDX8mtIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/OOdvTDwl0rr-GsjrweCkOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "QQ飞车桌面客户端 RCE 报告的事实核查-好像给了($515)",
+        "url": "https://mp.weixin.qq.com/s/jlLMC-N1IOtRPmLHRONG9A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "7-Zip RAR5备用流名碰撞绕过MotW---CVE-2026-58052分析",
+        "url": "https://mp.weixin.qq.com/s/JO3Si2rnltqhfZw22KXWXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "黑产也开始做“供应商评估”了！当犯罪走向供应链化，我们的防御思维还停在原地吗？",
+        "url": "https://mp.weixin.qq.com/s/81fk_ACss9WMi-3XPnzXng",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "CISA将停发每周漏洞公告，漏洞管理转向真实风险优先；国家计算机病毒应急处理中心发布《大模型与智能体安全综合测评报告（2026）》| 牛览",
+        "url": "https://mp.weixin.qq.com/s/CG6ApB2MunusiRXWaoEUEg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【安全速报】9月18日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/OUapQ8KZn8TdzttSZt9j7w",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "QQ飞车桌面版曝\\\"一键式\\\"远程代码执行风险?",
+        "url": "https://mp.weixin.qq.com/s/kvU0LZQtXlmIW-lCW_Y4BA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "2026年度（第二期）CNNVD漏洞奖励评选结果公告",
+        "url": "https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "首个\\\"AI黑客\\\"智能体暗网开售：渗透周期从两周缩到2.8天",
+        "url": "https://mp.weixin.qq.com/s/KIxiLtTjWj_MIY8rnjNfaQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "比起死磕上班内卷，我更建议年轻人试试挖漏洞",
+        "url": "https://mp.weixin.qq.com/s/Clv1QqdkkSwNMsMv5RxdbA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "泛微云桥 e-Bridge sendWxMsg SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "每天学一个 Kali 工具 · Day19 | Burp Suite：Web 渗透测试的航空母舰",
+        "url": "https://mp.weixin.qq.com/s/IqRnx7oREBD5gK8CHmmMQg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "存储桶遍历漏洞安全检测工具 - v2.0",
+        "url": "https://mp.weixin.qq.com/s/94tut5zTcJdJdZASWdi_sQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "Black Hat USA 2026：GPU内存翻转提权",
+        "url": "https://mp.weixin.qq.com/s/-5h5JXGiMvfvenrVORh8-g",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "惠普修复 HPLIP 严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/SAflPeNEiwsTat-_mOjAtw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "北美APT组织NightEagle利用GhostContainer后门与隧道技术开展隐蔽攻击活动",
+        "url": "https://mp.weixin.qq.com/s/IvMONgB8UOx7XODmUlDxJA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "课程从0-1！AI 安全自动化渗透测试课程，免费更新！",
+        "url": "https://mp.weixin.qq.com/s/z7Ho2thWG6SY5Hngdv2gIg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "大模型渗透测试从0到1:提示词注入+越狱+输出绕过,附完整payload",
+        "url": "https://mp.weixin.qq.com/s/kxX-6C8vWGj9vTRpqDf8Sg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "无需授权直取CI/CD密钥？聊聊GitLab刚修复的这个“离谱”漏洞",
+        "url": "https://mp.weixin.qq.com/s/222lMSVi6KNzWXXhIvVq3A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "漏洞预警 | 搜狗输入法远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "漏洞预警 | GitLab路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/c6gJ90yfw0XIFrP6YeIC1g",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "AI 驱动的自动化渗透测试平台 | AI漏洞挖掘系统 - 黑板架构 / 模型分级 / 结果验证铁律",
+        "url": "https://mp.weixin.qq.com/s/llON131cr386aAVj2h8e9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "朝鲜IT工作者借“身份代理”渗透远程招聘：从 Discord 招募到企业内部威胁",
+        "url": "https://mp.weixin.qq.com/s/vGb55dwtZdha7rg_4w4xJA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "微软发布补丁修复了974个漏洞，其中包括两个已被利用的Windows零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "网络安全正在从“漏洞防护”走向“能力治理”",
+        "url": "https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "CVE-2026-83271 Oracle Database 权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
     }
 ]
