@@ -220,5 +220,167 @@
         "url": "https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-09-18"
+    },
+    {
+        "title": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过",
+        "url": "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【SRC挖掘】记一次XSS绕过",
+        "url": "https://mp.weixin.qq.com/s/xUQ_P3wzmTGkU3127S7Pow",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "全流程 AI 化：沥泉科技TraceLoom从发现漏洞到验证漏洞",
+        "url": "https://mp.weixin.qq.com/s/RpB5-hwLT-0-q7ClbQ-x5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "亚信荣获CNCERT、CNVD多个国家级应急支撑荣誉，以专业实力筑牢网络安全防线",
+        "url": "https://mp.weixin.qq.com/s/OKfrjIwXChCKs-lD7dk0HQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "你的智能体归我：LLM 供应链中恶意中间人攻击的实测研究",
+        "url": "https://mp.weixin.qq.com/s/xyneGDMSdUu6d0Fdph-zXQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【已复现】CVE-2026-72529 CVE-2026-72530TrueConf Server 未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/dhIM1kpM_AAukHQfntFFlw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s/kCNEL8eA7w9miTKTLpeclg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师",
+        "url": "https://mp.weixin.qq.com/s/JTpugAIf6MP9cQbZJqHAzA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "ACM CCS 网络安全顶会 | 从“可信来源”到“可验证链接”——LiMS如何重塑Web供应链防线？",
+        "url": "https://mp.weixin.qq.com/s/EWdG-Ue12lkTWdgdKelCXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "Docker Sandboxes曝严重逃逸漏洞，恶意代码可读写macOS主机文件",
+        "url": "https://mp.weixin.qq.com/s/ok6WTTCgN2L3QPgsvmQVDg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "2026网安周 | 再获权威认可！中孚信息获评CNVD原创漏洞发现贡献单位",
+        "url": "https://mp.weixin.qq.com/s/FsKTjuPVwZ5NvDnf7eJFSg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "近期漏洞简单整理复现-showdoc/Nacos/JimuReport",
+        "url": "https://mp.weixin.qq.com/s/6v00MkyOxvuIUnDB7DW8gw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "信息安全漏洞周报【第092期】",
+        "url": "https://mp.weixin.qq.com/s/yf_HO1-2HGX26wLzNFgHtg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "YTray 实战案例：隔离浏览器越权测试与加密桥接",
+        "url": "https://mp.weixin.qq.com/s/SuXuB918VwSWqxen3H-K7w",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "渗透测试信息打点初步总结",
+        "url": "https://mp.weixin.qq.com/s/jpQhGqhDA3P7ZwLu7MVXnw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "信息安全漏洞预警（2026年9月14日-2026年9月18日）",
+        "url": "https://mp.weixin.qq.com/s/w5bVmDNTqLSLMWSPYeiuIg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "搜狗输入法 CVE-2026-51990 全链复现：参数注入 → 无沙箱浏览器 → V8 RCE",
+        "url": "https://mp.weixin.qq.com/s/T0qJypSuaNL8qjhHrX5Nqw",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "锐捷 NBR路由器的 历史漏洞",
+        "url": "https://mp.weixin.qq.com/s/uEebTXW-iFbK3JZW5ywMYA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "从智能代码审计到 AI 漏洞挖掘，看灵脉Code AI如何赋能Agentic Coding",
+        "url": "https://mp.weixin.qq.com/s/_j8Ke5AsPhR9-_6UX4qiNA",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "关于成长体系 V2.0「守卫计划」上线及通用漏洞计划调整公告",
+        "url": "https://mp.weixin.qq.com/s/-i-FdACwFS2yTAUx-9oNEg",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "无需认证！本地知识库 QAnything 任意文件写入漏洞可提权至 Root RCE（CVE-2026-88533）",
+        "url": "https://mp.weixin.qq.com/s/qWZEFKixXDj3asXm7Hme-A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "安恒信息获CNVD、CCTGA及多个国家级平台安全漏洞治理荣誉",
+        "url": "https://mp.weixin.qq.com/s/C7Wf8KlGuocngl5BPSP6TQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【已复现】CUPS 本地权限提升漏洞(QVD-2026-70361)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/HnPHtleUt3p-k0Ri6bO0_A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "【勒索预警】快转发！某财务ERP曝最新0day，Weax勒索病毒携杭州代理IP再次爆发，全网同类资产超十万，完整溯源复盘（附IOC）",
+        "url": "https://mp.weixin.qq.com/s/CeamGBWwohwgcfBS9fC9EQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "谁懂！扫到 /plug 路径，直接命中 SQL 注入",
+        "url": "https://mp.weixin.qq.com/s/eIiBt6gxyzuzrFHmHgPU7A",
+        "source": "Doonsec",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "ChanCMS-v3.3.0存在SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/ChanCMS-search-key-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "ChanCMS-v3.3.0存在远程代码执行漏洞",
+        "url": "https://mrxn.net/jswz/ChanCMS-collect-getArticle-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
     }
 ]
