@@ -1,0 +1,14 @@
+[
+    {
+        "title": "CRMEB系统最新版v6.0.0 image_base64接口phar反序列化RCE漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-image_base64-phar-deserialization-pop-chain-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
+    },
+    {
+        "title": "CRMEB系统最新版v6.0.0 remote_register接口未认证资金注入+账户接管漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-v13-remote-register-unauth-fund-injection.html",
+        "source": "MRXN",
+        "date_added": "2026-09-18"
+    }
+]
