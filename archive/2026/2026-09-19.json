@@ -82,5 +82,215 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530377&idx=1&sn=6644d99db88998b1c382b56899c2b9e9",
         "source": "BruceFeIix",
         "date_added": "2026-09-19"
+    },
+    {
+        "title": "Adobe 修复了 Magento 零日漏洞，该漏洞已被利用来部署 Rust 后门和 PHP Web Shell",
+        "url": "https://mp.weixin.qq.com/s/XlGxJeKunR6f4u15Ispnrg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "APP漏洞挖掘全套自动化工具（自动化检测程序+漏洞报告模板+检测指南）",
+        "url": "https://mp.weixin.qq.com/s/Wi3L7UgVk_ewaVVmOxb7GA",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "渗透工具包（ PEEP）将 Chrome 和 Edge 浏览器变成入侵后执行高危命令的后门",
+        "url": "https://mp.weixin.qq.com/s/-NIB_ogIamwt-z1nBUpFSA",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "开源PentAGI的 AI 驱动自动化渗透测试平台调研测评",
+        "url": "https://mp.weixin.qq.com/s/6XhP5mmhYsuc5NxfXaRgXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行",
+        "url": "https://mp.weixin.qq.com/s/9gcZXxMaT7tkMpp7-aI0yQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "千万别忽视！这个逻辑漏洞可绕过管理员的审核",
+        "url": "https://mp.weixin.qq.com/s/3Vhnvfkz_NPpaWmb2qBj_Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "[工具推荐]渗透测试、红队评估、代码审计、二进制分析、免杀对抗、应急溯源、攻防-dsh-redteam-model",
+        "url": "https://mp.weixin.qq.com/s/LEV6viIcGxKyaz_HQnknGg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/A62MrfscxdDyH2Vbo5LnUA",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "AI在企业级漏洞预警中的应用",
+        "url": "https://mp.weixin.qq.com/s/ycXjYy0JMAjt62EAE84tPg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "Windows 内核 WMI 计数回绕 CVE-2026-42980",
+        "url": "https://mp.weixin.qq.com/s/6AqwVTnQ1BBW1nPo4KSE1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "【已复现】WordPress 核心主题预览缺陷可导致RCE漏洞（Click2Shell）",
+        "url": "https://mp.weixin.qq.com/s/gCzjmru9awQp-YrMH3MyPg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "对某裸聊APK的渗透测试(水)",
+        "url": "https://mp.weixin.qq.com/s/zwinfIc4YS5sbbNQTi13iw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "从乙方渗透到甲方安全建设，再走向AI安全",
+        "url": "https://mp.weixin.qq.com/s/uUoSzPdKPl6yrdNFbV8I8Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "SRC关联供应链侧焚决",
+        "url": "https://mp.weixin.qq.com/s/HGgo2ASuvYMmfVDBAGIqNQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "谷歌卧底潜入黑客核心群，协助追查供应链攻击团伙",
+        "url": "https://mp.weixin.qq.com/s/bo24uXk1WPxrSYKdrxTMzw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "不用提示词注入，2个CVE、2万美元赏金：BragJack 攻破浏览器内置AI",
+        "url": "https://mp.weixin.qq.com/s/WRSXBPL2aS2pcAy2GpuD4Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "软件供应链安全进入精细化管理阶段",
+        "url": "https://mp.weixin.qq.com/s/Ympx_XSr4N7t0frzjdEQ5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20260919）",
+        "url": "https://mp.weixin.qq.com/s/331Ps5ly4oa7sg4LdZFKdg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "【一周安全资讯0919】全国网安标委发布《人工智能安全治理框架3.0》；Telegram Desktop曝存储型XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/mooA-oI9oEqOEwYfQgS46g",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "紧急安全预警｜CUPS曝本地提权漏洞，lpadmin低权限用户可获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/reYpJTR0GNez94zb4V5Bgg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "Linux本地提权四人组：DirtyAH6、PPPoEject、TUNderflow与DiagSpill",
+        "url": "https://mp.weixin.qq.com/s/uuIQz-r6pjiwJ4qg-cwVNw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "黑客攻陷OpenAI：两个漏洞让我们拿下ChatGPT控制权",
+        "url": "https://mp.weixin.qq.com/s/zdXAvMDq5trrV1om-OagzA",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "Fastjson 2 AutoType 授权绕过——默认配置也能被带出远程类加载",
+        "url": "https://mp.weixin.qq.com/s/HYEeqAD3rqpS_Sg7Wn1qUg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "众测复盘：从 APP 一条普通图片请求，挖掘外围服务器文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/8sEpo2P5dHyXqAnHjGOzsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "靶场实战03|搞懂数据库，才能玩转注入（附docker靶场部署步骤）",
+        "url": "https://mp.weixin.qq.com/s/R7QyBD2sxPiCi2sJAHJvaw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "JumpServer越权漏洞：URL里加个参数，管理员Access Key直接裸奔",
+        "url": "https://mp.weixin.qq.com/s/YrcGxhNFYEWAF1paVRcjvg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣",
+        "url": "https://mp.weixin.qq.com/s/A9XSM4sLw91lPYEo3_-nsw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "(7.1分) CVE-2025-39682：Linux内核TLS UAF本地提权",
+        "url": "https://mp.weixin.qq.com/s/qonAHlNXe90mvsmwsMRqNw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "车联网漏洞挖掘方法及典型案例剖析",
+        "url": "https://mp.weixin.qq.com/s/ZAJIk-inmt0496wYuo96Gg",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "智能网联汽车漏洞管理实践探索",
+        "url": "https://mp.weixin.qq.com/s/C7Z9cpxznj9o6Qu3rlwW4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "Claude Code、Codex、Copilot与Gemini CLI四大编程代理惊爆零点击RCE",
+        "url": "https://mp.weixin.qq.com/s/JvOp_vQxbVDRXjdCnX5cmQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "专家解读 | 依法堵住网络“小设备”的安全大漏洞",
+        "url": "https://mp.weixin.qq.com/s/1_ALUqD3yoiOV3tuxWOjLw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "AWS 严重漏洞使攻击者能够绕过端口转发限制并窃取 IAM 凭证",
+        "url": "https://mp.weixin.qq.com/s/Sw59H6HMs_Ogx9an7H-iBw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "【AI安全】40个Agent/MCP漏洞归成13类后，扫描器为何仍只能找候选",
+        "url": "https://mp.weixin.qq.com/s/2o_t5sK6Cn_ULn-BXwp07g",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
+    },
+    {
+        "title": "紧急安全预警｜pgAdmin 4曝CVSS 9.8认证绕过漏洞(CVE-2026-86863)，可冒充管理员登录",
+        "url": "https://mp.weixin.qq.com/s/tYZHH3sfg1-a1VVF6wqHIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-19"
     }
 ]
