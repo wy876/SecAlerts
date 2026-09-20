@@ -274,5 +274,65 @@
         "url": "https://mp.weixin.qq.com/s/RunHp0V3j6TNywtrbjrZUA",
         "source": "Doonsec",
         "date_added": "2026-09-20"
+    },
+    {
+        "title": "【已复现】Cisco ISE 认证绕过漏洞（CVE-2026-76460）",
+        "url": "https://mp.weixin.qq.com/s/fAylyI9RH-nJNSPd45rEog",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "(9.1分) CVE-2026-93958：D-Link R95 路由器命令注入",
+        "url": "https://mp.weixin.qq.com/s/f2qsP8coahnqHnXQ-0z0nw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Linux 内核曝四个提权漏洞，攻击者可借此获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s/Euc-zl-ioMRCVfYQoFNPhg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "pgAdmin 严重认证绕过漏洞：伪造 HTTP 头即可冒充管理员登录",
+        "url": "https://mp.weixin.qq.com/s/dYsPpa3YYDhaVa6VuKKt3w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "风控检测_人脸注入，镜头也会说谎",
+        "url": "https://mp.weixin.qq.com/s/cnvNoWOEpQYMpqFYE-3KXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "直播回顾 | 漏洞刚披露，攻击已经开始：企业的响应窗口还剩多久？",
+        "url": "https://mp.weixin.qq.com/s/bdw-V7iIqXslZ43XfTar9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Brevo遭供应链攻击，超10万网站被植入恶意代码",
+        "url": "https://mp.weixin.qq.com/s/grxh1I_gY_8BSXt1OMVikA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "每周PDF资源：开源供应链投毒分析技术报告；bp安教教程；逆向工程权威指南",
+        "url": "https://mp.weixin.qq.com/s/YjFR97cVz3zj-NKGeSz5_w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "护网出局单位的RCE",
+        "url": "https://mp.weixin.qq.com/s/Am4GMFyi-9866VOom0DZIQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "从HTML注入到CSRF：一次漏洞组合拳实战",
+        "url": "https://mp.weixin.qq.com/s/UCUVdORqv2S1VwjrztqC9w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
     }
 ]
