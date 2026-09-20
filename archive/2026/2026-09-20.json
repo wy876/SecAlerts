@@ -172,5 +172,107 @@
         "url": "https://mp.weixin.qq.com/s/hIQVdHMTjdsssqkCOAOlOQ",
         "source": "Doonsec",
         "date_added": "2026-09-20"
+    },
+    {
+        "title": "] [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790491&idx=1&sn=4dcf28d6df4c4eeff6eebcf39bc3dcc4",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "] [AI在企业级漏洞预警中的应用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488068&idx=1&sn=46340601f344788aa253f02e77e47a18",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "CRA漏洞上报实战：从漏洞研判到24小时报告，企业应该怎么做？",
+        "url": "https://mp.weixin.qq.com/s/Gz08tZD2tmK2Sy2yPrrEMA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "[工具推荐] 面向 APP / Web /小程序-加解密逆向分析/渗透测试人员的可视化解密框架-CipherBridge(密桥)",
+        "url": "https://mp.weixin.qq.com/s/YbWCG-eUb5GOKQufKRHZwQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "水滴工具箱，集合各种渗透工具-v11",
+        "url": "https://mp.weixin.qq.com/s/5foIof1_ZFBUNn09R6u07Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "渗透测试工程师手册，全是干货，收藏必备",
+        "url": "https://mp.weixin.qq.com/s/8trsa4Ky10JjHF34cc-T_w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "中国工程院院士云晓春：AI供应链安全挑战及应对思考",
+        "url": "https://mp.weixin.qq.com/s/B53uughaUHF3bVgvrLNMTg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "EasyShell&amp;EasyTools 双工具更新|中秋×国庆渗透云记福利抽奖活动",
+        "url": "https://mp.weixin.qq.com/s/qgIdutwV98ZcY2hJTfBE-w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【漏洞通告】pgAdmin 4 Webserver身份认证绕过漏洞（CVE-2026-86863)",
+        "url": "https://mp.weixin.qq.com/s/ATMTciDytiZIc_Q5o0ZpGQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【漏洞通告】CUPS配置及权限边界缺陷导致本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/jvU0gb8_oQkrvnD0QiY5hA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/yAkS1WJ431Zx7nW5FNmv7Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE",
+        "url": "https://mp.weixin.qq.com/s/Kta0nvZlLnHw6ENLwMA5Dg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Fortinet：Orkes Conductor 工作流平台上严重的预认证 RCE 已遭利用",
+        "url": "https://mp.weixin.qq.com/s/xMF-Lu_y5PfejJAIkxLWCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【已复现】漏洞通告 | CUPS 本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/NVEji4oWEYNMs1LZvTrwOw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Docker Mac沙箱逃逸漏洞详解",
+        "url": "https://mp.weixin.qq.com/s/83nLAv_Lc7xIkIn5FF_Zmg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "CVE-2026-49176 深度解析：Windows WalletService 本地提权链",
+        "url": "https://mp.weixin.qq.com/s/gSrqT9wfRKYMk3L3uW_SFg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "蓝皮书发布丨《2026智能体安全漏洞治理蓝皮书》",
+        "url": "https://mp.weixin.qq.com/s/RunHp0V3j6TNywtrbjrZUA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
     }
 ]
