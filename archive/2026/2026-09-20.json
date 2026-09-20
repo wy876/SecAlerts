@@ -4,5 +4,173 @@
         "url": "https://mrxn.net/jswz/crmeb-adminapi-theme-import-zip-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-20"
+    },
+    {
+        "title": "BlindRop | 二进制漏洞中的盲注 使用二分算法测试栈溢出长度",
+        "url": "https://mp.weixin.qq.com/s/MAfOiJ0Tbpqe07_4lFlW2g",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/fyY5CJwdVcUgvOb8ct6ijQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "甲方运维注意：30万 Ollama 裸奔公网 A.I.G 揪出漏洞",
+        "url": "https://mp.weixin.qq.com/s/T0RDiYQJ7BuY1FXO8N6VUA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "重大APT预警！Ted后门+curlRAT武器库曝光：把HAProxy负载均衡器改造成间谍设备",
+        "url": "https://mp.weixin.qq.com/s/6uE97-7gRpQUvXf_L4491g",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "美中央情报局解密71份总统每日简报与反恐预警档案政治化风险",
+        "url": "https://mp.weixin.qq.com/s/50uyOwwFmjX3COOTxV9urw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "CVE-2026-62943：btrbk SSH命令过滤绕过漏洞，CVSS 8.7分",
+        "url": "https://mp.weixin.qq.com/s/v2md-Axy5XAvCxaLJuSwPA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "紧急安全预警｜Node.js vm2曝3个CVSS 10.0沙箱逃逸漏洞，可突破隔离实现RCE",
+        "url": "https://mp.weixin.qq.com/s/liynIdGoUigpU2ZIYcvDUQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "容器渗透测试神器降临！一款工具搞定容器逃逸、K8s集群接管与云原生安全评估",
+        "url": "https://mp.weixin.qq.com/s/Nea4MHyb2UIo3n54R_HjOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "IBM Langflow OSS 高危漏洞分析：VackBot 已实现检测覆盖",
+        "url": "https://mp.weixin.qq.com/s/0MMrKYoQy9dS6HOvH1vIJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "网站文件没改，访客却被诱导运行命令：Brevo边缘注入复盘",
+        "url": "https://mp.weixin.qq.com/s/X5nNEK4RW9YA6i2ZcRpGCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "工作流接口没登录就能执行命令：Orkes漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s/fXMVrCaaAY74-C2ccLssjw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Linux内核3漏洞被在野利用：只比较版本号会漏掉补丁",
+        "url": "https://mp.weixin.qq.com/s/efNIaxaD1hZwlJjmQYcN3w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Giskard实测：AI Agent漏洞扫描器 一句话自动穷举提示注入 OWASP全查 5828星",
+        "url": "https://mp.weixin.qq.com/s/jyXPKk1pei5But-bycMEtg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "D-Link DIR803 getcfg.php 信息泄露漏洞(CVE-2025-14528)",
+        "url": "https://mp.weixin.qq.com/s/BJFj__Z1ZDRkMO6wljMD1w",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "强推一个自动化 SRC 漏洞挖掘系统",
+        "url": "https://mp.weixin.qq.com/s/SiHvJvwxiWq_0j6a3SXuBg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Cisco ISE遭遇在野攻击，最高严重级别漏洞必须尽快修复",
+        "url": "https://mp.weixin.qq.com/s/az7IGc_eGOXQ_tNKD0nM2Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "在野被利用的 Linux 内核漏洞",
+        "url": "https://mp.weixin.qq.com/s/T4E-K_t60Uq4atJs1ze3HA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Black Hat USA 2026：拖拉机ECU漏洞修复",
+        "url": "https://mp.weixin.qq.com/s/vfQrAeAenmdS6TXJWyn_1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "(10分) CVE-2026-76460：思科Cisco ISE 认证绕过可拿root",
+        "url": "https://mp.weixin.qq.com/s/QcANtCnambV4lliJp2qHGQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "macOS公布提权漏洞CVE-2026-43783(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/vbI1v1on0v7TZq6QKaT6hQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "【漏洞分析】CVE-2026-81642：一行恶意 DNS 记录如何无接触拿下你的服务器",
+        "url": "https://mp.weixin.qq.com/s/z9TcJ95ZSTQLcsGvhBFbqw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "Pwn2Own 汽车赛事：漏洞、利用与经验总结",
+        "url": "https://mp.weixin.qq.com/s/eDnMc8yy5evaCSdP0gpuPw",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "摄像头安全检测，别再只看文档了：39项检测清单+6条真实攻击链，从纸面合规到真实渗透",
+        "url": "https://mp.weixin.qq.com/s/GgPAdXlw6pJnVba5zDIO2A",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "渗透武器库、渗透工具箱 | 专为渗透测试从业者开发的一站式工具启动器",
+        "url": "https://mp.weixin.qq.com/s/_XpgJWD4t3c1xb1liSG6CA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "美中央情报局解密71份总统每日简报与反恐预警档案政治化风险",
+        "url": "https://mp.weixin.qq.com/s/0sdl_5nnVjCrfeXXtYQkPg",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "6.3 万 Star 的 AI 红队，把渗透测试打成了白菜价",
+        "url": "https://mp.weixin.qq.com/s/Xj8mSy1jaTooSRXs4h4PsA",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "软件包有来源证明，为什么供应链仍可能被投毒？",
+        "url": "https://mp.weixin.qq.com/s/UTzzGMoCg4OxCWlnvo-hVQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
+    },
+    {
+        "title": "英国国家网络安全中心警告Check Point VPN 关键漏洞可能面临大规模利用",
+        "url": "https://mp.weixin.qq.com/s/hIQVdHMTjdsssqkCOAOlOQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-20"
     }
 ]
