@@ -1,0 +1,122 @@
+[
+    {
+        "title": "CNVD 通用型未授权漏洞广扫Skill · 便携工具包",
+        "url": "https://mp.weixin.qq.com/s/VPNybCGaJMMeBWQltg949Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "一次扫描出141个子域+201个漏洞目标，这个AI侦察引擎太猛了",
+        "url": "https://mp.weixin.qq.com/s/gXcwoDdZwk1VtVzs-N7Jjw",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "AI agent提示词：适用渗透测试&amp;src漏洞挖掘工作流模版分享！",
+        "url": "https://mp.weixin.qq.com/s/VbC7MJGR3SNkXUnW-oiQzw",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "SRC漏洞报告成稿 Skill（SRC/0day 提交稿、分层验证门、Step 式 PoC、截图铁律）",
+        "url": "https://mp.weixin.qq.com/s/YTEGK_981f9JkjJBLmPc_Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "车联网情报速递｜COVESA Open1722双CVE复现：以太网→CAN 桥接网关的“任督二脉”被打穿",
+        "url": "https://mp.weixin.qq.com/s/2A94RWAa9yDAgGxQC2KVDw",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "(9.9分) CVE-2026-94095：Netcore企业路由器traceroute命令注入",
+        "url": "https://mp.weixin.qq.com/s/3DH8B5dMS9mtvfEIlQ1wHg",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "Cairn AI：把渗透测试当作状态空间搜索的全自动攻击引擎",
+        "url": "https://mp.weixin.qq.com/s/NmL_mVyHfid7oJ5cMfqkrA",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "AI大模型Web站点在渗透测试中常见实战漏洞",
+        "url": "https://mp.weixin.qq.com/s/8g_LDDcyUu978rcBp7OzqQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "CVE复现 | CVE-2026-39363漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/QebTP9rX3KvQMRpdCkf1Gg",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "一款自动化文件上传漏洞检测工具",
+        "url": "https://mp.weixin.qq.com/s/jShHV_V3tbhH80SzE9J5uA",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "通杀 Edusrc通杀70rank漏洞实战高危思路和WAF绕过",
+        "url": "https://mp.weixin.qq.com/s/dO1QzXuH6gE2O-NK1bOpWA",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "【热点安全风险】9月21日 | Linux 内核三漏洞确认已遭在野利用，攻击者可借其本地提权并横向渗透内网服务器",
+        "url": "https://mp.weixin.qq.com/s/STiIDJO6nF4AYT1BdSBHLQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "你充电，他买单：ISO 15118协议漏洞致中间人攻击",
+        "url": "https://mp.weixin.qq.com/s/1wKzDuJzDKcfq_puIPs8Dw",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "“AI Force”何以成了“人工智能部队”？——难道吸睛比严谨更重要？",
+        "url": "https://mp.weixin.qq.com/s/4f9Lezm_uf3bPr8KtTDUow",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "vBulletin 存在严重身份验证前远程代码执行漏洞，可执行任意 PHP 代码",
+        "url": "https://mp.weixin.qq.com/s/sp3LI-DNcEjvg5QkkDdVvw",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "漏洞利用概率更新了，补丁优先级为什么不能只按分数排？",
+        "url": "https://mp.weixin.qq.com/s/z5x4ksLh554DbY7FuAU7Sg",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "PWN二进制漏洞挖掘与利用（全套视频+工具资料）",
+        "url": "https://mp.weixin.qq.com/s/zPu7-0WkeHPJLqmxz2EzMQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "Chrome 153 版本修复了 230 个漏洞，其中包括一个已被实际利用的零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/rYJBOndcq977WBHZdQ58ng",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "如何用AI Agent拿下漏洞赏金大赛冠军",
+        "url": "https://mp.weixin.qq.com/s/XpiVT64ftdDO8lnWP83M2w",
+        "source": "Doonsec",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "CRMEB系统最新版v6.0.0save_basics接口任意文件读取漏洞",
+        "url": "https://mrxn.net/jswz/crmeb-adminapi-agent-config-save_basics-arbitrary-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-09-21"
+    }
+]
