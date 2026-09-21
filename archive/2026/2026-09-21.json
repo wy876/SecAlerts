@@ -178,5 +178,29 @@
         "url": "https://mp.weixin.qq.com/s/O-ua4HIVFA5xUgZmXSLMvA",
         "source": "Doonsec",
         "date_added": "2026-09-21"
+    },
+    {
+        "title": "] [【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "] [SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "] [Fortinet：Orkes Conductor 工作流平台上严重的预认证 RCE 已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=3&sn=354366cc3bff3cacc12308d508f2ab28",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-21"
+    },
+    {
+        "title": "] [美中央情报局解密71份总统每日简报与反恐预警档案政治化风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569748&idx=2&sn=15ebb0d61050146db268adc86c6a7d74",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-21"
     }
 ]
