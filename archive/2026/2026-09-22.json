@@ -406,5 +406,125 @@
         "url": "https://mp.weixin.qq.com/s/xKOZmS4_xuwjBZWM2v55yA",
         "source": "Doonsec",
         "date_added": "2026-09-22"
+    },
+    {
+        "title": "【已复现】CVE-2026-65660 Microsoft SharePoint 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/meQDGztz6IsCdcI6MCOM9w",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "通报 | CNCERT通报2026年人工智能大模型安全众测活动典型漏洞风险",
+        "url": "https://mp.weixin.qq.com/s/xx8BoK_TevJefmWZFD4nrw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "用友U8C nDay手到擒来，Provena-Audit自动审计出洞",
+        "url": "https://mp.weixin.qq.com/s/BDesKRPZttqMP6GJz-XI2w",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "(9.8分) CVE-2026-19658：WordPress捐款插件反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/Izf9XgYQqG0IoyaxSHhGJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "通报丨2026年人工智能大模型安全众测活动典型漏洞风险",
+        "url": "https://mp.weixin.qq.com/s/piWbtEzQ3_MXXilRu7U93A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励",
+        "url": "https://mp.weixin.qq.com/s/wbXF_FnlUy5xz4awhuNHOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【安全圈】WordPress爆Comment2Shell高危漏洞：匿名评论经由管理员会话直达RCE",
+        "url": "https://mp.weixin.qq.com/s/0hgcFHUbgwwkUfpO7qjKYA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【安全圈】Zyxel与Veeam高危漏洞遭野外在途利用：防火墙注入与备份控制权沦陷",
+        "url": "https://mp.weixin.qq.com/s/KEaw2aymjp6iv2Woe2AV7g",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "VARA 2026  | 绿盟科技荣膺首批“国家人工智能安全漏洞库技术支撑单位”",
+        "url": "https://mp.weixin.qq.com/s/knJq_6tc42Q7g-MTcLT_-g",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "100小时长征：史上首个Agent自主不间断渗透完整战报",
+        "url": "https://mp.weixin.qq.com/s/k_8Rqm4K3VheUOmbgicYWA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "数智拓远 善治久安 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+        "url": "https://mp.weixin.qq.com/s/s21dVD2MTDqpLRWC9kdYeg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【已复现】Microsoft SharePoint 远程代码执行漏洞(CVE-2026-65660)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/rMPj6tVo23jasLZxzSq7YQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "聚铭网络受邀出席2026VARA大会，获评AIVD优秀技术支撑单位并入选人工智能安全漏洞治理联盟",
+        "url": "https://mp.weixin.qq.com/s/h4xdLlXp2po5rRhevCdQ8w",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "CNCERT：2026年人工智能大模型安全众测活动典型漏洞风险通报",
+        "url": "https://mp.weixin.qq.com/s/-F-_TAoh37At4JhyPSCFag",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "默安代码审计智能体：发现SAST看不见的逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/HDHPtEMcd3Dt1HQbEtlbuw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "CISA：三个Linux 内核漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/Gpy8M5KEm-9XD7mhjjIMWA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "「AI挖漏洞工具实测」open·kritt：开源AI Agent漏洞研究平台，多Agent并行挖洞+去重排序",
+        "url": "https://mp.weixin.qq.com/s/o2WWm0x6giHTpIm3jgNUpA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【免费领】大神12年经验成果：渗透红队实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/ANY8LcqpOYUz6MoeCnntPg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "npm 供应链攻防进入\\\"运行时时代\\\"：200 万周下载的恶意包如何绕开 npm v12 防线",
+        "url": "https://mp.weixin.qq.com/s/5dHSXh4zzknjwLG7ni8n0g",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "记一次API Gateway边界失效导致微服务集群失陷的渗透测试复盘",
+        "url": "https://mp.weixin.qq.com/s/tuBjBrsjC0Jpj5nXDV7K6A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
     }
 ]
