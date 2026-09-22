@@ -4,5 +4,395 @@
         "url": "https://mrxn.net/jswz/crmeb-adminapi-routineci-preview-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [AI 能自主做安全研究吗？PortSwigger 用 700 个漏洞回答：能",
+        "url": "https://mp.weixin.qq.com/s/Foo5ppNW4Zh_mfE88SvOtQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [某公众号 RSS 平台存在未授权 RCE：从模板注入到内存马",
+        "url": "https://mp.weixin.qq.com/s/CnTuFt5WrsflpISYeSpv4A",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [提示注入的形式化理论与不可能性",
+        "url": "https://mp.weixin.qq.com/s/-0WnACSIrl5_C523UswerQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [PAYLOAD勒索软件滥用活动目录组策略破坏整个Windows域",
+        "url": "https://mp.weixin.qq.com/s/xrUaIEbCelL21auJCu-bzg",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [AI辅助漏洞挖掘三种失真：边界、上下文、多 agent 同步",
+        "url": "https://mp.weixin.qq.com/s/0nT8ofHbloTjdC8qwd6OEA",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [（9.1分）CVE-2026-94098：Netcore 路由器固件升级接口命令注入",
+        "url": "https://mp.weixin.qq.com/s/6BCifmg618mrLMkG0cAbuQ",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [Shellshock CGI 注入与 ftplib.py 组权限提权：Symfonos3 靶机实战",
+        "url": "https://mp.weixin.qq.com/s/7qdfoonhuuUc9bcWGuHqxA",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [国内首部智能体安全漏洞治理蓝皮书发布！",
+        "url": "https://mp.weixin.qq.com/s/8p2W2lV8qQ9BOm0YHUj6bw",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [Claude Opus 5助力研究员通过多个漏洞接管 OpenAI 员工账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527201&idx=1&sn=76fd00848468c4ce9b8e5bf17d4fb89a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [微软CVSS 满分 Azure AI Foundry 漏洞，可导致未授权提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527201&idx=2&sn=0aebf0bab0fe5a789b9ddb1f114173b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [提示注入的形式化理论与不可能性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497186&idx=1&sn=bbfc9cc00411929cfdf350bb92783295",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516639&idx=1&sn=c54a9868365eea68ed4450bf6902219d",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [当 Telegram 变成 C2：拆解监控后门 HEAVYGRAM 与 Handala Hack 的\"马甲\"游戏",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520675&idx=1&sn=63212e269c0244c2d144e2bce19d4be5",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [原创漏洞 | OpenSSL QUIC 服务端双重释放漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508947&idx=1&sn=8ab183003aa123e0ca1ee1df2d344145",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [AI安全案例分析｜Claude Code Auto Mode 被提示注入绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495555&idx=1&sn=ae15f3ca07351887825a9e6eabdb3a50",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [【安全圈】朝鲜黑客渗透IT服务商：伪造Terraform锁文件结合Cursor打入macOS",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079060&idx=1&sn=122bff70309a2d2affd517bb5faefed5",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [【安全圈】无弹窗静默RCE！OpenAI Codex 沙箱双重逃逸曝光：借助 V8 堆内存泄露与补丁越权突破宿主",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079060&idx=2&sn=43e13a80be1d5fb3b64f67cdf03173b0",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [“AI洗稿宣传”网络以数百个Facebook页面深度伪造数十名澳政客，揭示工业化虚假信息对澳政治生态的渗透",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569759&idx=2&sn=42a85aa383d968f74e66332e1c67d1ca",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [从\"会打靶\"到\"能打仗\"：为什么很多渗透测试人员一进真实企业环境就\"失灵\"？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142830&idx=1&sn=e0dc5e3d05a9f83992b88f10a4fc9739",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第37期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497385&idx=1&sn=5b5368ea01e8c973f444cc707b39ea5a",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260914-20260920)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497385&idx=2&sn=412cfca21aeb0129d3ba145d6a52e2fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "struts2 xmlParser.action XXE漏洞(CVE-2025-68493)",
+        "url": "https://mp.weixin.qq.com/s/-NvAS5PpA537RzZm3Ea58w",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "强推一个自动化 SRC 漏洞挖掘系统",
+        "url": "https://mp.weixin.qq.com/s/jYysRFxLV_c8XU5m4PwGbg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.9.14-2026.9.20",
+        "url": "https://mp.weixin.qq.com/s/o0PkhokcH90BY8aYcHkXLg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "AI辅助漏洞挖掘系统设计指南",
+        "url": "https://mp.weixin.qq.com/s/iAHABd8ZXfesTTSTswWipg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "中兴SmartLife安卓应用的4个CVE漏洞直至账户接管",
+        "url": "https://mp.weixin.qq.com/s/vd3yzWVpIMqpnfaZFVLe-g",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "D-Link R95曝CVSS 9.1命令注入漏洞，认证用户可获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/Nad6mJLxN-HvrcllkRXCHA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "内网交换机出现未登录命令执行，Zyxel 用户要在 9 月 24 日前答完三问",
+        "url": "https://mp.weixin.qq.com/s/6Fi7pLt5VN0CY1-zT0rwQw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【已复现】WordPress 无需认证的零点击存储型 XSS 可导致 RCE（Comment2Shell）",
+        "url": "https://mp.weixin.qq.com/s/WfgXSesERNF77648ydOPOw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "土耳其“泛突厥”白手套的中亚实体吞并与认知渗透网",
+        "url": "https://mp.weixin.qq.com/s/1kVKq1Kk86UuPpsb5i7s5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "公益src一次简单的验证码绕过、弱口令",
+        "url": "https://mp.weixin.qq.com/s/geEf-cx8O1ho5FKWy2vQbw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/zGeczDAzLr1Vna6_NlYnDg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "Amazon封禁Meta AI Agent Muse，AI购物代理的数据安全争议升级；CNVD周报：Apache与Google产品漏洞集中爆发，电信行业风险突出| 牛览",
+        "url": "https://mp.weixin.qq.com/s/7vUN5e7WP5Q-ejVA0MxCcg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "每天学一个 Kali 工具 · Day22 nuclei：YAML 模板驱动的漏洞扫描\\\"精确制导武器\\\"",
+        "url": "https://mp.weixin.qq.com/s/1t7cNhqCLWNU--vrb6W2yQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "AI编程时代，多语言混写的调用链漏洞",
+        "url": "https://mp.weixin.qq.com/s/NXIGo_vZPoyi_u00UtM5XQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "假期挖洞不卡壳，X漏洞计划焕新升级！",
+        "url": "https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "沙箱之外：Goja 引擎越界写漏洞与 Zendesk、Nuclei 任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/3FblwF7EsvM_o4UL9pmJhA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "关于近期多起窃取iPhone加密钱包攻击的安全预警",
+        "url": "https://mp.weixin.qq.com/s/E7EpWxD9jbRkrw7_syBJ5Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "漏洞永远出现在意想不到的地方",
+        "url": "https://mp.weixin.qq.com/s/Hmh4Gos6EY1PmiLO1ux6zw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "CVE-2026-81000（TUNderflow）技术分析",
+        "url": "https://mp.weixin.qq.com/s/v5AXwhSnTZ8uDciJbRS7NA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "2026最新CTF知识库：12大Web漏洞深度文章+1156篇历年大赛WP+50+脚本+Payload速查 +AI/RAG离线在线知识库",
+        "url": "https://mp.weixin.qq.com/s/sOLCG_N55TdVhuhmAcbHuw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "红队利器 yrecon：一行命令，14个模块，自动匹配提权CVE",
+        "url": "https://mp.weixin.qq.com/s/P8nf5cH4vwwx3VcivO24Vw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/qds45EBM-5KoKAZNYhyLfg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "云天 · 安全通告（2026年9月22日）",
+        "url": "https://mp.weixin.qq.com/s/G4RROcE7RwX1qonxKgw9Ig",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "下架预警！亚马逊数据法案审核持续收紧，这份\\\"八大要素\\\"PDF少一项都过不了",
+        "url": "https://mp.weixin.qq.com/s/cpS05jcOxT7SQO0_AV8JCg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【重磅】Citrix 漏洞利用全集：从路径穿越到域控沦陷，边界网关攻击路径全解析",
+        "url": "https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "Java安全—反序列化打内存马",
+        "url": "https://mp.weixin.qq.com/s/iWT_Dcji4_c-h-90_bfQQQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "pikachu靶场通关指南之SSRF(Server-Side Request Forgery:服务器端请求伪造)之随波逐流writeup",
+        "url": "https://mp.weixin.qq.com/s/hjY5gM7m4r1OEsYxIKGUUQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "WordPress插件MStore API存在认证绕过漏洞(POC已公开)CVE-2026-13447",
+        "url": "https://mp.weixin.qq.com/s/k7hKMATOvHNwqZtxXtTrSA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "漏洞预警 | Cisco ISE远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "漏洞预警 | OpenPrinting CUPS本地权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/cNbGqX-pBY4apXbWJdCS5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "记一次内网挖洞过程，重温Nacos 身份认证绕过！！",
+        "url": "https://mp.weixin.qq.com/s/GZYV7KZRybzo-VXeptkb-A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "PivotHub · 链透中枢 — 多层内网渗透辅助工具 | CTF、内网渗透、攻防",
+        "url": "https://mp.weixin.qq.com/s/AuBTZzSVXcQyqNj2ZzI_Vg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "【热点安全风险】9月22日 | Cisco ISE 满分认证绕过进 KEV，攻击者可直取身份中枢 root 权限（CVE-2026-76460）",
+        "url": "https://mp.weixin.qq.com/s/QgSX0LP_mx50JN7VrC7vxw",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "安全工具丨若依 Vue 漏洞检测工具，支持自动化扫描若依(RuoYi-Vue)系列系统的多种安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/jE8eNysx08Lbc3sf_W31fA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "谷歌Chrome浏览器发布153版本，修复了42个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/E-wf3I29hTedk9Zo3c3fVA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "解决代码审计漏洞痛点！阿里内部AI审计工具OpenCodeReview低误报精准筛查SQL注入、命令执行、权限绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "Ivanti EPMM、Neurons 和 Sentry 漏洞可导致权限提升和远程代码执行攻击",
+        "url": "https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "AI 能自主做安全研究吗？PortSwigger 用 700 个漏洞回答：能",
+        "url": "https://mp.weixin.qq.com/s/Foo5ppNW4Zh_mfE88SvOtQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "某公众号 RSS 平台存在未授权 RCE：从模板注入到内存马",
+        "url": "https://mp.weixin.qq.com/s/CnTuFt5WrsflpISYeSpv4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "提示注入的形式化理论与不可能性",
+        "url": "https://mp.weixin.qq.com/s/-0WnACSIrl5_C523UswerQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "PAYLOAD勒索软件滥用活动目录组策略破坏整个Windows域",
+        "url": "https://mp.weixin.qq.com/s/xrUaIEbCelL21auJCu-bzg",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "AI辅助漏洞挖掘三种失真：边界、上下文、多 agent 同步",
+        "url": "https://mp.weixin.qq.com/s/0nT8ofHbloTjdC8qwd6OEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "（9.1分）CVE-2026-94098：Netcore 路由器固件升级接口命令注入",
+        "url": "https://mp.weixin.qq.com/s/6BCifmg618mrLMkG0cAbuQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
+    },
+    {
+        "title": "Shellshock CGI 注入与 ftplib.py 组权限提权：Symfonos3 靶机实战",
+        "url": "https://mp.weixin.qq.com/s/7qdfoonhuuUc9bcWGuHqxA",
+        "source": "Doonsec",
+        "date_added": "2026-09-22"
     }
 ]
