@@ -538,5 +538,17 @@
         "url": "https://mp.weixin.qq.com/s/SCqLj0rWgjGvclRa5Gh25Q",
         "source": "Doonsec",
         "date_added": "2026-09-23"
+    },
+    {
+        "title": "【客户端安全】代理绕过127监听CDP+Websocket协议未授权RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/fQpansPQgG_9YKMVknKaiQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链",
+        "url": "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
     }
 ]
