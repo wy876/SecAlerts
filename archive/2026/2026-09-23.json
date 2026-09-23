@@ -178,5 +178,257 @@
         "url": "https://mrxn.net/jswz/crmeb-jwt-default-key-auth-bypass-rce.html",
         "source": "MRXN",
         "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.9.14-2026.9.20",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503979&idx=1&sn=5e831912dbc1d69d919d0d4c7d4395e8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [假期挖洞不卡壳，X漏洞计划焕新升级！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508955&idx=1&sn=85e13ada762b0cde86a116b54fe28bfc",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [CNCERT：2026年人工智能大模型安全众测活动典型漏洞风险通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516644&idx=2&sn=58544de569ce44f51e329b684154f526",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [CISA：三个Linux 内核漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527207&idx=1&sn=ee496b1b2360baa934d52866a4de28eb",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [数智拓远 善治久安 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267243&idx=1&sn=e2e31583a47c79077b7d9f3e9672b099",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [【安全圈】WordPress爆Comment2Shell高危漏洞：匿名评论经由管理员会话直达RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079072&idx=1&sn=81b11d4454e85cae46eca7eabb0908e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [【安全圈】Zyxel与Veeam高危漏洞遭野外在途利用：防火墙注入与备份控制权沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079072&idx=2&sn=3a8b43e5688e04e6f5da417020190d85",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [【已复现】Microsoft SharePoint 远程代码执行漏洞(CVE-2026-65660)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507667&idx=1&sn=526042840c14d10444d80a7ed0cef7c0",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [已在野利用｜合勤GS1900交换机高危漏洞入库KEV，内网无认证即可接管设备",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620834&idx=2&sn=d6038a0523f2c18db151c69bf4a4cef3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [Amazon封禁Meta AI Agent Muse，AI购物代理的数据安全争议升级；CNVD周报：Apache与Google产品漏洞集中爆发，电信行业风险突出| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142835&idx=2&sn=da824288caded987f3cf2bfcda9098ee",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [npm 供应链攻防进入\"运行时时代\"：200 万周下载的恶意包如何绕开 npm v12 防线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520685&idx=1&sn=49425e3c022de8f0bd17158478041f28",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [默安代码审计智能体捕获 SAST 盲区逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502083&idx=1&sn=d63fd34772d4bad4ac5ff9ba02799cfa",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "] [默安代码审计智能体：发现SAST看不见的逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502085&idx=1&sn=7f5b9f2df29a44e8fa0ef53e1be3e490",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day",
+        "url": "https://mp.weixin.qq.com/s/yZ5RYNW7LX19ijVzG8cKpw",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "国家标准《工业机器人软件供应链安全管理要求》参编单位征集",
+        "url": "https://mp.weixin.qq.com/s/5lHHwjGx9ovZX3YPCxUuvg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "一款整合型漏洞扫描工具",
+        "url": "https://mp.weixin.qq.com/s/4349Ypkl0r5B-uAHSTkgxg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "渗透测试基础总结，建议收藏！（附PDF）",
+        "url": "https://mp.weixin.qq.com/s/v-ZHGxezoiOwNrDrsIYTOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "一个漏洞5000？入行网安这些年，我挖洞的真实感受......",
+        "url": "https://mp.weixin.qq.com/s/9qAzEsy38ePrZbnapxXLMw",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "天融信获评首批国家人工智能安全漏洞库优秀技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/mskfbXSg2TLw8dIi82pK1g",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【原创情报】致远某门户样式引擎 Groovy远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/2SVd_ECtRl9y2arWJej00A",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【漏洞通告】Microsoft SharePoint远程代码执行漏洞(CVE-2026-65660)",
+        "url": "https://mp.weixin.qq.com/s/K01KffioMR0FOdsOLbtK2Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "SRC或攻防渗透项目资产聚合平台（SAD2）",
+        "url": "https://mp.weixin.qq.com/s/_xflWP3siRAjFzL7miXiGg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "190页Kali渗透技术实战，全网最细最全教程",
+        "url": "https://mp.weixin.qq.com/s/VOzSgKKp4dcmyEdFrvaD1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "华顺信安赵武受邀出席2026年网络安全漏洞分析与风险评估大会",
+        "url": "https://mp.weixin.qq.com/s/8wRaU1za5omzxVtPYean4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "动态｜第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+        "url": "https://mp.weixin.qq.com/s/9NbK54Sl6upPRnnV4eGbfA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "AI向善，安全有道｜第二届基础软硬件智能化漏洞治理生态创新技术交流活动：为基础软硬件漏洞治理织密协同之网",
+        "url": "https://mp.weixin.qq.com/s/Mqxbi5Kw7_DVSvMauMWJ4g",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "首批入选！中孚信息入选国家人工智能漏洞库技术支撑单位，斩获年度优秀技术支撑单位奖",
+        "url": "https://mp.weixin.qq.com/s/AiOnYaOb3fK5sH5BIz7pow",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "为了云吸猫买了个智能摄像头，顺手挖出两个CNNVD二级贡献奖是什么体验？",
+        "url": "https://mp.weixin.qq.com/s/mmR-JDbWAIA7Itib_yFmRQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【已复现】漏洞通告 | WordPress未授权路径遍历致条件性RCE漏洞(CVE-2026-87902)",
+        "url": "https://mp.weixin.qq.com/s/TceDN0GDeSHdeKGtS0lajA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【已复现】漏洞通告 | WordPress Core 存储型跨站脚本漏洞(CVE-2026-93485)",
+        "url": "https://mp.weixin.qq.com/s/X1QW48iclYj-PgDfZyyPFg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "Check Point 紧急修复已遭利用的 Management Server 0day",
+        "url": "https://mp.weixin.qq.com/s/GUrhp3P5_EAbjyRMXbtcPA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励",
+        "url": "https://mp.weixin.qq.com/s/3Cieu8_dCc5Yh9C0g22XTA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "SRC吉林xx大学几个有趣的漏洞导致的连锁危害",
+        "url": "https://mp.weixin.qq.com/s/lo5C0i0upCw_UC0s_2_Qqg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "9月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/l-IQwYicQKnPOedx3FDrdg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "制造业为何频遭勒索？问题已不只是漏洞，而是身份与配置管理",
+        "url": "https://mp.weixin.qq.com/s/agSu8Quc4Ri5nMuO7Ffg2g",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "行业动态 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+        "url": "https://mp.weixin.qq.com/s/Ple3DT-1Mjltpb-tfxKQzA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【项目推荐】下一代蜜罐探索：AgentCapture AI自动化渗透反制系统",
+        "url": "https://mp.weixin.qq.com/s/A8IwHk4m3EgZeHyEcabNsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "Next.js ImageResponse曝RCE漏洞(CVE-2026-94545)，攻击者可控输入可导致容器内执行命令",
+        "url": "https://mp.weixin.qq.com/s/X2ek3K2YQfIANbi3zgifBA",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "一场100小时的Agent自主渗透跨越式实战检验",
+        "url": "https://mp.weixin.qq.com/s/A5FRGUyYcg5-cm7JQqUhew",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "微步入选CNNVD人工智能安全漏洞治理联盟成员单位，并获漏洞一级贡献奖",
+        "url": "https://mp.weixin.qq.com/s/MbHZtE7X_EQggoPJDL6Ylg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【已复现】CVE-2026-87902 WordPress 未授权路径遍历致条件性 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/jYwU3SN8MmpuuVHBLmK8sw",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
+    },
+    {
+        "title": "【已复现】CVE-2026-76424 Cisco ISE 未授权文件上传致远程命令执行及 root 提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/EmQFPgErsJV2j1v4ZU7RKg",
+        "source": "Doonsec",
+        "date_added": "2026-09-23"
     }
 ]
