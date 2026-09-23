@@ -218,76 +218,561 @@ def source_class(source):
     known = {'doonsec', 'chainreactors', 'brucefeiix', 'mrxn', 'githubissue'}
     return f"src-{key}" if key in known else "src-default"
 
-# 客户端实时搜索脚本（作为 format 的插入值，内部花括号无需转义）
-SEARCH_SCRIPT = """
+# 客户端脚本：搜索条展开/收起 + 来源标签页筛选 + 多关键字实时过滤 + 回到顶部
+# 设计语言对齐源站（wechat.doonsec.com 用 jQuery + layui），这里保持零依赖的原生 JS。
+PAGE_SCRIPT = """
     <script>
     (function () {
-        const input = document.getElementById('searchInput');
-        const info = document.getElementById('searchInfo');
-        const noResult = document.getElementById('noResult');
-        const groups = Array.from(document.querySelectorAll('.articles-container details'));
-        // 预存每条文章的纯文本（标题 + 来源），加速匹配
-        const items = [];
-        groups.forEach(function (d) {
-            d.querySelectorAll('li').forEach(function (li) {
-                const a = li.querySelector('a');
-                const tag = li.querySelector('.source-tag');
+        'use strict';
+        var input = document.getElementById('searchInput');
+        var info = document.getElementById('searchInfo');
+        var noResult = document.getElementById('noResult');
+        var bar = document.getElementById('searchBar');
+        var toggle = document.getElementById('searchToggle');
+        var closeBtn = document.getElementById('searchClose');
+        var toTop = document.getElementById('toTop');
+        var tabs = Array.prototype.slice.call(document.querySelectorAll('#sourceTabs .tab'));
+        var groups = Array.prototype.slice.call(document.querySelectorAll('#articles details.group'));
+
+        // 文章的来源只存一处：badge 上的 src-* 类名（避免与 data-src 重复占体积）
+        function srcOf(badge) {
+            if (!badge) { return ''; }
+            for (var i = 0; i < badge.classList.length; i++) {
+                var c = badge.classList[i];
+                if (c.indexOf('src-') === 0) { return c.slice(4); }
+            }
+            return '';
+        }
+
+        // 预存每条文章的可搜索文本（标题 + 来源）、所属分组与序号节点，加速匹配
+        var items = [];
+        groups.forEach(function (g, gi) {
+            Array.prototype.forEach.call(g.querySelectorAll('li.entry'), function (li) {
+                var a = li.querySelector('a.entry-title');
+                var badge = li.querySelector('.badge-src');
                 items.push({
                     li: li,
-                    group: d,
-                    text: ((a ? a.textContent : '') + ' ' + (tag ? tag.textContent : '')).toLowerCase()
+                    gi: gi,
+                    seq: li.querySelector('.entry-seq'),
+                    src: srcOf(badge),
+                    text: ((a ? a.textContent : '') + ' ' + (badge ? badge.textContent : '')).toLowerCase()
                 });
             });
         });
-        const defaultOpen = groups.map(function (d) { return d.open; });
+        var defaultOpen = groups.map(function (g) { return g.open; });
+        var activeSrc = '';
 
         function debounce(fn, ms) {
-            let t;
+            var t;
             return function () { clearTimeout(t); t = setTimeout(fn, ms); };
         }
 
-        function reset() {
-            items.forEach(function (it) { it.li.style.display = ''; });
-            groups.forEach(function (d, i) { d.style.display = ''; d.open = defaultOpen[i]; });
-            info.textContent = '';
-            noResult.style.display = 'none';
-        }
+        function apply() {
+            var q = (input.value || '').trim().toLowerCase();
+            var keys = q ? q.split(/\\s+/).filter(Boolean) : [];
+            var filtering = keys.length > 0 || activeSrc !== '';
+            var counts = [];
+            var seqs = [];
+            var total = 0;
+            var i, k;
 
-        function run() {
-            const q = input.value.trim().toLowerCase();
-            if (!q) { reset(); return; }
-            const keywords = q.split(/\\s+/).filter(Boolean);
-            const counts = new Map();
-            let total = 0;
-            items.forEach(function (it) {
-                const hit = keywords.every(function (k) { return it.text.indexOf(k) !== -1; });
+            for (i = 0; i < groups.length; i++) { counts.push(0); seqs.push(0); }
+
+            for (i = 0; i < items.length; i++) {
+                var it = items[i];
+                var hit = (activeSrc === '' || it.src === activeSrc);
+                if (hit) {
+                    for (k = 0; k < keys.length; k++) {
+                        if (it.text.indexOf(keys[k]) === -1) { hit = false; break; }
+                    }
+                }
                 it.li.style.display = hit ? '' : 'none';
                 if (hit) {
+                    counts[it.gi]++;
+                    seqs[it.gi]++;
+                    if (it.seq) { it.seq.textContent = seqs[it.gi]; }
                     total++;
-                    counts.set(it.group, (counts.get(it.group) || 0) + 1);
                 }
-            });
-            groups.forEach(function (d) {
-                const c = counts.get(d) || 0;
-                d.style.display = c ? '' : 'none';
-                d.open = c > 0;
-            });
-            info.textContent = '找到 ' + total + ' 篇';
+            }
+
+            for (i = 0; i < groups.length; i++) {
+                var c = counts[i];
+                groups[i].style.display = c ? '' : 'none';
+                var badge = groups[i].querySelector('.badge-count');
+                if (badge) { badge.textContent = c; }
+                groups[i].open = filtering ? c > 0 : defaultOpen[i];
+            }
+
+            info.textContent = filtering ? ('命中 ' + total + ' 篇') : '';
             noResult.style.display = total ? 'none' : 'block';
         }
 
-        input.addEventListener('input', debounce(run, 120));
-        input.addEventListener('keydown', function (e) {
-            if (e.key === 'Escape') { input.value = ''; reset(); }
+        // --- 搜索条展开 / 收起（对位源站 .search_main 的交互）---
+        function openBar() {
+            bar.classList.add('is-open');
+            toggle.classList.add('is-active');
+            input.focus();
+        }
+        function closeBar() {
+            bar.classList.remove('is-open');
+            toggle.classList.remove('is-active');
+        }
+        toggle.addEventListener('click', function () {
+            if (bar.classList.contains('is-open')) { closeBar(); } else { openBar(); }
         });
+        closeBtn.addEventListener('click', function () {
+            if (input.value) { input.value = ''; apply(); }
+            closeBar();
+        });
+
+        // --- 来源标签页（对位源站 .layui-tab-title / .tag-li）---
+        tabs.forEach(function (t) {
+            t.addEventListener('click', function () {
+                tabs.forEach(function (x) { x.classList.remove('is-active'); });
+                t.classList.add('is-active');
+                activeSrc = t.getAttribute('data-src') || '';
+                apply();
+            });
+        });
+
+        input.addEventListener('input', debounce(apply, 120));
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' || e.keyCode === 27) {
+                if (input.value) { input.value = ''; apply(); } else { closeBar(); }
+            } else if (e.key === '/' && document.activeElement !== input) {
+                e.preventDefault();
+                openBar();
+            }
+        });
+
+        // --- 回到顶部（对位源站 jquery.toTop.min.js）---
+        function onScroll() {
+            if (window.pageYOffset > 400) { toTop.classList.add('is-on'); }
+            else { toTop.classList.remove('is-on'); }
+        }
+        window.addEventListener('scroll', onScroll, { passive: true });
+        toTop.addEventListener('click', function () {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+        onScroll();
+
+        apply();
     })();
     </script>
 """
 
+# 访客统计脚本：本地累计日/周/月/年访问，并同步页脚摘要
+VISITOR_SCRIPT = """
+    <script>
+    (function () {
+        var STORE_KEY = 'secalerts_visitor_stats_v1';
+
+        function pad(n) { return n < 10 ? '0' + n : String(n); }
+        function dateKey(d) {
+            return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+        }
+        function startOfWeek(d) {
+            var x = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+            var day = x.getDay();
+            var diff = day === 0 ? 6 : day - 1;
+            x.setDate(x.getDate() - diff);
+            return x;
+        }
+        function load() {
+            try {
+                var raw = localStorage.getItem(STORE_KEY);
+                if (!raw) return { uid: null, days: {}, visits: 0, last: null };
+                var data = JSON.parse(raw) || {};
+                if (!data.days || typeof data.days !== 'object') data.days = {};
+                return data;
+            } catch (e) {
+                return { uid: null, days: {}, visits: 0, last: null };
+            }
+        }
+        function save(data) {
+            try { localStorage.setItem(STORE_KEY, JSON.stringify(data)); } catch (e) {}
+        }
+        function recordVisit() {
+            var data = load();
+            var now = new Date();
+            var key = dateKey(now);
+            data.days[key] = (data.days[key] || 0) + 1;
+            data.visits = (data.visits || 0) + 1;
+            data.last = now.toISOString();
+            if (!data.uid) {
+                data.uid = 'u' + Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+            }
+            save(data);
+            return data;
+        }
+        function sumRange(days, fromDate, toDate) {
+            var sum = 0;
+            var cur = new Date(fromDate.getFullYear(), fromDate.getMonth(), fromDate.getDate());
+            var end = dateKey(toDate);
+            var guard = 0;
+            while (dateKey(cur) <= end && guard < 400) {
+                sum += days[dateKey(cur)] || 0;
+                cur.setDate(cur.getDate() + 1);
+                guard++;
+            }
+            return sum;
+        }
+        function setText(id, value) {
+            var el = document.getElementById(id);
+            if (el) el.textContent = String(value);
+        }
+        function render(data) {
+            var now = new Date();
+            var days = data.days || {};
+            setText('vs-today', days[dateKey(now)] || 0);
+            setText('vs-week', sumRange(days, startOfWeek(now), now));
+            setText('vs-month', sumRange(days, new Date(now.getFullYear(), now.getMonth(), 1), now));
+            setText('vs-year', sumRange(days, new Date(now.getFullYear(), 0, 1), now));
+        }
+
+        render(recordVisit());
+    })();
+    </script>
+"""
+
+# --- 页面样式（自研 CSS，设计语言参考 wechat.doonsec.com；不引入 layui 等第三方框架）---
+# 配色 / 尺寸取值来源见 docs/doonsec-design-reference.md 的取证表。
+PAGE_CSS = """
+/* ==========================================================================
+   SecAlerts — 前端样式
+   设计语言参考 wechat.doonsec.com：深色顶栏 + 浅灰底 + 白色圆角卡片、
+   主色 #009688、layui 式栅格分栏、折叠组 + 标签页、方形小标签（badge / rim）。
+   CSS 为自研，零第三方框架依赖。
+   ========================================================================== */
+:root{
+    --bg:#f1f1f1;
+    --card:#ffffff;
+    --top:#333333;
+    --text:#333333;
+    --text-2:#666666;
+    --muted:#8d8d8d;
+    --line:#e9e9e9;
+    --line-2:#f0f0f0;
+    --primary:#009688;
+    --tag:#3962b4;
+    --c-doonsec:#1e9fff;
+    --c-brucefeiix:#16b777;
+    --c-chainreactors:#a233c6;
+    --c-mrxn:#ffb800;
+    --c-githubissue:#2f363c;
+    --c-default:#999999;
+    --radius:10px;
+    --radius-sm:3px;
+    --top-h:56px;
+    --wrap:1370px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:"Microsoft YaHei","微软雅黑",-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Helvetica Neue",Arial,sans-serif;
+    font-size:14px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+ul,ol{list-style:none}
+img{border:0}
+button,input{font-family:inherit;font-size:inherit;color:inherit;background:none;border:0;outline:0}
+::selection{background:rgba(0,150,136,.18)}
+
+/* ---------- 顶栏：对位源站 .header / .headerinner / .headernav ---------- */
+.topbar{position:sticky;top:0;z-index:60;background:var(--top);color:#fff}
+.topbar-inner{
+    position:relative;
+    width:100%;
+    max-width:var(--wrap);
+    height:var(--top-h);
+    margin:0 auto;
+    padding:0 16px;
+    display:flex;
+    align-items:center;
+}
+.brand{display:flex;align-items:center;gap:9px;margin-right:18px;color:#fff;font-size:19px;font-weight:700;white-space:nowrap}
+.brand i{width:9px;height:9px;border-radius:50%;background:var(--primary);box-shadow:0 0 0 4px rgba(0,150,136,.2)}
+.nav{display:flex;align-items:center;min-width:0;overflow:hidden}
+.nav a{display:flex;align-items:center;height:var(--top-h);padding:0 14px;color:#fff;white-space:nowrap;transition:color .3s}
+.nav a:hover{color:var(--primary)}
+.nav a.is-active{color:var(--primary)}
+.nav-tools{margin-left:auto;display:flex;align-items:center}
+.icon-btn{display:flex;align-items:center;justify-content:center;width:44px;height:var(--top-h);color:#fff;cursor:pointer;transition:color .3s}
+.icon-btn:hover,.icon-btn.is-active{color:var(--primary)}
+.nav-live{display:flex;align-items:center;gap:6px;color:#8d8d8d;font-size:12px;padding-right:4px}
+.nav-live i{width:7px;height:7px;border-radius:50%;background:var(--primary);animation:blink 1.6s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+
+/* 搜索条：对位源站 .search_main（点图标展开，覆盖导航条） */
+.search-bar{
+    position:absolute;
+    left:0;right:0;top:0;
+    height:var(--top-h);
+    padding:0 16px;
+    background:var(--top);
+    display:none;
+    align-items:center;
+    gap:10px;
+    z-index:2;
+}
+.search-bar.is-open{display:flex}
+#searchInput{
+    flex:1 1 auto;
+    min-width:0;
+    height:38px;
+    padding:0 14px;
+    border:1px solid #4a4a4a;
+    border-radius:var(--radius-sm);
+    background:#2b2b2b;
+    color:#fff;
+    transition:border-color .3s,box-shadow .3s;
+}
+#searchInput::placeholder{color:#8d8d8d}
+#searchInput:focus{border-color:var(--primary);box-shadow:0 0 0 3px rgba(0,150,136,.16)}
+.search-info{flex:0 0 auto;color:#5fd6c8;font-size:13px;white-space:nowrap}
+
+/* ---------- 栅格：对位源站 .layui-container + .layui-row + col-md9 / col-md3 ---------- */
+.container{width:100%;max-width:var(--wrap);margin:0 auto;padding:16px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 330px;gap:15px;align-items:start}
+.col-main{min-width:0}
+.col-side{
+    position:sticky;
+    top:calc(var(--top-h) + 16px);
+    max-height:calc(100vh - var(--top-h) - 32px);
+    overflow:auto;
+    display:grid;
+    gap:15px;
+    align-content:start;
+    scrollbar-width:thin;
+}
+.col-side::-webkit-scrollbar{width:6px}
+.col-side::-webkit-scrollbar-thumb{background:#d5d5d5;border-radius:3px}
+
+/* ---------- 卡片：对位源站 .layui-card / .article ---------- */
+.card{background:var(--card);border-radius:var(--radius);box-shadow:0 2px 5px 0 rgba(0,0,0,.05);overflow:hidden}
+.card-head{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:11px 16px;
+    border-bottom:1px solid var(--line-2);
+    font-size:15px;
+    font-weight:700;
+}
+.card-head .badge{margin-left:auto}
+.card-body{padding:12px 16px;font-size:13px;color:var(--text-2)}
+
+/* 方形小标签：对位源站 .layui-badge / .layui-badge-rim */
+.badge{
+    display:inline-block;
+    min-width:18px;
+    height:18px;
+    padding:0 6px;
+    border-radius:2px;
+    background:#ff5722;
+    color:#fff;
+    font-size:12px;
+    font-style:normal;
+    line-height:18px;
+    text-align:center;
+}
+.badge-green{background:var(--primary)}
+.badge-blue{background:#1e9fff}
+.badge-gray{background:#999}
+.badge-src{color:#fff;font-weight:400}
+.src-doonsec{background:var(--c-doonsec)}
+.src-brucefeiix{background:var(--c-brucefeiix)}
+.src-chainreactors{background:var(--c-chainreactors)}
+.src-mrxn{background:var(--c-mrxn)}
+.src-githubissue{background:var(--c-githubissue)}
+.src-default{background:var(--c-default)}
+.rim{
+    display:inline-block;
+    height:20px;
+    padding:0 6px;
+    border:1px solid var(--line);
+    border-radius:2px;
+    color:var(--muted);
+    font-size:12px;
+    line-height:18px;
+    vertical-align:middle;
+}
+
+/* ---------- 页头（占源站轮播位，放站点标题与更新信息） ---------- */
+.page-head{padding:16px 20px 14px}
+.page-head h1{margin:0;font-size:22px;font-weight:700;line-height:1.3}
+.page-head .digest{margin-top:6px;color:lightslategray;font-size:13px}
+.page-head .meta{margin-top:4px;color:var(--muted);font-size:12px}
+
+/* ---------- 来源标签页：对位源站 .layui-tab-title / .tag-li ---------- */
+.tabs{
+    display:flex;
+    overflow-x:auto;
+    padding:0 6px;
+    border-bottom:1px solid var(--line);
+    scrollbar-width:thin;
+}
+.tabs::-webkit-scrollbar{height:5px}
+.tabs::-webkit-scrollbar-thumb{background:#d5d5d5;border-radius:3px}
+.tab{
+    position:relative;
+    flex:0 0 auto;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    padding:11px 12px;
+    color:var(--text-2);
+    white-space:nowrap;
+    cursor:pointer;
+    transition:color .3s;
+}
+.tab:hover{color:var(--primary)}
+.tab.is-active{color:var(--primary);font-weight:700}
+.tab.is-active::after{content:"";position:absolute;left:8px;right:8px;bottom:-1px;height:2px;background:var(--primary)}
+.tab .badge{border-radius:2px}
+
+/* ---------- 日期折叠组：对位源站 .layui-colla-item / -title / -content ---------- */
+.group{background:var(--card);border-radius:var(--radius);box-shadow:0 2px 5px 0 rgba(0,0,0,.05);margin-bottom:15px;overflow:hidden}
+.group>summary{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:12px 16px;
+    background:#fff;
+    cursor:pointer;
+    list-style:none;
+    transition:background .3s;
+}
+.group>summary::-webkit-details-marker{display:none}
+.group>summary:hover{background:#fafafa}
+.group-date{font-size:16px;font-weight:700}
+.group.is-today .group-date{color:var(--primary)}
+.group>summary .badge-count{margin-left:auto}
+.badge-count{cursor:inherit}
+.group-arrow{
+    width:8px;height:8px;
+    border-right:2px solid var(--muted);
+    border-bottom:2px solid var(--muted);
+    transform:rotate(45deg);
+    transition:transform .3s;
+}
+.group:not([open]) .group-arrow{transform:rotate(-45deg)}
+.entries{padding:0 16px 10px}
+
+/* ---------- 文章条目：对位源站 .card 内的 .title / .layui-badge / .layui-badge-rim ---------- */
+.entry{display:flex;align-items:flex-start;gap:12px;padding:9px 0;border-top:1px solid var(--line-2)}
+.entries>.entry:first-child{border-top:0}
+.entry-seq{
+    flex:0 0 44px;
+    padding-top:3px;
+    color:var(--muted);
+    font-size:12px;
+    text-align:right;
+    font-variant-numeric:tabular-nums;
+}
+.entry-main{flex:1 1 auto;min-width:0;display:flex;align-items:baseline;gap:12px}
+.entry-title{flex:1 1 auto;min-width:0;font-size:17px;line-height:1.55;color:var(--text);transition:color .3s}
+.entry-title:hover{color:var(--primary)}
+.entry-title:visited{color:var(--muted)}
+.entry-main .badge-src{flex:0 0 auto}
+
+/* 标题内关键词高亮（复现原有的 CVE / 高危关键词标记） */
+.kw{display:inline-block;padding:0 5px;margin:0 1px;border-radius:2px;font-size:.82em;font-weight:700;vertical-align:middle}
+.kw-cve{background:#fff2f0;color:#e54d4d}
+.kw-crit{background:#fff7e6;color:#d48806}
+
+/* ---------- 侧栏 ---------- */
+.side-list{padding:6px}
+.date-link{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:7px 10px;
+    border-radius:var(--radius-sm);
+    color:var(--text-2);
+    font-size:13px;
+    transition:background .3s,color .3s;
+}
+.date-link:hover{background:var(--bg);color:var(--primary)}
+.date-link.is-today{background:rgba(0,150,136,.07);color:var(--primary);font-weight:700}
+.date-link .num{margin-left:auto;color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+.date-link.is-today .num{color:var(--primary)}
+.stat-row{display:flex;align-items:center;gap:10px;padding:6px 0}
+.stat-row+.stat-row{border-top:1px solid var(--line-2)}
+.stat-row .label{color:var(--text-2)}
+.stat-row .badge{margin-left:auto}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    height:26px;
+    padding:0 10px;
+    border-radius:2px;
+    color:#fff;
+    font-size:12px;
+    font-weight:700;
+}
+.chip .n{opacity:.82;font-weight:400}
+.stat-line{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text-2)}
+.stat-line+.stat-line{margin-top:6px}
+.stat-line .badge{margin-left:auto}
+.disclaimer{margin:0;color:#a06000;background:rgba(255,243,205,.6);border-radius:var(--radius-sm);padding:9px 11px;font-size:12px;line-height:1.65}
+.page-foot{padding:18px 4px 26px;color:var(--muted);font-size:12px;text-align:center;line-height:1.8}
+
+/* 空结果 / 回到顶部（对位源站 jquery.toTop.min.js） */
+.empty{padding:70px 20px;color:var(--muted);text-align:center}
+.empty code{background:#fff;border:1px solid var(--line);border-radius:2px;padding:1px 5px;color:var(--text-2)}
+.to-top{
+    position:fixed;
+    right:26px;
+    bottom:30px;
+    z-index:50;
+    display:none;
+    align-items:center;
+    justify-content:center;
+    width:42px;height:42px;
+    border-radius:var(--radius-sm);
+    background:var(--top);
+    color:#fff;
+    font-size:18px;
+    cursor:pointer;
+    transition:background .3s;
+}
+.to-top.is-on{display:flex}
+.to-top:hover{background:var(--primary)}
+
+/* ---------- 响应式（源站为 1300px 桌面固定宽、无适配；此处保留响应式） ---------- */
+@media (max-width:1100px){
+    .grid{grid-template-columns:minmax(0,1fr)}
+    .col-side{position:static;max-height:none;overflow:visible}
+}
+@media (max-width:720px){
+    .container{padding:10px}
+    .nav a{padding:0 9px;font-size:13px}
+    .nav-live{display:none}
+    .search-info{display:none}
+    .page-head{padding:14px 14px 12px}
+    .page-head h1{font-size:19px}
+    .entry{gap:8px}
+    .entry-seq{flex:0 0 24px;font-size:11px}
+    .entry-title{font-size:15px}
+    .entry-main{gap:8px}
+    .to-top{right:14px;bottom:16px}
+}
+"""
+
+
 # --- HTML主页生成函数 (仪表盘双栏布局) ---
-def generate_html_page(articles, output_path, page_title, nav_link_html):
+def generate_html_page(articles, output_path, page_title, page_kind='index'):
     """
-    生成一个仪表盘式双栏聚合页面：顶部概览 + 左侧导航 + 右侧文章流。
+    生成页面：顶栏 + 概览卡 + 来源标签页 + 按日期折叠的文章列表 + 右侧信息栏。
+    布局与设计语言参考 wechat.doonsec.com（源站为 col-md9 内容 + col-md3 侧栏）。
+    page_kind: 'index' | 'archive'，决定顶部导航的当前项与互链方向。
     """
     print(f"[*] 正在生成页面: {output_path}...")
 
@@ -305,7 +790,8 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
             risk_counts['高危关键词'] += 1
 
     sorted_dates = sorted(grouped_articles.keys(), reverse=True)
-    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    # 以数据里最新日期作为“今天”高亮锚点，避免归档停更后首页被日历日滤空
+    today_str = sorted_dates[0] if sorted_dates else datetime.datetime.now().strftime("%Y-%m-%d")
     total_articles = len(articles)
     total_days = len(sorted_dates)
     top_source, top_source_count = ('暂无', 0)
@@ -318,238 +804,226 @@ def generate_html_page(articles, output_path, page_title, nav_link_html):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>安全文章聚合</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+        <title>{page_title}</title>
         <style>
-            :root {{
-                --bg: #eef3f8;
-                --panel: #fff;
-                --soft: #f8fafc;
-                --text: #1f2a37;
-                --muted: #7b8794;
-                --line: #e5edf5;
-                --blue: #0b74de;
-                --blue-soft: #e7f2ff;
-            }}
-            * {{ box-sizing: border-box; }}
-            html {{ scroll-behavior: smooth; }}
-            body {{
-                margin: 0;
-                min-height: 100vh;
-                font-family: 'Noto Serif SC', serif;
-                font-size: 15px;
-                line-height: 1.75;
-                color: var(--text);
-                background:
-                    radial-gradient(circle at 12% 12%, rgba(11,116,222,.14), transparent 30%),
-                    radial-gradient(circle at 90% 8%, rgba(249,115,22,.12), transparent 28%),
-                    var(--bg);
-            }}
-            .page-shell {{ width: min(1480px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 36px; }}
-            .hero {{
-                display: grid;
-                grid-template-columns: minmax(0,1fr) auto;
-                gap: 22px;
-                align-items: end;
-                padding: 30px;
-                border: 1px solid rgba(255,255,255,.75);
-                border-radius: 28px;
-                background: linear-gradient(135deg, rgba(255,255,255,.94), rgba(247,250,253,.88));
-                box-shadow: 0 24px 70px rgba(25,42,70,.10);
-                backdrop-filter: blur(14px);
-            }}
-            .eyebrow {{
-                display: inline-flex;
-                align-items: center;
-                gap: 8px;
-                margin-bottom: 8px;
-                color: var(--blue);
-                font-family: 'Poppins','Noto Serif SC',sans-serif;
-                font-size: .78em;
-                font-weight: 700;
-                letter-spacing: .12em;
-                text-transform: uppercase;
-            }}
-            .eyebrow::before {{ content: ''; width: 9px; height: 9px; border-radius: 99px; background: #0f9f6e; box-shadow: 0 0 0 6px rgba(15,159,110,.12); }}
-            h1 {{ margin: 0; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: clamp(2.1rem,5vw,4.8rem); line-height: 1.02; letter-spacing: -.06em; color: #102033; }}
-            .hero-subtitle {{ max-width: 760px; margin: 16px 0 0; color: #5f6f82; font-size: 1.02em; }}
-            .meta {{ color: var(--muted); }}
-            .hero-actions {{ display: flex; flex-direction: column; align-items: flex-end; gap: 12px; }}
-            .nav a {{ display: inline-flex; align-items: center; justify-content: center; min-height: 42px; padding: 8px 18px; border-radius: 999px; background: #102033; color: #fff; text-decoration: none; font-weight: 700; box-shadow: 0 12px 28px rgba(16,32,51,.18); }}
-            .nav a:hover {{ transform: translateY(-1px); }}
-            .stat-grid {{ display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 14px; margin: 18px 0; }}
-            .stat-card {{ min-height: 118px; padding: 18px; border: 1px solid rgba(255,255,255,.78); border-radius: 22px; background: rgba(255,255,255,.88); box-shadow: 0 16px 40px rgba(25,42,70,.08); }}
-            .stat-label {{ color: var(--muted); font-size: .82em; font-weight: 700; }}
-            .stat-value {{ margin-top: 8px; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: clamp(1.8rem,4vw,2.9rem); font-weight: 700; line-height: 1; color: #102033; }}
-            .stat-note {{ margin-top: 8px; color: #8190a3; font-size: .82em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
-            .dashboard {{ display: grid; grid-template-columns: 300px minmax(0,1fr); gap: 18px; align-items: start; }}
-            .sidebar {{ position: sticky; top: 16px; max-height: calc(100vh - 32px); overflow: auto; padding: 18px; border: 1px solid rgba(255,255,255,.78); border-radius: 26px; background: rgba(255,255,255,.9); box-shadow: 0 18px 48px rgba(25,42,70,.09); }}
-            .side-section + .side-section {{ margin-top: 22px; }}
-            .side-title {{ margin: 0 0 12px; color: #102033; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .86em; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }}
-            .date-nav {{ display: grid; gap: 8px; }}
-            .date-link {{ display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center; padding: 10px 12px; border-radius: 16px; color: #415168; text-decoration: none; background: var(--soft); border: 1px solid transparent; }}
-            .date-link:hover, .date-link.is-today {{ border-color: #b9dbff; background: var(--blue-soft); color: #0b5cad; }}
-            .date-count {{ font-family: 'Poppins',sans-serif; font-size: .78em; font-weight: 700; color: var(--muted); }}
-            .source-list {{ display: grid; gap: 9px; }}
-            .source-row {{ display: flex; align-items: center; justify-content: space-between; gap: 10px; color: #526173; font-size: .92em; }}
-            .source-row .name {{ display: flex; align-items: center; min-width: 0; }}
-            .source-row .count {{ font-family: 'Poppins',sans-serif; font-weight: 700; }}
-            .source-dot {{ width: 9px; height: 9px; margin-right: 8px; border-radius: 99px; background: #adb5bd; display: inline-block; }}
-            .src-dot-doonsec {{ background: #4dabf7; }} .src-dot-chainreactors {{ background: #845ef7; }} .src-dot-brucefeiix {{ background: #20c997; }} .src-dot-mrxn {{ background: #ff922b; }} .src-dot-githubissue {{ background: #495057; }}
-            .content-panel {{ min-width: 0; }}
-            .search-box {{ position: sticky; top: 16px; z-index: 20; display: flex; align-items: center; gap: 12px; padding: 14px; margin-bottom: 18px; border: 1px solid rgba(255,255,255,.82); border-radius: 24px; background: rgba(255,255,255,.94); box-shadow: 0 16px 42px rgba(25,42,70,.09); backdrop-filter: blur(16px); }}
-            #searchInput {{ flex: 1 1 auto; width: 100%; min-height: 46px; padding: 0 18px; border: 1px solid var(--line); border-radius: 16px; font-family: inherit; font-size: 1em; color: #243447; outline: none; background: var(--soft); transition: border-color .25s ease, box-shadow .25s ease, background .25s ease; }}
-            #searchInput:focus {{ border-color: var(--blue); background: #fff; box-shadow: 0 0 0 4px rgba(11,116,222,.12); }}
-            #searchInput::placeholder {{ color: #9aa7b6; }}
-            .search-info {{ flex: 0 0 auto; padding: 0 12px; color: #0b5cad; font-weight: 700; white-space: nowrap; }}
-            .search-no-result {{ text-align: center; padding: 50px 0; color: #9aa7b6; font-size: 1.05em; }}
-            mark.search-hit {{ background: #ffe066; color: #5c3c00; padding: 0 2px; border-radius: 3px; }}
-            .articles-container {{ display: grid; gap: 18px; }}
-            details {{ overflow: hidden; border: 1px solid rgba(255,255,255,.82); border-radius: 26px; background: rgba(255,255,255,.92); box-shadow: 0 18px 48px rgba(25,42,70,.08); scroll-margin-top: 96px; }}
-            summary {{ display: flex; align-items: center; gap: 14px; padding: 18px 22px; cursor: pointer; outline: none; background: linear-gradient(90deg,#fff,#f7fbff); }}
-            summary::-webkit-details-marker {{ display: none; }}
-            summary::before {{ content: '⌄'; display: inline-grid; place-items: center; width: 30px; height: 30px; border-radius: 12px; background: var(--blue-soft); color: var(--blue); font-family: 'Poppins',sans-serif; font-weight: 700; transition: transform .25s ease; }}
-            details:not([open]) > summary::before {{ transform: rotate(-90deg); }}
-            summary h2 {{ margin: 0; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: 1.24em; letter-spacing: -.02em; }}
-            .today h2 {{ color: var(--blue); }}
-            .count-badge {{ margin-left: auto; padding: 4px 12px; border-radius: 999px; background: var(--blue-soft); color: #0b5cad; font-family: 'Poppins',sans-serif; font-size: .78em; font-weight: 700; }}
-            .today .count-badge {{ background: var(--blue); color: #fff; }}
-            ul {{ list-style: none; display: grid; grid-template-columns: repeat(auto-fit,minmax(320px,1fr)); gap: 12px; margin: 0; padding: 0 18px 20px; }}
-            li {{ display: grid; grid-template-columns: auto minmax(0,1fr); grid-template-areas: 'idx title' 'idx source'; column-gap: 14px; row-gap: 12px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 20px; background: linear-gradient(180deg,#fff,#fbfdff); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }}
-            li:hover {{ transform: translateY(-3px); border-color: #badcff; box-shadow: 0 16px 34px rgba(25,42,70,.10); }}
-            li .idx {{ grid-area: idx; display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 14px; background: #eef4fb; color: #8a98aa; font-family: 'Poppins',sans-serif; font-size: .82em; font-weight: 700; }}
-            li .article-main {{ grid-area: title; min-width: 0; }}
-            li a {{ color: #0f1d2f; text-decoration: none; font-weight: 700; font-size: 1.12em; line-height: 1.55; letter-spacing: -.01em; }}
-            li a:hover {{ color: var(--blue); text-decoration: underline; }}
-            li a:visited {{ color: #4a5b70; }}
-            .kw {{ display: inline-block; padding: 0 6px; margin: 0 1px; border-radius: 7px; font-size: .82em; font-weight: 700; vertical-align: middle; letter-spacing: .3px; }}
-            .kw-cve {{ background: #fee2e2; color: #b91c1c; }} .kw-crit {{ background: #fef3c7; color: #a16207; }}
-            .source-tag {{ grid-area: source; justify-self: start; display: inline-flex; align-items: center; max-width: 100%; padding: 4px 11px; border-radius: 999px; color: #fff; font-family: 'Poppins','Noto Serif SC',sans-serif; font-size: .76em; font-weight: 700; line-height: 1.2; white-space: nowrap; }}
-            .src-doonsec {{ background: #4dabf7; }} .src-chainreactors {{ background: #845ef7; }} .src-brucefeiix {{ background: #20c997; }} .src-mrxn {{ background: #ff922b; }} .src-githubissue {{ background: #495057; }} .src-default {{ background: #adb5bd; }}
-            .footer {{ margin-top: 22px; padding: 18px 0 0; color: #8795a7; text-align: center; font-size: .9em; }}
-            .disclaimer {{ max-width: 700px; margin: 0 auto 10px; padding: 8px 14px; border-radius: 10px; background: rgba(255,243,205,.6); color: #856404; font-size: .85em; line-height: 1.5; }}
-            .visitor-count {{ margin-top: 10px; color: #6a7a8e; font-size: .88em; }}
-            .visitor-count span {{ display: inline; }}
-            .visitor-sep {{ margin: 0 10px; color: #ccd7e4; }}
-            @media (max-width: 1100px) {{ .dashboard {{ grid-template-columns: 1fr; }} .sidebar {{ position: static; max-height: none; }} .date-nav {{ grid-template-columns: repeat(auto-fit,minmax(150px,1fr)); }} }}
-            @media (max-width: 820px) {{ .page-shell {{ width: min(100% - 20px,1480px); padding-top: 12px; }} .hero {{ grid-template-columns: 1fr; padding: 22px; }} .hero-actions {{ align-items: flex-start; }} .stat-grid {{ grid-template-columns: repeat(2,minmax(0,1fr)); }} .search-box {{ top: 8px; flex-wrap: wrap; }} .search-info {{ padding-left: 4px; }} ul {{ grid-template-columns: 1fr; padding: 0 12px 14px; }} }}
-            @media (max-width: 520px) {{ .stat-grid {{ grid-template-columns: 1fr; }} h1 {{ font-size: 2.25rem; }} summary {{ padding: 16px; }} li {{ grid-template-columns: 1fr; grid-template-areas: 'idx' 'title' 'source'; }} }}
+{page_css}
         </style>
     </head>
     <body>
-        <main class="page-shell">
-            <section class="hero">
-                <div>
-                    <div class="eyebrow">Security Intelligence Feed</div>
-                    <h1>{page_title}</h1>
-                    <p class="hero-subtitle">按时间线聚合最新安全漏洞文章，左侧快速切换日期与来源，右侧以卡片流浏览正文链接。</p>
-                    <p class="meta">最后更新时间: {update_time}</p>
+        <header class="topbar">
+            <div class="topbar-inner">
+                <a class="brand" href="index.html"><i></i>SecAlerts</a>
+                <nav class="nav">
+{nav_html}
+                </nav>
+                <div class="nav-tools">
+                    <span class="nav-live"><i></i>每 30 分钟更新</span>
+                    <button class="icon-btn" id="searchToggle" type="button" title="搜索（快捷键 /）" aria-label="搜索">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="16.6" y1="16.6" x2="21" y2="21"></line></svg>
+                    </button>
                 </div>
-                <div class="hero-actions"><div class="nav">{nav_link_html}</div></div>
-            </section>
-            <section class="stat-grid" aria-label="页面统计">{stats_html}</section>
-            <section class="dashboard">
-                <aside class="sidebar" aria-label="页面导航">
-                    <div class="side-section"><h2 class="side-title">日期导航</h2><nav class="date-nav">{date_nav_html}</nav></div>
-                    <div class="side-section"><h2 class="side-title">来源分布</h2><div class="source-list">{source_html}</div></div>
-                </aside>
-                <section class="content-panel">
-                    <div class="search-box">
-                        <input type="search" id="searchInput" autocomplete="off" spellcheck="false" placeholder="🔍 搜索 CVE、RCE、Weblogic、未授权；支持空格分隔多关键字">
-                        <span class="search-info" id="searchInfo"></span>
-                    </div>
-                    <div class="articles-container">{articles_html}</div>
-                    <div class="search-no-result" id="noResult" style="display:none;">没有找到匹配的文章，换个关键字试试 ~</div>
-                </section>
-            </section>
-            <div class="footer">
-                <p class="disclaimer">⚠️ 免责声明：本站内容均来自互联网公开渠道，仅供安全技术学习参考，不构成任何建议。如有侵权，请联系删除。</p>
-                <p>由 GitHub Actions 自动构建</p>
-                <p class="visitor-count">
-                    <span id="busuanzi_container_site_pv" style="display:inline;">📄 总访问 <span id="busuanzi_value_site_pv"></span> 次</span>
-                    <span class="visitor-sep">|</span>
-                    <span id="busuanzi_container_site_uv" style="display:inline;">👤 独立访客 <span id="busuanzi_value_site_uv"></span> 人</span>
-                </p>
+                <div class="search-bar" id="searchBar">
+                    <span class="icon-btn" aria-hidden="true">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="16.6" y1="16.6" x2="21" y2="21"></line></svg>
+                    </span>
+                    <input type="search" id="searchInput" autocomplete="off" spellcheck="false" placeholder="搜索 CVE、RCE、Weblogic、未授权；支持空格分隔多关键字">
+                    <span class="search-info" id="searchInfo"></span>
+                    <button class="icon-btn" id="searchClose" type="button" title="关闭（Esc）" aria-label="关闭搜索">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"></line><line x1="18" y1="6" x2="6" y2="18"></line></svg>
+                    </button>
+                </div>
             </div>
-        </main>
-        {search_script}
-        {analytics_script}
+        </header>
+
+        <div class="container">
+            <div class="grid">
+                <main class="col-main">
+                    <section class="card">
+                        <div class="page-head">
+                            <h1>{page_title}</h1>
+                            <p class="digest">{subtitle}</p>
+                            <p class="meta">最后更新: {update_time}</p>
+                        </div>
+                        <nav class="tabs" id="sourceTabs">
+{tabs_html}
+                        </nav>
+                    </section>
+                    <section id="articles">
+{articles_html}
+                    </section>
+                    <div class="empty" id="noResult" style="display:none;">没有找到匹配的文章，换个关键字试试 ~</div>
+                </main>
+
+                <aside class="col-side">
+                    <section class="card">
+                        <div class="card-head">数据概览</div>
+                        <div class="card-body">
+{metrics_html}
+                        </div>
+                    </section>
+                    <section class="card">
+                        <div class="card-head">日期导航<span class="badge badge-green">{total_dates}</span></div>
+                        <div class="card-body side-list">
+{date_nav_html}
+                        </div>
+                    </section>
+                    <section class="card">
+                        <div class="card-head">来源分布<span class="badge badge-green">{total_sources}</span></div>
+                        <div class="card-body">
+                            <div class="chips">
+{source_chips_html}
+                            </div>
+                        </div>
+                    </section>
+                    <section class="card">
+                        <div class="card-head">访问统计</div>
+                        <div class="card-body">
+                            <p class="stat-line">总访问<span class="badge badge-gray" id="busuanzi_value_site_pv">&hellip;</span></p>
+                            <p class="stat-line">独立访客<span class="badge badge-gray" id="busuanzi_value_site_uv">&hellip;</span></p>
+                            <p class="stat-line">今日<span class="badge badge-blue" id="vs-today">0</span></p>
+                            <p class="stat-line">本周<span class="badge badge-blue" id="vs-week">0</span></p>
+                            <p class="stat-line">本月<span class="badge badge-blue" id="vs-month">0</span></p>
+                            <p class="stat-line">本年<span class="badge badge-blue" id="vs-year">0</span></p>
+                        </div>
+                    </section>
+                    <section class="card">
+                        <div class="card-head">免责声明</div>
+                        <div class="card-body">
+                            <p class="disclaimer">本站内容均来自互联网公开渠道，仅供安全技术学习参考，不构成任何建议。如有侵权，请联系删除。</p>
+                        </div>
+                    </section>
+                </aside>
+            </div>
+            <p class="page-foot">由 GitHub Actions 自动构建 &middot; 数据来自 ChainReactors / BruceFeIix / Doonsec / MRXN</p>
+        </div>
+
+        <div class="to-top" id="toTop" title="回到顶部">&uarr;</div>
+{page_script}
+{visitor_script}
+{analytics_script}
     </body>
     </html>
     """
 
-    stats = [
-        ('文章总数', total_articles, '当前页面收录文章'),
-        ('覆盖天数', total_days, '按 date_added 聚合'),
-        ('高危命中', risk_counts.get('高危关键词', 0), '标题包含 RCE/未授权/注入等'),
-        ('主要来源', _html.escape(top_source), f'{top_source_count} 篇'),
+    # ---- 顶部导航（对位源站 .headernav）----
+    nav_defs = [
+        ('index.html', '首页', 'index'),
+        ('archive.html', '归档', 'archive'),
+        ('https://wechat.doonsec.com/rss.xml', 'RSS', None),
+        ('https://github.com/wy876/SecAlerts', 'GitHub', None),
     ]
-    stats_html = "\n".join(
-        f'<article class="stat-card"><div class="stat-label">{label}</div>'
-        f'<div class="stat-value">{value}</div><div class="stat-note">{note}</div></article>'
-        for label, value, note in stats
+    nav_parts = []
+    for href, label, kind in nav_defs:
+        cls = ' class="is-active"' if kind == page_kind else ''
+        target = ' target="_blank" rel="noopener"' if href.startswith('http') else ''
+        nav_parts.append(f'<a href="{href}"{cls}{target}>{label}</a>')
+    nav_html = "\n".join(nav_parts)
+
+    subtitle = (
+        '按时间线聚合最新安全漏洞文章；点击日期展开文章列表，右上角可搜索，也可按来源筛选。'
+        if page_kind == 'index' else
+        '全部历史文章的完整归档，按日期倒序排列；可通过右侧日期导航快速跳转，或按来源筛选。'
     )
 
+    # ---- 数据概览（对位源站的侧栏统计卡）----
+    metrics = [
+        ('文章总数', total_articles, 'badge-green'),
+        ('覆盖天数', total_days, 'badge-green'),
+        ('漏洞编号命中', risk_counts.get('漏洞编号', 0), 'badge-gray'),
+        ('高危关键词命中', risk_counts.get('高危关键词', 0), ''),
+        ('主要来源', _html.escape(top_source), 'badge-blue'),
+    ]
+    metrics_html = "\n".join(
+        f'                            <div class="stat-row"><span class="label">{label}</span>'
+        f'<span class="badge {cls}">{value}</span></div>'
+        for label, value, cls in metrics
+    )
+
+    # ---- 来源标签页（对位源站 .layui-tab-title / .tag-li）----
+    tab_parts = [
+        f'                            <button class="tab is-active" type="button" data-src="">'
+        f'全部<span class="badge badge-green">{total_articles}</span></button>'
+    ]
+    for source, count in source_counts.most_common():
+        key = re.sub(r'[^a-z0-9]', '', (source or '').lower())
+        tab_parts.append(
+            f'                            <button class="tab" type="button" data-src="{_html.escape(key, quote=True)}">'
+            f'{_html.escape(source)}<span class="badge badge-green">{count}</span></button>'
+        )
+    tabs_html = "\n".join(tab_parts)
+
+    # ---- 日期导航（对位源站侧栏列表卡）----
     date_nav_parts = []
     for date in sorted_dates:
         day_count = len(grouped_articles[date])
         today_class = ' is-today' if date == today_str else ''
         date_nav_parts.append(
-            f'<a class="date-link{today_class}" href="#day-{_html.escape(date)}">'
-            f'<span>{_html.escape(date)}</span><span class="date-count">{day_count}</span></a>'
+            f'                            <a class="date-link{today_class}" href="#day-{_html.escape(date)}">'
+            f'<span>{_html.escape(date)}</span><span class="num">{day_count}</span></a>'
         )
-    date_nav_html = "\n".join(date_nav_parts) or '<span class="meta">暂无日期</span>'
+    date_nav_html = "\n".join(date_nav_parts) or '                            <span class="meta">暂无日期</span>'
 
-    source_parts = []
+    # ---- 来源分布（彩色 chip，对位源站右栏公众号目录的彩色标签）----
+    source_chips = []
     for source, count in source_counts.most_common():
-        dot_cls = source_class(source).replace('src-', 'src-dot-')
-        source_parts.append(
-            f'<div class="source-row"><span class="name"><span class="source-dot {dot_cls}"></span>'
-            f'{_html.escape(source)}</span><span class="count">{count}</span></div>'
+        src_cls = source_class(source)
+        source_chips.append(
+            f'                                <span class="chip {src_cls}">{_html.escape(source)}'
+            f'<span class="n">{count}</span></span>'
         )
-    source_html = "\n".join(source_parts) or '<span class="meta">暂无来源</span>'
+    source_chips_html = "\n".join(source_chips) or '                                <span class="meta">暂无来源</span>'
 
+    # ---- 文章区：按日期折叠组（对位源站 .layui-colla-item）----
     articles_html_parts = []
     for i, date in enumerate(sorted_dates):
         open_attribute = ' open' if i == 0 else ''
-        summary_class = ' class="today"' if date == today_str else ''
+        group_cls = 'group is-today' if date == today_str else 'group'
         day_articles = sorted(grouped_articles[date], key=lambda x: x.get('source', ''))
 
-        articles_html_parts.append(f'<details id="day-{_html.escape(date)}"{open_attribute}>')
         articles_html_parts.append(
-            f'<summary{summary_class}><h2>{_html.escape(date)}</h2>'
-            f'<span class="count-badge">{len(day_articles)} 篇</span></summary>'
+            f'                        <details class="{group_cls}" id="day-{_html.escape(date)}"{open_attribute}>'
         )
-        articles_html_parts.append('<ul>')
+        articles_html_parts.append(
+            f'                            <summary><span class="group-arrow"></span>'
+            f'<span class="group-date">{_html.escape(date)}</span>'
+            f'<span class="badge badge-green badge-count">{len(day_articles)}</span></summary>'
+        )
+        articles_html_parts.append('                            <ul class="entries">')
         for idx, article in enumerate(day_articles, 1):
             link_target = _html.escape(article.get('url', '#'), quote=True)
             title_html = highlight_title(article.get('title', '无标题'))
             source = article.get('source', '未知')
             src_cls = source_class(source)
             articles_html_parts.append(
-                f'<li>'
-                f'<span class="idx">{idx}</span>'
-                f'<span class="article-main"><a href="{link_target}" target="_blank" rel="noopener">{title_html}</a></span>'
-                f'<span class="source-tag {src_cls}">{_html.escape(source)}</span>'
-                f'</li>'
+                f'                                <li class="entry">'
+                f'<span class="entry-seq">{idx}</span>'
+                f'<span class="entry-main">'
+                f'<a class="entry-title" href="{link_target}" target="_blank" rel="noopener">{title_html}</a>'
+                f'<span class="badge badge-src {src_cls}">{_html.escape(source)}</span>'
+                f'</span></li>'
             )
-        articles_html_parts.append('</ul>')
-        articles_html_parts.append('</details>')
+        articles_html_parts.append('                            </ul>')
+        articles_html_parts.append('                        </details>')
 
     articles_html_content = "\n".join(articles_html_parts)
     update_time_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     analytics_script = '<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>\n'
     final_html = html_template.format(
         page_title=page_title,
-        update_time=update_time_str,
-        nav_link_html=nav_link_html,
-        stats_html=stats_html,
+        subtitle=subtitle,
+        page_css=PAGE_CSS,
+        nav_html=nav_html,
+        tabs_html=tabs_html,
+        metrics_html=metrics_html,
         date_nav_html=date_nav_html,
-        source_html=source_html,
+        source_chips_html=source_chips_html,
         articles_html=articles_html_content,
-        search_script=SEARCH_SCRIPT,
+        total_articles=total_articles,
+        total_dates=total_days,
+        total_sources=len(source_counts),
+        update_time=update_time_str,
+        page_script=PAGE_SCRIPT,
+        visitor_script=VISITOR_SCRIPT,
         analytics_script=analytics_script,
     )
 
@@ -567,6 +1041,33 @@ def main():
 
     if len(sys.argv) > 1:
         arg = sys.argv[1]
+        if arg == 'build':
+            # 仅根据 archive 重建 HTML，不拉取新文章；近 N 天以归档最新日期为锚点
+            print("[*] build 模式：跳过抓取，直接生成页面。")
+            dated = [art for art in all_articles_db if art.get('date_added')]
+            if dated:
+                latest_date = max(datetime.datetime.strptime(a['date_added'], '%Y-%m-%d').date() for a in dated)
+            else:
+                latest_date = datetime.date.today()
+            cutoff_date = latest_date - datetime.timedelta(days=RECENT_DAYS)
+            recent_articles = [
+                art for art in dated
+                if datetime.datetime.strptime(art['date_added'], '%Y-%m-%d').date() >= cutoff_date
+            ]
+            generate_html_page(
+                articles=recent_articles,
+                output_path='index.html',
+                page_title='每日安全漏洞文章聚合 (最近7天)',
+                page_kind='index'
+            )
+            generate_html_page(
+                articles=all_articles_db,
+                output_path='archive.html',
+                page_title='完整文章归档',
+                page_kind='archive'
+            )
+            print("\n--- 页面重建完毕 ---")
+            return
         if arg == 'issue':
             task = 'issue'
         else:
@@ -603,21 +1104,29 @@ def main():
         print("[-] 没有任何文章数据，无法生成页面。")
         return
 
-    cutoff_date = datetime.date.today() - datetime.timedelta(days=RECENT_DAYS)
-    recent_articles = [art for art in all_articles_db if art.get('date_added') and datetime.datetime.strptime(art['date_added'], '%Y-%m-%d').date() >= cutoff_date]
+    dated = [art for art in all_articles_db if art.get('date_added')]
+    if dated:
+        latest_date = max(datetime.datetime.strptime(a['date_added'], '%Y-%m-%d').date() for a in dated)
+    else:
+        latest_date = datetime.date.today()
+    cutoff_date = latest_date - datetime.timedelta(days=RECENT_DAYS)
+    recent_articles = [
+        art for art in dated
+        if datetime.datetime.strptime(art['date_added'], '%Y-%m-%d').date() >= cutoff_date
+    ]
 
     generate_html_page(
         articles=recent_articles,
         output_path='index.html',
         page_title='每日安全漏洞文章聚合 (最近7天)',
-        nav_link_html='<a href="archive.html">查看完整归档 &rarr;</a>'
+        page_kind='index'
     )
 
     generate_html_page(
         articles=all_articles_db,
         output_path='archive.html',
         page_title='完整文章归档',
-        nav_link_html='<a href="index.html">&larr; 返回首页</a>'
+        page_kind='archive'
     )
 
     print(f"\n--- 所有页面处理完毕 ---")
