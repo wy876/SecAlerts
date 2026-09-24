@@ -76,5 +76,11 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488409&idx=1&sn=69dfa9481cd75b1b3fdc3caea1ce88ef",
         "source": "BruceFeIix",
         "date_added": "2026-09-24"
+    },
+    {
+        "title": "PowerJob最新版v5.1.2 friend-process接口未授权远程代码执行漏洞（CVE-2026-75429）",
+        "url": "https://mrxn.net/jswz/powerjob-friend-process-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-09-24"
     }
 ]
