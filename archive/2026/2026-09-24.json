@@ -1,0 +1,80 @@
+[
+    {
+        "title": "] [大模型辅助补丁分析工作流：拆解路由器高危漏洞链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188917&idx=1&sn=2b435005b72fd15365234372ea566281",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [Check Point 紧急修复已遭利用的 Management Server 0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=2&sn=e2ba8e5eb1fd1d64813208a89591b659",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=3&sn=8175d7230a5e360b9d49abd46e4ec13f",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [制造业为何频遭勒索？问题已不只是漏洞，而是身份与配置管理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=1&sn=2e0fee7119c59025ce7ba73fc833d836",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [行业动态 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=3&sn=f5600d3c3b9b27e66094867d2412e267",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [【安全圈】WordPress曝Click2Shell漏洞：管理员点击链接直达RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [【安全圈】F5曝BIG-IP致命零日漏洞：未认证请求击穿OAuth直达RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [【安全圈】Next.js曝光9.5分严重漏洞：动态制图缺陷致服务端RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [HITCON2017 babyfirst-revenge 看雪 CTF 复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=2&sn=533a3e69a43779501ce1971feff32da7",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [青藤云安全入选CNNVD“人工智能安全漏洞治理联盟”成员单位",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851930&idx=1&sn=820105c412a9406ff0bda1bf349aee5b",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [微步入选CNNVD人工智能安全漏洞治理联盟成员单位，并获漏洞一级贡献奖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188274&idx=1&sn=998880533218e42a20641d75cfa4d241",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    },
+    {
+        "title": "] [战场升级，悬赏加码丨DayDayPOC 0day漏洞悬赏计划第二期正式启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488409&idx=1&sn=69dfa9481cd75b1b3fdc3caea1ce88ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-24"
+    }
+]
