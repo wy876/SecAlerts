@@ -1,0 +1,62 @@
+[
+    {
+        "title": "] [已复现 | VMware vCenter pre-auth RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [ManageEngine 严重漏洞可导致攻击者通过 Windows 登录获屏幕得系统权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=1&sn=9cb59c56483b05b9d69397491a54323c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [GitLab 邮件地址可用于供应链攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=2&sn=ebe8eb1c6273dd854494ce61cdcf3e57",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [安全热点周报：Check Point 警告称其管理服务器零日漏洞正被用于定向攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507676&idx=1&sn=5413b9d5c8b63749207148b9f0c93bb0",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [AI 记忆框架遭供应链投毒：MemTensor 双仓库沦陷，新型 Go 蠕虫 sckit 窃凭证、能自我复制",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520712&idx=1&sn=8b736ff41e91f4f975ab73e1d19505fb",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [第十六届网络安全漏洞分析与风险评估大会 | “智·基 数智赋能下关键信息基础设施安全治理实践”分论坛成功举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=1&sn=f9b142e00efbdfe27684769e90dd9ccd",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [第十六届网络安全漏洞分析与风险评估大会 | 人工智能漏洞研究与治理分论坛成功举办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=2&sn=afb32ff37beb0f00184ed0669de5ae3e",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [腾讯CodeBuddy Security发现Suricata史上首个RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [YTray 与 Memfit 协同使用指南：多账号越权测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530404&idx=1&sn=a8b52f55a9dff5630f3b3e92484ad97c",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    },
+    {
+        "title": "] [紧急预警｜.ths勒索软件活动升温 多用户文件遭批量加密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538022&idx=1&sn=22ab7b25464bdb769151e1a9f9565605",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-25"
+    }
+]
