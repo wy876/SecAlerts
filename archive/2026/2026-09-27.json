@@ -304,5 +304,125 @@
         "url": "https://mp.weixin.qq.com/s/dhyHsv69iN4EakyG-X-rhA",
         "source": "Doonsec",
         "date_added": "2026-09-27"
+    },
+    {
+        "title": "AI 驱动的后渗透与主机协同管理平台 - LeoAI",
+        "url": "https://mp.weixin.qq.com/s/j1bqMNiHeAAnJaNSUW7Oyw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "为什么AI找出了100个漏洞，最后可能一个都交不上去？",
+        "url": "https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "OnePlus15手机本地提权Root分析",
+        "url": "https://mp.weixin.qq.com/s/HU884UzDNwekvifNYXJSwQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
+        "url": "https://mp.weixin.qq.com/s/jmelVfSIhDHIFQLpmG-8pw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "好靶场月赛-APP渗透测试",
+        "url": "https://mp.weixin.qq.com/s/xQ63dlTfEKUPZftQG1F8MA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "(9.9分) CVE-2026-100740：D-Link路由器越界写入可远程打崩",
+        "url": "https://mp.weixin.qq.com/s/czAYiTvUC3-stooDhNWzlg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "【安全圈】SharePoint 代码注入漏洞出现实际攻击，已发布补丁仍需核对",
+        "url": "https://mp.weixin.qq.com/s/SixW81R0v-Pxh255F2cmSQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "h0day.com 全球安全动态日报上新",
+        "url": "https://mp.weixin.qq.com/s/H3Z33zjQ6cFwzXtgzesDxw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "美军人事文件遭未授权访问，岗位信息为何更敏感",
+        "url": "https://mp.weixin.qq.com/s/wlkvn9Od2-JW6nka7144sg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "漏洞挖掘案例-任意用户接管",
+        "url": "https://mp.weixin.qq.com/s/9nPkJwFP-wYUE6Eyw4lHuA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "冰霄IceSky：提示词注入综合工具",
+        "url": "https://mp.weixin.qq.com/s/83TntTey3YGBuMkRp1YuqA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "产业协同集聚新发现：供应链与技能关联的“超加性”，重新理解企业扎堆",
+        "url": "https://mp.weixin.qq.com/s/yzQM6xdmcdLM1vQkfqfvcw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "(9.6分) CVE-2026-100715：Froxlor 面板符号链接任意文件删除",
+        "url": "https://mp.weixin.qq.com/s/6d2_VM44LZVmDwLus-7mGA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "MikroTrick漏洞链：一行命令，无需密码接管公网路由器",
+        "url": "https://mp.weixin.qq.com/s/_PORSoSZOEK0seaq_qx6rA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "黑客禁用 EPP 并在受感染的 Windows 域中部署 Sliver 漏洞利用程序",
+        "url": "https://mp.weixin.qq.com/s/O7Acs4jOm-eQNzPtwHBptg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "某TSRC大佬的付费全景Skill（包涵：渗透、漏洞挖掘、CTF竞赛、EDR、逆向）",
+        "url": "https://mp.weixin.qq.com/s/ei4yeRLuFXzs78rI_eTZvg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "首批！360入选国家人工智能安全漏洞库优秀技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/t4MMjuBUnw9Oe9X7LJS2Xw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Coruna ios 漏洞C2系统存在前台敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/3uLerePsXTiulToPz1pf4g",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "(9.8分) CVE-2026-18143：WordPress报价插件未认证任意文件上传",
+        "url": "https://mp.weixin.qq.com/s/68xjdiiM7vjATm3MSqyMxA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "紧急预警｜.ths勒索软件活动升温xa0多用户文件遭批量加密",
+        "url": "https://mp.weixin.qq.com/s/LTi2_zql24avUzQpn7RgEQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
     }
 ]
