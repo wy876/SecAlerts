@@ -424,5 +424,17 @@
         "url": "https://mp.weixin.qq.com/s/LTi2_zql24avUzQpn7RgEQ",
         "source": "Doonsec",
         "date_added": "2026-09-27"
+    },
+    {
+        "title": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞",
+        "url": "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310",
+        "url": "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
     }
 ]
