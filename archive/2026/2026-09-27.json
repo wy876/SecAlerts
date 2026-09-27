@@ -214,5 +214,95 @@
         "url": "https://mp.weixin.qq.com/s/XCQA8yRbJ9wEpt0tyGxrXA",
         "source": "Doonsec",
         "date_added": "2026-09-27"
+    },
+    {
+        "title": "] [发现老百姓搞情报就要抓，老百姓不能帮国安？",
+        "url": "https://mp.weixin.qq.com/s/Cg-WW78gQxf_7acUPOcMWw",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "] [360漏洞云中秋致谢丨月满话团圆，安全共守护！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505426&idx=1&sn=c026a626ff35a44cf3a8ef58f56f3994",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "] [Copy Fail漏洞深度学习",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621952&idx=1&sn=88420cd350d20c349e907e1a0affb4a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "] [【安全圈】Elementor 两个版本出现漏洞，管理员点开链接可能替攻击者建账号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079118&idx=2&sn=07a85f3f5a44eccdf34f8f69a44142ec",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "] [【安全圈】Roundcube 旧漏洞出现实际利用报告，邮件系统需核对版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079118&idx=3&sn=34002ec3d4c40f3f8b2224c5576bbfa3",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "扫描器永远扫不出来的那一类洞：业务逻辑漏洞怎么挖",
+        "url": "https://mp.weixin.qq.com/s/EtZpbr79VkFDfH5ofXgh0Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Sudo高危漏洞曝光，本地用户可绕过提权时间限制",
+        "url": "https://mp.weixin.qq.com/s/CS57XQOTfIm840aeoW8_OQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "每周PDF资源：AI Agent百小时自主挑战；红蓝队渗透工具；非结构化资产分类分级",
+        "url": "https://mp.weixin.qq.com/s/FjZ4qOak47noZ_0d6oIt1g",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "PivotHub · 链透中枢 — 多层内网渗透辅助工具",
+        "url": "https://mp.weixin.qq.com/s/0toAaeDj0VQyrPoJY2YX4Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "EDR 规避新思路：不调用 WriteProcessMemory 的进程注入",
+        "url": "https://mp.weixin.qq.com/s/I6NCA8-I2xshxRBITldZZg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "「Codex Security 拆解」OpenAI 开源 AI 漏洞扫描 CLI：策略+验证+补丁闭环",
+        "url": "https://mp.weixin.qq.com/s/-ZFUp0n1_OVSrFfZqNvUdQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20260927）",
+        "url": "https://mp.weixin.qq.com/s/hSOLA3RnKsOelRIDKyoOCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "企业信息发送平台getLicenceDetail接口存在任意文件读取漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/6NdWInOJr17OUZW1y1EZog",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）",
+        "url": "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "360漏洞云中秋致谢丨月满话团圆，安全共守护！",
+        "url": "https://mp.weixin.qq.com/s/dhyHsv69iN4EakyG-X-rhA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
     }
 ]
