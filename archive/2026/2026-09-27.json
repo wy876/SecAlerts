@@ -1,0 +1,218 @@
+[
+    {
+        "title": "CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链",
+        "url": "https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "WordPress Comment2Shell漏洞分析：一条评论如何变成服务器RCE",
+        "url": "https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "CVE-2026-59310 | VMware vCenter远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "N/Axa0|xa0JeecgBootxa0权限绕过与xa0SQLxa0注入组合漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "黑客利用 cPanel CVE-2026-41940 身份验证绕过漏洞部署 Mirai 恶意软件僵尸网络",
+        "url": "https://mp.weixin.qq.com/s/MZGg8mZcJ9lvK_VtMyZsnA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "没有漏洞，照样入侵：一个电话撬开医疗数据防线",
+        "url": "https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "PHP on Windows 保留设备名未拒绝导致 DoS(CVE-2026-17545)",
+        "url": "https://mp.weixin.qq.com/s/wzFlEssKyv491IIE5xViBQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "【安全圈】Elementor 两个版本出现漏洞，管理员点开链接可能替攻击者建账号",
+        "url": "https://mp.weixin.qq.com/s/kj60IIrZj23HUUicPxmBtw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "【安全圈】Roundcube 旧漏洞出现实际利用报告，邮件系统需核对版本",
+        "url": "https://mp.weixin.qq.com/s/1T4B--nSUlb2GhM26Zx9fg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Linux 内核 14 年老漏洞可提权 root、逃出容器",
+        "url": "https://mp.weixin.qq.com/s/XnQiwcBJ5vxSJQUtuirziQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "OpenCode 升级端点 RCE：一个表单就能从网页打到本机（GHSA-632h-h47v-g4x4）",
+        "url": "https://mp.weixin.qq.com/s/PolmGFtTvwXKkk8QRaqQ9Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Copy Fail漏洞深度学习",
+        "url": "https://mp.weixin.qq.com/s/4Ov6k5yoSaGyuHQ3GTE5EQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "FBI又泄露了？黑客声称公开1,000万份FBI案件数据，涉及CIA、特勤局等敏感信息",
+        "url": "https://mp.weixin.qq.com/s/kkSSHzg4WOs3Ubl-muLnsQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "开放图谱（OG）缓存对象未授权刷新与回溯性内容投毒漏洞",
+        "url": "https://mp.weixin.qq.com/s/akNdVjzkDP24Te4k7lgWKw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20260926）",
+        "url": "https://mp.weixin.qq.com/s/caE2yjOyDQAp9G0pxEAH5Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "内网渗透终极利器！一键自动化漏洞挖掘，百万安全从业者都在用的扫描神器",
+        "url": "https://mp.weixin.qq.com/s/BYZ2iH9KbZIUonFj-OaTgw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "RabbitMQ 四连爆：XSS + 密钥泄露 + 认证 DoS + 路由 DoS",
+        "url": "https://mp.weixin.qq.com/s/pLZ_qnbvPmtgZ0KY02kFXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Jev System One 决策模型：Pentest Swarm AI 渗透实战应用",
+        "url": "https://mp.weixin.qq.com/s/4sW8wO77y-17cjpcjJfHSw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "SAML（安全断言标记语言）漏洞全景：从 XSW 签名包装到重放攻击的十大攻击向量",
+        "url": "https://mp.weixin.qq.com/s/p-ZEyHytwLdorbZGYCxrOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "一台笔记本电脑就可以本地AI渗透和CTF解题，结果出乎意料！我愿称之为当下最优解。",
+        "url": "https://mp.weixin.qq.com/s/69a2Y3WQl2n74nMGG0Kkvg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "TACACS+预认证远程代码执行漏洞攻击链",
+        "url": "https://mp.weixin.qq.com/s/yL2ySIE1mggItx1JnT7kgA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "TACACS+预认证远程代码执行漏洞攻击链",
+        "url": "https://mp.weixin.qq.com/s/8EzfWbTOgrKqmvUF9HiXKQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "StrykerOSS  ——安卓渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/fSM2y2kKvKcMys0Sur6ZHQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "同样的洞，有人拿高危有人拿中危：漏洞定级到底在争什么",
+        "url": "https://mp.weixin.qq.com/s/juoY0GoufUL25Bg0l-2MtQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "WordPress CVE-2026-87902 披露数小时即遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/B-4mIbJaLD43to-YC5K_zA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "信息安全漏洞周报【第093期】",
+        "url": "https://mp.weixin.qq.com/s/wDPaQLo8gEya5UVronpukQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "如何微调属于自己的渗透模型？一文帮你吃透大模型微调！快速打造自己的本地渗透大模型！",
+        "url": "https://mp.weixin.qq.com/s/vJqa-dQX4kA9kAiBxHRNTw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "OpenAI代理在获取公共数据的同时探测网站漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ql2-U1CZpnjuw7mCWZvp8Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Windows漏洞利用技术：悬空COMu200bu200b对象注册",
+        "url": "https://mp.weixin.qq.com/s/5XiLIoGECBe9-EywG8sNGA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "微软签名的“内鬼”驱动：LocalStranger 演示 BYOVD 本地提权",
+        "url": "https://mp.weixin.qq.com/s/kDdIsBGVq-IdzsrQG7-59A",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "Telegram 桌面版漏洞：聊天按钮里的隐藏脚本可窃取 HTML 导出消息",
+        "url": "https://mp.weixin.qq.com/s/voQj03JHEfUPQIrBAKyKdg",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "校园中危漏洞：水平越权风险警示",
+        "url": "https://mp.weixin.qq.com/s/FCYcWf1S4uc9oQrzaRcqog",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "漏洞扫描领域的天花板：一款让安全测试效率提升百倍的全能工具",
+        "url": "https://mp.weixin.qq.com/s/3tHp2Tb9taLgzWcp6b8mEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "CVE-2026-88592：kkFileView 跨域文件代理绕TrustHostFilter 全解析",
+        "url": "https://mp.weixin.qq.com/s/X3L6b9063Zl7SoQcpqS_Uw",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "《佳节不辍寻漏洞，望月亦守安全线》",
+        "url": "https://mp.weixin.qq.com/s/pupvMbksrpKnf80Q6M9LhQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    },
+    {
+        "title": "WordPress 路径遍历漏洞：无需登录即可 RCE",
+        "url": "https://mp.weixin.qq.com/s/XCQA8yRbJ9wEpt0tyGxrXA",
+        "source": "Doonsec",
+        "date_added": "2026-09-27"
+    }
+]
