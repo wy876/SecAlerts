@@ -166,5 +166,203 @@
         "url": "https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ",
         "source": "Doonsec",
         "date_added": "2026-09-28"
+    },
+    {
+        "title": "] [OnePlus15手机本地提权Root分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485498&idx=1&sn=cc614f6fde7b4f0dfc7b86b1eb26d7cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "] [【安全圈】SharePoint 代码注入漏洞出现实际攻击，已发布补丁仍需核对",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079129&idx=3&sn=8eab1210d63abf0b373ad59028f7c1ad",
+        "source": "BruceFeIix",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "第174篇：Python 型内存马注入与沙箱逃逸（记一次应急响应中的内存马样本分析）",
+        "url": "https://mp.weixin.qq.com/s/W-TvHJVSaR8Rsy5HYX17pw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "一次遗憾的渗透，差最后一步 getshell",
+        "url": "https://mp.weixin.qq.com/s/sXa7B3s81JonmYOIqqbrUg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+        "url": "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "不用 WriteProcessMemory 的进程注入：借控制台命名管道把载荷写进远程进程",
+        "url": "https://mp.weixin.qq.com/s/5QW-qf3C0YcT9sutgZW4JQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "(10分) CVE-2026-101001：Netcore路由器未鉴权命令注入",
+        "url": "https://mp.weixin.qq.com/s/-xlPD7Z7tKip_pY_GrS0jw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "【安全圈】Citrix曝双严重零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kiw97NtqTjcjleTs_6jsvw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "【安全圈】Cloudflare容器曝隔离漏洞：残余数据可跨租户窃取",
+        "url": "https://mp.weixin.qq.com/s/WWEGmOhvdJFK54IXpsgErg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "基于Ai自主代码审计的红队Agent，真正做到审计出漏洞",
+        "url": "https://mp.weixin.qq.com/s/Xwndbk_hbU33TRLII6Jcrg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "CNNVD | 关于Citrix NetScaler Application Delivery Controller 输入验证错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/XZ4ujpiXd0wmXpDZ3NRzzQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "当红队的“同事”变成了 AI：渗透测试与攻防演练正在被重写，谁会被淘汰？",
+        "url": "https://mp.weixin.qq.com/s/KfTGJJWWt5sf8IsFwzh3_A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "我发现了渗透Agent长程任务的秘密",
+        "url": "https://mp.weixin.qq.com/s/Y1xerjN6eV0Bl4mABskqjQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Oracle PeopleSoft漏洞遭大规模利用，攻击者绕过WAF植入WebShell",
+        "url": "https://mp.weixin.qq.com/s/l4pqUMxUwJ1dLXxFtpfxiA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Citrix NetScaler曝出0Day危机，两处RCE漏洞已遭实战利用",
+        "url": "https://mp.weixin.qq.com/s/mD7LZEmut965_sOjuXge_A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "关于WiFi万能钥匙SRC暂停接收安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s/PzLUq_mG4CZfnVB9iDGurg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "记录一个免杀的php webshell demo",
+        "url": "https://mp.weixin.qq.com/s/KWTwY5K_2QM1t1VyIWs9ww",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Citrix 两个 NetScaler RCE 0day 已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/fmJRbeuyLaM-h480B3Q0Cw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Roundcube 预认证 SQL 注入漏洞已遭在野活跃利用",
+        "url": "https://mp.weixin.qq.com/s/zzSxXyFvnSakwPYQdSZhiQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第38期",
+        "url": "https://mp.weixin.qq.com/s/MquGBpiCW3x_hf4mBgkkyw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260921-20260927)",
+        "url": "https://mp.weixin.qq.com/s/g80bOAYiPuVkqjSaO3XMFQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "做渗透测试必看：内网渗透完整知识体系（附高清 PDF）",
+        "url": "https://mp.weixin.qq.com/s/c2agIL2TOK2mDyM0tce97g",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "CNNVD关于Citrix NetScaler Application Delivery Controller 输入验证错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/iIAIbn3FqIYmFoAgEcQ_dg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "WordPress 严重本地文件包含漏洞，可实现 RCE，野外已出现利用（CVE-2026-87902）",
+        "url": "https://mp.weixin.qq.com/s/4yZIKxI_RZ-lWquQvYMlrA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "高危预警：博硕BGM Download.ashx任意文件读取漏洞，大量企业系统面临数据泄露风险",
+        "url": "https://mp.weixin.qq.com/s/GSoKEQJzb00OE1s3mL7yhA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "四叶草安全再度获评国家信息安全漏洞库（CNNVD）一级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/H8nQDPOq8jtiYeI5Dqd7CA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "澳洲Quest公寓酒店因第三方漏洞致190万人信息泄露",
+        "url": "https://mp.weixin.qq.com/s/nPuYUu16stWALSSphLbVmA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "【代码审计】web漏洞之seacms13.6登录后文件写入缓存文件导致getshell",
+        "url": "https://mp.weixin.qq.com/s/sd5rMBmeauewDfchfEl4AQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "PHP代码审计-PHPCMS-SQL注入",
+        "url": "https://mp.weixin.qq.com/s/-SYmCKf1LS7Vxjq1_EWRfQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "高危预警：CVE-2026-56782｜Gorse 开源推荐系统认证绕过漏洞，可无权限拖库 / 覆盖全量数据",
+        "url": "https://mp.weixin.qq.com/s/qL1lNuMEug4O8FVYruvk7Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "【安全速报】9月28日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/S0nHip7G31hmeEFAgwtlDA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "产业集群新认知：供应链 “超加性”，为什么产业链伙伴依然要贴在一起？",
+        "url": "https://mp.weixin.qq.com/s/KYu9owPkI0-e6E7YG4N16Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "CVE-2026-43786:macOS CoreServices 漏洞概念验证(PoC)已公开披露",
+        "url": "https://mp.weixin.qq.com/s/pcj3HVsp61Yw1Ap5CDIY5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
     }
 ]
