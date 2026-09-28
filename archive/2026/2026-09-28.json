@@ -1,0 +1,170 @@
+[
+    {
+        "title": "当 AI 智能体开始\\\"越狱\\\"：OpenAI 失准报告披露提示注入蠕虫、凭证窃取与 DNS 隧道逃逸",
+        "url": "https://mp.weixin.qq.com/s/hFqCe84zBqR3CteZTopjJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "重磅预警｜一场假面试攻陷3万台设备！朝鲜WaterPlum“传染性面试”APT，专坑开发者",
+        "url": "https://mp.weixin.qq.com/s/tBr-p9YYE1nP0EW4waBsDg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "供应链投毒 71 个恶意文件藏进官方模型仓库 拉下来运行即被控",
+        "url": "https://mp.weixin.qq.com/s/QAolJrNxtNgzor1-UqBl2A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "渗透测试从业者注意 AI 解 CTF 已到 52/52，真功夫在\\\"沙箱边界\\\"",
+        "url": "https://mp.weixin.qq.com/s/v2RIBz9t0-vWameY2cpozw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "从 UART 焊到未认证后门：ANJIA PTZ 摄像头（CVE-2026-31077）",
+        "url": "https://mp.weixin.qq.com/s/i6xG3ooCikUz8UaxNR_t6Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "好几家SRC都被AI打关门了！教你两条Agent渗透干货（又快又准）+年底SRC新规",
+        "url": "https://mp.weixin.qq.com/s/J0ADJ69pLa_tsXc78WgwLg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "震惊安全圈！这款红队指纹神器让漏洞挖掘效率提升百倍",
+        "url": "https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Seetong(天视通) NVR曝CVSS 10.0未认证认证绕过漏洞(CVE-2026-100886)，公开PoC可导致设备接管",
+        "url": "https://mp.weixin.qq.com/s/ebMfLMBcjIPsc-1Fesnc-g",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Roundcube 邮件系统 SQL 注入被利用：攻击者可能从 “不登录” 开始拿走邮箱数据",
+        "url": "https://mp.weixin.qq.com/s/fbwAlAYbZ9YI1DlyfreYhA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "优惠券叠加漏洞：很多大厂都踩坑的业务逻辑深坑",
+        "url": "https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "【勒索预警】Weax勒索病毒利用阿里云服务器攻击用友系应用，无中间件日志下完成完整溯源（附IOC）",
+        "url": "https://mp.weixin.qq.com/s/_YdyVDLE28fhYgUSYQJ6NQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "做了PSTI、CRA、澳大利亚智能设备认证，却栽在一个\\\"邮箱\\\"上？漏洞披露渠道公示，这个小要求能卡掉一半企业",
+        "url": "https://mp.weixin.qq.com/s/4ZB-DLkLmPbmp96PRDcJSA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第37期",
+        "url": "https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "AI 智能漏洞扫描插件 -- Zack-AI-Scanner",
+        "url": "https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "wvp-GB28181pro摄像头管理平台存在未授权访问漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "某次内部行业渗透测试&amp;攻防演练多个系统从资产打点到RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "评论字符限制绕过导致客户端拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "一款具有普适性的AI自动化渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/MM7253xTPib9lYmKJk0K5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "逆向 APK 和 EXE，到底能挖出什么？渗透测试视角的深度拆解",
+        "url": "https://mp.weixin.qq.com/s/6gpp-75ZqNsa-BNQAEJKnA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "App 漏洞挖掘实战、外部恶意网页可直接调用原生接口窃取用户认证 Token 造成账号接管漏洞",
+        "url": "https://mp.weixin.qq.com/s/tudmmu9hxEUDvd0sFm5Ozg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "做渗透测试的人，为什么需要一个漏洞管理平台？",
+        "url": "https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "漏洞预警 | Linux kernel释放后使用漏洞",
+        "url": "https://mp.weixin.qq.com/s/WxfISAg8CK6x2CLnlAnNqg",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "漏洞预警 | ShowDoc远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "俄如何利用离岸架构与“白手套”渗透美FBI和国防部采购网络",
+        "url": "https://mp.weixin.qq.com/s/4ej9M04rxQjSwAPGFoiixw",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "朝鲜 TraderTraitor 黑客利用伪造的 Terraform 作业测试部署 macOS 后门",
+        "url": "https://mp.weixin.qq.com/s/OjWPCzGDxXlHqviXQ7FsIA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的",
+        "url": "https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "Apache Tomcat 认证绕过 · IBM FTM 远程代码执行 · AWS pgCollection 类型混淆",
+        "url": "https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    },
+    {
+        "title": "F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用",
+        "url": "https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-28"
+    }
+]
