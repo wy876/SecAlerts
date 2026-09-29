@@ -316,5 +316,179 @@
         "url": "https://mp.weixin.qq.com/s/jXarGFJUiWYg0Qv_hBSsuQ",
         "source": "Doonsec",
         "date_added": "2026-09-29"
+    },
+    {
+        "title": "【高危漏洞预警】Citrix NetScaler ADC / NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771",
+        "url": "https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」",
+        "url": "https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
+        "url": "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞预警】Citrix NetScaler 命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "Master V3.0 专为后渗透而生-结合agent首发",
+        "url": "https://mp.weixin.qq.com/s/I9qWdYLFGJ4-ErfW7MTauw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "54款大模型测出873个漏洞，网安生该学什么？",
+        "url": "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "iOS 26.7.1 发布了：一个已经被用过的漏洞",
+        "url": "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "Linux容器逃逸漏洞细节及概念验证（PoC）代码披露",
+        "url": "https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root",
+        "url": "https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "windows提权(二)-利用priv特权提权",
+        "url": "https://mp.weixin.qq.com/s/ecJGFHCpzlPhQeXx5aN-1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【安全圈】看张图片就中招？苹果的这个漏洞你一定要看",
+        "url": "https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证",
+        "url": "https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "AgentMirror 源码解读：专门反制渗透测试 Agent 的蜜罐",
+        "url": "https://mp.weixin.qq.com/s/08j1BG-zU2BtKcv43qe7sg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞通告】Citrix NetScaler ADC/Gateway未授权命令注入漏洞(CVE-2026-88771)",
+        "url": "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)",
+        "url": "https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "redisRCE复盘",
+        "url": "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "资产遍布全国、漏洞库三年翻倍的背后，某大型集团的漏扫为什么越来越\\\"稳\\\"？",
+        "url": "https://mp.weixin.qq.com/s/xcwzaMESU-RZVc3n_hWvyQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "V8 漏洞利用入门：从 StarCTF 2019 OOB 到任意读写与 WASM RCE",
+        "url": "https://mp.weixin.qq.com/s/UJ2JjM0Eojs8vYSQcZXRaA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "昂贵的代价！知名金融机构因供应商漏洞失陷，超26亿元失窃",
+        "url": "https://mp.weixin.qq.com/s/3U0cCa95-sU0HdiQu52zOg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s/_WrxKw9ezRzV3lEdPE4c9g",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 人工智能重要漏洞通报（2026年第十四期）",
+        "url": "https://mp.weixin.qq.com/s/BuobyZqHMxVvsBL7XUepBg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/9d3Qj2t7534mcv5EolWGIw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "实力认可！云起无垠荣获2026年度CNNVD“基础软硬件漏洞报送优秀企业”",
+        "url": "https://mp.weixin.qq.com/s/cF7e4MwA1eRXtZpDpjhygA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/NZsa61Ie4rHNOdTfuUsYnw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "一条日志报文拿到 vCenter 的 root：CVE-2026-59310 复现记录",
+        "url": "https://mp.weixin.qq.com/s/I1TqA3FFUz-6EKrOuJPghQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "人工智能重要漏洞通报（2026年第十四期）",
+        "url": "https://mp.weixin.qq.com/s/Q0UN4wkYL4_YZJHjVJWISQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "人工智能重要安全漏洞的通报OpenClaw多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/iqoqe7H8kCVrSYSan1KV5w",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【漏洞预警】Citrix NetScaler ADC/Gateway 未认证远程代码执行漏洞已在野利用（CVE-2026-88771）",
+        "url": "https://mp.weixin.qq.com/s/rtx39Gyh2Xt7-yaxrypACQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CNNVD | 重要安全漏洞通报（2026年第七期）",
+        "url": "https://mp.weixin.qq.com/s/cT6T3VgojVBWREKz20JJTg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
     }
 ]
