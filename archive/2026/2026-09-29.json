@@ -1,0 +1,110 @@
+[
+    {
+        "title": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s/LlTrzR8t_eqbqEFet_Qddg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "一体化渗透测试工具 -- Shrike（9月29日更新）",
+        "url": "https://mp.weixin.qq.com/s/5TxuYj5Ek2kt2L-4W79PNA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CVE-2026-93485 | WordPress Comment2Shell存储型XSS可导致RCE漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/JG63jRw3KZJ9R2hJse1LEA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "记某SRC阿里云存储接管&amp;企业SRC隐私合规漏洞",
+        "url": "https://mp.weixin.qq.com/s/6L4XTDkZDHT5dEbmMjh8GA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "云天 · 安全通告（2026年9月29日）",
+        "url": "https://mp.weixin.qq.com/s/4py8_qQq2LJbnbZ8PcTusw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ubOHE92IDAAGENQwf7DcHw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "自动化资产测绘 + 漏洞扫描工具  -- dddd-next（9月29日更新）",
+        "url": "https://mp.weixin.qq.com/s/a3p9IMd5DB8HKC2KynWERQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "两高一弱专项治理与漏洞全生命周期闭环管控",
+        "url": "https://mp.weixin.qq.com/s/cZY_T4QtpumiDBZOkdKJXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "(9.9分) CVE-2026-101037：FAST路由器栈溢出PoC公开",
+        "url": "https://mp.weixin.qq.com/s/3SieXlcxXZ5ZpWkVMARWKQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "Temu 白菜摄像头打到 root：Jooan C9TS 从 UART 到诊断模式 RCE",
+        "url": "https://mp.weixin.qq.com/s/pw--NfjpGQqJKDbKI-_JHg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "USENIX Security 2026｜第三方Agent Skill，新一代软件供应链风险",
+        "url": "https://mp.weixin.qq.com/s/KVATeOeO_GoSPeWCropZMw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "AI换脸、视频注入、真人代过：身份认证攻防正在被批量突破",
+        "url": "https://mp.weixin.qq.com/s/PS-VHBplNFNV2hWSL2nSfA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "漏洞预警 | macOS本地提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/HAiRmadezrvq0_N2Bh5H4A",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "漏洞预警 | Microsoft SharePoint远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/mBEJA26HbbOPTjStR_Z-4Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "【热点安全风险】9月29日｜VMware vCenter 无需认证漏洞技术细节与利用代码公开，攻击者可执行任意代码（CVE-2026-59310）",
+        "url": "https://mp.weixin.qq.com/s/Cz-_rkTtOPvJc1Qp0IGt2Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "安全工具丨存储桶遍历漏洞可视化检测利器",
+        "url": "https://mp.weixin.qq.com/s/ubifhF9TL9huXTwQ4KX52w",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "InjectSetConsole：不用 WriteProcessMemory 的注入",
+        "url": "https://mp.weixin.qq.com/s/tYM5ck5DYv67DtW5bay8aA",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "写出 Triager 级漏洞赏金报告",
+        "url": "https://mp.weixin.qq.com/s/_b_8WyLwcjghzCwVZlitsw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    }
+]
