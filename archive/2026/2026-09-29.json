@@ -490,5 +490,17 @@
         "url": "https://mp.weixin.qq.com/s/cT6T3VgojVBWREKz20JJTg",
         "source": "Doonsec",
         "date_added": "2026-09-29"
+    },
+    {
+        "title": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
+        "url": "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
+    },
+    {
+        "title": "内网渗透教程",
+        "url": "https://mp.weixin.qq.com/s/jhv31fclrb0AOqSomwV9sw",
+        "source": "Doonsec",
+        "date_added": "2026-09-29"
     }
 ]
