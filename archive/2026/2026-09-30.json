@@ -40,5 +40,77 @@
         "url": "https://mp.weixin.qq.com/s/JAhA5eESAD7Tcz5yDsk0AQ",
         "source": "Doonsec",
         "date_added": "2026-09-30"
+    },
+    {
+        "title": "OpenCode 曝远程代码执行漏洞：一个 Content-Type 混淆如何变成 RCE",
+        "url": "https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 POC",
+        "url": "https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【已复现】VMware vCenter 远程代码执行漏洞（CVE-2026-59310）",
+        "url": "https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "苹果修补疑遭定向利用的图形漏洞",
+        "url": "https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Netcore NAP930 的免凭据 root 通道（CVE-2026-102240）",
+        "url": "https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "集合循环引用导致拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "苹果修复或已用于定向攻击的 CoreGraphics 漏洞",
+        "url": "https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Next.js ImageResponse RCE漏洞（附POC）",
+        "url": "https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！",
+        "url": "https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "(10分) CVE-2026-53988：Dockhand Docker面板认证绕过",
+        "url": "https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
     }
 ]
