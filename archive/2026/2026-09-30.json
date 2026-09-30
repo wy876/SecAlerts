@@ -112,5 +112,239 @@
         "url": "https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg",
         "source": "Doonsec",
         "date_added": "2026-09-30"
+    },
+    {
+        "title": "SQL 注入到底是怎么操作的？",
+        "url": "https://mp.weixin.qq.com/s/OSQrob5TZbVTt9U6YJ7ohA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "从一条审批API请求，挖掘严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/6bzWN9mP6wD5c0rwpGqA5A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【安全圈】全新幽灵BTR漏洞曝光：绕过主流防御窃取Linux内核高权哈希",
+        "url": "https://mp.weixin.qq.com/s/BJ6xcb874rx0okXA8LODEQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【安全圈】OpenSSL修复DTLS高危漏洞：重传逻辑缺陷致未加密堆内存外泄",
+        "url": "https://mp.weixin.qq.com/s/eqe3d6YPvHO8T7Orx3Z_dg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【安全圈】Citrix NetScaler高危双零日遭在野利用：Root权限与隧道木马曝光",
+        "url": "https://mp.weixin.qq.com/s/SR7zfvGvEzdsVNQpalz9Wg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【高危漏洞预警】Next.js ImageResponseRCE漏洞CVE-2026-94545",
+        "url": "https://mp.weixin.qq.com/s/dbCopeejL_EwV4UQQCtFoA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "专题·原创 | 人工智能时代电信运营商漏洞安全治理体系重构与实践",
+        "url": "https://mp.weixin.qq.com/s/srpFayIqThg95Pb6MJKzCg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【漏洞情报】2026年9月车联网漏洞态势综述",
+        "url": "https://mp.weixin.qq.com/s/dVPfaeLA9zvAtwbb6b9now",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "美国防部重大数据泄露：数百万军人敏感信息被窃取",
+        "url": "https://mp.weixin.qq.com/s/Pa1XKngCRMLO_u4asolV1A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【漏洞通告】Next.js next/og未授权远程代码执行漏洞(CVE-2026-94545)",
+        "url": "https://mp.weixin.qq.com/s/1ZdELz9p0u05bt-23nq2RQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "GPT-6 Astra不受控自主实施供应链攻击，频繁超出测试范围",
+        "url": "https://mp.weixin.qq.com/s/WmozsWnuv2lf9_Nnlk_eNA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Glasswing项目公布五月实测数据，AI漏洞误报率较高",
+        "url": "https://mp.weixin.qq.com/s/I7DV_PBZ0tO_c3TL_d6xVw",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "五角大楼证实发生重大数据泄露，300余万人敏感信息遭访问",
+        "url": "https://mp.weixin.qq.com/s/Jx9FhffiGTYFiRUucpv6pQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Bitget披露3.88亿美元被盗细节，第三方安全产品0Day成入侵入口",
+        "url": "https://mp.weixin.qq.com/s/3wGsbpxZc_tjL8u7RFalRw",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "SDC2026议题预告 | 一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？",
+        "url": "https://mp.weixin.qq.com/s/Y567xWiY8MohK6cvgsFaJw",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "MCP Python SDK 高危 OAuth 漏洞曝光，AI Agent 账号存在被劫持风险",
+        "url": "https://mp.weixin.qq.com/s/dot4IaTcv9aCrQtqNY_BAA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "适配 Android 17提权，微信多媒体删除恢复再突破，数据管控再升级",
+        "url": "https://mp.weixin.qq.com/s/CXqZkflbIN64K0bq32VW8A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【免费领】最牛渗透测试工具Metasploit实操教程",
+        "url": "https://mp.weixin.qq.com/s/74MmqYyHOa2jtaxPlh49eA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "海量告警里揪出黑客诡计，360AI安全专家实锤0day RCE漏洞完整攻击链",
+        "url": "https://mp.weixin.qq.com/s/RnIZ-x-WOgUxtwwokSornQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "下载的python也可能是木马？pythonw.exe 木马全链路复现",
+        "url": "https://mp.weixin.qq.com/s/DECfq5gZodGVi2c9DjtCVQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Next.js next/og 未授权远程代码执行漏洞(CVE-2026-94545)",
+        "url": "https://mp.weixin.qq.com/s/MIBq2MiHVanuRC4em6gj0g",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "一款具有普适性的AI自动化渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/Nz7y2tRmgtkCEalAPIs_gQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "一套常规的渗透测试报告/资料文档合集，全是干货（附下载）",
+        "url": "https://mp.weixin.qq.com/s/Zt9E_7G8v0-088nfJirIXw",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Java Agent技术的注入利用与避坑点",
+        "url": "https://mp.weixin.qq.com/s/3qBc9wrTBR10bwcMkxOLJQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "1500欧元 | 双因素认证绕过",
+        "url": "https://mp.weixin.qq.com/s/mN9mEtB0So1fKl_idMs1_Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "关于规范AI辅助漏洞测试行为的公告",
+        "url": "https://mp.weixin.qq.com/s/7vMPEDqrOlf8Gu1q4-NW6g",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "用 Jev 构建更快、更便宜的漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s/ZJV0vSPtw4jaN2Hjmy3eug",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "20年前的老漏洞， 2026年为什么还能秒穿四成系统",
+        "url": "https://mp.weixin.qq.com/s/WCkFJHSczqP6TSZmLKImvg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "一万行代码里找那一个点：代码审计的读码方法",
+        "url": "https://mp.weixin.qq.com/s/K5xT4NxEMKkWjLsy2m3KQQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【已复现】Next.js next/og 未授权远程代码执行漏洞（CVE-2026-94545）",
+        "url": "https://mp.weixin.qq.com/s/3YYptUdqP7vB4Kc-7sNUig",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "「AI渗透测试」CyberStrike拆解：7600份Ed25519签名技能喂给Agent，把Claude订阅变成红队",
+        "url": "https://mp.weixin.qq.com/s/I2b6PeiiaQQ5MbTsKIjbKQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "Podman曝CVSS 10.0严重容器逃逸漏洞(CVE-2026-94603)，恶意镜像可绕过沙箱限制",
+        "url": "https://mp.weixin.qq.com/s/jEUtYm-Bxxv_zn6pLcli7A",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "动态｜关于2026年人工智能大模型安全众测活动典型漏洞风险的通报",
+        "url": "https://mp.weixin.qq.com/s/XUi4Y_AFN1DCCfuBmC2iKA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "CNNVD发布人工智能重要安全漏洞的通报；美国政府推出面向公众的政务xa0AI 聊天机器人| 牛览",
+        "url": "https://mp.weixin.qq.com/s/kVOXrF2RvAbG2NL4lvrGRQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "炸裂！这款开源Web漏洞扫描器让安全检测效率提升百倍",
+        "url": "https://mp.weixin.qq.com/s/g7ebwHxbd4kRjjK3hJ2Law",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【安全速报】9月30日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/UBeYadj2ZoueSaH1d5CgWA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "UFlowBot：多漏洞传播的新型UDP僵尸网络",
+        "url": "https://mp.weixin.qq.com/s/V5OXtFGSdZnOogjNLurT2g",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "macOS SMB 内核漏洞 CVE-2026-84543：详情与概念验证（PoC）漏洞利用代码发布",
+        "url": "https://mp.weixin.qq.com/s/gYQtx9TFHkhtjgQbe98XVg",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "CFCA安全响应中心「洞寻」上线｜打造金融行业漏洞检测新范式",
+        "url": "https://mp.weixin.qq.com/s/UXISN-owhS5b7IDcTWAIZA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
     }
 ]
