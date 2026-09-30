@@ -1,0 +1,44 @@
+[
+    {
+        "title": "漏洞预警 | Notepad++栈缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "漏洞预警 | WordPress编码绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "CNVD挖洞SKILL通用漏洞新思路 | 未授权漏洞批量挖掘方案，冷门产品线 + 端点字典，只读探测一键跑通全链路",
+        "url": "https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950）",
+        "url": "https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "卖「AI 渗透Skill」赚了 8 万，自己被送进了局子。安全圈的兄弟们还敢卖自己写的Skill吗？",
+        "url": "https://mp.weixin.qq.com/s/sJLOb7tLefloVy493m_q6w",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露",
+        "url": "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    },
+    {
+        "title": "研究报告 | 美日台涉台虚实混同认知渗透特征与全域反制策略研究",
+        "url": "https://mp.weixin.qq.com/s/JAhA5eESAD7Tcz5yDsk0AQ",
+        "source": "Doonsec",
+        "date_added": "2026-09-30"
+    }
+]
