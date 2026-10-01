@@ -184,5 +184,17 @@
         "url": "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA",
         "source": "Doonsec",
         "date_added": "2026-10-01"
+    },
+    {
+        "title": "AI 驱动的自主渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/7eBVKdVn8-dWj7EXa859XQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "警惕！校园学习接口暗藏 SQL 注入风险",
+        "url": "https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
     }
 ]
