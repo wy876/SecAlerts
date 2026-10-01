@@ -10,5 +10,179 @@
         "url": "https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA",
         "source": "Doonsec",
         "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [控制台管道注入技术绕过EDR",
+        "url": "https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE",
+        "url": "https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [AI Agent 进入网络安全之后，渗透测试开始有点不一样了",
+        "url": "https://mp.weixin.qq.com/s/lIcZiUIsdVGFKo2H-KcdWg",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [【AI安全】后门等到“有理由”才动手：OPBackdoor 怎样藏在合理回答里",
+        "url": "https://mp.weixin.qq.com/s/AiSStH6iYoMyl6HKWflq2g",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析",
+        "url": "https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE",
+        "url": "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "卡住的时候：Web 渗透测试里最常见的六个死胡同",
+        "url": "https://mp.weixin.qq.com/s/wrjcnLu3PiGLnwpt_v4Avw",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "重磅APT预警｜“传染性面试”WaterPlum曝光：一场求职面试，就能把开发电脑彻底攻陷",
+        "url": "https://mp.weixin.qq.com/s/oEiRxXLk_XYds_bdtuqGlg",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞",
+        "url": "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！",
+        "url": "https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析",
+        "url": "https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "(9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过",
+        "url": "https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）",
+        "url": "https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "从《惊蛰》到《交锋》-渗透的变迁",
+        "url": "https://mp.weixin.qq.com/s/FfFX2ZAuvOpSczNSqTv2tw",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看",
+        "url": "https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "StrykerOSS ——安卓渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/v7D6VjNMNwzN8od_6AjdPA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "记一次曲折的onlyoffice漏洞利用，成功getshell！",
+        "url": "https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "【热点安全风险】10月1日｜波兰开票平台遭未授权访问，攻击者可获取逾 60 万家企业账号与银行账户信息",
+        "url": "https://mp.weixin.qq.com/s/MfjIU7afobw9nf2KA-mo7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞",
+        "url": "https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码",
+        "url": "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
+        "url": "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "GPT-6 Astra 试图欺骗开发人员，入侵软件供应链",
+        "url": "https://mp.weixin.qq.com/s/xMCFLLf_pmMishNgefd5CA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "控制台管道注入技术绕过EDR",
+        "url": "https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE",
+        "url": "https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "AI Agent 进入网络安全之后，渗透测试开始有点不一样了",
+        "url": "https://mp.weixin.qq.com/s/lIcZiUIsdVGFKo2H-KcdWg",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "【AI安全】后门等到“有理由”才动手：OPBackdoor 怎样藏在合理回答里",
+        "url": "https://mp.weixin.qq.com/s/AiSStH6iYoMyl6HKWflq2g",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析",
+        "url": "https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
+    },
+    {
+        "title": "(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE",
+        "url": "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA",
+        "source": "Doonsec",
+        "date_added": "2026-10-01"
     }
 ]
