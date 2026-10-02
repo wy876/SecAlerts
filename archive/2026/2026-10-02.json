@@ -1,0 +1,92 @@
+[
+    {
+        "title": "CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管",
+        "url": "https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "特殊文件名上传导致群组文件功能拒绝服务漏洞",
+        "url": "https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "能信安：安全漏洞通报",
+        "url": "https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "Mockoon：管理 API 为什么成了免凭据后门",
+        "url": "https://mp.weixin.qq.com/s/SjJaXK77tyUXA1-D_DdUBQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "JSON攻击全解：从反序列化到CSRF的十二类实战手法",
+        "url": "https://mp.weixin.qq.com/s/tf4CMMXz914exdGGc2c-JQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "(9.8分) CVE-2026-104286：FortiMail任意文件写入",
+        "url": "https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "SQL注入完全指南_图解版",
+        "url": "https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "给AI渗透工具加一道围栏，“慢就是快”",
+        "url": "https://mp.weixin.qq.com/s/dqHry_GjbIyPvqLsNXTXIg",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "(9.8分) CVE-2026-75957：WordPress建站SaaS插件认证绕过",
+        "url": "https://mp.weixin.qq.com/s/tMVL3voS8eWyoMDjEpa7ig",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【安全圈】苹果官方：iPhone 18 Pro系列确有系统漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ev_ARKesczpvBp6VURodtQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网",
+        "url": "https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器",
+        "url": "https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    }
+]
