@@ -130,5 +130,23 @@
         "url": "https://mp.weixin.qq.com/s/aeD72SP6Ki71IZXpWg7Z0w",
         "source": "Doonsec",
         "date_added": "2026-10-02"
+    },
+    {
+        "title": "一个默认口令，端掉整个商会系统：一次授权渗透的完整复盘",
+        "url": "https://mp.weixin.qq.com/s/Tp6embs2uJtGv-62RjqIYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "Apache Superset SQL注入漏洞公开发布 PoC",
+        "url": "https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "(9.8分) CVE-2026-14378：WordPress DevKit Pro 未登录管理员接管",
+        "url": "https://mp.weixin.qq.com/s/cF909lppRa8Sct4OjqzK-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
     }
 ]
