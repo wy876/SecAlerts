@@ -88,5 +88,47 @@
         "url": "https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA",
         "source": "Doonsec",
         "date_added": "2026-10-02"
+    },
+    {
+        "title": "] [守御数字疆土，同心礼赞华诞",
+        "url": "https://mp.weixin.qq.com/s/0lGBzGkpvBHRceV5EIz--Q",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【安全圈】16岁少年用AI发现微软内部API漏洞：涉及超17万亿行数据，获5000美元赏金",
+        "url": "https://mp.weixin.qq.com/s/xaYhE-qbuKHbygQJmB7iBQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/W9GnHxrdlFVZsjNd6x177w",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "AI Agent利用两个0Day攻破荷兰安全机构，数秒内提权至Root",
+        "url": "https://mp.weixin.qq.com/s/Ga1bP7YmUA-fZR2HWaRxmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘",
+        "url": "https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【CVE-2026-86950】苹果CoreGraphics高危漏洞PoC公布",
+        "url": "https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
+    },
+    {
+        "title": "【火绒安全周报】图床平台Gyazo遭黑客入侵/五角大楼大量军方敏感信息遭泄露",
+        "url": "https://mp.weixin.qq.com/s/aeD72SP6Ki71IZXpWg7Z0w",
+        "source": "Doonsec",
+        "date_added": "2026-10-02"
     }
 ]
