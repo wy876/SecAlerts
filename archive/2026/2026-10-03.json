@@ -10,5 +10,41 @@
         "url": "https://mrxn.net/jswz/yonyou-APIProxyHandler-ssrf.html",
         "source": "MRXN",
         "date_added": "2026-10-03"
+    },
+    {
+        "title": "DragonForce：一个靠组织而非技术做大的勒索团伙",
+        "url": "https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
+    },
+    {
+        "title": "TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商",
+        "url": "https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
+    },
+    {
+        "title": "【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵",
+        "url": "https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261003）",
+        "url": "https://mp.weixin.qq.com/s/oSHlZP8-vIUWmVGp_mrtUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
+    },
+    {
+        "title": "GitLab AI Gateway曝CVSS 9.9严重漏洞(CVE-2026-90970)，认证用户可逃逸模板沙箱执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
+    },
+    {
+        "title": "Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布",
+        "url": "https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw",
+        "source": "Doonsec",
+        "date_added": "2026-10-03"
     }
 ]
