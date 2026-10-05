@@ -1,0 +1,104 @@
+[
+    {
+        "title": "API网关参数拼接漏洞导致越权与SSRF的案例分享",
+        "url": "https://mp.weixin.qq.com/s/EZgKpRJ5tHu2zd0B2QholQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "(8.7分) CVE-2026-88779：NetScaler SAML内存溢出DoS",
+        "url": "https://mp.weixin.qq.com/s/TyF_egx2TbrkddqlQP-53A",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Apache HTTP 服务器漏洞可导致远程代码执行和拒绝服务攻击",
+        "url": "https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "新的 Windows Defender ShieldCrash 零日漏洞可绕过微软补丁，以系统权限读取文件",
+        "url": "https://mp.weixin.qq.com/s/5t7KQO8UEypt0d0iuFN34A",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "冰霄IceSky  ——提示词注入综合工具",
+        "url": "https://mp.weixin.qq.com/s/Z_UF9tFV4ok1KUoGhbJ7mg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "当前SRC漏洞挖掘现状",
+        "url": "https://mp.weixin.qq.com/s/OqQsQrs2rcAkNhHgxySTTw",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "当前SRC漏洞挖掘现状",
+        "url": "https://mp.weixin.qq.com/s/zf7-Y-Ou9gbb2DTJUcyHUg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "当前SRC漏洞挖掘现状",
+        "url": "https://mp.weixin.qq.com/s/OpC7MEv9SK_ml7MMr5eJWA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
+        "url": "https://mp.weixin.qq.com/s/zEL05AV6RRgPL0QyhhdozA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "(9.1分) CVE-2026-87115：WordPress订餐插件任意文件删除",
+        "url": "https://mp.weixin.qq.com/s/tMmTr68YpH51z4Z82IUIMg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "信息泄露怎么办？隐私是怎么泄露的？",
+        "url": "https://mp.weixin.qq.com/s/ZzmophK_PtfiVGYijBxOYA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "一款面向现代 Web 安全研究的轻量级渗透测试平台——Caido",
+        "url": "https://mp.weixin.qq.com/s/3XN9keflBwF2UJL3GCZ8Gw",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "剖析弱口令与暴力破解（下）",
+        "url": "https://mp.weixin.qq.com/s/B6Q2CtAlcOp7ksLL7iZmMA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "GHAPPIER新型加载器曝光！带合法签名的投毒NPM包，关联PolinRider供应链APT",
+        "url": "https://mp.weixin.qq.com/s/jcgnv21qqv9WxtOgv6KxTA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "腾讯倾力之作！一款让所有开发者彻底告别代码漏洞的神级安全指南",
+        "url": "https://mp.weixin.qq.com/s/miR4cHC1kuxDIWOto7gOFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "cPanel &amp; WHM曝3个严重漏洞: 最高CVSS 9.9，可导致Root代码执行与管理员会话劫持",
+        "url": "https://mp.weixin.qq.com/s/hLYYZWYhLctYlG_0US-Y_g",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "记录几个edu漏洞挖掘思路",
+        "url": "https://mp.weixin.qq.com/s/Xsq06oIgIrrz1aF6fk4QAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    }
+]
