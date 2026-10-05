@@ -100,5 +100,95 @@
         "url": "https://mp.weixin.qq.com/s/Xsq06oIgIrrz1aF6fk4QAA",
         "source": "Doonsec",
         "date_added": "2026-10-05"
+    },
+    {
+        "title": "从0到1：小白如何制作属于自己的渗透测试与SRC挖洞Skills",
+        "url": "https://mp.weixin.qq.com/s/Fd1FhBN8RuMc26AChhDwGg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "君说安全｜安全运维还是渗透测试？一个干了二十年的老安全说几句实在话",
+        "url": "https://mp.weixin.qq.com/s/DKbeuql4DgzJZcIe8ATWeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布",
+        "url": "https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "开源 Webmail 巨头 Roundcube 爆出在野 漏洞",
+        "url": "https://mp.weixin.qq.com/s/XBmWhSoo0HRH9LAAXwglOg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Claude Code通过Git Worktree混淆实现沙箱逃逸",
+        "url": "https://mp.weixin.qq.com/s/SsLMC1DTeGD6BZMJrCTYFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "WebSocket 协议漏洞 01：握手流程与八大致命风险",
+        "url": "https://mp.weixin.qq.com/s/PO98-HUneNrBy6BADXnM4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "渗透测试从业者的实战课：SQL注入到Getshell",
+        "url": "https://mp.weixin.qq.com/s/fEbMs00d7RuB-TeZOFRkJA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Antino 微软后门深度分析：C2 通道搬进 Microsoft 365",
+        "url": "https://mp.weixin.qq.com/s/z86Zllf-PbxW-S9Ry_GzXQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "拉黑机制的标记移除绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/MvaQ1bnyAMc2Z12uAkec-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "CVE-2026-94545 | Next.js next/og未授权远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/vRi0fJDvE-SDXb68i-AESQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "CVE-2026-97359 | HFS 2.x文件服务器未授权远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/BD_fHjefJltSvZxtoxtXJQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "AI 渗透如何检测，溯源，反制？看了几篇篇论文带来的防御启示",
+        "url": "https://mp.weixin.qq.com/s/Y4KQHpj8Lrl4TLDx0uMEnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "硬核解析：切片绕过、蠕虫注入、渗透政府网，失控的OpenAI大模型到底做了什么？",
+        "url": "https://mp.weixin.qq.com/s/mPAdBykHRsByJ9JnBc5kPg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "据称黑客在某论坛出售 Fortinet FortiGate的 1day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/VX69zb-SuYA9icOah8t6QQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
     }
 ]
