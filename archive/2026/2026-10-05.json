@@ -190,5 +190,71 @@
         "url": "https://mp.weixin.qq.com/s/VX69zb-SuYA9icOah8t6QQ",
         "source": "Doonsec",
         "date_added": "2026-10-05"
+    },
+    {
+        "title": "第175篇：JPQL 注入在 Oracle 数据库中的利用研究（突破ORM限制）",
+        "url": "https://mp.weixin.qq.com/s/Vd8n3gxKyrDYI33laKs03w",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "(10分) CVE-2026-105134：AhsayCBS备份服务未授权RCE",
+        "url": "https://mp.weixin.qq.com/s/HFXOxA5J0dyRPSjAv3tyJg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "有趣的绕过，Cache XSS",
+        "url": "https://mp.weixin.qq.com/s/hTTK0i_klUw2lPCCUmhR7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "已完成思考Apache HTTP Server 2.4.69 发布：修复 20 个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/LaMCw5vQ8L5VjeWTRFYCyQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
+        "url": "https://mp.weixin.qq.com/s/_x1pvunVsjvnwdD0yNq_Zg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "戴尔CSM曝两处高危漏洞，未授权攻击者可直接获取管理员权限",
+        "url": "https://mp.weixin.qq.com/s/poCuL2gEOisWNpAX-gOPdw",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限",
+        "url": "https://mp.weixin.qq.com/s/w4snj5AUdAivTBdf-dU1Kg",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "域渗透基础知识汇总，很实用！（附下载链接）",
+        "url": "https://mp.weixin.qq.com/s/IdJoe1CIgU8JEPxCTJOCWA",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "近段时间AI渗透安全岗面试题，实录小记",
+        "url": "https://mp.weixin.qq.com/s/mT7WHfcIR2TOXyGanmJQMw",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "Black Hat USA 2026：ATM供应链与TPM失守",
+        "url": "https://mp.weixin.qq.com/s/xud6s9XbHbiYIhQGG3ZnoQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-05"
+    },
+    {
+        "title": "zcode 配置使用MiniMax-M3",
+        "url": "https://mrxn.net/jswz/zcode-MiniMax-M3-nvalid-thinking-type.html",
+        "source": "MRXN",
+        "date_added": "2026-10-05"
     }
 ]
