@@ -100,5 +100,83 @@
         "url": "https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg",
         "source": "Doonsec",
         "date_added": "2026-10-06"
+    },
+    {
+        "title": "自主漏洞发现与利用生成",
+        "url": "https://mp.weixin.qq.com/s/rnmkDGbbROYCBkZuWvdQcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "被裁第47天，我用AI挖漏洞赚到了第一笔赏金",
+        "url": "https://mp.weixin.qq.com/s/DJIc5Y9iXA_FzOal7Y_e-g",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "WAF绕过：你的payload一提交就被拦？这10个冷门技巧让它畅通无阻",
+        "url": "https://mp.weixin.qq.com/s/0h5YHYXx1t78aQrQpGJy4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "惊心！歹毒！遭遇【VS编译时触发后门】保卫战",
+        "url": "https://mp.weixin.qq.com/s/8bIRkXGUkwFezeoWb6UZmQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "「AI Agent安全+提示注入+开源SDK」Superagent拆解：给大模型应用装安全护栏",
+        "url": "https://mp.weixin.qq.com/s/v9rom7uDgCPJlwZCKbUWaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "用友某产品最新版前台RCE",
+        "url": "https://mp.weixin.qq.com/s/XSB9-MZ-kNiUwU65era8BQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "新华三H3C网关-安全设备sslvpn_client.php存在远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/BEsdGTHPn7SDM1c1zSKxJQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "Google内部AI安全Agent发现并实证500+XSS漏洞",
+        "url": "https://mp.weixin.qq.com/s/IOC2sSlS3dce3Ne-U9GAAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "Fortinet FortiMail 0Day漏洞已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/pXkmblBE0cENUmCi9lM0oA",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "记一次提示词注入实战：从AI智能助手失控到企业数据泄露的渗透测试复盘",
+        "url": "https://mp.weixin.qq.com/s/CrdNmhWCl8WzwyfshlO7rQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "从 union 读到路径，到写进一句话：SQL 注入 getshell 这条链，到底卡在哪",
+        "url": "https://mp.weixin.qq.com/s/BFB-NuP8ld7cvwuN9Ry75g",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s/--ZAhQasZ5P93WtwqhhW5Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "HackMyVm靶场-Hommie靶场渗透实战",
+        "url": "https://mp.weixin.qq.com/s/CMQ-fY2m__RDkb9FkxyzOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
     }
 ]
