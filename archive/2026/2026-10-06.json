@@ -76,5 +76,29 @@
         "url": "https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg",
         "source": "Doonsec",
         "date_added": "2026-10-06"
+    },
+    {
+        "title": "] [【安全圈】Rejetto HFS曝9.3分严重漏洞：弱伪随机数致伪造Session，攻击者已发起在野RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "] [【安全圈】Citrix NetScaler曝在野0day漏洞：内存溢出瘫痪SAML认证，官方发布紧急更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=2&sn=d59ca16d10d3aae18e8132acfefda2bd",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "] [【安全圈】FortiMail曝9.8分零日漏洞遭在野利用：未认证任意写入文件，官方发布应急工单与IoC",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=3&sn=b498b139b0b5663aaf0c2f9128dc5504",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "震惊！百度开源这款安全扫描工具，精准定位十大Web漏洞，误报率极低！",
+        "url": "https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
     }
 ]
