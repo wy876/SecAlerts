@@ -1,0 +1,80 @@
+[
+    {
+        "title": "我渗透到一个黑客集团：一年半时间，35xa0万美元换xa07500xa0万美元冻结",
+        "url": "https://mp.weixin.qq.com/s/FJ-7GATBXIROQEmbojtIyw",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "Dell System Update 5个漏洞：最高严重度9.6，可被用于root权限代码执行",
+        "url": "https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "Adminer 5.4.2 三个0-day漏洞分析与修复建议",
+        "url": "https://mp.weixin.qq.com/s/AhltFvD-T53Is1fIMbNR5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "WebSocket协议漏洞02_IDOR越权与DoS拒绝服务实战",
+        "url": "https://mp.weixin.qq.com/s/Lkz7_t09Cj0YoHT5spSPWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "代码能跑就敢上线？这款大厂开源AI审计工具，帮你堵死90%隐形漏洞",
+        "url": "https://mp.weixin.qq.com/s/ArSNz3FYoCYZJJ-uRXMpug",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "账户删除绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Yrup0FLt0F2h7HxUMR0lHQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC）",
+        "url": "https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "N/A | ShowDoc未授权PHP代码注入漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "EasyCVR视频管理平台adduser未授权添加用户漏洞",
+        "url": "https://mp.weixin.qq.com/s/EGPS-PwNvYlXjfnjAL-5oQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "(9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE",
+        "url": "https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "Java安全—EL 表达式注入",
+        "url": "https://mp.weixin.qq.com/s/Qm5yMaZVICpowh3IUtp3aA",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "思科 SD-WAN 严重漏洞允许远程攻击者绕过管理员身份验证",
+        "url": "https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    },
+    {
+        "title": "从漏洞治理到网络韧性，数字化环境下网络安全治理模式的转型",
+        "url": "https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg",
+        "source": "Doonsec",
+        "date_added": "2026-10-06"
+    }
+]
