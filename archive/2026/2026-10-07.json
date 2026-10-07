@@ -106,5 +106,113 @@
         "url": "https://mp.weixin.qq.com/s/pqwan71LXdS0AQ1RpzwzOA",
         "source": "Doonsec",
         "date_added": "2026-10-07"
+    },
+    {
+        "title": "] [美国智库发布《AGI时刻》报告，探讨通用人工智能未来发展",
+        "url": "https://mp.weixin.qq.com/s/npG-qVdlVudTae8dxsS6ug",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "] [【安全圈】AI垃圾报告泛滥成灾：Google暂停开源软件漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=1&sn=52180588cf70081c190b9c058dbe9d05",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "] [【安全圈】Atlassian曝9.3分严重漏洞：未授权遍历直读8款企业核心系统文件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=3&sn=47f789aeec583972796579ec1b4b8172",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "] [自主漏洞发现与利用生成",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497246&idx=1&sn=c4c0d6bb4764198995a717bbf5bc1cef",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "东方通TongWeb upload接口存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/8du9cZ_vTClnS3WgO6juHQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "AI中转站0元购,  sub2API 最新支付漏洞深度分析(含POC)",
+        "url": "https://mp.weixin.qq.com/s/lIzLHolGQyM8QVt-P2Dg1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "权限维持 之 拿到服务器之后怎么留后门",
+        "url": "https://mp.weixin.qq.com/s/lJZkUeqPVlW2bhx81XkrdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "紧急预警！马来西亚新型跨境诈骗入侵国内！专骗中老年人，全程远程控机",
+        "url": "https://mp.weixin.qq.com/s/hWGUxS11j29hnPQe-dYbbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "Dell System Update 工具曝严重漏洞，攻击者可借此以 root 身份执行代码",
+        "url": "https://mp.weixin.qq.com/s/xbuh4jaNx51Ud2BM2Lfgdw",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "OpenSSH 存在多处漏洞，可导致明文恢复、文件写入与注入攻击",
+        "url": "https://mp.weixin.qq.com/s/J4r4ehGCmb-GlYAKvsdeCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "攻防演练-渗透测试云上初体验",
+        "url": "https://mp.weixin.qq.com/s/VoVpZ4HvzO-ae4I0zg6NFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术",
+        "url": "https://mp.weixin.qq.com/s/IsTaal0y9x50hyd3FUVkvA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s/CMBpw1Wuu-shUj0YjQpQVg",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "惊心！歹毒！遭遇【VS编译时触发后门】保卫战（二）",
+        "url": "https://mp.weixin.qq.com/s/nzhsJkDiRz8pgxv6xizRBA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "AI安全（1）——提示词注入",
+        "url": "https://mp.weixin.qq.com/s/5oJ7gxsPhDUjZEpidrbJtQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "重磅！谷歌紧急暂停开源漏洞赏金",
+        "url": "https://mp.weixin.qq.com/s/KvCYgEwwEDJe-6CVS-6BAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "前端代码资产采集、网站嗅探、备案查询、指纹扫描、泄露扫描、漏洞审计、浏览器辅助与 浏览器扩展工具 ——玄镜 AegisScope",
+        "url": "https://mp.weixin.qq.com/s/8_EviLz3LO3L7lV2PMC4AA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "HackMyVm靶场-Alzheimer靶场渗透实战",
+        "url": "https://mp.weixin.qq.com/s/juCaAOxws-NyruvmIRqn3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
     }
 ]
