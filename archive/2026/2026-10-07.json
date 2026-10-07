@@ -1,0 +1,44 @@
+[
+    {
+        "title": "CVE-2026-85706：GitLab 未授权任意本地文件读取漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/07xwcmrNPFRqd3zKY1YGnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "2,900+Star的 AI 渗透框架，打完还替你改代码",
+        "url": "https://mp.weixin.qq.com/s/eBx6M6Lw8t2hi-FCqT44uQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "libheif 严重漏洞可能允许攻击者通过 WordPress 图片上传远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/d2BIzxlt2_mLU9i17gJkhw",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "AWS IAM 架构体系与攻防漏洞深度剖析",
+        "url": "https://mp.weixin.qq.com/s/hxz4Pme-N8aZD1CdX-i0HA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "Acer System Monitor提权（CVE-2026-50610）：从标准用户到SYSTEM，厂商控制中心软件成攻击入口",
+        "url": "https://mp.weixin.qq.com/s/UwlH9iERZ0qDj0KKSRe5NQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "Sub2api 存在支付回调计费漏洞 (中转站长注意)",
+        "url": "https://mp.weixin.qq.com/s/_OwOY4GAxTtR8x3zL5tPeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "大厂安全老哥卖“AI渗透Skill技能包”，赚8万，自己却进局子了",
+        "url": "https://mp.weixin.qq.com/s/lJ_1hkPss5bfnp9h8bbDew",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    }
+]
