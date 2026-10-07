@@ -40,5 +40,71 @@
         "url": "https://mp.weixin.qq.com/s/lJ_1hkPss5bfnp9h8bbDew",
         "source": "Doonsec",
         "date_added": "2026-10-07"
+    },
+    {
+        "title": "PHP DedeCmsv5.6 Parse_str 隐式URL解码与变量覆盖 引发的SQL注入",
+        "url": "https://mp.weixin.qq.com/s/7pYIMliZoqlveZG72uhSHw",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "漏洞预警|知名项目管理软件Atlassian Jira曝 CVE-2026-21589 未授权任意文件读取漏洞，CVSS:9.3 大家抓紧修复",
+        "url": "https://mp.weixin.qq.com/s/yZQGMefXb8Q6aMQbHRP-ww",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "一张残缺的中国版图，撕开美媒机构在华隐秘渗透网",
+        "url": "https://mp.weixin.qq.com/s/Cn19VfXrKp5gZW2QqP7leQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "史诗级安全军火库！百度OpenRASP漏洞测试用例库让Web安全检测能力产生质的飞跃",
+        "url": "https://mp.weixin.qq.com/s/4b66YO67FskYK6BGKbzwFA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "用友U8 crm客户关系管理swfupload.php存在任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/WM5iAuPnh086SLEKzNsz9w",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "MySQL最新漏洞 mysqldump 客户端栈溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s/Fr-YDlLIfd3nokcNo5OUuw",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "LPAR2RRD 升级功能 RCE 漏洞：只读用户绕过权限实现命令执行",
+        "url": "https://mp.weixin.qq.com/s/ACk3bSPVJSC7Xs568k4YlA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "银狐的兵工厂不是木马而是驱动：13个合法签名漏洞驱动轮番上阵，查到ValleyRAT也别急着归因",
+        "url": "https://mp.weixin.qq.com/s/fRsIvRawMMPJpeB04QH7Ew",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "(9.8分) CVE-2026-104070：SPIP插件未授权RCE",
+        "url": "https://mp.weixin.qq.com/s/nYGJFuXbVUmkyDVcMngzuQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "如何通过AI高效复现传统漏洞？",
+        "url": "https://mp.weixin.qq.com/s/UZuKKCKTNO_grcY0e_BbQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
+    },
+    {
+        "title": "CVE-2026-14378  DevKit Pro 未认证管理员接管",
+        "url": "https://mp.weixin.qq.com/s/pqwan71LXdS0AQ1RpzwzOA",
+        "source": "Doonsec",
+        "date_added": "2026-10-07"
     }
 ]
