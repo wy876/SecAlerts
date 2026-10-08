@@ -496,5 +496,23 @@
         "url": "https://mrxn.net/jswz/U8-EIS-U8DuDuService-sql2rce.html",
         "source": "MRXN",
         "date_added": "2026-10-08"
+    },
+    {
+        "title": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
+        "url": "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【高危漏洞预警】Atlassianxa0Dataxa0Center未认证任意文件读取漏洞CVE-2026-21589",
+        "url": "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "CRMEB-image_base64-任意文件读取+SSRF",
+        "url": "https://mp.weixin.qq.com/s/GhXsrUHWc_O3sPVsz7dQWg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
     }
 ]
