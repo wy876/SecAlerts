@@ -22,5 +22,173 @@
         "url": "https://mp.weixin.qq.com/s/MqZYRT-OkXrJTJpMuCKPbA",
         "source": "Doonsec",
         "date_added": "2026-10-08"
+    },
+    {
+        "title": "「AI中转站安全+提示注入检测」API Relay Audit拆解：本地14步审计你的LLM代理",
+        "url": "https://mp.weixin.qq.com/s/c5z1UMQflXGUhRiIP2OatQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "红队Agent代码审计神器分享",
+        "url": "https://mp.weixin.qq.com/s/ZdEQrJ89iz1tJ8ajHqDKNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【高危通告】Fastjson 远程代码执行漏洞 CVE-2026-16723 安全通告",
+        "url": "https://mp.weixin.qq.com/s/F7BPj_KDVKR8NpiE_rvf4g",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "Citrix网关把日志内容当命令执行，不登录就能拿到root",
+        "url": "https://mp.weixin.qq.com/s/oj3TqjJ80LrbgtrvOfJ_lg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "一个漏洞从发现到修复，中间到底经历了什么？",
+        "url": "https://mp.weixin.qq.com/s/9-cNp0hZOC_Vd0BPhKYiFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【已复现】Atlassian 多款产品任意文件读取漏洞(CVE-2026-21589)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/k6CQ0QU2r7YYTZJKPZ2WwA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "CVE-2026-21589 Atlassian Jira 未认证文件读取：双冒号如何越过插件资源边界",
+        "url": "https://mp.weixin.qq.com/s/_2LrI-B2W39FSMPPlFXKmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "edu黑龙江xx学院-存储型xss漏洞小思路",
+        "url": "https://mp.weixin.qq.com/s/m_0XWM0pGHyckKwq1rHs9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/SfsrdiCoF6Idaa78vYuwjw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【勒索预警】国庆期间15家国内企业被同一勒索家族集中上架，疑似针对上市公司",
+        "url": "https://mp.weixin.qq.com/s/fQ1wl_sczoX2VfeOwjEqrA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "漏洞预警:知名安全设备厂家SonicWall SMA 1000 曝预认证服务器端请求伪造（SSRF）漏洞CVE-2026-102255，CVSS :10.0",
+        "url": "https://mp.weixin.qq.com/s/ePId1A5GAmIlpU6TLtKPmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "GitHub 上 AI 渗透的 agent、工具、skills，我扒了一遍，开源地址全在这",
+        "url": "https://mp.weixin.qq.com/s/zld-0R__ezg5O7T9RbnjaA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "Atlassian 8款Data Center产品曝CVSS 9.3严重漏洞(CVE-2026-21589)，未认证可读取敏感文件并可能获取Jira管理员权限",
+        "url": "https://mp.weixin.qq.com/s/i488KtLJFAaXbtptM3lNuw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【已复现】Atlassian 多款产品无需认证文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/m_rdhgD7_rQ2-GeGEBV2cw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "109页红队渗透测试指南！",
+        "url": "https://mp.weixin.qq.com/s/JJDs7IS8tQDTkDJ92ckewg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "尽快修复！Atlassian Jira 未认证任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/M1-UKVftIwTeiIgl_YrmjA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "工具分享 | 一款图形化 JWT 漏洞利用工具",
+        "url": "https://mp.weixin.qq.com/s/8pnPpLDJ6Qbfi-hD7Uao_g",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "汉王e脸通综合管理平台queryAntisubmarineList接口存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/98FnvwbKmGSiKfgCzemgeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "邮箱修改先分配后校验导致的账号接管漏洞",
+        "url": "https://mp.weixin.qq.com/s/_hDywfOohIErsCVCWFXtpA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "一条 HTTP 请求就能 RCE，你部署的 PDF 转换服务可能正在裸奔",
+        "url": "https://mp.weixin.qq.com/s/eQx94zkD1obHLkh6uGMEAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "AI发现大量SSH漏洞：OpenSSH 10.6批量修复5个CVE",
+        "url": "https://mp.weixin.qq.com/s/r1vD4-RVMhkspITQofyRzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "Session Puzzling 攻击：会话变量滥用与认证绕过",
+        "url": "https://mp.weixin.qq.com/s/mD8bhmfpqTyTmBO_o6ej9A",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【已复现】CVE-2026-21589 Atlassian Jira 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/0m_j34CgSB6xADeMYNhHMA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "【已复现】CVE-2026-102489 Zammad 会话劫持到远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/lS5byHWZUHl2T6lptHEJWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "(9.1分) CVE-2026-20328：Cisco SSM On-Prem密码重置漏洞可接管管理员账户",
+        "url": "https://mp.weixin.qq.com/s/5yiRhXX09x_inxSv58DSOg",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "渗透测试新人最大的瓶颈，只会测“浅”的，不会往深了挖",
+        "url": "https://mp.weixin.qq.com/s/s_9mW3-gSOTJCGA3B77bvw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "一个 AI 驱动的安全研究工作台，面向 CTF、渗透测试、红队行动、逆向分析、Pwn、IoT/车联网研究和恶意样本分析",
+        "url": "https://mp.weixin.qq.com/s/glkka6TPQak1K2HM39TAUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "谷歌AI挖出500个漏洞 我干了8年渗透测试反而更值钱了",
+        "url": "https://mp.weixin.qq.com/s/_Cy6D5bPPhDcAKWhR31qcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
     }
 ]
