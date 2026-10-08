@@ -1,0 +1,26 @@
+[
+    {
+        "title": "从边缘入口到内网rce",
+        "url": "https://mp.weixin.qq.com/s/Tfd7KpNbjit6VjFnTJa7pw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "XSS 不只能弹个框：这款开源「毒素」让恶意脚本在浏览器里安家落户",
+        "url": "https://mp.weixin.qq.com/s/V0a6rS2qPuZseSko6Mdlqw",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "0day漏洞-mysql-mysqldump-show-tables-overflow",
+        "url": "https://mp.weixin.qq.com/s/j-vGPZ0JEpOug9PWxEyn-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    },
+    {
+        "title": "Kali GPT - 人工智能渗透测试助手Linux部署",
+        "url": "https://mp.weixin.qq.com/s/MqZYRT-OkXrJTJpMuCKPbA",
+        "source": "Doonsec",
+        "date_added": "2026-10-08"
+    }
+]
