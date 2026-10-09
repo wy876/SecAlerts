@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Pwn2Own 32个零日漏洞被披露，奖金突破38万美元",
+        "url": "https://mp.weixin.qq.com/s/uN_F-UB0In1w5S0tA8rGVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【今日说法】开发渗透/逆向工具是否违法？ 从 ARTEX 事件看「工具无罪」的边界",
+        "url": "https://mp.weixin.qq.com/s/PeJd1nLSiEDHk5tQ4xmxWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Mass Assignment 批量赋值漏洞：把普通用户悄悄升成管理员",
+        "url": "https://mp.weixin.qq.com/s/FW5X-aL-m_naKJMreFrUZg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "WebSocket 协议漏洞 Part-3：明文通信、XSS 与服务端注入",
+        "url": "https://mp.weixin.qq.com/s/nN728_XHVFbKbv-EkXE0pQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Linux内核本地提权四重奏曝光：四个致命漏洞与公开PoC",
+        "url": "https://mp.weixin.qq.com/s/lSgklHZI647ZIiqVrU3QGA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【已复现】CVE-2026-104286 FortiMail 未授权任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/4T5XYmyNE6R6H8d62F_MdA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【分析报告】美国防供应链网络安全管控与风险缓释体系综述",
+        "url": "https://mp.weixin.qq.com/s/Gg6CTPok-vu-84D1Alw88w",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "(7.5分) CVE-2023-22894：Strapi敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s/0-15fu9IpDKinvO3Tv02XA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【热点安全风险】10月9日｜Cisco Catalyst SD-WAN Manager 认证绕过遭在野利用  ，攻击者可取得管理员权限（CVE-2026-76504）",
+        "url": "https://mp.weixin.qq.com/s/7B2mTubNYV6v7BuPiaPNYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "俄罗斯勒索组织招募“特工”渗透美国律所，目标直指核潜艇",
+        "url": "https://mp.weixin.qq.com/s/7j4Ai4Oz5qLVXYAKv00efw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "安全工具丨一款面向 CTF 竞赛、授权靶场和教学演示场景的多层内网渗透辅助工具",
+        "url": "https://mp.weixin.qq.com/s/LkS5C9MQO7aGX8487OnwIw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "用友U8+ U8Application U8LoginServices 硬编码后门账号及未授权SA口令泄露漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8Application-U8LoginServices-default-passwd.html",
+        "source": "MRXN",
+        "date_added": "2026-10-09"
+    }
+]
