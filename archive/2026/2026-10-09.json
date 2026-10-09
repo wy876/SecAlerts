@@ -226,5 +226,287 @@
         "url": "https://mrxn.net/jswz/U8-U8Application-U8CCLoginService-data-leak.html",
         "source": "MRXN",
         "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [尽快修复！Atlassian Jira 未认证任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508973&idx=1&sn=89b2312af42bdfe2d6578af8af2271cc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [SonicWall：注意SMA1000网关中的满分 SSRF 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527276&idx=1&sn=7776586a7fd71f15af5a7d30a2d0dc00",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [Atlassian：注意 Jira 和 Confluence 中严重的文件访问漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527276&idx=2&sn=fffe54f34617a105bf69ca8b2af8606b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [【已复现】Atlassian 多款产品任意文件读取漏洞(CVE-2026-21589)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507726&idx=1&sn=36c4d678942c850f237ddc8c51a7af7a",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [【安全圈】SonicWall曝10分满分漏洞：无需凭据直穿内网核心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079285&idx=1&sn=40d7e7b43c34047213b376da287167d1",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [【安全圈】大模型缓存LMCache曝严重0day：无补丁直接RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079285&idx=2&sn=5e9f5b16350c4daf6a1e4984eaf8184b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [CVSS 9.8！思科核心交换机NGOAM漏洞，远程无登录即可拿下最高权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622529&idx=2&sn=24a705329f5a1419abeaf7512db4cf55",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [CISA停更漏洞周报背后：漏洞管理从“看CVSS分数”转向“看真实风险”，一线团队如何落地？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142883&idx=1&sn=061739b962dd3fa9785fe886e3287086",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [AI垃圾漏洞报告泛滥，Google暂停部分开源漏洞赏金产品漏洞提报；美国组建超级智能工作组：聚焦技术融合下AI与量子领域网络安全挑战| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142883&idx=2&sn=89d35798fb0fa6c659733d55db2fb7e1",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [攻击者在钓鱼邮件中隐藏 AI 提示注入",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505327&idx=1&sn=33fc480767000e7b03fabffc85185263",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [CNNVD | 关于《网络安全漏洞管理体系与标准化研究》研究课题征集意见和参与单位的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267602&idx=1&sn=7dee91ac9c429ee81cf6c3c78b5feb54",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [【漏洞通告】Atlassia多产品未授权任意文件读取漏洞(CVE-2026-21589)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526171&idx=1&sn=41e6f88eac9c73e445a321bf6f0647af",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "] [【漏洞通告】Citrix Netscaler ADC/Gateway预认证内存溢出漏洞(CVE-2026-88772)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526171&idx=2&sn=6333a55661a44b7f07e18c784ae3c23c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "我把一个目标丢给 AI 找洞，它给了我一个 RCE——也给了 27 个幻觉",
+        "url": "https://mp.weixin.qq.com/s/wU0irboXUX6n_rPzmZmCQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Atlassian Jira存在任意文件读取漏洞CVE-2026-21589 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/ODQTs3jjeam9FpT1OetQPQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "自主横向移动与权限提升",
+        "url": "https://mp.weixin.qq.com/s/qxSo2uo8INuk6Hd8yMZbzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "「AI Agent安全」IronClaw拆解：WASM沙箱+凭证注入怎么防密钥泄露",
+        "url": "https://mp.weixin.qq.com/s/okUKUN6mLHpiqCTJLm1aEw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "渗透测试环境配置2026：从裸机到AI增强攻击平台，一次讲清不踩坑",
+        "url": "https://mp.weixin.qq.com/s/g1_GAK8gCKIaO6nQ84sLAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "复现Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
+        "url": "https://mp.weixin.qq.com/s/uKR16uxOoiT57MX9iApCNQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "一个分号接管账号：Telegram Desktop 的 IPC 注入链",
+        "url": "https://mp.weixin.qq.com/s/nk6UZGJlYtYSErFpd-HpMQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Telegram桌面版：点一个链接被盗号，IPC注入链窃取本地会话",
+        "url": "https://mp.weixin.qq.com/s/6lq0HuC1M_-x4fOBFBB-iw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "SQLi-Labs 靶场实战：65 关 SQL 注入原理与通关完全指南",
+        "url": "https://mp.weixin.qq.com/s/YNSL22CfnARYYYF5fO4wNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "AI 重构软件供应链安全：既是“矛”，也是“盾”",
+        "url": "https://mp.weixin.qq.com/s/FTgGOxNeE6bdBv2Jrtr2rQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Telegram Desktop：一次点击就能接管账号的 IPC 注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/NRfIHxGCMEq3kovBTuD3Zg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【已复现】Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
+        "url": "https://mp.weixin.qq.com/s/ORwMTwxGUB0LfvRBHYWcFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "VMware VMXNET3 严重漏洞，可导致客户机至宿主机代码执行",
+        "url": "https://mp.weixin.qq.com/s/sLexTQsemg2GKAeh0vPoVg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "WordPress 严重漏洞可引发跨站脚本 (XSS)、SQL 注入及信息泄露攻击",
+        "url": "https://mp.weixin.qq.com/s/KpHhj-nWbkxPzVWGvwCQRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "GhostAction供应链攻击卷土重来，恶意GitHub Actions窃取CI/CD凭证",
+        "url": "https://mp.weixin.qq.com/s/qoQABtYcUoBU-2Xm9gIBUQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击",
+        "url": "https://mp.weixin.qq.com/s/6J_rVYgQC6-CZYd_ANbHRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "攻击者利用Web3与区块链C2隐藏供应链攻击，瞄准云凭证",
+        "url": "https://mp.weixin.qq.com/s/MvjF4zZ26VB630qnRpSapg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "CNCERT | 关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s/caDIyr1uh_Qk_qPf4iFiIg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【成功复现】Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
+        "url": "https://mp.weixin.qq.com/s/F46L82oqteu5cPBV67z7Tw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【免费领】Kali Linux无线渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s/pbdlK1t_yUAirW3B6HdyMA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "[工具推荐]一款面向 Windows 平台的集成式渗透测试工具箱-Forgex",
+        "url": "https://mp.weixin.qq.com/s/jzQ6vFcRb2EmdxXYo1jExg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【复现】Atlassian 多产品未授权任意文件读取漏洞（CVE-2026-21589）",
+        "url": "https://mp.weixin.qq.com/s/fm8uUcfn9ZagyUQ3OCKMDA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "惊心！歹毒！遭遇【VS编译时触发后门】保卫战（五）：大结局",
+        "url": "https://mp.weixin.qq.com/s/rGIrDtk1EX3iQsF26WAGfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "双冒号打穿Atlassian全家桶：预认证任意文件读取9.3分(CVE-2026-21589附PoC)",
+        "url": "https://mp.weixin.qq.com/s/_oVtbSSG8g_y3UEljSFFfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "三年三次满分洞没人修：TOTOLINK 路由固件上传打穿 root（CVE-2026-105484·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/e-rh_L1hGmiJS0PNsD51mQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "刚升完级又被打崩：NetScaler SAML 内存溢出零日，专打已修补设备（CVE-2026-88779）",
+        "url": "https://mp.weixin.qq.com/s/mgm2VSZzSmsK8FegWyi5Dg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "AI代理几秒打穿DIVD：Zammad双CVE从会话固定直通root(CVE-2026-102489·附PoC)",
+        "url": "https://mp.weixin.qq.com/s/FjbKJVfWf2cxiugiYGS-iw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "信息安全漏洞月报（2026年09月）",
+        "url": "https://mp.weixin.qq.com/s/5MDtwj3zfdtDrT2CvDYT7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "CNCERT预警：内置后门功能的恶意软件“荐片播放器”存在大规模传播风险",
+        "url": "https://mp.weixin.qq.com/s/5vwGdF-DG7Ec-UNAUO9WWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Web文件类漏洞挖掘思路｜各种通杀、读取、上传、越权、注入全攻、伪协议读取绕过技巧汇总",
+        "url": "https://mp.weixin.qq.com/s/FuzHsp0MY0D9HG5gej5AeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s/SHd9mN6tBqVAmEribIfOug",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "信息安全漏洞周报【第094期】",
+        "url": "https://mp.weixin.qq.com/s/LA6sf5P8wjnX39niETicrQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Telegram 桌面版曝 8.1 分高危漏洞：一条 tg:// 链接，账号就可能被接管",
+        "url": "https://mp.weixin.qq.com/s/K2cf16rKOvF4nowVEocPyw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "被安全圈疯传的多智能体渗透框架：Docker隔离+AI自主决策，企业级红队实战",
+        "url": "https://mp.weixin.qq.com/s/PmThf9xqsx5DXloXtq5ZcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
     }
 ]
