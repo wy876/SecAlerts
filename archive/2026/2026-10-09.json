@@ -70,5 +70,161 @@
         "url": "https://mrxn.net/jswz/U8-U8Application-U8LoginServices-default-passwd.html",
         "source": "MRXN",
         "date_added": "2026-10-09"
+    },
+    {
+        "title": "思科：注意可导致 Nexus 交换机遭接管的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/GuUNxX_y69sPYe78iane8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Citrix：这个严重的 NetScaler SAML 漏洞可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s/445-QUAsBRk8463hjJsKpw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "中国某网络与通信设备厂商的未授权访问权限售卖事件分析",
+        "url": "https://mp.weixin.qq.com/s/4IT2oueXsqSzafN4Ivd6fQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "从100块到2000块：一个普通人在SRC挖漏洞赚赏金的真实记录",
+        "url": "https://mp.weixin.qq.com/s/SWZhor5-NyYSOOoKtMFNgQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "报名进行时｜首届全球具身智能应用创新挑战赛·漏洞挖掘挑战赛诚邀参赛",
+        "url": "https://mp.weixin.qq.com/s/lwlbIGNmEEM3puRcXsndzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "漏洞预警:NVIDIA DCGM Exporter (CVE-2026-47483) 导致资源消耗Dos和信息泄露漏洞，CVSS:8.2",
+        "url": "https://mp.weixin.qq.com/s/YXiS6yoXUV-MRePHGHc71A",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "下一代 AI 嵌入式渗透测试工具包",
+        "url": "https://mp.weixin.qq.com/s/hJvBlmXlRjWBXbGSGUqmxA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "「关键漏洞目录」新增「ISC BIND拒绝服务漏洞(CVE-2015-5477)」等6个漏洞",
+        "url": "https://mp.weixin.qq.com/s/HJ7DCKv9U-KTzZMmFFDU4Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【安全资讯】Pwn2Own Ireland 2026 落幕：漏洞碰撞频发",
+        "url": "https://mp.weixin.qq.com/s/5NfcQt1ci6SBB984Cqxg-w",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【原创发现】Handlebars.js validateAstNode 原型链绕过远程代码执行漏洞(CVE-2026-106446)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/-_SdemIxnelxKEmzfW4Mtw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "CVE-2026-104286｜FortiMail 未认证路径穿越漏洞，已在野利用！CVSS 9.8",
+        "url": "https://mp.weixin.qq.com/s/hAMjapI3MhVBU1H6Pz8soA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "惊心！歹毒！遭遇【VS编译时触发后门】保卫战（四）---窃取虚拟货币后门分析",
+        "url": "https://mp.weixin.qq.com/s/UFG2X4xNpq7OlsH7j0H7Yw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "CVE-2026-73570：Zimbra 未授权命令注入漏洞分析—SMTP 日志投毒实现 RCE",
+        "url": "https://mp.weixin.qq.com/s/-trc-6IGFbK_jA4UMxoLkw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "博硕BGM RESTFulServiceForWeb.asmx 敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/kI4gUK_PA0f5-87nW4O39A",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "【安全速报】10月9日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/6-niVXasU69j-ty5nSL-Kw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "赛博安全狗：微软合作伙伴中心存在权限提升漏洞 (10.09)",
+        "url": "https://mp.weixin.qq.com/s/gsjO62i9hB6cyjBt949pAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "泛微ecology9-doc-sql注入",
+        "url": "https://mp.weixin.qq.com/s/V0zodWIB9JaldViF-14Kzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Zero Salarium：绕开 WriteProcessMemory 的远程进程注入新思路",
+        "url": "https://mp.weixin.qq.com/s/WhBZzm-MyI3yTMCMEZK5NA",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "IBM 修补 23 个 DataPower Gateway 漏洞，其中包括四个严重的远程代码执行和 XSS 漏洞",
+        "url": "https://mp.weixin.qq.com/s/6LgpAnlBD-dJO3ulzj3K2w",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "一行注释骗过25年模板引擎：Smarty缓存投毒RCE深度复现（CVE-2026-82531，附PoC）",
+        "url": "https://mp.weixin.qq.com/s/9qtRJR0cXAeJKnqGkdXfLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "Java安全—SpEL 表达式注入",
+        "url": "https://mp.weixin.qq.com/s/6LntXheErhj4-CbN4kZQqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "九月APP渗透测试 Wp",
+        "url": "https://mp.weixin.qq.com/s/7nK7jfbaW7GN5RJ2bS20aQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "韩国五大行遭攻击，ARTEX工具天下知：AI Agent渗透测试被用于实战",
+        "url": "https://mp.weixin.qq.com/s/PlU4v3PeXsLzQsT8dP3z8Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "用友U8+ U8remote GNRemote 未授权导出调用账户接管与SQLite注入漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8remote-GNRemote-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "用友U8+ U8AuditWebSite EmailService SQL注入及BinaryFormatter反序列化RCE漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-EmailService-sqli-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-09"
+    },
+    {
+        "title": "用友U8+ U8Application U8CCLoginService等未授权凭据读写与信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8Application-U8CCLoginService-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-10-09"
     }
 ]
