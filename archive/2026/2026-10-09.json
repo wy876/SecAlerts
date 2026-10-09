@@ -508,5 +508,11 @@
         "url": "https://mp.weixin.qq.com/s/PmThf9xqsx5DXloXtq5ZcQ",
         "source": "Doonsec",
         "date_added": "2026-10-09"
+    },
+    {
+        "title": "LibreOffice Calc曝(CVE-2026-63277)，恶意电子表格可绕过宏提示触发Java代码执行",
+        "url": "https://mp.weixin.qq.com/s/-ayQDomcbhlISg89MAmCfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-09"
     }
 ]
