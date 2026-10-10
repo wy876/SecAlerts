@@ -436,5 +436,47 @@
         "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-MAService-ssrf-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-10"
+    },
+    {
+        "title": "nginx-ui曝高危远程代码执行漏洞(CVE-2026-107806)，管理员认证后可执行任意命令",
+        "url": "https://mp.weixin.qq.com/s/9MBD7ISCeoD5ACDTpphoJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "WorkBuddy 挂机开启自动挖漏洞，日入几千成本就一个电费",
+        "url": "https://mp.weixin.qq.com/s/KMeV1o6pKw5Uw8rGsmCplg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Linux KVM/arm64 漏洞允许攻击者逃离虚拟机并获得主机访问权限",
+        "url": "https://mp.weixin.qq.com/s/3xZ0f-1cLSQfarNIFYnI0w",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "登录页是门面，接口才是门：百万条人员信息泄露复盘",
+        "url": "https://mp.weixin.qq.com/s/u4WyVoEIOLAYl_7xK7Wppg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "OnlyOffice 前台 RCE 代码分析：五年没修干净的路径穿越，撞上 v9 的热重载",
+        "url": "https://mp.weixin.qq.com/s/_I4nOHa1HC1B2n6-GHxhlw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "改个数字就能删别人数据？聊聊\\\"水平越权\\\"漏洞",
+        "url": "https://mp.weixin.qq.com/s/CevIhXbSBpzmu2HGFr84kQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "漏洞复现 | 金和OA nextselectplan.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/z_a1HA1EI3HtgF-dyd5U0A",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
     }
 ]
