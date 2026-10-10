@@ -1,0 +1,32 @@
+[
+    {
+        "title": "记一次漏洞挖掘过程：详细复盘如何通过分析前端代码，发现并利用一个任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/2I2lyilO9SIw62KgAza6zw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AI 驱动的自动化代码审计与漏洞挖掘平台，支持多 Agent 协作扫描、数据流分析、漏洞管理和可视化审计",
+        "url": "https://mp.weixin.qq.com/s/fTMfB1558MOwmNIz_KN7kw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "为什么你扫出来的漏洞，开发总说“修不了”？",
+        "url": "https://mp.weixin.qq.com/s/hycjvT6zp46z949PcxV_cg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "从听话到破坏_AI加持下的具身智能漏洞挖掘新范式",
+        "url": "https://mp.weixin.qq.com/s/2TQL_K5GJdu0hokfGmZXgg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "用友U8+ U8BM FBWeb 未授权数据库连接串注入漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8BM-FBWeb-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-10"
+    }
+]
