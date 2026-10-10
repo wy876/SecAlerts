@@ -184,5 +184,257 @@
         "url": "https://mrxn.net/jswz/U8-u8webapi-sqli-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [思科：注意可导致 Nexus 交换机遭接管的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527286&idx=1&sn=eb70fbb49754e65564698f039b45ba32",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [Citrix：这个严重的 NetScaler SAML 漏洞可导致 RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527286&idx=2&sn=3083d12c9537dcc1cdaf2f329457dc89",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [木马的密文里，出现了我的窗口标题：从主机取证、内存逆向到 C2 协议与渗透尝试复盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622556&idx=2&sn=68832ce3c7706910df179d94bf37c9cf",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [Citrix NetScaler 曝出 9.5 分严重漏洞，SAML 部署存在远程代码执行风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622556&idx=3&sn=d715f94df4938cd71e83eae4192c5579",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [CNCERT | 关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267640&idx=3&sn=69132c861a5d1d4b715ae445bf894a0b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [【原创发现】Handlebars.js validateAstNode 原型链绕过远程代码执行漏洞(CVE-2026-106446)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507735&idx=1&sn=e787ab40315e5de9c1896b2c728791e9",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [自主横向移动与权限提升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497271&idx=1&sn=1dabba72358e6ed1b77c9a666d1bcbb4",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "] [记录生生不息的创新力量｜2026 年度「InnoForce 50」启动",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114608&idx=1&sn=1edca8d8cba1dd9bd597c7eb43f923fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【高危漏洞预警】Citrix NetScaler SAML内存溢出漏洞CVE-2026-88779",
+        "url": "https://mp.weixin.qq.com/s/E7v6_mybZDFSvRJmrLQ9JQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【安全圈】AnyDesk Linux版预认证远程代码执行漏洞PoC公开：未授权夺取Root",
+        "url": "https://mp.weixin.qq.com/s/E3dpwB2jn8iSLwq7DLGnEA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "斗象获评首批“国家人工智能安全漏洞库优秀技术支撑单位”",
+        "url": "https://mp.weixin.qq.com/s/ufOKVgxSR0kkwPWw1zYJUg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "CNCERT：关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s/Xa--ObpWrAxi5nNq2uO1dQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "DVWA 靶场实战：四级安全等级下的 Web 漏洞与防御演进",
+        "url": "https://mp.weixin.qq.com/s/Kz-OdYfRI-cCVeGwRRYhpQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "VulnHunter：从发现漏洞候选，到验证真实风险",
+        "url": "https://mp.weixin.qq.com/s/HrBtuk2TONqKZxw9xjpZfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "当AI智能体开始\\\"越狱\\\"：OpenAI失准报告披露提示注入蠕虫、凭证窃取与DNS隧道逃逸",
+        "url": "https://mp.weixin.qq.com/s/j2iRJHVahxg8B7qaAtmfZQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御",
+        "url": "https://mp.weixin.qq.com/s/qOmVijsjn7kLqyZg2kAGdg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "开源供应链攻击GhostAction持续肆虐，数万GitHub仓库植入恶意Actions窃取密钥",
+        "url": "https://mp.weixin.qq.com/s/9lCASxyJN6yJvR9kjSHvNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "关于 AI 辅助安全测试与漏洞报告提交规范的公告",
+        "url": "https://mp.weixin.qq.com/s/N0sVLzFJv82P5TdDT0UF1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "VulnHunter：从发现漏洞候选，到验证真实风险",
+        "url": "https://mp.weixin.qq.com/s/lSfP8tt4s_v3B52zDEbXDg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "爱奇艺安全应急响应中心漏洞处理流程与评分标准(2026)",
+        "url": "https://mp.weixin.qq.com/s/p5lre146_K8xEkPABRcOdw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "学了那么多安全工具，为什么还是不敢做渗透测试？",
+        "url": "https://mp.weixin.qq.com/s/N5es-unI6bFpzOeNzI_JXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "黑客利用AI智能代理与GodPotato提权工具获取Windows系统最高权限",
+        "url": "https://mp.weixin.qq.com/s/Xaq6fsKfF2TwZHPuBAKDcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【漏洞通告】OnlyOffice Server前台RCE漏洞细节披露分析~【附自查脚本】",
+        "url": "https://mp.weixin.qq.com/s/pexR4AkXoqmQpLTbVLQ2OA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell",
+        "url": "https://mp.weixin.qq.com/s/--MrTDdwg8Gvzj5JvDOTrw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AI挖洞实战｜Hermes+Skill技能库，从零复现「优惠券越权领取」高危业务漏洞",
+        "url": "https://mp.weixin.qq.com/s/CY4vmOi47-TeBsIWclJNYg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261010）",
+        "url": "https://mp.weixin.qq.com/s/PJzEm9chrJcpPnRlBxpZUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【珍藏版】渗透测试手册，简直太赞了！",
+        "url": "https://mp.weixin.qq.com/s/JQ2AlXNkK7Sz-qdnQZFkFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "安全通告丨网络安全漏洞通告（2026年10月）",
+        "url": "https://mp.weixin.qq.com/s/H0bjYrBQY6vZUDmNvO1cYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "号称网安的两大护法，渗透测试和逆向工程到底是什么？区别是什么？",
+        "url": "https://mp.weixin.qq.com/s/CzNxRGV90BNjqF7sXYdC5w",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AI底牌被看光？2000多台英伟达GPU曝高危漏洞！",
+        "url": "https://mp.weixin.qq.com/s/ev4BIteW4VvdMZ2YXWDBNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "零编译、零配置、AI研判：这个雨蔻让Java代码审计变成了\\\"上传即扫\\\"",
+        "url": "https://mp.weixin.qq.com/s/KlJa6jffBFvdQ4ewUOgNVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【首批】中国信通院互联网智能体治理 漏洞挖掘智能体能力评估正式启动",
+        "url": "https://mp.weixin.qq.com/s/4sQ0Uxw8HzD7WDV4WoSXQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "关于首期注册人工智能安全评估专业人员（CISP-AISA）培训班成功举办的通告",
+        "url": "https://mp.weixin.qq.com/s/cuwpGjrC28q48pgevS_rYQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "速看，Anthropic 推出免费 AI 漏洞漏扫器",
+        "url": "https://mp.weixin.qq.com/s/kDts-k2d_f6Y84-EDdIwRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第39期）",
+        "url": "https://mp.weixin.qq.com/s/EZq3Y1Cyoh6fVGj6g2wT3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "GhostAction 供应链攻击卷土重来：伪装“安全审计”的恶意工作流正在批量搬空 GitHub 仓库的云凭证",
+        "url": "https://mp.weixin.qq.com/s/v88qIriaTvrOzipk9E8KcA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "韩国多家银行连续被打： ARTEX 把 AI 渗透带进了真实攻击",
+        "url": "https://mp.weixin.qq.com/s/o4SpVRY6u7QtS6WwKHL6sg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AIxVuln自动化漏洞挖掘系统，让漏洞挖掘事半功倍",
+        "url": "https://mp.weixin.qq.com/s/AodfuR1SsSCo9AGTGknoGA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "新开普学工综合服务平台0day[已修复]",
+        "url": "https://mp.weixin.qq.com/s/bSTgQCbH2qSuPToQ_aCYwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Fish-src黑盒漏洞挖掘更新啦",
+        "url": "https://mp.weixin.qq.com/s/XZxo1jk7V4L9f1gsiSmU9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "仅需公开信息即可接管暗网域名？GoBalance 漏洞引发 Tor 洋葱服务“大地震”",
+        "url": "https://mp.weixin.qq.com/s/xS41k3I--g4rctku5yHcUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "用友U8+ U8AuditWebSite MAService 未授权SSRF连接串注入命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-MAService-ssrf-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-10"
     }
 ]
