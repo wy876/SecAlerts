@@ -28,5 +28,161 @@
         "url": "https://mrxn.net/jswz/U8-U8BM-FBWeb-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-10"
+    },
+    {
+        "title": "韩国银行攻击风波后，ARTEX 宣布转闭源：AI 渗透工具的边界在哪？",
+        "url": "https://mp.weixin.qq.com/s/WLCszFyBW7i2CdejlI5Qtg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "韩国 7 家金融机构疑遭\\\"某高校学生\\\"AI 渗透，外交部已回应",
+        "url": "https://mp.weixin.qq.com/s/yGbJreidyH2nCCthyD_tBw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【成功复现】WordPress Visual Composer Website Builder任意本地文件包含漏洞(CVE-2026-12227)",
+        "url": "https://mp.weixin.qq.com/s/3ApdijmWEhxuPd_c93VuMA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Anthropic 推出两项网络安全新举措：开源漏洞速报与 OT 关键基础设施防御计划落地；CNNVD发布人工智能重要安全漏洞的通报| 牛览",
+        "url": "https://mp.weixin.qq.com/s/yKD_0v6Zl0oWqbC9i77yyA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "凌晨三点半，我RCE了",
+        "url": "https://mp.weixin.qq.com/s/Qs3XFDE_CgJrflmTyl4rOA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【大洞速修】OnlyOffice 前台 RCE 漏洞！",
+        "url": "https://mp.weixin.qq.com/s/6WztkNCmxPKKkriZVlj4qg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "攻破韩国银行的 AI 渗透框架 ARTEX 全链路拆解",
+        "url": "https://mp.weixin.qq.com/s/4ToKEPqtYeAU5Wbuvx4j_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "再获认可！安帝科技持续多年入选国家工业信息安全漏洞库技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/ekBqSuDKStYhcz0fTKJrRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "【已复现】Telegram Desktop 高危漏洞，点击链接可致文件泄露甚至账户被接管",
+        "url": "https://mp.weixin.qq.com/s/JkkA_2722dtd7m1SL24BLg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Telegram Desktop 一键账号接管漏洞（CVE-2026-107181）",
+        "url": "https://mp.weixin.qq.com/s/7n7J1G66lUbWNn2oPc83KA",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "实测VulnClaw：会自己翻证据的AI渗透Agent，两个turn挖齐全套敏感文件",
+        "url": "https://mp.weixin.qq.com/s/w7PJf5jY0tkFseCCYix0Mg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "想进大厂做渗透？20 个高频渗透面试题必须会！",
+        "url": "https://mp.weixin.qq.com/s/AzuoyadHLAINeyXfqBg9Ag",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "「Cloudflare开源安全审计Skill」AI代码审计+漏洞挖掘六阶段流水线全拆解",
+        "url": "https://mp.weixin.qq.com/s/uSFKyBgibtnpF7gN-GxLFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "不用改代码，护卫神WAF轻松封堵SQL注入和XSS注入风险",
+        "url": "https://mp.weixin.qq.com/s/kWK9nf7bM1wKjs3wwwnuQw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "CVE-2026-107181 Telegram Desktop 一键账户接管",
+        "url": "https://mp.weixin.qq.com/s/4mvLZ-wONkbAZ8SdE9VN0A",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "AI 自主渗透测试系统 -- ARTEX（10月10日更新）",
+        "url": "https://mp.weixin.qq.com/s/LsvShtJGA4NlWLaGevanzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Telegram 桌面版曝高危漏洞（CVE-2026-107181）",
+        "url": "https://mp.weixin.qq.com/s/eQVAuSd9Zw2KWCeeOM7ZXg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "声明三个通道，写入四个：一次零点击 iMessage 漏洞的完整复盘",
+        "url": "https://mp.weixin.qq.com/s/iP7DxjhP0HRD26uYh7LKrg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "LVS精益价值管理系统 APPDownLoad.aspx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/p8FtWD0Ma-RjbUlA47AxWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "攻防视角下的 PHP：从反序列化到 RCE 的边界",
+        "url": "https://mp.weixin.qq.com/s/z1N9wilwRZnGhPyeoPH_CQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "Nginx UI 远程代码执行漏洞已披露，附 PoC 利用代码",
+        "url": "https://mp.weixin.qq.com/s/lrvfGbpV40AFs3T5Yxg4Sg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "登录即注册导致的幽灵组织成员漏洞",
+        "url": "https://mp.weixin.qq.com/s/9abiPstQpNESYLmmeQFRNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "漏洞预警：CVSS 10.0｜SonicWall SMA1000 高危预认证 SSRF 漏洞 CVE-2026-102255",
+        "url": "https://mp.weixin.qq.com/s/r4qfkZdlyL3QIH0v-U1n_Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "P7 DarkSword iOS 漏洞套件：17 条命令远程收割 iCloud 钥匙串与加密钱包",
+        "url": "https://mp.weixin.qq.com/s/kiik26hf6dYT7fyLklVhdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "CVE-2026-59346 VMware VMXNET3整数溢出漏洞PoC技术分析",
+        "url": "https://mp.weixin.qq.com/s/PvAHAgIdHgpeM97yHyR_Kg",
+        "source": "Doonsec",
+        "date_added": "2026-10-10"
+    },
+    {
+        "title": "用友U8+ u8webapi 未授权任意SQL执行及SA口令泄露漏洞",
+        "url": "https://mrxn.net/jswz/U8-u8webapi-sqli-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-10"
     }
 ]
