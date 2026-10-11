@@ -4,5 +4,143 @@
         "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-WorkFlowTaskService-sqli-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-11"
+    },
+    {
+        "title": "一个埋了11年的漏洞，差点让XRP凭空多出“无限货币”",
+        "url": "https://mp.weixin.qq.com/s/mxS7R1vcFn9waUp8HMjNsQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "AI安全（2）提示词注入详解",
+        "url": "https://mp.weixin.qq.com/s/Z42EVtYQD0yzGdfrMXjCGg",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Apache OpenOffice CVE-2026-59265 恶意电子表格代码执行漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/axATpMfcWw_o_voREX3fcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "记一次SRC接口猜测拿下某学校两个SQL注入",
+        "url": "https://mp.weixin.qq.com/s/gXMY6m-gEEWtxt4LxQ5UEQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/sCb_jv1BqRh9fcyte8u_IA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "FirmAudit2 进阶篇：3天5本CNVD，从固件到操作系统——新增 OS 镜像 / 内核审计能力",
+        "url": "https://mp.weixin.qq.com/s/a1lIDXLHFQJQGAApisZqTA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Anthropic 免费开放 AI 漏洞扫描：开源软件安全，正在进入 AI 自动化时代",
+        "url": "https://mp.weixin.qq.com/s/KfBQVQiY0yMo5PdLdWZebA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "AI智能体渗透：记一次 AI 智能体绕过到 RCE 的过程",
+        "url": "https://mp.weixin.qq.com/s/xnaVsLS-x4RBGMO5P--x4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20261011）",
+        "url": "https://mp.weixin.qq.com/s/Uenl6Fq-Zhz2DHvuUvFX9g",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "震惊安全圈！百度安全开源Docker漏洞测试环境，80+真实应用即点即用",
+        "url": "https://mp.weixin.qq.com/s/NxBMadN-0rSYcKrQST67Lw",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "我们用开源 AI 安全代理挖出 24 个安卓漏洞的全过程",
+        "url": "https://mp.weixin.qq.com/s/UaE4prll9wUZlhk0W9S1RQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Laranode服务器管理面板爆出任意文件写入漏洞(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/QS0aJgE2W6MsPPLZZh632w",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "一个单引号打穿十年ORM：Exposed全版本SQL注入(CVE-2026-108474附PoC)",
+        "url": "https://mp.weixin.qq.com/s/hmHlNiFOiQZqdjMu7wxVVA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "SQLite 0Day大放送：研究员一次性披露14个未公开漏洞，含一条完整RCE",
+        "url": "https://mp.weixin.qq.com/s/Z7jlodIgkmBr9SkzOM1IgA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Jeep Cherokee 2015 远程攻击复盘：从蜂窝网到 CAN 总线的五层渗透",
+        "url": "https://mp.weixin.qq.com/s/LdjEqedtydAA6L1QXJaXyQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "ASCII走私技术剖析：Unicode Tags隐形提示词注入的机制与利用",
+        "url": "https://mp.weixin.qq.com/s/mHZmF1eDrds9eMzcFUo78A",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "漏洞复现 | 天锐绿盾审批系统 getConfigValues.do 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/tbKGl51k694SflFEXb0XJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "【已复现】FortiMail 未授权任意文件写入漏洞，已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/ePaxkdX3x61JzOAKofH-XQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "(9.1分) CVE-2026-97670：Avada表单未授权调用任意Hook，可永久删站内容",
+        "url": "https://mp.weixin.qq.com/s/EYmjVeqgd3fsQGizbcIPtg",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "【热点安全风险】10月11日｜电力工控平台曝未认证远程代码执行漏洞，攻击者可直取电网监测系统（CVE-2026-100730）",
+        "url": "https://mp.weixin.qq.com/s/U5QocHhwnm_cLvwwalJiIA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "冠军 AI 渗透工具 ARTEX 架构拆解",
+        "url": "https://mp.weixin.qq.com/s/0ERA1fdiQpDX3he8qSHiRw",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940",
+        "url": "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "用友U8+ U8KCSN Service 未授权数据库连接串注入及SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8KCSN-Service-sqli-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-11"
     }
 ]
