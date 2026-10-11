@@ -142,5 +142,119 @@
         "url": "https://mrxn.net/jswz/U8-U8KCSN-Service-sqli-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [开源供应链攻击GhostAction持续肆虐，数万GitHub仓库植入恶意Actions窃取密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622652&idx=3&sn=7924139702fa274f1c036fb16110e630",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [安全热点周报：SonicWall SMA1000 最高严重级别漏洞已被用于实际攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507749&idx=1&sn=16e994093a6008bd9a39451e140e2b3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [CNCERT：关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516700&idx=2&sn=7f7bbe4e4669e9daedc84a98a6533150",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [速看，Anthropic 推出免费 AI 漏洞扫描器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544139&idx=1&sn=14568a9855450a0d8b1b3438ddc16e55",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [Anthropic 推出两项网络安全新举措：开源漏洞速报与 OT 关键基础设施防御计划落地；CNNVD发布人工智能重要安全漏洞的通报| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142924&idx=2&sn=eebcc773d495d45093de052999f10fc5",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [【安全圈】AnyDesk Linux版预认证远程代码执行漏洞PoC公开：未授权夺取Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079308&idx=3&sn=5498a23ffab72892e0583bf6f2ff844c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "] [GhostAction 供应链攻击卷土重来：伪装“安全审计”的恶意工作流正在批量搬空 GitHub 仓库的云凭证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520849&idx=1&sn=e1f0739db90ce3889f092da763472f53",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Telegram桌面版惊现IPC注入漏洞，点击链接即可被完全劫持账户",
+        "url": "https://mp.weixin.qq.com/s/tmJOJYPh4E2Tr8TdDJn8pA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "浅析SpringBoot框架常见未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/0Q6MlhAXMwOinskHvyfj8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "fastjson1.2.83面试被拷打古法研究一下链",
+        "url": "https://mp.weixin.qq.com/s/q9JguiUg8HzFzVwgN0T1Bg",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "fastjson1.2.83面试被拷打古法研究一下链",
+        "url": "https://mp.weixin.qq.com/s/ScqGZ8_WW1sUBvEv2uqv0Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站",
+        "url": "https://mp.weixin.qq.com/s/-Z9kxlNP6fyiIbPu7R3NMQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "Cisco Talos发布安全预警，自主AI Agent可将渗透测试转为隐蔽红队攻击",
+        "url": "https://mp.weixin.qq.com/s/0Nf1GeBKShGz3j1Eh86p8Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "每周PDF资源：Atlassian曝严重漏洞；智能硬件企业CRA合规实践",
+        "url": "https://mp.weixin.qq.com/s/lA8ezIGnnW5Jz5DUoVlvLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "极安破奕-给我一个txt，还你一个rce",
+        "url": "https://mp.weixin.qq.com/s/LLy5_UGSbruaFWXzTrhhOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "[工具推荐]专为 SRC场景设计&amp;&amp;一个基于LLM 驱动的多 Agent 协作漏洞挖掘系统--Argus",
+        "url": "https://mp.weixin.qq.com/s/FdX8aw_G8bjNq3bmOvTYpQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "用友时空KSOA agent_worksdel.jsp SQL延时注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/QaIGWGIbJdITAaLCf3S9zg",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "澳洲实测事件启示：主机厂如何构建有效的安全漏洞预警机制（附自查清单）",
+        "url": "https://mp.weixin.qq.com/s/gLWx9q0o9y9PHBS9vxWleA",
+        "source": "Doonsec",
+        "date_added": "2026-10-11"
+    },
+    {
+        "title": "用友U8+ DSaaS分析云 未授权文件读取后门令牌伪造与连接串注入漏洞",
+        "url": "https://mrxn.net/jswz/U8-DSaaS-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-10-11"
     }
 ]
