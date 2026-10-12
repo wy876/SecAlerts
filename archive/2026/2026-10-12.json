@@ -1,0 +1,116 @@
+[
+    {
+        "title": "AnyDesk 远程代码执行漏洞详情及 PoC 利用代码已公开披露",
+        "url": "https://mp.weixin.qq.com/s/SMAS4nyn5QCSeaXbQQmUeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "银狐C2藏进电信家宽段：官方预警披露全新控制端，一周连投48个样本后突然收手",
+        "url": "https://mp.weixin.qq.com/s/x3oyp5P7Sg7c1i9v70pSJA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "智邦国际GetAllPrintTemplate存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Nda6nPXwZ_hIbVf93olCSw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "免费试用期重置漏洞",
+        "url": "https://mp.weixin.qq.com/s/kM8e6a6yxuJ0F3a_uHzeQA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "一周年回顾：深度剖析“漏洞工厂”，揭秘中国版Mythos的构建之路",
+        "url": "https://mp.weixin.qq.com/s/LLTuVE8lSUEf2jIU5vwNug",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "赛博安全狗：JeecgBoot存在未授权访问漏洞CVE-2026-108657 (10.11)",
+        "url": "https://mp.weixin.qq.com/s/8RFPkZNY9tOE_--xSohqpw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "CobaltStrike 之 内网渗透神器的使用技巧",
+        "url": "https://mp.weixin.qq.com/s/nxuWgX7Fg-DvMvt7OBoufQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "glances-CVE-2026-32596-信息泄露",
+        "url": "https://mp.weixin.qq.com/s/sPmnFEHIB6JZg1UCrg7FFA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "GraphQL 漏洞第一讲：从内省查询到 IDOR 全攻击面",
+        "url": "https://mp.weixin.qq.com/s/lrnmIpOioi0UplWC5tKcTQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "第99篇 AI全栈 · 渗透安全之伪造AP点位守株待兔",
+        "url": "https://mp.weixin.qq.com/s/24v-sPjWNPycT8jUTVLvtA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "SRC与红队宏观信息收集思路，大规模资产梳理、POC 筛选、批量扫描脚本内网横向与真实攻防案例",
+        "url": "https://mp.weixin.qq.com/s/ipwnxXpXr0Q_To8-qDa6Tg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "看了一下团队里新人挖洞过程，发现了一些问题，看看你是不是每次也这样挖不到高危漏洞的？？",
+        "url": "https://mp.weixin.qq.com/s/blHewPNdHeK393-QT693Mw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "一个帮开发者偷懒的框架，顺手把三道 XSS 防护全捅穿了",
+        "url": "https://mp.weixin.qq.com/s/fueZh16TrwqIy5fvIZxepA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "微信小程序AI全自动化渗透工具",
+        "url": "https://mp.weixin.qq.com/s/sXWfRGqvo3nQ_1cQ4_clrA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "一文讲透 SCA 与 SBOM：软件供应链安全，为什么两者缺一不可？",
+        "url": "https://mp.weixin.qq.com/s/I9KEFfpbOkrdECc2GMP2Rw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "面向开源生态的 AI 漏洞发现服务：Anthropic OSS Scanner    技术架构、数据效果与行业影响深度剖析",
+        "url": "https://mp.weixin.qq.com/s/Y62H54NR7HZQp15SF3hvEg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "红队实战复盘】从 0 到 Admin：一次多层业务系统的全链路渗透测试",
+        "url": "https://mp.weixin.qq.com/s/cqWR_K6rs-80lQoL335Www",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "高质量的渗透测试，是怎么炼出来的？",
+        "url": "https://mp.weixin.qq.com/s/yJi6Be_MNZlBQfdU21F94g",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "用友U8+ EIS ConfigService 未授权敏感配置信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-10-12"
+    }
+]
