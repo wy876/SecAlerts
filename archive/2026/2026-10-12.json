@@ -280,5 +280,161 @@
         "url": "https://mrxn.net/jswz/U8-EIS-SyncService-upload-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-12"
+    },
+    {
+        "title": "改一个数字就能看到别人的订单 越权漏洞凭什么20年没治好",
+        "url": "https://mp.weixin.qq.com/s/mshBkQtBZ3wZnBTQR9xiCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "GitLab曝CVSS 10.0严重漏洞，特定条件下未认证攻击者可远程执行任意代码(CVE-2026-97229)",
+        "url": "https://mp.weixin.qq.com/s/d87nbD57ZczK8VtMPYpLOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "REA逆向一切！渗透逆向新利器、MCP 驱动全栈逆向方案，解析原生二进制、EXE、APK，高效挖掘程序底层漏洞",
+        "url": "https://mp.weixin.qq.com/s/KLTabsyKBHVfbJxbEzeoRg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "Kali 2026+Docker靶场+SQL注入+sqlmap实战：从环境搭建到数据拖库的完整链路",
+        "url": "https://mp.weixin.qq.com/s/iYvEK-G0eN40-C7dNsO5AQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "鼹鼠的焚诀全网最全的POC合集（来自圈内多个付费圈子）",
+        "url": "https://mp.weixin.qq.com/s/mdwquh8mi584ltJNnkh_3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "Veeam Agent 漏洞被积极利用，以获取 Windows 系统权限",
+        "url": "https://mp.weixin.qq.com/s/S1BwyZirHF3JI8IHt63S5g",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "手机出厂即中毒：谁把恶意代码写进了供应链，谁就在用户开机前夺走了安全权？",
+        "url": "https://mp.weixin.qq.com/s/evhguHQl4DPsn3Qg_9vwmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【高危漏洞预警】FortiMail未授权任意文件写入漏洞CVE-2026-104286",
+        "url": "https://mp.weixin.qq.com/s/E_0HUMHfETSRqnNinljMLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "内网渗透-CS之钓鱼测试攻击",
+        "url": "https://mp.weixin.qq.com/s/w5T0jLqTrOsiqMsWkQVdxw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "热榜TOP1的「挖漏洞一人公司」：6661万人在看的闷声副业到底是什么",
+        "url": "https://mp.weixin.qq.com/s/WpO2KS4ZvupGEEo2w4bbDw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "Juice Shop 靶场实战：现代全栈应用中的业务逻辑漏洞攻防",
+        "url": "https://mp.weixin.qq.com/s/tX81WRy6YEnwMRTRzCYG2w",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "AI渗透越权删库：从事件到管控",
+        "url": "https://mp.weixin.qq.com/s/my5B3biRPNzm1c_KyFXhJg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "50个渗透子代理住进Claude Code：2300星开源武器库源码拆解（pentest-ai-agents）",
+        "url": "https://mp.weixin.qq.com/s/wr_hID2xPYva_EFKzBGtkg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "只按漏洞评分打补丁，为什么会排错？从严重性排名到资产处置决策",
+        "url": "https://mp.weixin.qq.com/s/JI5NWcuiPZlyyw6SlXrmPg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "OSCP百日备考14｜Web漏洞利用入门：XSS、CSRF、命令注入，从弹框到拿Shell的完整路径",
+        "url": "https://mp.weixin.qq.com/s/JiNa382sS_91DJ-Sy04i5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "AI 漏洞挖掘，如何从入门到不\\\"提桶\\\"跑路：给 AI 上缰绳",
+        "url": "https://mp.weixin.qq.com/s/Xy8bJopANzftevZAnGyJww",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第39、40期",
+        "url": "https://mp.weixin.qq.com/s/4IWVKt-4Cw-JmXISIezsJQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20260928-20261011)",
+        "url": "https://mp.weixin.qq.com/s/Icn-NtJ8qYfAKtxcG4B4yQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "每周网安资讯（10.9-10.12）| D-Link路由器命令注入高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ih6trz-LuznNY_5ZHkhrNA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "CVSS满分10.0！WordPress Bricksforge插件无认证RCE漏洞，现已被野外利用",
+        "url": "https://mp.weixin.qq.com/s/Rpxrm2k19dwXUE3Hpi2rLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "NVIDIA曝高危漏洞，超2000台GPU监控主机暴露公网",
+        "url": "https://mp.weixin.qq.com/s/nvW5weuC2KdEjDTakP23rA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布",
+        "url": "https://mp.weixin.qq.com/s/2MVivQeDRGXuchjAZnVOhg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "记一次某edu单位的渗透",
+        "url": "https://mp.weixin.qq.com/s/U99DJYPrMT3H6YNONEAW2A",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "漏洞扫描做完了：顺着一条“高危”往下查，验收才刚开始",
+        "url": "https://mp.weixin.qq.com/s/A32meosc9G-yGS4vIVjeMQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "吃透 Web 漏洞！就看这 420 页权威指南！",
+        "url": "https://mp.weixin.qq.com/s/2SuFuHnwABHRK4A3oMI3EA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "用友U8+ PFWeb U8BM WebParamServiceBroker 未授权任意程序集反射调用代码执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-PFWeb-U8BM-WebParamServiceBroker-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-12"
     }
 ]
