@@ -112,5 +112,173 @@
         "url": "https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html",
         "source": "MRXN",
         "date_added": "2026-10-12"
+    },
+    {
+        "title": "] [AI常见安全漏洞原理与复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497288&idx=1&sn=7135b6b9e7c16fdff1343ce690798535",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布",
+        "url": "https://mp.weixin.qq.com/s/jUnS-_7FTqijaYO3PGb6wA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "CVE-2026-66804 Windows COM 提权",
+        "url": "https://mp.weixin.qq.com/s/k09QSYkVVMTJKP7CruFWCQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "windows提权(三)-uac提权",
+        "url": "https://mp.weixin.qq.com/s/SvNYWppYnYeGVosxIVME3A",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.9.21-2026.10.11",
+        "url": "https://mp.weixin.qq.com/s/4Z28qytlWHIREiWhtXClEw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【安全速报】10月12日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/13E2TG0B8UMbDSWMlEliWA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "渗透提权实战-ClickFix 水坑钓鱼攻击",
+        "url": "https://mp.weixin.qq.com/s/9iebnobpKiG6WR_E7HtMBw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "一条链不够，就上两条： 从默认弱口令到 www-data 的 RCE 复盘",
+        "url": "https://mp.weixin.qq.com/s/166SvJe6W8EMC0GQI2UiTw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s/LD2hB2pBs5LC1_i4vzuvKA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "Ledger 供应链植入事件全记录：设备还没到手，助记词可能已经不是你的了",
+        "url": "https://mp.weixin.qq.com/s/7maV2QuH6Nb315JeBHp2Ag",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【漏洞通告】Next.js next/og 未授权远程代码执行漏洞（CVE-2026-94545）",
+        "url": "https://mp.weixin.qq.com/s/KtShe4hqVbyBi0kPZzfanA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "AI挖洞实战 02｜Workbuddy+Skill技能库，完整复现高危文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/LpqBAv09e6qN99rIhS7cfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【梅开二度】自动化渗透，应如何预防银手铐",
+        "url": "https://mp.weixin.qq.com/s/V6m4MeEjerl1HFO257Wa2Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "AI说91.5%高危，维护者只认51.3%：漏洞定级这活儿，为什么还是离不开人？",
+        "url": "https://mp.weixin.qq.com/s/EI4JF3pHROHiSo23b1FA7w",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "记一次SRC挖掘—审计js还原隐藏接口产出2个未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/j0XDdb1hkRB-lO_10WpgjA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/TdWAzch3Hk6VEjIwE3sN3g",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "深耕AI漏洞挖掘：标准认证落地，学术研究取得新进展",
+        "url": "https://mp.weixin.qq.com/s/mnOqDVhq29KkC9zKicmYxQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "重磅罗国APT预警｜RedFlick新攻击链曝光！Star Blizzard简化入侵链路，伪装闭门会议邮件，点击一次即可植入CosmicPulse后门",
+        "url": "https://mp.weixin.qq.com/s/TfFy2nQy8NRGhyupQ_2zOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "两行代码打穿 1591星 国产悟空HRM：未授权看遍全员工资条（CVE-2026-108707/108708·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/vq77aTGrYnBCbeqZdEE1mg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "vulfocus/tomcat漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/31gXLffDQhs9sECe1DV4GA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "这个SQL注入有点东西",
+        "url": "https://mp.weixin.qq.com/s/A_aSB-Tl1tjd3DvPheJ7jA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "Wukong_HRM曝双重严重漏洞，最高CVSS 9.8，未认证攻击者可直接获取HR管理员权限(CVE-2026-108707)",
+        "url": "https://mp.weixin.qq.com/s/uLwvNp7vGbrz3EmD4OKd7Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【漏洞预警】macOS爆出路径穿越漏洞CVE-2026-84568(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/bISpSEjsCugWqPZD7z92SA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "WordPress CVE-2026-87902被用于主动远程代码执行攻击（附代码）",
+        "url": "https://mp.weixin.qq.com/s/T34I5fweW3G9HvdTB2vuNA",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "【勒索预警】万字溯源分析，weax勒索病毒利用国内代理IP对某ERP使用通杀0day攻击勒索，影响资产近4万（附IOC）",
+        "url": "https://mp.weixin.qq.com/s/7_BwxxRjRdWcz6E30T6mvg",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "从边缘入口到内网rce",
+        "url": "https://mp.weixin.qq.com/s/G420Lis3p2F_JnPSGPlj-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "用友U8+ OCAPI Update 未授权任意文件写命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-OCAPI-Update-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-12"
+    },
+    {
+        "title": "用友U8+ EIS SyncService 未授权任意文件上传命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-EIS-SyncService-upload-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-12"
     }
 ]
