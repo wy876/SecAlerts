@@ -274,5 +274,191 @@
         "url": "https://mrxn.net/jswz/U8-U8SL-GetPassword-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.9.21-2026.10.11",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503986&idx=1&sn=864cecef5fdb7ae6b60007dd480a32a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [CVSS满分10.0！WordPress Bricksforge插件无认证RCE漏洞，现已被野外利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622732&idx=2&sn=f62d5878db08538051e7a35d79b6b1dc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [【安全圈】WordPress Bricksforge曝10分满分RCE：未认证任意文件上传在野遭批量利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079330&idx=3&sn=fc5a0b15f030036faa0eb41529144cdc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [AI说91.5%高危，维护者只认51.3%：漏洞定级这活儿，为什么还是离不开人？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142935&idx=1&sn=9d4f538b587789a98fb94393921b35b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495605&idx=1&sn=07c339ee18ca93cb9fc22558401f2c84",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第39、40期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497424&idx=1&sn=7d266d6e1ef5b74108959c0a9e2fb11b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20260928-20261011)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497424&idx=2&sn=accfd41e556281cbeb8f930c1cf7ca8b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "全网最全POC 可搭建漏洞库",
+        "url": "https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "硬件钱包里被人偷装了后门：一亿美元加密资产是怎么被卷走的",
+        "url": "https://mp.weixin.qq.com/s/z2-HejrvLMxO221FmGBeMw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "AI 挖洞越来越快，为什么企业的漏洞还是修不完？",
+        "url": "https://mp.weixin.qq.com/s/KsSLru3cu1tJdtwUPXrctw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "赛博安全狗：IBM i 7.3/7.4/7.5/7.6存在非常严重的代码注入漏洞CVE-2026-93886 (10.13)",
+        "url": "https://mp.weixin.qq.com/s/vU1_7w6GImYuSnDOueBr2g",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "AI在漏洞挖掘中的辅助作用",
+        "url": "https://mp.weixin.qq.com/s/mlh9pX_0BnZyZ5gdNlM3og",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【高危漏洞预警】GitLab CI/CD正则编译器整数溢出远程代码执行漏洞CVE-2026-97229",
+        "url": "https://mp.weixin.qq.com/s/qq8Lj_tTWvy4JGAm9nXKHQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "GitLab修复严重任意代码执行漏洞，无需登录即可远程利用",
+        "url": "https://mp.weixin.qq.com/s/dsm9xgLCkRff122lSI9xwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "SonicWall SMA 1000曝严重漏洞，补丁发布后遭135次攻击尝试",
+        "url": "https://mp.weixin.qq.com/s/xc5fw9e9Gr7kJFVa7ixRPA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "Google DevSite高危漏洞：未认证攻击者可实现远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/OCMdAhrax4NgfGNmXrxb0A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化",
+        "url": "https://mp.weixin.qq.com/s/xD48Mnzg4pKPxyKmRHw4pQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "9月高危漏洞速览：10个必须修复的安全漏洞（附详解）",
+        "url": "https://mp.weixin.qq.com/s/rzqymjBJ9rKJM4hEenB2Dg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "Next.js next/og 未授权 RCE（CVE-2026-94545）：一张图片换来服务器 Shell",
+        "url": "https://mp.weixin.qq.com/s/zkKFNj81YY_iQqRWsG4e9g",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "MCP通道零校验直接RCE：Langflow一波四洞，自托管凭据库可解密（CVE-2026-105740/9205·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/ueHmSh0H9AF00JGBYwLr4Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "南京大学软件学院iSE实验室在预训练编码器后门防御方面取得新进展",
+        "url": "https://mp.weixin.qq.com/s/DeVf-3pHl4MDuRoVCtM3Gw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "荐片播放器被曝内置后门：超70万台电脑中招",
+        "url": "https://mp.weixin.qq.com/s/7gWRbSUkhu06Nbzlw1YQCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【已复现】AnyDesk 预认证堆缓冲区溢出远程代码执行漏洞(CVE-2026-109390)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/NaEuykNNL99OvDwK7rfN4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【漏洞通告】AnyDesk Linux 预认证堆溢出漏洞(CVE-2026-109390)",
+        "url": "https://mp.weixin.qq.com/s/ZGYR_RfC8kljUNFZz5pouQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "Web漏洞挖掘实战宝典：40 个必知技巧，全是看得到赏金的漏洞实操思路！",
+        "url": "https://mp.weixin.qq.com/s/R989TwSqm9JYaewgfBiHBA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "[工具推荐]面向AI安全测试的提示词注入工具集-冰霄IceSky",
+        "url": "https://mp.weixin.qq.com/s/0JXYJmC4QlU_V5rST_lYgQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "渗透攻击超强汇总！（非常详细）",
+        "url": "https://mp.weixin.qq.com/s/jXoDzTd5O4nvddY2mNF8vg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "XXL-JOB 越权漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/dCg_rknpfkhy82eFYIUvEw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "ARTEX 等自动化渗透工具是利刃，操作不当即是风险",
+        "url": "https://mp.weixin.qq.com/s/Hh5Li5wUWCWn8YqGP3OTeg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "SmarterMail 高危漏洞链公开：一封恶意邮件可拿下服务器 SYSTEM 权限",
+        "url": "https://mp.weixin.qq.com/s/lR7JvlObBRCkIbEWALLwTQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【漏洞通告】GitLab正则表达式验证不足导致未授权远程代码执行漏洞（CVE-2026-97229)",
+        "url": "https://mp.weixin.qq.com/s/2Kki1jFFYFXSbrH2Xx2PAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
     }
 ]
