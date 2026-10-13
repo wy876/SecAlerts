@@ -1,0 +1,44 @@
+[
+    {
+        "title": "通杀 iOS 18 多个版本！详解 DarkSword 如何用 WebKit+Core Audio 组合拳秒提权收割钱包",
+        "url": "https://mp.weixin.qq.com/s/-gUmrJR9tQ80FU0AYt6i1A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "漏洞预警 | Telegram Desktop IPC记录注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Lr-v9zBJqmMPZoES6epLwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "漏洞预警 | PostgreSQL符号链接跟随漏洞",
+        "url": "https://mp.weixin.qq.com/s/DPdme7WEibuFwEglRtJG4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【热点安全风险】10月13日｜丹麦全国人口登记库遭未授权访问，约 880 万条公民身份记录被批量获取，监管机构已介入调查",
+        "url": "https://mp.weixin.qq.com/s/X_Knicu_9tsnEXVak0vB_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "Nacos 综合漏洞利用工具（重构版）",
+        "url": "https://mp.weixin.qq.com/s/uddPSvCaNinql5Z7tcONjA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "LMCache 严重远程代码执行漏洞仍未修复，公开的 PoC 漏洞利用程序已发布",
+        "url": "https://mp.weixin.qq.com/s/IeNckCVu-Dgtj2C4jYyzqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "用友U8+ U8AuditWebSite U8ForWhereServices 未授权任意文件写命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-U8ForWhereServices-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-13"
+    }
+]
