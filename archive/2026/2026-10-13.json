@@ -40,5 +40,239 @@
         "url": "https://mrxn.net/jswz/U8-U8AuditWebSite-U8ForWhereServices-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-13"
+    },
+    {
+        "title": "Agentic Pentesting 能替代人工渗透吗？关键看这 3 个问题",
+        "url": "https://mp.weixin.qq.com/s/SXV0nm1ytm83MX8b_q8mow",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "在线刷题平台渗透实录：两个请求头，整库题库到手",
+        "url": "https://mp.weixin.qq.com/s/EAsziohb_B_vLBvHXGSKCQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "(0day)某和oa_sql注入漏洞审计分析过程",
+        "url": "https://mp.weixin.qq.com/s/BS124XDdU5yUlukv7Hlwlg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "梆梆安全发布《2026年Q3移动应用安全风险报告》：超六成APP涉隐私违规，24.06%工具类APP存SDK供应链隐患",
+        "url": "https://mp.weixin.qq.com/s/hmsRQFyD5pi7wnT6PMhlKQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "「AI漏洞挖掘」AutoCVE拆解：多Agent自动审源码，一周提交30个CVE",
+        "url": "https://mp.weixin.qq.com/s/Ma5fQIrcA9tCRmjAqyB9_Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "GitLab 紧急修复严重漏洞，可在服务器上实现任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/Ux1Esne9acGlf_mficz31A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390）",
+        "url": "https://mp.weixin.qq.com/s/rmNQWqYV1aowzrQj_cbBng",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "攻破银行的 AI 渗透框架 ARTEX 如何应对模型安全护栏",
+        "url": "https://mp.weixin.qq.com/s/slQGPTwAtexpMae1wHpOmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "OpenAI 失控 AI 代理对 Wikimedia 发起异常操作，海量流量诱发服务中断风险；CNVD两期周报：收录866个漏洞，0day占比达88%| 牛览",
+        "url": "https://mp.weixin.qq.com/s/Ep_EQO7DkJwY9KlHlKypdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "喜报｜海南世纪网安获国家级认证！跻身国家信息安全漏洞库（CNNVD）一级支撑单位",
+        "url": "https://mp.weixin.qq.com/s/Z469Vpb_qUtj0WFde6_R-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "勒索情报通告 | N0n组织声称勒索上海某重工集团",
+        "url": "https://mp.weixin.qq.com/s/Wa7ufu_7xMk4UyRZDjULHg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "勒索情报通告 | N0n组织声称勒索海南某航运公司",
+        "url": "https://mp.weixin.qq.com/s/BvqcK4hwa7tsvDZpjGJfcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "某系统垂直越权",
+        "url": "https://mp.weixin.qq.com/s/yPnAn26FeUh4zeFihsmfZQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/9-frdIprNeRZa5i-X-kHvQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "只按漏洞评分打补丁，为什么会排错？把严重性变成处置顺序还缺什么",
+        "url": "https://mp.weixin.qq.com/s/XVHEpE-JEsE3tcN76mtpqw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "渗透测试从业者看过来：AutoCVE 一键挖 CVE，7天 30 个漏洞",
+        "url": "https://mp.weixin.qq.com/s/xPYDR-iv5RHrZx5s4bVaWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "漏洞复现 | 天锐绿盾审批系统 findAllUser.do 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/2RJuCK8XnxjXy23mFQRF5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390）",
+        "url": "https://mp.weixin.qq.com/s/xzXf8A6MzLR1ORN7SyGweQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "参数化查询的盲区：SQL注入的残余战场与AI时代的攻防位移",
+        "url": "https://mp.weixin.qq.com/s/8YxY-sbZGUnqo23yW2mB1A",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "TOZED X300 5G路由器曝CVSS 10.0命令注入漏洞，未认证攻击者可获取Root权限，暂无修复补丁(CVE-2026-108576)",
+        "url": "https://mp.weixin.qq.com/s/tQ3NSlCGVf1mBtKwJl4SAg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "震惊！百度安全这一利器让RASP漏洞检测效率提升1000%",
+        "url": "https://mp.weixin.qq.com/s/qjr9ei-3cW6lWRFUxFBhqA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "万字长文学习云安全 STS Policy注入在漏洞挖掘中的妙用",
+        "url": "https://mp.weixin.qq.com/s/wyuhs-MUZsFDWYGfmY89Ng",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "漏洞预警|GitLab 又曝高危远程代码执行漏洞 CVE-2026-97229  ，CVSS 10.0 ，直接RCE",
+        "url": "https://mp.weixin.qq.com/s/BOwVCeBger_scte3X7vEYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "用友时空KSOA agent_worksadd.jsp SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/gkH2aB7wTmKcmsorA0MN2g",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "COM组件bypass UAC提权原理与实战分析",
+        "url": "https://mp.weixin.qq.com/s/c0r4eR5AWQhxt2rRxBgpQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "MariaDB 修复九个漏洞：可导致权限提升与代码执行",
+        "url": "https://mp.weixin.qq.com/s/AzkT2sK2k2pf-L2n-ZxZcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化",
+        "url": "https://mp.weixin.qq.com/s/dRdToeLQNfw8p5oRnEPT_w",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "Windows 图形化渗透测试工作台 -- PentestGUI（10月13日更新）",
+        "url": "https://mp.weixin.qq.com/s/Ofi2acb2udOR6Di0EqUdCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "AI 已经会批量找漏洞： 安全团队下一个问题可能是“修不过来”",
+        "url": "https://mp.weixin.qq.com/s/sCe_oph6ARsJ9Bv5jsmS4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "OpenAI GhostCompact 计费漏洞：token计费差了 669 倍",
+        "url": "https://mp.weixin.qq.com/s/6lG38xV9IJM8qrfljgr1QQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "(9.9分) CVE-2026-96012：IBM Db2 Mirror提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/mnsCXCUUtM9vKM7hD_J1kA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "NVIDIA曝高危漏洞，超2000台GPU监控主机暴露公网",
+        "url": "https://mp.weixin.qq.com/s/xvj8gZcpOeJNtZRz7pMZXg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "VPN网关爆出10分漏洞正在被利用 自查加固全流程我替你跑通了",
+        "url": "https://mp.weixin.qq.com/s/EuFOqu4qOhEYxbYvdDJ9Uw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "云天 · 安全通告（2026年10月13日）",
+        "url": "https://mp.weixin.qq.com/s/TqNK6AQSMb0v-afXkeXrCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "银狐C2供应商浮出水面：官方预警里的\\'深圳IP\\'实为香港机房，与最新投放控制端同源",
+        "url": "https://mp.weixin.qq.com/s/TXmFpNtpWlt7zsXW5QSaEw",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "赛博安全狗：pH7Builder 旧版本存在硬编码 API 密钥绕过漏洞 (10.12)",
+        "url": "https://mp.weixin.qq.com/s/m9UJaNZ2yT0Sr7qVlvu5DQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "GraphQL 漏洞 Part-2：深度嵌套 DoS、IDOR 越权与错误消息泄漏实战",
+        "url": "https://mp.weixin.qq.com/s/Mko0iLQgm-BZqQ-YCstoWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "用友U8+ UFFileManagerServices WebUploadServices 未授权任意文件写命令执行漏洞",
+        "url": "https://mrxn.net/jswz/U8-UFFileManagerServices-WebUploadServices-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "用友U8+ U8SL GetPassword 匿名口令重置设计缺陷漏洞",
+        "url": "https://mrxn.net/jswz/U8-U8SL-GetPassword-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-13"
     }
 ]
