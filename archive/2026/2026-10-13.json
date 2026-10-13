@@ -460,5 +460,17 @@
         "url": "https://mp.weixin.qq.com/s/2Kki1jFFYFXSbrH2Xx2PAA",
         "source": "Doonsec",
         "date_added": "2026-10-13"
+    },
+    {
+        "title": "【研究报告】主要国家APT网络攻击态势剖析与主动防御情报体系研究——基于2015—2026年公开事件的国家画像、证据融合与分层预警",
+        "url": "https://mp.weixin.qq.com/s/fbLTNKIcbq672yiKd2qsPQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
+    },
+    {
+        "title": "REA MCP工具曝零点击间接提示词注入风险，攻击者或可诱导 AI 智能体执行远程命令",
+        "url": "https://mp.weixin.qq.com/s/LZYOka5gaQ7C8cw6jgsJSA",
+        "source": "Doonsec",
+        "date_added": "2026-10-13"
     }
 ]
