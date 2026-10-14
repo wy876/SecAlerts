@@ -634,5 +634,71 @@
         "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-GetLoginUserImg-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-14"
+    },
+    {
+        "title": "三次卡住：一次合规视角下的渗透测试复盘",
+        "url": "https://mp.weixin.qq.com/s/qsh3zVn1KmyjmewQhKCPAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "思科警告：ISE 存在严重零日漏洞，已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/HMUyySLGWsDUkhyXznwbDw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "安全预警 | GitLab 正则表达式编译器远程代码执行漏洞（CVE-2026-97229）",
+        "url": "https://mp.weixin.qq.com/s/r4rdlhwbnKZVROslK49p-w",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "HTML与JavaScript的暗面：当DOM操作成为渗透测试的武器",
+        "url": "https://mp.weixin.qq.com/s/UgxW-Wvk2xxnDha8DYusQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "最新AI渗透平台收录【信矛 AI 自主渗透平台】",
+        "url": "https://mp.weixin.qq.com/s/Lpb7mKKmPkGUa0fhxkHYTA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【重要POC】金蝶产品线安全漏洞汇总",
+        "url": "https://mp.weixin.qq.com/s/XmioDZX0SquMgir32tQKgg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "GitLab CVE-2026-97229 满分 RCE 分析：一条注释骗过校验，一次重编译引爆 Onigmo",
+        "url": "https://mp.weixin.qq.com/s/N_BHp8Dv-RUgjOStWhr2ow",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "学网络安全卡在第一步？这套资料库+靶场+6000份漏洞报告，全部免费领",
+        "url": "https://mp.weixin.qq.com/s/ppr3knJHbGFz9Ei-ODYGkw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "一个skill让哥斯拉Bypass D盾HOOK",
+        "url": "https://mp.weixin.qq.com/s/HRrAKDwQi-57KFLmZAMbTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【漏洞通告】GitLab远程代码执行漏洞（CVE-2026-97229）",
+        "url": "https://mp.weixin.qq.com/s/mBgFuxkiXVTm_zGChtmdDQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【安全更新】微软10月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s/kNgZf6XrOsvaPDVYNYyUiA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
     }
 ]
