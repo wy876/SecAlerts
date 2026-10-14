@@ -34,5 +34,197 @@
         "url": "https://mrxn.net/jswz/youjiasoft-env-setup.html",
         "source": "MRXN",
         "date_added": "2026-10-14"
+    },
+    {
+        "title": "MCP、SKILLS、RAG：智能体供应链安全该怎么查？",
+        "url": "https://mp.weixin.qq.com/s/i1n_BFER_dhL7aXgRFT-Jw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【补丁日速递】2026年10月微软补丁日安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/V2XoIsTEYT0yiSaAydMYJg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Microsoft Windows Shell命令注入漏洞(CVE-2026-96951)」等2个漏洞",
+        "url": "https://mp.weixin.qq.com/s/YfjCU10apyTQ_fUZaHOWRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "某通用站点未授权文件上传等",
+        "url": "https://mp.weixin.qq.com/s/8BbG7sV1qofuhydiwdysCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/0TVIMOZhQHs3bgnctl6q0Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "\\\"扫过了，没发现漏洞\\\"——AI 供应链安全里，这句话为什么不再成立",
+        "url": "https://mp.weixin.qq.com/s/Rxwb6q-r5BoKMcNMy69pYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "AI挖洞实战 04 | Workbuddy+Skill技能库，完整复现短信验证码复用漏洞",
+        "url": "https://mp.weixin.qq.com/s/kmlQliDXWzuQbbwA2tqhUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "0day预警|微软最新0day漏洞CVE-2026-96951 ,已在野利用，重点关注钓鱼攻击，速修",
+        "url": "https://mp.weixin.qq.com/s/DRz5dDW0B-wasEmDwLUv3g",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "Anthropic 发出安全预警：小型模型或将实现自复制，催生物联网 AI 蠕虫风险；CNNVD：2026年9月新增漏洞13849个，授权问题占比最高| 牛览",
+        "url": "https://mp.weixin.qq.com/s/YlL0kP-Cjc8Vq7TjfJ25_Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "「AI漏洞挖掘+SAST误报+Agentic安全：Capital One开源VulnHunter实测拆解」",
+        "url": "https://mp.weixin.qq.com/s/UI0oBpf867E-tXNU3APneQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "从解密验签到任意用户登录漏洞的一次真实案例",
+        "url": "https://mp.weixin.qq.com/s/j7awGSQ-i4431p2S8Pv-Ug",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【安全速报】10月14日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/N2dHIBKI7kmL1RRSXXFuRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "Zigbee 近场打进网关：拆 Philips Hue Bridge 的 OTA 堆溢出（CVE-2026-3555）",
+        "url": "https://mp.weixin.qq.com/s/EloyWJNgQI4qrRMFfiZ2Cg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第39、40期",
+        "url": "https://mp.weixin.qq.com/s/ALjgGGwYtQrLOywqg99fnw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "赛博安全狗：微软Windows高危漏洞CVE-2026-83688可致堆溢出 (10.14)",
+        "url": "https://mp.weixin.qq.com/s/7AqTAcVMs7zyoRhBzRx5TQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "(9.3分) CVE-2026-104935：Ivanti VPN未授权RCE",
+        "url": "https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "深科特 LEAN MES系统 SetDataSource.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "拉黑后消息重放漏洞",
+        "url": "https://mp.weixin.qq.com/s/7vmagRvK2kzZJIEnGvcxsw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "银狐木马藏进ISO镜像：双语言剧本共用一个载荷，新C2与官方预警IP同属CTG机房",
+        "url": "https://mp.weixin.qq.com/s/PlX-pFHNhde4706NsoLQfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "微软10月补丁日多个产品安全漏洞风险通告：1个在野利用、36个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s/O8BS-zv196FH2Vjz8fZbzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "大华智慧园区综合管理平台poi接口存在文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/fhMjh8xbnW3vk-FH1tdXog",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "TanStack CVE-2026-102989（CVSS 9.3）反射型 XSS 漏洞波及月下载量达 9800 万的生态系统",
+        "url": "https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "【漏洞预警】AnyDesk Linux存在堆缓冲区溢出漏洞(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/1nlLjhBv2YTG4WxlAqYv5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "「SRC漏洞」越权漏洞中：平行越权改ID，垂直越权改鉴权",
+        "url": "https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "漏洞复现 | 用友U8 Cloud BusinessRefAction 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "PentAGI：一套完全开源的“AI红队”——多个智能体互相配合，独立完成渗透测试",
+        "url": "https://mp.weixin.qq.com/s/PmmNcv5AcapFVJog0JhJMw",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "Google 9 万美金的RCE：Flask 会话 Cookie 自签密钥与 Pickle 反序列化",
+        "url": "https://mp.weixin.qq.com/s/xZkQoGA944aOKwDdESTP0Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "Apache Tomcat 11.0.27 未认证DoS 0Day",
+        "url": "https://mp.weixin.qq.com/s/t7lsfvH_VPh9T-WhAxuGTA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "GraphQL 漏洞 Part-3 收官：进阶玩法与 19 份 HackerOne 实战报告速查",
+        "url": "https://mp.weixin.qq.com/s/0-QYczDO_M_jfaRhWkAKBA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell",
+        "url": "https://mp.weixin.qq.com/s/-2cVW9EcwezUH6yYrJgBRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "友加畅捷管理系统标准版  GetFullIDFullPath接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-GetFullIDFullPath-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-14"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 CreateImage接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-CreateImage-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-14"
     }
 ]
