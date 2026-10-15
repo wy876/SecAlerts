@@ -184,5 +184,203 @@
         "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-GetParentIDInfoByTabName-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [CVSS 10.0！特定条件下 GitLab 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508985&idx=1&sn=b63a6fd65bfae883784f458087955f42",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [微软10月补丁星期二修复 1000 多个漏洞，含3个0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527373&idx=1&sn=e04ac06cd5a72ef70fa7004cdb4808ef",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [西门子：注意未修复的八个 SIMATIC S7-1500 Web Server 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527373&idx=2&sn=21027b1dc46cd40d5dec502dbfbbfb5b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [AI发现Linux内核vhost漏洞，本地用户提权Root，虚拟机可逃逸宿主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622815&idx=3&sn=aad7790b91cde1769122515577e9a612",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [AI 蠕虫预警：15 台 55 美元电视盒子，跑起 260 亿参数模型",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520896&idx=1&sn=4f25137305c30f83f32b95c65f31a6e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [【安全圈】特朗普集团旗下移动网络公司遭黑客入侵，3615 名用户个人信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079355&idx=2&sn=b95bda7fe916f9a7daad1be8a4ff2f8a",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [AI 代码审计能替代安全工程师吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkwNzIxMDUyNg==&mid=2247485274&idx=1&sn=06a4599d12c030c5aca8c2d96eb73691",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [硬件钱包被人偷装了后门：一亿美元加密资产是怎么被卷走的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516720&idx=2&sn=888813b37dd9d7cf86e688fd3a169bb3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [一行正则表达式触发 RCE：GitLab CI/CD 漏洞风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498029&idx=1&sn=d96ad84bdf688fca53bd62274fc05b65",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [【已复现】GitLab 远程代码执行漏洞（CVE-2026-97229）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493410&idx=1&sn=78dc1b059ab1b615bb098ed0c5c92167",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [微软补丁日安全通告|10月份",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526197&idx=1&sn=63966d8adcd5b9e514e8b8ee00fb9231",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [微软10月补丁日多个产品安全漏洞风险通告：1个在野利用、36个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507773&idx=1&sn=823c603b215ae5a98e0a2fce23c33029",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [2026-10微软漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538300&idx=1&sn=59ded643829be587be89f5bece9d0550",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [Anthropic 发出安全预警：小型模型或将实现自复制，催生物联网 AI 蠕虫风险；CNNVD：2026年9月新增漏洞13849个，授权问题占比最高| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142959&idx=2&sn=b14b50eae47eefdd742e6df1e9122bf2",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [【漏洞通告】GitLab远程代码执行漏洞（CVE-2026-97229）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493675&idx=1&sn=88a32507fa998b7e8bd024e1fdc9f012",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "] [【安全更新】微软10月安全更新多个产品高危漏洞通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493675&idx=2&sn=49471e9954c19a8e3f6db1141608d3bd",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "记一次完整的Linux本地提权实战",
+        "url": "https://mp.weixin.qq.com/s/gtEKHRR6WNSjfzn24nYI4Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "踩坑|oscp考试中域渗透和横向工具impacket-scripts脚本使用方法",
+        "url": "https://mp.weixin.qq.com/s/bewRToay0WSkYNk7Imc6Ew",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布",
+        "url": "https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "韩国金融部门：16家金融机构遭网络攻击10万条信息泄露 130家存在不足",
+        "url": "https://mp.weixin.qq.com/s/1BXi7s5wk62d-P8EK1YyHA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Palo Alto：PAN-OS RCE 漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "自动化挖掘驱动漏洞",
+        "url": "https://mp.weixin.qq.com/s/CkkajPHxj83J0-p4LIKbCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "GitLab 未授权 RCE（CVE-2026-97229）紧急预警，自建实例请立即升级 19.4.2 / 19.3.5 / 19.2.8  POC",
+        "url": "https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "乙方安全工程师/红队：冠军 AI 渗透工具 ARTEX 闭源了，自主攻防时代却挡不住了",
+        "url": "https://mp.weixin.qq.com/s/lWyw73IA81AmXaAlSRfhEQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "「关键漏洞目录」新增「GitLab CE/EE整数溢出漏洞(CVE-2026-97229)」等5个漏洞",
+        "url": "https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15)",
+        "url": "https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "NGINX 爆出 3 个高危漏洞！可远程使服务崩溃，特定条件下可代码执行",
+        "url": "https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "一套可留证的渗透测试工作流",
+        "url": "https://mp.weixin.qq.com/s/wx8lR3HeEMqzi69FcatzfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "记一次SRC—从 Drupal 自定义模块源码泄露到任意文件读取和sql注入",
+        "url": "https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/b1SRiK0m9NzC0YF5Mx2Wqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "漏洞报告越积越多，整改究竟堵在补证、验证还是交接",
+        "url": "https://mp.weixin.qq.com/s/tc31rSMQ1CR_d4DW3jvVGg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 CGHH接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-ORDER-CGHH-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 Image接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-Image-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-15"
     }
 ]
