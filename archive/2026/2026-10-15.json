@@ -1,0 +1,188 @@
+[
+    {
+        "title": "「AI漏洞挖掘+漏洞赏金侦察+7问验证闸门：Agentic Bug Hunter开源拆解」",
+        "url": "https://mp.weixin.qq.com/s/02GL2fVon90Z5ALCWISrcA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "AI挖洞实战 05 | Workbuddy+Skill技能库，完整复现垂直越权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/b6oZlDc6TT2d-7TcYE_blw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "OpenCode session 命令执行漏洞(CVE-2026-22812)",
+        "url": "https://mp.weixin.qq.com/s/z3tQtAWZjlB8Fam5FkztZw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Linux vhost 漏洞 PoC 公开，虚拟化边界需要重新核对",
+        "url": "https://mp.weixin.qq.com/s/8-Urepp7voEW992Hf-6kQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Artex二开-代码审计平台",
+        "url": "https://mp.weixin.qq.com/s/_cNE2ERHAixwZw5o8GzrwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "一次较为简单的任意用户密码重置漏洞挖掘过程",
+        "url": "https://mp.weixin.qq.com/s/sJhnZdzceyhHFQbJo0Ugrw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Splunk爆出9.8分高危漏洞【PoC已公布】",
+        "url": "https://mp.weixin.qq.com/s/8p3thSsmkkPFFs7KZuzN-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "危险！投稿系统存在越权漏洞，竟能随意撤销别人的论文！",
+        "url": "https://mp.weixin.qq.com/s/mBPRD6zAMdE7E-OaKsYPBQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "F5 修复三个 NGINX 漏洞：可导致内存损坏和远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/qCXR8lrFtXG3yL7D54qJQw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "从0-1：AI自动化漏洞挖掘实战训练营",
+        "url": "https://mp.weixin.qq.com/s/9pqzTUL8x_TEr8PXRjx_Pw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Anthropic预警AI自我复制风险，智能电视等IoT设备恐遭利用",
+        "url": "https://mp.weixin.qq.com/s/rfCgpn4EZqJrlvDSAKXlEA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "漏洞复现｜CRMEB image_base64存在SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s/wfXUrVGUNRjE0yPbzpOR4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "AI 驱动的自动化代码审计与漏洞挖掘平台",
+        "url": "https://mp.weixin.qq.com/s/V1zHZyN66WIY1Lj155oSOQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "CISA 警告管理员立即修复被利用为零日漏洞的 Ivanti 漏洞",
+        "url": "https://mp.weixin.qq.com/s/nbdaXVu2erBZnR3l3dO37g",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "提示词注入攻击AI时代的新安全威胁",
+        "url": "https://mp.weixin.qq.com/s/aI7HYJx0ZjkNUFOyureNtA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "从0-1：AI自动化漏洞挖掘实战训练营",
+        "url": "https://mp.weixin.qq.com/s/1CiSfxVCO5joTdraYNg2mA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "XBOW联手GPT-5.6用6天拿下Chrome全链漏洞,Google付了25万美元赏金",
+        "url": "https://mp.weixin.qq.com/s/YNpIu78SlOmwn4iW6AxJwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "国内多地中小企业云服务器遭FlyLegit僵尸网络批量入侵，弱口令设备成肉鸡",
+        "url": "https://mp.weixin.qq.com/s/jzNX2JNdoNFkcsx-dJL4YA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "研究人员利用公开的OpenAI模型，在六天内构建了一个价值25万美元的Chrome全链漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/Q4lfmbuYxgDGRfSlXHHCVQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "Artex二开-代码审计平台",
+        "url": "https://mp.weixin.qq.com/s/soTqG-WbyfhbOegv98BHig",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "SYSTEM 权限之上还有高手？深度拆解 Windows SmartScreen 飞地代码执行漏洞（CVE-2026-83498）",
+        "url": "https://mp.weixin.qq.com/s/eoDPyclYfp_N0PE9fVQjpg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "【紧急漏洞预警】GitLab整数溢出导致RCE漏洞(POC已公开)",
+        "url": "https://mp.weixin.qq.com/s/8eLsLmDxKtM36Djg-pCUbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "(7.3分) CVE-2026-105133：AhsayCBS备份服务器认证绕过组合RCE",
+        "url": "https://mp.weixin.qq.com/s/VEQGw-IIig2wOx-3I76UPw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链",
+        "url": "https://mp.weixin.qq.com/s/uqW1LjrI1xr_xt7nMihMaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "从专有LLM API中窃取推理轨迹：跨会话、跨用户、跨模型的加密推理漏洞解析",
+        "url": "https://mp.weixin.qq.com/s/DjrNQ_ZOhToxfH4oR6GWgw",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "【热点安全风险】10月15日｜Ivanti Connect Secure 曝认证绕过漏洞并遭在野利用，攻击者可绕过身份校验执行任意命令（CVE-2026-104935）",
+        "url": "https://mp.weixin.qq.com/s/SID7WpP7JppWHWbZL7qrzA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "AuthKit — 首个多维度辅助检查鉴权安全的burpsuite插件 | 辅助发现未授权访问、水平越权、垂直越权及 BOLA / IDOR 风险",
+        "url": "https://mp.weixin.qq.com/s/U_UVrtu4ffJ0kfDdJF3iEg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "航运公司和港口卷入大规模网络勒索——n0n一次性点名38家海事企业，共享漏洞疑云笼罩全球供应链",
+        "url": "https://mp.weixin.qq.com/s/yaBmCoyYEaDt0yw2z-M3pA",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "提示词注入：大模型的“死穴”，为何至今无解？",
+        "url": "https://mp.weixin.qq.com/s/LZ5-D59i7bbsIx_HIx3SCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "50个工具、296个测试、四类智能体：目前最工程化的开源AI渗透框架",
+        "url": "https://mp.weixin.qq.com/s/Oxos5AJpGb6UzM1NJx5P3w",
+        "source": "Doonsec",
+        "date_added": "2026-10-15"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetParentIDInfoByTabName接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-baseinfo-GetParentIDInfoByTabName-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-15"
+    }
+]
