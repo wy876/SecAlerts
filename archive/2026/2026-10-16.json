@@ -478,5 +478,47 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Order-GetOrderByDisAndTag-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-16"
+    },
+    {
+        "title": "10月Next.js未授权远程代码执行漏洞链分析",
+        "url": "https://mp.weixin.qq.com/s/dvMj_VJ8zeaCmCWtjJqJPw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【转载】提示词注入实战—通过在线靶场看提示词注入手法",
+        "url": "https://mp.weixin.qq.com/s/wj67JqiEfJ6lX-64GFhnmQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Vulnhub 靶场实战：独立分析五阶段法与提权路径全解析",
+        "url": "https://mp.weixin.qq.com/s/svKuAZN6EwruEI_xVlrC-A",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【已复现】CVE-2026-76519 Cisco Secure Email Gateway 任意文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/o1wouUrlAHCXUP6uX5fbUQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【已复现】CVE-2026-110447 Nextcloud 内置 Collabora 未认证 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/F-15fTyI12jVd-SRhb9sOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "XSS平台搭建与实战利用：从BlueLotus部署到绕过CSP和Trusted Types",
+        "url": "https://mp.weixin.qq.com/s/n0wdU39nPGRm2eOPB7vVRw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "关于双十一期间暂停授权测试及漏洞收录的通知",
+        "url": "https://mp.weixin.qq.com/s/qoyWigfL25Yn96yUGUTS5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
     }
 ]
