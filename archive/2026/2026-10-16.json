@@ -232,5 +232,251 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Order-GetInfoByPrintType-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-16"
+    },
+    {
+        "title": "] [微软发布3个Active Directory漏洞预警，支持远程绕过安全防护",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622850&idx=3&sn=5498ef6c424c4a8d16fd441ddb086d1a",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "] [Palo Alto：PAN-OS RCE 漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527392&idx=1&sn=44cddd7e186a3bcdca81b7ae6690583f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "] [一把普通账号钥匙，打开AI网关的大门：LiteLLM两大高危漏洞深度解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520934&idx=1&sn=bb8b0ad66415622209dc02c9845737bb",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "] [【漏洞通告】GitLab远程代码执行漏洞(CVE-2026-97229)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526209&idx=1&sn=cce239ea2a7c2491a8f2b4fec613591d",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Nightfall — 渗透测试",
+        "url": "https://mp.weixin.qq.com/s/kjr7oqsPS5U6f_-bSLvyuw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Turnstile Ticketing Systems — 渗透测试",
+        "url": "https://mp.weixin.qq.com/s/jkqK8IB9jKT1USFB0Xx3ww",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Linux 内核曝出严重漏洞：可导致虚拟机逃逸并获取宿主机控制权",
+        "url": "https://mp.weixin.qq.com/s/yayaoL2lXOzVFyoKt2OOWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Next.js 曝出严重漏洞：可导致未授权远程代码执行 (RCE)",
+        "url": "https://mp.weixin.qq.com/s/HXQ8io4JvsQorAVk9Z-fug",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程",
+        "url": "https://mp.weixin.qq.com/s/L8B0JcF9u0qjDj5qXgK4Aw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "月薪60-70k！智驾安全、IoT 渗透岗火热招聘",
+        "url": "https://mp.weixin.qq.com/s/iNww4M0XHhyWd5-MpV55kw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s/OtN2kVEfiSai68TZdXuEaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "ChatGPT GitHub连接器存严重漏洞，攻击者可窃取私有仓库密钥",
+        "url": "https://mp.weixin.qq.com/s/hRZaKRg8OGHfAV1x7T8OGg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "59% 的汽车安全漏洞，都在你的车机和 T-Box 里",
+        "url": "https://mp.weixin.qq.com/s/hGzub_zM5pQ78BUJm97H_w",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "大模型安全攻防实战：提示词注入与越狱攻击深度解析",
+        "url": "https://mp.weixin.qq.com/s/Zs0TbptZrsyg9TdP5xtkLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【复现】GitLab正则表达式编译器未授权远程代码执行漏洞（CVE-2026-97229）",
+        "url": "https://mp.weixin.qq.com/s/dv66RLXRoEGxaea7oHaTbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【漏洞通告】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)",
+        "url": "https://mp.weixin.qq.com/s/a2ommAMgmPiahK-mX-DURA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/z8IFXcN5B4r7wLjKelFReQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【免费领】Android APP 渗透测试实战教程",
+        "url": "https://mp.weixin.qq.com/s/K7I3oZHOShsGyYfHj-DxJA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【高危预警】威胁行为者公开兜售76家国内企业SA特权账号，核心系统面临“裸奔”危机",
+        "url": "https://mp.weixin.qq.com/s/7F7nbvk8NdaCbXvrWSb2WQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Next.js 紧急修复两个严重的 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/Rb_Tq5UQddQYbrIObmPn6Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Citrix XenServer 存在多个高危漏洞，虚拟机内高权限用户可攻陷宿主机",
+        "url": "https://mp.weixin.qq.com/s/hjYIfLaekV6If-6quIIzcw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "如何使用AI辅助构建最合适渗透的爬虫系统？",
+        "url": "https://mp.weixin.qq.com/s/84QEmrxIow6vuk1xKuYo7Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "别让安全配置的疏漏，成为企业网络防御的致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/aheZ8PlRLmitUjHchOaBTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "安全圈又有新玩具了！给 DeepSeek 装上红队工作流，渗透、审计、逆向、溯源一套整上",
+        "url": "https://mp.weixin.qq.com/s/6m8oipGXIF2dlJJJ4Sw6Ug",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Kali Linux渗透测试指南（详细教程，建议收藏）",
+        "url": "https://mp.weixin.qq.com/s/Kt4SMXLHIQWn3MJUvmCWmg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/enuho7Zcuro-tlt_2bWGzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Linux内核IPv4校验和处理缺陷曝光(CVE-2026-99999)，恶意数据包或影响虚拟机隔离",
+        "url": "https://mp.weixin.qq.com/s/RQ3prr9FtqJjBt1UGWSIAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "信息安全漏洞周报【第095期】",
+        "url": "https://mp.weixin.qq.com/s/zcT2UVRwqD9tcToKvufgnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "远程代码执行漏洞利用分析",
+        "url": "https://mp.weixin.qq.com/s/ZXphbwP2O8R2x_EpG4aqXA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "Ivanti Connect Secure 未认证 RCE 与提权漏洞链分析：VackBot 已实现检测覆盖",
+        "url": "https://mp.weixin.qq.com/s/eI-M08PhpbUsYp8YGuA2yg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "【通知】关于陌陌安全暂停接收安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s/MH1ne7qF8b8CCbifdqr7DA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "丹麦人口库880万数据泄露：合法查询权限为何成为最危险的后门？",
+        "url": "https://mp.weixin.qq.com/s/6nzMixw_ob6rvfqCBzKnWg",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "渗透测试入门｜第 3 章 搭建模拟靶场，新手必看！",
+        "url": "https://mp.weixin.qq.com/s/wn1BFT_QrukCwDof8XuoIw",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "AI挖洞实战 06 | Workbuddy+Skill技能库，完整复现水平越权漏洞",
+        "url": "https://mp.weixin.qq.com/s/o2D8EgBoxN_wf3hd-lB2Ow",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "「AI渗透测试+自主Agent」PentAGI拆解：3万星自托管多Agent+20款安全工具沙箱实测",
+        "url": "https://mp.weixin.qq.com/s/zlLXY_BwN-draqRSqXbQnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/Ar_lPZX3Te-HSJAfk9WoeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "从http3协议利用到ssrf服务端请求伪造，从joomla后台反弹shell到suid提权--靶机练习之HarryPotter_Nagini",
+        "url": "https://mp.weixin.qq.com/s/mRZGf9ZGrZUW47ywpO1I-g",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "react2shell漏洞分析(一)",
+        "url": "https://mp.weixin.qq.com/s/2p0Zs62HRJu5m5bhRVDW3A",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "谷歌跳过 Gemini3.5，Gemini4 Argon 正式发布强化网络安全防御能力；CNCERT周报：后门网站与新增漏洞双升，仿冒攻击仍锁定银行政务| 牛览",
+        "url": "https://mp.weixin.qq.com/s/7alu9oDcoJwMxNXk0ZKBeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "赛博安全狗：X.Org Server XKB组件发现高危缓冲区溢出漏洞CVE-2026-93520 (10.16)",
+        "url": "https://mp.weixin.qq.com/s/eLep5l4B5GfHljPJ1uXPRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-16"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetOrderByDisAndTag接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Order-GetOrderByDisAndTag-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-16"
     }
 ]
