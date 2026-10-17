@@ -4,5 +4,125 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Order-GetProdAvgPrice-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [51个AI代理，61秒植入32个后门：黑客已经把AI训练成红队主力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790582&idx=1&sn=1ba627a29325739cbc67be4535160b89",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [【已复现】Ivanti Connect Secure 未认证 RCE 与提权漏洞链（CVE-2026-104935）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [Next.js 紧急修复两个严重的 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [Citrix XenServer 存在多个高危漏洞，虚拟机内高权限用户可攻陷宿主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=2&sn=68e689badd57f2a02a75e4aa106287cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [react2shell漏洞分析(一)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485889&idx=1&sn=af8253afd242efae25032bdcef59c942",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=1&sn=93f5441a8bb0cfae0caf8d0832e1ef39",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [月薪60-70k！智驾安全、IoT 渗透岗火热招聘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=3&sn=be20153f1c3305769b9371383427b8bf",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=4&sn=976202946225884b7d8e59848a6c9654",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [全球首个多AI Agent渗透平台RedAgents正式发布",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188391&idx=1&sn=95923eb3150dfbf2169ff046192bdd5c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [【安全圈】日本汉堡王遭未授权访问，1118 万条客户信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079367&idx=2&sn=fdc0fec3f5adc2890659518499a24029",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [关于双十一期间暂停授权测试及漏洞收录的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851378&idx=1&sn=4718355506f5eecf6fd324394958dfaf",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [谷歌跳过 Gemini3.5，Gemini4 Argon 正式发布强化网络安全防御能力；CNCERT周报：后门网站与新增漏洞双升，仿冒攻击仍锁定银行政务| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=2&sn=a9c56ce81909f56a10b5712be94203b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [【已复现】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507799&idx=1&sn=27f79114146357700bf5e65569734dd5",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [【通知】关于陌陌安全暂停接收安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489668&idx=1&sn=3947b4d878425a1fb03e4146d691a5ac",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [技术分享 | CVE-2026-87902 WordPress 页面模版路径穿越漏洞分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545961&idx=1&sn=973b7c6379a1e5049deee85659c721f4",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [【漏洞通告】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526221&idx=1&sn=b7b487fce38b4722baca62c596d58193",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [工具输出注入沙箱化与净化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497293&idx=1&sn=4c5c5b67c6fd2cedd8bb8fcfef6a63b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [中国版Mythos|灵脉CodeAI：AI代码漏洞挖掘的智能进阶之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801006&idx=1&sn=2a44b6b8433f40255b49df56cf9f524c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "] [如何使用AI辅助构建最合适渗透的爬虫系统？",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530458&idx=1&sn=824d02ed76b603de44c8779f732c9f41",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-17"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetAccountList接口信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Pos-GetAccountList-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-10-17"
     }
 ]
