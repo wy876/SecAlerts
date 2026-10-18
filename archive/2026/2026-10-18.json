@@ -4,5 +4,47 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Public-GetCommonCustList-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-18"
+    },
+    {
+        "title": "] [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "] [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "] [一台\"锁死\"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "] [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetEmpZH接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Public-GetEmpZH-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-18"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetEmpPayReceiveAccount接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Public-GetEmpPayReceiveAccount-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-18"
     }
 ]
