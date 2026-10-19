@@ -460,5 +460,59 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Public-GetQueryConditionGroup-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-19"
+    },
+    {
+        "title": "新一代 AI 自动化渗透工具 Xalgorix",
+        "url": "https://mp.weixin.qq.com/s/GHp8E8kaeaQK7xJEsq7X5g",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "比特币早期客户端被成功复现: 从编译器到WinRAR，逐字节还原中本聪的发布流程",
+        "url": "https://mp.weixin.qq.com/s/THzZBUrz6_v7EghdXFiYfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "AI 赋能的漏洞播报系统、获取最新漏洞Poc、自助接入漏洞社区、双向Nuclei通道，持续监控全网漏洞披露信息",
+        "url": "https://mp.weixin.qq.com/s/1BfR7-UwHirW-yyDhmLzBg",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "AI供应链安全（5）：成效展示——AI供应链安全成熟度度量",
+        "url": "https://mp.weixin.qq.com/s/zRAE4X3dtLByRFPEt6xYoQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "畅捷通T+ GLSyncService.asmx接口存在任意文件读取漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/k_vdXgNabCTaAfSeWVXn3A",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "在野利用！SiteGuard WAF命令注入，CVSS 8.5 可拿SYSTEM权限",
+        "url": "https://mp.weixin.qq.com/s/rapfFlyqlXxRc4OBx3YK9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "共享内存漏洞已存在37年，可用于获取 OpenBSD 根权限",
+        "url": "https://mp.weixin.qq.com/s/NhmPlvMG4MfgTIImPIEvjQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "同一个漏洞，两种 payload： Zen Cart 零权限 RCE 的两次实战",
+        "url": "https://mp.weixin.qq.com/s/652cKBtxkbPOA6CH6JrGog",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
+    },
+    {
+        "title": "【安全圈】连密码都不用！博通WiFi曝0day隔空秒拿ROOT",
+        "url": "https://mp.weixin.qq.com/s/Dvp_bnYOD1IRH6dBHGxXWg",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
     }
 ]
