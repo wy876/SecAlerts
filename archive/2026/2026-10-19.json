@@ -514,5 +514,11 @@
         "url": "https://mp.weixin.qq.com/s/Dvp_bnYOD1IRH6dBHGxXWg",
         "source": "Doonsec",
         "date_added": "2026-10-19"
+    },
+    {
+        "title": "已复现 | Windows Shell 0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/ATmhAQ604-sz7bc4v_hJZQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-19"
     }
 ]
