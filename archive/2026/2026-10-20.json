@@ -1,0 +1,74 @@
+[
+    {
+        "title": "速修 | Mercury 未认证 RCE 直接拿 root，CVE-2026-111057",
+        "url": "https://mp.weixin.qq.com/s/gTInIh6e36FRCPyEhQBVIA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "一个 %df 吃掉反斜杠：宽字节 SQL 注入从原理到拖库",
+        "url": "https://mp.weixin.qq.com/s/gpsFVn4eDfDKzmxDExvNXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "微软向研究员发放4000美元奖金，奖励其发现VS Code高危安全绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/9aaNgHLqV_HrjwNh-lgnlg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Pwn2Own 汽车赛事：漏洞、利用与经验总结",
+        "url": "https://mp.weixin.qq.com/s/zPIdFMstSJlkbKkwK42eQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "漏洞预警 | MariaDB表名编码绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/GkcnMibp3ADH5d3vGvZzbQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "渗透测试思路怎么找未授权接口和隐藏参数",
+        "url": "https://mp.weixin.qq.com/s/-TgVkX5fLx9iMj6bMxg2ew",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "智能网联汽车漏洞管理实践探索",
+        "url": "https://mp.weixin.qq.com/s/Oj0UZDPODezCxL__UWvIzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "漏洞预警 | Windows Shell安全功能绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/Kt26vu4cDKuRnlG9N-qkhg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【热点安全风险】10月20日｜Windows Shell 注入漏洞遭在野利用，攻击者可绕过互联网文件标记 （CVE-2026-96951）",
+        "url": "https://mp.weixin.qq.com/s/Xzw_O7BYJccmvbsc-cOU1A",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "换模型不如换架构：52 组实测之后，AI Agent 挖漏洞真实排名",
+        "url": "https://mp.weixin.qq.com/s/Hg6fdqTYioILT7ooKP8-BA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "WordPress 的严重漏洞允许攻击者在无需身份验证的情况下执行远程代码",
+        "url": "https://mp.weixin.qq.com/s/gROVYJlbaUS0XI30QbXPrg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 SaveDefaultQueryConditionGroup接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveDefaultQueryConditionGroup-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-20"
+    }
+]
