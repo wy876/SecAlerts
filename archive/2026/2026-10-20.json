@@ -292,5 +292,281 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroup-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [打开即执行！Windows Shell 安全功能绕过漏洞已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508993&idx=1&sn=1c0d83938d3bf46d778f4fcf0e098470",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.10.12-2026.10.18",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503993&idx=1&sn=067fe1236e485e5a5dbd2ff73f8f065d",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [打穿虚拟化边界！Corvus AI 与 隐藏十年的 Linux 内核漏洞的一场对决",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208833&idx=1&sn=c6feb53ecd60d5b101274ccba3025d20",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [发生多起AI入侵事件，受害企业却毫不知情！印度CERT发布紧急预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516738&idx=1&sn=5651b72f452d82baf0b293f3893adbfc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [【已复现】PwnEscape：Linux 内核 IPv4 校验和缺陷可致虚拟机逃逸（CVE-2026-99999）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493423&idx=1&sn=4a1dd9bd2b6ddbc6a90da96666717fa3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [AI安全案例分析｜智能体绕过 Vercel 沙箱隔离外泄数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495606&idx=1&sn=4501fdb5cc00dcca09bb1a92360f9950",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [微软在10月份修复了1400+个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505391&idx=1&sn=51c3f557c661c661a2dff555dfbe31df",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [漏洞管理不能只看评分高低，更要看对业务的实际影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544210&idx=1&sn=2143864f8d1ec8b7246e32f898f9d914",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [【安全圈】连密码都不用！博通WiFi曝0day隔空秒拿ROOT",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079403&idx=1&sn=21c4f345cc81f0721be1f3a465c9026c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [Anthropic Mythos检出大量漏洞，美国银行增聘千名外包人员开展修复；AI生成漏洞报告泛滥，Intel、Google相继调整漏洞赏金计划  |牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142987&idx=2&sn=4dd083f2be0fdd4cb4af60bf5bc70042",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [【已复现】Windows Shell 安全功能绕过漏洞(CVE-2026-96951)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507824&idx=1&sn=f728bbc888c3471db48ed9decc634776",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [关于双十一期间暂停授权测试及漏洞收录的通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486697&idx=1&sn=977ecf5076ed8995c9b019fc8de3ee7f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第41期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497445&idx=1&sn=de9c44e651189b8c59f4576028114643",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20261012-20261018)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497445&idx=2&sn=13cf0748da4ec26513d7555e8bc0ab8d",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【高危漏洞预警】Drupal Field UI远程代码执行漏洞(CVE-2026-108097)",
+        "url": "https://mp.weixin.qq.com/s/-U6_L1S5mE2NgGdcyVnMmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【安全圈】双11前紧急叫停！京东JSRC全面暂停外部漏洞测试",
+        "url": "https://mp.weixin.qq.com/s/xTb5J9wtlH7lm5ajhNFdSA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【安全圈】四漏洞连环击穿！Plex遭武器化利用植入挖矿木马",
+        "url": "https://mp.weixin.qq.com/s/lmmJEcyfiiJivRLFEXVxJg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "AI供应链安全五步法 —— 从“看不见”到“管得住”，一条能真正转起来的治理链",
+        "url": "https://mp.weixin.qq.com/s/B9kdRdPFIldGmzhmvJOjQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "美国要求联邦机构清除DeepSeek产品，AI供应链安全审查升级",
+        "url": "https://mp.weixin.qq.com/s/w5TpIaOBJjzhAslgS8Y67w",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "博通Wi-Fi漏洞已存在16年，攻击者无需密码即可接管路由器",
+        "url": "https://mp.weixin.qq.com/s/IycThRAtuKyo52EN8cUBsQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "漏洞速递 | CVE-2026-108097 Drupal RCE漏洞（附下载）",
+        "url": "https://mp.weixin.qq.com/s/bYzGVZCyIb2sO-dH_YWTTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "安全419｜一周国际网安资讯：Proofpoint 63亿美元收购Varonis，CISA单周9个在野漏洞催修复",
+        "url": "https://mp.weixin.qq.com/s/5ayMlw3B2jO4nTJ76TT_mQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【免费领】硬核渗透工具：Coablt Strike官方教程（中文版）",
+        "url": "https://mp.weixin.qq.com/s/5h7pfh7D6dTqmRmSW_ldUg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "漏洞预警|知名媒体服务器Plex Media Server曝未授权访问的远程命令执行漏洞plex2shell cvss 9.8",
+        "url": "https://mp.weixin.qq.com/s/krz-kzNwUWcihExuaYo5mQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "关于TSRC漏洞奖励方案调整及测试行为违规通报的公告",
+        "url": "https://mp.weixin.qq.com/s/hBD21o1y-Gq3WwqrJNWAhQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【漏洞预警】Windows Shell 安全功能绕过漏洞 （CVE-2026-96951）",
+        "url": "https://mp.weixin.qq.com/s/IlHnAVBWD4N7OlxHuAjyVQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "从 GitHub 泄露代码到在野运营：DarkSword 木马后台与 iOS 攻击链全景复盘",
+        "url": "https://mp.weixin.qq.com/s/3a2T9uXJ44kpiETwYhoBYA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【已复现】Drupal Field UI 远程代码执行漏洞(CVE-2026-108097)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/9sBGipCUnXNhtcEKeQOemg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Windows Shell 安全功能绕过漏洞(CVE-2026-96951)",
+        "url": "https://mp.weixin.qq.com/s/jsCZ_qEblRstVWZQN-cjkg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "预警丨利用钓鱼文档假冒人力社保部门补贴通知实施网络诈骗活动",
+        "url": "https://mp.weixin.qq.com/s/FOF6l4x3cdtJlSh2h6Ftwg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "记一次有趣的逻辑漏洞挖洞经历",
+        "url": "https://mp.weixin.qq.com/s/Gg8tbK02EZLdg6-yZv4Y_g",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "开源免费、双端组网、情报联动：瞭望塔 Watchtower 全场景 AI 渗透平台推荐",
+        "url": "https://mp.weixin.qq.com/s/Jl8ZpxK2KYO78dEDZpSKFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【漏洞通告】Windows Shell 安全功能绕过漏洞（CVE-2026-96951)",
+        "url": "https://mp.weixin.qq.com/s/1ACjf2mQZdz8DhNnMdoTOg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "《域渗透进阶（三）：钻石票据与蓝宝石票据——后“黄金票据”时代的隐蔽进化》",
+        "url": "https://mp.weixin.qq.com/s/8KytazZfFUsd3uJ9Qnto7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CVE-2026-104935固件分析(附exp)",
+        "url": "https://mp.weixin.qq.com/s/XP6JzjoQl76kQub5H5pXFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "「AI渗透测试+AI红队实测」Decepticon：开源自主渗透Agent，XBOW跑分98%",
+        "url": "https://mp.weixin.qq.com/s/edhmFoUc9GWy23qehUIaTw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "F5 紧急修复多个 NGINX 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/NyvavsVJ_-BWad-cSF6gUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Progress 修复12个MOVEit Transfer 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/zhMAOnQjsYHKtU502VMdqQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "云天 · 安全通告（2026年10月20日）",
+        "url": "https://mp.weixin.qq.com/s/uUsMuTNMsDIX53Ax6lJVCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "只凭车牌，10 秒接管一辆 Subaru：STARLINK 员工后台越权",
+        "url": "https://mp.weixin.qq.com/s/1w4K2UN7gWJlU_MrkVQ1Eg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "一个漏掉的过滤，一个空掉的名单： 用友 GRP-U8 的两条零权限 RCE",
+        "url": "https://mp.weixin.qq.com/s/dGk0dTXwuk7hwLpUqcMR4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "关于假冒人力社保部门补贴通知相关网络诈骗活动的预警报告",
+        "url": "https://mp.weixin.qq.com/s/Awg6-I4pQFtJXFu9E5yfPg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "威胁预警 | 国内某专业资格证书数据泄露事件分析",
+        "url": "https://mp.weixin.qq.com/s/M6RgcI-r4H_JmYEYmIaJ8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥",
+        "url": "https://mp.weixin.qq.com/s/HO65vIMMJFgKuLLBzR6GeA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "威胁预警 | 国内某商业联系人电话号码数据库泄露事件分析",
+        "url": "https://mp.weixin.qq.com/s/IkYyqsaAC9qUW7reRCnvSw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 SaveQueryConditionGroupName接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroupName-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-20"
     }
 ]
