@@ -568,5 +568,35 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroupName-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-20"
+    },
+    {
+        "title": "「借 Windows 自家 GUI 消息把 payload 喂进进程：PhantomBuffer 凭啥让 EDR 的 WriteProcessMemory 监控形同虚设」",
+        "url": "https://mp.weixin.qq.com/s/X6Qch9NFMXcZfPZhK4Y2EQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "SPIP X-Spip-Filtrej接口存在远程代码执行漏洞CVE-2026-77806 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/cIzQxn-clIRd-KsC89CU6Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "第107篇 AI全栈 · 漏洞链的艺术",
+        "url": "https://mp.weixin.qq.com/s/3MfvK4D0nM3-WpODH7IEsQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "未认证 RCE：piflow AI Agent 一条消息拿下服务器（CVSS 9.8）",
+        "url": "https://mp.weixin.qq.com/s/Y69yt3UTgPoJ9IuodBgtLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "深度学习顶会ICLR 2026论文点评丨从漏洞描述到检测规则：QLCoder如何让静态分析查询自动写出来？",
+        "url": "https://mp.weixin.qq.com/s/tCEl8_DfEpBKtGPTZDBlGQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
     }
 ]
