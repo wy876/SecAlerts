@@ -70,5 +70,227 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveDefaultQueryConditionGroup-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-20"
+    },
+    {
+        "title": "某系统200万信息泄露",
+        "url": "https://mp.weixin.qq.com/s/SSXZZKfb2KYOQxyGMXLRyQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写",
+        "url": "https://mp.weixin.qq.com/s/72CCdOgrNAZ8NQcv201IWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "安全运营注意： 800 并发就能接管你的 AI 渗透平台",
+        "url": "https://mp.weixin.qq.com/s/U_jWijQPo--OXroAgEuMfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "三种 AI 渗透 Agent 架构， 只有一类敢上生产",
+        "url": "https://mp.weixin.qq.com/s/BOY62UbG6Q43UYaFUvkpRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Java安全 | 内存马应急响应查杀全流程分析-Filter型",
+        "url": "https://mp.weixin.qq.com/s/KTrzn9keYpHUAABEOtXy7g",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "天融信：攻防视角下，「渗透测试」与「告警研判」两大问题亟需解决",
+        "url": "https://mp.weixin.qq.com/s/6d1OY1XIyZaq0vEv7NICeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "不用 WriteProcessMemory 也能写内存：用 SendMessage 加 cdb.exe 绕过高版本 EDR 的注入思路",
+        "url": "https://mp.weixin.qq.com/s/-Q8QN1kVbIw6zLwDUkA8AQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "[全链哨兵]全场景渗透测试 Agent 工具，正式开源！",
+        "url": "https://mp.weixin.qq.com/s/4FQBzJP6aRsMGMzVeDybQg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "今日速递｜博通路由器 forever-day、Rank Math 后门、黑客用 AI agent 攻陷百家公司",
+        "url": "https://mp.weixin.qq.com/s/Do6E-RCKsjzpzvgK8cuHBg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "AI挖洞实战 08 | Workbuddy+Skill技能库，文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/m8hns8OG0kIbJiAarDFrxg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CVE靓号—9.3高分漏洞CVE-2026-99999分析",
+        "url": "https://mp.weixin.qq.com/s/a7Qch0B5HyuG-6p5ZKmRMg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "公司修漏洞时又被攻击，30万台设备被控案还留下什么",
+        "url": "https://mp.weixin.qq.com/s/sL0JE9_97TNpAlAueSsAoA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Drupal 网站可能被 “免登录接管”：这类 RCE 漏洞为什么要马上排查",
+        "url": "https://mp.weixin.qq.com/s/nOYyg5m11Sw140PTGnhEMA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CTF：ZIP 软链接解压写入 WebShell",
+        "url": "https://mp.weixin.qq.com/s/N8-MR0kD3EnevUl9kjSXOw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "某盘图书管理系统审计(0dayRCE绕WAF)",
+        "url": "https://mp.weixin.qq.com/s/NbTLRUB3HJ4bCclw3b_zbA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【漏洞预警】linux内核漏洞(POC已公开)已有 Android/ARM64 的利用实现CVE-2026-98260",
+        "url": "https://mp.weixin.qq.com/s/BHpeTLmhaUX4kjuh8NICoQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "企业内网资产与漏洞的终极克星",
+        "url": "https://mp.weixin.qq.com/s/GTwDGgf1XiYKqoJkQuVOMQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Debian DSA-6528-1（内核）上百个漏洞",
+        "url": "https://mp.weixin.qq.com/s/2nUxboAKTyHyr5WJYKvlrA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "黑板之外-走向更开放的AI渗透架构设计",
+        "url": "https://mp.weixin.qq.com/s/bmQmIMtiPANCC8hEwmO0ew",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "看不见的信息泄露：办公室里 8 个高危泄密隐患（文末可领取资料）",
+        "url": "https://mp.weixin.qq.com/s/y8ZDsj2iGJH-ZDg7VXjbNA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "一条PUBLISH打穿Camel：Redis消息反序列化RCE（CVE-2026-78165）",
+        "url": "https://mp.weixin.qq.com/s/vHjWgz2Ectm09IAi7tU2fw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "小试牛刀之自动化渗透AI agent",
+        "url": "https://mp.weixin.qq.com/s/pV0orkcLacFJABi-SJgmyQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Plex2Shell攻击链揭秘：从零权限到代码执行",
+        "url": "https://mp.weixin.qq.com/s/UwMfOzQz5oskM3Nns3TEpg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "【B站公开课】神农SRC 漏洞挖掘实战课：从 0 到 1 成为赏金猎人",
+        "url": "https://mp.weixin.qq.com/s/3Dm1oks7B8NV9WawzgDcCA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "连密码都不用！博通WiFi曝0day隔空秒拿ROOT",
+        "url": "https://mp.weixin.qq.com/s/d89_bsvskL65NshHTaV_Tg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CVSS 10.0！GitLab远程代码执行漏洞，“特定条件”到底是什么？",
+        "url": "https://mp.weixin.qq.com/s/cvhYFVmwnTKouwArBPxKAg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Laravel TokenGuard 严重漏洞（CVSS 9.2）可让攻击者以任意用户身份登录",
+        "url": "https://mp.weixin.qq.com/s/L1KhsRL69-n1_qqTQDpa2Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "VS Code曝远程代码执行漏洞(CVE-2026-81376)，攻击者或可利用嵌套工作区设置绕过安全限制",
+        "url": "https://mp.weixin.qq.com/s/fHl1aWi_RTWh32GPRPUeLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "Broadcom WPS 未修复漏洞细节公开:攻击者无需密码,可在路由器以 root 身份运行代码",
+        "url": "https://mp.weixin.qq.com/s/TXE25_fpTAU24Ais8o_KRg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "公开漏洞狩猎提示词包:14 阶段 recon 到自去重,deepseek MVP,MIT 可下载",
+        "url": "https://mp.weixin.qq.com/s/I00BvwIlaCc2YZe3Yj4mNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "客户问：想做代码审计，但没源码，只有部署程序，可以吗？",
+        "url": "https://mp.weixin.qq.com/s/LC_41wIEp2olUpTNHcn17Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CVE靓号? CVE-2026-99999 Linux 内核 IPv4 内存漏洞",
+        "url": "https://mp.weixin.qq.com/s/sIwkxeePHDYFuXc1kwlAlQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "电信黑客攻击中被利用的Fortinet漏洞与隐蔽FortiGate植入程序相关联",
+        "url": "https://mp.weixin.qq.com/s/7fsYMdaTvhI9weOW2XrgsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "美国机构警告 AI 代理可能利用安全漏洞并建立隐藏后门",
+        "url": "https://mp.weixin.qq.com/s/TKYdORXn9KUVsyjYC4Scvg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第41期",
+        "url": "https://mp.weixin.qq.com/s/g5tBEtcTcxzhfznq83MzOg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "参数绑定漏洞",
+        "url": "https://mp.weixin.qq.com/s/eup7aJknS0yWfqgrIkj-Qg",
+        "source": "Doonsec",
+        "date_added": "2026-10-20"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 SaveQueryConditionGroup接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Public-SaveQueryConditionGroup-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-20"
     }
 ]
