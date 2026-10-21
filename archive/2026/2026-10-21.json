@@ -82,5 +82,317 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Repair-GetNewStatusJJD-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790593&idx=1&sn=394b3832e2ec400d7207a60a53b70b0b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [关于TSRC漏洞奖励方案调整及测试行为违规通报的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208837&idx=1&sn=e752913b2c7d8dd46df1575a046d859b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [【已复现】Drupal Field UI 远程代码执行漏洞(CVE-2026-108097)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507841&idx=1&sn=116fca8bcfc5601e178704c227389213",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [【安全圈】双11前紧急叫停！京东JSRC全面暂停外部漏洞测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079414&idx=1&sn=64985dae9e27b64b33a95e031a7e8784",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [【安全圈】四漏洞连环击穿！Plex遭武器化利用植入挖矿木马",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079414&idx=3&sn=c59fa44ef0a5791429f5ba4c7b36e7e4",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [F5 紧急修复多个 NGINX 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527447&idx=1&sn=ef5ab66d9cc81c27ef07fed449bf016f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [Progress 修复12个MOVEit Transfer 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527447&idx=2&sn=b613244256bbe9a43eb5c13133744331",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "] [CyberSN 调研：美国网络安全岗位招聘量同比下滑 26.4%，跌至四年低点；CNVD发布上周关注度较高的产品安全漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142998&idx=2&sn=3a113a65bc70bcc44a3fb7a0137a05e9",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "Claude + Burp MCP辅助渗透测试",
+        "url": "https://mp.weixin.qq.com/s/4H-E6jAfDjUFCVDPn5k2lg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "安全事件|印度知名证书机构eMudhra 中间证书私钥遭到“秒破”,8 个中间证书的私钥存在严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/F7Q1ApEclqGvBXlpxdwpPw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "两家企业信息系统存在未授权访问等高危漏洞主机遭远控 被网信部门依法约谈",
+        "url": "https://mp.weixin.qq.com/s/Z4hz951r-3ktkrtDwjqz4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "CodeBuddy Security推出SCA漏洞可达性分析，告警降噪达88%",
+        "url": "https://mp.weixin.qq.com/s/wSogvEARQSnrpEmo25Hy2A",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【紧急预警】PHP 核心 RCE 今晚发布补丁",
+        "url": "https://mp.weixin.qq.com/s/4ukCbYJ-JOLTaz8RXY8oDw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 提醒注意两个未修复的严重 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/vyShE_w-ILaKF7yLlQPtLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【严重通告】PHP双RCE预警：两个9.2分漏洞，今晚22时准备更新",
+        "url": "https://mp.weixin.qq.com/s/7GzhHtJoc24ks4zE0oiNvg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "发生了什么：PHP 出现两个高危漏洞（php2shell）",
+        "url": "https://mp.weixin.qq.com/s/UyxjBOpJeyPZhKNw3_PlEg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "白天保饭碗，晚上挖漏洞：一条不用辞职的技术变现路",
+        "url": "https://mp.weixin.qq.com/s/22ufSvwGHsB_D36maw7TBg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【严重通告】PHP双RCE预警：两个9.2分漏洞，今晚22时准备更新",
+        "url": "https://mp.weixin.qq.com/s/Lv3Y2HxFnZPBsUcCO013nA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【高危漏洞预警】PHP核心双高危远程代码执行漏洞（CVE-2026-109618 / CVE-2026-109619代号PHP2Shell）",
+        "url": "https://mp.weixin.qq.com/s/hIXnafmPMKNAfC27vgkJBA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【漏洞速递 | 已复现】php2shell 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s/kI4_0ox-AZXzA2rqHNlNXg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 爆大漏洞，两个 9.2 分漏洞，还没补丁，已复现其一",
+        "url": "https://mp.weixin.qq.com/s/Ftvqs359yUdIXiC71587gQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "「KVM逃逸+Linux内核漏洞+CVE-2026-99999拆解：32字节泄露，打穿虚拟机边界」",
+        "url": "https://mp.weixin.qq.com/s/Rgs1a1dzSIZaVGxCLpMrzA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "核弹漏洞 | PHP 核心 RCE 泄露波及全网",
+        "url": "https://mp.weixin.qq.com/s/nNAUpDJIYkoVALpJMUlDfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "两个CVSS评分为9.2的PHP高危远程代码执行漏洞，Web服务器面临风险",
+        "url": "https://mp.weixin.qq.com/s/lLCO1JfRY7OkEfhqMPm06g",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 突发两枚核心级 RCE：CVE-2026-109618 / -109619",
+        "url": "https://mp.weixin.qq.com/s/hAl34TIQQgJQY_LykKTaxw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP2Shell提前泄露,两项严重RCE漏洞，今晚 22 点有官方发布补丁",
+        "url": "https://mp.weixin.qq.com/s/LejVGgcWspQQuhguNqx2dg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "CVE-2026-99999 漏洞分析与复现",
+        "url": "https://mp.weixin.qq.com/s/j9O5fWHsLkc1ke2EprRS7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "CVSS 10.0 的WAVLINK路由器命令注入 攻击者可直接拿设备权限",
+        "url": "https://mp.weixin.qq.com/s/p5Eb6mtVCIXhvX6uFOcTzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "19款AI渗透Agent， 地址和点评都给你",
+        "url": "https://mp.weixin.qq.com/s/cHn4kjhDj8sByBFo3kn55w",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 两项严重漏洞预警：CVE-2026-109618 与 CVE-2026-109619 已知信息与应对建议",
+        "url": "https://mp.weixin.qq.com/s/YeU2YF-t1KzyCXmcSCkK2w",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【已复现 UAF】php2shell：PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s/CBoGqz9fC3cEb_OrK90wlA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【漏洞预警】PHP 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/EQWfwCO39MVnpkElBtCjaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "Oracle 2026年10月补丁日多产品高危漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/kxKmW_25LTCEo-zWmynHTQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 最新远程代码执行漏洞预警CVE-2026-109618、CVE-2026-109619",
+        "url": "https://mp.weixin.qq.com/s/NZ4kATmAQyC_OLF3Xqv6IQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "堪称漏洞靶场界的\\\"无限火力\\\"！这款平台让安全人员彻底告别环境搭建噩梦",
+        "url": "https://mp.weixin.qq.com/s/phzcPB4u4QfNP0J--HatwA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【安全预警】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/YRduMybPS4DUIqer-Ofxlg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "开源免费、双端组网、情报联动：瞭望塔 Watchtower 全场景 AI 渗透平台推荐",
+        "url": "https://mp.weixin.qq.com/s/sPfy5LGn7Vg3Nn92Hljgzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP 警告管理员存在两个严重漏洞，即将发布紧急补丁",
+        "url": "https://mp.weixin.qq.com/s/VBHN1Ct8GKBwSeGqN_GRiQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "双11前紧急叫停！京东JSRC全面暂停外部漏洞测试",
+        "url": "https://mp.weixin.qq.com/s/dd5kHSUA6CQqsgMPomoIYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "开源免费、双端组网、情报联动：瞭望塔 Watchtower 全场景 AI 渗透平台推荐",
+        "url": "https://mp.weixin.qq.com/s/awgCkUIJX7TnYRDJwixiXg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "DeepSeek Harness（dsh）渗透测试模式",
+        "url": "https://mp.weixin.qq.com/s/CEqonA68f2tA4MFFOHB6GA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【安全预警】PHP 两项严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/5Qu_oRynyGhsNwJP8SVNAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【安全预警】PHP 两项严重远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZEvanCrIVN_i9drNLo-GNA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【每日漏洞预警】10月21日 · php2shell 编号已现待披露，Plex 四洞已在野利用",
+        "url": "https://mp.weixin.qq.com/s/v-SRo6mZyrr_qxPESykI5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【AI渗透-ARTEX技术拆解】自身RCE，也能攻打韩国金融行业~【技术要点：“双图状态管理 + Planner/Worker 分工 + 工具执行全程留痕”】",
+        "url": "https://mp.weixin.qq.com/s/GssUZLghrQUHwlkfmrbezg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "漏洞复现｜Divi Plus svg_image存在任意文件读取漏洞CVE-2026-91136",
+        "url": "https://mp.weixin.qq.com/s/iwbxNAaJM0xrNf3gX08jAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "一文讲透智能体安全的五要素：身份、权限、行为、数据、供应链",
+        "url": "https://mp.weixin.qq.com/s/TzGUCfCUYLmkP_D6W1LxDQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "Plex媒体服务器未授权RCE链被在野利用,CISA已列入KEV",
+        "url": "https://mp.weixin.qq.com/s/QV6bttCK-7kiTsK_4L8I-g",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "[工具分享]AI 赋能的漏洞播报系统",
+        "url": "https://mp.weixin.qq.com/s/O1UxXXdgSOFz4ppZERpDIw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "PHP session.upload_progress：从 LFI 到 RCE 的利用链与 CVE 关联缓解指南",
+        "url": "https://mrxn.net/jswz/php-session-upload_progress-rce-fixes-ways.html",
+        "source": "MRXN",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetProductStorNumber接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Repair-GetProductStorNumber-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-21"
     }
 ]
