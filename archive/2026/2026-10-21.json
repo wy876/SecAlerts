@@ -766,5 +766,23 @@
         "url": "https://mp.weixin.qq.com/s/tGc9FhasC9blhCgYxSB41w",
         "source": "Doonsec",
         "date_added": "2026-10-21"
+    },
+    {
+        "title": "【已复现】PHP 严重远程代码执行漏洞，官方紧急修复",
+        "url": "https://mp.weixin.qq.com/s/X0ewkxXuJ5DfYU1N2Kt9jA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【漏洞大逃杀】从昨夜PHP RCE到30余款组件安全事件复盘",
+        "url": "https://mp.weixin.qq.com/s/HnrrTYd3mZ_MQB7CrvnyVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "已发现攻击，全球拉响警报！PHP重大漏洞引发多国紧急响应",
+        "url": "https://mp.weixin.qq.com/s/GwWgoC1VwCgAoK2-63fXHg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
     }
 ]
