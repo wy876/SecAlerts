@@ -1,0 +1,86 @@
+[
+    {
+        "title": "赛博安全狗：H3C Magic NX15 RPC接口存在代码注入漏洞CVE-2026-112371 (10.20)",
+        "url": "https://mp.weixin.qq.com/s/ScyVjZFy8rP5lxUvWSHt0Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "EvilWAF：传输层绕过 WAF，透明代理加深度漏洞扫描",
+        "url": "https://mp.weixin.qq.com/s/06z0Gwa6cXICB-5MhUyz0Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【已复现】ARTEX存在未认证接管导致RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/utfrj4RH_BjHvbM20H-8NA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "ARTEX 二次开发版解析：从外网突破到内网纵深的自主渗透平台",
+        "url": "https://mp.weixin.qq.com/s/zHtQ34Mzr2XrTvltUVhtlA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "漏洞通告|畅捷通信息技术股份有限公司畅捷通T+存在命令执行漏洞(CNVD-2026-36378)",
+        "url": "https://mp.weixin.qq.com/s/MgQcJJNCKPlxvhAli7p9OA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "Qubic官方钱包弱Seed漏洞，苹果客户端1,404钱包批量被盗事件分析",
+        "url": "https://mp.weixin.qq.com/s/xRGP9xPW0nza0imp_T6dcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "AI数据访问安全 ｜如何控制AI访问权限，防止越权",
+        "url": "https://mp.weixin.qq.com/s/VgPp3PkmauX9GIhZV_h5vA",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "急！急！急！Typecho 1.3漏洞复现与修复",
+        "url": "https://mp.weixin.qq.com/s/ippokomWU7BOG4efErNvag",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "速修 | Plex 4 洞串联未授权 RCE CVE-2026-96652",
+        "url": "https://mp.weixin.qq.com/s/f0VQAA086GpQQT6s9eRqtw",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "漏洞预警 | Magento Open Source模板引擎注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/L8pfrEXn42sj6R3KwA7MIQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "漏洞预警 | SiteGuard WAF命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/NVO5_THo6QWJ_9vzuAF8Gg",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "【热点安全风险】10月21日｜Juniper 一次修复 106 个漏洞，106 个问题中有 100 个无需任何凭据即可触发未认证接管设备管理界面",
+        "url": "https://mp.weixin.qq.com/s/eqYLd2-oEO_IZxgKN-zKGQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "10.6TB勒索风暴中的Bitget：否认用户数据泄露，供应链警钟已响",
+        "url": "https://mp.weixin.qq.com/s/DmexIjLfV96lbMbQFvlUQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-21"
+    },
+    {
+        "title": "友加畅捷管理系统标准版  GetNewStatusJJD接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Repair-GetNewStatusJJD-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-21"
+    }
+]
