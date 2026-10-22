@@ -1,0 +1,98 @@
+[
+    {
+        "title": "【热点安全风险】10月22日｜SiteGuard 命令注入已遭利用，攻击者可取得服务器最高权限（CVE-2026-106931）",
+        "url": "https://mp.weixin.qq.com/s/8N6WEmhLpkkas-7Vc04TnQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "EtherHiding 后门样本分析",
+        "url": "https://mp.weixin.qq.com/s/brzYzKkaH6NXI9XiBvWGIQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "EDUSRC实战-俩985证书站的任意密码修改漏洞",
+        "url": "https://mp.weixin.qq.com/s/9LcfE2t5C3YiRtQ9aijJ4Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【立即修复】 PHP 未认证 RCE 已在野利用，补丁已发布 CVE-2026-109618",
+        "url": "https://mp.weixin.qq.com/s/QOQSIiqdJM6AXFfo1eC6Ww",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【已复现】PHP千万级RCE涌现，是核弹还是鸡肋漏洞",
+        "url": "https://mp.weixin.qq.com/s/XQfQUj2cLTE3PS6zfKXz9w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "车联网漏洞挖掘方法及典型案例剖析",
+        "url": "https://mp.weixin.qq.com/s/InBjlhKRR3Tnxxv5OahqdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "漏洞预警 | Cisco Secure Email Gateway路径遍历漏洞",
+        "url": "https://mp.weixin.qq.com/s/qBRnniwA3MS0KopzXt-eYg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "漏洞预警 | Windows健康与优化体验服务权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/E5cqSGKgyTUUpcfQobTOgA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【漏洞预警】PHP再现远程代码执行漏洞，腾讯云安全已支持检测与防护",
+        "url": "https://mp.weixin.qq.com/s/n99XHcbDPuF322gdDSJHLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Cellebrite手握iPhone无线电0day漏洞？8米内隔空解锁设备",
+        "url": "https://mp.weixin.qq.com/s/J6jyZAygXc_b0xiB7L4HrA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【紧急】请升级 PHP，爆严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/TSqyevw60OvzHdSgcZFASQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Laravel TokenGuard 认证绕过：一个 JSON 数组直接接管你的账号",
+        "url": "https://mp.weixin.qq.com/s/cxuf2_FtW2WUo-UKEq0LDA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PentestCode：跑在终端里的自主渗透测试智能体",
+        "url": "https://mp.weixin.qq.com/s/luA2dn42ZfBKCm_KDfeWVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "“php2shell”危机：AI发现的9.2分PHP漏洞引发全球修补竞赛，逾百万主机暴露于风险之中",
+        "url": "https://mp.weixin.qq.com/s/zxns4-cBrV7haCDSOk-yhw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "审代码还自动写 PoC，挖出 49 个 CVE 的 AI 审计平台开源",
+        "url": "https://mp.weixin.qq.com/s/NTqOM9CYdiy_hbyUjqQKUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "78页PPT 大模型渗透测试培训",
+        "url": "https://mp.weixin.qq.com/s/P1FhFIPJldh9fYMfQglFJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    }
+]
