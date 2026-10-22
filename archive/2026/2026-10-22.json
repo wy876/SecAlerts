@@ -94,5 +94,395 @@
         "url": "https://mp.weixin.qq.com/s/P1FhFIPJldh9fYMfQglFJw",
         "source": "Doonsec",
         "date_added": "2026-10-22"
+    },
+    {
+        "title": "金融App暗藏SDK风险，供应链安全该如何治理？",
+        "url": "https://mp.weixin.qq.com/s/urzOM-6ZAj2A1WlhRHH5lQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP高危漏洞预警｜鼎夏智能：应急防护之外，“AI代码重构”方能根治长期风险",
+        "url": "https://mp.weixin.qq.com/s/qO9GPiU4VD0loYlVUhqFGA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "别光顾着修PHP漏洞，这三个严重漏洞也需要关注一下",
+        "url": "https://mp.weixin.qq.com/s/lG-dIuTASP5lKhoENJNM3w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP Json Serializer UAF漏洞：绕过disable_function本地提权",
+        "url": "https://mp.weixin.qq.com/s/3T5FnUAZVs5YhlXSL421YQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "最近的涉及漏洞",
+        "url": "https://mp.weixin.qq.com/s/pCU-AhSKXT2Hp-WEbftvMQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "关于防范PHP远程代码执行超危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/g-xD-gNQm8Hsy7IJmdNEsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "关于对PHP2Shell漏洞开展修复的风险提示",
+        "url": "https://mp.weixin.qq.com/s/VfebmPrskltd8OxR0IdgAg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "突发！PHP 两大严重 RCE 漏洞已被利用，官方紧急补丁发布",
+        "url": "https://mp.weixin.qq.com/s/cngkJizfM32AzFdrLTiI_g",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Lite LLM 供应链投毒",
+        "url": "https://mp.weixin.qq.com/s/hEbGbgYP7grDnVwGPL9miw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【已复现】远程代码执行漏洞(CVE-2026-109618/CVE-2026-109619)",
+        "url": "https://mp.weixin.qq.com/s/OPDERn6R62KS7jGtPFN69A",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "php2shell最新进展：PHP Core 远程代码执行漏洞详解",
+        "url": "https://mp.weixin.qq.com/s/bt4SAtFQif7pjoDxbRZEXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "漏洞预警丨PHP session.upload_progress 远程代码执行漏洞（CVE-2026-109618 / CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/bNrZ9BvRl4m9ot9efo5qzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【漏洞复现】天融信关于PHP远程代码执行漏洞CVE-2026-109618/CVE-2026-109619(PHP2Shell)的风险提示",
+        "url": "https://mp.weixin.qq.com/s/WM9gxSr0zIjtu-DkHeCNAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "CVE-2026-109618深度分析",
+        "url": "https://mp.weixin.qq.com/s/T8eONtlvgfVhYbbqm3-dIQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "「关键漏洞目录」新增「PHP Core php2shell远程代码执行漏洞(CVE-2026-109618)」等8个漏洞",
+        "url": "https://mp.weixin.qq.com/s/LxRDqvK7a8dGdbNjP0RXsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "CNNVD | 关于PHP资源管理错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/gt7ZHi8uvJNF7qGp-GyEvA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "9.2 分，但没有通杀 PoC：PHP2Shell 的两个内存缺陷与真实门槛",
+        "url": "https://mp.weixin.qq.com/s/guR7kDWB97rYussDRTQx_w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览",
+        "url": "https://mp.weixin.qq.com/s/-Fc8tmFtxrssf3BK9mdN5w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Nodejs Brotli decoder 代码执行漏洞 (CVE-2026-111497)10629",
+        "url": "https://mp.weixin.qq.com/s/Ni5M7P7ggHdRQEl6q_v3Pw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP重大漏洞遭泄露，多国网站紧急下线",
+        "url": "https://mp.weixin.qq.com/s/ZE3pMIovS3_n1ZkOyaRbcA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "AI 智能体跑了不到两个月，83 个漏洞攒在手里",
+        "url": "https://mp.weixin.qq.com/s/m-ebwxkqCJXjeQYkf_-VNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "影响全球四分之三站点！PHP2Shell高危漏洞拉响全球警报",
+        "url": "https://mp.weixin.qq.com/s/hNGEVUjCh1nvy7ajLUH5hQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "工具报错后，Claude竟利用漏洞执行命令？4类真实案例揭示AI Agent越界风险",
+        "url": "https://mp.weixin.qq.com/s/rgiSq2aZuc-OCy4_vuFxFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Windows更新乌龙：Always On VPN漏洞被误标记修复；250亿美元天价罚单落地，Meta因数据误导行为面临司法重罚| 牛览",
+        "url": "https://mp.weixin.qq.com/s/4L_UgM07K3vpS8_SkAzSJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【重要公告】关于暂不接收PHP相关安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s/bWnRYDdV7dyXb1HypY1ivw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【重要公告】关于暂不接收PHP相关安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s/FYMbe9uy4gcBf-9hW6E9tA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "php2shell：两个 9.2 分 RCE，业务代码还没执行就打进来了",
+        "url": "https://mp.weixin.qq.com/s/b9QQS7vAWDkDsiz-Yr7Brg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "AI 挖出 12.9 万个漏洞，修好的不到 7%：网安人正在被劈成两半",
+        "url": "https://mp.weixin.qq.com/s/n_ETdI_YQW8bU5Ynt580Jg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "紧急预警丨PHP 曝 9.2 分RCE：php2shell 影响 8.2–8.5 及更早版本，补丁已发布，请立即处置！（附Poc）",
+        "url": "https://mp.weixin.qq.com/s/RpV_jXT6JZHW4fWEpuKGWw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "这个平台把 Web 漏洞扫描、爬虫爬站、暗链检测、指纹识别和报告输出全塞进了同一个后台，一键开扫，效率直接拉满",
+        "url": "https://mp.weixin.qq.com/s/MMFH8Dxq_S-g5UIaUHrHCg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "被PHP2Shell 漏洞吓坏了？先说结论！",
+        "url": "https://mp.weixin.qq.com/s/vMyqgwHaWOIrWKIQyPsq9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "两个 CVSS v4.0 9.2 严重漏洞、无需认证即可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/v3mLU9v_wK4Fm9qWbSLiUg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "一个请求就能拿下服务器：PHP 爆出 9.2 分严重漏洞，攻击已在路上",
+        "url": "https://mp.weixin.qq.com/s/60Ao8a_y00dPDNHk4iCQ0g",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "漏洞预警｜php2shell：PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s/C8pkjSA5xryH_oYAeQiIBw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "漏洞通告｜PHP Core 远程代码执行漏洞（CVE-2026-109618 &amp; CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/eNsz5BQEK7tbzuhFYaGcFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "一文看懂｜网安红队必备！渗透测试双证深度解析",
+        "url": "https://mp.weixin.qq.com/s/_fjgeD1J8GoMT1AwTc1XsQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "关于对PHP2Shell漏洞开展修复的风险提示",
+        "url": "https://mp.weixin.qq.com/s/mTtzaF0J860ro5Jr65Fgyg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "CNNVD关于PHP 资源管理错误漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/3d-k6PrKmh-oHqwJloqbIw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "CVE-2026-109618 / CVE-2026-109619PHP 远程代码执行漏洞（PHP2Shell）预警",
+        "url": "https://mp.weixin.qq.com/s/IS0Kjep4l6PUTIcppmXNLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【零日雷达】【已验证RCE】PHP 远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/2rZ5VdnQmJ_NTaPH7F00zA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "昨晚这个 PHP 漏洞，最麻烦的不是 9.2 分，是它不看你的代码",
+        "url": "https://mp.weixin.qq.com/s/HZwXxX6pLI_QBKHQmCQ8ZA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP2Shell 双严重漏洞时间线整理",
+        "url": "https://mp.weixin.qq.com/s/0xVuLOBF46lYZ-PtbRe0Fw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "友数聚CPAS审计管理系统V4 doDownLoadPicFile 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/N-AUTUpAJjDoJnM3Bns2bw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【漏洞预警】PHP远程代码执行漏洞（CVE-2026-109618 / CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/_x3aOz71qAoMhbhqTINf1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "VPN漏洞遭勒索软件大规模利用，Palo Alto警告多家客户被入侵",
+        "url": "https://mp.weixin.qq.com/s/xRLFipd7iP3-c_8-oSjZYQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "安全警示:PHP暴露出关键远程代码执行漏洞，立即更新！正文有修复方案",
+        "url": "https://mp.weixin.qq.com/s/pSpytbrZZAA4_mqCfHcTbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "安全预警｜多起高危漏洞与供应链事件通报",
+        "url": "https://mp.weixin.qq.com/s/RqCR0FdU1WzqrSkvbsTrfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【受影响核查、临时解决方案】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/E2tlXpXTSFjzr7osnmtI7g",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP曝两项严重安全漏洞，全球网站基础设施面临远程攻击风险",
+        "url": "https://mp.weixin.qq.com/s/GnGq3GMg1NFR6yNly1bOHA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【每日漏洞预警】10月22日 · Node.js 修 10 洞，11 组 ≥9.5 未授权 RCE 全覆盖",
+        "url": "https://mp.weixin.qq.com/s/5n3_CZVv-H8mf8nxmhvaDg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Node.js 修复 10 个漏洞，包括 Brotli 远程代码执行与 TLS 主机名校验绕过问题",
+        "url": "https://mp.weixin.qq.com/s/5X2FxSnnvyTSEEqtZ1jjnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP 远程命令执行漏洞刷屏：危害性没你想的那么大，安全圈成娱乐圈，什么人都来混",
+        "url": "https://mp.weixin.qq.com/s/aIszAFYmyW-ffSEjvygz7Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "已发现攻击，全球拉响警报！PHP重大漏洞引发多国紧急响应",
+        "url": "https://mp.weixin.qq.com/s/HSUOV6Hvd2I7eJkN_Rd9iQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP官方喊你立刻升级：两个9.8无认证RCE",
+        "url": "https://mp.weixin.qq.com/s/1FE0VgFxHp6JfW9KsV6fNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "捕获 PHP 远程代码执行漏洞 CVE-2026-109618 / CVE-2026-109619 攻击载荷",
+        "url": "https://mp.weixin.qq.com/s/SQWdFy0dQaawzn4ggdtVaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "为什么GDPR合规绕不开网络安全？——别拿一份漏洞扫描报告应付第32条审核",
+        "url": "https://mp.weixin.qq.com/s/dQIWnBKyT0nANpz2tIeKbw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【成功复现】SPIP系统远程代码执行漏洞(CVE-2026-77806)",
+        "url": "https://mp.weixin.qq.com/s/x6yzjoHqP4G7qO0xV7zxQA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "php2shell RCE漏洞相关细节：AI助力发现十年历史漏洞，全球70%互联网基础设施受影响",
+        "url": "https://mp.weixin.qq.com/s/siAlz5IWMjYtoj-aE2MBuQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "第109篇 AI全栈 · golang实现漏洞监控05——0day漏洞信息监控",
+        "url": "https://mp.weixin.qq.com/s/VX6UQ3SkPOxImeoQuZK3ug",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【紧急漏洞预警】PHP爆出两个代码执行漏洞(POC已公开)CVE-2026-109618与CVE-2026-109619",
+        "url": "https://mp.weixin.qq.com/s/I_8ENzgYel-OSs5j8s6hcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "安全预警 | PHP2Shell 远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/BaakJsSXRQab0EJHsd-fiA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "技术干货 | CVE-2026-98214 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/6gsbyn5eu6-RLIcoOmnxzw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 ReportClassAll接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Report-ReportClassAll-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "亿赛通 UnInstallApplication接口未授权SQL 注入漏洞",
+        "url": "https://mrxn.net/jswz/CDGServer3-UnInstallApplication-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetBenYeClass接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Report-GetBenYeClass-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-22"
     }
 ]
