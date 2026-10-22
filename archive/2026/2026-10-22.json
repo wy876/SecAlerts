@@ -976,5 +976,131 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html",
         "source": "MRXN",
         "date_added": "2026-10-22"
+    },
+    {
+        "title": "红队应急神器 TrafficAnalyzer，集成流量还原、威胁检测、WebShell 解密 Fuzz、Java 反序列化一站式排查",
+        "url": "https://mp.weixin.qq.com/s/D3Ld_80qHUOrNJQeGb8i3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器",
+        "url": "https://mp.weixin.qq.com/s/QSRX4PUyoYlEgSziSxt21w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "讲解一下这次PHP核弹级别漏洞的原理",
+        "url": "https://mp.weixin.qq.com/s/BpI-ShQijA4frZV7b0CsiQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "穷举后台与phpMyAdmin getshell：从弱口令爆破到绕过杀软拿Shell的完整实战",
+        "url": "https://mp.weixin.qq.com/s/62Nyzt0p7ECwAYUxyp3Vxg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "好靶场杯第一届综合赛-古法赛道-流量分析webshell3-上",
+        "url": "https://mp.weixin.qq.com/s/53Z48tB8wbFw3i2h6klMCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "讲解一下这次PHP核弹级别漏洞的原理",
+        "url": "https://mp.weixin.qq.com/s/kBrtZrQzq_EpF8DvnivokA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【漏洞复现】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s/T9WNT1BMJNBoGRcS6kjOUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布",
+        "url": "https://mp.weixin.qq.com/s/PoM1Eb_Bzati3VxmJJMSJQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布",
+        "url": "https://mp.weixin.qq.com/s/NgcArHRCC2XMVfnW3kEgGQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "关于PHP远程代码执行漏洞分析及修复建议的安全公告",
+        "url": "https://mp.weixin.qq.com/s/0pz73RAqoliAPYhM6MASbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "关于PHP远程代码执行漏洞分析及修复建议的安全公告",
+        "url": "https://mp.weixin.qq.com/s/NbxXC4ios-2GA9Fe8tLevw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "深度分析 | AI发现潜伏十余年PHP高危漏洞，华为星河AI网络安全已实现防护覆盖",
+        "url": "https://mp.weixin.qq.com/s/bwneXlRHMe79u-stGxT26w",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "588页Kali Linux渗透测试全流程详解",
+        "url": "https://mp.weixin.qq.com/s/qBa65CBBa3SRYteQlWvTIQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【已复现 RCE】PHP2Shell：PHP 核心内存破坏致未认证远程代码执行（CVE-2026-109618 / CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/4BKn-25si4tUQVT9b4kUVg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP 严重远程代码执行漏洞来袭，网御星云提供优选解决方案",
+        "url": "https://mp.weixin.qq.com/s/6aYvl9pKIlqJOX-_wMN6vA",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "【水】Exchange邮件系统ProxyShell攻击链复现",
+        "url": "https://mp.weixin.qq.com/s/St9275GrIILXaqEnejVMkQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "Totolink 路由器栈溢出 RCE：一个参数写穿栈（CVE-2026-42020）",
+        "url": "https://mp.weixin.qq.com/s/w-3adi7eafh43ef5O3KLJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP严重远程代码执行漏洞来袭，启明星辰提供解决方案",
+        "url": "https://mp.weixin.qq.com/s/t1hp-IFIjM0pj0W1FNnIfg",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "免费！360开放图龙锋安全体检，帮企业排查PHP漏洞风险",
+        "url": "https://mp.weixin.qq.com/s/yia-ynORYug7hIClTcE8sw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "换台设备，AI的后门就醒了？CertiK将在SDC2026揭示背后机制",
+        "url": "https://mp.weixin.qq.com/s/yC1sRNi-Jivpd_qUixJHVQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
+    },
+    {
+        "title": "PHP 国内独家兼补丁包上线，PHP 严重安全漏洞修复及防护方案",
+        "url": "https://mp.weixin.qq.com/s/NQ1JhiMPS7T8CjNHDe5ezw",
+        "source": "Doonsec",
+        "date_added": "2026-10-22"
     }
 ]
