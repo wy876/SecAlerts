@@ -484,5 +484,167 @@
         "url": "https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-23"
+    },
+    {
+        "title": "u200bCNNVD关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第42期）",
+        "url": "https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP 中的高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "高危漏洞复盘｜从公开学号到脱库，某高校平台双重安全隐患剖析",
+        "url": "https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "2026年渗透测试双线基础：Windows命令与PHP文件/网络函数，从Shell到RCE的实战拆解",
+        "url": "https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481",
+        "url": "https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2Shell 漏洞席卷全球：当未知漏洞来袭，安全防护能否不再依赖规则更新？",
+        "url": "https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "速修！Node.js曝RCE漏洞，CVSS评分9.2",
+        "url": "https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "不止PHP，Node.js曝出4项高危漏洞，排查处置指南来了！",
+        "url": "https://mp.weixin.qq.com/s/W_5tI_9NQvwkiX0H52huOg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览",
+        "url": "https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "crAPI 靶场实战：OWASP API Top 10 的越权与逻辑缺陷",
+        "url": "https://mp.weixin.qq.com/s/RnPJ2b8tUtfpwvOLH0Cunw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检",
+        "url": "https://mp.weixin.qq.com/s/KRvLZsPIuW8ZXTHAGhkLNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "威胁情报｜警惕！Web3 面试题暗藏盗窃后门",
+        "url": "https://mp.weixin.qq.com/s/LdgE0MHKgYR7x8KO77RnfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复",
+        "url": "https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "微软披露ConnectWise供应链攻击，Storm-0940借AI工具加速入侵",
+        "url": "https://mp.weixin.qq.com/s/byk71lO38QVwl_1jbKFKXg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "Linux 内核两个漏洞被公开",
+        "url": "https://mp.weixin.qq.com/s/WjPI4Ij0O5Ze-iLSfLKPNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【漏洞通告】Node.jsxa0多个安全漏洞(CVE-2026-105482xa0/xa0CVE-2026-111497)",
+        "url": "https://mp.weixin.qq.com/s/hZaxv9UlOEl8rGiBxI_Rmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264)",
+        "url": "https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI供应链安全（6）：把威胁看见——AI供应链安全情报应用",
+        "url": "https://mp.weixin.qq.com/s/w58nj2HLr9a2dI71rsh11A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI发现PHP2Shell高危漏洞，融安主机可信安全加固系统构筑主动防御新防线",
+        "url": "https://mp.weixin.qq.com/s/g6hFF_grkrZDarPZKDXx_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP远程代码执行漏洞来袭，启明星辰提供解决方案",
+        "url": "https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2Shell 复现与分析：请求生命周期缺陷及利用边界",
+        "url": "https://mp.weixin.qq.com/s/lbXWzok1oajztV-Fb8Jolg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "两高一弱自查：星海EASM全面收录历年可利用漏洞，一次检测对齐专项口径",
+        "url": "https://mp.weixin.qq.com/s/5Fj8DzVaA3dn1v2_QbTn7g",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "攻防中 7 款值得关注的 AI Agent 渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/-S7_8rum7IujcKA6BUVs-A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "没错 我也被php2shell光顾了",
+        "url": "https://mrxn.net/other/php2shell-scan-notes.html",
+        "source": "MRXN",
+        "date_added": "2026-10-23"
     }
 ]
