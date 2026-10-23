@@ -646,5 +646,59 @@
         "url": "https://mrxn.net/other/php2shell-scan-notes.html",
         "source": "MRXN",
         "date_added": "2026-10-23"
+    },
+    {
+        "title": "Log4j2 三年了还在中招：检测侧该盯的三个信号",
+        "url": "https://mp.weixin.qq.com/s/zfd2_U47MGv9nxA8FQ8C9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "SonicWall SMA1000 严重性最高的漏洞现已被用于不法攻击",
+        "url": "https://mp.weixin.qq.com/s/DHLETSykUJUwBYMBqEF9Ww",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "捕获 PHP2Shell 攻击载荷：当漏洞利用开始“下载执行”",
+        "url": "https://mp.weixin.qq.com/s/mzFI1dKVFjvTSnd0obipVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示",
+        "url": "https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2Shell：一个漏洞，让全球近七成网站紧张了三天",
+        "url": "https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "每个企业都应该有一套AI自动化渗透测试系统",
+        "url": "https://mp.weixin.qq.com/s/L9w-GUMF7w3b5EJF8UKO1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619)",
+        "url": "https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重",
+        "url": "https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞",
+        "url": "https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-23"
     }
 ]
