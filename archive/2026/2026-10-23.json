@@ -1,0 +1,230 @@
+[
+    {
+        "title": "CVSS 10.0 满分、12 年全中招： GitLab 这波漏洞 把「自托管」盲区照得透亮",
+        "url": "https://mp.weixin.qq.com/s/GSD8LlG8L1r3tSb-ig30JA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "做渗透的同学注意：几十款工具一键启动，拷进内网前先做这4件事",
+        "url": "https://mp.weixin.qq.com/s/vaXy3izbytYWAsm1CFr3og",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "重磅事件｜不入侵、不爆破！直接“应聘入职”，FBI突袭“笔记本农场”！揭秘朝鲜Famous Chollima 渗透，牟利300万美元",
+        "url": "https://mp.weixin.qq.com/s/CVgBcXpxGggTZPDxfnX5uw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP核弹级漏洞，是哪家AI挖出来的？日本首相高市早苗都被惊动",
+        "url": "https://mp.weixin.qq.com/s/s3v0pl8aGlzWasCLql95SQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP 高危漏洞，雷池率先发布应对规则",
+        "url": "https://mp.weixin.qq.com/s/tipi6YIIlWddHCFcHjQeAA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI 自动渗透攻击 -- ai-auto-pentest（10月23日更新）",
+        "url": "https://mp.weixin.qq.com/s/FFw2Aro87APwyWgNWMs06w",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "一把梭！把端口扫描、指纹识别、漏洞验证、密码爆破、请求走私全焊进一个 Go 二进制，这扫描器猛到能把整个资产清单犁一遍",
+        "url": "https://mp.weixin.qq.com/s/CWLKdr4MErvyFnog9zZETA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "漏洞预警|Java也出高危漏洞了CVE-2026-91403  还让不让人活了，又是eMudhra证书问题引起的",
+        "url": "https://mp.weixin.qq.com/s/KknGvNS7Pu6JMqggHPaF2w",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "关于PHP远程代码执行漏洞分析及修复建议的安全公告",
+        "url": "https://mp.weixin.qq.com/s/IZPDw6xt708N2ad69kj1sg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "CVE-2026-109618、CVE-2026-109619（PHP2Shell）漏洞FAQ",
+        "url": "https://mp.weixin.qq.com/s/K0tf1wK4g1f0O1kDL8c7pg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "itC 中心管理服务器 viewServer.do 敏感信息泄露",
+        "url": "https://mp.weixin.qq.com/s/zB-Zdj1AuBhgA5YZx1k-Yw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2Shell高危漏洞爆发！全球七成网站受威胁：安全不能只靠事后救火",
+        "url": "https://mp.weixin.qq.com/s/wYbnSVS2Z2PacC709WcmLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI真能挖到高危漏洞吗？",
+        "url": "https://mp.weixin.qq.com/s/niUxIKuqA_lEkD9fCQc1_g",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI加速网络漏洞挖掘与攻击利用，全球网络安全防护面临新挑战",
+        "url": "https://mp.weixin.qq.com/s/tzOWDnKpL2pKjcTh1ja4UA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势",
+        "url": "https://mp.weixin.qq.com/s/4fXPI-R50LZhVmQ6gQYMYA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP漏洞:远程代码执行威胁",
+        "url": "https://mp.weixin.qq.com/s/wkMzwLrHmHufCxkKzN4ICQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "黑客在 ConnectWise 供应链攻击中使用 ARTEX AI 代理",
+        "url": "https://mp.weixin.qq.com/s/IIjBfIbYnIleIub-9vhNKA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP重大漏洞危及多国政府网站：根因、泄露事件与应急处置方案",
+        "url": "https://mp.weixin.qq.com/s/jgvHdZK91bm0-tu5R1ZaSw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【众测实战】某APP存储型XSS完整挖掘&amp;WAF绕过思路复盘",
+        "url": "https://mp.weixin.qq.com/s/186s46RTUXoFvzyEjgQWkg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "Redis未授权访问一个配置错误就能丢服务器",
+        "url": "https://mp.weixin.qq.com/s/gZPyUcSIyOjleN_R_Prs5A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "GitLab .org 渲染正则溢出 RCE，CVSS 满分 10.0，附版本自查与升级方案",
+        "url": "https://mp.weixin.qq.com/s/-ZD67wmUOXTuz8dq_xMpVA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "靶场实战 16｜输入框暗藏命令注入，一句话拿下权限（附 Docker 靶场）",
+        "url": "https://mp.weixin.qq.com/s/tdLvAa79YmxdVlepSBGXrQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "一套面向 CNVD 通用型未授权漏洞挖掘的开源便携工具包",
+        "url": "https://mp.weixin.qq.com/s/rEg0aKWvmG_CaHAg_Q2ClA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "紧急！PHP 引擎层爆出两个 9.2 分严重漏洞，速查！",
+        "url": "https://mp.weixin.qq.com/s/4J2AxjJjMgIV-kIYN5sKqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "AI 驱动的自动化渗透测试平台",
+        "url": "https://mp.weixin.qq.com/s/Gpeag9qr5pKFXWrG6TV8XA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "全新AI驱动红队C2！Oktos后渗透平台",
+        "url": "https://mp.weixin.qq.com/s/pm7mIv5kyjHvibeu_CAG1Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【每日漏洞预警】10月23日 · GitLab 10.0 未授权 RCE，8 组 ≥9.5 全收录",
+        "url": "https://mp.weixin.qq.com/s/6zDgYZQUKa6r7uN64vWeug",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "大模型部署工具Ollama目录穿越漏洞，可远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/jHsSOVYMne1X2qjzhD3Tag",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "智能体越权防护研究，从过度代理到能力最小化：AI Agent 权限治理的形式化方法与工程落地",
+        "url": "https://mp.weixin.qq.com/s/aZbdRY1DuwoaLNlPdi8D9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "漏洞预警 | Fastjson远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/LQOnAzeTd9PFBXMOm82KpA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "漏洞预警 | WordPress plugin Booktics SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/HNLngUXi0t0HxvdJ6fIpfQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "打印机默认密码靠序列号算：Brother 三条漏洞拼出未认证 RCE",
+        "url": "https://mp.weixin.qq.com/s/53rFwboLyVYqMEKz7XI5Tw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "LiteLLM 1.107.0 遭供应链攻击入侵：凭据窃取器与后门通过 PyPI 与 Docker 分发",
+        "url": "https://mp.weixin.qq.com/s/Xl8zPcc-YRmi6P2iZp0AmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "【热点安全风险】10月23日｜LiteLLM 1.107.0 官方包被植入后门，攻击者可窃取云密钥与模型凭据",
+        "url": "https://mp.weixin.qq.com/s/3bHFzDYm11zgslZT2yJGAw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "50合一的渗透工具箱：从查资产到AI挖洞，一个平台全干完",
+        "url": "https://mp.weixin.qq.com/s/_8eMCZd3gqZI5fcnoC04rw",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "谷歌Chrome浏览器155次更新修复了严重的“免费后使用”漏洞及其他九个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/D9e3-lQ7bPOwzR21no6B_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "PHP2Shell 漏洞已遭在野利用， 默认配置利用代码已公开",
+        "url": "https://mp.weixin.qq.com/s/MB5jIXANMt4njRgkyf6O9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-23"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 UnitCreateDynamicGridHead接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Saler-Unit_CreateDynamicGridHead-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-23"
+    }
+]
