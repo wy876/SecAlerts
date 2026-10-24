@@ -256,5 +256,83 @@
         "url": "https://mrxn.net/jswz/youjiasoft-env-setup-2.html",
         "source": "MRXN",
         "date_added": "2026-10-24"
+    },
+    {
+        "title": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+        "url": "https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "十二年轮回：GitLab 满分 RCE 的解剖与警示",
+        "url": "https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "从Token伪造到SQL注入，四步打穿某监管平台全库",
+        "url": "https://mp.weixin.qq.com/s/9sZc24roErlvhpxQPsBVAQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "速修 | WordPress 备份插件未认证 PHP 对象注入，9.8 分",
+        "url": "https://mp.weixin.qq.com/s/Zm5I5K4tM3aNM6yAcOsM4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "在看 | 周报：宜春网警打击侵犯公民个人信息犯罪团伙；PHP引擎曝两个9.2分免认证RCE漏洞，多国机构紧急下线网站",
+        "url": "https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "【已复现】Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "PHP2Shell漏洞如何快速响应，安天发布多平台配置加固工具",
+        "url": "https://mp.weixin.qq.com/s/VOAoXw3uAfPl_Ficqr1vlA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "【安全圈】Brotli解压越界写引爆供应链！Node等全系沦陷",
+        "url": "https://mp.weixin.qq.com/s/SyB6puYi_61Vrz03euF_IQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "【安全圈】Ruby正则引擎爆底层缺陷！4个GitLab满分RCE连环穿",
+        "url": "https://mp.weixin.qq.com/s/WlJhzr8gILN1bFhBGK630Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "漫谈AOSP蓝牙漏洞挖掘技术",
+        "url": "https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "基于模拟仿真的蓝牙协议栈漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/807FTqiNn9NK-L-YhKBrGQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "PHP 爆出 php2shell 双核 RCE（CVE-2026-109618 / CVE-2026-109619）：一个未授权 POST 请求就能拿 Shell",
+        "url": "https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "php2shell漏洞全解析--带来的思考",
+        "url": "https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
     }
 ]
