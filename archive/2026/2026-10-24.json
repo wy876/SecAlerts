@@ -1,0 +1,146 @@
+[
+    {
+        "title": "PHP2Shell从漏洞修复到威胁狩猎的证据链分析",
+        "url": "https://mp.weixin.qq.com/s/kTNInh05PiLoA7jtwrWX4A",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "Agentic AI 红队检查清单 —— 模型与供应链（Model &amp; Supply Chain",
+        "url": "https://mp.weixin.qq.com/s/bs91mr512Eeq1kXhEpi3aA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "赏金视角下的缓存欺骗与投毒：补丁比漏洞更危险？Cloudflare 绕过与 DoS 翻车复盘",
+        "url": "https://mp.weixin.qq.com/s/r6abnhWnTFy4JOUKGBz2PQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "Python生态曝Brotli高危漏洞(CVE-2026-111497): Node2Shell(HTTP2Shell)影响范围扩大，或导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/E6WuMre9pKYcOZq9L45BsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "藏了 14 年的漏洞，一周之内让半个互联网开始加班",
+        "url": "https://mp.weixin.qq.com/s/JwxKnUh0jzhk1PtZG6QedA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "u200bCNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/RKE_QIkei2b87tQduvhVkw",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "客户端漏洞挖掘skills v1.1",
+        "url": "https://mp.weixin.qq.com/s/6fZMOYaFHWYBqrjfW35O9w",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "Python的Pillow图像库存在严重漏洞，通过伪造图像可能导致代码执行",
+        "url": "https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "让 Burp 自己开火：一个把抓到的流量直接变成漏洞的被动扫描引擎",
+        "url": "https://mp.weixin.qq.com/s/tFp8I057dlAqF8LA8poltA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "PHP2Shell漏洞处置与响应指引",
+        "url": "https://mp.weixin.qq.com/s/8Iio04fsHZ_4LKKW2ejpxQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261024）",
+        "url": "https://mp.weixin.qq.com/s/1OdgvC_-okxbg5GnPqpQFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "好靶场杯第一届综合赛-古法赛道-流量分析webshell3-下",
+        "url": "https://mp.weixin.qq.com/s/j_dZmfk0L4CCdmRYEGPZXA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "PHP2Shell 漏洞分析与复现：CVE-2026-109618 / CVE-2026-109619 未认证远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "PHP2Shell紧急补丁上线两天,官方再发未修复RCE预警:CVE-2026-115560",
+        "url": "https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "官方发行版上真跑通了：Node2Shell 的 PoC 到底有多真",
+        "url": "https://mp.weixin.qq.com/s/11Z_OO8WJU62hOLzyf0XtQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "一套面向 CNVD 通用型未授权漏洞挖掘的开源便携工具包",
+        "url": "https://mp.weixin.qq.com/s/8ctjZqVHW42k0VrhEa1r9w",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "韩国延世大学门户遭黑客攻击 1.5万人个人信息泄露",
+        "url": "https://mp.weixin.qq.com/s/cENqzd4G8WXXNmxLHN712g",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "全球1177万个会员账号邮箱等个人信息泄露日本游戏厂商卡普空致歉",
+        "url": "https://mp.weixin.qq.com/s/VP5jsrx5Dr1mcrubY_ubXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "日本数字厅部分利用AI搭建网站遭黑客入侵 超1.3万条隐私信息泄露",
+        "url": "https://mp.weixin.qq.com/s/2aL3NW0PeaHPmsBCSFkm7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "速修 | Arista VeloCloud 9.9 分 SQL 注入在野利用可提权超管",
+        "url": "https://mp.weixin.qq.com/s/pve-yOKWLRoEA5vr4d1x8g",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "EtherHiding 后门样本分析",
+        "url": "https://mp.weixin.qq.com/s/oD0jwaBVCsKLHGsnpIkbCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "MCP 投毒检测深化研究：面向 MCP 供应链攻击的 Hook 检测规则设计",
+        "url": "https://mp.weixin.qq.com/s/qpMhY8gD5cQKxiSGwYp5mQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 getSysSetInfo与GetZtnameSet接口未授权访问漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sysconfig-GetZtnameSet-file-read.html",
+        "source": "MRXN",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-24"
+    }
+]
