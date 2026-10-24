@@ -142,5 +142,119 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493488&idx=1&sn=b73f0826551149f36dfe65369ec64281",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [思科修复 Expressway 严重漏洞，可用于 RCE 攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527504&idx=1&sn=8e7175cc4854eb2e71a497ff5bbcf412",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [Node2Shell：Node.js 修复严重的 RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527504&idx=2&sn=030c1ac0d75994a886f32e1d67735f9f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [安全热点周报：黑客在 PHP2Shell 漏洞公开披露前4天就试图利用该漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507917&idx=1&sn=c0266b07d6a78bf955e592bdfd4b1846",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [PHP 曝两个\"满分级\"漏洞，多国政府网站连夜下线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505438&idx=1&sn=173d513da9a3e2cb851daaf35f1a9bb9",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [威胁情报｜警惕！Web3 面试题暗藏盗窃后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506403&idx=1&sn=9eebfd36706b74c2e1e3ac01f32a9a2b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497087&idx=1&sn=8dcdf5d20033d43ab0ae6337b7ae0905",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [【漏洞通告】Node.js 多个安全漏洞(CVE-2026-105482 / CVE-2026-111497)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526285&idx=1&sn=1a277192a85ab850df14484d6436587c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526285&idx=2&sn=cb7cf0a10ef1a0db0c12509407c364a0",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493721&idx=1&sn=0e73454d53812475a4f22b4317551980",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "] [多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587089&idx=1&sn=420e4f66aad00df23e4045fc76d47312",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "【新增产线解决方案】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/XNA9g4hRsF3Wx0AUWmaSfA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "某统一身份认证通杀漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/glXn19ZV8l0ZXeKYmEixYQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "只需修改 URL 即可登录后台？教育网这套系统暴露未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/Ab0lfD2ng-xdSy1xtkETBQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "从Node.js高危漏洞爆发，看山石网科的风险软件治理之道",
+        "url": "https://mp.weixin.qq.com/s/c8KxcpMBd6ho2NOErLVWLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "自研 WAF 对抗实录｜拒绝状态码陷阱，SQLi/XSS/CC/ 蜜罐全场景验证",
+        "url": "https://mp.weixin.qq.com/s/FVkTT_UlIwau_GiY_y7tcQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "【已复现】Node.js Brotli 解码器远程代码执行漏洞（CVE-2026-111497）",
+        "url": "https://mp.weixin.qq.com/s/u7Cish6dsvh4JnuQ9pzViQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "GitHub开源AI渗透测试工具PentestCode：13个Agent共享战况，自己却踩过两个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/Qw48naJkuaXdkY8KOE9gmg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 NewZtManager接口未授权访问致信息泄露漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-env-setup-2.html",
+        "source": "MRXN",
+        "date_added": "2026-10-24"
     }
 ]
