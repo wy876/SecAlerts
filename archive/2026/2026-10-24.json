@@ -334,5 +334,47 @@
         "url": "https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg",
         "source": "Doonsec",
         "date_added": "2026-10-24"
+    },
+    {
+        "title": "2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链",
+        "url": "https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！",
+        "url": "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "AI 时代到了，还有人坚持古法渗透吗",
+        "url": "https://mp.weixin.qq.com/s/jEyLhlIkl1DL-zs2vDoaSg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "金叶物联网大数据管理平台download接口存在任意文件读取漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "网络安全渗透测试 Agent 推荐",
+        "url": "https://mp.weixin.qq.com/s/3hYS5KfAEl5bt8yi5YVB6g",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "用缓冲区溢出漏洞把 3090 变成 A6000",
+        "url": "https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
+    },
+    {
+        "title": "GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现",
+        "url": "https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-24"
     }
 ]
