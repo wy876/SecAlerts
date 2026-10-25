@@ -4,5 +4,65 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Sys-GetChildInfo-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-25"
+    },
+    {
+        "title": "日本大型快递公司佐川急便系统遭入侵 致大量个人信息泄露",
+        "url": "https://mp.weixin.qq.com/s/Ni7cAeXkQHRx1js0W1g-lg",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "【已复现】Node.js Brotli 解码器越界写漏洞（CVE-2026-111497）",
+        "url": "https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447",
+        "url": "https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "解压即入口：Brotli解码器越界写入影响Node.js（CVE-2026-111497）",
+        "url": "https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "Web框架漏洞盘点那些年拖垮无数网站的经典漏洞",
+        "url": "https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘",
+        "url": "https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "AegisLoop 开源：ARTEX 变体把自主渗透接上了 Splunk 防御闭环",
+        "url": "https://mp.weixin.qq.com/s/4bsAXLXrMUCpx_niUklXVQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "顶尖红队渗透提示词 黑掉一切",
+        "url": "https://mp.weixin.qq.com/s/dFuZRiiv-U4AYxtZ47ziVA",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "PHP后Oracle发布多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetDefault接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Sys-GetDefault-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-25"
     }
 ]
