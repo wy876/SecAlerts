@@ -64,5 +64,83 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Sys-GetDefault-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [智能汽车网络安全与信息安全基础培训课程 2026",
+        "url": "https://mp.weixin.qq.com/s/BFEIw3a6Hx2exP8NpFzUPw",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [用缓冲区溢出漏洞把 3090 变成 A6000",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257357&idx=1&sn=c482ffd6634a20578df7b4fbcac341a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [【安全圈】Brotli解压越界写引爆供应链！Node等全系沦陷",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079481&idx=2&sn=fe9a1828c37180934ccad8c4431b604f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [【安全圈】Ruby正则引擎爆底层缺陷！4个GitLab满分RCE连环穿",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079481&idx=3&sn=31aadf7c74c78b0772524533b6b041be",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [​CNNVD | 关于Oracle多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268042&idx=2&sn=71a59aafc70cba6b438a146e3ea08492",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "] [【新增产品解决方案】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507922&idx=1&sn=82033e97fa3b85bf4568719ff8828401",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "安天PHP2Shell漏洞专项加固工具新增银河麒麟、统信UOS适配版本",
+        "url": "https://mp.weixin.qq.com/s/ykB_ZwR0tVhP6gUTzac3dQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "极客赛场纠错，企业为何偏要捂住漏洞？",
+        "url": "https://mp.weixin.qq.com/s/ZrlKpKuF8A-INCTbGpXt6A",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "安天发布PHP2Shell漏洞专项系列加固工具",
+        "url": "https://mp.weixin.qq.com/s/84elGQL5rRiXvA6bVPfdqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20261025）",
+        "url": "https://mp.weixin.qq.com/s/3nzY9Y7utGyc9Jq3hKhCnA",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "【攻击检测规则与迹象排查】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/CSATM2WBf-DGc-W7pjktbg",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "安全的本质 是正视漏洞 解决隐患 而非规避发现漏洞的人",
+        "url": "https://mp.weixin.qq.com/s/dw5VHLqxOjOFXLy8UYsRcg",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "GitHub AI 渗透红队开源盘点：本周 6 个新项目，星标实时核对",
+        "url": "https://mp.weixin.qq.com/s/LNizqJrKuhG9q-ryIvg_NQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
     }
 ]
