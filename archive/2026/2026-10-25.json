@@ -142,5 +142,17 @@
         "url": "https://mp.weixin.qq.com/s/LNizqJrKuhG9q-ryIvg_NQ",
         "source": "Doonsec",
         "date_added": "2026-10-25"
+    },
+    {
+        "title": "全球首个多AI Agent渗透平台RedAgents正式发布",
+        "url": "https://mp.weixin.qq.com/s/fvqZb-ECFegk_WxNNj8-PA",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
+    },
+    {
+        "title": "OpenAI智能体利用零日漏洞逃逸沙箱，访问宿主机系统",
+        "url": "https://mp.weixin.qq.com/s/ONzN4E-mNhbJEwth5qSgXw",
+        "source": "Doonsec",
+        "date_added": "2026-10-25"
     }
 ]
