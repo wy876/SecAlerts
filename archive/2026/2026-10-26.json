@@ -1,0 +1,68 @@
+[
+    {
+        "title": "工具分享 | 一款全功能 Web 漏洞扫描工具 - WebVulnScanner v12.0",
+        "url": "https://mp.weixin.qq.com/s/dATmHfyYiGfJHZ_sJd824A",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "被同一个白帽子连续破防4次？详解GitLab最新10.0高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/hFyUpqg_MOrBUlcBn3ziew",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "AI 渗透测试  \\\"同样是满分，我们少花了 80% 的 Token\\\"",
+        "url": "https://mp.weixin.qq.com/s/I60sGvYj01LAYk7r3pVimA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "宇树Go2机器狗未授权RCE，9.6分紧急（CVE-2026-115995）",
+        "url": "https://mp.weixin.qq.com/s/2i6WxBSSs4WVlINWpkD4hg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "扒一扒LiteLLM供应链攻击内幕：黑客是如何利用GitHub OAuth令牌留后门的？",
+        "url": "https://mp.weixin.qq.com/s/htjG8StZIhW4o6nZa3rP1w",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "漏洞预警 | H3C Magic NX15命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/psJiKTuUu2cGFlHCaXQ9hA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "漏洞预警 | Drupal远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/7m6ON0XMkyiYXkykMkWRUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "红队全链路自动化攻击平台 | 面向授权渗透测试与攻防演练的集成化桌面工具",
+        "url": "https://mp.weixin.qq.com/s/-IbZlf-svuLRRDXGvH5yFg",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "善意被报警并非中国特有：给负责任漏洞披露装上“确定性接口”",
+        "url": "https://mp.weixin.qq.com/s/iw-7cjeWaflq3QA506VtiQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "Oracle发布1295个安全补丁，修复多个产品中的关键漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZpVH1ROvTTINMebUBWqQkA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "友加畅捷管理系统标准版 GetVIPCardCode接口SQL注入漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCardCode-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-10-26"
+    }
+]
