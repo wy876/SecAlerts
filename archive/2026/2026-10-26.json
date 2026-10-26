@@ -142,5 +142,23 @@
         "url": "https://mrxn.net/jswz/youjiasoft-VIPCard-GetVIPCodeByKey-sqli.html",
         "source": "MRXN",
         "date_added": "2026-10-26"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.10.19-2026.10.25",
+        "url": "https://mp.weixin.qq.com/s/WcPB-Rxx_-JxCQFol2QniQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "【漏洞预警】GitLab未授权远程代码执行漏洞（CVE-2026-110264）",
+        "url": "https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
+    },
+    {
+        "title": "PHP远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)通告",
+        "url": "https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA",
+        "source": "Doonsec",
+        "date_added": "2026-10-26"
     }
 ]
