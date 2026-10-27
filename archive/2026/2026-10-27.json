@@ -4,5 +4,95 @@
         "url": "https://mrxn.net/jswz/youjiasoft-smart-env-setup.html",
         "source": "MRXN",
         "date_added": "2026-10-27"
+    },
+    {
+        "title": "多 Agent Harness 如何把漏洞告警变成可复核证据",
+        "url": "https://mp.weixin.qq.com/s/5vavG-wf7jX3oTL-xzbfvg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)",
+        "url": "https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "redis未授权",
+        "url": "https://mp.weixin.qq.com/s/imE_-B-kbvxKX78ntzwJrg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "360图龙锋攻破“逻辑漏洞”难题！研究成果再斩国际顶会",
+        "url": "https://mp.weixin.qq.com/s/e3pRFt7ftqtLHXEQleAp7w",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "每日漏洞推送  zip-rs ≤ 9.0.4 双头部脱同步（Zip Cloaking）→ 扫描器放行、解压器落盘任意文件",
+        "url": "https://mp.weixin.qq.com/s/61fk3nlNNVmrhE7ezJWFlg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "一款打开浏览器就能让智能体做渗透的插件",
+        "url": "https://mp.weixin.qq.com/s/rj3FvOsMlnH29-V1tcS-_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "资产侦察与漏洞管理平台 -- 4zreark（10月26日更新）",
+        "url": "https://mp.weixin.qq.com/s/YvqIWnIoc9GZFgzp56V2yA",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC",
+        "url": "https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "NodeGoat 靶场实战：Node.js 原型链污染与 NoSQL 注入",
+        "url": "https://mp.weixin.qq.com/s/OfBQxuXwuSEBG61r1ZIovQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "高危预警｜海莲花组织发起多行业定向攻击！科研、航运、交通均被盯上",
+        "url": "https://mp.weixin.qq.com/s/pqTaUKLH_PN5WwJwnUB47w",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "【每日漏洞预警】10月27日 · TOTOLINK 10.0 未授权栈溢出，Avocent 9.8 提权",
+        "url": "https://mp.weixin.qq.com/s/IWETdbVupnjxE-agGfqEfQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "Tailscale SSH 漏洞可导致提权至 root",
+        "url": "https://mp.weixin.qq.com/s/R-8iyvLV30cylod5e0h7uw",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "Node.js 的远程命令执行漏洞，不在你的业务代码里，在压缩库里",
+        "url": "https://mp.weixin.qq.com/s/oZxv5QAZofxAE_kAAw7-bg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "【每日漏洞预警】10月26日 · 无 9.5 分未授权 RCE，YesWiki 9.1 未授权注入领跑",
+        "url": "https://mp.weixin.qq.com/s/sUAaN5wNcdi79_uExUHHcA",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "友加畅捷管理系统最新版 HttpUploadHandler.ashx接口任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-HttpUploadHandler-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-27"
     }
 ]
