@@ -94,5 +94,113 @@
         "url": "https://mrxn.net/jswz/youjiasoft-HttpUploadHandler-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.10.19-2026.10.25",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504000&idx=1&sn=84144b24c8979ffc49fd358995499002",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [Okta Access Gateway 严重漏洞可导致系统命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527512&idx=1&sn=329b64c755a7cfc482ff4ff76c55fc9c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [HPE 修复八个 CVSS 满分RCE和认证绕过 AOS 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527512&idx=2&sn=9bebc29568e6fc01cdf9b66bbd3e3bd8",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [关于调整中危、低危漏洞奖励标准的公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490229&idx=1&sn=696bd2ad9a15556c378f0dbc10ab4f74",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [HTTP2Shell 漏洞范围再扩容！脱离 HTTP 链路，波及.NET/ClickHouse/FFmpeg/Apache Arrow",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623122&idx=3&sn=0bcf731e7fc4e45e140d7013fcbe050b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [【安全圈】Tailscale SSH未修补漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079575&idx=2&sn=0d9cfc8565a5ceac0ae6b7b8d185746f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [【安全圈】Electrum钱包漏洞：转账地址被偷换！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079575&idx=3&sn=2f9ee707133b4d0ee0478e5c9ee6ae07",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "] [【深信服解决方案】PHP远程代码执行漏洞(CVE-2026-109618/CVE-2026-109619)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526287&idx=1&sn=91f90ba5fde2a55a925295df2c74121d",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "首次！PHP2Shell漏洞已被成功利用，实现远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/yp3Z3Yr10MRblL56y3U2Fg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "大蚂蚁即时通信系统 loginByToken 身份认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/M-OXS-xU0iXYeJJdaaWBVw",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "PHP重大漏洞引发全球关注：AI时代，网络安全防线如何升级？",
+        "url": "https://mp.weixin.qq.com/s/EyoynmSCywN3tJkOB4TCfw",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "从csrf到文件上传从命令执行到powershell反弹shell，htb靶机练习之secnotes",
+        "url": "https://mp.weixin.qq.com/s/uGtDjkoZn38jAAdOUOauig",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "【已复现】Linux Kernel POSIX CPU timer 释放后重用漏洞(CVE-2026-98260)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/cmA5I-WjNZnpdNeoNo8D6w",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "云天 · 安全通告（2026年10月27日）",
+        "url": "https://mp.weixin.qq.com/s/U0fI3LuVhxLdED9ya0oL9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "360漏洞云亮相看雪峰会｜人机共智·重构安全",
+        "url": "https://mp.weixin.qq.com/s/ilC8hPHKpX2Hb-iq2oakgw",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "宇树 Go2机器狗 未授权命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Tc8_PJ8r9O0w69wuydF3tg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "【勒索预警】用友 BIP 高级版疑似0day已被rox勒索病毒利用（附IOC）",
+        "url": "https://mp.weixin.qq.com/s/LnMzZYU9Qi1y31467GX9bg",
+        "source": "Doonsec",
+        "date_added": "2026-10-27"
+    },
+    {
+        "title": "友加畅捷管理系统最新版 GetApiParams接口任意类方法信息枚举漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Api-Default-GetApiParams-data-leak.html",
+        "source": "MRXN",
+        "date_added": "2026-10-27"
     }
 ]
