@@ -58,5 +58,167 @@
         "url": "https://mp.weixin.qq.com/s/JygNGAA7f2DT83aWvPSihA",
         "source": "Doonsec",
         "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [GB_T 37002-2026 网络安全技术 电子邮件系统安全技术规范 将于2026年07月02日实施",
+        "url": "https://mp.weixin.qq.com/s/ujT6xdCfSgRCQXxejxMsdw",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [Anthropic安全高管警告：“漏洞海啸”数月内来袭，关基设施漏洞或来不及修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493858&idx=1&sn=5046229ef07036578cf7da5c51012599",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [首次！PHP2Shell漏洞已被成功利用，实现远程命令执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516783&idx=1&sn=410ce342915893cb9633c02741bb73bd",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [PHP2Shell应急：从漏洞情报到业务影响，中间隔着什么？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488160&idx=1&sn=a34f4a244fb8c3fbfad4cff6623f7e0c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [360漏洞云亮相看雪峰会｜人机共智·重构安全",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505445&idx=1&sn=acf676ddd4d436e172161ea835ac638c",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [CISA：PHP2Shell 漏洞已遭利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527536&idx=1&sn=6c207a14ce6a2416be690ad8bcc931a9",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [Wasmtime 两个严重漏洞可导致恶意 WebAssembly 模块逃逸沙箱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527536&idx=2&sn=b6fa359a0dc9f70108a862c42b48248f",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [行业 | 360图龙锋首个通过“AI漏洞挖掘能力评估”，500家企业接入开展“AI安全图灵测试”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268100&idx=4&sn=e41e061cec1023583dbb41d290474391",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [Microsoft向6万员工提供自愿离职补偿，AI战略推动组织架构调整；CNVD第42期周报：623个漏洞被收录，78%涉及0day漏洞| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143056&idx=2&sn=85e395164e77d5215723be96ae2c0411",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [PHP重大漏洞引发全球关注：AI时代，网络安全防线如何升级？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544327&idx=2&sn=f0b0108802a3cccedf54d9eb690a05f1",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [白盒发现，黑盒验证：CodeBuddy Security打造AI代码审计的\"可利用性闭环\"",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498047&idx=1&sn=1fe4defcd852bbfa72cbb3d31ce020df",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [360图龙锋攻破“逻辑漏洞”难题！研究成果再斩国际顶会",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587114&idx=2&sn=a46b40ae0cef68dfa06abcb1a304d1cb",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [【漏洞通告】Linux exec POSIX CPU 定时器 UAF本地提权漏洞(CVE-2026-98260)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526322&idx=1&sn=6214d1e2d21d46a9dc149f6b21030930",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "] [【漏洞通告】Oracle Java SE JSSE 中间CA证书信任漏洞(CVE-2026-91403)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526322&idx=2&sn=f9e23ff624acc2a6cfb809c24dee0a10",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "【实战】对某一国gov主站的授权渗透测试",
+        "url": "https://mp.weixin.qq.com/s/NpNKAkzQtCvgIcad2h9eIQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Strix AI 自动化渗透测试工具实战：安装部署、配置与漏洞挖掘教程",
+        "url": "https://mp.weixin.qq.com/s/84YDGedBfM-L6q9vLS6oYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "漏洞预警|CVE-2026-97631 一个存在约16年的缓冲区溢出漏洞,影响绝大多数服务器，还能执行代码, cvss:9.5",
+        "url": "https://mp.weixin.qq.com/s/kGZx9f96YMiIAAVW2KJidg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Node.js Brotli 解码器越界写入漏洞（Node2Shell CVE-2026-111497） 通告",
+        "url": "https://mp.weixin.qq.com/s/7-cow4Gfb3CFXZsF1SS-pQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "【漏洞预警】PHP 底层高危远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/KEfYJGsCTX8vZ1727eftZA",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Linux 中被发现Zero-click远程代码执行漏洞，来看看Claude最近发现和利用的真实软件中的漏洞，关键是用的是未发布的内部模型",
+        "url": "https://mp.weixin.qq.com/s/NfL2BFR6qgmFE9Z3jBQfSA",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Google Brotli decode.c缓冲区溢出漏洞」等2个漏洞",
+        "url": "https://mp.weixin.qq.com/s/qIksr4L_LJfmuHlnZJEOrQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "快手SRC关于白帽子行为规范及违规处理的通告",
+        "url": "https://mp.weixin.qq.com/s/iF-h58pnVyDX_5vMvoE2pQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第42期）",
+        "url": "https://mp.weixin.qq.com/s/CoBsWiJfzEtRaE5lEdGvRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "PHP2SHELL漏洞事件启示：攻击来了，补丁还没打，AI蜜罐守零日窗口期",
+        "url": "https://mp.weixin.qq.com/s/ELYhW9V9qGXn3uS_iig_MQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Veeam 修复企业备份和监控软件中的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/m85wWa41p6FemkG3EljhNg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "【一天一个nacos漏洞】  单洞到链",
+        "url": "https://mp.weixin.qq.com/s/FHwHYmfAZO7a28aBVzlV6A",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "供应链安全：AI 攻破 Anthropic 只用了 12 小时",
+        "url": "https://mp.weixin.qq.com/s/n6SjXprUq5yDa7TZbR92dg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
     }
 ]
