@@ -220,5 +220,83 @@
         "url": "https://mp.weixin.qq.com/s/n6SjXprUq5yDa7TZbR92dg",
         "source": "Doonsec",
         "date_added": "2026-10-28"
+    },
+    {
+        "title": "JavaSecLab：别再搭那些“一键弹窗”的靶场了，这个平台逼你从源码里理解漏洞",
+        "url": "https://mp.weixin.qq.com/s/vL4E2vORVjmu67KzArRbnw",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "网站漏洞源码合集 可做漏洞训练平台",
+        "url": "https://mp.weixin.qq.com/s/WkTEWGZyMnhCgXOG1Wcreg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "dsh-redteam-model | 红队DSH 插件集，覆盖渗透、代码审计、二进制、云攻防、资产测绘，支持自定义攻防方法论",
+        "url": "https://mp.weixin.qq.com/s/Zup3hnO9yv4EBzUhojLlaQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "【高危漏洞预警】Apache Tomcat FORM认证授权绕过高危漏洞CVE-2026-6852",
+        "url": "https://mp.weixin.qq.com/s/nAPGoVFpZr-qEj66iwGCUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Ruoyi框架漏洞复现总结",
+        "url": "https://mp.weixin.qq.com/s/z2sHF0nQibk4sOa0u2Xlmw",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "好靶场杯第一届综合赛-古法赛道-流量分析-SQL注入流量分析",
+        "url": "https://mp.weixin.qq.com/s/RICFBPgCpTw1aZr679jnFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "记一次学员ai挖洞不知道原理经过深度分析之挖掘通杀0day过程",
+        "url": "https://mp.weixin.qq.com/s/RJnEaBv0e9DvpUMMGN12qg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "ASP.NET 内存马：五类特征，五种查法",
+        "url": "https://mp.weixin.qq.com/s/dSjr7ujTTo2SmD7XUIk1NA",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "天积安全靶场攻略｜业务逻辑漏洞-暴力破解之前端加密篇",
+        "url": "https://mp.weixin.qq.com/s/p6_m4D6M3FQTWzHvfGDPew",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "双通道红队 C2，MCP 接入 AI，全自动渗透实战利器，具备自动提权、进程伪装、无文件上线能力，载荷 AES 加密",
+        "url": "https://mp.weixin.qq.com/s/nZe1cset8m5Er7epR56Tsg",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "上千款Skills渗透、逆向等技能合集包（附链接）",
+        "url": "https://mp.weixin.qq.com/s/5SLeScBEPPM88nmpg1MJWQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "Brotli 漏洞暴露严重，HTTP2Shell 漏洞触发紧急补丁",
+        "url": "https://mp.weixin.qq.com/s/PBoZgu5yNc6b6I6Gj2p--g",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "【高危漏洞预警】CVE-2026-98260 Linux内核POSIX CPU Timer释放后重用（Use-After-Free）",
+        "url": "https://mp.weixin.qq.com/s/vyo8RDvPWbQVYgZlGH9QoQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
     }
 ]
