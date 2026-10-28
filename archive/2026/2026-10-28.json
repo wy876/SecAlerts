@@ -298,5 +298,17 @@
         "url": "https://mp.weixin.qq.com/s/vyo8RDvPWbQVYgZlGH9QoQ",
         "source": "Doonsec",
         "date_added": "2026-10-28"
+    },
+    {
+        "title": "ARTEX：AI自动化渗透测试工具",
+        "url": "https://mp.weixin.qq.com/s/LTzBVrX1NCN3QwE20k0fNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
+    },
+    {
+        "title": "记一次OA系统登录身份鉴别和文件上传下载密码技术分析实战过程",
+        "url": "https://mp.weixin.qq.com/s/i_kwN1z8HRMfYL8dRLzlRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-28"
     }
 ]
