@@ -1,0 +1,98 @@
+[
+    {
+        "title": "美国国土安全部（DHS）超4.1万员工信息泄露曝光",
+        "url": "https://mp.weixin.qq.com/s/v5mGyc0N4G33y9j6FrU-dA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "XSS Bypass",
+        "url": "https://mp.weixin.qq.com/s/CdL5mwU_45Ngltc9oPX4Kg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "文件一夜变\\\".weax\\\"：官方预警解析 Weaxor 勒索病毒，企业数据库与 OA 是主要目标",
+        "url": "https://mp.weixin.qq.com/s/4UvmRchrGTSVvI70rhG-Cg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "哪吒网络安全渗透测试 --  Nezha Cyber",
+        "url": "https://mp.weixin.qq.com/s/aKrUx95_Nh-oTDsv6JZXzg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Volt Typhoon 在四次零日漏洞利用活动中使用隐蔽 Silent Train 网络",
+        "url": "https://mp.weixin.qq.com/s/hVX-IwxNkOm4WrLQSKegXA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【$175,000】人类技艺巅峰之作：纯逻辑漏洞构筑的Edge全链条攻击深度解析！",
+        "url": "https://mp.weixin.qq.com/s/85O-oVvBwGjOriY56fmu_w",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Jenkins 修复 15 个漏洞，其中包括远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/f_W3BUJkI2_NmxgVYVfaFA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "补丁地狱：PaperCut 三次修补三次被绕过的漏洞挖掘全记录",
+        "url": "https://mp.weixin.qq.com/s/-O6N1h21hbujaO0AWBuBSg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "VMware ESX 日志绕过，在野利用已进 KEV CVE-2026-41709",
+        "url": "https://mp.weixin.qq.com/s/I_EK6o-1JBWQvdmKUfALsA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "不安全的邻居：漏洞链如何绕过云基础设施隔离",
+        "url": "https://mp.weixin.qq.com/s/1w8z1U6wWKLDqGP0aZGmsQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "老设备也不放过！苹果紧急修复高危漏洞，带你硬核拆解越界写入（OOB Write）",
+        "url": "https://mp.weixin.qq.com/s/LLqDDPxDqy_cZvhVE9AJqA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "漏洞预警 | Nodejs Brotli远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/_-twzvKWIxof9w2OREfzSQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "漏洞预警 | PHP代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/a3v9PTrnT3dvESEAqahn7Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "写给刚入行、被\\\"AI挖洞\\\"刷屏却始终挖不到第一个漏洞的你！一开始我也一股脑的烧钱充币……",
+        "url": "https://mp.weixin.qq.com/s/iNIktNV4fKMGMq_wfcuMYw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【热点安全风险】10月29日｜Adobe Commerce 上传缺陷遭在野利用，攻击者接管账号（CVE-2026-48356）",
+        "url": "https://mp.weixin.qq.com/s/OPz-bQweI3sW72WShve5Hw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "友加畅捷管理系统最新版 UploadHandler.ashx接口任意文件上传漏洞",
+        "url": "https://mrxn.net/jswz/youjiasoft-Report-Upload-UploadFormImg-rce-2.html",
+        "source": "MRXN",
+        "date_added": "2026-10-29"
+    }
+]
