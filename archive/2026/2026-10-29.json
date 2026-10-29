@@ -340,5 +340,155 @@
         "url": "https://mp.weixin.qq.com/s/MfSIM1awQ92gk58ywlziLQ",
         "source": "Doonsec",
         "date_added": "2026-10-29"
+    },
+    {
+        "title": "零内存写入注入杀器！WhisperHijack：线程名偷渡载荷，等待线程劫持执行",
+        "url": "https://mp.weixin.qq.com/s/J6WifrnYrt3GJikbHna__Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "工具推荐 | dsh-pentest 升级来袭：DeepSeek Harness 适配 + 链路可视化，轻量AI渗透环境一把梭",
+        "url": "https://mp.weixin.qq.com/s/8ZO6m7RejBS3opyWNpOhXA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "绕过火绒/Defender/360，BypassWeb 冰蝎 4.1 全新免杀框架，死代码 + 字符拆分 + 混淆，自带伪装能力",
+        "url": "https://mp.weixin.qq.com/s/azqusGdn4XgGoOocgwK6VA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "单模型“全能”是统计幻觉：Mythos标记6202个漏洞只修了75个，而MDASH用100个Agent做到了单模型做不到的事",
+        "url": "https://mp.weixin.qq.com/s/2Vw9iS3d5Paxj669t_Yekg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Payloader：300条Payload+114条工具命令，渗透测试辅助平台的搭建与实战",
+        "url": "https://mp.weixin.qq.com/s/nLjLfnVaSr007u_6h9lhvg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【高危漏洞预警】GitLab未认证远程代码执行漏洞CVE-2026-110264",
+        "url": "https://mp.weixin.qq.com/s/UqwwwU4AnMH0psHx902Z9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【$175,000】人类技艺巅峰之作：纯逻辑漏洞构筑的Edge全链条攻击深度解析！",
+        "url": "https://mp.weixin.qq.com/s/RPxsalZeEJENruWEJ82QQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "C3RB3R勒索软件利用DSM漏洞CVE-2026-13639和CVE-2026-13684攻击群晖NAS设备",
+        "url": "https://mp.weixin.qq.com/s/riz8MOCO6FSZW1i9QC0k-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "WordPress Telegram 插件未授权接管管理员账号",
+        "url": "https://mp.weixin.qq.com/s/j0zdSQMKiwoWj44wFNveRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "月之暗面最新模型削弱网络安全攻击能力，AI渗透本地化才是未来",
+        "url": "https://mp.weixin.qq.com/s/Y_LoC2vt2GKUiM71MMdZ-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "供应链高危0Day漏洞预警 | 灵脉CodeAI发现Jenkins远程代码执行漏洞（CVE-2026-117612）",
+        "url": "https://mp.weixin.qq.com/s/mK6lWQY2LlKRp_oDT2gYuA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "企业防御 PHP2Shell：存量 PHP 漏洞排查、检测运营与内网纵深防护架构",
+        "url": "https://mp.weixin.qq.com/s/RFCWCTXUAS_WumJTMD3J0g",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "ShinyHunters利用的PeopleSoft 0Day，实为三漏洞链式攻击",
+        "url": "https://mp.weixin.qq.com/s/dR-EELAnKe8oRslEQeBOmQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "“天才渗透测试工程师（黑客）已陨落” Kimi K3.1已移除攻击能力！",
+        "url": "https://mp.weixin.qq.com/s/oHYFqlHZgpQWEGjwCYMtzQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "“天才渗透测试工程师（黑客）已陨落” Kimi K3.1已移除攻击能力！",
+        "url": "https://mp.weixin.qq.com/s/w9A8fo_m0y3tMl9WlrnGaA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【实战】对某二国gov主站的授权渗透测试",
+        "url": "https://mp.weixin.qq.com/s/kIpZsvXBeykk9sECf6NxxA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "创宇安全智脑通用安全能力升级通告(20261029)",
+        "url": "https://mp.weixin.qq.com/s/AlzhgkNJej_G3ir3jGSwRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "乔治梅森大学 | 以提示词注入反击AI驱动的网络攻击",
+        "url": "https://mp.weixin.qq.com/s/Lxz0FjxudmezHju5zGeavw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Telegram 贴纸也能成为攻击入口？研究人员称发现零点击漏洞，可串联实现 iOS 代码执行",
+        "url": "https://mp.weixin.qq.com/s/y5kslMDW_60t1VJULGQhnw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "这个仓库把 14 套主流 CMS 的 34 个高危漏洞全做成了可一键复现的 PoC，看完我服了！",
+        "url": "https://mp.weixin.qq.com/s/f_SRyyA37igR2dp8X5tU0g",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【勒索预警】突发，群晖NAS再遭勒索病毒攻击，疑似0day漏洞",
+        "url": "https://mp.weixin.qq.com/s/7MeD0xiKeLtNxMpobyVrGQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【免费领】SQL注入攻防实战技术教程（近400页）",
+        "url": "https://mp.weixin.qq.com/s/ZDmYMeMW1xKHRHW0MFbEQQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "[工具推荐]面向渗透测试与网络安全场景的自托管代理池工具 -ProxyCat",
+        "url": "https://mp.weixin.qq.com/s/CiVvzIIL3NGKEavDRkrCFw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "天才渗透即将陨落",
+        "url": "https://mp.weixin.qq.com/s/oreM6AuWQq2F-DYLvjoGuA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "漏洞复现｜Go-fastdfs reload 存在未授权访问漏洞",
+        "url": "https://mp.weixin.qq.com/s/79S7vEvHbKuGnpY8EiDKzQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
     }
 ]
