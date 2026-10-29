@@ -94,5 +94,251 @@
         "url": "https://mrxn.net/jswz/youjiasoft-Report-Upload-UploadFormImg-rce-2.html",
         "source": "MRXN",
         "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [凌晨收到GitLab安全公告，CVSS满分，我看了看自家版本号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790630&idx=1&sn=0acf40c9d3d8e770595f319ed91c4318",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [SDC2026议题回顾 | 一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623198&idx=1&sn=a2f7444454ef6dd0e7fd9774e731b005",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [幻阵正式上线 AI Agent 反制能力：让渗透智能体“一旦攻进来，就逃不出去”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502161&idx=1&sn=c9f37db832e87ad0753bf0e671c715ba",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [会议征文 | 第三届大模型供应链研讨会征稿补充通知",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496065&idx=1&sn=0f1afebf4a9a88564b157032597c664b",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [Veeam 修复企业备份和监控软件中的多个严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527548&idx=1&sn=5d92f19b357c43c95b887b4c75fc7299",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第42期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497477&idx=1&sn=feb5fb066d27225955f0c56edec5d649",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20261019-20261025)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497477&idx=2&sn=f8c94e54eabfcaacf218bac66069ee44",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [InkBlade（墨刃零）：专注AI训练/推理集群的渗透测试框架",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTI5MTM4OQ==&mid=2247484148&idx=1&sn=30d1bfd342c98f5e29fd42a2ed298ef0",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [Apple 发布 iOS 27.2：扩充 Siri AI 语言库，修复 160 余项安全漏洞；CISA发布2030战略：从被动防御转向主动威胁清除| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143079&idx=2&sn=7d7ca14946fc23d5b5a7e3a4c76bf4e9",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "] [Anthropic安全高管警告：“漏洞海啸”数月内来袭，关基设施漏洞或来不及修复",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516790&idx=2&sn=dd3a1c65455386888071640910e24391",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "观安观鉴智能代码审计系统（GCS）荣获中国信通院数据安全智能体检验证书",
+        "url": "https://mp.weixin.qq.com/s/ZGr5__gnCssjAzGwGxe9yg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "CVE-2026-98260 内核 UAF 提权复现",
+        "url": "https://mp.weixin.qq.com/s/z0bZmM_WQ1DiqBxFQ48iZw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "智能渗透benchmark-企业网络安全性评估靶场欢迎各位来测试",
+        "url": "https://mp.weixin.qq.com/s/Xm4ohIaelllyhGd8vQmZ7A",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "如何从0拿到第一笔赏金？90天详细SRC漏洞实战落地路线",
+        "url": "https://mp.weixin.qq.com/s/hkQ8lpDDcVrq9siAY68h7g",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "美国白宫发布“调整美国机器人、工业机械及其零部件的进口”公告，推动关键制造装备供应链本土化",
+        "url": "https://mp.weixin.qq.com/s/18eK9apjx9FOtjYT05qYyA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "漏洞复现｜TheGrid admin-ajax存在代码执行漏洞(CVE-2026-94169)",
+        "url": "https://mp.weixin.qq.com/s/witrB9v5JwgGSmII_rXegg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "紧急预警｜PHP php2shell高危漏洞，无需认证可RCE！",
+        "url": "https://mp.weixin.qq.com/s/9yDRW__tjfvTxdfc1bKsLw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "AI挖洞实战 12 | Workbuddy+Skill技能库，SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/TdrSMPmOg07B9K8WbDxXmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "泛微E cology10 getEmDsList 敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/gJqT9J_HhHViujk8PB47Vg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "突发！1day漏洞致使大量NAS用户文件被加密",
+        "url": "https://mp.weixin.qq.com/s/zcgfFXFDfKfM-5BmR_MknQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "每日安全预警 ｜ GitLab 等 中间件漏洞风险通报（2026-10-29）",
+        "url": "https://mp.weixin.qq.com/s/TJJpHHNn6U7XbwMgJCjX-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "不止 Node.js！Brotli RCE（CVE-2026-111497）影响范围说明",
+        "url": "https://mp.weixin.qq.com/s/0ihcosE6rpiEQc9RkH53GQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Linux kernel权限提升漏洞(Fragnesia)」等2个漏洞",
+        "url": "https://mp.weixin.qq.com/s/i5RQ9k8ydDX1l86scgsynQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "PHP重大漏洞引发全球关注：AI时代，网络安全防线如何升级？",
+        "url": "https://mp.weixin.qq.com/s/-rg5XrBzqEvJGD36BzLwqQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "美国国土安全部人员数据遭窃取，CBP 与 ICE 大量特工信息泄露；CNNVD周报：新增3806个安全漏洞，PHP高危漏洞可导致远程代码执行| 牛览",
+        "url": "https://mp.weixin.qq.com/s/gnYo_gy8sa1SF1ujwwnKSQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【SRC吃瓜】RCE漏洞申诉违规",
+        "url": "https://mp.weixin.qq.com/s/j4h4dDO06peIdDAWwnW6Nw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "别再人工刷漏洞库了 CNNVD 官方 API 这样接 php2shell 当天就进台账",
+        "url": "https://mp.weixin.qq.com/s/kpV4pZFwJPojdV9DE1cWCQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "重磅APT预警｜罗国Swallowtail（APT28）新型间谍攻击曝光！隐藏Edge浏览器+反向SSH隧道，潜伏军工造船厂长达两个月",
+        "url": "https://mp.weixin.qq.com/s/qcHb6EIEdYP0ZpriKTW9Xg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【补档·一天一个nacos漏洞】一个小0day",
+        "url": "https://mp.weixin.qq.com/s/1jerCfeEUPQOQMsWqMOGoA",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第42期",
+        "url": "https://mp.weixin.qq.com/s/cz-JtOJ5u7gd2vc01YENfw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "「AI逆向工程+MCP实测：40万星REA拆二进制查供应链投毒」",
+        "url": "https://mp.weixin.qq.com/s/9SZFJN15L_n2jj3i4XcM4g",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【漏洞通告】Apache-Traffic Server存在参数注入漏洞(CVE-2026-111813)",
+        "url": "https://mp.weixin.qq.com/s/VeJ3xUQukF4vYkJux4bNAg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【漏洞通告】Node.js 空字节域名截断导致的白名单绕过漏洞(CVE-2026-105482)",
+        "url": "https://mp.weixin.qq.com/s/ye0jmW3yf60Ga62IAhmEFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【漏洞通告】D365 F&amp;O MCP Server存在默认密码漏洞(CVE-2026-114123)",
+        "url": "https://mp.weixin.qq.com/s/UOAUeA76yuCCtkXU3XwVCQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【漏洞通告】Amazon SageMaker Python SDK存在信任管理问题漏洞(CVE-2026-112408)",
+        "url": "https://mp.weixin.qq.com/s/At_-c0aTTqsjkB8IMDYjOQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "【漏洞通告】Vitepos – Point of Sale (POS) for WooCommerce存在SQL注入漏洞(CVE-2026-92766)",
+        "url": "https://mp.weixin.qq.com/s/eRgbbrIzngu4Bt5M3GIIFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Backuply存在SQL注入漏洞(CVE-2026-93953)",
+        "url": "https://mp.weixin.qq.com/s/Pdo06U6HRW90M9gkXQvkZQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "Opti-Behavior&lt;=1.9.2.1-通过\\'targetUrl\\'参数导致的未认证存储型基于DOM的跨站脚本攻击 (CVE-2026-95686)",
+        "url": "https://mp.weixin.qq.com/s/UXufTQC5AtbUQS-twAog9g",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "WPConsent &lt;= 1.1.9 - 通过Simple HTML DOM Parser噪声键恢复（mXSS）经由评论内容的未授权存储型跨站脚本漏洞（CVE-2026-97640）",
+        "url": "https://mp.weixin.qq.com/s/v9tZp4xjsOM6SiEymXVMAg",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "PHP 双高危漏洞来袭：全场景防护规则同步升级，手把手做好补丁前安全兜底",
+        "url": "https://mp.weixin.qq.com/s/9MxIS-MGMae1VlrDyChCfw",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
+    },
+    {
+        "title": "卡巴斯基漏洞管理解决方案：把漏洞修复从一次性检查变成受管闭环",
+        "url": "https://mp.weixin.qq.com/s/MfSIM1awQ92gk58ywlziLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-29"
     }
 ]
