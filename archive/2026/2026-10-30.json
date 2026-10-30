@@ -1,0 +1,92 @@
+[
+    {
+        "title": "如何开展并防御 AI 攻击与 AI 渗透",
+        "url": "https://mp.weixin.qq.com/s/mbNWg8_gercUPyhFcACptw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Composer 2.11.0 和 2.2.31 修复路径遍历和令牌泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/h3yrHqU8uj4GZmJFjx0Z6g",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "TeamViewer CVE-2026-111585 深度分析",
+        "url": "https://mp.weixin.qq.com/s/zWa_TmKsZtqZ8TXKVRImSA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "欢迎加入！强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库！",
+        "url": "https://mp.weixin.qq.com/s/xGzxSUVhgag5Br9CvHww8Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "纯逻辑漏洞攻破Edge沙箱：Orange Tsai披露Pwn2Own 17.5万美元漏洞链",
+        "url": "https://mp.weixin.qq.com/s/rwMszD18QiQMEghUpvn5kg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "邮箱预占与双向锁定漏洞",
+        "url": "https://mp.weixin.qq.com/s/MxMn0y33ivAw3BPG9NycPg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "深度丨力控科技Force-STEM模型优化控制系统在智慧水务中的应用",
+        "url": "https://mp.weixin.qq.com/s/i6pWEuUTU2p9Ok-5kV92QQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "国产模型限制安全能力，天才渗透工程师陨落，利好，还是利空？",
+        "url": "https://mp.weixin.qq.com/s/8_5EyE_U1eRqnbA--A8aWA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【热点安全风险】10月30日｜Linux 内核缺陷可与 PHP 漏洞串联，攻击者植入网页后门后以 root 执行命令（CVE-2026-46300）",
+        "url": "https://mp.weixin.qq.com/s/UFD16cOeojtIt88NqiJEww",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Kimi K3.1「移除攻击能力」其他国模也将会移除，天才渗透测试工程师将陨落？实际情况真的是这样吗？",
+        "url": "https://mp.weixin.qq.com/s/XYerpNIaC-Jok24-Q4AwZA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "接个电话就被黑？Telegram安卓漏洞潜伏四年，一通来电即可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/ehGNXiXd0T32uD0ecdJU5Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "接个电话就被黑？Telegram安卓漏洞潜伏四年，一通来电即可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/yChCI1subUgHlD4kCSrzLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "思科提醒注意已遭在野利用的 ASA 高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/JvVCYpUnL_brTDHB-f3YTg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "UEFI 严重漏洞潜伏16年，可绕过 Secure Boot 在网络启动服务器上执行代码",
+        "url": "https://mp.weixin.qq.com/s/DCyVPGcNjzrEkweQiSEfxQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "HPE Aruba AOS-8 存在严重漏洞，黑客可绕过 SSH 身份验证并接管系统",
+        "url": "https://mp.weixin.qq.com/s/A-9bDOWBpQpZNq99GUqclA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    }
+]
