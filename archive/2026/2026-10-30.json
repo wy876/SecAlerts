@@ -298,5 +298,161 @@
         "url": "https://mp.weixin.qq.com/s/-KKDVlr6tqupX8b0PpND6g",
         "source": "Doonsec",
         "date_added": "2026-10-30"
+    },
+    {
+        "title": "2026最新 Pikachu 漏洞练习平台通关教程",
+        "url": "https://mp.weixin.qq.com/s/B6O6at49gQkZuOwk6hLw0A",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "破防！PHP2Shell 漏洞首现实战利用，无认证 RCE 拿下服务器权限",
+        "url": "https://mp.weixin.qq.com/s/PiTtDHLn-7eZCvHTg2sLHg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "黑客用 DeepSeek 智能体并行渗透 200 机构：没装猎鹰的机器先打",
+        "url": "https://mp.weixin.qq.com/s/Gyit9OG5oExK6ZSEO_aTSw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Proving Grounds 实战：黑盒渗透测试的六阶段工程化流程",
+        "url": "https://mp.weixin.qq.com/s/0FB1JOqH7i2gsVCIquw_0g",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "漏洞预警｜Linux内核 TCP IP选项远程代码执行漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/j4Gv6kaTN27yRdWJHAnnKg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【高危漏洞预警】Linux内核TCP子系统竞争条件Use-After-Free漏洞CVE-2026-98432",
+        "url": "https://mp.weixin.qq.com/s/CzUF4w7T4CbA8-xQDEi2bQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "赏金猎人实战：喂一段压缩数据，官方 Node.js 就被打成 RCE",
+        "url": "https://mp.weixin.qq.com/s/iyXL-Rwj1TflE8BmlajPWg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "弗吉尼亚理工大学 | 从“能力”到“性能”：LLM 渗透测试智能体的功能属性评测",
+        "url": "https://mp.weixin.qq.com/s/OYUhcExrZTIneLk_2iZn4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "微软Edge 0-Click利用链串联5个漏洞，实现代码执行并逃逸沙箱",
+        "url": "https://mp.weixin.qq.com/s/HOE9uJabWsUqfsUwo46tqg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "黑客利用思科SD-WAN严重0Day漏洞，部署KeyDrift窃取加密密钥",
+        "url": "https://mp.weixin.qq.com/s/WkC1eazb0aXFt74uBDwPUg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "EDK II曝16年高危漏洞，攻击者可在Secure Boot前执行代码",
+        "url": "https://mp.weixin.qq.com/s/SV-G7XWZkZfb7q9WUk9uoQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限",
+        "url": "https://mp.weixin.qq.com/s/3ly1igZ3R8VTISbZUeRs_Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "[工具推荐]专为授权渗透测试与攻防演练打造之整合型桌面工具-ErraticGopher",
+        "url": "https://mp.weixin.qq.com/s/cgdPLD0sJmAveQLz8NUdbw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "高危漏洞接连出现，企业真正该警惕什么？",
+        "url": "https://mp.weixin.qq.com/s/VbmgM_niCQ5AzLDeqankhw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "CISA：Linux 严重漏洞已用于 PHP2Shell 攻击活动",
+        "url": "https://mp.weixin.qq.com/s/9xXqr14GeczQEmkX4EUfUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "去年某比赛线下赛大模型安全渗透",
+        "url": "https://mp.weixin.qq.com/s/BPV-k0D5IMkmKDXhg-11Bg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【免费领】渗透测试必学必会工具及实操教程",
+        "url": "https://mp.weixin.qq.com/s/owEIyDNasENde62JyKtF3g",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "高危漏洞接连出现，企业真正该警惕什么？",
+        "url": "https://mp.weixin.qq.com/s/JvaGGGKXdTDitVBvvOOt0A",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【实战】对某三国gov主站的授权渗透测试",
+        "url": "https://mp.weixin.qq.com/s/pIolzKcJ9Nm1h5-VBm6izg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "已复现xa0|xa0Linuxxa0kernelxa0TCP UAF（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/w0kT8X8fsP9TrEoRcRoJbw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Freut mich, Nürnberg（幸会，纽伦堡）！飞天诚信亮相it-sa Expo &amp; Congress 2026",
+        "url": "https://mp.weixin.qq.com/s/BInc-JbVzW3OVe_2oh8J9Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "AI 渗透测试 Agent 平台建设实践",
+        "url": "https://mp.weixin.qq.com/s/3EapPY8icE1-UI6jHdz9Ug",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "信息安全漏洞周报【第097期】",
+        "url": "https://mp.weixin.qq.com/s/hSLj0O5qxsaVMw1oObCwoA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "USRC金秋赏金狂欢｜漏洞膨胀激励计划活动",
+        "url": "https://mp.weixin.qq.com/s/zZC3k8KVaUYfgmYymhodJA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【成功复现】WordPress Visual Composer Website Builder任意本地文件包含漏洞(CVE-2026-12227)",
+        "url": "https://mp.weixin.qq.com/s/vazTP33FjTe88QOF8wqsww",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "“黑色十月”之后：企业最大的风险不是漏洞，是不知道自己暴露在哪",
+        "url": "https://mp.weixin.qq.com/s/TtyAvtboWjC9gPWx2aHqrQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
     }
 ]
