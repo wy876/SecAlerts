@@ -88,5 +88,215 @@
         "url": "https://mp.weixin.qq.com/s/A-9bDOWBpQpZNq99GUqclA",
         "source": "Doonsec",
         "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [Telegram 贴纸也能成为攻击入口？研究人员称发现零点击漏洞，可串联实现 iOS 代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623337&idx=3&sn=e317afa0009fd17a48feac71d38f8146",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [不止 Node.js！Brotli RCE（CVE-2026-111497）影响范围说明",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509017&idx=1&sn=e3b3303980b0cb8640b92b141c510261",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [乔治梅森大学 | 以提示词注入反击AI驱动的网络攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496079&idx=1&sn=bebd3ff34eeab1315a7983d8b7117db7",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [PHP重大漏洞引发全球关注：AI时代，网络安全防线如何升级？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143103&idx=1&sn=b7815d84840ad1fb687f513db58f6acc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [美国国土安全部人员数据遭窃取，CBP 与 ICE 大量特工信息泄露；CNNVD周报：新增3806个安全漏洞，PHP高危漏洞可导致远程代码执行| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143103&idx=2&sn=c3a3d3ba02687bea6245641c40cc7bfc",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [供应链高危0Day漏洞预警 | 灵脉CodeAI发现Jenkins远程代码执行漏洞（CVE-2026-117612）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801063&idx=1&sn=38d5ce9dc4f4e6915a164ed56165de65",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第42期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502457&idx=1&sn=8c35867cc1bad434b8de7aa3e1fc34d6",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "USRC金秋赏金狂欢｜漏洞膨胀激励计划活动",
+        "url": "https://mp.weixin.qq.com/s/sRUK5RnhnBfKLubhMr0H2A",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "VSCode扩展ClaudeCode插件 - 后门投毒预警",
+        "url": "https://mp.weixin.qq.com/s/FgbxvjusC_807NOWXL--kA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "中国工业互联网安全大赛决赛渗透(部分)",
+        "url": "https://mp.weixin.qq.com/s/GT4_I1pJ291WMblnekWxCw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【安全预警】Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
+        "url": "https://mp.weixin.qq.com/s/jHqn5VbFbMHkrGlYsmhhyA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "能信安：安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/DUJbAr2RwSaCvHNCydg_SA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "破防！PHP2Shell 漏洞首现实战利用，无认证 RCE 拿下服务器权限",
+        "url": "https://mp.weixin.qq.com/s/H6MvUPopgvb_LIWZ6qKjJw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "记一次SRC挖掘—审计js还原隐藏接口产出2个未授权漏洞",
+        "url": "https://mp.weixin.qq.com/s/qFM9wH6V1PakjpJydlJY6w",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【安全通告】VMware ESX 日志记录不足漏洞 CVE-2026-41709 安全通告",
+        "url": "https://mp.weixin.qq.com/s/Ew-IqntKmGNzIreGqVI-LA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/KRkbD-jvVHuhBa9toM4UgA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "CyberStrikeAI C2 控制台代码审计：存储型 XSS 链式 RCE 与 /result 任意文件写入",
+        "url": "https://mp.weixin.qq.com/s/uOnkJjBkMDsmw3bb6HCSNw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "AI挖洞实战 11 | Workbuddy+Skill技能库，任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/weLfemTe3m4LyW0DIx31SA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "赛博安全狗：Wasmtime沙箱逃逸漏洞CVE-2026-115893获评9.9分，多分支版本已修复 (10.24)",
+        "url": "https://mp.weixin.qq.com/s/b0vg0Kisx6qMa4mmJheqIg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "你最信任的备份，正变成最危险的入口 未授权远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/8vRYFUepklMIjFbIDcsv4w",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【开放申请】企业可自查PHP2Shell漏洞了！",
+        "url": "https://mp.weixin.qq.com/s/6HK72fuZL4esJgM2y_ehmA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "2026护网行动红队高危漏洞排查通知｜附自查清单",
+        "url": "https://mp.weixin.qq.com/s/vmLlve4AEzaI_DMk1fABxg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "赛博安全狗：Veeam Management Pack曝严重远程代码执行漏洞CVE-2023-22793 (10.30)",
+        "url": "https://mp.weixin.qq.com/s/g5IdjJXWtizzT-zbkopLmg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "「关键漏洞目录」新增「GitLab CE/EE整数溢出漏洞(CVE-2026-97229)」等2个漏洞",
+        "url": "https://mp.weixin.qq.com/s/vbtXAfOH-V99jKeIrURIxQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "震撼！3 行代码接入 86 个漏洞 POC，这个 Go 动态链接库让扫描器的开发周期直接归零",
+        "url": "https://mp.weixin.qq.com/s/sQ-gstQoN8cIsBxitosM1A",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "10 月最后一周：PHP2Shell 进 KEV，五个未授权入口",
+        "url": "https://mp.weixin.qq.com/s/JqX2_dDX8WqRa45KcQLYtg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【安全速报】10月30日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/6x_c8Q_lxhQ8hIjeIDetjA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "itC 中心管理服务器 actionUser.do 敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/BSOAdA0b4or4KQ2XeJBZpg",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "【开放申请】企业可自查PHP2Shell漏洞了！",
+        "url": "https://mp.weixin.qq.com/s/wZP27LhCwo7KbH12CcDRKQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "突发！1day漏洞致使大量NAS用户文件被加密",
+        "url": "https://mp.weixin.qq.com/s/rTgHkhd4sbymv8EGKdPoRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "「微软 Edge 全链条漏洞拆解」5 个纯逻辑漏洞，从 UXSS 打到任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/kzFKoV3FkFQxiiQ8RxqWDA",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "AI 自己开 Kali 打渗透，默认零护栏：这个 50 星开源项目把 OODA 循环跑成了\\\"渗透自动驾驶\\\"",
+        "url": "https://mp.weixin.qq.com/s/KK5PZ5Ik9k_e45RoAI2CQw",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "关于致远互联协同管理平台COP-A9存在未授权源码组件下载漏洞的漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/T2u0eJe52UVsljakJyWFLQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "漏洞预警 | Flowise服务器端请求伪造漏洞",
+        "url": "https://mp.weixin.qq.com/s/TsCi33dyplP20-1VLmzxug",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
+    },
+    {
+        "title": "漏洞预警 | Cisco FMC反序列化漏洞",
+        "url": "https://mp.weixin.qq.com/s/-KKDVlr6tqupX8b0PpND6g",
+        "source": "Doonsec",
+        "date_added": "2026-10-30"
     }
 ]
