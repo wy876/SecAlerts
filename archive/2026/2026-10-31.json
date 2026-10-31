@@ -70,5 +70,107 @@
         "url": "https://mrxn.net/jswz/wordpress-StagedInstaller-rce.html",
         "source": "MRXN",
         "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [币安63亿美元损失：「白+黑」攻击总能成功，AI赋能安全赋能了个寂寞",
+        "url": "https://mp.weixin.qq.com/s/9FexptfQ5YtLEmuC_KaDhA",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [已复现 | Linux kernel TCP UAF（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509020&idx=1&sn=63da40e92aefadbbe0a557cc723a8ccf",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [【开放申请】企业可自查PHP2Shell漏洞了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=1&sn=c8887a4395622a6bde214f35babd2f24",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [突发！1day漏洞致使大量NAS用户文件被加密",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=2&sn=6aae1577ea183279c10c0be20ff7fa52",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623398&idx=4&sn=00bd9a3257533e4cb9f9ea9cd07fe4f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [【开放申请】企业可自查PHP2Shell漏洞了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505450&idx=1&sn=ec0b3c62d688344bf7cbc7cf6bc04c98",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507965&idx=1&sn=fbf6db8e968619c1d4e942ec19344bbd",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "] [弗吉尼亚理工大学 | 从“能力”到“性能”：LLM 渗透测试智能体的功能属性评测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496089&idx=1&sn=5e1f4016b6e2730fcd6ef3f8e9ee38f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s/tMejDCIOq0Rz4xwCtw5gXQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "AI 代码审计的 3 个盲区：模型都会漏的那类洞",
+        "url": "https://mp.weixin.qq.com/s/Cma44Qu6dEvG6rFK2ndoaA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "【漏洞情报】2026年10月车联网漏洞态势综述",
+        "url": "https://mp.weixin.qq.com/s/GCeZSzyULI6RuBiGOxtzFA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "完整记录一套学生智慧平台渗透全流程",
+        "url": "https://mp.weixin.qq.com/s/H5oPoXpiZOU7T2GK4zSsIg",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "27届网安校招进度同步篇：一名AI+开发+渗透的二本同学(第13位)",
+        "url": "https://mp.weixin.qq.com/s/kVKK9-T1G-7UIlezgGYPOQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "从ftp文件上传到.net getshell，从烂土豆提权到msf框架提权比较靶机练习之devel",
+        "url": "https://mp.weixin.qq.com/s/ammUyYByRxKcw7CsqxNgiQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261031）",
+        "url": "https://mp.weixin.qq.com/s/3D_i0leYsU_NechPx6bBpQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "第114篇 AI全栈 · 逻辑漏洞背后隐藏的刷票总结",
+        "url": "https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
     }
 ]
