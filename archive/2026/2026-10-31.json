@@ -214,5 +214,23 @@
         "url": "https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ",
         "source": "Doonsec",
         "date_added": "2026-10-31"
+    },
+    {
+        "title": "实战渗透：授权测试里，我用来打点的 6 类信息收集动作",
+        "url": "https://mp.weixin.qq.com/s/rqsWnPNCi6xWI9Oumt_pdQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈",
+        "url": "https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "SSRF的2026年真相：你的SSRF防护，校验的不是攻击者实际请求的东西",
+        "url": "https://mp.weixin.qq.com/s/FKUQ_yczmR-6wgyzAYaq-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
     }
 ]
