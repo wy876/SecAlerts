@@ -172,5 +172,47 @@
         "url": "https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw",
         "source": "Doonsec",
         "date_added": "2026-10-31"
+    },
+    {
+        "title": "PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root",
+        "url": "https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "用友一个月十份通告：NC 反序列化为什么补不完",
+        "url": "https://mp.weixin.qq.com/s/CUGb94k7Z14BuJ3fr9PwDg",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "PHP代码审计-PHPCMS 前台RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "第177篇：Struts2全版本漏洞检测工具v20.11（内存马版）+新增注入内存马功能",
+        "url": "https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "从登录绕过到越权泄露：1227 条校友敏感信息全量失守",
+        "url": "https://mp.weixin.qq.com/s/f8czFvXcoASWyUyFad1zeQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "TeamViewer 严重漏洞：恶意主机可借远程支持会话反向控制技术人员电脑",
+        "url": "https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
     }
 ]
