@@ -1,0 +1,74 @@
+[
+    {
+        "title": "后渗透实战：从第一个 shell 到域控的完整路径（脱敏）",
+        "url": "https://mp.weixin.qq.com/s/Qwyi99zuVJ3zFTg5vgaFUA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "【漏洞预警】TeamViewer RCE 漏洞可致恶意主机接管，25亿设备告急",
+        "url": "https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "500+ 漏洞的环境搭建、POC 与原理全塞进一个开源仓库：这个漏洞文库把复现周期从几天压缩到几分钟",
+        "url": "https://mp.weixin.qq.com/s/qf6YQCxjgV7fxxG0m_VqRA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "某企业SRC的抽奖操控漏洞",
+        "url": "https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "赛博安全狗：node-forge修复AES-GCM认证绕过漏洞CVE-2026-119186 (10.31)",
+        "url": "https://mp.weixin.qq.com/s/Y6fVB3M-HHmbwnRxImOL-Q",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "pypdf 一个 PDF 吃光内存，CVE-2026-119204",
+        "url": "https://mp.weixin.qq.com/s/XMarcaff7YB9ykZx-TTDqA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "AI编程神器遭供应链偷袭：Cursor市场Claude Code插件被塞66行后门",
+        "url": "https://mp.weixin.qq.com/s/rFHclmkppnDaAam3yrQl_A",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "【AI挖洞】给自动渗透加一套“控制系统”",
+        "url": "https://mp.weixin.qq.com/s/IDmhblCnCpw8cwlW7tX53A",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "安全运营的底层逻辑：漏洞、情报与数据",
+        "url": "https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩”",
+        "url": "https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw",
+        "source": "Doonsec",
+        "date_added": "2026-10-31"
+    },
+    {
+        "title": "WordPress v7.1.3核心升级窗口StagedInstaller未授权RCE漏洞",
+        "url": "https://mrxn.net/jswz/wordpress-StagedInstaller-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-10-31"
+    }
+]
