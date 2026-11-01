@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Claude官方扩展被投毒植入持久化SSH后门",
+        "url": "https://mp.weixin.qq.com/s/N00D1fHuqvyOJE-NNy-f3Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "【CVE-2026-98432】TCP爆出释放后重用漏洞，CVSS 评分9.8！",
+        "url": "https://mp.weixin.qq.com/s/u4y80MPHBu5OiItVRmxYxQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "4 千星项目把安全研究做成流水线：一个浏览器标签页装下 616 篇漏洞复现、CTF 赛题与红队全流程",
+        "url": "https://mp.weixin.qq.com/s/R09YX0ILnpZdNNlkPYz3tw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
+        "url": "https://mp.weixin.qq.com/s/7Z2bFZaewpNNryGyV5_dFQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "漏洞复现 | 医药商品信息发布系统 Faclist.aspx 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/P2SxONnqMAsAWbcLAf6ehA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "六个漏洞翻完，问题都出在同一个地方",
+        "url": "https://mp.weixin.qq.com/s/dwETTDt_P2aIFuthHquCsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "一条聊天消息接管整台电话交换机：FreeSWITCH 9.8分命令执行（CVE-2026-116779，附PoC）",
+        "url": "https://mp.weixin.qq.com/s/UmhuX1-JReN4-hK7_d0ozQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "WordPress远程代码执行漏洞正遭活跃攻击，已拦截超58000次漏洞利用尝试",
+        "url": "https://mp.weixin.qq.com/s/NSGtQt_mpCmKcztq-OpY9g",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "WordPress 请更新7.1.4，已经有多漏洞",
+        "url": "https://mp.weixin.qq.com/s/IkuzAt6qiAwnKguirn_dlA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "车辆渗透测试概述",
+        "url": "https://mp.weixin.qq.com/s/ffGPQ_pj_bFrIlMoE-Xp_Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "整车安全渗透测试白皮书",
+        "url": "https://mp.weixin.qq.com/s/Cm0xRFk-IAJmnO_xUEefCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "匿名结账折扣码重复使用漏洞",
+        "url": "https://mp.weixin.qq.com/s/oJEgH0JUnP4T1RurN--Szg",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "一个 IDOR 漏洞能走多远？从普通用户到服务器权限的完整利用链拆解",
+        "url": "https://mp.weixin.qq.com/s/yI-JKlgL5aK2BkvbFMJZwA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "从图片上传到 CentOS 提权，一条完整的 LFI 降维打击实战链路拆解",
+        "url": "https://mp.weixin.qq.com/s/4qM68yg1RA4qrpo-DuESNw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "WAF 拦截 + Java 11 强防御？Log4j2 绝境下的 Bypass 与 RCE",
+        "url": "https://mp.weixin.qq.com/s/GZ5gWYRcbSzZlOS_4oM7sQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "AutoType黑名单？JNDI失效？Fastjson 1.2.68的终极Bypass",
+        "url": "https://mp.weixin.qq.com/s/SQdNR5ouZJSVKVzwO9PBXA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "RCE 拿到了，却只会用 netcat？这才是真正的反弹 Shell 与 TTY 升级手册",
+        "url": "https://mp.weixin.qq.com/s/WscyjzjGdpfJzoGs73vOCg",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    }
+]
