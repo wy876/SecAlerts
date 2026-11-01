@@ -232,5 +232,11 @@
         "url": "https://mp.weixin.qq.com/s/GKfhBFbSuxRzrDOsf0pTiA",
         "source": "Doonsec",
         "date_added": "2026-11-01"
+    },
+    {
+        "title": "Apache Camel漏洞允许远程代码执行、绕过身份验证和数据窃取",
+        "url": "https://mp.weixin.qq.com/s/5W0Al4chx1d3zNEURKfJDw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
     }
 ]
