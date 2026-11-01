@@ -208,5 +208,29 @@
         "url": "https://mp.weixin.qq.com/s/7j8BxF634l9Kcub4pxCq8w",
         "source": "Doonsec",
         "date_added": "2026-11-01"
+    },
+    {
+        "title": "Adobe Commerce PolyShell 攻击导致数百家商店数据泄露，爆出了利用 Brotli 漏洞的事件",
+        "url": "https://mp.weixin.qq.com/s/3ehE5_CoR0g94XHyubhQ7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "AI 智能体漏洞挖掘：让 Agent 跑通一个 SQLi 到 RCE 的复盘",
+        "url": "https://mp.weixin.qq.com/s/oL0uh5iBK_4lht5pZXB6JA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell",
+        "url": "https://mp.weixin.qq.com/s/xY7k3j9k9K5HSxt9NeBLzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "DVGA 靶场实战：GraphQL 接口的越权与查询放大攻击",
+        "url": "https://mp.weixin.qq.com/s/GKfhBFbSuxRzrDOsf0pTiA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
     }
 ]
