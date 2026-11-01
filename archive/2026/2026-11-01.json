@@ -100,5 +100,113 @@
         "url": "https://mp.weixin.qq.com/s/WscyjzjGdpfJzoGs73vOCg",
         "source": "Doonsec",
         "date_added": "2026-11-01"
+    },
+    {
+        "title": "] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623401&idx=2&sn=ef36c392f2014060a978488063d324e0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/PEWjFh9smIJY9TUr7D1XKw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "11月1日高危漏洞汇总：6 个在野利用、32 个紧急",
+        "url": "https://mp.weixin.qq.com/s/ya9mS0NgRFZeToRUaxwvyw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "打印机里的鬼：一张纸拼出未授权 RCE",
+        "url": "https://mp.weixin.qq.com/s/OPr_Lb2wVw2J98X5eMAwmw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "固件盲区：16年漏洞绕过安全启动 CVE-2026-97631",
+        "url": "https://mp.weixin.qq.com/s/T4xPgrMzdH5NKGO6SfzbGg",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
+        "url": "https://mp.weixin.qq.com/s/AJL1jo4Vu4_efBCy2nF5EQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "【安全圈】黑客利用 Cisco SD-WAN 漏洞部署定制的 KeyDrift 恶意软件",
+        "url": "https://mp.weixin.qq.com/s/WYuCemT8VrsVmlrtwmeqAQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "Agent安全——记一次XTHP漏洞本地复现",
+        "url": "https://mp.weixin.qq.com/s/85s0kMy4rQ6KDM5TtsTv_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "苹果向99国iPhone用户预警：高复杂度雇佣兵间谍软件攻击",
+        "url": "https://mp.weixin.qq.com/s/kvDpLHxEZLYF7JVtCXK2zA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "[工具推荐]一款面向红蓝对抗场景的 Webshell 免杀生成工具-Zack-BypassWeb",
+        "url": "https://mp.weixin.qq.com/s/XcE5bQRl5-eNMhxY_-lP6Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "【已复现】hello Mrs. Router. CVE-2026-102764  BeyondTrust Remote Support 未认证文件写入漏洞",
+        "url": "https://mp.weixin.qq.com/s/7aijQ-Hkalwr6-l9rGdOSg",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "CVE-2026-98432：Linux 内核 TCP 释放后重用漏洞，CVSS 9.8 但补丁覆盖极不均衡-CSDN博",
+        "url": "https://mp.weixin.qq.com/s/OSFrIuDEybKHTxSdWLzk_w",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "CVE-2026-111497：Node.js Brotli 解码器堆越界写，RCE 已被独立验证但并非“一键接管”-C",
+        "url": "https://mp.weixin.qq.com/s/_AisFUX8az77RKYkJ4Nn1Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "南洋理工大学、武汉大学 | LocalAlign：通过近目标对抗训练提升提示注入防御泛化能力",
+        "url": "https://mp.weixin.qq.com/s/DA-0-m3BDKATuf45ITPuhA",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "币安 63 亿美元失窃,朝鲜黑客组织被点名，真正的漏洞仍未查明",
+        "url": "https://mp.weixin.qq.com/s/hYSzKfcPynWkXTHkGR8kMw",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "赛博安全狗：锐捷多款交换机固件升级接口缓冲区溢出漏洞CVE-2026-120241可远程利用 (11.01)",
+        "url": "https://mp.weixin.qq.com/s/wP9N0AP5BeE5Q4e4tL-zMQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "TeamViewer 高危漏洞：被你连上的那台机器，反手拿下你的电脑",
+        "url": "https://mp.weixin.qq.com/s/RN7HKRKZ8Sy_6F9D5EW04w",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
+    },
+    {
+        "title": "微软Authenticator翻车实录：我是如何利用0权限App窃取全量Token的 (CVE-2026-80097)",
+        "url": "https://mp.weixin.qq.com/s/7j8BxF634l9Kcub4pxCq8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-01"
     }
 ]
