@@ -364,5 +364,131 @@
         "url": "https://mp.weixin.qq.com/s/Bmdm_EpEgmgt4ym8J5knoA",
         "source": "Doonsec",
         "date_added": "2026-11-02"
+    },
+    {
+        "title": "安全工具丨二开Artex的代码审计平台 、新增本地反编译java依赖库、多账号管理",
+        "url": "https://mp.weixin.qq.com/s/MIL9u5sWrRA2ruaDXMaTKA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "ArgusAI自主 SRC 挖洞Agent 多智能体协同代理抓包 + 浏览器自动化请求重放，提升高危漏洞产出效率",
+        "url": "https://mp.weixin.qq.com/s/TAdH62XGhi0AvY2buDcJtw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "金蝶EAS WSExportPersonFacade接口存在敏感信息泄露 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/Z3wDbIy-nBlAYJe5Z3cdWw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "GitHub AI 渗透一周报：本周 8 个新项目（Agent / 框架 / Skills）",
+        "url": "https://mp.weixin.qq.com/s/nrpQGdoc7ab0C02hlB5hdA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "默认密码就能拿 root：WAVLINK 两款路由器 10 分命令注入",
+        "url": "https://mp.weixin.qq.com/s/HnNSI2YEISYQISGSUIvhxg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "CVE-2026-98432 深度分析：Linux 内核 IPv4 TCP 竞态 Use-After-Free 漏洞全景解析",
+        "url": "https://mp.weixin.qq.com/s/oxrWRkTpOO6tZimTUm9l7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【安全圈】10分满分漏洞！LXD与MicroCloud遭伪造证书免密接管",
+        "url": "https://mp.weixin.qq.com/s/rZb8_HHRT60myUPBSXCrJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【安全圈】AuthMask高危漏洞曝光：恶意App冒充Teams窃取M365令牌",
+        "url": "https://mp.weixin.qq.com/s/ZMlGkGF6QLDxRTAEf3b-wg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "赏金猎人复盘：你十次爆破九次空，老手却能从登录框打到 RCE",
+        "url": "https://mp.weixin.qq.com/s/l4QhVdgYjAtdM-sZTOQdOw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "一个压缩库漏洞，为什么让多种云服务同时紧急修复？",
+        "url": "https://mp.weixin.qq.com/s/CPFM_vhpeUrCWs03ZD0FIA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "每周网安资讯（10.28-11.2）| ApacheKylin远程命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/2U1NWERYDIOfX6JWCOiXHw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "WordPress升级流程曝免登录RCE漏洞，24小时遭超6万次攻击",
+        "url": "https://mp.weixin.qq.com/s/V--S11fyfvY0s-1xCvYwog",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "Android现死亡短信高危漏洞，隐形zero-click短信可阻断急救通话",
+        "url": "https://mp.weixin.qq.com/s/F8ZDpcMTqqqHP5pyLPYXyA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "LiteLLM 1.107.0 供应链投毒安全事件分析预警",
+        "url": "https://mp.weixin.qq.com/s/FPByUPqe0eibFWq2fT1SJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "渗透测试-WAF分块传输绕过",
+        "url": "https://mp.weixin.qq.com/s/0yHnejMybFKb1CRQObb0Mw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "SDC2026议题回顾 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术",
+        "url": "https://mp.weixin.qq.com/s/il6i6LApqQDTdltIwsYXpA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "供应链安全威胁档案周报——W44",
+        "url": "https://mp.weixin.qq.com/s/IWB6EIrimgAgL4nObQJ88g",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "H5渗透实战：从复数金额漏洞到签名绕过",
+        "url": "https://mp.weixin.qq.com/s/MxDFu7cQ01Qmaf5AgOBpbw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "美日印澳四国外长宣布联合排查芯片供应链风险，出资推进印太地区人工智能（AI）部署",
+        "url": "https://mp.weixin.qq.com/s/wYA45Sd5UQqeHcGqhsIMnA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "蒲公英X5 Pro路由器路径穿越root RCE深度分析（CVE-2026-120225）（附PoC）",
+        "url": "https://mp.weixin.qq.com/s/XHEFP3JL3--rB1qFM8_Ixw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "AI 挖出超 4 万个高危漏洞，两项成果入选国际顶会",
+        "url": "https://mp.weixin.qq.com/s/SlfOJ8ytYyQvZUaGWIfllw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
     }
 ]
