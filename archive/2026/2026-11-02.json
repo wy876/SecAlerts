@@ -1,0 +1,158 @@
+[
+    {
+        "title": "删库一周，2400星抢备份：拆解百度攻防赛总冠军ARTEX的自主渗透架构",
+        "url": "https://mp.weixin.qq.com/s/dkdeT2HXE4j8IJGxHm6TVg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "二开artex的代码审计平台 | 多 Agent 并行审计源码，资产覆盖可视化！",
+        "url": "https://mp.weixin.qq.com/s/lJ9MQivbxQMHfLrpXXx_kg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "CVE-2026-109618 | PHP核心引擎的致命漏洞（php2shell）可导致远程代码执行（POC）",
+        "url": "https://mp.weixin.qq.com/s/EKTP1kxHCnDRIQjA_BY8tg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "CVE-2026-108097 | Drupal Field UI远程代码执行漏洞（POC）",
+        "url": "https://mp.weixin.qq.com/s/5DjYqKV6mhwj-Cdg-Cerwg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "日口令+Lua 鉴权绕过：拆 Copeland 冷链控制器到 root",
+        "url": "https://mp.weixin.qq.com/s/gkIJQ-TYuqLiAv2RUd_hGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "JetBrains 在证书泄露事件后修复 IDE 及后台服务中的严重漏洞",
+        "url": "https://mp.weixin.qq.com/s/fpZQAzssiBbImWTqd9T10w",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 clearUserDevice SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/jCwxX95vldxv_qN7rrwwbg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【漏洞复现】Discuz! X5.0 认证绕过致数据库沦陷漏洞 CVE-2026-49952",
+        "url": "https://mp.weixin.qq.com/s/DF_hNTCm53geMx2VNrsHVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【攻防演练】主要资产打不动，边缘旁站拿下GetShell获取权限",
+        "url": "https://mp.weixin.qq.com/s/biGKxp7R_92j2zT76vMSuA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "苹果十年老洞 CVE-2026-112445 修掉了:最简单 macOS 提权 PoC 公开下载",
+        "url": "https://mp.weixin.qq.com/s/Sj39pivp3stCWCoqjkbX7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "AiScan-N:国产AI全自动化渗透测试平台,扫描、APK逆向、应急一站搞定,附下载",
+        "url": "https://mp.weixin.qq.com/s/MtLFtmwfj3LBMWDYKW4RBw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "PHP2Shell： 这次不是 WordPress 插件，RCE 藏在 PHP 本身",
+        "url": "https://mp.weixin.qq.com/s/WPX8f8SANuQoiTh330A_jQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "冰蝎 4.0 流量检测实战：从密钥协商到 10 个可落地特征",
+        "url": "https://mp.weixin.qq.com/s/7p128WtAx-jGv46Vm_B2_Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "Fastadmin完整渗透思路分享，绕过插件限制，两种靠谱手法实现网站权限拿下",
+        "url": "https://mp.weixin.qq.com/s/q8WPCjN6kesFqhLy9Qz43Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "潜伏16年的UEFI漏洞：开机那几秒，你的所有防线都还没上线",
+        "url": "https://mp.weixin.qq.com/s/vhpFnLJcBZ_RyAMIddMmxw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "微信小程序漏洞挖掘详解｜抓包、逆向、反编译与实战技巧，SRC 挖掘可直接参考",
+        "url": "https://mp.weixin.qq.com/s/6tByGe3dRVWYWba9c68HDg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞预警 | Linux kernel POSIX释放后使用漏洞",
+        "url": "https://mp.weixin.qq.com/s/1yokUOK_zOWyUpuS4Sw5yg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞预警 | Magento/Adobe Commerce模板注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/j7KNXV7JzsxJ_o9TosaqYQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "凭证植入型供应链投毒成为攻击AI开发者的典型范式——Cursor恶意Claudexa0Code扩展事件的关联研判",
+        "url": "https://mp.weixin.qq.com/s/i5-B8G8mvwxsHcdgQKCqGQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "ArgusAI集成自主 Agent、多智能体协作、渗透测试、实时 MITM、移动端与二进制逆向、浏览器与桌面控制",
+        "url": "https://mp.weixin.qq.com/s/ebTJyjA9nkccnifqduZ3rA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "从提权漏洞到自动化脚本翻车，细扒 Keystone 被黑事件背后的技术细节",
+        "url": "https://mp.weixin.qq.com/s/drDnYOm3BnXTIpm9Ei93Qw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "拿到低权 Shell 就束手无策？深度拆解 Linux/Windows 核心提权与幽灵驻留术",
+        "url": "https://mp.weixin.qq.com/s/xi26DBSHLbXer43yYvoqrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "空格、逗号、关键字全封杀？硬核拆解 MySQL 注入的极限绕过与降维打击",
+        "url": "https://mp.weixin.qq.com/s/ha-6hnufebptQe4rzhtcsg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "从外网 SQL 注入到接管域控：一条教科书级别的红队内网穿透全链路",
+        "url": "https://mp.weixin.qq.com/s/f28P68h8BaTOB6hn_Oo-pw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "别再做无情的敲命令机器！深度拆解红队自动化渗透的“决策闭环”与“工具调",
+        "url": "https://mp.weixin.qq.com/s/BFtdH35vvpOkE4UyH74Bng",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "内存里的密码无处遁形：Spring Boot Actuator 未授权到 Heapdump 深度提取",
+        "url": "https://mp.weixin.qq.com/s/QZgf9thDzSikgPt2VaDETQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    }
+]
