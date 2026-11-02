@@ -154,5 +154,215 @@
         "url": "https://mp.weixin.qq.com/s/QZgf9thDzSikgPt2VaDETQ",
         "source": "Doonsec",
         "date_added": "2026-11-02"
+    },
+    {
+        "title": "] [某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651005955&idx=1&sn=6a0155af6d69a89217fee6d888a1eede",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "] [南洋理工大学、武汉大学 | LocalAlign：通过近目标对抗训练提升提示注入防御泛化能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496099&idx=1&sn=a6329de40b80d57f4a1f8f8a33a2279e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "] [【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079657&idx=1&sn=0e7f6a51f91ae4c6aadcb6d7ca13c2b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "] [【安全圈】黑客利用 Cisco SD-WAN 漏洞部署定制的 KeyDrift 恶意软件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079657&idx=3&sn=62b5b110843a42aca0265bbe72c31840",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "做渗透测试必看：内网渗透完整知识体系（附高清 PDF）",
+        "url": "https://mp.weixin.qq.com/s/81bx3dtdlblUByp1m1Tq-A",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）",
+        "url": "https://mp.weixin.qq.com/s/cl_OGL7Lw_tusm3_hsdsJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【已复现】Windows Update Stack 本地权限提升漏洞(CVE-2026-81963)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/G071gqKFgio6Gwq0pn6pYA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【天穹】借壳入核：一纸合法签名背后的驱动注入暗链",
+        "url": "https://mp.weixin.qq.com/s/vZDyQLBrn0BOGMVJiHLN3Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "[AI]使用DSH插件渗透",
+        "url": "https://mp.weixin.qq.com/s/_NLbXNu2gY1JBriG8WFQVA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "Cursor应用市场出现恶意Claude Code扩展，可在Windows与macOS上植入持久化SSH后门",
+        "url": "https://mp.weixin.qq.com/s/9KS0mPYzeW3Dh4MIqVZs6w",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.10.26-2026.11.1",
+        "url": "https://mp.weixin.qq.com/s/W4VypBQ9eDjwxeFkg3ZulA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "第116篇 AI全栈 · 内存马检出方案设计",
+        "url": "https://mp.weixin.qq.com/s/BBOlfIvYaXbLDRtH1-IbkQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "深科特LEAN MES系统 DownLoad.aspx 任意文件读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/vDVDHcW0PcSA0-eQmP-d_g",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【Web刷题合集】9道Web题目复现与详细分析",
+        "url": "https://mp.weixin.qq.com/s/41nqWAR7IgDatRDDsMqyFQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞预警 CVE-2026-119977 WordPress  未认证攻击者可执行代码",
+        "url": "https://mp.weixin.qq.com/s/xTCR2TfbE9ej-lQFuS7TaQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【漏洞预警】Linux内核 TCP IP选项远程代码执行漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/QCSqIq2Ycl2FLWhVlm4ENA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "十月安全复盘：一个月的修养与漏洞盘点",
+        "url": "https://mp.weixin.qq.com/s/oyjpCgnftFBQtrALdDfyEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "Incus与LXD高危漏洞：未认证攻击者可获取集群完整访问权限",
+        "url": "https://mp.weixin.qq.com/s/mAoF60RdwCOvCJO4ddgepA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "AI 简讯｜AI漏洞发现正在走向验证与修复",
+        "url": "https://mp.weixin.qq.com/s/HhsYH4J2Dni-0cC5mDQb0g",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "TeamViewer 修复高危整数溢出漏洞，可导致 Windows 代码执行",
+        "url": "https://mp.weixin.qq.com/s/ALCIXadaZvEUT9eI-ESqkw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第三天】【严重】Nacos的MCP和A2A",
+        "url": "https://mp.weixin.qq.com/s/ksj9KeBL71mlRcQD3RwKdg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "智能渗透benchmark-V2版本将于11月10日上线",
+        "url": "https://mp.weixin.qq.com/s/uO0dh3IPlH__0gpw8Y5vLw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "KEV 一日三弹：三个在野漏洞 卡着 11 月 1 日大限",
+        "url": "https://mp.weixin.qq.com/s/eEIwmROtlxKhjaZvDIi-sw",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "一键搭建上万条漏洞复现文档的私有 Wiki，这个开源项目把安全研究效率直接拉满",
+        "url": "https://mp.weixin.qq.com/s/MLokWVgSroIc7sXOMSVbjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "AI挖洞实战 13 | Workbuddy+Skill技能库，存储型XSS漏洞实战",
+        "url": "https://mp.weixin.qq.com/s/cBtb781cAsZ6x-wxDrwF5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "「AI渗透Agent」+「蜜罐」+「指纹识别」拆解：23种Agent指纹+假API诱捕，怎么反制AI攻击",
+        "url": "https://mp.weixin.qq.com/s/4ZGjxj50XKOfr6CrGVsZCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "每日安全预警 ｜ Docker 中间件漏洞风险通报（2026-11-02）",
+        "url": "https://mp.weixin.qq.com/s/VQFEvA0JfEJb7R6DOK4Akg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "Linux Kernel IPv4 TCP 释放后使用漏洞（CVE-2026-98432）风险通告",
+        "url": "https://mp.weixin.qq.com/s/3K26lQSx2OkwhRdaSlu1qg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "DSH 插件市场供应链真实投毒案例解析",
+        "url": "https://mp.weixin.qq.com/s/3ilQOYhjBpyiUMVojMOnig",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "WordPress不登录也能写配置 漏洞藏在升级临时目录",
+        "url": "https://mp.weixin.qq.com/s/5DPUqmshunIXy6_Ca8hUEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "【安全速报】11月2日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/1jn5a0esj7oU8R2c69yvfA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞预警|linux内核UAF漏洞，不需要登录，底层突破，go语言送分，MPTCP默认开启，直接root,CVE-2026-98432，CVSS 9.8",
+        "url": "https://mp.weixin.qq.com/s/bipj11CGYIMGT4uuxo2yug",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "漏洞复现&amp;服务端模板注入（SSTI）漏洞",
+        "url": "https://mp.weixin.qq.com/s/PQv1YhZUKrKd40JqTfGWkA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "XXE(外部实体注入)保姆级教程",
+        "url": "https://mp.weixin.qq.com/s/WokkEj9Ty9YA20a5EvM8UA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
+    },
+    {
+        "title": "CVE-2026-48842：Roundcube virtuser_query 插件预认证 SQL 注入，补丁已发布四个月仍在被利用",
+        "url": "https://mp.weixin.qq.com/s/Bmdm_EpEgmgt4ym8J5knoA",
+        "source": "Doonsec",
+        "date_added": "2026-11-02"
     }
 ]
