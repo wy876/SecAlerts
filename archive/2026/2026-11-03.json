@@ -1,0 +1,152 @@
+[
+    {
+        "title": "] [潜伏16年的UEFI漏洞：开机那几秒，你的所有防线都还没上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790661&idx=1&sn=1385c2dfcbcaf38e00737143ad75a02d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.10.26-2026.11.1",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504012&idx=1&sn=e9d75dfd7084fccbb366c508ca3db495",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [TeamViewer 修复高危整数溢出漏洞，可导致 Windows 代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527620&idx=1&sn=48b622d452fa6b86581685eb279563a4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [SDC2026议题回顾 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623417&idx=1&sn=6ba9895d501494c5a154b6a8ce5e02ab",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [LiteLLM 1.107.0 供应链投毒安全事件分析预警",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495655&idx=1&sn=60d2b133338c3f54c6773aad98c19f5d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [【已复现】Windows Update Stack 本地权限提升漏洞(CVE-2026-81963)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507987&idx=1&sn=0725706555a43c3a36e4f766b32e7427",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [【安全圈】10分满分漏洞！LXD与MicroCloud遭伪造证书免密接管",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079668&idx=1&sn=1c6ae764b6dcb5d4403c76892511c741",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [【安全圈】AuthMask高危漏洞曝光：恶意App冒充Teams窃取M365令牌",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079668&idx=3&sn=1bb527a696a34a38038d7cb851027e9b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [Linux Kernel IPv4 TCP 释放后使用漏洞（CVE-2026-98432）风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498064&idx=1&sn=d23553738c20b020a39188ffd9e04e86",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "] [供应链安全威胁档案周报——W44",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521210&idx=1&sn=83f4ae1f12a139105f4fc43d2d3e8144",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【已复现】Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s/dKkc3Bxohxn2UTEbVWgn5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "网络攻防进入AI时代——AI渗透的未来是什么？",
+        "url": "https://mp.weixin.qq.com/s/Tj0UoDjkPgebqsWjq61w5w",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【漏洞预警】WordPress远程代码执行漏洞（CVE-2026-119977）",
+        "url": "https://mp.weixin.qq.com/s/-hCVl6JbZTzQ9R8B_pKAEQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "乌镇安恒书院举办2026AI风险监测预警研讨会：重塑智能体安全边界",
+        "url": "https://mp.weixin.qq.com/s/VHnxfpZlKHYJyGv37ZwBsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "Nginx文件上传绕过之文件扩展名解析漏洞",
+        "url": "https://mp.weixin.qq.com/s/LW3a9bOnVKO4iW8WPxxw-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "CNNVD | 重要安全漏洞通报（2026年第八期）",
+        "url": "https://mp.weixin.qq.com/s/26-eKKYA-8vo2QmegCei3w",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "记一次edu通杀漏洞的思路",
+        "url": "https://mp.weixin.qq.com/s/N1R2jf20kkX6Zv3lpjGfWQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "sessdump | Windows后渗透浏览器/应用凭据解密导出工具。",
+        "url": "https://mp.weixin.qq.com/s/AUDrLu8XANdv67qm30Z_1g",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "云天 · 安全通告（2026年11月3日）",
+        "url": "https://mp.weixin.qq.com/s/7wK1OfAaCFFgVSb57bbk8A",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "从规则定义到AI驱动，天融信新一代自动化渗透测试系统正式发布！",
+        "url": "https://mp.weixin.qq.com/s/DcSA1N-uHa0S8KsnY0RQyA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "Linux 爆出 CVSS 9.8 高危漏洞！CVE-2026-98432 可导致远程 Root 权限，赶紧检查你的服务器",
+        "url": "https://mp.weixin.qq.com/s/3352hMObW5pcCDNoIVzYjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【已复现】【远程rce】Linux Kernel IPv4 TCP 释放后重用漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/Jr79SQnXbxrL4tqXxnW4Mg",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "CVE-2026-49881 漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/Kmfsw_YEyjZyQzlpjNCExQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "动态｜新型僵尸网络 VeilDHT 大范围传播风险预警",
+        "url": "https://mp.weixin.qq.com/s/KnpyMaNMzlYym9xWk6TWyw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "从httpfileserver RCE漏洞到msf后渗透提权，靶机练习之optimum",
+        "url": "https://mp.weixin.qq.com/s/Zp0L96g_zsmEgDW_o8FLGg",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    }
+]
