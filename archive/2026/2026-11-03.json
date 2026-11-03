@@ -148,5 +148,77 @@
         "url": "https://mp.weixin.qq.com/s/Zp0L96g_zsmEgDW_o8FLGg",
         "source": "Doonsec",
         "date_added": "2026-11-03"
+    },
+    {
+        "title": "哥斯拉uTLS-Chrome指纹伪装-纯Java实现-公众号文章",
+        "url": "https://mp.weixin.qq.com/s/ZsGeIjIMJLBefcFi9WWwMw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【安全圈】被控端反杀主控端！TeamViewer爆8.8分堆溢出RCE",
+        "url": "https://mp.weixin.qq.com/s/qNDmWJxCdT0x7VfOMf1rGw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【安全圈】130万台电视盒子沦为肉鸡！视壮科技固件预装后门遭谷歌切断认证",
+        "url": "https://mp.weixin.qq.com/s/dA3YSmcdahCfkzj8qyLMeQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "TightVNC 曝出 RCE 漏洞，可致 Windows 系统远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/tRwc69wzpE2iW1kX2Jy4HQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "LXD 与 Incus 曝出严重证书校验漏洞：可致攻击者绕过认证并完全接管 Linux 主机",
+        "url": "https://mp.weixin.qq.com/s/rAUbdBsH0gsl3gVRS2mdFw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
+        "url": "https://mp.weixin.qq.com/s/SGNQjafmS7ovBG2CZTibZQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "赛博安全狗：ReadyMedia 1.3.0至1.3.3存在DFF解析栈缓冲区溢出漏洞 (11.03)",
+        "url": "https://mp.weixin.qq.com/s/RhEf1dcmRKx5Kr9c9cE4IQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "西门子IoT2050满分高危漏洞遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/mw2MQ0tyQ0eSt8qWktkirA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "ChatGPT存在高危漏洞，单链接即可劫持账号窃取私密对话",
+        "url": "https://mp.weixin.qq.com/s/5ZKk1eFv8WMbfVQmqFjqkA",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "黑客滥用ARTEX AI Agent，自动化攻击活动目录并实施横向移动",
+        "url": "https://mp.weixin.qq.com/s/sawvwC4QqdZKS6l45-tE4w",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "芯片底层漏洞无法 OTA 修复！用旧 iPhone 存助记词要当心",
+        "url": "https://mp.weixin.qq.com/s/aNVRmRHHksVDTmddgsM3zw",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
+    },
+    {
+        "title": "一款AI编程扩展被植入SSH后门：从真实案例学会排查开发工具供应链风险",
+        "url": "https://mp.weixin.qq.com/s/h_lW2F6jwXVmFIxQpIUK8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-03"
     }
 ]
