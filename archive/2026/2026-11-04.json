@@ -28,5 +28,275 @@
         "url": "https://mp.weixin.qq.com/s/60M5gGn-u22YOG0DPumFtw",
         "source": "Doonsec",
         "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [【已复现】Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告第二次更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507998&idx=1&sn=be5814f110096f1e65ec30a7a35c573f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [Ivanti 修复已遭利用的 Connect Secure 0day 漏洞链",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527629&idx=2&sn=a196d7dbc3c9bc2c4a29dcf3e0a852aa",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [芯片底层漏洞无法 OTA 修复！用旧 iPhone 存助记词要当心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623448&idx=3&sn=5b34ccee8c7469030bd04461d1617a95",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [【安全圈】被控端反杀主控端！TeamViewer爆8.8分堆溢出RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079679&idx=1&sn=51a4ebeb9c0185adcd508261d9ed21a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [【安全圈】130万台电视盒子沦为肉鸡！视壮科技固件预装后门遭谷歌切断认证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079679&idx=2&sn=0b2d3768d4f605d0751ebbe83d20a92e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第43期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497492&idx=1&sn=90ad051fe8a9ddd7557e8a599aba6906",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "] [上周关注度较高的产品安全漏洞(20261026-20261101)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497492&idx=2&sn=cb918d48b5347b22b838b05658e47068",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "中心动态 | 中心颁发首张人工智能渗透测试系统检测证书",
+        "url": "https://mp.weixin.qq.com/s/q7aIIeb7-45q9yv83m4tSw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "在野利用：WordPress 升级那几秒可被拿 shell，4.7 起全中招",
+        "url": "https://mp.weixin.qq.com/s/HE_CCUheDSC6svPJkMiaVQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "币安被盗63亿美元、PHP漏洞爆发：戳破三大“安全幻象”",
+        "url": "https://mp.weixin.qq.com/s/ucf2RqbI8X0kJ-E3DvHYqw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "63.4亿美元加密资产遭窃！Binance披露攻击内幕：黑客利用假招聘面试和AI工具渗透内部系统",
+        "url": "https://mp.weixin.qq.com/s/UrknlHP-DzFrS0R6ZHeRsg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "什么是内存马？",
+        "url": "https://mp.weixin.qq.com/s/a2-iKjXoAFgum8f74FcSsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "超越漏洞管理：迈向下一代暴露面管理",
+        "url": "https://mp.weixin.qq.com/s/LxGwn2urPcDo4ihW1r4s2g",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "Anthropic未发布模型，挖出Linux系统级致命漏洞！",
+        "url": "https://mp.weixin.qq.com/s/QRvXP9kg6qAUhFaF75bJtQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "原创漏洞 | 微步XGPT发现 Apple macOS 多个漏洞",
+        "url": "https://mp.weixin.qq.com/s/QcEMZ57Uibihet7lJCzL9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "告诉AI漏洞在哪，它成功率90%；让它自己找，召回率只有50%——你买的“AI挖洞”能力，可能一直是“AI打洞”能力",
+        "url": "https://mp.weixin.qq.com/s/HR27-gyG34HMAgtjcp1e0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "从“AI渗透”到“AI攻防”：第三届智能攻防挑战赛的进阶与变局",
+        "url": "https://mp.weixin.qq.com/s/6o94XUKatCXPEHXxO_KSNQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【漏洞预警】ClickHouse 未授权远程代码执行漏洞（CVE-2026-116366）",
+        "url": "https://mp.weixin.qq.com/s/GtUHP2oZgr-G8KnhEJmqzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "CVE-2026-22218Chainlit 框架任意文件读取漏洞全解析",
+        "url": "https://mp.weixin.qq.com/s/5MQZUuxuGiODWKeptSRvfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【免费领】渗透测试必备工具：Nmap实战技术全解教程",
+        "url": "https://mp.weixin.qq.com/s/zEUFxJE3zB0LSrdERLJHwQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【已复现】WordPress Core 竞争条件远程代码执行漏洞(CVE-2026-119977)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/F8Q_hOaKTJbsdc7eXQKz2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "记一次神奇的垂直越权漏洞挖掘案例",
+        "url": "https://mp.weixin.qq.com/s/kbMiVKlBW_ZOOXh0Bxbikw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "Java安全 | 内存马应急响应查杀全流程分析-Listener型",
+        "url": "https://mp.weixin.qq.com/s/4NPYwXXotsR8I0989GOkmg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "二开artex的代码审计平台 | 多 Agent 并行审计源码，资产覆盖可视化！",
+        "url": "https://mp.weixin.qq.com/s/IFjQwAONX_eaxEASKSDqtw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "代码审计的基本概念和流程，白帽黑客必会！",
+        "url": "https://mp.weixin.qq.com/s/_39poIfvWheb5cyztrX2aA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【漏洞预警】WordPress 核心更新流程条件竞争远程代码执行漏洞（CVE-2026-119977）",
+        "url": "https://mp.weixin.qq.com/s/w2-BbnuQXW214jC2w_3n7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "万字干货：渗透测试——超全信息收集宝典详解！",
+        "url": "https://mp.weixin.qq.com/s/CRD90hTH6EdSi4kIupjYWw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "好消息|高危漏洞cve-2026-98432，各大linux版本和云厂商更新修复来了，都是官方的，请放心食用",
+        "url": "https://mp.weixin.qq.com/s/qfWqginbrxyXMygCN2K_fw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "威胁情报研判报告：ARTEX 开源项目 Fork 分支投毒与预编译 Docker 镜像后门深度分析",
+        "url": "https://mp.weixin.qq.com/s/zWN5bTnJ7jRvE8s8Sw8MgQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "攻防演练 | 一次近源渗透",
+        "url": "https://mp.weixin.qq.com/s/MAQdmDdSa4kblmownisgRA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "CVE-2026-94545：Next.js ImageResponse RCE，PoC 已公开",
+        "url": "https://mp.weixin.qq.com/s/mXVAa9nkhRMb_vzsRPYAeg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【已复现】WordPress 更新过程暗藏 RCE 漏洞，已发现在野利用",
+        "url": "https://mp.weixin.qq.com/s/j3Ps9XvNJ0WiXpls7cxGvA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "ARTEX热门Fork被曝携带后门，可导致RCE",
+        "url": "https://mp.weixin.qq.com/s/Tu1KY3bZtoLWtJELy3jgJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【安全速报】11月4日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/za-NsRc5TRijY0rij76M6Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "每日安全预警 ｜ ClickHouse 数据库漏洞风险通报（2026-11-04）",
+        "url": "https://mp.weixin.qq.com/s/UG11ozkYHPHc9KQOrgSerA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "“油龙”兵棋：评估对抗性环境下美军油料供应链韧性",
+        "url": "https://mp.weixin.qq.com/s/nBNUSUwH3bwW0AXPliiu8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "AI 工具 ARTEX 遭镜像投毒，二开项目被植入后门",
+        "url": "https://mp.weixin.qq.com/s/f0eNvO73cu4Xn3fLPv1cPQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "「AI代码审计」brain0拆解：每个commit追到Agent提示词，还查它读了哪些密钥",
+        "url": "https://mp.weixin.qq.com/s/HVopqL4nHmhVEMc7NnbzGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "知名AI渗透项目—ARTEX github备份遭投毒",
+        "url": "https://mp.weixin.qq.com/s/GNShzJ-CpC3KSXJkfnDabA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "微软签名的“第二个 ntdll”：tprtdll 免钩子注入与三层兜底检测",
+        "url": "https://mp.weixin.qq.com/s/L7x9s1smthnn74dF2Dn3dQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "甲方运维注意：Cursor恶意扩展投毒 开发终端被种后门",
+        "url": "https://mp.weixin.qq.com/s/t6YOwYSV-Mp5mlU6kpc2oQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "NAS 遭勒索的 4 层攻击链 补丁发了六周，公网 NAS 仍被 1day 收割",
+        "url": "https://mp.weixin.qq.com/s/YuKLMKIkDwNlycM-unGjqg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【漏洞预警】NetScaler ADC 和 Gateway爆出请求走私漏洞(POC已公开)CVE-2026-88773",
+        "url": "https://mp.weixin.qq.com/s/4bnRM49Muq1503mVHvqAhA",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "ios在野利用涉及ios26、ios27，以发现武器化呈现，请更新至最新版本。",
+        "url": "https://mp.weixin.qq.com/s/LW5tPPBWRuL8Vh5cJWRWfg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第四天】【严重】同一个东西有两个名字，一个分隔符谁都没转义",
+        "url": "https://mp.weixin.qq.com/s/sz0E759d6uZD_bAmy0gfnQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
     }
 ]
