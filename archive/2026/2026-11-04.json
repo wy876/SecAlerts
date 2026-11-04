@@ -1,0 +1,32 @@
+[
+    {
+        "title": "【实战】逻辑漏洞连招：验证码复用与 Token 预测的致命组合",
+        "url": "https://mp.weixin.qq.com/s/OzGwteQfneATDpM4G94MJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【实战】逻辑漏洞核弹：并发抢券、0元购与支付回调伪造",
+        "url": "https://mp.weixin.qq.com/s/-0Pn0eH0HuStuYqXHk18Sw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【实战】弱口令猎杀：从默认凭据到全平台权限接管的降维打击",
+        "url": "https://mp.weixin.qq.com/s/lNC7zfSB18r6rjBryWPYzw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【实战】直捣黄龙：泛微/致远/用友 OA 历史漏洞组合拳与提权",
+        "url": "https://mp.weixin.qq.com/s/VeoTywNj3fbtc-7NYGMsrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    },
+    {
+        "title": "【实战】无文件落地：远程文件包含（RFI）与伪协议的高级对抗",
+        "url": "https://mp.weixin.qq.com/s/60M5gGn-u22YOG0DPumFtw",
+        "source": "Doonsec",
+        "date_added": "2026-11-04"
+    }
+]
