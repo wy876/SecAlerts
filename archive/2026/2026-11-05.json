@@ -220,5 +220,233 @@
         "url": "https://mp.weixin.qq.com/s/HXMmFgeYFgJpwST_MQzjuw",
         "source": "Doonsec",
         "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [原创漏洞 | 微步XGPT发现 Apple macOS 多个漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509026&idx=1&sn=034b5ea8214724ba448e152f29b5281b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [63.4亿美元加密资产遭窃！Binance披露攻击内幕：黑客利用假招聘面试和AI工具渗透内部系统",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623607&idx=2&sn=a6086e120f82cca0992bde584f2f56ce",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [【已复现】WordPress Core 竞争条件远程代码执行漏洞(CVE-2026-119977)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508010&idx=1&sn=7907e2aaa98df6d9be2a950b5064bac4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [ARTEX热门Fork被曝携带后门，可导致RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188616&idx=1&sn=b935cc727b87163e8ed50523f54773fa",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第43期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502490&idx=1&sn=af8071dc908e2929d02722c6b1a6bf26",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [ios在野利用涉及ios26、ios27，以发现武器化呈现，请更新至最新版本。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165821&idx=1&sn=d1931d3a73b955d3ac772c8061790328",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "] [CCS 26 | 当越权能力开始“滚雪球”：移动应用标识交换背后的安全陷阱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500158&idx=1&sn=cd86515d27817eb6e2267967d7e9d8c1",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【已复现】Synology DSM 身份认证绕过漏洞(CVE-2026-13639)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/6OD1diTo_RgE9Kfs0DyoEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【安全圈】白宫专网被卖做代理？总统办公室设备疑遭植入后门",
+        "url": "https://mp.weixin.qq.com/s/cHXx50y34OxsEe0OJsU7sw",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【安全圈】潜伏近三个月！DreamHost漏洞致大量主机凭据泄露",
+        "url": "https://mp.weixin.qq.com/s/LOLcNZmZ9I4JjD4fShQIxg",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【已复现】CVE-2026-101767 Oracle EBS AppsTCFServer SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/lXbreLbDjEpIAkXkxj3ieg",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "浙江大学 | 用轨迹自适应诱饵拖住、引开并化解自主渗透智能体",
+        "url": "https://mp.weixin.qq.com/s/CmRiLbNu9SHd-80tEdJG2Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "群里喊『几十块查任何人底细』？做了多年渗透的我，把水搅明白了",
+        "url": "https://mp.weixin.qq.com/s/hlISmRituCoEmPKnrIZ75A",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "当AI让漏洞有了机器产能，补丁却还靠人海战术",
+        "url": "https://mp.weixin.qq.com/s/YY276xUMifRlbUNeo9S2Zg",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "AI挖漏洞爆火，一篇带你了解用Work Buddy挖漏洞的全流程！",
+        "url": "https://mp.weixin.qq.com/s/dolPp82OIF2eSmFcJPLIAA",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【漏洞通告】WordPress 更新条件竞争远程代码执行漏洞(CVE-2026-119977)",
+        "url": "https://mp.weixin.qq.com/s/GXTYLZlaDyVON5ZSPSXRkQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【复现】Linux内核IPv4 TCP释放后重用漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/K3Vu6gbUYg3tY87Y-i_56Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【漏洞预警】TeamViewer 整数溢出漏洞可导致远程代码执行（CVE-2026-111585）",
+        "url": "https://mp.weixin.qq.com/s/HGjIVPSs0Mi_KB32kKtoog",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "汽车网络安全不能只做一次渗透测试：TARA如何把风险贯穿研发与供应链？",
+        "url": "https://mp.weixin.qq.com/s/daUhV2abLSFG_ys21p3GJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【免费领】国内第一部XSS跨站脚本攻防技术教程",
+        "url": "https://mp.weixin.qq.com/s/9JTc6ed_ddJDdxdIfAZKng",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "SonicWall 提醒注意将不再修复的 GMS 软件漏洞",
+        "url": "https://mp.weixin.qq.com/s/DYgoaZmYLt3QY5ia5TzigQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "Barracuda 修复两个漏洞，可绕过授权和获取 root 权限",
+        "url": "https://mp.weixin.qq.com/s/_gyyQgV-h93wFizo0u-6zg",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "升级的几秒钟就是攻击窗口：WordPress Core 未认证 RCE 深度分析（CVE-2026-119977·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/633gT8r7Wc22XhRvR_7N1w",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "MindSearch-RCE复现：AI搜索一句提问直接拿shell （CVE-2026-105135）",
+        "url": "https://mp.weixin.qq.com/s/d8qh0ZwlNojTrNQMfaq7HA",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "当“加载模型”变成“执行未知代码”：AI 供应链中的 GPU 挖矿陷阱",
+        "url": "https://mp.weixin.qq.com/s/gYvIdC7C4Co7GTIj_nqueQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【漏洞通告】WordPress Core远程代码执行漏洞（CVE-2026-119977)",
+        "url": "https://mp.weixin.qq.com/s/Q9tG95L62Sd_cyjm8WFsQw",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "WordPress Core 竞争条件远程代码执行漏洞(CVE-2026-119977)",
+        "url": "https://mp.weixin.qq.com/s/f9LAzWdphLJ5XGI0hy5DiA",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "AiPy 首获 Microsoft 官方致谢，Windows 内核 Win32k 漏洞获 CVE 编号",
+        "url": "https://mp.weixin.qq.com/s/hwfpPgQkBZMmJMOJ65Vs2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【重磅】泛微 e-cology 漏洞利用全路径：前台未授权 RCE 与一键综合利用",
+        "url": "https://mp.weixin.qq.com/s/Qmfqkmy-b8tDqC_-oOKVnA",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/wkK2wWB5XWJZ_e20et4eTQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "记AI渗透下的一次小通杀",
+        "url": "https://mp.weixin.qq.com/s/9S9WP5xFcyjVFh4keP7RNw",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "警惕 cwpdoor：寄生在 Control Web Panel 中的零检出被动后门",
+        "url": "https://mp.weixin.qq.com/s/hDkWyDkCUIFVvYOt-uM1IQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第五天】【严重】鉴权配置缺陷",
+        "url": "https://mp.weixin.qq.com/s/Uwj9TeXsnIG9kbpPbn04ZA",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "只有10个端口地址，怎么在清单外挖到 SQL 注入漏洞？",
+        "url": "https://mp.weixin.qq.com/s/hABhIPnVFrczWn5G8hKdag",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "漏洞预警:又可以root android手机了，大家来了解一下，带poc的那种，CVE-2026-98260",
+        "url": "https://mp.weixin.qq.com/s/v-b5E3oWHcwUOCNIQoAHYQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "ARTEX 流行 Fork 镜像供应链投毒事件分析",
+        "url": "https://mp.weixin.qq.com/s/Mlq4JR0ol-b7xHAOZRiUMQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "用友时空KSOA select.jsp SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/c952I8VjUVrq3jU2T8j_RQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
+    },
+    {
+        "title": "日本必客家美乐集团1490万条客户信息泄露",
+        "url": "https://mp.weixin.qq.com/s/3E-UWziB4LzGVBmLiUtGKw",
+        "source": "Doonsec",
+        "date_added": "2026-11-05"
     }
 ]
