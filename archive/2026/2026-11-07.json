@@ -244,5 +244,245 @@
         "url": "https://mp.weixin.qq.com/s/uCEQeYnnG8bZsxj7zA9vrw",
         "source": "Doonsec",
         "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [关于邀请参加《教育数字化应用适配测试规范》应用验证的函",
+        "url": "https://mp.weixin.qq.com/s/bLAKAHrET1DAYlksGn042g",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [红队 vs 渗透测试：Active Directory 攻击工作流",
+        "url": "https://mp.weixin.qq.com/s/1dPLy-rh_bx7uTqB-XiaLg",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [No FastJson: 寻找新的攻击面",
+        "url": "https://mp.weixin.qq.com/s/m8Hc0q8qDCBMsMdRVREh3g",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [K8s 策略引擎被打穿：Kyverno 9.9 分，一条策略提权到集群",
+        "url": "https://mp.weixin.qq.com/s/BVDxI1N5HW_SVaU9nd_93g",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [CVE-2026-123158：一个星号“*”的十年歧义，让 Alpine 的 SSH 大门被 300 个“a”敲开",
+        "url": "https://mp.weixin.qq.com/s/13-jqzHtHaw7USfNXtL1Eg",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [GHSA-g35w-6r6v-h4r7：Airbyte 关掉“不安全代码”开关，照样被 RCE，而它连 CVE 编号都还没有",
+        "url": "https://mp.weixin.qq.com/s/kL7oCRa02oQF56NLS4DS8g",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【已复现】Amazon Redshift JDBC 驱动远程代码执行漏洞（CVE-2026-119084）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493507&idx=1&sn=861a2db2f4242498d7594b053eb06d50",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【已复现】musl 无 PAM 环境可绕过口令认证——OpenSSH sshd 认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493507&idx=2&sn=20fd2ebdcbe5b1736a9db2e6bef1dfe0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [已复现！OpenSSH 密码认证绕过漏洞 （*sshole）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509031&idx=1&sn=0ccee302d9069302d7d7532b0e68c026",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [神漏洞！某银行木马让安卓设备无限重启、直接变砖",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516851&idx=1&sn=697281b8c29ef12733d060fc065a5435",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [OpenSSH 紧急修复已有10年的高危漏洞，可用于登录禁用密码的 Linux 账户",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527698&idx=1&sn=a2c44f8f1ed0d881bf6188cb346629c5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [谷歌扩展云漏洞奖励计划，最高赏金25万美元",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527698&idx=2&sn=754c891ac844763035638e9459b7b31f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [CVE-2026-123158 · OpenSSH/musl 密码认证绕过",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165833&idx=1&sn=a879f05b1860329bd1d27191cf94e8cc",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【已复现】OpenSSH/musl 密码认证绕过漏洞(QVD-2026-104595)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508041&idx=1&sn=298ed9e842bc1bb98241c38a3c69b57d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【安全圈】隐形后门寄生 CWP 面板，访问日志全程沉默",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079722&idx=2&sn=0ffae3851bf87f1c5fcafe01d9a44a92",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【安全圈】Barracuda 网关双漏洞链：免登录直取 root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079722&idx=3&sn=c41a23a7212e4cf43702e04774a897e0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [OpenSSH <10.6p2 musl libc 认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486420&idx=1&sn=f294caf49436ea3cb34cdb76ed973fba",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【风险提示-已复现】天融信关于OpenSSH musl密码认证绕过漏洞CVE-2026-123158的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497101&idx=1&sn=e98d607078b3d6b45215bf751074226a",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【风险提示-已复现】天融信关于WordPress核心远程代码执行漏洞CVE-2026-119977的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497101&idx=2&sn=3ee499d893b2da26087356d16e89ce51",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [黑客利用 PHP2Shell 漏洞组合攻击 Palo Alto Networks 防火墙，25 台服务器遭入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544454&idx=1&sn=26056bc239da846bb84b2f84b580311f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [GPT-6 Cyber重磅发布：挖出81个Firefox高危漏洞，批量生成948个Linux本地提权EXP",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623854&idx=2&sn=882e4d2bde4db38c45e298c5baff4d94",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【漏洞通告】OpenSSH musl 密码认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526379&idx=1&sn=ba2a13b0a899a5255ef162d9e82673db",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【已复现】OpenSSH/musl密码认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493747&idx=1&sn=db0e3b3dd13eaf2ba1ae1f7f34690a78",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【已复现】Linux内核IPv4 TCP释放后重用漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247493747&idx=2&sn=286214330ef2b12d3173bf816aeb6ef5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [【原创】瞄准国内某西南省份:多款国产小型软件更新供应链攻击行动披露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521280&idx=1&sn=98bc4049fa5f0723d874dd6f1089b196",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [OpenAI 推出 GPT 6 Cyber：强化漏洞挖掘能力，升级安全边界管控机制；国家安全部披露一起利用恶意链接精准定位他人的案件| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143167&idx=2&sn=0778aa70307abf696e42ea9f6fc655ae",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [OpenSSH sshole 密码认证绕过漏洞（CVE-2026-123158）风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498071&idx=1&sn=9a20042b72b3a55756d42fb6a54a5338",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "] [漏洞预警丨OpenSSH musl 环境密码认证绕过漏洞（CVE-2026-123158 / \"sshole\"）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488522&idx=1&sn=4a57a1ef6da4f5061b5c24e65ec6165d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "WordPress升级窗口，藏着未授权的 Shell 那几秒，最危险",
+        "url": "https://mp.weixin.qq.com/s/VALwuUqEgy4FeHiYSgPGhg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "OpenSSH 十年漏洞曝光：一个超长密码，竟能绕过 Linux SSH 身份认证",
+        "url": "https://mp.weixin.qq.com/s/2UwkPks-pm1L9Z8rqLNukw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "Zyxel GS1900 在野利用漏洞分析：一个零日漏洞的完整攻防拆解",
+        "url": "https://mp.weixin.qq.com/s/FgICo59za9Fk6h3LYkjsFg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【漏洞预警】 Windows 画图远程代码执行漏洞（CVE-2026-83844）",
+        "url": "https://mp.weixin.qq.com/s/N8ercmCByfUFU-9mV9NxnA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "CVE-2026-39430：HP Poly 摄像头的管理员登录“名存实亡”，未认证就能导出全设备凭据",
+        "url": "https://mp.weixin.qq.com/s/DzJv_CUUqz9BKGlrYabTHQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "CVE-2026-123158“SSHole”：CVE 发布不到 9 小时，日本 IP 已用 300",
+        "url": "https://mp.weixin.qq.com/s/jYRwggcs1Xa5jmEoA4lZRA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "渗透测试-SQL注入之Fuzz绕过WAF",
+        "url": "https://mp.weixin.qq.com/s/d_i5ef6cgFutlDoQI8vEBQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "红队 vs 渗透测试：Active Directory 攻击工作流",
+        "url": "https://mp.weixin.qq.com/s/1dPLy-rh_bx7uTqB-XiaLg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "No FastJson: 寻找新的攻击面",
+        "url": "https://mp.weixin.qq.com/s/m8Hc0q8qDCBMsMdRVREh3g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "K8s 策略引擎被打穿：Kyverno 9.9 分，一条策略提权到集群",
+        "url": "https://mp.weixin.qq.com/s/BVDxI1N5HW_SVaU9nd_93g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "CVE-2026-123158：一个星号“*”的十年歧义，让 Alpine 的 SSH 大门被 300 个“a”敲开",
+        "url": "https://mp.weixin.qq.com/s/13-jqzHtHaw7USfNXtL1Eg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "GHSA-g35w-6r6v-h4r7：Airbyte 关掉“不安全代码”开关，照样被 RCE，而它连 CVE 编号都还没有",
+        "url": "https://mp.weixin.qq.com/s/kL7oCRa02oQF56NLS4DS8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
     }
 ]
