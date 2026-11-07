@@ -496,5 +496,71 @@
         "url": "https://mp.weixin.qq.com/s/UaAb1Bjd2fEhLhwwProiRQ",
         "source": "Doonsec",
         "date_added": "2026-11-07"
+    },
+    {
+        "title": "所有AI渗透教程都在教“怎么让Agent更猛”，没人教“怎么让Agent不疯”——而后者才是你从白帽变“牢帽”的那条线",
+        "url": "https://mp.weixin.qq.com/s/yce0AS7r10wfm4ouGWcDew",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "SonicWall VPN 一个旧密码跳过 MFA CVE-2026-19868",
+        "url": "https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "Microsoft Paint 远程代码执行漏洞 CVE-2026-83844 修复上架：补丁只走微软商店、不走 Windows Update",
+        "url": "https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "在看 | 周报：四川乐山侦破艺人信息泄露黑产案；最高人民检察院发布检察机关依法保护公民个人信息典型案例",
+        "url": "https://mp.weixin.qq.com/s/NEJfelutoG_DZ6gEPbfPBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "PHP代码审计-PHPYUN-Bypass防护实现SQL注入",
+        "url": "https://mp.weixin.qq.com/s/3JxpZXRQmg-ZiNMcGGPYiQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用",
+        "url": "https://mp.weixin.qq.com/s/5ROf3BX_I1sOoKqiq3nr3g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现",
+        "url": "https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+        "url": "https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "[工具推荐]专为渗透测试工程师和安全研究员设计的新一代集成化安全测试平台-Venom",
+        "url": "https://mp.weixin.qq.com/s/x1oWwTu9GWy9afY1p_G8Ng",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里",
+        "url": "https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "海外SRC漏洞挖掘：\\\\\\\\绕过403 + 接口不校验token字段签发JWT",
+        "url": "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
     }
 ]
