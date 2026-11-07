@@ -484,5 +484,17 @@
         "url": "https://mp.weixin.qq.com/s/kL7oCRa02oQF56NLS4DS8g",
         "source": "Doonsec",
         "date_added": "2026-11-07"
+    },
+    {
+        "title": "渗透测试全笔记",
+        "url": "https://mp.weixin.qq.com/s/Eh6eFOvM5S-Upw3HeoxOkw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "搜狗输入法 DNS 劫持与 DarkVigil 后门全链拆解",
+        "url": "https://mp.weixin.qq.com/s/UaAb1Bjd2fEhLhwwProiRQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
     }
 ]
