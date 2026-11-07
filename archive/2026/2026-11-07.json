@@ -1,0 +1,248 @@
+[
+    {
+        "title": "2026 全球安全事件观察：供应链与身份窃取的两条主线",
+        "url": "https://mp.weixin.qq.com/s/Y1j-29ACHZzii0MmdFMT7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "赛博安全狗：微软Entra设备注册权限提升漏洞CVE-2026-109469，评分10.0 (11.07)",
+        "url": "https://mp.weixin.qq.com/s/7QIc2DOZz-Dak1PAsImmJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "赛博安全狗：科学数据管理框架Rucio修复高危REST API授权绕过漏洞CVE-2026-58273 (11.06)",
+        "url": "https://mp.weixin.qq.com/s/153oq68J0Hvng5qiO2SWYw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "赛博安全狗：亚马逊EKS网络策略代理存在高危漏洞CVE-2026-122266，可绕过入口策略 (11.05)",
+        "url": "https://mp.weixin.qq.com/s/aldz9GN93BpkjAXvj1xyBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "促销折扣前端校验绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/DW9kNt3LNYXGj-rnENvcqw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "一条300字符的密码登进SSH：OpenSSH十年认证绕过深度复盘（CVE-2026-123158·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/3L202EOsN_S09Pbs_RZVLw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "SSHole（CVE-2026-123158）：密码够长，就能登进不允许密码登录的账户",
+        "url": "https://mp.weixin.qq.com/s/NHuR7u-5SueT0F_lrBdvDA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "第四届数信杯团体决赛之代码审计",
+        "url": "https://mp.weixin.qq.com/s/mTubnsRfDJ51IMf_rVhjqg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【AI】 智能体做渗透测试（九）：多 Agent 协作与角色分工",
+        "url": "https://mp.weixin.qq.com/s/Ly9f0pOr0u14Syz6Aj6NWg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【热点安全风险】11月7日｜GPUStack 把本机来源当作管理员，未认证攻击者伪造请求头即可接管平台（CVE-2026-102895）",
+        "url": "https://mp.weixin.qq.com/s/82IR2U0LF4YKscFxSSREUw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【AI】 智能体做渗透测试（十）：Agent 的记忆与经验沉淀",
+        "url": "https://mp.weixin.qq.com/s/QP54OueWrcwM6ZPAY4_zNg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十一）：Agent 的可观测性与调试",
+        "url": "https://mp.weixin.qq.com/s/pvKsZZARm8w7bMkbWo2yVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十二）：成本控制与预算管理",
+        "url": "https://mp.weixin.qq.com/s/D3Q90D59y1VVBFvq2Th72w",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十三）：权限隔离与沙箱执行",
+        "url": "https://mp.weixin.qq.com/s/mcp3NaVzXhgh3m6oe9swDQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十四）：多 Agent 协作与角色分工",
+        "url": "https://mp.weixin.qq.com/s/zaXLuABSj11w-4YnQ8EInw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十五）：多 Agent 通信协议与任务编排",
+        "url": "https://mp.weixin.qq.com/s/wEiJqoAudPej4GXs4OqI9A",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十六）：多 Agent 的记忆分层与上下文工程",
+        "url": "https://mp.weixin.qq.com/s/SXnjoGr9WvGUELjGW_UvKw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "24小时内超过6万起攻击针对WordPress远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/OmjCAJsnpQDjaIdYBGT7EQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "TeamViewer安全漏洞可能将远程支持会话变成计算机控制",
+        "url": "https://mp.weixin.qq.com/s/zfS9KSgVOnFTrYLQBW6aKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "CISA确认GitLab漏洞CVE-2026-97229已被积极利用",
+        "url": "https://mp.weixin.qq.com/s/3VeikVfjN2RwsBfLTFijJg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "渗透测试中403/401页面绕过的思路总结",
+        "url": "https://mp.weixin.qq.com/s/8zIA4H-A6hXuwd0LCyCuTA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【有靶场】OpenSSH “sshole” 认证绕过漏洞 CVE-2026-123158",
+        "url": "https://mp.weixin.qq.com/s/IsK7BbQzj2rSdLmjJD9CqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "OpenSSH/musl密码认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s/UnXbr-2y_YxwNo66igQiqg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "双十一特惠，一年仅一次，《闪石星曜 @AI 代码审计与漏洞研究攻防实战》火热招生中......",
+        "url": "https://mp.weixin.qq.com/s/fkKklgnaa_K0sg33FK8d8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 user_expire_post SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/c-SxdNZ7MPwlWmBitXwfVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【漏洞预警】Linux 内核 IPv4 TCP UAF 漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/TdZts0RNpAOFxDVqKfKYsA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "矛盾实验室举办“矛破漏洞 盾护网安”招新宣讲会",
+        "url": "https://mp.weixin.qq.com/s/8XMiR2q1kjFhTWKhCQWxMg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【安全圈】隐形后门寄生 CWP 面板，访问日志全程沉默",
+        "url": "https://mp.weixin.qq.com/s/p7vACUuTInVAxChYd28e_Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【安全圈】Barracuda 网关双漏洞链：免登录直取 root",
+        "url": "https://mp.weixin.qq.com/s/housa7emWiJ4cL3u0VEIxw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【已复现】OpenSSH/musl密码认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s/KIZ14Z6gT_o1nsXd7dKZhw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【已复现】Linux内核IPv4 TCP释放后重用漏洞（CVE-2026-98432）",
+        "url": "https://mp.weixin.qq.com/s/IAdt0a6fITD8Bg0n8wWaWg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "（二次更新）【已支持检测】OpenSSH musl 环境下密码认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s/UQqm3TFRhG6kjWxIWCNUtg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "OpenSSH发布紧急补丁，修复Alpine Linux长密码绕过SSH认证漏洞",
+        "url": "https://mp.weixin.qq.com/s/DMHdKRcSDzzt1Qh8mDRe7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/8yp_bSwoKBoDTgh9StZVlA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "一个密码符号引发的 SSH 绕过：CVE-2026-123158（*sshole）深度解读",
+        "url": "https://mp.weixin.qq.com/s/3Ul7ig5-nZmQdIRy0Efi9Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "神漏洞！某银行木马让安卓设备无限重启、直接变砖",
+        "url": "https://mp.weixin.qq.com/s/m9fEtAnnNS8L8qxwKHtF1g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【已支持检测】西门子 SIMATIC IoT2050 Node-RED /flows 未授权访问漏洞（CVE-2026-58115）",
+        "url": "https://mp.weixin.qq.com/s/niL4qSKnn_YJjxlyP66j4Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【已复现】Amazon Redshift JDBC 驱动远程代码执行漏洞（CVE-2026-119084）",
+        "url": "https://mp.weixin.qq.com/s/x92POkbpiRj27u-D2aMAzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "【已复现】musl 无 PAM 环境可绕过口令认证——OpenSSH sshd 认证绕过漏洞（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s/nYInvrr4-ImQgW2x6C0sqw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "[工具推荐]现代化资产测绘与漏洞监控平台-ARL-Next",
+        "url": "https://mp.weixin.qq.com/s/TzSnumRWqqmLU-U53qUNCA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "OpenSSH口令认证绕过安全通告-CVE-2026-123158",
+        "url": "https://mp.weixin.qq.com/s/uCEQeYnnG8bZsxj7zA9vrw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    }
+]
