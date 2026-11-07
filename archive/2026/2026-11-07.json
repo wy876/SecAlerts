@@ -562,5 +562,71 @@
         "url": "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ",
         "source": "Doonsec",
         "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十七）：多 Agent 的成本控制与预算管理",
+        "url": "https://mp.weixin.qq.com/s/ABvC80AjSCjbeuz5bQaorQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十八）：多 Agent 的可观测性与链路追踪",
+        "url": "https://mp.weixin.qq.com/s/b_uiSwAkKH7bNjBCvebA_g",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（十九）：多 Agent 的安全边界与权限隔离",
+        "url": "https://mp.weixin.qq.com/s/i0ShK06Oe9t1azSIeZdJYg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（二十）：多 Agent 的失败恢复与断点续跑",
+        "url": "https://mp.weixin.qq.com/s/c4fTCl34Y7_aw_2eEPpCrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（二十一）：多 Agent 的成本控制与预算管理",
+        "url": "https://mp.weixin.qq.com/s/3vqze94cPFMR6bXHy4w-Bw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（二十二）：多 Agent 的可观测性——日志、追踪与回放",
+        "url": "https://mp.weixin.qq.com/s/pxViVWaFO1lUutp8ISRmNQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（二十三）：多 Agent 的安全边界——权限隔离与最小授权",
+        "url": "https://mp.weixin.qq.com/s/Jqn563MZiTPCACYz20D1Xw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "AI 智能体做渗透测试（二十四）：多 Agent 的任务编排与依赖管理",
+        "url": "https://mp.weixin.qq.com/s/C3ksLTjNV76h7aL5WfSdqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权",
+        "url": "https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "“灰色地带”行动与非对称作战的融合态势：混合战争场景下的战略试探与战术渗透（2026版）",
+        "url": "https://mp.weixin.qq.com/s/IscI8zeA71sMa-D9O8xowQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
+    },
+    {
+        "title": "朝鲜黑客窃取开发者凭证，向GitHub和软件包中注入恶意软件",
+        "url": "https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-07"
     }
 ]
