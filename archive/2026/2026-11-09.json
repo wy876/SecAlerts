@@ -286,5 +286,137 @@
         "url": "https://mp.weixin.qq.com/s/jmQkNq5T92isVCKJnBdYlQ",
         "source": "Doonsec",
         "date_added": "2026-11-09"
+    },
+    {
+        "title": "] [【安全圈】GPT-6 Cyber发布！漏洞挖掘成本降到千美元级别",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079766&idx=1&sn=a136a27f787a740a8706522b59e326c9",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "] [【安全圈】ARTEX渗透框架闭源！微步在线声明版权收购",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079766&idx=3&sn=987af32e93ea7154cfe5fbf903e7e9dd",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "] [AI 渗透 20 轮：5 条链打通，12 条链卡住",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488202&idx=1&sn=1e79186c93846c8edad343f259d13955",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "AI 漏洞研究流水线中的因果验证与补丁闭环",
+        "url": "https://mp.weixin.qq.com/s/9mevrse0JZJVFk77XTmCRQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "恶意 AI 编程扩展的 SSH 后门、持久化与开发机响应",
+        "url": "https://mp.weixin.qq.com/s/cGwPUGidPPhhP-bfhFJicw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "11月8日漏洞：6个，2个上传、2个未授权、1个信息泄露、1个提权",
+        "url": "https://mp.weixin.qq.com/s/3HsNUkqBRMD2R4k39L1h3w",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "Protocol Explorer 把 TCP 握手画活 安全人该补这课",
+        "url": "https://mp.weixin.qq.com/s/pgLnGPy1tOefxUQAJydEJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "超长密码反而能免密登录？OpenSSH + musl 组合漏洞，把 Alpine 容器的门焊开了 免密登录",
+        "url": "https://mp.weixin.qq.com/s/Q27-rwdOyUKEDafUCziayA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "从“扫到漏洞”，到“证明安全”",
+        "url": "https://mp.weixin.qq.com/s/jrN63vcLPDfaKXDDbbXuiw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "【已复现】Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/x7qhbyf92EUP3sJ72Uvxsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "「AI Agent越狱测试」+「提示词注入」+「HackAgent」：19种攻击手法拆解",
+        "url": "https://mp.weixin.qq.com/s/jm4opMgppmQv2nn2EhiApQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "42 个 AI 开源项目、174 个漏洞：AI 渗透测试把开源世界\\\"体检\\\"了一遍",
+        "url": "https://mp.weixin.qq.com/s/xuLQPfaeEAQWHLXy6hJfXQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "GitHub AI 渗透一周报：本周 17 个新项目（Agent / 编排 / MCP / Skills）",
+        "url": "https://mp.weixin.qq.com/s/InYRinFWKZTg4M3OTKUOrw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "一个把两百多个漏洞塞进命令行和 Web 后台的自动化扫描器：Medusa",
+        "url": "https://mp.weixin.qq.com/s/icGlcbDaNEDu0SHVCEGXUQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "我们是怎么通过 AI 做到一边睡觉一边获得 0day/1day 的？",
+        "url": "https://mp.weixin.qq.com/s/rKdP170OY17LeCjzvLHz4A",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞治理2.0：告别纸面整改，搭建长效漏洞免疫闭环",
+        "url": "https://mp.weixin.qq.com/s/T8kz0jVGVDQiQhrIwatbxQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "AI 渗透测试平台 -- yujian_ai_pro（11月9日更新）",
+        "url": "https://mp.weixin.qq.com/s/wzU0zQMpGv9gRHzQIghmSw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "300 个 a 就能登进你的服务器？CVE-2026-123158 拆解与排查实操",
+        "url": "https://mp.weixin.qq.com/s/l2lO-XL03jR22mjHKhTR0g",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "勒索溯源｜疑似有人利用AI挖掘漏洞并售卖至勒索组织",
+        "url": "https://mp.weixin.qq.com/s/hzX2QsU2AEFDfBdCIbJRGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "文件包含&amp;一句话木马",
+        "url": "https://mp.weixin.qq.com/s/zddyo9uSzBTvJEeHfRvZNw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞复现 | 郑州时空-TMS运输管理系统 GetDataBase 存在信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/pESmftHg8DIHIWlQYKXcjw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "高危漏洞：Claude Code “不再询问” 功能翻车，超千个 GitHub 仓库明文泄露密码、API 密钥",
+        "url": "https://mp.weixin.qq.com/s/6FdFBvvAbQtbqN3oWTrenA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
     }
 ]
