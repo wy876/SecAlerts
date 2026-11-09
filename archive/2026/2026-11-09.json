@@ -1,0 +1,290 @@
+[
+    {
+        "title": "神漏洞！某银行木马让安卓设备无限重启、直接变砖",
+        "url": "https://mp.weixin.qq.com/s/jSSUzwTroExAG8nNQReBKQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "SSH漏洞导致黑客能够轻松入侵家庭路由器和嵌入式设备！",
+        "url": "https://mp.weixin.qq.com/s/Rq83iFiOXnpAi_9q2FXzXQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "uutils Coreutils 翻译文件代码注入漏洞细节及概念验证代码公开",
+        "url": "https://mp.weixin.qq.com/s/BcPZbSwVhdt9bBOiIzU2MQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "我们是怎么通过 AI 做到一边睡觉一边获得 0day/1day 的？",
+        "url": "https://mp.weixin.qq.com/s/YWKfZcJdp-uHDirvQq1KJg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "【实战案例】一次漏洞挖掘过程中的SQL注入浅浅绕过记录",
+        "url": "https://mp.weixin.qq.com/s/zC8EvYIExXLfnGCjaJPsbQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "【漏洞复现】TheGrid admin-ajax存在代码执行漏洞(CVE-2026-94169)",
+        "url": "https://mp.weixin.qq.com/s/LlGVR1ZTMYkFCQbSOPEGaQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "OpenAI 发现重大漏洞后将 GPT-6 网络评为最高风险等级",
+        "url": "https://mp.weixin.qq.com/s/XJdgY3DO3IfBXp9z30A6Fw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "OpenAI 大规模封号:无预警无邮件,五年 Pro 号与 200 美元订阅一并注销",
+        "url": "https://mp.weixin.qq.com/s/7AjCO-yYltKa19dddT1qKw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "配置参数无效值注入导致下游功能异常漏洞",
+        "url": "https://mp.weixin.qq.com/s/2ZYFXv-2mo9FGkDKQh8UbA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "SQL注入之二次注入实战",
+        "url": "https://mp.weixin.qq.com/s/QEmbEbYPcxSdFO6EjYFGeg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+        "url": "https://mp.weixin.qq.com/s/S5UVH0olJNZQlu2Nbx66tw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "全球网络行业热点趋势③：供应链安全与后量子密码学，企业正在补上“长期信任”底座",
+        "url": "https://mp.weixin.qq.com/s/SQLErG0pUPj67Zy9pbCNyA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "30小时狂刷948个Linux提权漏洞！OpenAI新模型杀疯了，防线还有救吗？",
+        "url": "https://mp.weixin.qq.com/s/BqQ8vdjaNGQ0HQBy31m-Vw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "The Gentlemen 来敲门xa0·xa0定制后门与演进战术",
+        "url": "https://mp.weixin.qq.com/s/BsbD24mVvNSKIkcycyiIsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "杀毒软件成了后门：cPGuard更新通道被投毒",
+        "url": "https://mp.weixin.qq.com/s/lvodruu7nCY-PUNBGSxj7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "从反编译到响应体：两款 App 会员/广告权益越权的完整挖掘链",
+        "url": "https://mp.weixin.qq.com/s/oauqwvb67ydp01blky1raw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "微软分析了 38.3 万个安全漏洞，并揭示了黑客最常利用的漏洞",
+        "url": "https://mp.weixin.qq.com/s/4S3Mv1766ngbNJtpWbMn0w",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "研究人员发现 ChatGPT 存在高危漏洞，可将私人对话暴露给攻击者",
+        "url": "https://mp.weixin.qq.com/s/7Mr9fpcSyg_WCWqJw5dqBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "CVSS 9.1 预警！SonicWall GMS 爆核心漏洞，官方：已停更，请自求多福",
+        "url": "https://mp.weixin.qq.com/s/tSmlBSBWgI12m2yTlbgdgw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "2026上半年网络安全威胁全景：APT持续高发，边界设备与供应链成“新突破口”",
+        "url": "https://mp.weixin.qq.com/s/Hryd6DfHPamMsEffWUu5YQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞预警 | CyberPanel命令注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/iAV9sgZIiffEga_utLA_mg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞预警 | WordPress条件竞争漏洞",
+        "url": "https://mp.weixin.qq.com/s/jtpFzM2a8EMDn6iYaeZ7jQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "MCP+Skills 赋能APP渗透逆向，六阶段 Agent 流水线，打通 MCP 工具链实现 APP 安全自动化分析",
+        "url": "https://mp.weixin.qq.com/s/pfmWIgv03CtxdjQdyaaPRA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "【倒计时预警】谷安双 11 宠粉活动 11 日截止！考证囤课最后冲刺！",
+        "url": "https://mp.weixin.qq.com/s/zqXdeFqSjFs_61bQK2V16Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "AI 渗透 20 轮：5 条链打通，12 条链卡住",
+        "url": "https://mp.weixin.qq.com/s/hpC8QW0B_8r495T2g0hF9Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "浅谈漏洞思路分享-只有登录框的渗透测试",
+        "url": "https://mp.weixin.qq.com/s/et7mkEt6nqqohGc6-WloYw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "台湾积电（全球领先半导体芯片制造商）疑遭大规模员工个人信息泄露！4.6万条数据在暗网叫卖，起价3比特币",
+        "url": "https://mp.weixin.qq.com/s/SFC-xCoYdoexjqkopXyCUw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "OpenAI 发布 GPT-6 Cyber：948 个 Linux 提权漏洞，只是开始",
+        "url": "https://mp.weixin.qq.com/s/eke0AAzAwBM8tLoQmR2bcA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "AI 把漏洞变成武器的时间从 22 天压到几小时",
+        "url": "https://mp.weixin.qq.com/s/0btVVs6bwn4zFQHJz6ZHbg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "11月8日高危漏洞汇总：3 个在野利用、54 个紧急",
+        "url": "https://mp.weixin.qq.com/s/qGbpaIZLVYp3JGeXt3mouw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "美国五家联邦机构联合预警，攻击者瞄准食药制冷控制系统",
+        "url": "https://mp.weixin.qq.com/s/xe5gvpQLfkewepNqHvALwg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "PHP代码审计-PHPYUN-从字符编码转换到宽字节 SQL 注入",
+        "url": "https://mp.weixin.qq.com/s/SwZeCaj7cZdqelU3otZ9EA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "单引号引发的“血案”：某学院系统存在高危SQL注入",
+        "url": "https://mp.weixin.qq.com/s/Fl2AJaDBlem7B3N9TgcS5g",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "Gohttpserver 路径遍历漏洞可致RCE | CVE-2026-38600 研究及复现",
+        "url": "https://mp.weixin.qq.com/s/AqP0E0RFLtKU_BfxXJOohA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "第四届数信杯团队赛渗透(部分)",
+        "url": "https://mp.weixin.qq.com/s/-chruUwlgkMCuswQG29JCg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "[工具推荐]一个面向 Spring Boot路径泄露/绕过的漏洞验证的浏览器扩展-BootScope",
+        "url": "https://mp.weixin.qq.com/s/lZEDntB9AqGIBurr2hTe3g",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "CVE-2026-85295 是任何知道这个默认值的未认证攻击者，都能伪造一个指向任意用户",
+        "url": "https://mp.weixin.qq.com/s/yQ-BPbLYJnQnnU7PFT6veA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "CVE-2026-123960 是 TOTOLINK CA300-PoE 路由器固件 6.2c.884 中一个远程可触发的缓冲区溢出漏洞",
+        "url": "https://mp.weixin.qq.com/s/C1-DLqLcFJRc4XalpKtFIg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "CVE-2026-123966 是 Tenda AC19 路由器（固件 16.03.10.07）中一个无需认证的远程堆溢出漏洞。",
+        "url": "https://mp.weixin.qq.com/s/-kkRv49sBzH69BxsE6M5FQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "【成功复现】OpenSSH/musl密码认证绕过漏洞(CVE-2026-123158)",
+        "url": "https://mp.weixin.qq.com/s/t9jARB-7uu35-SLzdkRvpA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "安全能力重构 | D001篇 为什么安全工程师先问业务，而不是先找漏洞？",
+        "url": "https://mp.weixin.qq.com/s/oZ1sasZ4t3RfvLPwzyYnCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "如何设计一个漏洞挖掘 Agent：从 LLM 原理到四层架构与核心代码",
+        "url": "https://mp.weixin.qq.com/s/xTvJ8aaRSIUv4pFCGqy2pA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "ssrf绕过过滤",
+        "url": "https://mp.weixin.qq.com/s/BLfPk0SFC8WhrGt88vQLfw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20261108）",
+        "url": "https://mp.weixin.qq.com/s/g2ANL5K2Micu0dnUlogVaQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "这个仓库把国内主流 CMS 的历史漏洞打包成 1600+ 个可直接执行的验证脚本，甲方审计和护网自查效率直接翻倍",
+        "url": "https://mp.weixin.qq.com/s/diEFdVh_6qE5Z6OshjPUHw",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "Barracuda ESG 预认证 Root RCE 拆解：一个 return 语句和一句硬编码密钥的故事",
+        "url": "https://mp.weixin.qq.com/s/Zbzop1qpuHfFincDSl2sAA",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "境外势力借神经科技窃密渗透，专家吁立法防思维域泄密",
+        "url": "https://mp.weixin.qq.com/s/2s9JMUvij2dFJFhlvJg5Lg",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    },
+    {
+        "title": "漏洞复现 | 用友NC qrySubPurchaseOrgByParentPk 存在sql注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/jmQkNq5T92isVCKJnBdYlQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-09"
+    }
+]
