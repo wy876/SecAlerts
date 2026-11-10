@@ -166,5 +166,401 @@
         "url": "https://mp.weixin.qq.com/s/l_yMjzdjdOG0NOQCNTLI8g",
         "source": "Doonsec",
         "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [一文看懂 AI 渗透的发展：从 LLM 辅助到自主多智能体红队-CSDN博客",
+        "url": "https://mp.weixin.qq.com/s/84pN30qSLYTgzX3INqjD_g",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [CVE-2026-110469 是 WidzialniCMS（版本 &lt; 2.5）/panel/upload.php 端点的一个未认证任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/Qj-HrdjlDE9eMaIo1fOWiw",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [CVE-2026-114432 是 WordPress 表单插件 Contact Form 7（活跃安装量超 1000 万）在 6.2 至 6.2.3 版本中的一个未认证任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/agK8Kp2wXRD1CMHIMmf2AA",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [开源红队Agent自动化渗透平台 ARES，扫描器还在猜\\\"可能有漏洞\\\"，它已经证明\\\"我打穿了\\\"",
+        "url": "https://mp.weixin.qq.com/s/3AaqkGxXiYN22pzIltW6kA",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [【已复现】Apache OFBiz 未认证远程代码执行漏洞（CVE-2026-83542）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493515&idx=1&sn=3a5431b2b13fe474954932cae112deaf",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [AI 渗透 20 轮：5 条链打通，12 条链卡住",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488209&idx=1&sn=9896adc9cdc6b5b64ca47e4d4c12aad0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [雷神众测漏洞周报2026.11.2-2026.11.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504022&idx=1&sn=e53724a6ba21acd957dea4e766878ca6",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [【已复现】Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508061&idx=1&sn=06b92c69f294a5093707f705d65dc73b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [【安全圈】CISA紧急通报！SonicWall防火墙在野绕过MFA漏洞被破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079809&idx=3&sn=cc81c1e77fc1c1d3e5c8f47fd2e096a9",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [杀毒软件成了后门：cPGuard更新通道被投毒",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790700&idx=1&sn=dbe2f4e03b49c7edbc36dc198972d05c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [国家安全部：仅一个半月，就有上亿条信息泄露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505548&idx=1&sn=d381f765dc11fd3e9c1086f98cd95223",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [10月必修漏洞清单及修复指南",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498077&idx=1&sn=4df7d5c69fde98e89a421ce154c9ee6b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [天津大学、南洋理工大学  | 用状态化反馈欺骗把自主渗透智能体引进蜜罐",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496167&idx=1&sn=c927694bf8b4dc727654b1279cd240f4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [OpenAI 发布 GPT 6 Cyber，漏洞挖掘能力提升且范围约束可靠性增强；工信部发文加强智能体终端进网管理| 牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143179&idx=2&sn=157e2cecd9e0f299869cc261805a1426",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [SonicWall：注意已遭利用的 SSL-VPN MFA 绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527704&idx=1&sn=b5908433e9c0092a8355eb0aef85977f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [D-Link：注意缓解DGS-3130系列交换机中的多个0day",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527704&idx=2&sn=9e8eaceb5083ff4b5492ca87612729d6",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [​OpenSSH 高危认证绕过漏洞遭攻击者利用，超长密码即可绕过 SSH 登录验证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624005&idx=3&sn=ab8d04633e47d27c3a825e1582bc0458",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "] [AI攻击海啸将至！微步投入千万发起“Artex主动防御计划”免费提供AI渗透体检",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188630&idx=1&sn=b443db46563b0847f10d7001681839b4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【安全圈】SSHole与GPUStack遭在野利用！CISA急列四漏洞",
+        "url": "https://mp.weixin.qq.com/s/cLS6_ltFSyyr6X3ScsPlUg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Notepad++ 发布 8.9.9 安全更新：修复 6 项漏洞，含本地插件命令执行缺陷",
+        "url": "https://mp.weixin.qq.com/s/xq-YgW3bv7ZQNSFwmoOyzg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Veeam 发布高危漏洞预警：Linux 内核内存破坏缺陷波及多款备份与恢复组件",
+        "url": "https://mp.weixin.qq.com/s/bNm9LORgQ16hM1WDowpd-A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "38 万个漏洞里，真正挨过打的只有两千个",
+        "url": "https://mp.weixin.qq.com/s/LRB3uc72f8qts_o5togecw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "首批签署，长亭双平台共促漏洞规范治理",
+        "url": "https://mp.weixin.qq.com/s/mEf7Y-JvgVe38BfP3tHNJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【ADLab原创漏洞】Samsung MediaProvider跨用户及任意文件读写高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/djknLoXh7WmydxnB9Z1bcQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "谷歌修复Chrome在野0Day漏洞，可远程执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/5JlqPkyn0b9SBMHACwWg0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Notepad++发布8.9.9版本，修复6个可触发插件命令执行的漏洞",
+        "url": "https://mp.weixin.qq.com/s/o2Zw0Ub2uwG8aUDUgLREdg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "SDC2026议题回顾 | ZeroMDASH：领域自适应的Agent-Native 通用漏洞挖掘工程",
+        "url": "https://mp.weixin.qq.com/s/u-tH7XFQcWN3axIDk-Ei2g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Google紧急修复Chrome高危零日漏洞：CVE-2026-125350已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/NwIXbJE8HUPxKbxEZnDpaA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【漏洞通告】Chrome XML 释放重用远程代码执行漏洞(CVE-2026-125350)",
+        "url": "https://mp.weixin.qq.com/s/jE9fDAklcDyCMQP3ME_C7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【漏洞通告】Apache OFBiz 未授权远程代码执行漏洞(CVE-2026-83542)",
+        "url": "https://mp.weixin.qq.com/s/RZaHmqN39EbW0njiWuC1iQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Tenda AC20（≤ V16.03.08.12）路由器缓冲区溢出漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/_18Jq67JPWUsOj5OCFlY3w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "渗透测试必备工具：SQLMap实操指导教程",
+        "url": "https://mp.weixin.qq.com/s/toZzgrvC-Y4Lpsow-D3ntA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "黑客通过默认凭据利用 ForgeRock RCE，远程解锁联网汽车",
+        "url": "https://mp.weixin.qq.com/s/9WmeGMfl_f7o38IAhjA1sw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "谷歌修复今年第八个已遭利用的 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s/ClIrJCJnLAhMwd7MNUHIdA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "谷歌修复Chrome在野0Day漏洞，可远程执行恶意代码",
+        "url": "https://mp.weixin.qq.com/s/VKjFKq3Jxc9W32Rbz6naCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "记一次绕过安全狗和360提权案例",
+        "url": "https://mp.weixin.qq.com/s/Y6OiUphtMIgZcZWP3vI7fg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【漏洞预警】Chrome 远程代码执行漏洞（CVE-2026-125350）",
+        "url": "https://mp.weixin.qq.com/s/p_likBR9VfpzdnPU1YMmVQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "一个星号，两种含义：OpenSSH 在 musl 上的认证绕过",
+        "url": "https://mp.weixin.qq.com/s/Xhy5MrlqhfLmxNz4Y7EewQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "打点-自动化与弱口令的艺术",
+        "url": "https://mp.weixin.qq.com/s/C4p4j9eGJxHkYsnjaLjygA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "首批18家网络产品安全漏洞收集平台签署自律公约",
+        "url": "https://mp.weixin.qq.com/s/DTxWj95Qjkxeg2HgHQsiGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Windows Error Reporting 参数注入权限提升漏洞(CVE-2026-97798)",
+        "url": "https://mp.weixin.qq.com/s/IUmnzGKUzZ7c3e6Hc0bXFA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【在野利用】漏洞通告 | Oracle E-Business Suite TCF 未认证 SQL 注入漏洞(CVE-2026-101767)",
+        "url": "https://mp.weixin.qq.com/s/Z95pa-skAVcCxSj-FKdR1g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【漏洞通告】Google Chrome XML组件释放后使用漏洞（CVE-2026-125350)",
+        "url": "https://mp.weixin.qq.com/s/ymmXWYeSsEtOJGsxpdrB7Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【漏洞通告】Apache OFBiz未授权远程代码执行漏洞（CVE-2026-83542)",
+        "url": "https://mp.weixin.qq.com/s/MMtHfRwc1BuuVW0Z2Xl9rw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "潜伏近三个月！DreamHost漏洞致大量主机凭据泄露",
+        "url": "https://mp.weixin.qq.com/s/wJN6O12dAl5aOLmY6M_0zQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "CISA 紧急预警：4 个高危漏洞已遭在野利用，含 OpenSSH “SSHole” 认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/zFm3G9Nor0bXR-l6fc61Zw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "天狐渗透工具箱-社区版V5.0全新版本发布~",
+        "url": "https://mp.weixin.qq.com/s/cOJFH7pvc64X_3JZ9kLBdw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "出厂即失陷：XCPE 如何把 130 万台 Android 设备变成“可出租”的后门",
+        "url": "https://mp.weixin.qq.com/s/m6zfyklxpY50HmGkwuVByQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "紧急预警：Chrome 曝出在野利用零日漏洞！黑客可远程执行恶意代码，请立即更新浏览器",
+        "url": "https://mp.weixin.qq.com/s/29hS4huTIWLbWpGPH2chLg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "除了artex,还有这么多基于ai的自主渗透测试工具，你知道吗？快来看看吧。",
+        "url": "https://mp.weixin.qq.com/s/VoRal0fIxQGKMuEU2mswVg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "云天 · 安全通告（2026年11月10日）",
+        "url": "https://mp.weixin.qq.com/s/K--U907HTnmd_fJQuZXdpg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "从库尔斯克到半岛：朝鲜特种部队无人机渗透与破袭战法评估",
+        "url": "https://mp.weixin.qq.com/s/TDCu1--jsLi015IVU5pflQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1019-1101）",
+        "url": "https://mp.weixin.qq.com/s/ncbSa6SdlMECCtSTm3EPUQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Notepad++ 发布8.9.9版本，修复6处可实现权限提升与命令执行的安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/3aY5p1jl4LLIq4F_iKkUwA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Agent 浏览链路中的结构丢失与间接提示注入",
+        "url": "https://mp.weixin.qq.com/s/bam2fdGHyjJKlP1Url3h6A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "一个搜索框拿管理员：Craft CMS未认证SQL注入漏洞复盘，CVSS 9.8全版本在射程",
+        "url": "https://mp.weixin.qq.com/s/KXVeodBeb3hFNQnvcnKZQA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "OpenSSH爆高危认证绕过漏洞：仅需一行超长密码，直接秒破Alpine服务器！",
+        "url": "https://mp.weixin.qq.com/s/7x4_e_2iw5omttHq6weP0Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "防得住大模型，防不住前端？复盘 ChatGPT 沙箱逃逸与近期 15 个 AI 致命漏洞",
+        "url": "https://mp.weixin.qq.com/s/oSYPZiDIQH7kWN-VQ0mXbA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "ARTEX二开投毒事件 · 研判与复现",
+        "url": "https://mp.weixin.qq.com/s/XAmfQ03wKjaoLGqYZ-Q8xQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "秦安：一触即发！俄罗斯当天接到伊朗讯息，立即通告本国公民不要前往伊朗",
+        "url": "https://mp.weixin.qq.com/s/oQtWO26cINJkgnKRPc95wQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【在野利用】Google Chrome XML 释放后重用漏洞(CVE-2026-125350)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/pPCcc2-OtttqDp-zY90y6w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "本地账号能绕过 SAML+MFA，边界设备快修 CVE-2026-19868",
+        "url": "https://mp.weixin.qq.com/s/kA5Qfjed4QRkDd01_qvJNw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【已复现】【在野漏洞】Chrome远程代码执行漏洞（CVE-2026-125350）",
+        "url": "https://mp.weixin.qq.com/s/szlVKWNXQxz_4U_KPjozCA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "关于互联网新技术新应用信息服务备案系统上线的通告",
+        "url": "https://mp.weixin.qq.com/s/lyPfQXFtQq5PUMk2k_LF_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "关于ARTEX 的思考：AI 自主渗透测试，正在加速一个行业的消亡",
+        "url": "https://mp.weixin.qq.com/s/ql8ItfvTzKFXqcG85WkD0g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "关于爱奇艺SRC暂停接收安全漏洞的通知",
+        "url": "https://mp.weixin.qq.com/s/xSyIarKSHajpgjTI0ZhY3A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
     }
 ]
