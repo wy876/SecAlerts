@@ -1,0 +1,170 @@
+[
+    {
+        "title": "强推一个DeepSeek Harness 渗透测试插件！",
+        "url": "https://mp.weixin.qq.com/s/L02d5hiko72GR7R5EnzXiQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "赛博安全狗：Webmin 2.670及以下版本Samba组件被曝命令注入漏洞CVE-2026-125391 (11.10)",
+        "url": "https://mp.weixin.qq.com/s/nTO0kkGVUd2CFnk3DRfr9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/hlTb6CHf_PSbfSHlqDTwNA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "允许黑客通过SSH访问Linux设备的漏洞正被积极利用",
+        "url": "https://mp.weixin.qq.com/s/O3MV29PRp9u25UhVhV1Ycg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "NetExec：内网渗透的瑞士军刀深度实战",
+        "url": "https://mp.weixin.qq.com/s/BRlZ-7cWpEoF1p-B-wOqlg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "黑客利用 SonicWall SSL-VPN 漏洞绕过多因素身份验证，发起攻击",
+        "url": "https://mp.weixin.qq.com/s/FSSWihY9UdozKut-bid4iA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "Telegram安卓版漏洞允许攻击者在用户接听语音通话时运行代码",
+        "url": "https://mp.weixin.qq.com/s/BTbWnn-1DsMBvqhWG0RilQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "赛博安全狗：IBM Concert操作系统命令注入漏洞CVE-2026-6715，CVSS评分9.8 (11.09)",
+        "url": "https://mp.weixin.qq.com/s/FTpak_frWm7DJbrs7AgsOQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "漏洞提交到telegram应急响应中心?为什么我不再挖国内src了",
+        "url": "https://mp.weixin.qq.com/s/sBKBPhbhvFDP5zn2RcR6lQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "CVE-2026-98432 — Linux IPv4/TCP ireq_opt use-after-free PoC",
+        "url": "https://mp.weixin.qq.com/s/BJ9s-UJwg-yfbm11bbNpZw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "worse_query：一个「不是越狱」的 iOS 沙箱逃逸，为什么值得读源码",
+        "url": "https://mp.weixin.qq.com/s/4eEQN3CIkRHnxAhqcIby3Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "JavaScript 敏感信息扫描器 - JsOwl",
+        "url": "https://mp.weixin.qq.com/s/BDYLgPpNB0ywwzLnbv7a9g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【高危漏洞预警】Apache OFBiz代码注入漏洞(CVE-2026-83542)",
+        "url": "https://mp.weixin.qq.com/s/UQQ5cu5z79VKwZjXHlu3Zg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "React Server Components曝严重漏洞，攻击者无需认证可远程执行代码",
+        "url": "https://mp.weixin.qq.com/s/sC9sB-yyKqPkgMCevTjMsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "SSHole漏洞遭攻击者扫描利用，部分Linux账户可被超长密码绕过认证",
+        "url": "https://mp.weixin.qq.com/s/4A_COg04I_8Xei0KMWNZiw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【安全圈】CISA紧急通报！SonicWall防火墙在野绕过MFA漏洞被破",
+        "url": "https://mp.weixin.qq.com/s/DlrRfhM8mljdWxRutdQd7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "u200bOpenSSH 高危认证绕过漏洞遭攻击者利用，超长密码即可绕过 SSH 登录验证",
+        "url": "https://mp.weixin.qq.com/s/lSOL7kWnYZtD5VqKMfFQtg",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "汽车网络安全测试不等于渗透测试：新发布的ISO/SAE TR 8477，如何把验证与确认变成研发证据？",
+        "url": "https://mp.weixin.qq.com/s/GyhXi3pXQUrgZeHfIqPxjQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "从准时化生产到云端数据治理：丰田的供应链韧性，为什么也必须是一道网络安全防线？",
+        "url": "https://mp.weixin.qq.com/s/3e1qVr6Ub-JP2M3MtbxkTQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "OpenSSH密码认证绕过漏洞(CVE-2026-123158)通告【已复现】",
+        "url": "https://mp.weixin.qq.com/s/WiUyQyy64D0C895IZg5tmw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "仅一个半月就有上亿条信息泄露！日本企业大规模用户信息泄露事件带给我们什么启示",
+        "url": "https://mp.weixin.qq.com/s/kpNa8OkrsMYMet2NkLSuPQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "AI代码审计会取代传统代码审计吗？",
+        "url": "https://mp.weixin.qq.com/s/k3wcKPVxZuPgeObwy2AFFA",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.11.2-2026.11.8",
+        "url": "https://mp.weixin.qq.com/s/AlasNVFptBTgI2hMXmOAGw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "【已复现】Apache OFBiz 未认证远程代码执行漏洞（CVE-2026-83542）",
+        "url": "https://mp.weixin.qq.com/s/MBEWtGNWnptKk-NAKKrbQw",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "AI攻击海啸将至！微步投入千万发起“Artex主动防御计划”免费提供AI渗透体检",
+        "url": "https://mp.weixin.qq.com/s/5g4-keKUQtrYDhe0L_IdjQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "OpenAI 发布 GPT 6 Cyber，漏洞挖掘能力提升且范围约束可靠性增强；工信部发文加强智能体终端进网管理| 牛览",
+        "url": "https://mp.weixin.qq.com/s/qeAufQSRXWlkvca4Wg3m7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "SonicWall：注意已遭利用的 SSL-VPN MFA 绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/wLqzqxXfn8xFym1x3D3S-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    },
+    {
+        "title": "D-Link：注意缓解DGS-3130系列交换机中的多个0day",
+        "url": "https://mp.weixin.qq.com/s/l_yMjzdjdOG0NOQCNTLI8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
+    }
+]
