@@ -562,5 +562,11 @@
         "url": "https://mp.weixin.qq.com/s/xSyIarKSHajpgjTI0ZhY3A",
         "source": "Doonsec",
         "date_added": "2026-11-10"
+    },
+    {
+        "title": "未认证绕过登录：SAP 一天 4 个 10.0 分漏洞",
+        "url": "https://mp.weixin.qq.com/s/6GuBbj-n47p8IjYalwi6aQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-10"
     }
 ]
