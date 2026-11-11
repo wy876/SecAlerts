@@ -64,5 +64,275 @@
         "url": "https://mp.weixin.qq.com/s/Kj-n66TK4I5xREfaAd_txg",
         "source": "Doonsec",
         "date_added": "2026-11-11"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/kXPi-tqhCqkBjfFLmwZ1QQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "从弱口令到找 js 接口得到敏感信息再借用 ai 信息收集扩大成果",
+        "url": "https://mp.weixin.qq.com/s/1ArZU0mBovVpeFcFuIY2Bg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "SetWinEventHook 注入实战 | swh-inject：用无障碍 API 把 DLL 送进别人进程",
+        "url": "https://mp.weixin.qq.com/s/9bH4djJR1u3jVFd0sSPvKQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【 BugFind V1.0 发布 】挑战∞无上限Agent 与无限 Time 游戏：AI 蜂群正式 7*24 小时全面接管代码审计与漏洞挖掘治理！",
+        "url": "https://mp.weixin.qq.com/s/dUUbw6dq3AKmz5bS9vujFg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "山石安全能力中心｜微软2026年11月份漏洞补丁日安全通告",
+        "url": "https://mp.weixin.qq.com/s/O9zFADQbGxtBeUp0Ni_QvQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【风险通告】微软11月安全更新补丁和多个高危漏洞风险提示",
+        "url": "https://mp.weixin.qq.com/s/Dp5YVSJSxzeb4Ny-s4uvjw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "关于防范Node.js越界写入超危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/2VXT7X-DvrJHkEwKokRJ7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "权威认可 | 秋风AI代码审计平台入选信通院2026 OSCAR尖峰实践",
+        "url": "https://mp.weixin.qq.com/s/GhQvsY969jtEjBaikVHOyA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "PHP2Shell高危漏洞复盘：AI如何让复杂内存漏洞变成远程代码执行？",
+        "url": "https://mp.weixin.qq.com/s/LMu8IBKpo6RefP3pm1-CAg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "暗网博弈：APT情报技术体系 - 连载 第9章 供应链后门与免杀对抗：从SolarWinds到HTA/CHM投递",
+        "url": "https://mp.weixin.qq.com/s/IE22GHMrtwLXMKW6BVOLWA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "杀毒软件，成了后门 更新通道被投毒",
+        "url": "https://mp.weixin.qq.com/s/cfwG-d6HwJa0KFoTOFfl0w",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第九天】【高危】身份复用和重放攻击",
+        "url": "https://mp.weixin.qq.com/s/ysj1sP08upULwQ3RcsyUtw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "今日速递｜看雪安卓指南、Binancexa0沙箱告警、Outlookxa00day",
+        "url": "https://mp.weixin.qq.com/s/p2SRbMrNtGIZ_S4v_uxz_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "关于首期注册人工智能安全应用专业人员（CISP-AISE）培训班成功举办的通告",
+        "url": "https://mp.weixin.qq.com/s/bqwu0Lb7JuZoQFHqUs21mg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Google Chrome &lt;157.0.8103.50释放后使用漏洞」等11个漏洞",
+        "url": "https://mp.weixin.qq.com/s/FtgTKrcEDQQ7pzDDyxTf2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "130万台电视盒子出厂自带后门",
+        "url": "https://mp.weixin.qq.com/s/Cf-Un9vTR8k2rcJ0-DF8KQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "[工具推荐]现代化资产测绘与漏洞监控平台-ARL-Next",
+        "url": "https://mp.weixin.qq.com/s/SvqnPGNRH0zztLoDTBKxzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "紧急安全预警｜Git曝高危漏洞(CVE-2026-111760)：恶意仓库可在递归克隆时执行代码",
+        "url": "https://mp.weixin.qq.com/s/x_NYcCrh4_QiTpWHDfQaAw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "观Hackerone大佬操作之朴实无华的HTML注入",
+        "url": "https://mp.weixin.qq.com/s/h-CulzpGGMw7byCoV2ANnw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第44期",
+        "url": "https://mp.weixin.qq.com/s/MnDgGzVW4hAlmPjXI4RF8A",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "上周关注度较高的产品安全漏洞(20261102-20261108)",
+        "url": "https://mp.weixin.qq.com/s/RDg94O_ApCxUHA7E8dzE4A",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【独家情报】DataEase 社区版未授权插件加载远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/x5DZPz2ITlZ4j7XKeyNNQw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "一种验证码爆破漏洞的全新思路 ，简单实用！",
+        "url": "https://mp.weixin.qq.com/s/MQdO4GmZORw6PXuCRTlDjQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "OA 安全圈最夸张的开源神器：把 111 个漏洞 POC 塞进终端，一键横扫通达、致远、用友、泛微",
+        "url": "https://mp.weixin.qq.com/s/np8r3INUAfinr-Q7qWaxHQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "关于致远互联协同管理平台COP-A9存在未授权源码组件下载漏洞的漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/Iqx7SlVylkh-co17uzFKkg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【勒索预警】群晖NAS最新版遭勒索病毒攻击",
+        "url": "https://mp.weixin.qq.com/s/dup0bpKrSGuHu5NJfaUJDw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "把邮箱“腌”了：CVE-2025-20393 一个字节如何打穿 Cisco 邮件网关",
+        "url": "https://mp.weixin.qq.com/s/kjEUXQNl3mx-5XOccgifKQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "记!一次供应链导致教育漏洞通杀，通杀五十多个学校弱口令，SQL注入，越权修改密码！(新手小白也能看懂的文章)",
+        "url": "https://mp.weixin.qq.com/s/CgiVWShftnYd7T6OflKWfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "大华ICC智能物联管理平台 upper-domains 敏感信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/V1rrIj35wiJ1nE6FpFduog",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "文件包含分类",
+        "url": "https://mp.weixin.qq.com/s/TreusOs7WrPNtewcm6jGdA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "RAG投毒-知识库里的文档就是最持久的后门",
+        "url": "https://mp.weixin.qq.com/s/1XGFd2XkFL3JXLrmCPZ3vQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞复现 | 用友U8 Cloud MultiRepChooseAction 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/ojPRkzRlFPD_EJ5eneNoXw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第44期）",
+        "url": "https://mp.weixin.qq.com/s/jcXduj8iNs6iZ3BusDiF-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "渗透 Agent 单机工作台 -- redagentstrike（11月10日更新）",
+        "url": "https://mp.weixin.qq.com/s/LgTnJxXAic0AZmb3yql0kw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "赛博安全狗：微软Windows DHCP客户端双重释放漏洞CVE-2026-96115可远程攻击 (11.11)",
+        "url": "https://mp.weixin.qq.com/s/5tq4wyp8apdJ6o6fObOYrA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、43个紧急漏洞",
+        "url": "https://mp.weixin.qq.com/s/1ST4x2CB5lsISa8QrXBJVA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "OpenSSL 安全公告详述 QUIC、AES-GCM-SIV 和 CMS 中的五个漏洞",
+        "url": "https://mp.weixin.qq.com/s/vaHRb3hQJp08_M2PajvCjw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "【HVV 实战】校园一卡通云平台渗透：从未授权文件上传到 376 个 API 端点泄露",
+        "url": "https://mp.weixin.qq.com/s/L5JuBVJWZ2yM1hN99feUgw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "11月10日漏洞：5个，3个认证绕过、1个未授权、1个信息泄露",
+        "url": "https://mp.weixin.qq.com/s/ZLZiH7kAFVS0yza01v5dEA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "盲IDOR侧信道枚举漏洞",
+        "url": "https://mp.weixin.qq.com/s/B3MgqCjnWl6tHfe8uz3rsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "130万台电视盒子出厂自带后门",
+        "url": "https://mp.weixin.qq.com/s/JwQ7fDnnyoIC2w7e5oKB7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "从黑盒到白盒：一次 .NET 后台渗透实录",
+        "url": "https://mp.weixin.qq.com/s/oko_yhNiAAhCJxPz0NpqNQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AntiFox:AI 多智能体自主渗透测试平台,从侦察到交付报告全流程自动化,附下载",
+        "url": "https://mp.weixin.qq.com/s/SXlq8U4lztITf3RZFCxnwg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞通告|Apache OFBiz服务器端模板注入漏洞(CVE-2026-85627)",
+        "url": "https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "渗透测试-如何高效率挖掘漏洞",
+        "url": "https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
     }
 ]
