@@ -334,5 +334,119 @@
         "url": "https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw",
         "source": "Doonsec",
         "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [PHP2Shell应急：从漏洞情报到业务影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488215&idx=1&sn=6243ea28ce47103aee4579b7e6fb3dea",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [黑客通过默认凭据利用 ForgeRock RCE，远程解锁联网汽车",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527714&idx=1&sn=9517d673fdd2b65fcf53df808063a273",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [谷歌修复今年第八个已遭利用的 0day 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527714&idx=2&sn=d6244344c53e751c0c2681cebcab47bb",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [【在野利用】Google Chrome XML 释放后重用漏洞(CVE-2026-125350)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508072&idx=1&sn=485710801ed0fb7ae08a2b9f3e4612c8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [【安全圈】SSHole与GPUStack遭在野利用！CISA急列四漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079821&idx=2&sn=38d64841709704b9cc08a0e06921010e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [出厂即失陷：XCPE 如何把 130 万台 Android 设备变成“可出租”的后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521313&idx=1&sn=1bd52ac3229fa18e781a8aac3c4553ab",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [【漏洞通告】Chrome XML 释放重用远程代码执行漏洞(CVE-2026-125350)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526403&idx=1&sn=74b3e772b8c4fb242da449db13683206",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [【漏洞通告】Apache OFBiz 未授权远程代码执行漏洞(CVE-2026-83542)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526403&idx=2&sn=3acaf2adbb668a9c02399846ccb94c23",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [SDC2026议题回顾 | ZeroMDASH：领域自适应的Agent-Native 通用漏洞挖掘工程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624076&idx=1&sn=d81e5d15a36449e5a558cd171bb96c1e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "] [Google紧急修复Chrome高危零日漏洞：CVE-2026-125350已遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624076&idx=3&sn=36e6b97c2778f1f3d18d79cc1335d49f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "Anthropic 发布 Claude Mythos 5.2：漏洞发现能力提升，沙箱逃逸行为显著减少",
+        "url": "https://mp.weixin.qq.com/s/uDj6Lo3oyHvqNz3cbF6nDA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "一文读懂系统漏洞的入侵与防御",
+        "url": "https://mp.weixin.qq.com/s/wBAKfYJTrZmhvlt2U3e-Hg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "记一次nacos3.x的搭建和漏洞复现过程(超详细)",
+        "url": "https://mp.weixin.qq.com/s/FJHz17SXsNxyCctSu24ylQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/N4TuFG7BGyMXB31OUDQN1g",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/UDi_QHgb4FGhR0-Ohskewg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "chrome最新版，2026-11-11，0day，附检测脚本",
+        "url": "https://mp.weixin.qq.com/s/bnarhoqJAVKQl5_tHPcvHw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "范德堡大学疑遭勒索软件攻击 百万级敏感信息或面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/oLdQEUA-k_-KuVVCAv3yRQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/mB2t2i6xuBJk9W5-bg-TCA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台",
+        "url": "https://mp.weixin.qq.com/s/xa34Z-2bpsbyUCTI34KgzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
     }
 ]
