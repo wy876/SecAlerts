@@ -1,0 +1,68 @@
+[
+    {
+        "title": "【倒计时预警】谷安双11宠粉活动最后一天！考证囤课最后冲刺！",
+        "url": "https://mp.weixin.qq.com/s/epESMBi5jTrfv-2XEb_2PA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "CVE | CVE-2026-98260漏洞复现",
+        "url": "https://mp.weixin.qq.com/s/48DeL0zOFGQ-QD-2smMs9g",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞预警 | Windows画图板越界读取漏洞",
+        "url": "https://mp.weixin.qq.com/s/0pnfYVlJireNEUS0NRM0zQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "漏洞预警 | 金和OA SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "CTF 线下赛用的离线 PHP 速查手册 | 11,930 条条目、196 条实战技巧、990 个payload、PHP 官方中文手册索引",
+        "url": "https://mp.weixin.qq.com/s/QShycf7i49319e9wDQs03w",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "APT29利用N DAY漏洞对 iOS 和 Android 设备发起零点击攻击",
+        "url": "https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "SonicWall警告称，已停止支持的GMS软件存在未修复的漏洞",
+        "url": "https://mp.weixin.qq.com/s/NxiXOes2OTwOZIIRzJ8-iA",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "安全工具丨一个集资产收集、攻击面评估、漏洞验证与 AI 渗透对话于一体的安全测试平台",
+        "url": "https://mp.weixin.qq.com/s/kXLsU-NUa_2bVUx0_gT4JQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "SonicWall 警告：SSL-VPN MFA 绕过漏洞已被攻击者利用",
+        "url": "https://mp.weixin.qq.com/s/h25jk3L33FAuD8v1a524XQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "POC",
+        "url": "https://mp.weixin.qq.com/s/RqXtHhfxexJRyFTw34Oe-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    },
+    {
+        "title": "CSRF的2026年真相：你防的是“跨站请求”，攻击者利用的是“你允许状态变更的那个方法”",
+        "url": "https://mp.weixin.qq.com/s/Kj-n66TK4I5xREfaAd_txg",
+        "source": "Doonsec",
+        "date_added": "2026-11-11"
+    }
+]
