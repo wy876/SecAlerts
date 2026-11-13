@@ -172,5 +172,161 @@
         "url": "https://mp.weixin.qq.com/s/XjUdT6e7cnR3a68R6nI-xw",
         "source": "Doonsec",
         "date_added": "2026-11-13"
+    },
+    {
+        "title": "已复现！Apachexa0HTTPDxa0mod_http2xa0条件竞争远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/MNLLUui1lNS1gyOeFAWJ6g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "已复现！Windows 音频服务本地提权漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/huytmSXl4j4nb18NEtlfUA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 uploadMultipleFile 任意文件上传漏洞",
+        "url": "https://mp.weixin.qq.com/s/xSx4pXcJZGKHfe7hO2wclQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "微软 Defender 0day：80% Windows 可提权到 SYSTEM、还能关杀软",
+        "url": "https://mp.weixin.qq.com/s/pgtTWL_H0NnIRqS6WOCKKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "大模型漏洞类别提示词相关漏洞案例讲解（上）",
+        "url": "https://mp.weixin.qq.com/s/k_mANlSt4DXhH8Fk-DAJqQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【漏洞通告】Apache HTTP Server远程代码执行漏洞（CVE-2026-119618）",
+        "url": "https://mp.weixin.qq.com/s/uQ6wvy65uG6B1j8RXQcvhQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "BreachWeave渗透智能体集成外置记忆Taric应用实践",
+        "url": "https://mp.weixin.qq.com/s/J9EgRGWkAhvG6Qbc38x_3Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【漏洞预警】PostgreSQL pg_restore 代码执行漏洞（CVE-2026-116314）",
+        "url": "https://mp.weixin.qq.com/s/omDPoNuj07D0XNTTlNroyw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "CVE-2026-40281漏洞复现记录",
+        "url": "https://mp.weixin.qq.com/s/f6XwKCljylzQ-ldbCY2xMQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "CVE-2026-118383：两个 ping 埋雷，MongoDB 主节点切换时的 UAF",
+        "url": "https://mp.weixin.qq.com/s/c2SF05-GrkgmIPh_ubKQSg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【风险提示-已复现】天融信关于Apache HTTP Server远程代码执行漏洞CVE-2026-119618的风险提示",
+        "url": "https://mp.weixin.qq.com/s/D2ePJC1ObPNvTwVz27ITLg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【漏洞通告】Apache HTTP Server mod_http2 竞态条件远程代码执行漏洞(CVE-2026-119618)",
+        "url": "https://mp.weixin.qq.com/s/dqVCHcHLLQ1X8j1iCXgtOg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "一款全自动渗透实战利器！",
+        "url": "https://mp.weixin.qq.com/s/-E6GS2LRv5H8stvTVcVfSw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "ASP.NET / IIS 内存马如何排查？",
+        "url": "https://mp.weixin.qq.com/s/M35l1FsTbC-JRm4zqEly4g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "从应急入手到漏洞挖掘的真实案例",
+        "url": "https://mp.weixin.qq.com/s/MivuRbU_REX90YqY_v9vtQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "AI只改动7个神经元，就能埋下隐藏后门？微软研究揭示新风险",
+        "url": "https://mp.weixin.qq.com/s/R1o7biyEDYxxaNeSCcXmXQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "某学院联奕系统漏洞挖掘",
+        "url": "https://mp.weixin.qq.com/s/fkJYNb7uCZdFG8zDjK7fag",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "周生生：发现可能存在客户和员工信息泄露",
+        "url": "https://mp.weixin.qq.com/s/IFvm0omqrn7g3PaIOAjAug",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "当人人都在用 AI 挖洞，渗透测试的未来在哪？",
+        "url": "https://mp.weixin.qq.com/s/6bAtI84Mn6y82BpFkKlw5A",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "喜报｜又添国家级资质！金盾检测获评国家人工智能安全漏洞库（AIVD）三级技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/QQhLNDssF1AD-D7EeoRdQQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第十一天】【高危】注册覆盖和实例删除",
+        "url": "https://mp.weixin.qq.com/s/z3h8G0kwaNJXxJp6ctDbNA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "11月12日漏洞：585条，6条不用登录",
+        "url": "https://mp.weixin.qq.com/s/-wcUhm3rCyDRARsI2G6Sqw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "安全预警：Chrome 0day 漏洞来袭，附本地版本检测脚本，快速自查风险",
+        "url": "https://mp.weixin.qq.com/s/zkcFxQrkK7KE44aBqSUS2g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "漏洞通告：SSHole！OpenSSH 认证绕过 CVE-2026-123158，Alpine 容器风险极高",
+        "url": "https://mp.weixin.qq.com/s/__z8rW-bC5pukspq1EhbZw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "高危 PHP 漏洞 PHP2Shell 来袭｜php2shell-scanner 自查工具使用指南",
+        "url": "https://mp.weixin.qq.com/s/TEe0Hm8_VeP5TmGgnVfJuQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "周生生集团系统疑遭未授权入侵",
+        "url": "https://mp.weixin.qq.com/s/AjAESybvYJtl2VnhN4kV-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
     }
 ]
