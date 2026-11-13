@@ -1,0 +1,176 @@
+[
+    {
+        "title": "] [已复现！7-Zip LZX 解码器远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509041&idx=1&sn=d6e387eacb4bd1900b1f3c36100a3b3f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [N-able 紧急发布多个 0day 漏洞的热修复方案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527734&idx=1&sn=27ab8cc40b2cd3f52cbe7dfdbb8f4ed5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [Zoom Workplace 严重漏洞可导致未认证远程提权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527734&idx=2&sn=9b895e06baddc340204fcf6cc92a1a95",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [360首批签署《网络产品安全漏洞收集平台自律公约》，共筑漏洞治理良性生态",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505473&idx=1&sn=d955642e46ede7ce64ff3d79e0260467",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [安全厂商主动关闭服务：30多个零日漏洞让远程管理平台紧急下线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544494&idx=1&sn=5eadbee5334b106f872d9fc78a57d9b7",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [【安全圈】Apache高危RCE来袭！HTTP/2并发漏洞评分9.8",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079845&idx=2&sn=300a03bce4c517af56be2417bf250b8c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "] [【已复现】7-Zip LZX 解码器堆越界写入漏洞(CVE-2026-125742)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508100&idx=1&sn=6f81d45d46dee8d85c4f8d85dcb07891",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "信息安全漏洞周报【第099期】",
+        "url": "https://mp.weixin.qq.com/s/IjStZf-RRBz2gsB7tEpnAw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【高危漏洞预警】Apache HTTP Server mod_http2竞态条件远程代码执行漏洞（CVE-2026-119618）",
+        "url": "https://mp.weixin.qq.com/s/5RN5rLW754qvCg6e4W1fqg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "供应链安全威胁档案周报——W46",
+        "url": "https://mp.weixin.qq.com/s/WAJpWHqtzcDhCOFBXqcSEA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "一周安全事件回顾：AI漏洞攻防初现积极信号，智能体失控风险升级",
+        "url": "https://mp.weixin.qq.com/s/tH-PEm4xdIstMJT22tRBJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "CISA确认Outlook 0Day遭在野利用，可泄露用户认证数据",
+        "url": "https://mp.weixin.qq.com/s/sVMLW_zA7MKrmTyfdMKBqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "派拓网络披露PAN-OS RCE漏洞，攻击者可获root权限执行任意代码",
+        "url": "https://mp.weixin.qq.com/s/yphWAA_S2LPnAuIbtq4zyQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "Palo Alto 修复PAN-OS RCE 漏洞，可导致任意代码执行",
+        "url": "https://mp.weixin.qq.com/s/YCxoSnJ92saPbpbgC8QKNA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "首批 | 绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/XihW0bJej865p0Wyzm4dbg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "信通院可信AI供应链安全认证 | 悬镜灵脉CodeAI 如何深挖复杂业务逻辑漏洞？",
+        "url": "https://mp.weixin.qq.com/s/YBh0McCwjJTcrwSkz7h0uA",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "【视频】Anthropic与Google联手发现Apache HTTP服务器重大RCE漏洞",
+        "url": "https://mp.weixin.qq.com/s/nor9X_F80l52SEEMFGOJ3g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "Telegram 聊天 Widget 引擎 RCE",
+        "url": "https://mp.weixin.qq.com/s/X5iuB8DzRpyai0t4G5WkrQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "赛博安全狗：XWEB EVO 5.6.2之前版本存在严重命令注入漏洞CVE-2026-124010 (11.13)",
+        "url": "https://mp.weixin.qq.com/s/laLM84OD1hHLUeKZ5IV7Tg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "CNNVD | 关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/Z995MypoB36r9nrZdpT0Nw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "AI 挖到的漏洞，别死在报告上：SRC 报告这样写",
+        "url": "https://mp.weixin.qq.com/s/UrNyfpjCMHEoVX861PsI_g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "CNNVD关于微软多个安全漏洞的通报",
+        "url": "https://mp.weixin.qq.com/s/ca6K74vk1ELkj-4Q9YIHfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "Apache曝重磅级RCE，不验证直接拿Shell？一文看懂如何抢修",
+        "url": "https://mp.weixin.qq.com/s/3h0YED3nHATTSee0RhjI7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "跨越信任边界xa0·xa0云渗透测试如何开展",
+        "url": "https://mp.weixin.qq.com/s/oSpulv-_HB0gPe6N2NraEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "Fortinet2Shell漏洞允许黑客通过恶意网站在FortiClient系统上执行代码",
+        "url": "https://mp.weixin.qq.com/s/bp545HbCR7pdq1_LcCdd8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "AI 安全再思：Muse AI 智能体的能力与漏洞",
+        "url": "https://mp.weixin.qq.com/s/i5CH-OAENNrsqyYXrthi5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "朝鲜黑客在新一轮网络间谍活动中瞄准无人机技术和软件供应链",
+        "url": "https://mp.weixin.qq.com/s/y1jM-JVq9qsl63i_edUv5A",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "围标串标AI侦查，从数据碰撞到智能预警的技术穿透",
+        "url": "https://mp.weixin.qq.com/s/S6nS6N_l-UZSzFnQS4L12A",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    },
+    {
+        "title": "秦安：非常罕见！菲律宾总统和外交部“双连击”！直接警告菲官员涉华言论，重点是菲防长特奥多罗，越权越位，不知道自己该干什么？",
+        "url": "https://mp.weixin.qq.com/s/XjUdT6e7cnR3a68R6nI-xw",
+        "source": "Doonsec",
+        "date_added": "2026-11-13"
+    }
+]
