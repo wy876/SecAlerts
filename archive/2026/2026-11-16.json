@@ -244,5 +244,23 @@
         "url": "https://mp.weixin.qq.com/s/gfjUKyaRx_N42sx4fS65LQ",
         "source": "Doonsec",
         "date_added": "2026-11-16"
+    },
+    {
+        "title": "] [AI渗透：它做对了什么，又在哪里把我带偏？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488248&idx=1&sn=1a763e086ee1b048aa8f60420efe301d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "] [AI 漏洞利用能力越过拐点，安全防护产品即将迎来一波强劲需求",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485230&idx=1&sn=04124a4f5c3ae8f5b4cc51958281f9c0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "用友GRP-U8Cloud getSjjk 接口SQL注入漏洞分析复现",
+        "url": "https://mrxn.net/jswz/yongyou-GRP-U8Cloud-getSjjk-sqli.html",
+        "source": "MRXN",
+        "date_added": "2026-11-16"
     }
 ]
