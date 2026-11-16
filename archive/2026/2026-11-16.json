@@ -1,0 +1,248 @@
+[
+    {
+        "title": "深耕AI攻防，支撑国家级漏洞治理｜中孚信息入选AIVD技术支撑单位",
+        "url": "https://mp.weixin.qq.com/s/r6qSpmrWSAE5NsM4zcD4LA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "CVE-2026-109445（CVSS 9.8）：PLANET GS-5220-8P2T2S V3 基于栈的缓冲区溢出漏洞已修复",
+        "url": "https://mp.weixin.qq.com/s/OvC9xLokCjELT8OEffw0uA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "Cursor 确认安全漏洞导致恶意 Claude Code 扩展程序出现",
+        "url": "https://mp.weixin.qq.com/s/rxlsdL_lWGa13dxwPCuQ4w",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Check Point Quantum Security Gateway访问控制问题漏洞」等2个漏洞",
+        "url": "https://mp.weixin.qq.com/s/HGs5J1qBVMHRyTTDmsT5yw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "OpenSSH sshd最小认证延迟绕过漏洞复现(CVE-2026-60001)",
+        "url": "https://mp.weixin.qq.com/s/5DW4zuY-GoezwKNsJDSDYA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "8.6k星的AI渗透测试工作台，Go编写、100+工具配方、一条命令部署",
+        "url": "https://mp.weixin.qq.com/s/qLnixvhgzl7ayKpy8bBL5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "一款全自动渗透实战利器！",
+        "url": "https://mp.weixin.qq.com/s/JSuaMpNLnV3uc0dmtD6Zow",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "PivotHub · 链透中枢 — 多层内网渗透辅助工具",
+        "url": "https://mp.weixin.qq.com/s/2S7-SibBzT-6ZJnpNGJvPg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "SQL注入黑盒实战：一个单引号挖出通用漏洞",
+        "url": "https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "空白页面渗透思路、越权读取万条资料、腾讯 COS 临时密钥泄露利用，4 万对象可上传覆盖",
+        "url": "https://mp.weixin.qq.com/s/0IIG0fdG0hVZrnvZ9mmz6Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "漏洞预警 | CraftCMS SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "漏洞预警 | JeecgBoot SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "ModSecurity WAF漏洞允许攻击者使用精心构造的HTTP请求绕过文件上传限制",
+        "url": "https://mp.weixin.qq.com/s/n623jn6J6A3t4gdK4mXLww",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "AI渗透：它做对了什么，又在哪里把我带偏？",
+        "url": "https://mp.weixin.qq.com/s/mhAuSTcMmBhn5d0MglzUsw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "二进制漏洞",
+        "url": "https://mp.weixin.qq.com/s/_DQRmiv6P83vdawnCz9jeQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "OpenAI放出安全大招：AI自己找漏洞、写补丁，但最后一步依然交给人",
+        "url": "https://mp.weixin.qq.com/s/Fv12MMwE_y4StkTyF3SRZg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "水利信息化平台 index.do SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/bnF9gWvwNFAWgA2FaxG6dw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "CVE-2026-129353：一台早已停产的 D-Link 路由器，一个 2100 字节的 id 参数，和一条通往 root 的栈溢出",
+        "url": "https://mp.weixin.qq.com/s/XOubK1C0cKRxON5dp2RoRg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "内网域渗透：密码喷洒技术",
+        "url": "https://mp.weixin.qq.com/s/LQfCEtj4HUogmO_B68gSJg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "CVE-2026-117551：一个 GIF 文件头，一段 PHP 短标签，Joomla 下载管理器把上传按钮变成了 root shell",
+        "url": "https://mp.weixin.qq.com/s/uaQ7eHueGHgwKlddnuPmyw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "11月15日漏洞汇总：12 个在野利用、6 个已过修复期限",
+        "url": "https://mp.weixin.qq.com/s/Kuy3BvGH89fyOx-KVtnmhA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "Nuclei：YAML 模板与自定义 POC 编写实战",
+        "url": "https://mp.weixin.qq.com/s/Sl8hOtDVqj2zE7F_tV-zAw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "ELEX HelpDesk 前台 RCE 代码分析：工单表单里躺了六年的 PHP 反序列化",
+        "url": "https://mp.weixin.qq.com/s/XoTqbl1sNJeKgjT3e6YKKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "Cursor遭遇供应链投毒，恶意Claude Code扩展波及5000名用户",
+        "url": "https://mp.weixin.qq.com/s/BpHUFepq1BJK6_BloqGwYQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "黑客排行榜刷票不算漏洞望知",
+        "url": "https://mp.weixin.qq.com/s/h_yTi8lXZ80acgk3GC5LAQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "OpenSSH sshd authorized_keys restrict关键字绕过漏洞复现(CVE-2026-73283)",
+        "url": "https://mp.weixin.qq.com/s/wyfL3VMt316KaFiH-4lsUw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "Check Point Gaia OS 本地提权漏洞，已在野利用，CISA 纳入 KEV 清单",
+        "url": "https://mp.weixin.qq.com/s/8HombD42eTGhS6LhDghx6w",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "伪造身份应聘远程岗位！Famous Chollima“笔记本农场”渗透70家企业，捞取300万美元经费",
+        "url": "https://mp.weixin.qq.com/s/R4aC-wE4GP1KWZvnlkFC8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "今日速递｜看雪 UROV-Z、Liter8 钥匙串、Cursor 扩展被植后门",
+        "url": "https://mp.weixin.qq.com/s/9ORV6SvTlCibIqAEWznCfg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "一个仓库吞下全网渗透测试 POC：2300+ 漏洞武器、脚本与实战手册全量开源，一键拉满你的攻防弹药库",
+        "url": "https://mp.weixin.qq.com/s/GW6OhOaLRlV4zVu6cUcFQA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "漏洞复现 | 用友U8 Cloud AddTaskDataRightAction 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/lFYuNCxdVsjzWtqnH9Wq2Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "渗透逆向利器 | 一款基于 MCP 协议的本地逆向分析工具",
+        "url": "https://mp.weixin.qq.com/s/kW8nIZLMBoxtA_7vAxIy-Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "11月14日漏洞：277条，未授权重装、反序列化与认证绕过",
+        "url": "https://mp.weixin.qq.com/s/XbeOBqLzmh7kBK90xL5YHQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "Windows CLFS提权PoC公开：CVE-2023-28252已修复三年，仍在野利用",
+        "url": "https://mp.weixin.qq.com/s/H9xoBFBSZzmPXqbA038b5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "AI 辅助代码审计挖 0day：用 LLM 读完 10 万行代码的方法",
+        "url": "https://mp.weixin.qq.com/s/15j1PXkxcfW1nD2uG1PEKQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "JavaScript 敏感信息扫描器 - JsOwl",
+        "url": "https://mp.weixin.qq.com/s/UtTJ8aw_mcc7AOSsIM5_OA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "高危预警：UnrealIRCd 漏洞遭在野利用，可实现服务器级命令注入，已录入 CISA KEV 目录",
+        "url": "https://mp.weixin.qq.com/s/zuxeae4AQaARRXEHQ4FVJA",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "错误信息泄露枚举值导致权限提升漏洞",
+        "url": "https://mp.weixin.qq.com/s/_tTtfh2TXRucxy5Su5OSgg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "渗透测试和等保测评是什么关系，先做哪个？",
+        "url": "https://mp.weixin.qq.com/s/HhRSIyrOpIkskmutwg1sBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "黑客利用新的 Lindnor 后门攻击微软 SQL 服务器，发动 Anubis 勒索软件攻击",
+        "url": "https://mp.weixin.qq.com/s/o0CJVgBkP4bXmsFmnkavRw",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    },
+    {
+        "title": "谷歌Chrome浏览器修复了83个安全漏洞，其中包括5个严重的释放后使用漏洞",
+        "url": "https://mp.weixin.qq.com/s/gfjUKyaRx_N42sx4fS65LQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-16"
+    }
+]
