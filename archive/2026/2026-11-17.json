@@ -310,5 +310,167 @@
         "url": "https://mp.weixin.qq.com/s/zFtrUBF2Y88Y7nWYq6xoTQ",
         "source": "Doonsec",
         "date_added": "2026-11-17"
+    },
+    {
+        "title": "Log4j2-一个用户名炸穿半个互联网",
+        "url": "https://mp.weixin.qq.com/s/HAu3ddkoFA_iizocK0XLwQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【已复现】CVE-2026-90436 Confluence 远程 API SOAP 组件 Apache Axis 命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/c1e02Poy3baobXZj095TsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "一条 POST 拿 shell：AI 网关 LiteLLM 未授权 RCE，10 分",
+        "url": "https://mp.weixin.qq.com/s/OT2IHKmKwzRwIDljzBgmiA",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "自主 AI 渗透测试平台 - DarkMoon",
+        "url": "https://mp.weixin.qq.com/s/sN5x7gTy0NlgOWRWEh5GGw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "跨国半导体设计公司AMD遭数据泄露，新兴勒索组织公开57GB敏感信息",
+        "url": "https://mp.weixin.qq.com/s/L80nHRDhTkxeG9pJpANVFQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【漏洞通告】Apache Axis 1.x远程代码执行漏洞（CVE-2026-90436）",
+        "url": "https://mp.weixin.qq.com/s/fdI5fN87-Gn8TwN6C6z_WA",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【漏洞通告】LibreOffice远程代码执行漏洞（CVE-2026-104007/CVE-2026-104692）",
+        "url": "https://mp.weixin.qq.com/s/Z5EEO3fuYPlFCY1mouoYOg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【高危漏洞预警】LibreOffice电子表格打开即RCE漏洞链（CVE-2026-104692、CVE-2026-104007）",
+        "url": "https://mp.weixin.qq.com/s/XRNW7JBuRSmwtuPZCN_6xQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "[工具推荐]AI 自主渗透测试平台 · 从一句话目标到可交付漏洞报告-破军 Pojun",
+        "url": "https://mp.weixin.qq.com/s/1JEoaHd0POzvDlyR9eD-Yw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "Dotnet - XmlSerializer 反序列化",
+        "url": "https://mp.weixin.qq.com/s/TLNG1Bx9z_WC_NnEpXUeFg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【免费领】Android系统漏洞实战权威教程",
+        "url": "https://mp.weixin.qq.com/s/_kNsmPCLE5hZrgq7sY06eA",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "凭据的保质期：敏感信息泄露挖掘的三代战场",
+        "url": "https://mp.weixin.qq.com/s/9Hhx5Hrf-MTescCMXvyVfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【漏洞通告】LibreOffice任意代码执行漏洞（CVE-2026-104007、CVE-2026-104692)",
+        "url": "https://mp.weixin.qq.com/s/7pzEs3HGvb6pYogkZdOvqg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞",
+        "url": "https://mp.weixin.qq.com/s/C4dqFPPHU16am7hDIpxaJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【复现】Apache HTTP Server mod_http2竞态条件堆破坏漏洞（CVE-2026-119618）",
+        "url": "https://mp.weixin.qq.com/s/PLwfJidFRUTGciRMA7JGyg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "Web常见漏洞原理与利用总结（CSRF、SSRF、XXE）",
+        "url": "https://mp.weixin.qq.com/s/GZf1Q0umj39GvRzQHmKdkw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "当黑客也用上AI：幻影WAF如何应对ARTEX AI渗透机器人",
+        "url": "https://mp.weixin.qq.com/s/ecY-V0iRC9NyGdJghriy9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【已复现】LibreOffice 打开恶意文档即可触发远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/V4xp3FqyBpRakHmB9t46Qg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【吃瓜】麦当劳APP疑被AI渗透攻击",
+        "url": "https://mp.weixin.qq.com/s/e2LGsJW4Vyfiu00zGg-Jsg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "谷歌发出警告：黑客正在使用自主AI代理，无需人工干预即可挖掘并利用漏洞",
+        "url": "https://mp.weixin.qq.com/s/SGvrsgCNrR_Ja-tr_tpsSw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第十三天】【高危】发了的能改回来，没审的能改上去",
+        "url": "https://mp.weixin.qq.com/s/HU2w8pXviSqb-drdXNwM6Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "暗网博弈：APT情报技术体系 - 连载 第11章 内存层对抗：进程注入、Direct Syscalls与ETW Bypass的底层原理",
+        "url": "https://mp.weixin.qq.com/s/tN765hCbX7cmb4eqpuJN7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "CVE-2026-21589：一个 :: 绕过Tomcat，Atlassian八款数据中心产品暴露在未认证文件读取之下",
+        "url": "https://mp.weixin.qq.com/s/FaxdZufa4pRN6uJRz6WveA",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞，可轻松绕过任意杀软防御",
+        "url": "https://mp.weixin.qq.com/s/1BaoWYFQ3Dure_aJMzLYKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "我给 ZCode 交了个命令执行，SRC 审核说这是\\\"预期行为\\\"",
+        "url": "https://mp.weixin.qq.com/s/Mz0-e7Whb8FpZCZRIryIbA",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "从ldap枚举到rpc枚举，从kerberos匿名绑定爆破到bloodhound域渗透，靶机练习之forest",
+        "url": "https://mp.weixin.qq.com/s/ZQoGqI6Cm6T1B7By5PaDiw",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
+    },
+    {
+        "title": "CVE-2026-97798 提权工具",
+        "url": "https://mp.weixin.qq.com/s/6mEGubYitQnOsIWo7g-Z3Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-17"
     }
 ]
