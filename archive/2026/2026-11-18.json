@@ -1,0 +1,278 @@
+[
+    {
+        "title": "突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器",
+        "url": "https://mp.weixin.qq.com/s/Y83tE847jVsWqCWlwvvGwA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "[工具推荐]AI 自主渗透测试平台 · 从一句话目标到可交付漏洞报告-破军 Pojun",
+        "url": "https://mp.weixin.qq.com/s/zJB1Zup9THPAkRqog41dBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "OpenSSH/musl密码认证绕过漏洞复现（CVE-2026-123158）",
+        "url": "https://mp.weixin.qq.com/s/1Iw3FaQHo0pCBe9hcxr4pw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/ol7lzuFPOABh0eIqOZKwpw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "文件上传的 22 种绕过手法：一个\\\"理解不一致\\\"就够破门",
+        "url": "https://mp.weixin.qq.com/s/uptqyVqkQxgnHSK0B04Jpg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java4Shell深度解析：64个\\\"A\\\"就能RCE？Java史上最严重的内存破坏漏洞全揭秘",
+        "url": "https://mp.weixin.qq.com/s/02DVX7DxSb3-zx-nVpJinA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "从夺冠框架到被投毒后门：ARTEX 风波背后，开源安全工具正在经历什么？",
+        "url": "https://mp.weixin.qq.com/s/YrgRtk6-rdLI2dFPn3snEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "OpenJDK Java4Shell Base64解码远程代码执行漏洞（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/0O0MlOw57pvbWWqAZt3W2w",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "AI 生成漏洞补丁存在缺陷，反向成为黑客挖掘漏洞的攻击参考",
+        "url": "https://mp.weixin.qq.com/s/qzuRRjDQlc_DJGq0dor0rQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "文件上传&amp;Windows末尾（空格【 】）绕过",
+        "url": "https://mp.weixin.qq.com/s/lwC7_ibDnxeoCUlpXf1pmw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【已复现】漏洞通告 | （Java4Shell）OpenJDK Base64解码器远程代码执行漏洞(CVE-2026-114938)",
+        "url": "https://mp.weixin.qq.com/s/46O9U7J3d9SZqL3gqiOi8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【已复现】漏洞通告 | LibreOffice 远程代码执行漏洞(CVE-2026-104007、CVE-2026-104962)",
+        "url": "https://mp.weixin.qq.com/s/4q_r3_nBsW56Ru6ezInNgA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "奇安信渗透测试工程师校招，一面面经(网络安全)",
+        "url": "https://mp.weixin.qq.com/s/KeXHObOvCP_3laWoHMUJmA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器",
+        "url": "https://mp.weixin.qq.com/s/xlGbjq6Glf-mUVpF5Zzj7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "围绕 Linux MPTCP 漏洞 CVE-2026-98432，介绍 MPTCP 在 iOS 等服务中的使用特征与检测方法",
+        "url": "https://mp.weixin.qq.com/s/mX40OB4DJSlnwj7G2DuB3g",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Oracle 今日将修补 11 个 Java 漏洞，以修复关键 OpenJDK RCE (CVE-2026-114938) 漏洞被曝光",
+        "url": "https://mp.weixin.qq.com/s/UGay1NgqMErwWztAbmu4Fg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "新的 GitDoor 和 GraphDoor 后门将 GitHub 和 SharePoint 变成隐蔽 C2 通道",
+        "url": "https://mp.weixin.qq.com/s/d67gQQVA6ftU0sMXhtHrAg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "已复现！Java4Shell OpenJDKxa0Base64 解码远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/rrPyVGRNt_ie6hLcm7UECw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Oracle 2026 年 11 月更新修复 655 个漏洞，包括可导致接管的 CVE-2026-91569",
+        "url": "https://mp.weixin.qq.com/s/4tGua90nL71-bvWOjbhYmg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "SSTI-昵称里输入7乘7服务器回了49",
+        "url": "https://mp.weixin.qq.com/s/wGhU4At_-DUJnstbTelgPw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【mc工具利用】云安全Minio漏洞，CVE-2023-28432漏洞利用",
+        "url": "https://mp.weixin.qq.com/s/U-XonZi_GfFMT9DcifuxNg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "第四届数信杯决赛渗透(部分)",
+        "url": "https://mp.weixin.qq.com/s/uaI_9pTUJuMJYQFKTKTPxA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "新固件才把 root 交出去：拆 Enphase 光伏网关认证注入",
+        "url": "https://mp.weixin.qq.com/s/-C0IwEqLgy3T6ltQAWq-nw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "一款自动化资产侦察与漏洞监控平台",
+        "url": "https://mp.weixin.qq.com/s/W3nNnJngianP8oojZOUigg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "漏洞通告|Microsoft Windows Error Reporting参数注入权限提升漏洞(CVE-2026-97798)",
+        "url": "https://mp.weixin.qq.com/s/dQK_AUSsu2n7iIxJakRPzw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【漏洞通告】OpenJDKxa0Java4Shellxa0远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/PHqI4XIMVNfbVBPWsCzkGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【高危漏洞预警】OpenJDK \\\"Java4Shell\\\" 内存破坏 RCE 漏洞（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/GB8nt8_quSnzM3XFjdI-lA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Apache HTTP 服务器修复严重远程代码执行漏洞，攻击者可利用该漏洞执行远程代码",
+        "url": "https://mp.weixin.qq.com/s/veb-p9bRfEMBGw3tuhmxww",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "冰蝎 WebShell 流量怎么识别？使用 Wireshark 进行加密流量研判",
+        "url": "https://mp.weixin.qq.com/s/fepk4h8ieTeOzbeUKr0VkQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "“ShadowCloud行动”：基于云服务的后门，针对亚洲和非洲的政府网络。第一部分",
+        "url": "https://mp.weixin.qq.com/s/YqQ1jk8wjdqvkI2og10fBw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "“ShadowCloud行动”：基于云服务的后门，针对亚洲和非洲的政府网络。第二部分",
+        "url": "https://mp.weixin.qq.com/s/JxsworMKvrCoL95ixFizSA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "漏洞预警 | Apache Ofbiz远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/0fX4vyFtqadWmX0xpVSoWQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "漏洞预警 | Next.js远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/DwgTvBTzsmseGN9GFnvVKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "干渗透需要会逆向吗？平常网上提到的“JS逆向”到底是干啥？我们从中又能得到什么信息？",
+        "url": "https://mp.weixin.qq.com/s/QvC6bHLjxhZgkZ-fDSKzpw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【热点安全风险】11月18日｜渗透测试框架 ARTEX 的 AI 代理窃取 12 款 AI 平台的模型凭据，窃得额度再用于攻击",
+        "url": "https://mp.weixin.qq.com/s/97tIhLHPC72JsCDAG523Mw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【安全预警】（Java4Shell）OpenJDK Base64 解码器远程代码执行漏洞 CVE-2026-114938",
+        "url": "https://mp.weixin.qq.com/s/WSGtwqXovdUxGt1q402k-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器",
+        "url": "https://mp.weixin.qq.com/s/ggTQzK387w8g5W5Hs3_48A",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "谁说后渗透框架就得长命令行：NukeRat 把武器库装进了 Electron",
+        "url": "https://mp.weixin.qq.com/s/c_VpS05kDJOgwhhHMfPY1A",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "链上侦探渗透中国洗钱集团，为朝鲜黑客清洗逾10亿美元资产",
+        "url": "https://mp.weixin.qq.com/s/ElwTusthaRgqxORlmBKoGQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "N-central存在严重零日漏洞，已被黑客积极利用",
+        "url": "https://mp.weixin.qq.com/s/RpSE5U1PAvaCqgfBXb2gvQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "紧急安全预警｜Java / OpenJDK 曝严重未认证远程代码执行漏洞(CVE-2026-114938)，CVSS 4.0 达 9.2",
+        "url": "https://mp.weixin.qq.com/s/y3jyEpnCBhu-30boVlNsTQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Cursor 确认安全漏洞导致出现了恶意 Claude Code 扩展程序",
+        "url": "https://mp.weixin.qq.com/s/4PSMrLKAjLqRTJFa5qAoBA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "第三方脚本供应链失守：全球178家大型品牌站点钱包地址被替换",
+        "url": "https://mp.weixin.qq.com/s/tSZMknqUKr6k_YGzgVWdMw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "新型注入手法-WhisperHijack",
+        "url": "https://mp.weixin.qq.com/s/eD8Os0aMGj2dhTzaMr3L_Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "已复现 | LibreOffice远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZLtb5fx8fRzZqmGj0i523w",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "7【JavaWebxa0审计】之模板注入漏洞（Thymeleaf）",
+        "url": "https://mp.weixin.qq.com/s/AHyaKGE2rbveo4jz28lHPg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    }
+]
