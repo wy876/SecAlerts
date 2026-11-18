@@ -274,5 +274,245 @@
         "url": "https://mp.weixin.qq.com/s/AHyaKGE2rbveo4jz28lHPg",
         "source": "Doonsec",
         "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [第三方脚本供应链失守：全球178家大型品牌站点钱包地址被替换",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189898&idx=1&sn=e8385fecc22fd5d7c7f85713874fcec8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [【已复现】LibreOffice 远程代码执行漏洞(CVE-2026-104692、CVE-2026-104007)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [重写大语言模型中不到10个神经元就能将其变成休眠后门",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486965&idx=1&sn=b47055c58c88f2225f8f1140ddfe9400",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [0day+供应链投毒：整个职场一把梭",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [【漏洞通告】Apache Axis 1.x远程代码执行漏洞（CVE-2026-90436）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [【漏洞通告】LibreOffice远程代码执行漏洞（CVE-2026-104007/CVE-2026-104692）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [CNVD漏洞周报2026年第45期",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502603&idx=1&sn=03ae4adf051661f5bd46329031af9650",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [Optimizely 供应链攻击波及全球178家组织机构",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=1&sn=7c3c4ff77b2e926f70ab7041e36d0622",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [Microsoft 365 全球宕机事件由已存在几个月的漏洞引发",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=2&sn=108761ce8c2cb657ae34fd73f55ed453",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "] [全面升级！破阵子2.0渗透测试智能体构建可控实战攻防体系",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587219&idx=1&sn=261bccd4be1d1f81156c17d227d0ec94",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "OpenJDK Base64解码器堆越界写漏洞 (CVE-2026-114938)通告【已复现】",
+        "url": "https://mp.weixin.qq.com/s/P_aDkcYI2fy1kxuik_zksw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "安全预警｜Java4Shell 高危漏洞披露，附开源检测工具及应急处置指南",
+        "url": "https://mp.weixin.qq.com/s/C3an1HBM-GL4kpOPdetsEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "会议通知丨第十六届信息安全法律大会1号通告——人机协同 认知边界 法治自强",
+        "url": "https://mp.weixin.qq.com/s/Aru3N0lTMn2RrSLqWFRqsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java4Shell 运行时漏洞影响面测绘分析与处置建议（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/apdq-i4o3Rwdgwrcj4wLXA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "GTIG首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/KOhx-psyPph29HOj9eOOEA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "一夜之间，178 家国际大牌网站被集体\\\"投毒\\\"：Optimizely 供应链攻击全解析",
+        "url": "https://mp.weixin.qq.com/s/afhqWeyM9Lh3hjCNLpTPlg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【风险提示-已复现】天融信关于OpenJDK Base64解码器远程代码执行漏洞CVE-2026-114938(Java4Shell)的风险提示",
+        "url": "https://mp.weixin.qq.com/s/53HpyONNagvP7YOuqowY2Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【漏洞通告】OpenJDK Base64解码器内存越界写入导致远程代码执行漏洞(CVE-2026-114938)",
+        "url": "https://mp.weixin.qq.com/s/s5UdARYl2GuIxV-lmioguQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java4Shell 运行时漏洞影响面测绘分析与处置建议（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/piowTWTGu6UUl8Pzsv64vA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "未认证 RCE 打穿 Jenkins等服务：Java4Shell 只需一个 Base64 串",
+        "url": "https://mp.weixin.qq.com/s/tTWl_CoEs6ROkD2GgS28mA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【已复现】OpenJDK远程代码执行漏洞（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/WKq72Z3aBZPPd2iaKPzUeQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java又爆高危漏洞，OpenJDK远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/VYxf_zSggXxIG4Al4KO9NQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java4Shell（CVE-2026-114938）OpenJDK 爆出 9.2 分远程代码执行漏洞，Jenkins、Jira 等 Java 应用面临风险",
+        "url": "https://mp.weixin.qq.com/s/3oWBPHvjN12bs78ZVmCVKA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Kali 维护与渗透 -- kali-mcp",
+        "url": "https://mp.weixin.qq.com/s/H2NdvNiIqNIoytmLmojOCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "K8s容器编排系统安全：从架构基础到漏洞利用与横向移动（上）",
+        "url": "https://mp.weixin.qq.com/s/0impnmiWyeBw7z9q4_OpzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "信息安全漏洞周报（2026年第45期）",
+        "url": "https://mp.weixin.qq.com/s/HaQa4fnIV1nMMAbj6FfeLg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Tomcat常见的漏洞汇总",
+        "url": "https://mp.weixin.qq.com/s/_z9B79zCunkP5V4NRIsh5w",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "自主渗透测试系统 -- PenAI",
+        "url": "https://mp.weixin.qq.com/s/0RaXNLEbeK1ggDuNYd73xQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【已复现】OpenJDK Java4Shell 远程代码执行漏洞（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/qafv5A_g7tSVX8y9ZOLoYg",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Telegram Android 曝出 2 条 RCE 攻击链",
+        "url": "https://mp.weixin.qq.com/s/uYp7Ml1Ayj8vMKfJCB89nw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "ARTEX---FBI点名的AI渗透框架:3小时拿下特权访问,12000个fork逼得作者删库",
+        "url": "https://mp.weixin.qq.com/s/fDncX6lljLqcqSkQrGX_bQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【漏洞通告】Java4Shell：OpenJDK Base64 解码器远程代码执行漏洞（CVE-2026-114938）",
+        "url": "https://mp.weixin.qq.com/s/C2qylZ5AHBzIwk7-nDHlJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "高危预警：CVE-2026-90436 Apache Axis 1.x 未授权 RCE，Confluence Data Center 已在野被利用",
+        "url": "https://mp.weixin.qq.com/s/mq19PQb2QYfLUXlJ4To3cA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "这款开源工具把一句话木马做成了全家桶：PHP、Java、.NET、ASP 全部通杀，文件管理、数据库操作、内存马植入、内网穿透一站配齐",
+        "url": "https://mp.weixin.qq.com/s/6wrt5jTWJZvV51sf11h0vQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【安全速报】11月18日高危漏洞紧急预警",
+        "url": "https://mp.weixin.qq.com/s/zgpPw5j363nLGtWYUscXUA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【新洞】突发Java4Shell漏洞，无需密码直接劫持服务器",
+        "url": "https://mp.weixin.qq.com/s/PGyj8doM4ylCyxTbcvv2jw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "起底Swedwatch：北欧供应链阻击网的运作底牌",
+        "url": "https://mp.weixin.qq.com/s/FXKe72uoYfNEb-ccwJeubw",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Optimizely 供应链投毒：178 家机构官网被挂马，BBC、CNN、Zoom、Salesforce、汇丰、Equifax、宜家在列",
+        "url": "https://mp.weixin.qq.com/s/DICWYaeofbNErq7ScXeWXA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "【公告】关于延期恢复授权测试及漏洞收录的通知",
+        "url": "https://mp.weixin.qq.com/s/95tvrUkZfmwBv5LePIUVtQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "漏洞预警|Java4Shell(CVE-2026-114938),可导致未认证远程代码执行,大家抓紧排查",
+        "url": "https://mp.weixin.qq.com/s/cDFHcYksCDhYYicEIYA7PA",
+        "source": "Doonsec",
+        "date_added": "2026-11-18"
     }
 ]
