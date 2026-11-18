@@ -514,5 +514,17 @@
         "url": "https://mp.weixin.qq.com/s/cDFHcYksCDhYYicEIYA7PA",
         "source": "Doonsec",
         "date_added": "2026-11-18"
+    },
+    {
+        "title": "nginx2root-由多个CVE漏洞串联的从nginx请求到宿主机root远程代码执行漏洞",
+        "url": "https://mrxn.net/jswz/nginx2root-nginx-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-11-18"
+    },
+    {
+        "title": "Java4Shell（CVE-2026-114938）：Base64 解码器里的越界写如何导致未认证 RCE漏洞",
+        "url": "https://mrxn.net/jswz/openjdk-java4shell-CVE-2026-114938-base64-rce.html",
+        "source": "MRXN",
+        "date_added": "2026-11-18"
     }
 ]
