@@ -1,0 +1,104 @@
+[
+    {
+        "title": "] [AI加速漏洞发现与利用，关基安全防护面临更高要求，如何破局?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145165&idx=1&sn=2f0aad40aa28567d4a65f57e7a3cd3b3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [已复现！nginx2root nginx http2 远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [安全漏洞太低级！头部AI催收平台敏感数据全部暴露",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=1&sn=745c3a5168a49f3896e90497c3f1a8a3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [nginx2root nginx多个远程代码执行漏洞安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [PHP 远程代码执行漏洞等多个严重高危漏洞通告（含CVE-2026-129289等）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [PHP：多个严重漏洞影响所有受支持版本",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527780&idx=1&sn=ef8015706f59031c1348599f8951ae27",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [AI挖出Nginx潜伏十余年的RCE漏洞：无需认证，数千万服务器面临风险",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【安全圈】NGINX潜伏十年漏洞曝光：无需认证直接远程执行代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=1&sn=c777c98c39cf538af3ea38c136824b5d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【安全圈】F5曝六枚严重漏洞：可打崩流量核心并导致代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【风险提示-已复现】天融信关于nginx多个远程代码执行漏洞(nginx2root)的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [一次受控接管，撕开 AI 模型供应链的信任缺口：Kokoro 事件复盘",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521438&idx=2&sn=53f9ad80331e7fdcf02f27f63fb5ebe8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [首尔特辑 | 白泽PoC 2026 参会小记",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500218&idx=1&sn=12da220a9236d67a9253fdf8893e3034",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【漏洞通告】nginx多模块内存安全漏洞链式远程代码执行漏洞(nginx2root)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【漏洞通告】Vite 开发服务器虚拟模块注入远程代码执行漏洞(SF_2026_47139)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【漏洞通告】Apache Axis SOAP Fault 反序列化远程代码执行漏洞(CVE-2026-90436)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [看视频｜PHP、Linux连爆漏洞，到处挖洞的AI如何被治住?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247489516&idx=1&sn=a7c3899442c65206392ba4deaf06ac1f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    },
+    {
+        "title": "] [【漏洞通告】Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-20"
+    }
+]
