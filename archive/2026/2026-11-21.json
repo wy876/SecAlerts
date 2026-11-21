@@ -1,0 +1,110 @@
+[
+    {
+        "title": "] [华硕提醒注意 Control Center Express 中的严重硬编码密钥漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=2&sn=e3b0eb0475a1074985f75eeb0fc8348f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [phpAfterShell：从PHP会话缺陷到代码执行",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=1&sn=f49679953c3552007ca6130152a7a334",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [VMware vCenter曝出CVSS 9.8严重零日漏洞，黑客已利用数月绕过认证",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624360&idx=3&sn=218adceed0e08c2de1c303e925c5a008",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [看不见≠不存在：拆解 GhostMap，一个藏身于两大供应链攻击背后的 eBPF Rootkit",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521462&idx=2&sn=658b0b589425488dda58a7b36d7344d8",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【安全圈】Windows锁屏曝零日漏洞：无需密码绕过屏幕锁运行程序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=3&sn=2c2d5cac849a0463046767c1a08c8fb2",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【安全圈】VMware曝9.8分零日漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=2&sn=169d2011f57187ae08f15408372fdc78",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【安全圈】群晖DSM曝9.8分严重漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=1&sn=5b3509c80b236854f9a85bd7dcd0cd3e",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [国家网络安全通报中心发布Java4Shell高危漏洞预警，境外观测到探测利用；AI 简历筛选引发对抗博弈：求职者改写 CV 绕过自动化初审 |牛览",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143335&idx=2&sn=50ebbbd65114c6ee4b6c3d51037c2d8d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【火绒安全周报】178家知名网站遭供应链攻击被投毒/香港迪士尼乐园票务系统遭入侵",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538920&idx=2&sn=6ada3176d1f7538942a834ab77684533",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【风险提示-已复现】天融信关于PHP反序列化远程代码执行漏洞phpAfterShell（CVE-2026-126714）的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [中亚黑客组织据报利用DeepSeek模型构建人工智能代理窃取敏感信息，警惕我人工智能技术遭恶意利用引发国际声誉风险及周边网络安全压力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650570185&idx=2&sn=d0b56447f1bab7d9d35ecd171c1da82f",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【漏洞通告】Ruby 字符串大小写转换堆越界写入漏洞(CVE-2026-132825)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=3&sn=d3994fc9cd73ceb292a7ed2a9d6f65f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【漏洞通告】VMware vCenter 认证绕过漏洞(CVE-2026-123890)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=2&sn=57ef0f46346644211dab70cf3c236d11",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【漏洞通告】PHP 多个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=1&sn=c9538af4fae785647a200693d9a3f900",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [EchoLeak 漏洞教训我们：所有模型都易受提示词注入攻击",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [Optimizely遭供应链攻击：178家机构网站被植入恶意代码，BBC、CNN等受影响",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544613&idx=1&sn=764fc106602728b2e8f392755283ccd4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【漏洞通告】Ruby远程代码执行漏洞（CVE-2026-132825）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    },
+    {
+        "title": "] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-126714）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-21"
+    }
+]
