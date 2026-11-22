@@ -190,5 +190,275 @@
         "url": "https://mp.weixin.qq.com/s/Bk5Rsa3Dshaxh8OQnuz11A",
         "source": "Doonsec",
         "date_added": "2026-11-22"
+    },
+    {
+        "title": "] [【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存",
+        "url": "https://mp.weixin.qq.com/s/Fq_teDp41s4gh4g0zGWyzg",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "] [PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624361&idx=1&sn=35c1bfcaa62d03b1ebed692d70c5a7f0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "] [【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=2&sn=85167f3d14ddd041423b52b5fed14503",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "] [【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=1&sn=38dfa6a339d62a690035a68d6f9dad4c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "黑客利用NoisyTCP 的新漏洞可导致 Linux 服务器内核崩溃",
+        "url": "https://mp.weixin.qq.com/s/13X6Mb7rqnK6Wu6MaPO17Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "跨域间接提示注入形式化建模",
+        "url": "https://mp.weixin.qq.com/s/pyZfUEpakqZiIG2EqRIi1Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【网络安全】SCA Audit：ARTEX 二开静态代码审计平台",
+        "url": "https://mp.weixin.qq.com/s/8w0OnBgZF_-v3EJMDOUceA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "从测绘索引里消失：子域名加反代白名单，挡掉 99.9% 的 0day 轰炸",
+        "url": "https://mp.weixin.qq.com/s/yoKJMLP1efCCo3elwBFH-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "11月22日高危漏洞汇总：9 个在野利用、9 个紧急",
+        "url": "https://mp.weixin.qq.com/s/ldk0o9P-7_UMCinU8MYliA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "VMware vCenter 严重漏洞被广泛利用",
+        "url": "https://mp.weixin.qq.com/s/lHSokLMYm8_zxuzyIaEOZw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "C2 藏进 Yggdrasil 网状网：ESET 拆解 MythicRatatoskr 后门与 Sandworm 破坏收尾",
+        "url": "https://mp.weixin.qq.com/s/zJvw36k9c7c-nsgiR4OIoQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Upload2Shell漏洞曝光，WordPress、邮件及打印服务器均受影响",
+        "url": "https://mp.weixin.qq.com/s/tivIQ1FX6O8ScDTLaJ8Vig",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "每周PDF资源：一种验证码爆破漏洞的全新思路；证书站的漏洞报告；渗透逆向利器",
+        "url": "https://mp.weixin.qq.com/s/dCh9kggckJlRgOmXOopJtw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Windows Admin Center 认证反射提权：低权限域用户直达 SYSTEM 与 Golden Certificate（CVE-2026-26119）",
+        "url": "https://mp.weixin.qq.com/s/woansf2MBWwVuBkEUJrGvg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "[工具推荐]一款覆盖SQL 注入-越权检测-渗透字典的bp综合检测插件-XzhScan",
+        "url": "https://mp.weixin.qq.com/s/cOOgXfBAu48B9XuT3On9QA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CVE-2026-99288 · 藏了 11 年的 NoisyTCP：不用登录，远程打崩 Linux 服务器",
+        "url": "https://mp.weixin.qq.com/s/YnefOmny2Ov3EZdw4ZD1jQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "刚刚爆出！Windows 11 0day漏洞， 绕过锁屏，执行代码",
+        "url": "https://mp.weixin.qq.com/s/m0XnBY3PifCSURVoiPHWfw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "从配置包上传到满分RCE漏洞挖掘之路",
+        "url": "https://mp.weixin.qq.com/s/2iPoguR8_nLIHPDRgMPIjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "T00ls论坛 注册邀请码校验绕过复现",
+        "url": "https://mp.weixin.qq.com/s/eIviQYTjZEkro89InBuXAQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "VMware vCenter 零日认证绕过漏洞，可直接接管虚拟化平台",
+        "url": "https://mp.weixin.qq.com/s/D5Xyj7zLjpSDjl5ZX3wsew",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "漏洞来袭｜NGINX2Root CVE-2026-123007，无认证远程拿下服务器",
+        "url": "https://mp.weixin.qq.com/s/GVskh3rXYlyMaRGrl30GfQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "T00ls论坛 注册邀请码校验绕过复现",
+        "url": "https://mp.weixin.qq.com/s/6RHZli12EDMIHZD5YosWaA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "GPGME 重大内存安全漏洞曝光: 潜伏24年的Double Free缺陷，可通过恶意签名数据窃取应用内存信息",
+        "url": "https://mp.weixin.qq.com/s/E4APAWF1dhan2ynl4OWDpA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Upload2Shell: Ghostscript严重漏洞可绕过安全沙箱实现远程命令执行(CVE-2026-125396)",
+        "url": "https://mp.weixin.qq.com/s/j08a20B8Sfechz_eawq1xg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "一仓库横扫 Java 生态高危漏洞！19 大模块、数百个可运行 PoC 的 Java 安全漏洞复现实验室",
+        "url": "https://mp.weixin.qq.com/s/juon_7EYofhj4otsHJJWtg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【独家情报】帆软FineReport  FVS插件未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/PxVhBq9pyu2un1OpL3ggrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "AI时代如何守护软件供应链安全？",
+        "url": "https://mp.weixin.qq.com/s/_Bp3vF0aLaDlUh97BjspdA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "漏洞复现 | 用友时空KSOA PrintZPZP.jsp 存在SQL延时注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/Z6ohPdsjS80vlmDLDmNCjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【重磅】Zabbix 漏洞利用全集：从弱口令到域控，监控系统攻击路径全解析",
+        "url": "https://mp.weixin.qq.com/s/N5jz1rG7yAf7jSiQ5SHiOw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CRLF注入-一个回车把响应劈成两半",
+        "url": "https://mp.weixin.qq.com/s/xmGwEQfNq68JQ0HSpsk_BQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "从外网打点到域控权限！外网渗透、MSF 派生 CS、内网横向移动全流程",
+        "url": "https://mp.weixin.qq.com/s/YHOv3FeJNmUdMRLg2OIBsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Windows 11 锁屏绕过零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/ClklkGnmja-Q71EG2O61ww",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "一次简单的内网渗透靶场练习",
+        "url": "https://mp.weixin.qq.com/s/kjoV81ekGbm4uQfn9E_arg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "威胁与漏洞有什么区别？发现订单越权，为什么还不能说已经泄露",
+        "url": "https://mp.weixin.qq.com/s/X0W-BBGJunVqhMptvn7PbA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Iris C2Agent 深度研判，寄生推理后门劫持本地 AI 会话",
+        "url": "https://mp.weixin.qq.com/s/vJvi7POLoqq6OznuBZ3NgA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "用美亚Qiko人机协同复现2026四川省大数据取证比赛决赛（上）：PC逆向 / 数据分析 / APK / 手机",
+        "url": "https://mp.weixin.qq.com/s/a8zoakdyYydLOmMrzQTMVQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "LibreOffice（CVE-2026-104007 / CVE-2026-104692）漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/BFNAZHPSKrgligwF7SYBTw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "iTerm2严重RCE漏洞曝光: 利用Kitty图像协议注入，查看恶意文件即可执行命令",
+        "url": "https://mp.weixin.qq.com/s/IM24avOEEhtRmm3qeIzBEw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "红队内网渗透神器 Viper：从 kali 部署到拿下第一个会话",
+        "url": "https://mp.weixin.qq.com/s/Db2E-Ni1qO8GTR6GGhupPA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "SRC漏洞挖掘培训课程",
+        "url": "https://mp.weixin.qq.com/s/EX73ImpHD-Gqh9QrwGCjTA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "日本“富岳”超级计算机遭未授权访问，4597名用户信息面临泄露风险",
+        "url": "https://mp.weixin.qq.com/s/l7Klq5BjPolTimamGXhT_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CS 上线之后呢？两步提权打到 SYSTEM，域控明文密码直接到手",
+        "url": "https://mp.weixin.qq.com/s/PYirBTtxZhe29ZcLdcwPeA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "VMware vCenter 零日打了两个月：9.8 分未授权，一条 RPC 拿超管",
+        "url": "https://mp.weixin.qq.com/s/iCpiKw6BgjYrN3U9ji6_4w",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "一段 XML 先反序列化，后认证：Apache Roller CVE-2026-129448 POC （漏洞分析）",
+        "url": "https://mp.weixin.qq.com/s/2eFlm9Ims1-1Se5PEuz0Sw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存",
+        "url": "https://mp.weixin.qq.com/s/Fq_teDp41s4gh4g0zGWyzg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
     }
 ]
