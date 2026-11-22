@@ -1,0 +1,194 @@
+[
+    {
+        "title": "漏洞预警|upload2shell(CVE-2026-125396)Ghostscript沙箱逃逸并能导致命令执行漏洞,抓紧修复",
+        "url": "https://mp.weixin.qq.com/s/egtlRDQA_5ZsS6gwXnGvPg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "「AI渗透测试平台实测：多Agent编排+证据分级+流量留痕（破军Pojun）」",
+        "url": "https://mp.weixin.qq.com/s/20BCMJF_S52woe8aEqTpqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "安天网络行为检测能力升级通告（20261122）",
+        "url": "https://mp.weixin.qq.com/s/uVLmGbbUfbhLbLVwJSSkkA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "快普M6 wsAutoComplete.asmx接口存在SQL注入漏洞 xa0附POC",
+        "url": "https://mp.weixin.qq.com/s/TjeR1kiAYCDfHzHNMxO-zQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "漏洞复现 | 云时空社会化商业ERP系统 validateLoginName 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/X1k0diFbO_D0oAWmrEODmg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root",
+        "url": "https://mp.weixin.qq.com/s/97Dlff8--M9xJTLgSaz2-g",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Apache Tomcat 曝出严重漏洞：远程攻击者可未经身份验证加入受信任服务器集群",
+        "url": "https://mp.weixin.qq.com/s/QJlf0V4RLCLUhacmJZUhrg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "「提示词注入+系统提示词泄露+Agent工具劫持：ZeroLeaks红队扫描器拆解实测」",
+        "url": "https://mp.weixin.qq.com/s/SV5RvydPX32qzbOTNJw-kA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "nginx2root漏洞排查",
+        "url": "https://mp.weixin.qq.com/s/ZqIZGDrDlX6oBQ4-KE8VVg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Java4Shell（CVE-2026-114938）漏洞安全响应指南",
+        "url": "https://mp.weixin.qq.com/s/fqrK-7-pTbXLutaeXAd9Hw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "关于“银狐”系列网络攻击活动利用VPN客户端软件安装包传播木马病毒的预警报告",
+        "url": "https://mp.weixin.qq.com/s/Lrx17ZV2uWGluvNRSUz3og",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261121）",
+        "url": "https://mp.weixin.qq.com/s/UTkqtjwZbQJxNKn6w9mvqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "银狐情报｜官方预警跨境访问工具安装包投毒：过半C2藏身一家香港机房，遭全球封禁清单整体拉黑",
+        "url": "https://mp.weixin.qq.com/s/Fe6daD80PeeSyk2w1lQQrA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "从碰运气到体系化——如何让 LLM 尽可能找全漏洞？",
+        "url": "https://mp.weixin.qq.com/s/mqrp0Th_2DcZzEDoKhnOog",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "AI 时代的漏洞发现与利用趋势",
+        "url": "https://mp.weixin.qq.com/s/2xP3SpT1Nhv4zNv0iolEyQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CVE-2026-31720：摄像头固件里一次没走完的内核栈写穿",
+        "url": "https://mp.weixin.qq.com/s/1mIuGOGYlIV1y5yqw8zVuw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Apache Doris JDBC driver_url 校验绕过 RCE 代码分析：同一个 sink，三条漏网的路",
+        "url": "https://mp.weixin.qq.com/s/xlpj9dKGV_6kzm4tHx1L2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "为什么 AI 代码审计不敢信：一个审计 Harness 的死结、解法与哲学",
+        "url": "https://mp.weixin.qq.com/s/-o6e5djXimlIedlizuPpFg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "大众 ID.4 被实车渗透曝出网络安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/ODouPl7ugzFDZlGw2udMQA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Nginx 多个远程代码执行漏洞(CVE-2026-123007、CVE-2026-123634、CVE-2026-123633",
+        "url": "https://mp.weixin.qq.com/s/VxKsI-kfgPQYZeqY7dKNJg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Vite 远程代码执行漏洞通告【已复现】",
+        "url": "https://mp.weixin.qq.com/s/HWsQm8a6wc9aTJoUBmrJzw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "JAVA远程代码执行高危漏洞预警",
+        "url": "https://mp.weixin.qq.com/s/FFiJZMjlAUTnoKtQ2r82eA",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "弱口令从学生到教师到管理员教务系统登录",
+        "url": "https://mp.weixin.qq.com/s/6-ME-bYRefxxZbW-eeewRg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【安全圈】VMware曝9.8分零日漏洞",
+        "url": "https://mp.weixin.qq.com/s/aHrYQrwqdUoiA1V72L83hQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【成功复现】NocoBase硬编码远程代码执行漏洞(CVE-2026-34156)",
+        "url": "https://mp.weixin.qq.com/s/WSWaULjGzybdxvy1jjtjxQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "java4shell漏洞(CVE-2026-114938)排查",
+        "url": "https://mp.weixin.qq.com/s/3ySMvvkqKNupImMbr1QhXg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "AI 编程背后，开发供应链暗藏哪些安全风险？",
+        "url": "https://mp.weixin.qq.com/s/3Jd9U_1jZOG_B33dAzPQDQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "Chaotic Eclipse 曝光一个新的 Windows 零日漏洞 FastUnlock",
+        "url": "https://mp.weixin.qq.com/s/8SK5uadoBmyvwFFme-QgBQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "华硕警告 Control Center Express 存在严重硬编码密钥漏洞",
+        "url": "https://mp.weixin.qq.com/s/2nSLkpNoXOS6bzGVk8f3Cg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "绕过 Telegram 最新安卓防御可以远程执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/yW-dWtb_ynah-cKjKDKwfw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "连“小黄点”都不亮！Meta安全团队揭秘iOS高危音频漏洞技术细节",
+        "url": "https://mp.weixin.qq.com/s/gf1HlkxP5Y0oxYeGDtD4-w",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【漏洞预警】Next.js 缓存反序列化 RCE(POC已公开)CVE-2026-126187",
+        "url": "https://mp.weixin.qq.com/s/Bk5Rsa3Dshaxh8OQnuz11A",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    }
+]
