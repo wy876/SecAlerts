@@ -460,5 +460,59 @@
         "url": "https://mp.weixin.qq.com/s/Fq_teDp41s4gh4g0zGWyzg",
         "source": "Doonsec",
         "date_added": "2026-11-22"
+    },
+    {
+        "title": "巴别语 BabelTele｜AI大模型破甲渗透新思路，符号化压缩 Prompt，绕开 AI 内容风控",
+        "url": "https://mp.weixin.qq.com/s/K2i-lbW2Q4J_XeXK1-FBlQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CVE-2026-129496：一条被启动日志“种”下的UAF，如何让PHP-FPM worker在第一个请求里执行命令",
+        "url": "https://mp.weixin.qq.com/s/zcDl1tdFAUq-bMVoHipHkg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "CVE-2026-129448：Apache Roller XML-RPC 反序列化——一次不完整的修复，如何让预认证RCE在三天内冲进KEV",
+        "url": "https://mp.weixin.qq.com/s/3u2R1qQrQubc3pOHiPG3dg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "PHP代码审计-YXCMS-任意文件删除到任意文件读取利用链",
+        "url": "https://mp.weixin.qq.com/s/u0FTaslkQsijfriQno4elg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "11月21日漏洞：340条，在野 RCE、制动控制器与反序列化",
+        "url": "https://mp.weixin.qq.com/s/Mele79soUdCElFlKuM4nFw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/SrRKv4FYdMDVZNOxWbXfXg",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）",
+        "url": "https://mp.weixin.qq.com/s/DvGV-RNL_aep-r2G2qPMaQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "如何在 Google 挖到 9 万美元的远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/Pv2tgeJ4L6LG9zrdGRDC8Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
+    },
+    {
+        "title": "【附exp】vcenter 免认证身份绕过 CVE-2026-123890",
+        "url": "https://mp.weixin.qq.com/s/K5uqL2OafzOMHwj-RlR1cw",
+        "source": "Doonsec",
+        "date_added": "2026-11-22"
     }
 ]
