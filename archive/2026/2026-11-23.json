@@ -1,0 +1,200 @@
+[
+    {
+        "title": "JNDI-Injection-Exploit：一条命令拉起 RMI、LDAP、HTTP 三台服务器，JNDI 注入验证从此变成一条链接的事",
+        "url": "https://mp.weixin.qq.com/s/t_K-K239yCXH9CABnf5cHw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【已复现】nginx 多个远程代码执行漏洞（nginx2root）",
+        "url": "https://mp.weixin.qq.com/s/tjcIF5J5_z76-V9LaYzsfA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "AI 已经能把漏洞串成利用链？Cloudflare 实测 Mythos Preview",
+        "url": "https://mp.weixin.qq.com/s/Y5gKucRgo5_2LBJiRijPKQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "H3C ER8300G2路由器 信息泄露漏洞",
+        "url": "https://mp.weixin.qq.com/s/-VNwfkSKxDmm5aC2fSLjIQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "玄刃AI渗透测试平台正式发布，把边界写进架构",
+        "url": "https://mp.weixin.qq.com/s/r2u_osICrck7lRlBJW7-6A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【漏洞预警】PHP爆出时区缓存释放后使用RCE(POC已公开)CVE-2026-129496",
+        "url": "https://mp.weixin.qq.com/s/ypMOe4bQeJ8urUTv17CWtg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "漏洞复现 | 用友NC expertschedule 存在SQL注入漏洞",
+        "url": "https://mp.weixin.qq.com/s/MlbBQEkechPep2Ene-4A7A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "反诈实录｜记一次渗透诈骗平台，又要有缅北人员挨电棒了",
+        "url": "https://mp.weixin.qq.com/s/0iVng3nItBOkI1o5GRcrTQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "一张 jpg 图片，如何在服务器上实现RCE【PoC已公布】",
+        "url": "https://mp.weixin.qq.com/s/i24fBJ7TVCVBpyEAwIT-Hw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Mongoose 堆溢出远程代码执行漏洞已在 7.24 中修复",
+        "url": "https://mp.weixin.qq.com/s/6-0dXOcUwab8ru58xfVdZw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "赛博安全狗：Weblate 2026.11之前版本存在关键级账号接管漏洞CVE-2026-134838 (11.23)",
+        "url": "https://mp.weixin.qq.com/s/nIsAbdYzP5RCsLp7IdrG_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "前端 CSS 类禁用绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s/oNmUuq5p4ro37g3NaHsCzQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "11月22日漏洞：312条，反序列化、认证绕过与路径穿越",
+        "url": "https://mp.weixin.qq.com/s/s7lTuJhokmRgobcq2jDFlQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "多 Agent 协作扫描 - AI代码审计与漏洞挖掘平台",
+        "url": "https://mp.weixin.qq.com/s/pC0RooQCjnEBcZYVPahQRQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "黑客利用Cisco Expressway漏洞CVE-2026-76466入侵俄罗斯机构",
+        "url": "https://mp.weixin.qq.com/s/wtTEYFQlYNi1Z3UAybVVlg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "攻击者的AI代理在医疗影像软件中发现零日漏洞并获得根权限",
+        "url": "https://mp.weixin.qq.com/s/XY7GHzn-jq1x_jiMK8afQQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "CMS漏洞-后台那个上传按钮比前台所有洞都值钱",
+        "url": "https://mp.weixin.qq.com/s/QN9k9SY4uAjeDOSWi93K4Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "一次攻防演练复盘：从 Shiro 默认 Key->内网 270 个库->六百万条业务数据泄露",
+        "url": "https://mp.weixin.qq.com/s/5WmJKwjAEAL9vy7QQJnFDA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "公共对象上的 Content-Type 覆盖导致存储型 XSS",
+        "url": "https://mp.weixin.qq.com/s/imFGNlx_t-_O13Pcq7FUsQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "2026 年蓝队必查的漏洞清单",
+        "url": "https://mp.weixin.qq.com/s/R9AgCP3Xk4TzOtUJP2HaJg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "ARTEX：1.36万星的自托管AI渗透测试平台，双图架构带证据链，AGPL协议可下载",
+        "url": "https://mp.weixin.qq.com/s/YRf9ZXH3mp56hzGNxjdN3A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Burp微信小程序渗透测试利器",
+        "url": "https://mp.weixin.qq.com/s/CS1kFZvGYklzjbKMX4oDWA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "一条请求拿下SYSTEM权限：AhsayCBS CVE-2026-105133/105134技术拆解",
+        "url": "https://mp.weixin.qq.com/s/9l30030CnnnvAA3aDRqihg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "内网渗透权限维持：mimikatz 抓密码+三种后门，重启也能拿回 shell",
+        "url": "https://mp.weixin.qq.com/s/f5B9W-Yn5LXyrs9SEt9pxA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "无认证 RCE 风险！深度拆解 F5 BIG-IP 今日 6 大 9.8 分高危漏洞：从 TMM 内核崩溃到云原生 CNF 排查全攻略",
+        "url": "https://mp.weixin.qq.com/s/4ehJxux8zMn71HakgmJ86Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "漏洞预警 | MongoDB预认证释放后重用漏洞",
+        "url": "https://mp.weixin.qq.com/s/ij4ZQxolg-9OrTw67Z40UA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "漏洞预警 | JeecgBoot SSRF漏洞",
+        "url": "https://mp.weixin.qq.com/s/YX1za-j6EtdjrxiqKmSwbQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "跨国国防和航空航天供应链\\\"180TB\\\"数据泄露",
+        "url": "https://mp.weixin.qq.com/s/o-l2BYIYjN0vQz8AK3NqOg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "为什么每个权限都「最小」，Agent 依然可以删库、外泄与提权——权限的组合效应",
+        "url": "https://mp.weixin.qq.com/s/jAFaarNl8n7HBYZFhGpbUg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "AI 智能渗透测试框架在实际应用中",
+        "url": "https://mp.weixin.qq.com/s/QCnvtsqDnxwyuub1XkPFYw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "AI渗透：没拿到 shell，数据面反而更值钱",
+        "url": "https://mp.weixin.qq.com/s/Y8HjrEp2Rk7h12PO7OttoA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "11年前的Linux内核TCP漏洞NoisyTCP允许黑客无需身份验证即可远程瘫痪服务器",
+        "url": "https://mp.weixin.qq.com/s/Yx522QT-EgES7R5TbLvM7g",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "签名进程里的影子出口：Electron 主进程注入实测与检测",
+        "url": "https://mp.weixin.qq.com/s/ZtaKHADAb604Eb9m7KLNEg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    }
+]
