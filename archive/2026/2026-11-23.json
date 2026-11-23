@@ -196,5 +196,245 @@
         "url": "https://mp.weixin.qq.com/s/ZtaKHADAb604Eb9m7KLNEg",
         "source": "Doonsec",
         "date_added": "2026-11-23"
+    },
+    {
+        "title": "] [【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=2&sn=fa6556997dc76f69e9fe5503d753a9fe",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "] [【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=1&sn=c30ca613b32361daac820495c188a69c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "] [AI渗透：没拿到 shell，数据面反而更值钱",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488284&idx=1&sn=9b6424ab05a91ce286ea6c9fead83c98",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "] [【已复现】Artifex Ghostscript -dSAFER 沙箱绕过漏洞(CVE-2026-125396)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508224&idx=1&sn=2ab11be61822d4389080836c4f6663af",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "] [跨域间接提示注入形式化建模",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497355&idx=1&sn=ddfb08256c271d8101aa6b540ff17472",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "已复现！FineReport FVS 模板未授权导入代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/ZFKLm2hh341Ae2EiE36R4w",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "同一个文件刷了 539 个洞：TOTOLINK 路由器再爆 10 分命令注入",
+        "url": "https://mp.weixin.qq.com/s/YSMbDl9MDKgeXfwp8NLn6Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器",
+        "url": "https://mp.weixin.qq.com/s/M7zahAd4Nk0qTtxWF0-8Gw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【安全圈】CISA紧急预警：VMware与Cisco等四枚高危遭在野利用",
+        "url": "https://mp.weixin.qq.com/s/Z2Z95vEyXCVe4O4XDmdD9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "高危预警｜CVE-2026-76466 Cisco Expressway 未认证 RCE，公网设备可直接 Root（附PoC）",
+        "url": "https://mp.weixin.qq.com/s/g3Mq9KTCDkRzu7N_daBGCA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Cloudflare /cdn-cgi/image/ 中的 XSS",
+        "url": "https://mp.weixin.qq.com/s/j895gsZHvZiwtKGG4WIGJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "渗透测试智能体 ARTEX 遇上免费大模型，能擦出怎样的火花？来看看怎么个事儿！",
+        "url": "https://mp.weixin.qq.com/s/D7uvnev6JswS-M3B1yxK2Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及",
+        "url": "https://mp.weixin.qq.com/s/kVzdBHALBt3mOLfYyBWsKw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "安全能力重构 | D033篇 第三方和供应链入口如何盘点",
+        "url": "https://mp.weixin.qq.com/s/pHKHm4AvhyAptCL_HvZozw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "记一次EDU的空白页渗透",
+        "url": "https://mp.weixin.qq.com/s/FH-6E6cT9QDdj3cFQEy7mw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "GPT-6.2 Astra连破两类0Day漏洞，移动OS隐私与服务端安全告急",
+        "url": "https://mp.weixin.qq.com/s/HOMqKwiy8IOVlGRdUE0d5A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报",
+        "url": "https://mp.weixin.qq.com/s/VnLjK8DyRsP2j2eErWageQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "论坛卖家叫卖VMware vCenter 0Day利用工具，售价3万美元未经验证",
+        "url": "https://mp.weixin.qq.com/s/Fpzcky8m4W3qTQWY2IVULw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "安全419甲方精品采购指南 | 从\\\"发现漏洞\\\"到\\\"判断风险\\\"：基调听云ASPM的AI研判新范式",
+        "url": "https://mp.weixin.qq.com/s/otlzhPXQOQ7wwCNIri0SCQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "预警丨防范OpenJDK缓冲区溢出高危漏洞",
+        "url": "https://mp.weixin.qq.com/s/ObFxacTKk-AbPOCwHLojRw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "CVE-2026-123890| vCenter 零日漏洞全链路拆解【附EXP】【附应急思路】",
+        "url": "https://mp.weixin.qq.com/s/KYbUTsp2KjrmdT9HuGvCNA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析",
+        "url": "https://mp.weixin.qq.com/s/ImNvwVyuMjo670C5yW1ItQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "VMware vCenter 身份验证绕过目录服务漏洞(CVE-2026-123890)，可完全控制受影响的系统,附利用poc",
+        "url": "https://mp.weixin.qq.com/s/6_hEEflYu2WkeWokA697-g",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "把 AI 接入安全运营，告警研判、应急响应、漏洞管理一套搞定",
+        "url": "https://mp.weixin.qq.com/s/26C5h5_Wzsl9Tf0H7S0QYw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【漏洞复现】LangChain-ChatChat未授权MCP服务器注入RCE(CVE-2026-30617)",
+        "url": "https://mp.weixin.qq.com/s/kDQkCaKp53-AXgDLZqSTEQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "关于防范OpenJDK缓冲区溢出高危漏洞的风险提示",
+        "url": "https://mp.weixin.qq.com/s/K94B8qdDVNwH2GBFxTGXhQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "F5紧急修复多个严重的 BIG-IP RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s/f0M3PnWMJLilu3POOSwJBw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞",
+        "url": "https://mp.weixin.qq.com/s/TxB1rOf9bo4GFznT4tcOGA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "雷神众测漏洞周报2026.11.16-2026.11.22",
+        "url": "https://mp.weixin.qq.com/s/mm92RXnIHc46pzQSYx0IWg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "网数中心关于开展“渗透测试服务资质认证”业务的通知",
+        "url": "https://mp.weixin.qq.com/s/4NRTV0Hn2EiY2BWrIGUqmg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "「AI Agent沙箱microVM隔离+密钥注入：9千星microsandbox拆解与14个安全公告」",
+        "url": "https://mp.weixin.qq.com/s/MB6R_cFXjNs8IH0ATfxkXA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "你的堆正在出卖你：从 Cobalt Strike 配置直扫到 HeapExplorer 堆取证",
+        "url": "https://mp.weixin.qq.com/s/msow1Pz7b-D74Lfb7mN7uQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Ghostscript “Upload2Shell”漏洞：经 ImageMagick 链路可让 WordPress 站点遭远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/HxYglAPSICipGmnl247x0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "某系统组合拳前台RCE-模板注入",
+        "url": "https://mp.weixin.qq.com/s/E4MI1jWTWyK6UjChQRWvqA",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "ARTEX自动化渗透挖洞体系搭建&amp;新人AI挖洞规范看法",
+        "url": "https://mp.weixin.qq.com/s/D4AEi9FoiAvqIb0Qe4A54w",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "网数中心关于开展“渗透测试服务资质认证”业务的通知",
+        "url": "https://mp.weixin.qq.com/s/sKV81Hda8AjOu8JRKqLr7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "在 iTerm2 里 cat 一个文件，命令就执行了：一次终端转义注入的漏洞复盘",
+        "url": "https://mp.weixin.qq.com/s/zFpNGdbBo9LHs2dVWaAN5Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "Agent 记忆不是笔记本 ，持久化上下文如何把一次提示词注入变成长期控制",
+        "url": "https://mp.weixin.qq.com/s/WubBikJ__BmYdjohfqUPnw",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "HTB PingPong 靶机：跨林信任的六段提权链",
+        "url": "https://mp.weixin.qq.com/s/AO4MI97kV_OWnP6c7CIY5A",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第十六天】【高危】数据完整性破坏：注册中心实例元数据投毒",
+        "url": "https://mp.weixin.qq.com/s/yhhhZQoIiKnKpKuLkJC8gg",
+        "source": "Doonsec",
+        "date_added": "2026-11-23"
     }
 ]
