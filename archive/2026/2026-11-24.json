@@ -1,0 +1,278 @@
+[
+    {
+        "title": "] [雷神众测漏洞周报2026.11.16-2026.11.22",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504037&idx=1&sn=ebf6c4bd93a334e7891d8aabdc592297",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=2&sn=445f90ed290803183aa6a74d8ada6a0d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [F5紧急修复多个严重的 BIG-IP RCE 漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [漏洞利用成功率53.5%：GPT-6.2网安能力达Critical，系统卡里藏着三个更危险的信号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=1&sn=3e2da4a9d685ed29b61501f774d85960",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539006&idx=1&sn=c6c9fbcaeaf2490de4feac11cbee2580",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [【安全圈】CISA紧急预警：VMware与Cisco等四枚高危遭在野利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=3&sn=cd19a06b8fed5919a4de9fec4b756e3a",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "] [【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=2&sn=0979762f073753e029a45dc071f89129",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "今日速递｜BCD 只读枚举也会触发 UEFI 固件同步、Frida 17.27.5 修好 Windows 线程句柄泄漏、Ghostscript 沙箱逃逸经文件上传打到服务器",
+        "url": "https://mp.weixin.qq.com/s/YbsV-NYniazmqBkV0g4zUg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "6 个 WordPress 插件内置严重后门：黑客无需登录即可执行命令",
+        "url": "https://mp.weixin.qq.com/s/AttLHkmYk_JuPDbppjdkKA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "渗透测试 Agent 平台 - 全链哨兵",
+        "url": "https://mp.weixin.qq.com/s/C_iKRr1qi3OhomNNZM2LSA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【一天一个nacos漏洞·第十七天】【高危】认证绕过 + 开放重定向：OIDC 登录链路两处缺陷",
+        "url": "https://mp.weixin.qq.com/s/u3o3Uxvov5-zFtotT5pzyg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "帆软 FineReport FVS 插件未授权 RCE 代码分析",
+        "url": "https://mp.weixin.qq.com/s/CgXGY1_ajQBL6_GkfSX9aw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "原创漏洞 | VMware vCenter Server 未授权管理员用户创建漏洞",
+        "url": "https://mp.weixin.qq.com/s/jkjqyaXmwlAi2LBNhnoAeA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "基础安全产品系列 | 捷普漏洞扫描系统",
+        "url": "https://mp.weixin.qq.com/s/kRKuKxs_VAcRKUzIF1ICTQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "蓝牙漏洞可远程操控拖车刹车！Elecbrakes控制器曝出3个安全漏洞",
+        "url": "https://mp.weixin.qq.com/s/blE4YeTEaxuZM5RMrbr35A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "开源AI渗透测试框架Cairn现身真实攻击，自主Agent可利用0Day入侵",
+        "url": "https://mp.weixin.qq.com/s/7AgMBuFYhVqrbwz_7sFayA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "思科Expressway漏洞遭在野利用，攻击者可获完整root权限",
+        "url": "https://mp.weixin.qq.com/s/e-fhr0KYLl0mSnCkYT63Ww",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Node.js流行库simple-git爆严重漏洞，可导致远程代码执行",
+        "url": "https://mp.weixin.qq.com/s/S5VYp0qilKM2z0L7QhiiJw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "漏洞膨胀的真相：4 万条告警为什么只留下 250 条",
+        "url": "https://mp.weixin.qq.com/s/31dS1Gq60g7tFtqFwYxLkw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "MCPHub 高危漏洞实录：零凭证访问与授权后命令执行",
+        "url": "https://mp.weixin.qq.com/s/nMIaNT3aG6Am24M_UskOMg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "用 AI 做代码审计，长亭送你一套完整落地方案！",
+        "url": "https://mp.weixin.qq.com/s/wY1YoZh2KYE4nkkjsPg6Fg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【漏洞通告】Spring Data Elasticsearch SpEL表达式注入漏洞（CVE-2026-123886）",
+        "url": "https://mp.weixin.qq.com/s/wRlLLYI7h1EGSDQ1eOdg9w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "漏洞挖掘实战：从月入几百到几万，我的 SRC 掘金之路",
+        "url": "https://mp.weixin.qq.com/s/OSLUGZgH2U-UvkuGAM-sUA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "古法渗透测试之403绕过技巧",
+        "url": "https://mp.weixin.qq.com/s/ke-dMM_1rrFHCPiIDMOF8w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "年度收官钜惠 | CISP-PTE渗透测试工程师认证，2612期培训即将开班",
+        "url": "https://mp.weixin.qq.com/s/V4diBlTGMLE8cLZWNmqS5w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "一体化 AI 渗透 Agent，Web / 小程序 / 移动端安全测试、MITM 与 Fuzz 工作台",
+        "url": "https://mp.weixin.qq.com/s/zmHI7BeAfjxq2te-alNibQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】漏洞通告 | Windows Remote Access API 本地权限提升漏洞(CVE-2026-119853)",
+        "url": "https://mp.weixin.qq.com/s/qv-16brQHWdRqJkaE-1n-A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "11月23日漏洞统计：203条，6条重点",
+        "url": "https://mp.weixin.qq.com/s/iQpMZezlgM9EkYMGl76YHw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "大众汽车蓝牙漏洞可暴露对话、泄露GPS位置及控制车内功能",
+        "url": "https://mp.weixin.qq.com/s/dppenauoQVqTXzygW9evag",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CISA：这个思科 RCE 漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s/yNZxsGNYPLoowXCpBCEOZw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "APP渗透测试之基础环境配置",
+        "url": "https://mp.weixin.qq.com/s/i2gYi3UckCxHUGxGkpG_RA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "团队招聘｜云产品安全保障专家（资产与供应链）",
+        "url": "https://mp.weixin.qq.com/s/vNke62KFuyRJBuP1x0ymUw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】帆软 FineReport FineVis（FVS）插件未授权远程代码执行漏洞(QVD-2026-115643)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/4DXlPVgT6C-jXpjSI8HGUQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "利用邮箱漏洞寻找突破口打穿目标内网",
+        "url": "https://mp.weixin.qq.com/s/tKi7ag9kJFy_rSTarurK8g",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Muse存在漏洞可导致聊天记录被黑客窃取！",
+        "url": "https://mp.weixin.qq.com/s/6GIcM3XoSm5dmMEthPwNgw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【漏洞预警】卡车卫星定位系统命令执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/lbxXL2c4xWm8xselJYqWjA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "近期0day复现到 ARTEX 自动化攻击测试，这款WAF神了",
+        "url": "https://mp.weixin.qq.com/s/kPAkeGK7cR_7v9_1ZLqhvQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "云天 · 安全通告（2026年11月24日）",
+        "url": "https://mp.weixin.qq.com/s/64P37qfaXpzQ8wSHNbSkBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CNVD漏洞周报2026年第46期",
+        "url": "https://mp.weixin.qq.com/s/DcE4zNCQ9LesmwXCOZc3bQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "分享三例有趣的登录逻辑漏洞",
+        "url": "https://mp.weixin.qq.com/s/H7iQtzuYnvTT4C8_pHJywQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "快思考对付提示注入：Elastic 四个 System 1 分类器在 ingest 管道内毫秒级打分",
+        "url": "https://mp.weixin.qq.com/s/GQk1YEzfBiqaTkSZUt_w0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "35岁被优化后，我把路走宽了：一份能直接上手的漏洞平台清单",
+        "url": "https://mp.weixin.qq.com/s/Fmmx5JM-vgIE2lefw1DGpA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "服务端高危系第03篇  一张头像，传进一个后门  文件漏洞",
+        "url": "https://mp.weixin.qq.com/s/nKJbTOhVcVrOCkWoJih8vg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "CSRF 的信任盲区：Referer 校验与 Token 的绕过图谱",
+        "url": "https://mp.weixin.qq.com/s/yPJOgB8gvTmr9fJKneWANg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】Windows Remote Access API 本地权限提升漏洞(CVE-2026-119853)安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/reNfMXK_EePqRNnq1mGitg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    }
+]
