@@ -274,5 +274,125 @@
         "url": "https://mp.weixin.qq.com/s/reNfMXK_EePqRNnq1mGitg",
         "source": "Doonsec",
         "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】GeoServer未认证远程代码执行漏洞（CVExa0链）安全风险通告",
+        "url": "https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】GeoServer 认证前远程代码执行漏洞利用链",
+        "url": "https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "小程序渗透新玩法：AI动静结合自动挖洞，看完直接上手",
+        "url": "https://mp.weixin.qq.com/s/2xw5xPlquOo_f1G3wbAolQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "学渗透的第一个模块，不是装Kali，是搞清楚“你什么时候会进去”",
+        "url": "https://mp.weixin.qq.com/s/qos-OVsybucNtscMpU6IkQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "你扫的是源代码，攻击者读的是你正在发布的那个字节——JS硬编码密钥的2026年真相",
+        "url": "https://mp.weixin.qq.com/s/i6OJXQWsps5ZQadWR3CfZA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Fastjson 漏洞",
+        "url": "https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理",
+        "url": "https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【附exp】geoserver 未授权RCE！五个cve组合拳！",
+        "url": "https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "已复现！GeoServer 前台远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/qVXepsjAOLjty6Q6J1mxYg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "大洞速修！GeoServer RCE 漏洞！",
+        "url": "https://mp.weixin.qq.com/s/yzagzLrLlerbda6l2Q0VPA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【高危漏洞预警】GeoServer未认证远程代码执行漏洞链（CVE-2026-129242 等 5 个 漏洞）",
+        "url": "https://mp.weixin.qq.com/s/CdlrAdsnyqxDLsMs7fHz_A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【速修】GeoServer 未授权远程代码执行漏洞(含POC)",
+        "url": "https://mp.weixin.qq.com/s/c3Jg0ZhMH2ceFFvorvf_Qg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】GeoServer 未认证远程代码执行漏洞（CVE-2026-129242 等 5 个 CVE）",
+        "url": "https://mp.weixin.qq.com/s/8t8s8R-u2iDTS3UnoFLyIA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "大模型攻防渗透测试靶场",
+        "url": "https://mp.weixin.qq.com/s/8Rl-QMgaiSOqycYMtl_sZA",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "SSH漏洞：一个257字节的密码如何绕过Alpine Linux上的OpenSSH身份验证",
+        "url": "https://mp.weixin.qq.com/s/pewsk4ysYzIS4ppz89BE8A",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Agent渗透测试时的-省钱小技巧",
+        "url": "https://mp.weixin.qq.com/s/TqsdgGVM_c5AYkLw57_Z4Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "Agent渗透测试时的-省钱小技巧",
+        "url": "https://mp.weixin.qq.com/s/CfYaWGsa7nOIKp5JvAF0eg",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "cookie_secure缺失漏洞实验",
+        "url": "https://mp.weixin.qq.com/s/pN9viibCUo5LW32uxB54gw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "6款WordPress插件藏后门，能远程写shell CVE-2026-135202",
+        "url": "https://mp.weixin.qq.com/s/oDAejSiqYcgDG1N4oC-osw",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
+    },
+    {
+        "title": "【已复现】CVE-2026-123903 VMware vCenter Server 389端口该未授权管理员创建漏洞",
+        "url": "https://mp.weixin.qq.com/s/LzAy5IJA-IlQs_PHylMb7w",
+        "source": "Doonsec",
+        "date_added": "2026-11-24"
     }
 ]
