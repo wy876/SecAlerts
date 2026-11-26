@@ -280,5 +280,341 @@
         "url": "https://mp.weixin.qq.com/s/lIB_1TBAG9DDavzRKBsSnA",
         "source": "Doonsec",
         "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【已复现】一次失败认证即可创建管理员——VMware vCenter 认证绕过漏洞（CVE-2026-123903）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493598&idx=1&sn=899540bf708cb2de1abeae080790a194",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [CNCERT：关于GeoServer存在远程代码执行漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516946&idx=2&sn=352fd8bf49168ca1847211789046e56b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [欢迎报名学习 | AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624483&idx=3&sn=3723101ea3a6f504a567a71372f27b0c",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [Palo Alto 确认 Fragnesia 漏洞遭在野利用，攻击者可获取防火墙 Root 权限",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624483&idx=2&sn=13a8727ea8f92e5c6a13ae495432be1b",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [DataCon赛前解读-智能化漏洞环境复现专项赛早知道",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489758&idx=1&sn=ee69995dfec27b686fa9cfed043dd51d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485902&idx=2&sn=c9c3a3cd00a910127f7482052b6212f6",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [Elecbrakes蓝牙存在严重漏洞，可用于控制行驶中的拖车刹车制动力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527826&idx=2&sn=04a42d8ee5434e0a37931c13f87f86be",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [VMware vCenter 修复严重的认证绕过漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527826&idx=1&sn=96a00b03b30569e66abbe3f725f6f1f7",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【风险提示-已复现】天融信关于GeoServer未认证远程代码执行漏洞链的风险提示",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497135&idx=1&sn=38665ad3d96449e6732a77f8b6f5ef14",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【原创】面向游戏玩家的供应链攻击：DLSS 5 Swapper 官网安装包被替换",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521528&idx=1&sn=6633daf792ad9501abfb9865bf28cec1",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【漏洞通告】Microsoft Windows 远程访问 API 自定义拨号器本地权限提升漏洞（CVE-2026-119853）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526564&idx=2&sn=5a244b62d3003fe55601fe08be69ccaf",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【漏洞通告】GeoServer 认证前远程代码执行漏洞利用链(CVE-2026-129242 等)",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526564&idx=1&sn=8299bac7d2c75d1a0804de094f9efbf0",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【安全圈】单比特修改击穿代码完整性：谷歌披露.NET内核漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080056&idx=3&sn=3bb92f2f5718e148e60b31509a53ae07",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【安全圈】Mware曝9.8分高危越权：vCenter目录服务再遭突破",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080056&idx=2&sn=3241348bb1eaf2254cc0a28b11f7c3a1",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【漏洞通告】VMware vCenter Server身份认证绕过漏洞（CVE-2026-123903）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494326&idx=2&sn=75c5ad1f4323892c18ceff3a1a5950cd",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [【漏洞通告】GeoServer多个高危漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494326&idx=1&sn=0024f2b1ed3f2501f3eed5b511583632",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "] [关于GeoServer存在远程代码执行漏洞的安全公告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497548&idx=1&sn=087b8e086a411270e0d5112acaca6303",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "开源红队 Agent 平替｜AgenticPenTest，范围管控 + 任务断点续跑、支持云资产巡检、多模板渗透报告一站式输出",
+        "url": "https://mp.weixin.qq.com/s/nDKWnziCxkNny9AZqG56wQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "安全工具丨AI渗透测试系统。给它一个URL，自动完成JS分析、接口发现、漏洞利用和报告生成。",
+        "url": "https://mp.weixin.qq.com/s/aqIwcymf2Zcs6c42tXXSBg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "Optimizely 供应链攻击导致多家知名品牌网站感染恶意软件",
+        "url": "https://mp.weixin.qq.com/s/JQ9ijN1ToYI50IQV8W2wBQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "AI 渗透最怕的不是不会用，是把幻觉当成了漏洞",
+        "url": "https://mp.weixin.qq.com/s/kmtbmJANlf4X2tTI7c2jGg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "一条 Agent 指令将 HTTP 头注入升级为 CRLF 请求走私，可重定向随机用户至攻击者服务器",
+        "url": "https://mp.weixin.qq.com/s/ueUF0MLEv-W4Y209s377IA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "初探Java安全——反射、类加载与反序列化",
+        "url": "https://mp.weixin.qq.com/s/_11110UvdtThtbMTOJj3MQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "XSS绕过DOMPurify接管Chess.com账号",
+        "url": "https://mp.weixin.qq.com/s/-LuS0zgI3GTMRyWchev0vA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "6种方法 - 在蜜罐里用「提示词注入」做反制",
+        "url": "https://mp.weixin.qq.com/s/b-I9lMfV_9QgrvtgwUovuw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "未认证命令注入 9.8：Juniper SD-WAN 控制器在野被打穿",
+        "url": "https://mp.weixin.qq.com/s/mSAEKufsowB7EPixiJwklA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【已支持检测】VMware vCenter Server vmdir 认证绕过，未认证攻击者可取得管理员会话（CVE-2026-123903）",
+        "url": "https://mp.weixin.qq.com/s/ehNDn5Pf7I8j3bo9mn8L2A",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【安全圈】Drupal紧急修复高危在野漏洞",
+        "url": "https://mp.weixin.qq.com/s/WK5zN7tOKBDVjjRkmfln0Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【漏洞通告】Drupal远程代码执行漏洞（CVE-2026-132165）",
+        "url": "https://mp.weixin.qq.com/s/S71cAQPQ2VZF2oBAyEbbIQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "赏金猎人必看：抠 SVG 规范抠出来的 XSS 骚操作",
+        "url": "https://mp.weixin.qq.com/s/oBYFDNuZwvkpjnpYY7oQqQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "近期0day复现到 ARTEX 自动化攻击测试，这款WAF神了",
+        "url": "https://mp.weixin.qq.com/s/lE-JqLY7o1tuF7zBWPBDyQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "Kyverno CVSS 10.0漏洞：租户可越权访问集群资源",
+        "url": "https://mp.weixin.qq.com/s/C-_wJTRHF7VJmYnDzWhBkQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "黑客利用CVSS 10.0级Hex.pm RCE漏洞，入侵6台包注册服务器",
+        "url": "https://mp.weixin.qq.com/s/fc5g2Yc9lgp241CVVLqGLA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "GeoServer五漏洞组合RCE全链拆解",
+        "url": "https://mp.weixin.qq.com/s/yvkVP5Riu1y4kcUtP_K1Lg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【漏洞复现篇】Geoserver指纹及其最新RCE复现（CVE-2026-1292442等组合拳）",
+        "url": "https://mp.weixin.qq.com/s/-L5KckW9L4ruxulaDVWmBQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "创宇安全智脑通用安全能力升级通告(20261126)",
+        "url": "https://mp.weixin.qq.com/s/UTNgXSX0aUxnxJ6bnurmDw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【免费领】大神12年经验成果：渗透红队实战技术教程",
+        "url": "https://mp.weixin.qq.com/s/Nj4ROUMUWjLIDpNpD9mUzA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "慌啥子嘛！这款渗透测试神器助你封神",
+        "url": "https://mp.weixin.qq.com/s/Tt9n3OLDu8hCa4gCsGrrKA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "我把 AI 渗透测试系统 ARTEX 部署到了自己服务器上：接入本地 Qwen，全程实录",
+        "url": "https://mp.weixin.qq.com/s/TYAyzy73yYSsyWWFGXoHmw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【漏洞预警】GeoServer 认证前远程代码执行漏洞利用链(CVE-2026-129242 等)",
+        "url": "https://mp.weixin.qq.com/s/L17S4JsErPUzIbknl0Duuw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "InfraTrust 提醒注意已遭利用的网络设备供应链漏洞",
+        "url": "https://mp.weixin.qq.com/s/JkDuiDCeg7u9-DDhRg45MA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "安星自主网络防御系统：即挖即补，将漏洞空窗期压缩至分钟级",
+        "url": "https://mp.weixin.qq.com/s/EwGDX16xP3Zeq7SsJ5e2Nw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "一篇带你吃透目前最广泛的注入漏洞！小白想拿下大额赏金必修",
+        "url": "https://mp.weixin.qq.com/s/nf6D18KJ9A9TsJUK54erzg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "AI 挖到漏洞就收工？我给它加了一条 “不许交卷” 的规则",
+        "url": "https://mp.weixin.qq.com/s/gzGb5UcbzvszbB59SRQrYw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "章管家 listUploadIntelligent.htm 存在SQL注入漏洞-漏洞复现poc",
+        "url": "https://mp.weixin.qq.com/s/Za4uPxw5jI6nB2IxJCwHKg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "Java4Shell 深度拆解（CVE-2026-114938）：当 AVX-512 硬件加速反噬 JVM 内存安全",
+        "url": "https://mp.weixin.qq.com/s/U7wYnhAWDvmH9K6SV4oszg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "已复现！nginx2root：NGINX HTTP/2 无需认证远程代码执行漏洞",
+        "url": "https://mp.weixin.qq.com/s/fslIkxGwlyjTJoG4BLIx5A",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "AI挖漏洞最新版-网络安全资料最全合集，用AI挖漏洞赚钱到底该怎么开始",
+        "url": "https://mp.weixin.qq.com/s/jQwUnv1ZDM-db5C7L-c9fA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "五个洞不是五个漏洞：GeoServer 未认证 RCE 链把补丁打穿了",
+        "url": "https://mp.weixin.qq.com/s/lBXpHXJBPOLs4GX7mdvpIw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "Upload2Shell：一个 Ghostscript 漏洞，把文件上传、邮件附件、打印任务全变成 RCE",
+        "url": "https://mp.weixin.qq.com/s/uFCWnVeRjPFyLZtpCb4_mw",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "国家级黑客利用 Fortinet FortiGate 漏洞，针对商用船舶发起攻击",
+        "url": "https://mp.weixin.qq.com/s/DjMgXekksDdilt6mN2iBmg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "【勒索预警】勒索组织已盯上使用飞塔防火墙和域控的企业",
+        "url": "https://mp.weixin.qq.com/s/OJIh184ZXAnUFk-woD7XCg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "[ Re-Exploit ]本公众号关于未更新的『48』天都做了什么？",
+        "url": "https://mp.weixin.qq.com/s/WZXd_MzLOKJeqisZFkQong",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "「关键漏洞目录」新增「Juniper命令注入漏洞」等10个漏洞",
+        "url": "https://mp.weixin.qq.com/s/DT5fTWjDW-D9JHqZdGcVAA",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "不用0day，也能搬空加密机构：百个AI Agent昼夜攻击实录",
+        "url": "https://mp.weixin.qq.com/s/vH6TiUbKUsMtC_NFp3pkeg",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
+    },
+    {
+        "title": "Upload2Shell：从普通文件上传到服务器命令执行——Ghostscript 沙箱逃逸漏洞技术分析",
+        "url": "https://mp.weixin.qq.com/s/FpFrW3bAUdTT320Bb_JOvQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-26"
     }
 ]
