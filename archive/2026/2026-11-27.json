@@ -232,5 +232,83 @@
         "url": "https://mp.weixin.qq.com/s/VykeZ7LmYQ1PJ7JPfOppFA",
         "source": "Doonsec",
         "date_added": "2026-11-27"
+    },
+    {
+        "title": "11月27日的复盘直言不讳：AI生成的payload和脚本，如果没有基础，你连它返回的结果是真是假都分不清",
+        "url": "https://mp.weixin.qq.com/s/8m_2SJOAC8YqP8zFjxf80A",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "XSS 凉了，这门手艺却越来越值钱",
+        "url": "https://mp.weixin.qq.com/s/7mXsVND0BrUCtyrqxOTpRw",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析",
+        "url": "https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "Palo Alto Networks 警告：黑客利用了 Fragnesia 漏洞攻击了 PAN-OS 系统",
+        "url": "https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "JSP 上传绕 WAF：从畸形报文到双上传点组合 Getshell",
+        "url": "https://mp.weixin.qq.com/s/BEjNiKY3gjIvtUXvoYauOA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没",
+        "url": "https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析",
+        "url": "https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "《QAXSRC漏洞评级标准V3.4》 发布说明",
+        "url": "https://mp.weixin.qq.com/s/f1VunneH0UKJXMSVj6zDBw",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "《QAXSRC产品漏洞评级标准V3.4》",
+        "url": "https://mp.weixin.qq.com/s/NVMJT7TdO3MqLy-EEYxajA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "WordPress 插件 9.8 分未授权 RCE",
+        "url": "https://mp.weixin.qq.com/s/h6fFQT27aIeSJFKfbkls0A",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "毕业第一年，怎么把课本知识练成能打的渗透能力",
+        "url": "https://mp.weixin.qq.com/s/6fUyDD-KQZt2oSSd16NTfg",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "【安全圈】Linux内核曝12年老漏洞：NFS2ROOT允许远程提权Root",
+        "url": "https://mp.weixin.qq.com/s/IqIM1dVB6u4NOtrEP7dc5g",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
+    },
+    {
+        "title": "【安全圈】Cacti在野0-day遭公开：仅需4次HTTP请求即可远程RCE",
+        "url": "https://mp.weixin.qq.com/s/PxJmT5Jz1-FfUDn3LSN4GA",
+        "source": "Doonsec",
+        "date_added": "2026-11-27"
     }
 ]
