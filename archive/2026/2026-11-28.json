@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Cacti曝出4HTTP2ROOT零日漏洞: 无需认证，4个HTTP请求即可实现远程命令执行",
+        "url": "https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "11月27日漏洞：448条，OpenScape 满分、文件上传与 SSO 绕过",
+        "url": "https://mp.weixin.qq.com/s/2kOCMxbR_jnaqOFN-qMwZg",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "安全能力重构 | D036篇 一次攻击为什么往往不止一个漏洞",
+        "url": "https://mp.weixin.qq.com/s/MERCrvgaEpI9rM47nFu2IQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "Cryptomator：文件上传网盘前先在本地加密，桌面版免费",
+        "url": "https://mp.weixin.qq.com/s/3uYTFRcw7oV3-0LqJu5bjg",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "四个请求，从游客到 Shell：Cacti 未授权 RCE 深度分析（QVD-2026-117631·附PoC）",
+        "url": "https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "API 渗透测试",
+        "url": "https://mp.weixin.qq.com/s/ZWQmERPM8OHu96OFJMClfw",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "AI 渗透测试智能体，如何保证被测环境安全——从“相信模型”到“约束架构”：五个可落地的控制机制",
+        "url": "https://mp.weixin.qq.com/s/WmnLo8BVcRsc9OKfyx-JHA",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "俄罗斯联邦安全局更新敏感信息清单：隐私、兵源与电磁频谱的全面“保密化”",
+        "url": "https://mp.weixin.qq.com/s/-aeKc4NKk95r_lwljEQOlQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞",
+        "url": "https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    }
+]
