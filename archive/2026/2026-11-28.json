@@ -52,5 +52,77 @@
         "url": "https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw",
         "source": "Doonsec",
         "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [SolarWinds Serv-U 多个严重漏洞可被用于获得 root 权限并接管服务器",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=2&sn=c9631dedc33e3de6e7a37fdd26faf2c7",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [Drupal：站点接管超危漏洞已遭活跃利用",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=1&sn=fac7a708c33af8fa161e4a45247948ab",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [AI加速漏洞发现，但谁来解决漏洞修复难题？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544669&idx=1&sn=cdaa5c64ac63e7b26ae946ceda98e141",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [【安全圈】Cacti在野0-day遭公开：仅需4次HTTP请求即可远程RCE",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=3&sn=eda2b9b2a61749313ce2612c6a945ced",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [【安全圈】Linux内核曝12年老漏洞：NFS2ROOT允许远程提权Root",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=2&sn=34f5dff3800adc37817a255f0e87851d",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [评论 | 切断黑色链条，堵住“简历开盒”漏洞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268789&idx=5&sn=669dd92318a19b913b3ee704e3a25eb3",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [【漏洞通告】Cacti远程代码执行漏洞（4http2shell）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [【漏洞通告】Linux内核NFS越界写入漏洞（CVE-2026-99362）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=1&sn=b554a329de0ef9c022e6e8cc7392d4d4",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "] [Tor Browser曝高危漏洞：恶意网站点击一次即可获取用户真实IP地址",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624654&idx=3&sn=798a28ca968f34b34b9d1c2cffbb6689",
+        "source": "BruceFeIix",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "安天AVL SDK反病毒引擎升级通告（20261128）",
+        "url": "https://mp.weixin.qq.com/s/cPz39NGwGVGTfsr8HUz97Q",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "Fail2Install：把系统限制变成 Drupal 的预认证 RCE",
+        "url": "https://mp.weixin.qq.com/s/bdrmFn0KgQCOzXBdmWzEcQ",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
+    },
+    {
+        "title": "只凭一个 SQL Server 弱口令就能拿下整台 Windows 主机：SqlKnife 把命令执行、权限提升、驻留后门全焊进了一个 3 万行的命令行",
+        "url": "https://mp.weixin.qq.com/s/v7p4OGnUNM9c9SpouUs-Fw",
+        "source": "Doonsec",
+        "date_added": "2026-11-28"
     }
 ]
